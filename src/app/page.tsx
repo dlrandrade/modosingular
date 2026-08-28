@@ -9,12 +9,20 @@ import { CAPITULOS_GRATIS, TOTAL_CAPITULOS } from "@/lib/ritmo";
 export const dynamic = "force-dynamic";
 
 export default async function Landing() {
-  const supabase = await createClient();
-  const { data: { user } } = await supabase.auth.getUser();
-  if (user) redirect("/jornada");
+  let preco = "R$ 19,90";
+  try {
+    const supabase = await createClient();
+    const { data: { user } } = await supabase.auth.getUser();
+    if (user) redirect("/jornada");
 
-  const { data } = await supabase.from("app_settings").select("key,value").eq("key", "preco").maybeSingle();
-  const preco = (data?.value as { label?: string })?.label ?? "R$ 19,90";
+    const { data } = await supabase.from("app_settings").select("key,value").eq("key", "preco").maybeSingle();
+    preco = (data?.value as { label?: string })?.label ?? preco;
+  } catch (e) {
+    // redirect() lança por design — precisa continuar subindo.
+    if (e && typeof e === "object" && "digest" in e &&
+        String((e as { digest?: unknown }).digest).startsWith("NEXT_REDIRECT")) throw e;
+    // Qualquer outra falha: a landing é estática o bastante para renderizar assim mesmo.
+  }
 
   return (
     <>
