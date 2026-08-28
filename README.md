@@ -63,10 +63,11 @@ Copie `.env.example` para `.env.local` (local) e configure as mesmas na Vercel.
 `SUPABASE_SERVICE_ROLE_KEY` e `KIWIFY_CLIENT_SECRET` são **somente servidor** —
 nunca prefixe com `NEXT_PUBLIC_`.
 
-> A Vercel avisa que variáveis `NEXT_PUBLIC_` ficam expostas no navegador.
-> Para `NEXT_PUBLIC_SUPABASE_URL` e `NEXT_PUBLIC_SUPABASE_ANON_KEY` isso é
-> esperado: elas são públicas por design, e a proteção vem do RLS. Mantenha o
-> prefixo — sem ele o app não encontra o banco.
+> **Na Vercel, use os nomes sem prefixo:** `SUPABASE_URL` e `SUPABASE_ANON_KEY`.
+> O app acessa o Supabase apenas pelo servidor (middleware, server components e
+> server actions), então nada precisa ir para o navegador — e sem o prefixo a
+> Vercel não exibe o aviso de exposição pública. Os nomes com `NEXT_PUBLIC_`
+> continuam funcionando, para compatibilidade.
 
 **Se algo estiver faltando, abra `/configuracao`.** A página mostra o estado real
 de cada variável no ambiente (valores mascarados) e aponta o problema exato —

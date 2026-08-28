@@ -20,14 +20,43 @@ function runtime(chave: string): string | undefined {
   return v && v.trim() ? v.trim() : undefined;
 }
 
-/** URL do Supabase, preferindo o valor de runtime. */
-export function supabaseUrl(): string | undefined {
-  return runtime("NEXT_PUBLIC_SUPABASE_URL") ?? limpar(process.env.NEXT_PUBLIC_SUPABASE_URL);
+/* ---------------------------------------------------------------
+   Nomes aceitos.
+
+   O app acessa o Supabase apenas no servidor (middleware, server
+   components e server actions) — nunca no navegador. Por isso o prefixo
+   NEXT_PUBLIC_ é opcional aqui: aceitamos também os nomes sem prefixo,
+   que a Vercel salva sem exibir o aviso de exposição pública.
+---------------------------------------------------------------- */
+
+export const NOMES_URL = ["NEXT_PUBLIC_SUPABASE_URL", "SUPABASE_URL"] as const;
+export const NOMES_CHAVE = [
+  "NEXT_PUBLIC_SUPABASE_ANON_KEY",
+  "SUPABASE_ANON_KEY",
+  "SUPABASE_PUBLISHABLE_KEY",
+] as const;
+
+function primeiro(nomes: readonly string[]): string | undefined {
+  for (const n of nomes) {
+    const v = runtime(n);
+    if (v) return v;
+  }
+  return undefined;
 }
 
-/** Chave anônima/publishable do Supabase. */
+/** Qual nome de variável forneceu o valor — usado no diagnóstico. */
+export function nomeUsado(nomes: readonly string[]): string | undefined {
+  return nomes.find((n) => runtime(n));
+}
+
+/** URL do Supabase. Aceita NEXT_PUBLIC_SUPABASE_URL ou SUPABASE_URL. */
+export function supabaseUrl(): string | undefined {
+  return primeiro(NOMES_URL) ?? limpar(process.env.NEXT_PUBLIC_SUPABASE_URL);
+}
+
+/** Chave publishable/anon. Aceita a versão com ou sem prefixo. */
 export function supabaseAnonKey(): string | undefined {
-  return runtime("NEXT_PUBLIC_SUPABASE_ANON_KEY") ?? limpar(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
+  return primeiro(NOMES_CHAVE) ?? limpar(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
 }
 
 function limpar(v: string | undefined): string | undefined {
@@ -64,21 +93,21 @@ export function checarConfig(): EstadoConfig {
   const anon = supabaseAnonKey();
   const problemas: string[] = [];
 
-  if (!url) problemas.push("NEXT_PUBLIC_SUPABASE_URL não está definida.");
+  if (!url) problemas.push("A URL do Supabase não está definida (NEXT_PUBLIC_SUPABASE_URL ou SUPABASE_URL).");
   else if (!urlValida(url)) {
     problemas.push(
       chaveValida(url)
-        ? "NEXT_PUBLIC_SUPABASE_URL contém uma CHAVE, não uma URL. Os dois campos foram trocados."
-        : "NEXT_PUBLIC_SUPABASE_URL não é uma URL https:// válida.",
+        ? "A variável da URL contém uma CHAVE. Os dois campos foram trocados."
+        : "A URL do Supabase não é um endereço https:// válido.",
     );
   }
 
-  if (!anon) problemas.push("NEXT_PUBLIC_SUPABASE_ANON_KEY não está definida.");
+  if (!anon) problemas.push("A chave do Supabase não está definida (NEXT_PUBLIC_SUPABASE_ANON_KEY ou SUPABASE_ANON_KEY).");
   else if (!chaveValida(anon)) {
     problemas.push(
       urlValida(anon)
-        ? "NEXT_PUBLIC_SUPABASE_ANON_KEY contém uma URL, não uma chave. Os dois campos foram trocados."
-        : "NEXT_PUBLIC_SUPABASE_ANON_KEY não parece uma chave do Supabase.",
+        ? "A variável da chave contém uma URL. Os dois campos foram trocados."
+        : "O valor informado não parece uma chave do Supabase.",
     );
   }
 

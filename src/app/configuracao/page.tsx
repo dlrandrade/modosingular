@@ -1,5 +1,5 @@
 import { Marca } from "@/components/Marca";
-import { checarConfig, urlValida, chaveValida } from "@/lib/env";
+import { checarConfig, urlValida, chaveValida, nomeUsado, NOMES_URL, NOMES_CHAVE, supabaseUrl, supabaseAnonKey } from "@/lib/env";
 
 export const metadata = { title: "Configuração pendente" };
 export const dynamic = "force-dynamic";
@@ -20,20 +20,24 @@ function amostra(v: string | undefined, publico: boolean): string {
 export default function Configuracao() {
   const estado = checarConfig();
 
-  const runtimeUrl = noRuntime("NEXT_PUBLIC_SUPABASE_URL");
-  const runtimeAnon = noRuntime("NEXT_PUBLIC_SUPABASE_ANON_KEY");
+  const runtimeUrl = supabaseUrl();
+  const runtimeAnon = supabaseAnonKey();
+  const viaUrl = nomeUsado(NOMES_URL);
+  const viaChave = nomeUsado(NOMES_CHAVE);
 
   const variaveis = [
-    { nome: "NEXT_PUBLIC_SUPABASE_URL", valor: runtimeUrl, publico: true, essencial: true,
+    { nome: viaUrl ?? "SUPABASE_URL", alternativas: NOMES_URL as readonly string[],
+      valor: runtimeUrl, publico: true, essencial: true,
       valida: urlValida(runtimeUrl), esperado: "https://….supabase.co" },
-    { nome: "NEXT_PUBLIC_SUPABASE_ANON_KEY", valor: runtimeAnon, publico: false, essencial: true,
+    { nome: viaChave ?? "SUPABASE_ANON_KEY", alternativas: NOMES_CHAVE as readonly string[],
+      valor: runtimeAnon, publico: false, essencial: true,
       valida: chaveValida(runtimeAnon), esperado: "sb_publishable_… ou JWT" },
-    { nome: "SUPABASE_SERVICE_ROLE_KEY", valor: noRuntime("SUPABASE_SERVICE_ROLE_KEY"),
+    { nome: "SUPABASE_SERVICE_ROLE_KEY", alternativas: undefined, valor: noRuntime("SUPABASE_SERVICE_ROLE_KEY"),
       publico: false, essencial: true,
       valida: chaveValida(noRuntime("SUPABASE_SERVICE_ROLE_KEY")), esperado: "JWT (só servidor)" },
-    { nome: "NEXT_PUBLIC_SITE_URL", valor: noRuntime("NEXT_PUBLIC_SITE_URL"), publico: true, essencial: false,
+    { nome: "NEXT_PUBLIC_SITE_URL", alternativas: undefined, valor: noRuntime("NEXT_PUBLIC_SITE_URL"), publico: true, essencial: false,
       valida: urlValida(noRuntime("NEXT_PUBLIC_SITE_URL")), esperado: "https://seu-dominio" },
-    { nome: "KIWIFY_WEBHOOK_TOKEN", valor: noRuntime("KIWIFY_WEBHOOK_TOKEN"),
+    { nome: "KIWIFY_WEBHOOK_TOKEN", alternativas: undefined, valor: noRuntime("KIWIFY_WEBHOOK_TOKEN"),
       publico: false, essencial: false,
       valida: Boolean(noRuntime("KIWIFY_WEBHOOK_TOKEN")), esperado: "token do webhook" },
   ];
@@ -67,10 +71,18 @@ export default function Configuracao() {
               <p className="text-[15px] font-semibold mb-1.5">
                 As variáveis não existem neste ambiente.
               </p>
-              <p className="text-[14px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
-                Em <b>Settings → Environment Variables</b>, cadastre as duas primeiras da tabela
-                marcando <b>Production</b>. Se você já cadastrou, confira se marcou o ambiente
-                Production (e não só Preview) e se não sobrou espaço ou aspas no valor.
+              <p className="text-[14px] leading-relaxed mb-3" style={{ color: "var(--ink-2)" }}>
+                Em <b>Settings → Environment Variables</b>, cadastre estas duas marcando{" "}
+                <b>Production</b>:
+              </p>
+              <div className="rounded-lg p-3 mb-3" style={{ background: "var(--bg-2)" }}>
+                <code className="block text-[12.5px] mb-1">SUPABASE_URL</code>
+                <code className="block text-[12.5px]">SUPABASE_ANON_KEY</code>
+              </div>
+              <p className="text-[13.5px] leading-relaxed" style={{ color: "var(--ink-3)" }}>
+                Sem o prefixo <code>NEXT_PUBLIC_</code> — assim a Vercel não exibe o aviso de
+                exposição pública. O app só acessa o Supabase pelo servidor, então o prefixo é
+                dispensável. Os nomes com prefixo continuam funcionando, se preferir.
               </p>
             </>
           ) : estado.ok ? (
@@ -116,6 +128,9 @@ export default function Configuracao() {
                     {!v.valida && (
                       <div className="text-[11.5px] mt-1" style={{ color: "var(--ink-3)" }}>
                         esperado: {v.esperado}
+                        {v.alternativas && (
+                          <> · aceita: {v.alternativas.join(" ou ")}</>
+                        )}
                       </div>
                     )}
                     {!v.valor && !v.essencial && (
@@ -137,8 +152,8 @@ export default function Configuracao() {
           </div>
           <ul className="space-y-2 text-[13.5px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
             <li>
-              O aviso da Vercel sobre <code>NEXT_PUBLIC_</code> expor valores é esperado:
-              essas duas variáveis são públicas por design. A proteção vem do RLS.
+              Prefira os nomes sem <code>NEXT_PUBLIC_</code>. O app acessa o Supabase apenas
+              pelo servidor, então nada precisa ir para o navegador.
             </li>
             <li>
               <code>SUPABASE_SERVICE_ROLE_KEY</code> e as chaves da Kiwify
