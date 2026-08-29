@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useTransition } from "react";
+import { useEffect, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import type { Capitulo } from "@/content/types";
 import {
@@ -47,7 +47,15 @@ export function LeitorInterativo({
 
   /* ----------------------------------------------------------- teste */
   const [teste, setTeste] = useState<Record<string, number>>({});
-  const [resTeste, setResTeste] = useState<{ soma: number; faixa: { titulo: string; leitura: string } } | null>(null);
+  const [resTeste, setResTeste] = useState<
+    { soma: number; faixa: { min: number; max: number; titulo: string; leitura: string } } | null
+  >(null);
+  const refResultado = useRef<HTMLDivElement>(null);
+
+  // O resultado é a recompensa de responder o teste inteiro: leva a tela até ele.
+  useEffect(() => {
+    if (resTeste) refResultado.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+  }, [resTeste]);
   const testeCompleto = cap.teste ? cap.teste.itens.every((i) => teste[i.id] > 0) : true;
 
   /* ------------------------------------------------------- pontuação */
@@ -136,12 +144,36 @@ export function LeitorInterativo({
               {testeCompleto ? "Ver meu resultado" : `Responda os ${cap.teste.itens.length} itens`}
             </button>
           ) : (
-            <div className="card p-4 mt-4" style={{ borderColor: "var(--accent)" }}>
-              <div className="text-[10.5px] font-bold uppercase tracking-wider mb-1.5" style={{ color: "var(--accent)" }}>
-                Seu resultado · {resTeste.soma} pontos
+            <div ref={refResultado} className="rise mt-5 rounded-2xl border overflow-hidden"
+                 style={{ borderColor: "var(--accent)" }}>
+              <div className="px-5 pt-6 pb-5 text-center" style={{ background: "var(--accent-dim)" }}>
+                <div className="text-[10.5px] font-bold uppercase tracking-[.14em] mb-3"
+                     style={{ color: "var(--accent)" }}>
+                  Seu resultado
+                </div>
+                <div className="flex items-baseline justify-center gap-1.5 mb-3">
+                  <span className="font-serif leading-none tabular-nums"
+                        style={{ fontSize: "3.6rem", color: "var(--accent)" }}>
+                    {resTeste.soma}
+                  </span>
+                  <span className="text-[13px]" style={{ color: "var(--ink-3)" }}>
+                    de {cap.teste!.itens.length * cap.teste!.escala.length}
+                  </span>
+                </div>
+                <h4 className="font-serif text-[1.65rem] leading-tight" style={{ color: "var(--ink)" }}>
+                  {resTeste.faixa.titulo}
+                </h4>
               </div>
-              <h4 className="font-serif text-lg mb-2">{resTeste.faixa.titulo}</h4>
-              <p className="text-[14px] leading-relaxed" style={{ color: "var(--ink-2)" }}>{resTeste.faixa.leitura}</p>
+
+              <div className="px-5">
+                <Medidor faixas={cap.teste!.faixas} soma={resTeste.soma} />
+              </div>
+
+              <div className="px-5 pb-5 pt-4">
+                <p className="text-[15px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
+                  {resTeste.faixa.leitura}
+                </p>
+              </div>
             </div>
           )}
         </Secao>
@@ -202,7 +234,7 @@ export function LeitorInterativo({
           <div className="mt-4">
             <div className="card p-4 text-center"
                  style={{ borderColor: resultado.passou ? "var(--pos)" : "var(--neg)" }}>
-              <div className="font-serif text-3xl mb-1"
+              <div className="font-serif text-[2rem] mb-1"
                    style={{ color: resultado.passou ? "var(--pos)" : "var(--neg)" }}>
                 {resultado.acertos}/{resultado.total}
               </div>
@@ -373,7 +405,7 @@ export function LeitorInterativo({
 
         {score !== null && (
           <div className="card p-4 mt-3 text-center" style={{ borderColor: "var(--accent)" }}>
-            <div className="font-serif text-4xl mb-1" style={{ color: "var(--accent)" }}>{score}</div>
+            <div className="font-serif text-[2.35rem] mb-1" style={{ color: "var(--accent)" }}>{score}</div>
             <p className="text-[13px]" style={{ color: "var(--ink-2)" }}>
               {score >= 80 ? "Aplicado de verdade. Pode seguir."
                 : score >= 50 ? "Parcialmente aplicado. Vale revisitar os critérios em branco antes de avançar."
@@ -420,6 +452,51 @@ export function LeitorInterativo({
 
 /* ------------------------------------------------------- auxiliares */
 
+/** Onde a pontuação caiu dentro do espectro completo do teste. */
+function Medidor({ faixas, soma }: {
+  faixas: { min: number; max: number; titulo: string }[]; soma: number;
+}) {
+  const lo = Math.min(...faixas.map((f) => f.min));
+  const hi = Math.max(...faixas.map((f) => f.max));
+  const amplitude = Math.max(hi - lo, 1);
+  const pos = Math.min(100, Math.max(0, ((soma - lo) / amplitude) * 100));
+
+  return (
+    <div className="pt-7">
+      <div className="relative">
+        <div className="absolute -top-5 flex flex-col items-center"
+             style={{ left: `${pos}%`, transform: "translateX(-50%)" }}>
+          <span style={{
+            width: 0, height: 0,
+            borderLeft: "5px solid transparent",
+            borderRight: "5px solid transparent",
+            borderTop: "6px solid var(--accent)",
+          }} />
+        </div>
+        <div className="flex h-2.5 rounded-full overflow-hidden">
+          {faixas.map((f, i) => {
+            const largura = ((f.max - f.min + 1) / (amplitude + 1)) * 100;
+            const ativa = soma >= f.min && soma <= f.max;
+            return (
+              <div key={i} style={{
+                width: `${largura}%`,
+                background: ativa ? "var(--accent)" : "var(--line)",
+                borderRight: i < faixas.length - 1 ? "2px solid var(--surface)" : undefined,
+              }} />
+            );
+          })}
+        </div>
+      </div>
+      <div className="flex justify-between mt-2 text-[10.5px] tabular-nums"
+           style={{ color: "var(--ink-3)" }}>
+        <span>{lo}</span>
+        <span>{faixas.length} faixas</span>
+        <span>{hi}</span>
+      </div>
+    </div>
+  );
+}
+
 function Secao({ id, numero, titulo, legenda, children }: {
   id?: string; numero: string; titulo: string; legenda: string; children: React.ReactNode;
 }) {
@@ -429,7 +506,7 @@ function Secao({ id, numero, titulo, legenda, children }: {
         <div className="text-[10.5px] font-bold uppercase tracking-[.12em] mb-1" style={{ color: "var(--accent)" }}>
           {numero}
         </div>
-        <h2 className="font-serif text-xl leading-tight mb-1">{titulo}</h2>
+        <h2 className="font-serif text-[1.4rem] leading-tight mb-1">{titulo}</h2>
         <p className="text-[13px] leading-relaxed" style={{ color: "var(--ink-3)" }}>{legenda}</p>
       </div>
       {children}

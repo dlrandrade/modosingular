@@ -74,7 +74,7 @@ export function BancoMateriaPrima({ itens }: { itens: Item[] }) {
 
       {/* ------------------------------------------------- estoque */}
       <div className="flex items-baseline justify-between mb-3">
-        <h2 className="font-serif text-lg">
+        <h2 className="font-serif text-[1.28rem]">
           {itens.length} {itens.length === 1 ? "item guardado" : "itens guardados"}
         </h2>
         {itens.length >= 20 && (

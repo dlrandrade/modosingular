@@ -11,7 +11,7 @@ export default function Entrar() {
       <div className="w-full max-w-sm rise">
         <div className="text-center mb-6">
           <Marca className="justify-center mb-4" />
-          <h1 className="font-serif text-xl leading-snug mb-1.5">
+          <h1 className="font-serif text-[1.4rem] leading-snug mb-1.5">
             Trinta dias para recuperar a autoria da sua presença
           </h1>
           <p className="text-[13px] leading-relaxed" style={{ color: "var(--ink-3)" }}>

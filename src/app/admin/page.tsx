@@ -24,7 +24,7 @@ export default async function AdminHome() {
 
   return (
     <>
-      <h1 className="font-serif text-2xl mb-5">Visão geral</h1>
+      <h1 className="font-serif text-[1.65rem] mb-5">Visão geral</h1>
 
       <div className="grid gap-3 mb-8" style={{ gridTemplateColumns: "repeat(auto-fit,minmax(150px,1fr))" }}>
         <Kpi valor={String(totalUsuarios)} rotulo="cadastrados" />
@@ -37,7 +37,7 @@ export default async function AdminHome() {
 
       <section className="mb-8">
         <div className="flex items-baseline justify-between mb-3">
-          <h2 className="font-serif text-lg">Últimos eventos da Kiwify</h2>
+          <h2 className="font-serif text-[1.28rem]">Últimos eventos da Kiwify</h2>
           <Link href="/admin/assinantes" className="text-[13px]" style={{ color: "var(--accent)" }}>
             ver assinantes →
           </Link>
@@ -90,7 +90,7 @@ export default async function AdminHome() {
 function Kpi({ valor, rotulo, destaque }: { valor: string; rotulo: string; destaque?: boolean }) {
   return (
     <div className="card p-4">
-      <div className="font-serif text-2xl leading-none mb-1.5"
+      <div className="font-serif text-[1.65rem] leading-none mb-1.5"
            style={{ color: destaque ? "var(--accent)" : "var(--ink)" }}>{valor}</div>
       <div className="text-[11.5px] leading-snug" style={{ color: "var(--ink-3)" }}>{rotulo}</div>
     </div>

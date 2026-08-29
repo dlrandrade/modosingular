@@ -22,7 +22,7 @@ export default async function MateriaPrima() {
     <>
       <Cabecalho />
       <main className="max-w-2xl mx-auto px-page pt-6 pb-28">
-        <h1 className="font-serif text-2xl mb-1.5">Banco de matéria-prima</h1>
+        <h1 className="font-serif text-[1.65rem] mb-1.5">Banco de matéria-prima</h1>
         <p className="text-[13.5px] leading-relaxed mb-6" style={{ color: "var(--ink-3)" }}>
           Capture sem julgar. Não decida agora se serve — julgar durante a captura é o que a encarece.
           O filtro vem depois, em outro momento, com outra cabeça.

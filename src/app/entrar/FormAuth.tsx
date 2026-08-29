@@ -43,7 +43,7 @@ export function FormAuth() {
                   className="text-[13px] font-medium" style={{ color: "var(--accent)" }}>
             ← voltar
           </button>
-          <h2 className="font-serif text-lg mt-2">Redefinir senha</h2>
+          <h2 className="font-serif text-[1.28rem] mt-2">Redefinir senha</h2>
           <p className="text-[13px] mt-1" style={{ color: "var(--ink-3)" }}>
             Enviamos um link para você criar uma nova senha.
           </p>

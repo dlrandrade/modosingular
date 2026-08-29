@@ -52,7 +52,7 @@ export default function Configuracao() {
         <span className="chip mb-3" style={{ color: "var(--neg)", borderColor: "var(--neg)" }}>
           configuração pendente
         </span>
-        <h1 className="font-serif text-[1.8rem] leading-tight mb-3">
+        <h1 className="font-serif text-[1.95rem] leading-tight mb-3">
           O app está no ar, mas ainda não conversa com o banco.
         </h1>
         <p className="text-[15px] leading-relaxed mb-7" style={{ color: "var(--ink-2)" }}>

@@ -82,6 +82,17 @@ body {
 ::selection { background: var(--accent); color: #0b0c0f; }
 
 /* ------------------------------ tipografia ------------------------------ */
+
+/* O Instrument Serif tem altura-x menor que a Inter: no mesmo corpo nominal
+   ele parece menor e mais leve ao lado do texto. Por isso todo uso de
+   .font-serif já vem com ~2pt a mais que o tamanho equivalente em sans —
+   a compensação está nas classes de cada componente, não aqui, para que o
+   ajuste possa afinar por tamanho (mais nos corpos de texto, menos nos
+   tamanhos de display, que já têm presença suficiente).
+   Ao criar um título novo, siga a mesma escala:
+     sans 16 → serif 1.15rem   |  sans 24 → serif 1.65rem
+     sans 18 → serif 1.28rem   |  sans 30 → serif 2rem
+     sans 20 → serif 1.4rem    |  sans 36 → serif 2.35rem            */
 .font-serif { font-family: var(--font-serif); }
 
 .prosa p { color: var(--ink-2); line-height: 1.75; font-size: 1.0625rem; }

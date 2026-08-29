@@ -12,7 +12,7 @@ export default async function AdminConfig() {
 
   return (
     <>
-      <h1 className="font-serif text-2xl mb-1.5">Ajustes</h1>
+      <h1 className="font-serif text-[1.65rem] mb-1.5">Ajustes</h1>
       <p className="text-[13.5px] leading-relaxed mb-6" style={{ color: "var(--ink-3)" }}>
         Preço, link de checkout e o aviso que aparece no topo da jornada.
       </p>
