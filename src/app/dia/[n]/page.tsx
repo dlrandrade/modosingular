@@ -52,7 +52,7 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
         </Link>
       } />
 
-      <main className="max-w-2xl mx-auto px-4 pt-6 pb-28">
+      <main className="max-w-2xl mx-auto px-page pt-6 pb-28">
         {/* ---------------------------------------------------- abertura */}
         <header className="rise">
           <div className="flex items-center gap-2 mb-3">
@@ -155,7 +155,7 @@ function Bloqueado({ n, motivo, dia }: { n: number; motivo: string | null; dia: 
   return (
     <>
       <Cabecalho />
-      <main className="max-w-md mx-auto px-4 py-16 text-center">
+      <main className="max-w-md mx-auto px-page py-16 text-center">
         <div className="w-14 h-14 rounded-full grid place-items-center mx-auto mb-5 border"
              style={{ borderColor: "var(--line)", color: "var(--ink-3)" }}>
           <svg width="22" height="22" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">

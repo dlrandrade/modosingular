@@ -26,7 +26,7 @@ export default async function Assinatura() {
         <Link href="/jornada" className="text-[13px]" style={{ color: "var(--ink-3)" }}>Jornada</Link>
       } />
 
-      <main className="max-w-lg mx-auto px-4 pt-8 pb-16">
+      <main className="max-w-lg mx-auto px-page pt-8 pb-16">
         {j.assinaturaAtiva ? (
           <>
             <h1 className="font-serif text-2xl mb-2">Assinatura ativa</h1>

@@ -62,6 +62,28 @@ export async function recuperarSenha(_prev: EstadoAuth, form: FormData): Promise
   return { aviso: "Se existir uma conta com esse e-mail, o link de redefinição chegou agora." };
 }
 
+/**
+ * Define a nova senha depois do link de recuperação.
+ * Roda no servidor: a sessão veio do exchangeCodeForSession no callback,
+ * então não é preciso expor nenhuma chave ao navegador.
+ */
+export async function definirNovaSenha(_prev: EstadoAuth, form: FormData): Promise<EstadoAuth> {
+  const senha = String(form.get("senha") ?? "");
+  const repetir = String(form.get("repetir") ?? "");
+
+  if (senha.length < 8) return { erro: "A senha precisa ter pelo menos 8 caracteres." };
+  if (senha !== repetir) return { erro: "As duas senhas não são iguais." };
+
+  const supabase = await createClient();
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return { erro: "O link expirou. Peça um novo em 'esqueci minha senha'." };
+
+  const { error } = await supabase.auth.updateUser({ password: senha });
+  if (error) return { erro: textoErro(error.message) };
+
+  return { aviso: "Senha atualizada. Ela já vale para os próximos acessos." };
+}
+
 export async function sair() {
   const supabase = await createClient();
   await supabase.auth.signOut();

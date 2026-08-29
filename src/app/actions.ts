@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { getCapitulo } from "@/content";
-import { calcularGating, diaDaJornada, CAPITULOS_GRATIS } from "@/lib/ritmo";
+import { calcularGating, diaDaJornada } from "@/lib/ritmo";
 
 const ATIVAS = ["active", "trialing"];
 
@@ -246,5 +246,3 @@ export async function salvarPerfil(dados: {
   revalidatePath("/jornada");
   return { ok: true as const };
 }
-
-export { CAPITULOS_GRATIS };

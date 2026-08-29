@@ -65,6 +65,20 @@ body {
 .safe-t { padding-top: env(safe-area-inset-top); }
 .safe-b { padding-bottom: env(safe-area-inset-bottom); }
 
+/* Margem lateral única de todas as telas.
+   Respira melhor no celular e nunca encosta no notch/borda curva. */
+.px-page {
+  padding-left:  max(1.375rem, env(safe-area-inset-left));
+  padding-right: max(1.375rem, env(safe-area-inset-right));
+}
+@media (min-width: 640px) {
+  .px-page { padding-left: max(2rem, env(safe-area-inset-left));
+             padding-right: max(2rem, env(safe-area-inset-right)); }
+}
+
+/* Tela que ocupa exatamente a altura visível, sem rolagem. */
+.tela-fixa { height: 100dvh; overflow: hidden; overscroll-behavior: none; }
+
 ::selection { background: var(--accent); color: #0b0c0f; }
 
 /* ------------------------------ tipografia ------------------------------ */
