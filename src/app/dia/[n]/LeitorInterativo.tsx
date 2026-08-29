@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, useTransition } from "react";
+import { CrieAgora } from "./CrieAgora";
 import { useRouter } from "next/navigation";
 import type { Capitulo } from "@/content/types";
 import {
@@ -69,7 +70,13 @@ export function LeitorInterativo({
   // Só salva rascunho depois de uma edição real: sem isso, reabrir um
   // capítulo com a tarefa já entregue a rebaixaria para rascunho.
   const [tocado, setTocado] = useState(false);
-  const tarefaEntregue = tarefaAnterior?.state === "submitted" || tarefaAnterior?.state === "published";
+  const [entregue, setEntregue] = useState(
+    tarefaAnterior?.state === "submitted" || tarefaAnterior?.state === "published",
+  );
+  const [erroTarefa, setErroTarefa] = useState("");
+  const refEntrega = useRef<HTMLDivElement>(null);
+  // Reeditar depois de entregar: precisa reenviar para valer.
+  const editadaAposEntrega = entregue && tocado;
 
   /* ----------------------------------------------------------- notas */
   const [nota, setNota] = useState(notaAnterior);
@@ -293,7 +300,7 @@ export function LeitorInterativo({
       <Secao numero="Tarefa" titulo={cap.tarefa.titulo} legenda={cap.tarefa.objetivo}>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="chip">~{cap.tarefa.tempoMin} min</span>
-          {tarefaEntregue && <span className="chip" style={{ color: "var(--pos)", borderColor: "var(--pos)" }}>entregue</span>}
+          {entregue && <span className="chip" style={{ color: "var(--pos)", borderColor: "var(--pos)" }}>entregue</span>}
         </div>
 
         <div className="card p-3.5 mb-4">
@@ -352,17 +359,68 @@ export function LeitorInterativo({
           </ul>
         </div>
 
-        <div className="flex items-center gap-3 mt-4">
-          <button className="btn btn-primary flex-1" disabled={pendente}
-            onClick={() => startTransition(async () => {
-              await salvarTarefa(cap.n, campos, true, { formato });
-              setSalvo("ok"); router.refresh();
-            })}>
-            Entregar tarefa
-          </button>
-          <span className="text-[12px] shrink-0" style={{ color: "var(--ink-3)" }}>
-            {salvo === "salvando" ? "salvando…" : salvo === "ok" ? "rascunho salvo" : ""}
-          </span>
+        <div ref={refEntrega} className="mt-4 scroll-mt-24">
+          {entregue && !editadaAposEntrega ? (
+            <div className="rise rounded-xl border p-4"
+                 style={{ borderColor: "var(--pos)",
+                          background: "color-mix(in srgb, var(--pos) 9%, transparent)" }}>
+              <div className="flex items-start gap-3">
+                <span className="shrink-0 w-6 h-6 rounded-full grid place-items-center text-[13px] font-bold"
+                      style={{ background: "var(--pos)", color: "var(--bg)" }}>✓</span>
+                <div>
+                  <p className="text-[15px] font-semibold mb-1" style={{ color: "var(--pos)" }}>
+                    Tarefa entregue
+                  </p>
+                  <p className="text-[13.5px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
+                    Está salva na sua conta e aparece no seu perfil. Pode continuar editando
+                    — se mudar algo, é só entregar de novo.
+                  </p>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <>
+              {editadaAposEntrega && (
+                <p className="text-[13px] leading-relaxed mb-2.5 rounded-lg px-3 py-2.5"
+                   style={{ color: "var(--accent)", background: "var(--accent-dim)" }}>
+                  Você editou depois de entregar. Entregue de novo para gravar a versão nova.
+                </p>
+              )}
+              <button className="btn btn-primary w-full" disabled={pendente}
+                onClick={() => startTransition(async () => {
+                  const preenchidos = Object.values(campos).filter((v) => v && v.trim()).length;
+                  if (preenchidos === 0) {
+                    setErroTarefa("Preencha ao menos um campo antes de entregar.");
+                    return;
+                  }
+                  setErroTarefa("");
+                  await salvarTarefa(cap.n, campos, true, { formato });
+                  setEntregue(true);
+                  setTocado(false);
+                  setSalvo("idle");
+                  refEntrega.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+                  router.refresh();
+                })}>
+                {pendente ? "Entregando…" : editadaAposEntrega ? "Entregar de novo" : "Entregar tarefa"}
+              </button>
+            </>
+          )}
+
+          {erroTarefa && (
+            <p className="text-[13px] mt-2.5 rounded-lg px-3 py-2.5"
+               style={{ color: "var(--neg)",
+                        background: "color-mix(in srgb, var(--neg) 12%, transparent)" }}>
+              {erroTarefa}
+            </p>
+          )}
+
+          <p className="text-[12px] mt-2.5 text-center" style={{ color: "var(--ink-3)" }}>
+            {salvo === "salvando"
+              ? "salvando rascunho…"
+              : salvo === "ok"
+              ? "rascunho salvo automaticamente"
+              : "o que você escrever é salvo sozinho enquanto digita"}
+          </p>
         </div>
       </Secao>
 
@@ -421,6 +479,9 @@ export function LeitorInterativo({
           placeholder="O que este capítulo mexeu em você? O que você quer lembrar daqui a três meses?"
           value={nota} onChange={(e) => setNota(e.target.value)} />
       </Secao>
+
+      {/* ============================================= CRIE AGORA ==== */}
+      <CrieAgora cap={cap} />
 
       {/* =============================================== CONCLUIR ==== */}
       <div className="card p-5 text-center" style={{ borderColor: quizAprovado ? "var(--accent)" : "var(--line)" }}>
