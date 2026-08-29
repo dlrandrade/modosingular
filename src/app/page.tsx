@@ -27,7 +27,7 @@ export default async function Landing() {
   return (
     <>
       <header className="border-b safe-t" style={{ background: "var(--bg)" }}>
-        <div className="max-w-3xl mx-auto px-5 h-16 flex items-center justify-between">
+        <div className="max-w-3xl mx-auto px-page h-16 flex items-center justify-between">
           <Marca compacto />
           <div className="flex items-center gap-2">
             <BotaoTema />
@@ -36,7 +36,7 @@ export default async function Landing() {
         </div>
       </header>
 
-      <main className="max-w-3xl mx-auto px-5 pb-20">
+      <main className="max-w-3xl mx-auto px-page pb-20">
         {/* ------------------------------------------------------ hero */}
         <section className="py-14 sm:py-20 rise">
           <p className="chip mb-5">30 capítulos · para especialistas</p>
@@ -189,7 +189,7 @@ export default async function Landing() {
       </main>
 
       <footer className="border-t hair py-7 safe-b">
-        <div className="max-w-3xl mx-auto px-5 flex items-center justify-between gap-4">
+        <div className="max-w-3xl mx-auto px-page flex items-center justify-between gap-4">
           <Marca compacto />
           <span className="text-[12px]" style={{ color: "var(--ink-3)" }}>
             © {new Date().getFullYear()}

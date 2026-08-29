@@ -45,7 +45,7 @@ export default function Configuracao() {
   const faltaNaVercel = !runtimeUrl || !runtimeAnon;
 
   return (
-    <main className="min-h-dvh px-5 py-10 safe-t safe-b">
+    <main className="min-h-dvh px-page py-10 safe-t safe-b">
       <div className="max-w-xl mx-auto">
         <Marca className="mb-7" />
 

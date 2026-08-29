@@ -19,7 +19,7 @@ export default async function AdminLayout({ children }: { children: React.ReactN
   return (
     <>
       <Cabecalho direita={<span className="chip" style={{ color: "var(--accent)", borderColor: "var(--accent)" }}>gestão</span>} />
-      <div className="max-w-4xl mx-auto px-4 pt-4">
+      <div className="max-w-4xl mx-auto px-page pt-4">
         <nav className="scroll-x flex gap-1.5 pb-3 border-b hair mb-5">
           {ABAS.map((a) => (
             <Link key={a.href} href={a.href}
@@ -30,7 +30,7 @@ export default async function AdminLayout({ children }: { children: React.ReactN
           ))}
         </nav>
       </div>
-      <main className="max-w-4xl mx-auto px-4 pb-28">{children}</main>
+      <main className="max-w-4xl mx-auto px-page pb-28">{children}</main>
       <Navegacao admin />
     </>
   );

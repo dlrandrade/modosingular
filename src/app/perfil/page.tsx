@@ -5,6 +5,7 @@ import { carregarJornada } from "@/lib/dados";
 import { Cabecalho } from "@/components/Cabecalho";
 import { Navegacao } from "@/components/Navegacao";
 import { FormPerfil } from "./FormPerfil";
+import { NovaSenha } from "./NovaSenha";
 import { sair } from "@/app/entrar/actions";
 import Link from "next/link";
 import { TOTAL_CAPITULOS } from "@/lib/ritmo";
@@ -19,7 +20,10 @@ const LINGUAGENS: Record<string, { nome: string; texto: string }> = {
   narrativo: { nome: "Narrativo", texto: "Você pensa contando. Comece sempre pelo caso — a tese aparece sozinha no fim." },
 };
 
-export default async function Perfil() {
+export default async function Perfil(
+  { searchParams }: { searchParams: Promise<{ redefinir?: string }> },
+) {
+  const redefinir = (await searchParams).redefinir === "1";
   const j = await carregarJornada();
   if (!j) redirect("/entrar");
 
@@ -39,8 +43,10 @@ export default async function Perfil() {
   return (
     <>
       <Cabecalho />
-      <main className="max-w-2xl mx-auto px-4 pt-6 pb-28">
+      <main className="max-w-2xl mx-auto px-page pt-6 pb-28">
         <h1 className="font-serif text-2xl mb-6">Seu perfil</h1>
+
+        {redefinir && <NovaSenha />}
 
         {/* ------------------------------------------------- indicadores */}
         <div className="grid grid-cols-2 gap-3 mb-6">

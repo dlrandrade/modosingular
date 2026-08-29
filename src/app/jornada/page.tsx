@@ -24,7 +24,7 @@ export default async function Jornada() {
         <span className="chip" title="Dias desde o início">Dia {j.dia}</span>
       } />
 
-      <main className="max-w-2xl mx-auto px-4 pt-6 pb-28">
+      <main className="max-w-2xl mx-auto px-page pt-6 pb-28">
         {/* ---------------------------------------------------- resumo */}
         <section className="rise">
           <p className="text-[13px] mb-1" style={{ color: "var(--ink-3)" }}>

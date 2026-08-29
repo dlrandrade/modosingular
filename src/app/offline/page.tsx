@@ -4,7 +4,7 @@ export const metadata = { title: "Sem conexão" };
 
 export default function Offline() {
   return (
-    <main className="min-h-dvh grid place-items-center px-6 text-center">
+    <main className="min-h-dvh grid place-items-center px-page text-center">
       <div className="max-w-xs">
         <Marca className="justify-center mb-6" />
         <h1 className="font-serif text-2xl mb-3">Sem conexão</h1>

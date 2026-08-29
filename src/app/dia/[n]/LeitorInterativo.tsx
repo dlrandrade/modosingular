@@ -58,6 +58,9 @@ export function LeitorInterativo({
   const [campos, setCampos] = useState<Record<string, string>>(tarefaAnterior?.campos ?? {});
   const [formato, setFormato] = useState(tarefaAnterior?.formato ?? "");
   const [salvo, setSalvo] = useState<"idle" | "salvando" | "ok">("idle");
+  // Só salva rascunho depois de uma edição real: sem isso, reabrir um
+  // capítulo com a tarefa já entregue a rebaixaria para rascunho.
+  const [tocado, setTocado] = useState(false);
   const tarefaEntregue = tarefaAnterior?.state === "submitted" || tarefaAnterior?.state === "published";
 
   /* ----------------------------------------------------------- notas */
@@ -65,14 +68,14 @@ export function LeitorInterativo({
 
   // Autosave de rascunho a cada 2,5s de inatividade.
   useEffect(() => {
-    if (Object.keys(campos).length === 0) return;
+    if (!tocado) return;
     setSalvo("salvando");
     const t = setTimeout(async () => {
       await salvarTarefa(cap.n, campos, false, { formato });
       setSalvo("ok");
     }, 2500);
     return () => clearTimeout(t);
-  }, [campos, formato, cap.n]);
+  }, [campos, formato, cap.n, tocado]);
 
   useEffect(() => {
     if (nota === notaAnterior) return;
@@ -277,7 +280,10 @@ export function LeitorInterativo({
                 rows={c.linhas ?? 3}
                 placeholder={c.placeholder}
                 value={campos[c.id] ?? ""}
-                onChange={(e) => setCampos((s) => ({ ...s, [c.id]: e.target.value }))}
+                onChange={(e) => {
+                  setTocado(true);
+                  setCampos((s) => ({ ...s, [c.id]: e.target.value }));
+                }}
               />
             </label>
           ))}
@@ -286,7 +292,8 @@ export function LeitorInterativo({
             <span className="block text-[13px] font-semibold mb-1.5">Formato escolhido</span>
             <div className="flex flex-wrap gap-1.5">
               {cap.tarefa.formatoSugerido.map((f) => (
-                <button key={f} type="button" onClick={() => setFormato(formato === f ? "" : f)}
+                <button key={f} type="button"
+                  onClick={() => { setTocado(true); setFormato(formato === f ? "" : f); }}
                   className="px-3 py-1.5 rounded-full text-[12.5px] font-medium border transition"
                   style={{
                     borderColor: formato === f ? "var(--accent)" : "var(--line)",
