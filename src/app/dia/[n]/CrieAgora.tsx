@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { Capitulo } from "@/content/types";
-import { ROTEIROS, montarPrompt } from "@/content/roteiros";
+import { ROTEIROS, ESTRUTURAS, montarPrompt } from "@/content/roteiros";
 
 type Modo = "ler" | "roteiro" | "prompt";
 
@@ -51,6 +51,13 @@ export function CrieAgora({ cap }: { cap: Capitulo }) {
         <p className="text-[14px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
           A ideia está quente agora. Daqui a dois dias ela vira uma anotação que
           você não vai reler. Escolha o caminho mais curto para você:
+        </p>
+        <p className="text-[12.5px] leading-relaxed mt-3 pt-3 border-t"
+           style={{ color: "var(--ink-3)",
+                    borderColor: "color-mix(in srgb, var(--accent) 30%, transparent)" }}>
+          <b style={{ color: "var(--ink-2)" }}>O método é daqui; o assunto é seu.</b>{" "}
+          O capítulo de hoje ensina como pensar a peça — o conteúdo é sobre a sua área,
+          para o seu público. Em nenhum momento você vai falar sobre produzir conteúdo.
         </p>
       </div>
 
@@ -108,10 +115,10 @@ export function CrieAgora({ cap }: { cap: Capitulo }) {
           <>
             <Instrucao>
               Você fala do seu jeito; isto aqui só segura a ordem. Cada bloco é uma
-              parte da peça — escreva ou grave seguindo a sequência.
+              parte da peça sobre o SEU assunto — escreva ou grave seguindo a sequência.
             </Instrucao>
             <ol className="mt-3 space-y-2">
-              {(cap.diretrizes.gabarito ?? []).map((g, i) => (
+              {(ESTRUTURAS[cap.n] ?? []).map((g, i) => (
                 <li key={i} className="rounded-xl p-3.5" style={{ background: "var(--bg-2)" }}>
                   <div className="flex items-baseline gap-2.5 mb-1">
                     <span className="text-[11px] font-bold tabular-nums"

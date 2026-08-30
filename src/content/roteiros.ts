@@ -79,13 +79,13 @@ Repara que eu não preparei isso. Não tem roteiro. É como sai quando alguém m
 
 E é assim que eu prefiro. Porque quando eu tento deixar bonito demais, some justamente a parte que faz entender.`,
 
-8: `Vou combinar uma coisa com você.
+8: `Quase todo mundo que me procura quer saber a mesma coisa: em quanto tempo resolve.
 
-A partir de hoje eu publico {frequência que você consegue sustentar no seu pior mês}. Nem mais, nem menos.
+A resposta honesta é que depende de uma variável que quase ninguém menciona: {o que depende do próprio cliente, não de você}.
 
-Escolhi esse número por um motivo: é o que eu consigo manter em {o mês mais difícil do seu ano}. Não adianta prometer todo dia e sumir em três semanas.
+Eu já vi o mesmo tipo de caso levar {tempo curto} e levar {tempo longo}. A diferença quase nunca foi técnica.
 
-Então se você acompanha, é isso que pode esperar. Sempre sobre {o seu tema central}, sempre do jeito que eu falaria pessoalmente.`,
+Então antes de perguntar quanto tempo, pergunte outra coisa: o que exatamente vai depender de mim?`,
 
 9: `Depois de {número} anos fazendo isso, tem um padrão que eu vejo e quase nunca ouço alguém comentar.
 
@@ -107,21 +107,21 @@ Continuo achando que é o certo. Se você discorda, tudo bem. Mas agora você sa
 
 11: `Deixa eu te explicar isso com a comparação que eu sempre uso.
 
-{o assunto} é igual {a sua analogia, aquela que você acha informal demais para publicar}
+{o assunto} é igual {a sua analogia, aquela que você usa no atendimento e acha simples demais}
 
-{desenvolva a analogia até o fim}
+{desenvolva a comparação até o fim}
 
-Eu uso essa comparação há anos porque é a única que faz a ficha cair. Já tentei explicar de um jeito mais técnico e a pessoa saía balançando a cabeça sem entender nada.`,
+Uso essa comparação há anos porque é a única que faz a ficha cair. Já tentei explicar de um jeito mais técnico e a pessoa saía balançando a cabeça sem entender nada.`,
 
-12: `Se você me acompanha, vai perceber que eu volto sempre nos mesmos assuntos.
+12: `Tem três coisas que eu defendo, e tudo que eu faço parte delas.
 
-Não é falta de repertório. É escolha.
+A primeira: {posição 1}.
+A segunda: {posição 2}.
+A terceira: {posição 3}.
 
-Eu defendo três coisas: {as suas três posições centrais, uma linha cada}
+Não é opinião solta. Depois de {tempo} de prática, foi isso que eu vi separar quem resolve de quem só remedia.
 
-Tudo que eu publico gira em torno disso. E vai continuar girando, porque é nisso que eu acredito depois de ver muito caso na prática.
-
-Se isso conversa com o que você procura, fica. Se não conversa, também está tudo certo.`,
+Se você discorda de alguma, vale conversar. Mas é daqui que eu parto.`,
 
 13: `Aconteceu uma coisa há algum tempo que eu penso até hoje.
 
@@ -183,13 +183,13 @@ Não é nada elaborado. É só uma coisa que eu vi acontecer de novo, e que talv
 
 Porque quando alguma coisa se repete na minha frente, geralmente é porque está se repetindo na vida de muita gente.`,
 
-20: `Vou fazer uma coisa curta hoje, porque o dia foi cheio.
+20: `Vou ser curto hoje, porque o dia foi cheio.
 
 Uma ideia só: {a ideia, em uma frase}
 
-{o detalhe que sustenta ela}
+{o detalhe da sua prática que sustenta essa ideia}
 
-É isso. Prefiro publicar assim, do jeito que dá, do que ficar esperando o dia perfeito que nunca chega.`,
+Se você levar só isso daqui, já vale.`,
 
 21: `Estou entre dois atendimentos, mas isso aqui não pode esperar.
 
@@ -251,31 +251,226 @@ Se você tem {outro perfil}, provavelmente eu não sou a pessoa certa — e eu t
 
 Não prometo prazo. Prometo te dizer com honestidade se dá ou não dá.`,
 
-28: `Uma pessoa chegou aqui essa semana dizendo que tinha lido uma coisa que eu publiquei meses atrás.
+28: `Quase todo mundo avalia {o que você faz} pelo mesmo indicador: {a métrica óbvia do seu campo}.
 
-Nem lembrava mais desse conteúdo. Ele estava lá, trabalhando sozinho.
+E ela engana. Porque {por que engana}.
 
-É assim que isso funciona. Não é o post que estoura. É o acúmulo.
+O que eu olho é outra coisa: {o indicador que importa de verdade}. É menos visível e diz muito mais sobre o que vem depois.
 
-E é por isso que eu continuo falando de {o seu tema}, mesmo nos dias em que parece que ninguém está vendo.`,
+Se você for avaliar sozinho, olhe para isso.`,
 
-29: `Faz {tempo} que eu publico aqui sobre {o seu tema}.
+29: `Tem um momento em {o processo do seu campo} que parece que não está funcionando.
 
-Teve semana que rendeu. Teve semana que não falou com ninguém.
+Costuma ser por volta de {período}. O esforço já é real e o resultado ainda não aparece.
 
-Continuo do mesmo jeito, porque o que eu quero não é um post que viraliza. É que quando você precisar de {o que você resolve}, você já saiba como eu penso.
+Isso não é sinal de que deu errado. É a forma normal da curva — eu vejo em boa parte dos casos que acompanho.
 
-Aí a conversa começa muito mais adiante.`,
+Quem desiste ali quase sempre desiste pouco antes de começar a funcionar.`,
 
 30: `Vou dizer o que eu defendo, sem rodeio.
 
 {a sua posição central}
 
-Isso me custa {o custo real — clientes, convites, concordância de colegas}. E eu mantenho mesmo assim, porque em {tempo} de prática foi o que eu vi funcionar.
-
-Publico às {dias da semana}, sempre sobre isso.
+Isso me custa {o custo real: cliente, convite, concordância de colegas}. E eu mantenho, porque em {tempo} de prática foi o que eu vi funcionar.
 
 Se é o tipo de conversa que te interessa, fica por aqui.`,
+};
+
+/* ---------------------------------------------------------------
+   ESTRUTURAS DE PEÇA — o esqueleto do conteúdo que vai ao público.
+
+   Distinção que sustenta o produto: o Modo Singular é o método, nunca o
+   assunto. O capítulo ensina COMO pensar a peça; o assunto é sempre a
+   área do próprio especialista.
+
+   Por isso estas estruturas existem separadas do gabarito das diretrizes:
+   parte dos gabaritos é checklist de processo interno (captura, revisão,
+   delegação) e não serve como esqueleto de algo publicável.
+---------------------------------------------------------------- */
+
+export interface BlocoEstrutura { rotulo: string; texto: string }
+
+export const ESTRUTURAS: Record<number, BlocoEstrutura[]> = {
+1: [
+  { rotulo: "A cena", texto: "O momento concreto que gerou o pensamento. Hora, lugar, quem falou o quê." },
+  { rotulo: "A tensão", texto: "O que todo mundo acha que é o problema, versus o que você viu que era." },
+  { rotulo: "O critério", texto: "A régua que você usa e que a maioria não usa." },
+  { rotulo: "A frase que fica", texto: "Uma linha que a pessoa consiga repetir para outra pessoa." },
+],
+2: [
+  { rotulo: "O que se costuma dizer", texto: "A crença errada, dita com as palavras de quem acredita nela." },
+  { rotulo: "Por que ela existe", texto: "O contexto em que aquilo já fez sentido. Seja generoso." },
+  { rotulo: "O que você vê hoje", texto: "A sua observação de prática, com detalhe ou número." },
+  { rotulo: "A régua", texto: "Como a pessoa decide sozinha na próxima vez." },
+],
+3: [
+  { rotulo: "A afirmação", texto: "Direta, na primeira linha. Sem saudação, sem preâmbulo." },
+  { rotulo: "O detalhe", texto: "Um dado da sua prática que só quem faz teria." },
+  { rotulo: "A exceção", texto: "Quando a regra falha. É ela que prova domínio." },
+  { rotulo: "O fecho", texto: "Uma frase repetível. Nada de pedir seguidor." },
+],
+4: [
+  { rotulo: "O assunto", texto: "O que você vai explicar, dito como você diria a um cliente." },
+  { rotulo: "A explicação", texto: "Inteira, na ordem em que ela sai naturalmente de você." },
+  { rotulo: "Onde travam", texto: "O ponto em que as pessoas costumam se perder — e o esclarecimento." },
+  { rotulo: "O fecho curto", texto: "Como você encerra quando a pessoa entendeu." },
+],
+5: [
+  { rotulo: "O objetivo", texto: "O resultado do seu campo que exige constância para acontecer." },
+  { rotulo: "Por que a maioria para", texto: "O que costuma ser dito (falta de disciplina) e por que não explica." },
+  { rotulo: "O ponto real de quebra", texto: "A etapa específica em que as pessoas desistem, na sua observação." },
+  { rotulo: "O ajuste", texto: "O que muda o jogo quando se troca o método em vez da força." },
+],
+6: [
+  { rotulo: "A pergunta", texto: "Literal, entre aspas, com as palavras de quem perguntou." },
+  { rotulo: "A normalização", texto: "'É a que mais me fazem.' Tira a vergonha de quem tem a dúvida." },
+  { rotulo: "A resposta", texto: "Com o detalhe que só quem faz sabe: o número, o percentual, a exceção." },
+  { rotulo: "O critério", texto: "Como decidir sozinho na próxima vez." },
+],
+7: [
+  { rotulo: "A explicação direta", texto: "O assunto, do jeito mais simples que você consegue dizer." },
+  { rotulo: "O exemplo", texto: "Um caso concreto que torna a explicação visível." },
+  { rotulo: "Onde travam", texto: "A dúvida que sempre aparece nesse ponto." },
+  { rotulo: "O resumo", texto: "A ideia inteira em uma frase." },
+],
+8: [
+  { rotulo: "A pergunta de prazo", texto: "'Em quanto tempo resolve?' — a pergunta que todo mundo faz." },
+  { rotulo: "A variável oculta", texto: "O que determina o prazo e que ninguém menciona." },
+  { rotulo: "Os dois extremos", texto: "O mesmo caso levando tempos muito diferentes, na sua prática." },
+  { rotulo: "A pergunta certa", texto: "'O que vai depender de mim?' — e a resposta." },
+],
+9: [
+  { rotulo: "O padrão", texto: "'Em X de cada 10 casos que eu vejo, acontece Y.' Traga o número." },
+  { rotulo: "O contraste", texto: "'O que se costuma dizer é Z.' Não bate com o que você vê." },
+  { rotulo: "A hipótese", texto: "Por que você acha que a diferença existe." },
+  { rotulo: "O uso prático", texto: "O que a pessoa faz com isso amanhã." },
+],
+10: [
+  { rotulo: "A posição", texto: "Dita direto, na primeira linha, sem preâmbulo." },
+  { rotulo: "O custo", texto: "'Isso me custa __.' A prova de que você acredita." },
+  { rotulo: "A razão", texto: "O raciocínio, com o caso ou o número que o sustenta." },
+  { rotulo: "A contra-objeção", texto: "'O melhor argumento contra é __. Ainda assim, __.'" },
+],
+11: [
+  { rotulo: "A analogia", texto: "A comparação que você usa no atendimento e sempre funciona." },
+  { rotulo: "O desenvolvimento", texto: "Leve a comparação até o fim, sem encurtar." },
+  { rotulo: "A tradução", texto: "O que isso significa no caso concreto de quem está lendo." },
+  { rotulo: "O fecho", texto: "Curto, do jeito que você encerra quando a ficha cai." },
+],
+12: [
+  { rotulo: "As três coisas", texto: "As posições centrais que organizam tudo que você faz." },
+  { rotulo: "A evidência", texto: "O que na sua prática levou você a cada uma delas." },
+  { rotulo: "Quem elas excluem", texto: "O tipo de expectativa que essas posições não atendem." },
+  { rotulo: "O convite", texto: "'É daqui que eu parto.' Sem pedir nada." },
+],
+13: [
+  { rotulo: "O caso", texto: "Deslocado no tempo e despersonalizado. 2 a 3 linhas." },
+  { rotulo: "O reconhecimento", texto: "'Se você se reconheceu, não é coincidência.'" },
+  { rotulo: "O padrão", texto: "'Isso acontece porque __.' A explicação estrutural." },
+  { rotulo: "O critério", texto: "A ferramenta que a pessoa usa amanhã." },
+],
+14: [
+  { rotulo: "A pergunta", texto: "Literal, entre aspas, na primeira linha." },
+  { rotulo: "A normalização", texto: "Por que ela é comum e faz todo sentido." },
+  { rotulo: "A virada", texto: "'Mas ela é a pergunta errada.' O reposicionamento." },
+  { rotulo: "A pergunta certa", texto: "E o critério para respondê-la sozinho." },
+],
+15: [
+  { rotulo: "A situação óbvia", texto: "Como qualquer um leria o caso. 2 linhas." },
+  { rotulo: "O detalhe", texto: "O que não fechava. Bem específico — é aqui que a autoridade aparece." },
+  { rotulo: "A decisão", texto: "O que você fez diferente e qual foi a régua." },
+  { rotulo: "A lição", texto: "O critério generalizado, útil para quem nunca vai te procurar." },
+],
+16: [
+  { rotulo: "A abertura", texto: "Exatamente como você abre no atendimento. Sem adaptar." },
+  { rotulo: "A explicação", texto: "Inteira, na ordem em que ela sai sozinha." },
+  { rotulo: "A analogia", texto: "No mesmo ponto em que aparece na sua fala real." },
+  { rotulo: "O fecho", texto: "Como você encerra quando a pessoa entendeu. Normalmente curto." },
+],
+17: [
+  { rotulo: "O consenso", texto: "Enunciado com justiça, na versão mais forte dele." },
+  { rotulo: "A concessão", texto: "'Faz sentido, porque __.' Prova que você entende antes de discordar." },
+  { rotulo: "A fratura", texto: "O dado da sua prática que não encaixa." },
+  { rotulo: "A substituição", texto: "O que fazer no lugar. Concreto e utilizável hoje." },
+],
+18: [
+  { rotulo: "A bifurcação", texto: "'Existem dois caminhos aqui e os dois são defensáveis.'" },
+  { rotulo: "Os custos", texto: "O que cada lado cobra: tempo, risco, reversibilidade, dinheiro." },
+  { rotulo: "A sua régua", texto: "'Eu escolho __ quando __.' Uma condição verificável." },
+  { rotulo: "O limite", texto: "'Já errei assim.' A prova de que a régua foi usada." },
+],
+19: [
+  { rotulo: "A observação", texto: "O que você notou essa semana, cru, sem enfeite." },
+  { rotulo: "A repetição", texto: "Por que isso aparece de novo e de novo na sua frente." },
+  { rotulo: "O que revela", texto: "A dificuldade maior que essa cena expõe." },
+  { rotulo: "O uso", texto: "O que a pessoa faz com essa informação." },
+],
+20: [
+  { rotulo: "A ideia", texto: "Uma só, em uma frase. Sem segunda ideia junto." },
+  { rotulo: "O detalhe", texto: "O dado da sua prática que sustenta a ideia." },
+  { rotulo: "O critério", texto: "A régua que a pessoa leva." },
+  { rotulo: "O fecho", texto: "Curto. Termine quando a ideia acabar." },
+],
+21: [
+  { rotulo: "O contexto", texto: "Onde você está e por que isso importa para o que vem." },
+  { rotulo: "O que acabou de acontecer", texto: "A conversa, o caso ou a pergunta, ainda quente." },
+  { rotulo: "O que isso mostra", texto: "O padrão que a cena revela." },
+  { rotulo: "A implicação", texto: "O que muda para quem está lendo." },
+],
+22: [
+  { rotulo: "A ideia de fora", texto: "Algo de outro campo que explica bem o seu ponto." },
+  { rotulo: "A ponte", texto: "Como isso se traduz para a sua área." },
+  { rotulo: "O que muda", texto: "A consequência prática dentro do seu trabalho." },
+  { rotulo: "A conclusão", texto: "A régua que sobra depois da comparação." },
+],
+23: [
+  { rotulo: "O que você não delega", texto: "A decisão que continua sendo sua, caso a caso." },
+  { rotulo: "Por que não", texto: "O que se perderia se essa parte fosse padronizada." },
+  { rotulo: "O que isso custa", texto: "Em tempo, em escala, em dinheiro." },
+  { rotulo: "O que o cliente ganha", texto: "A diferença que isso faz no resultado dele." },
+],
+24: [
+  { rotulo: "O primeiro critério", texto: "O que checar ao escolher um profissional da sua área." },
+  { rotulo: "O segundo", texto: "Outro critério verificável por quem é leigo." },
+  { rotulo: "O terceiro", texto: "O que quase ninguém checa e deveria." },
+  { rotulo: "O convite honesto", texto: "'Se passar nos três, você está bem servido — comigo ou não.'" },
+],
+25: [
+  { rotulo: "O problema que voltou", texto: "O caso recorrente que apareceu de novo essa semana." },
+  { rotulo: "Por que continua", texto: "A causa estrutural que faz isso se repetir." },
+  { rotulo: "O que evita", texto: "O que teria mudado o desfecho, dito de forma acionável." },
+  { rotulo: "O fecho", texto: "'Enquanto continuar chegando, eu continuo falando.'" },
+],
+26: [
+  { rotulo: "A experiência", texto: "O que a pessoa sente, nas palavras dela — não no nome técnico." },
+  { rotulo: "A nomeação", texto: "'Isso tem nome, e não é o que te disseram.'" },
+  { rotulo: "A explicação", texto: "Por que acontece, com o seu repertório." },
+  { rotulo: "O critério", texto: "O que fazer com isso. Sem chamada para ação." },
+],
+27: [
+  { rotulo: "Para quem serve", texto: "'Se você tem __ e já tentou __ sem resultado.'" },
+  { rotulo: "Para quem não serve", texto: "'Se você tem __, não sou a pessoa certa.'" },
+  { rotulo: "O processo", texto: "O que acontece na prática. Sem prazo, sem promessa." },
+  { rotulo: "A porta", texto: "Como falar com você. Simples e sem urgência." },
+],
+28: [
+  { rotulo: "O indicador comum", texto: "Aquilo pelo qual todo mundo avalia o seu tipo de trabalho." },
+  { rotulo: "Por que engana", texto: "O que ele deixa de fora e por que isso importa." },
+  { rotulo: "O que você olha", texto: "O indicador real, o que você acompanha de verdade." },
+  { rotulo: "Como medir", texto: "Como a pessoa verifica isso sozinha." },
+],
+29: [
+  { rotulo: "O momento difícil", texto: "A fase do seu processo em que parece não estar funcionando." },
+  { rotulo: "Por que é normal", texto: "A forma da curva: esforço antes do resultado." },
+  { rotulo: "O sinal", texto: "O que indica que está no caminho, mesmo sem resultado visível." },
+  { rotulo: "O que fazer", texto: "A conduta para atravessar esse período." },
+],
+30: [
+  { rotulo: "A posição", texto: "O que você defende. Primeira linha, sem preâmbulo." },
+  { rotulo: "O custo", texto: "'Isso me custa __.' A prova de que é opinião, não constatação." },
+  { rotulo: "A sustentação", texto: "O caso, o número ou o padrão que vem da sua prática." },
+  { rotulo: "O convite", texto: "Para quem essa conversa serve. Dito uma vez, sem insistir." },
+],
 };
 
 /** Prompt pronto para colar numa IA, montado com o material do capítulo. */
@@ -288,9 +483,13 @@ export function montarPrompt(cap: {
     "Você vai me ajudar a transformar uma ideia minha em conteúdo para as minhas redes.",
     "Não invente informação: use apenas o que eu te der abaixo.",
     "",
-    "CONTEXTO",
+    "SOBRE O QUE É O CONTEÚDO",
     "Sou {sua profissão} e atendo {seu público}.",
-    "Hoje trabalhei esta ideia: " + cap.conceito.termo + " — " + cap.conceito.definicao,
+    "O assunto do conteúdo é a MINHA área — o que eu faço, o que eu vejo, o que eu resolvo.",
+    "",
+    "TÉCNICA QUE EU VOU USAR (é o método de raciocínio, NÃO o assunto)",
+    cap.conceito.termo + ": " + cap.conceito.definicao,
+    "Use isso apenas para dar forma ao raciocínio. O conteúdo continua sendo sobre a minha área.",
     "",
     "MINHA MATÉRIA-PRIMA (é daqui que o conteúdo tem que sair)",
     "{cole o que você escreveu na tarefa de hoje, ou grave um áudio de 2 minutos falando sobre isso e cole a transcrição}",
@@ -302,7 +501,9 @@ export function montarPrompt(cap: {
     "E QUE EVITE",
     ...cap.diretrizes.eviteAssim.map((f) => "- " + f),
     "",
-    "REGRAS DE VOZ (as mais importantes)",
+    "REGRAS INEGOCIÁVEIS",
+    "- NUNCA escreva sobre marketing, redes sociais, produção de conteúdo, algoritmo",
+    "  ou sobre métodos de criação. O conteúdo é sobre a minha área e mais nada.",
     "- Escreva como eu falo, não como se escreve. Frases curtas.",
     "- Preserve as minhas expressões, inclusive as informais.",
     "- Nada de linguagem institucional: sem 'é fundamental', sem 'de forma consistente'.",
