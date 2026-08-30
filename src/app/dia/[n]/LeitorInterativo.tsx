@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState, useTransition } from "react";
 import { CrieAgora } from "./CrieAgora";
 import { useRouter } from "next/navigation";
-import type { Capitulo } from "@/content/types";
+import type { CapituloCliente, Publicar } from "./tipos";
 import {
   abrirCapitulo, concluirCapitulo, enviarQuiz,
   salvarTarefa, salvarPontuacao, salvarTeste, salvarNota,
@@ -13,9 +13,10 @@ type Detalhe = { id: string; marcada: number; correta: number; acertou: boolean;
 type ResultadoQuiz = { acertos: number; total: number; passou: boolean; detalhes: Detalhe[] };
 
 export function LeitorInterativo({
-  capitulo: cap, concluido, quizAnterior, tarefaAnterior, scoreAnterior, notaAnterior, proximo,
+  capitulo: cap, publicar, concluido, quizAnterior, tarefaAnterior, scoreAnterior, notaAnterior, proximo,
 }: {
-  capitulo: Capitulo;
+  capitulo: CapituloCliente;
+  publicar: Publicar;
   concluido: boolean;
   quizAnterior: { acertos: number; total: number; passou: boolean; answers: unknown } | null;
   tarefaAnterior: { campos: Record<string, string>; state: string; formato: string | null; link_publicacao: string | null } | null;
@@ -399,7 +400,6 @@ export function LeitorInterativo({
                   setTocado(false);
                   setSalvo("idle");
                   refEntrega.current?.scrollIntoView({ behavior: "smooth", block: "center" });
-                  router.refresh();
                 })}>
                 {pendente ? "Entregando…" : editadaAposEntrega ? "Entregar de novo" : "Entregar tarefa"}
               </button>
@@ -481,7 +481,7 @@ export function LeitorInterativo({
       </Secao>
 
       {/* ============================================= CRIE AGORA ==== */}
-      <CrieAgora cap={cap} />
+      <CrieAgora n={cap.n} publicar={publicar} />
 
       {/* =============================================== CONCLUIR ==== */}
       <div className="card p-5 text-center" style={{ borderColor: quizAprovado ? "var(--accent)" : "var(--line)" }}>

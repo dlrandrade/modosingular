@@ -6,6 +6,7 @@ import { FASE4 } from "./capitulos/fase4";
 import { FASE5 } from "./capitulos/fase5";
 
 export * from "./types";
+export * from "./roteiros";
 
 export const CAPITULOS: Capitulo[] = [...FASE1, ...FASE2, ...FASE3, ...FASE4, ...FASE5]
   .sort((a, b) => a.n - b.n);

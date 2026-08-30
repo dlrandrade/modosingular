@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Capitulo } from "@/content/types";
-import { ROTEIROS, ESTRUTURAS, montarPrompt } from "@/content/roteiros";
+import type { Publicar } from "./tipos";
 
 type Modo = "ler" | "roteiro" | "prompt";
 
@@ -17,14 +16,13 @@ const MODOS: { id: Modo; rotulo: string; tempo: string }[] = [
  * Nunca bloqueia a conclusão do capítulo: é oferta, não pedágio.
  * O modo sugerido gira a cada capítulo para a rotina não virar fórmula.
  */
-export function CrieAgora({ cap }: { cap: Capitulo }) {
-  // Cap. 1 abre em 'ler e gravar', o modo de menor atrito para quem começa.
-  const sugerido = MODOS[(cap.n - 1) % 3].id;
+export function CrieAgora({ n, publicar }: { n: number; publicar: Publicar }) {
+  // Cap. 1 abre em "ler e gravar", o modo de menor atrito para quem começa.
+  const sugerido = MODOS[(n - 1) % 3].id;
   const [modo, setModo] = useState<Modo>(sugerido);
   const [copiado, setCopiado] = useState(false);
 
-  const roteiro = ROTEIROS[cap.n] ?? "";
-  const prompt = montarPrompt(cap);
+  const { roteiro, estrutura, prompt } = publicar;
   const texto = modo === "ler" ? roteiro : modo === "prompt" ? prompt : "";
 
   async function copiar() {
@@ -118,7 +116,7 @@ export function CrieAgora({ cap }: { cap: Capitulo }) {
               parte da peça sobre o SEU assunto — escreva ou grave seguindo a sequência.
             </Instrucao>
             <ol className="mt-3 space-y-2">
-              {(ESTRUTURAS[cap.n] ?? []).map((g, i) => (
+              {estrutura.map((g, i) => (
                 <li key={i} className="rounded-xl p-3.5" style={{ background: "var(--bg-2)" }}>
                   <div className="flex items-baseline gap-2.5 mb-1">
                     <span className="text-[11px] font-bold tabular-nums"

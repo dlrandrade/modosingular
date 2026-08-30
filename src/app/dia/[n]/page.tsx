@@ -3,7 +3,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { createClient } from "@/lib/supabase/server";
 import { carregarJornada } from "@/lib/dados";
-import { getCapitulo, FASES } from "@/content";
+import { getCapitulo, FASES, ROTEIROS, ESTRUTURAS, montarPrompt } from "@/content";
+import { paraCliente } from "./tipos";
 import { textoBloqueio } from "@/lib/ritmo";
 import { Cabecalho } from "@/components/Cabecalho";
 import { Conteudo, IlustracaoCapitulo } from "@/components/Blocos";
@@ -127,7 +128,12 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
 
         {/* --------------------- tudo o que é interativo vive no cliente */}
         <LeitorInterativo
-          capitulo={cap}
+          capitulo={paraCliente(cap)}
+          publicar={{
+            roteiro: ROTEIROS[cap.n] ?? "",
+            estrutura: ESTRUTURAS[cap.n] ?? [],
+            prompt: montarPrompt(cap),
+          }}
           concluido={estado.concluido}
           quizAnterior={quizRes.data ?? null}
           tarefaAnterior={tarefaRes.data ?? null}

@@ -44,7 +44,11 @@ diretrizes de produção com esqueleto pronto.
 Abra o **SQL Editor** do Supabase → *New query* → cole
 `supabase/migrations/0001_modo_singular_init.sql` → *Run*.
 
-A migration é idempotente (pode rodar de novo). Ela cria tabelas, RLS, triggers,
+Depois, rode também `supabase/migrations/0002_preserva_conclusao.sql`: ela trava
+o progresso contra regressão e recupera conclusões perdidas a partir do
+`activity_log`.
+
+As migrations são idempotentes (podem rodar de novo). Ela cria tabelas, RLS, triggers,
 a view `admin_subscribers`, e semeia `chapter_settings` (30 linhas) e
 `app_settings` (preço R$ 19,90, capítulos grátis, ritmo).
 
