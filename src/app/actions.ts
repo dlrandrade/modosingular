@@ -17,7 +17,8 @@ async function exigirUsuario() {
 /** Revalida o acesso a um capítulo no servidor — o gating do cliente é só UI. */
 async function podeAcessar(userId: string, n: number) {
   const supabase = await createClient();
-  const [j, prog, sub] = await Promise.all([
+  const [perfil, j, prog, sub] = await Promise.all([
+    supabase.from("profiles").select("role").eq("id", userId).single(),
     supabase.from("journeys").select("started_at").eq("user_id", userId).single(),
     supabase.from("chapter_progress").select("chapter,state").eq("user_id", userId),
     supabase.from("subscriptions").select("status,current_period_end").eq("user_id", userId).maybeSingle(),
@@ -29,7 +30,10 @@ async function podeAcessar(userId: string, n: number) {
   const fim = sub.data?.current_period_end;
   const ativa = ATIVAS.includes(status) && (!fim || new Date(fim) > new Date());
   const dia = diaDaJornada(j.data?.started_at ?? new Date().toISOString());
-  const estado = calcularGating({ dia, concluidos, assinaturaAtiva: ativa }).find((g) => g.n === n);
+  // Admin revisa o curso inteiro sem travar em sequência, assinatura ou ritmo.
+  const estado = calcularGating({
+    dia, concluidos, assinaturaAtiva: ativa, ignorarGating: perfil.data?.role === "admin",
+  }).find((g) => g.n === n);
   return { permitido: !!estado?.liberado, motivo: estado?.motivo ?? null, dia };
 }
 

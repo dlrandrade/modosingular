@@ -66,7 +66,10 @@ export async function carregarJornada(): Promise<EstadoJornada | null> {
     ATIVAS.includes(status) && (!fimPeriodo || new Date(fimPeriodo) > new Date());
 
   const dia = diaDaJornada(iniciadaEm, tz);
-  const gating = calcularGating({ dia, concluidos, assinaturaAtiva });
+  // Admin revisa o curso inteiro sem travar em sequência, assinatura ou ritmo.
+  const gating = calcularGating({
+    dia, concluidos, assinaturaAtiva, ignorarGating: perfil.role === "admin",
+  });
   const proximo = gating.find((g) => g.liberado && !g.concluido)?.n
     ?? Math.min(TOTAL_CAPITULOS, concluidos.length + 1);
 
