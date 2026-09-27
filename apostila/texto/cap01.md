@@ -18,7 +18,7 @@ Renata riu na hora. À noite, em casa, a frase voltou, e ela já não achou gra�
 
 ## Duas Renatas
 
-Naquele dia existiam duas Renatas, e Marcos conheceu as duas com quinze minutos de intervalo. A primeira tem catorze anos de consultório, uma pergunta que nenhum colega faz e uma coleção de casos que outros deram por perdidos. A segunda mora no celular e poderia ser trocada pelo perfil de qualquer fisioterapeuta do país sem que ninguém notasse. Quem encontra a primeira sai de lá indicando. Quem encontra só a segunda a trata como mais uma opção, e escolhe pelo preço, pela distância ou pelo plano de saúde.
+Naquele dia havia duas Renatas, e Marcos conheceu as duas com quinze minutos de intervalo. A primeira tem catorze anos de consultório, uma pergunta que nenhum colega faz e uma coleção de casos que outros deram por perdidos. A segunda mora no celular e poderia ser trocada pelo perfil de qualquer fisioterapeuta do país sem que ninguém notasse. Quem encontra a primeira sai de lá indicando. Quem encontra só a segunda a trata como mais uma opção, e escolhe pelo preço, pela distância ou pelo plano de saúde.
 
 A segunda Renata nunca foi uma decisão. O perfil nasceu seis anos antes, montado por um sobrinho num domingo à tarde, com a foto de jaleco e três modelos de publicação que ele encontrou num aplicativo de design. Depois disso, ela publicava quase apenas em datas comemorativas. Houve um mês em que tentou publicar a cada dois dias e parou no vigésimo terceiro dia, sem saber explicar por quê. Ninguém jamais decidiu o que o perfil deveria dizer sobre ela a quem ainda não a conhece. O resultado é o que costuma acontecer quando ninguém decide: a média da profissão, com o nome dela em cima.
 
@@ -32,13 +32,13 @@ definicao: A distância entre a autoridade que você exerce no mundo real, em at
 porque: O mercado não recompensa o conhecimento que não consegue perceber. Enquanto essa distância existir, você depende da indicação, e a indicação tem teto.
 ```
 
-A confiança que você gera existe; circula por um único canal, estreito e lento, que é o encontro. Por isso a assimetria tem mais a ver com distribuição de confiança do que com técnica de publicação.
+A confiança que você gera existe, mas circula por um único canal, estreito e lento, que é o encontro. Por isso a assimetria tem mais a ver com distribuição de confiança do que com técnica de publicação.
 
 ## Por que os melhores costumam ter a distância maior
 
-Há um paradoxo aqui. Nem toda distância grande vem de competência grande; mas, quando a competência existe, três razões costumam alargar a distância, e nenhuma delas é falta de jeito para a internet.
+Há um paradoxo aqui: quem sabe mais costuma aparecer menos. Nem toda distância grande vem de competência grande, mas, quando a competência existe, três razões a alargam, e nenhuma delas é falta de jeito para a internet.
 
-A primeira é que a competência madura fica silenciosa. Com os anos, o que era raciocínio consciente vira reflexo. Renata não lembra mais que um dia aprendeu a perguntar sobre as manhãs; para ela, é simplesmente o que se pergunta. Um engenheiro estrutural com trinta anos de obra olha uma trinca na parede e sabe, em segundos, se é recalque da fundação ou simples retração do reboco. Para ele, isso é experiência, uma coisa que se acumula com os anos, e por isso ele nem imagina que haja algo ali para contar. O que é óbvio para você é justamente o que falta a quem ainda não conhece você.
+A primeira é que a competência madura fica silenciosa. Com os anos, o que era raciocínio consciente vira reflexo. Renata não lembra mais que um dia aprendeu a perguntar sobre as manhãs; para ela, é simplesmente o que se pergunta. Um engenheiro estrutural com trinta anos de obra olha uma trinca na parede e sabe, em segundos, se é recalque da fundação ou simples retração do reboco. Para ele, isso é experiência, e por isso nem imagina que haja algo ali para contar. O que é óbvio para você é justamente o que falta a quem ainda não conhece você.
 
 A segunda é que os sinais de competência moram em detalhes que só aparecem ao vivo: o momento certo da pergunta, a pausa antes da resposta, o "isso eu não faria". Uma pediatra experiente percebe, pelo jeito como a criança entra no consultório, se ela brinca com o que encontra ou se nem olha em volta, e com isso tem meia resposta sobre se aquela febre pede exame ou só antitérmico e observação. Na consulta, a mãe sente essa segurança na calma da médica. Num perfil, só sente se a pediatra contar, e quem é bom raramente sabe que precisa contar.
 
@@ -46,11 +46,11 @@ A terceira é escrúpulo. Quem entende de verdade conhece as exceções, e quem 
 
 ## A conta que ninguém faz
 
-Toda a autoridade da Renata depende de um encontro acontecer. Alguém precisa indicá-la, o paciente precisa marcar, a consulta precisa começar. Então a competência dela entra em campo. Naquela noite, ela fez uma conta que vinha adiando havia anos: de cada cinco pacientes novos, quatro chegavam por indicação de dois ortopedistas. Como os dois indicavam mais ou menos o mesmo tanto, se um deles se aposentasse, mudasse de cidade ou simplesmente esquecesse o nome dela por alguns meses, dois de cada cinco pacientes novos deixariam de chegar, e em pouco tempo a agenda sentiria, sem que ela tivesse feito nada de errado.
+Toda a autoridade da Renata depende de um encontro acontecer. Alguém precisa indicá-la, o paciente precisa marcar, a consulta precisa começar. Então a competência dela entra em campo. Naquela noite, ela fez uma conta que vinha adiando havia anos: de cada cinco pacientes novos, quatro chegavam por indicação de dois ortopedistas. Como os dois indicavam mais ou menos o mesmo número de pacientes, se um deles se aposentasse, mudasse de cidade ou simplesmente esquecesse o nome dela por alguns meses, dois de cada cinco pacientes novos deixariam de chegar, e em pouco tempo a agenda sentiria, sem que ela tivesse feito nada de errado.
 
 A indicação talvez seja o melhor canal que existe, e este livro não vai sugerir que você a abandone. Mas ela tem uma condição de funcionamento cara: exige presença física ou uma pessoa intermediando. Não trabalha enquanto você atende outro cliente, nem no sábado, nem no mês em que você sai de férias. E tem dono, porque depende da memória e da boa vontade de quem indica.
 
-Há ainda um custo mais discreto. A indicação traz gente parecida com quem indicou. Se os seus clientes chegam sempre pelo mesmo caminho, você atende sempre o mesmo tipo de caso, cobra sempre na mesma faixa e cresce na velocidade de outra pessoa. Escolher o próprio público, que é o que muita gente séria gostaria de poder fazer, fica fora de alcance.
+Há ainda um custo mais discreto. A indicação traz gente parecida com quem indicou. Se os seus clientes chegam sempre pelo mesmo caminho, você atende sempre o mesmo tipo de caso, cobra sempre na mesma faixa e cresce na velocidade de outra pessoa. Escolher o próprio público fica fora de alcance.
 
 ```figura
 tipo: gap
@@ -62,17 +62,17 @@ rotulo_distancia: a assimetria
 legenda: Os tamanhos são ilustrativos. O autodiagnóstico deste capítulo dá uma estimativa da sua.
 ```
 
-Marcos chegou por indicação e, mesmo assim, abriu o perfil antes de entrar. Muita gente que recebe o nome de um médico faz o mesmo. É nesse intervalo, entre o nome recebido e a porta do consultório, que a indicação se confirma ou perde força. A presença digital trabalha, portanto, até para quem chega indicado. No caso da Renata, por pouco não trabalhou contra.
+Marcos chegou por indicação e, mesmo assim, abriu o perfil antes de entrar. É nesse intervalo, entre o nome recebido e a porta do consultório, que a indicação se confirma ou perde força. A presença digital trabalha, portanto, até para quem chega indicado. No caso da Renata, trabalhou contra, e por pouco não ganhou.
 
-A conta tem uma parcela que não cabe na planilha. Se a assimetria custasse só dinheiro, seria administrável; existe um jeito de viver bem de indicação, e muita gente vive. O que torna o problema mais incômodo é que ele mexe com reconhecimento. Pense numa cardiologista com vinte anos de consultório que abre o celular e encontra um rapaz de camiseta explicando, com muita segurança e alguns erros, o que fazer quando o coração dispara. O vídeo tem centenas de milhares de visualizações, e alguns pacientes dela assistiram. O que a incomoda é saber que, na semana seguinte, vai gastar metade de uma consulta desfazendo o que ele ensinou.
+A conta tem uma parcela que não cabe na planilha. Se a assimetria custasse só dinheiro, seria administrável; existe um jeito de viver bem de indicação. O que torna o problema mais incômodo é que ele mexe com reconhecimento. Pense numa cardiologista com vinte anos de consultório que abre o celular e encontra um rapaz de camiseta explicando, com muita segurança e alguns erros, o que fazer quando o coração dispara. O vídeo tem centenas de milhares de visualizações, e alguns pacientes dela assistiram. O que a incomoda é saber que, na semana seguinte, vai gastar metade de uma consulta desfazendo o que ele ensinou.
 
-Muita gente competente descreve esse incômodo com uma raiva que não gostaria de admitir, a sensação de ver o próprio lugar ocupado por quem sabe menos. A raiva é compreensível. O problema é que ela não publica nada.
+A cardiologista descreveria esse incômodo com uma raiva que não gostaria de admitir, a sensação de ver o próprio lugar ocupado por quem sabe menos. A raiva é compreensível. O problema é que ela não publica nada.
 
 ## O que este livro não vai pedir
 
-É provável que você já tenha dado alguma explicação para a própria ausência. "Não gosto de aparecer." "Rede social não é a minha praia." "Não tenho tempo para isso." As três frases podem ser verdadeiras. Elas justificam a distância sem diminuí-la um milímetro, e este livro trata do outro movimento.
+É provável que você já tenha dado alguma explicação para a própria ausência. "Não gosto de aparecer." "Rede social não é a minha praia." "Não tenho tempo para isso." As três frases podem ser verdadeiras. Elas justificam a distância sem diminuí-la um milímetro. Este livro trata de diminuí-la.
 
-Um medo costuma travar gente séria: o de que fechar a assimetria signifique virar outra pessoa, alguém que grava a própria rotina, fala em tom de vendedor e troca o consultório pelo palco. Não significa.
+Sobra um medo: o de que fechar a assimetria signifique virar outra pessoa, alguém que grava a própria rotina, fala em tom de vendedor e troca o consultório pelo palco. Não significa.
 
 ```compara
 esquerda:
@@ -131,7 +131,7 @@ Três semanas depois daquela primeira consulta, Marcos voltou com o diagnóstico
 
 ```autodiagnostico
 titulo: Termômetro da sua assimetria
-instrucao: Antes de qualquer técnica, meça a sua distância. Circule um número por linha pensando em como as coisas estão hoje, não em como gostaria que estivessem. Na segunda linha os números estão em ordem inversa, de propósito. Some os números circulados e leia a sua faixa.
+instrucao: Antes de qualquer técnica, estime a sua distância. Circule um número por linha pensando em como as coisas estão hoje, não em como gostaria que estivessem. Na segunda linha os números estão em ordem inversa, de propósito. Some os números circulados e leia a sua faixa.
 escala: ["Discordo totalmente", "Discordo", "Mais ou menos", "Concordo", "Concordo totalmente"]
 itens:
   - {texto: "Quem me conhece pessoalmente me trata como referência no meu assunto."}
@@ -142,8 +142,8 @@ itens:
   - {texto: "Quando penso em publicar, sinto que teria de virar outra pessoa."}
 nota: "Sem perfil? Pense no que aparece quando alguém busca o seu nome e a sua profissão. Se não aparece nada, circule o 5 nas linhas 2 e 5. O resultado é uma estimativa."
 faixas:
-  - {min: 6, max: 14, titulo: "Assimetria baixa", leitura: "Ou a sua presença já comunica boa parte de quem você é, ou a sua autoridade fora da tela ainda está em construção. Olhe as colunas que você marcou nas linhas 1 e 2: se ficaram em lados opostos da tabela, a distância existe mesmo com soma baixa."}
-  - {min: 15, max: 22, titulo: "Assimetria moderada", leitura: "A distância existe e já pesa: o que alguém encontra sobre você poderia ser de outro profissional da sua área. Publicar mais não resolve; o trabalho aqui é de singularidade."}
+  - {min: 6, max: 14, titulo: "Assimetria baixa", leitura: "Ou a sua presença já comunica boa parte de quem você é, ou a sua autoridade fora da tela ainda está em construção. Olhe as linhas 1 e 2: se a linha 1 ficou à direita e a linha 2 à esquerda, a distância existe mesmo com soma baixa."}
+  - {min: 15, max: 22, titulo: "Assimetria moderada", leitura: "Olhe as linhas 2, 5 e 6. Se em alguma delas você circulou 4 ou 5, a distância existe e já pesa, e publicar mais não resolve; o trabalho é de singularidade. Se nas três você circulou 1 ou 2, a soma veio das outras linhas e a sua presença já trabalha a favor."}
   - {min: 23, max: 30, titulo: "Assimetria alta", leitura: "Existe uma distância grande entre quem você é e o que a internet mostra. É desconfortável de ler, e diz por onde começar: pela linha 2, 5 ou 6 em que você circulou o número mais alto. É ali que a distância se forma."}
 ```
 
@@ -158,9 +158,9 @@ campos:
     linhas: 4
   - rotulo: "Mas quem só vê o meu perfil acha que eu…"
     exemplo: "Um corretor de seguros: “…vendo apólice como quem vende qualquer coisa.” Se você não tem perfil, escreva o que conclui quem busca o seu nome e não encontra nada."
-    linhas: 3
+    linhas: 4
   - rotulo: "Três evidências reais da primeira metade"
-    exemplo: "Uma advogada de família: 1. O divórcio que não virou processo depois de uma conversa de duas horas. 2. Antes de falar de partilha, pergunto quem vai buscar as crianças na escola na segunda-feira. 3. Recuso ação de alienação parental sem laudo, e explico ao cliente por quê na primeira reunião."
+    exemplo: "Uma advogada de família: 1. O divórcio que não virou processo depois de uma conversa de duas horas. 2. Antes de falar de partilha, pergunto quem vai buscar as crianças na escola na segunda-feira. 3. Não entro com ação de alienação parental só com a versão de quem me procura, e explico por quê na primeira reunião."
     linhas: 6
   - rotulo: "A conta da Renata, feita por você: dos últimos dez clientes novos, quantos chegaram indicados? Por quem?"
     exemplo: "Uma nutricionista: “Sete de dez. Cinco deles pela mesma médica.” Use nomes ou iniciais."
@@ -168,8 +168,8 @@ campos:
   - rotulo: "Quanto essa distância custou nos últimos doze meses?"
     exemplo: "Uma dentista: “O convite para falar na associação de pais da escola do meu filho, que foi para uma colega que eu nunca vi atender.” Seja específico: um nome, um mês, um valor aproximado."
     linhas: 4
-  - rotulo: "A explicação que você costuma dar para não aparecer, e o que ela deixa de fora"
-    exemplo: "“Não tenho tempo.” O que fica de fora: “Tenho tempo para corrigir, em consulta, o que outros ensinam errado.”"
+  - rotulo: "A explicação que você dá para não aparecer, e o que ela deixa de fora"
+    exemplo: "Uma farmacêutica: “Não tenho tempo.” O que fica de fora: “Explico a mesma interação entre remédios umas dez vezes por semana, no balcão.”"
     linhas: 3
 criterios:
   - A primeira metade é específica o bastante para não servir a qualquer colega seu.
@@ -185,7 +185,7 @@ regras:
   - {regra: "Use um caso real, não um exemplo genérico.", porque: "O caso carrega detalhe, e o detalhe é o que prova que você viveu aquilo. Preserve o sigilo: mude o que identifica, mantenha o que ensina."}
   - {regra: "Não acuse o público.", porque: "A tensão é com o mercado. Culpar quem lê só gera defesa."}
 faca:
-  - "Abrir com a cena: “Ontem um paciente me perguntou por que a dor melhora justamente quando ele se mexe.”"
+  - "Abrir com a cena: “Ontem uma cliente me perguntou por que a sala ficou menor depois de pintada de branco.”"
   - Nomear o que você viu e o senso comum não vê, com um detalhe que só quem faz o seu trabalho teria.
   - Fechar com o critério que você usa, a régua, em vez de uma resposta pronta.
 evite:
@@ -230,11 +230,11 @@ roteiro_nota: É o mesmo esqueleto, dito em voz alta. Grave sem decorar e, onde 
 - pergunta: Por que a assimetria tende a ser maior em quem é muito bom no que faz?
   opcoes:
     - Porque os melhores têm a agenda cheia e não sobra tempo livre.
-    - Porque quem é muito bom não precisa de clientes novos.
-    - Porque quem cobra mais caro naturalmente atrai menos gente.
-    - Porque o que sabem virou reflexo e aparece ao vivo.
+    - Porque os melhores não têm jeito para falar diante de uma câmera.
+    - Porque quem é muito bom só recebe clientes por indicação.
+    - Porque o que sabem virou reflexo e só aparece ao vivo.
   correta: 3
-  explicacao: O que é óbvio para quem domina é justamente o que falta a quem ainda não conhece esse profissional. Somam-se a isso os sinais de competência que só aparecem ao vivo e o escrúpulo de quem conhece as exceções. Nada disso é falta de talento, e tudo isso pode ser trabalhado.
+  explicacao: O que é óbvio para quem domina é justamente o que falta a quem ainda não conhece esse profissional. Somam-se a isso os sinais de competência que só aparecem ao vivo e o escrúpulo de quem conhece as exceções. Falta de jeito para a câmera não está entre as razões, e chegar só por indicação é consequência da distância, não a sua causa. Nada disso é falta de talento, e tudo isso pode ser trabalhado.
 - pergunta: Qual destas NÃO é uma promessa deste livro?
   opcoes:
     - Tornar visível a autoridade que você já tem.
@@ -250,5 +250,5 @@ itens:
   - {rotulo: "Reconheci a minha assimetria com honestidade", ajuda: "Escrevi as duas metades da frase sem suavizar a segunda (campos 01 e 02).", pontos: 2}
   - {rotulo: "Pus em números a minha dependência de indicação", ajuda: "Sei quantos dos últimos dez clientes chegaram indicados, e por quem (campo 04).", pontos: 2}
   - {rotulo: "Pus à prova a explicação confortável", ajuda: "Escrevi a minha explicação e o que ela deixa de fora (campo 06).", pontos: 1}
-  - {rotulo: "Sustentei a frase com três fatos", ajuda: "As três evidências do campo 03 são fatos, e não adjetivos.", pontos: 3}
+  - {rotulo: "Sustentei a frase com três fatos", ajuda: "As três evidências do campo 03 são fatos, não adjetivos.", pontos: 3}
 ```

@@ -334,10 +334,10 @@ def b_autodiagnostico(d, c):
     eixos = d.get("eixos")  # {"O": "Oral", ...}: soma por eixo em vez de soma total
     if eixos:
         cab = "<tr><th></th><th class='ex'>Eixo</th>" + "".join(f"<th>{esc(e)}</th>" for e in esc_) + "</tr>"
-    for it in d["itens"]:
+    for ni, it in enumerate(d["itens"], 1):
         nums = list(range(k, 0, -1)) if it.get("invertido") else list(range(1, k + 1))
         tag = f'<td class="ex">{it["eixo"]}</td>' if eixos else ""
-        corpo += (f'<tr><td>{md_inline(it["texto"])}</td>{tag}'
+        corpo += (f'<tr><td><span class="nlin">{ni}</span>{md_inline(it["texto"])}</td>{tag}'
                   + "".join(f'<td class="op"><span>{v}</span></td>' for v in nums) + "</tr>")
     faixas = "".join(
         f'<div class="faixa"><div class="intervalo">{esc(f["rotulo"]) if f.get("rotulo") else str(f["min"]) + "–" + str(f["max"])}</div>'
