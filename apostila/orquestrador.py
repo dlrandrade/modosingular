@@ -370,7 +370,9 @@ def render_cap(n: int) -> tuple[str, dict]:
                 f'<p class="subtitulo">{esc(fm["subtitulo"])}</p><p class="epigrafe">{esc(fm["epigrafe"])}</p>'
                 f'<div class="ilustracao">{FIG.ilustracao(fm["ilustracao"])}'
                 f'<p class="legenda">{esc(fm.get("legenda_ilustracao", ""))}</p></div></header>')
-    return (f'<section class="capitulo">{abertura}<div class="texto">{"".join(texto_html)}</div>'
+    txt = re.sub(r"^(\s*<p>)((?:\S+\s){2}\S+?)(?=[\s,.])",
+                 lambda m: f'{m.group(1)}<span class="abre">{m.group(2)}</span>', "".join(texto_html), count=1)
+    return (f'<section class="capitulo">{abertura}<div class="texto">{txt}</div>'
             f'{"".join(secoes_html)}</section>'), {"fm": fm, "corpo": corpo}
 
 

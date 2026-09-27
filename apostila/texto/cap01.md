@@ -60,7 +60,7 @@ rotulo_distancia: a assimetria
 legenda: Os tamanhos são ilustrativos. A sua distância real é medida no autodiagnóstico deste capítulo.
 ```
 
-Repare que Marcos chegou por indicação e, mesmo assim, abriu o perfil antes de entrar. Quase todo mundo faz isso hoje. Quem recebe o seu nome de um colega, de um cliente satisfeito ou de um parente pesquisa antes de ligar, e é nesse intervalo, entre o nome recebido e a primeira mensagem, que a indicação se confirma ou perde força. A presença digital trabalha, portanto, até para quem já chega indicado. No caso da Renata, por pouco não trabalhou contra.
+Marcos chegou por indicação e, mesmo assim, abriu o perfil antes de entrar. Quase todo mundo faz isso hoje. Quem recebe o seu nome de um colega, de um cliente satisfeito ou de um parente pesquisa antes de ligar, e é nesse intervalo, entre o nome recebido e a primeira mensagem, que a indicação se confirma ou perde força. A presença digital trabalha, portanto, até para quem já chega indicado. No caso da Renata, por pouco não trabalhou contra.
 
 A presença digital, bem feita, muda a ordem dos acontecimentos. A pessoa encontra o seu raciocínio antes de encontrar você. Quando chega, já sabe como você pensa, que tipo de pergunta você faz, o que você recusa. A consulta começa alguns passos adiante, porque parte da confiança foi construída sem que você estivesse na sala.
 

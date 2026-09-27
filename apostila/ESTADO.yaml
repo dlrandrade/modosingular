@@ -1,12 +1,12 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 10:59
+# atualizado: 2026-09-27 11:00
 fases_do_projeto:
   F0: concluida
   F1: concluida
   F2: em_andamento
 capitulos:
   1:
-    status: planejado
+    status: em_revisao
     iteracoes: []
   2:
     status: planejado

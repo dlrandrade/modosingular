@@ -64,8 +64,7 @@ body { margin: 0; }
 .texto table + p, .texto ul + p, .texto ol + p, .texto blockquote + p,
 .prosa > p:first-child, .prosa h1 + p, .prosa h2 + p, .prosa .bloco + p, .prosa ul + p, .prosa ol + p,
 .prosa table + p { text-indent: 0; }
-.texto > p:first-child::first-letter { float: left; font: 400 47pt/37pt var(--display); color: var(--acc);
-  margin: 1.3mm 1.8mm 0 0; }
+.texto .abre { font: 600 8.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
 .texto .bloco p { text-indent: 0; }
 
 .texto h2, .prosa h2 {
@@ -136,7 +135,7 @@ strong { font-weight: 600; }
 .compara .neg { background: var(--soft); }
 .compara .pos { border: .8pt solid var(--acc); border-top-width: 2pt; }
 .compara ul { list-style: none; margin: 0; padding: 0; }
-.compara li { font-size: 9.2pt; line-height: 12.8pt; margin: 0 0 1.6mm; padding-left: 3.6mm; text-indent: -3.6mm; text-align: left; hyphens: auto; }
+.compara li { font-size: 9.2pt; line-height: 12.8pt; margin: 0 0 1.6mm; padding-left: 3.6mm; text-indent: -3.6mm; text-align: left; hyphens: manual; }
 .compara .neg li::before { content: "–  "; color: var(--ink-3); }
 .compara .pos li::before { content: "+  "; color: var(--acc); font-weight: 600; }
 .compara .rotulo { margin-bottom: 2mm; }
@@ -221,7 +220,7 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .faca-evite { display: flex; gap: 4mm; margin: 0 0 5mm; break-inside: avoid; }
 .faca-evite > div { flex: 1; }
 .faca-evite ul { list-style: none; margin: 0; padding: 0; }
-.faca-evite li { font-size: 9pt; line-height: 12.6pt; margin: 0 0 1.8mm; padding-left: 3.6mm; text-indent: -3.6mm; text-align: left; hyphens: auto; }
+.faca-evite li { font-size: 9pt; line-height: 12.6pt; margin: 0 0 1.8mm; padding-left: 3.6mm; text-indent: -3.6mm; text-align: left; hyphens: manual; }
 .faca-evite .faca li::before { content: "+  "; color: var(--acc); font-weight: 600; }
 .faca-evite .evite li::before { content: "–  "; color: var(--ink-3); }
 .faca-evite .faca { border-top: 1.6pt solid var(--acc); padding-top: 2mm; }
