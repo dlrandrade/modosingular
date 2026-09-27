@@ -39,23 +39,21 @@ texto: O silêncio, nesse contexto, não é ausência de posicionamento. Pode se
 fonte: do dossiê "A Verdade Central do Seu Negócio"
 ```
 
-## Quem está ocupando o seu lugar
+O desprezo é a reação mais fácil a quem ocupa esse espaço, e a que menos ajuda. A mulher do protocolo de vinte e um dias provavelmente acredita no que diz. Talvez tenha passado por uma crise, melhorado com aquelas práticas e concluído que encontrou uma resposta universal. Ela não tem formação para saber por que funcionou no caso dela e não funciona para todo mundo. Tem, em compensação, três coisas que faltavam à Lúcia e às colegas que ela respeitava: responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte. Na noite da busca, o vídeo mais recente dela tinha saído naquela manhã, e o anterior, na véspera.
 
-O desprezo é a reação mais fácil a quem ocupa esse espaço, e a que menos ajuda. A mulher do protocolo de vinte e um dias provavelmente acredita no que diz. Talvez tenha passado por uma crise, melhorado com aquelas práticas e concluído que encontrou uma resposta universal. Ela não tem formação para saber por que funcionou no caso dela e não funciona para todo mundo. Tem, em compensação, três coisas que faltam a muita gente competente: responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte. Na noite da busca, o vídeo mais recente dela tinha saído naquela manhã, e o anterior, na véspera.
+Responder assim não exige diminuir a profundidade do que você sabe. Responder à pergunta real depende de escuta, e você passa o dia ouvindo essas perguntas. Falar com as palavras do público e voltar no dia seguinte se aprendem. À conversa pública falta o que a mulher do vídeo não tem: saber quando a respiração em quatro tempos não basta, o que pode piorar, para quem aquilo não serve.
 
-Responder assim não exige diminuir a profundidade do que você sabe. Responder à pergunta real depende de escuta, e você passa o dia ouvindo essas perguntas. Falar com as palavras do público e voltar no dia seguinte se aprendem; a terceira e a quarta fases deste livro existem para isso. O que o especialista tem e o ocupante do espaço não tem, a noção das exceções, do risco, do que não serve para todo mundo, é o que falta à conversa pública.
-
-Olhar para a mulher do vídeo sem desprezo mostra que a disputa pelo espaço tem regras simples: ganha quem aparece. O injusto, para o seu público, é que só apareça quem sabe menos.
+Olhar para a mulher do vídeo sem desprezo mostra que a disputa pelo espaço tem uma regra simples: ganha quem aparece e volta no dia seguinte. O injusto, para o seu público, é que só apareça quem sabe menos.
 
 ## Os bons motivos da Lúcia
 
-Lúcia tinha motivos para o silêncio, e todos eles eram bons. O primeiro era o medo da exposição. Ela gosta da discrição do consultório, da porta fechada, da ideia de que o paciente sabe pouco sobre a vida dela, e temia que publicar fosse abrir uma janela nas paredes do consultório. O segundo era sigilo: toda história que ela conhece de perto pertence a alguém que confiou nela, e o simples pensamento de usar uma sessão como exemplo lhe dava um nó no estômago. O terceiro era o olhar dos colegas. Na formação dela, psicóloga que aparecia demais na internet era vista com desconfiança, e ela não queria ser uma delas.
+Lúcia tinha motivos para o silêncio, e todos eles eram bons. O primeiro era o medo da exposição. Gostava da discrição do consultório, da porta fechada, da ideia de que o paciente sabe pouco sobre a vida dela, e temia que publicar fosse abrir uma janela nas paredes do consultório. O segundo era sigilo: toda história que ela conhece de perto pertence a alguém que confiou nela, e o simples pensamento de usar uma sessão como exemplo lhe dava um nó no estômago. O terceiro era o olhar dos colegas. Na formação dela, psicóloga que aparecia demais na internet era vista com desconfiança, e ela não queria ser vista assim.
 
-Lúcia desconfiava que o nariz torcido dos colegas mirava a vaidade, e não o conteúdo. Lembrou de um texto de uma professora da formação que corrigia, com cuidado, uma crença comum sobre terapia; circulou entre os colegas mais críticos sem que ninguém falasse em exibicionismo. Alguns compartilharam, porque dizia em público o que eles também gostariam de dizer. O desconforto com o julgamento alheio diminui muito quando o assunto deixa de ser você.
+Lúcia desconfiava que o nariz torcido dos colegas mirava a vaidade, e não o conteúdo. Lembrou-se de um texto em que uma professora da formação corrigia, com cuidado, uma crença comum sobre terapia. O texto circulou entre os colegas mais críticos sem que ninguém falasse em exibicionismo. Alguns compartilharam, porque dizia em público o que eles também gostariam de dizer. O desconforto com o julgamento alheio diminui muito quando o assunto deixa de ser você.
 
 Havia ainda um quarto motivo, que ela nunca dizia em voz alta: a crença de que o trabalho bem feito fala por si. Durante anos, falou mesmo. A agenda estava cheia, a lista de espera existia, as indicações vinham. O silêncio parecia sóbrio, quase elegante. O problema é que o trabalho bem feito fala por si apenas para quem já está dentro da sala.
 
-O sigilo tem capítulo próprio mais adiante. Do lado de fora, porém, a ausência produz isto, com ou sem intenção:
+O sigilo tem capítulo próprio mais adiante. Do lado de fora da sala, a ausência produz isto:
 
 Tabela: O que a ausência produz, mesmo sem intenção
 
@@ -74,7 +72,7 @@ texto: O tempo que você economiza sem publicar não some da agenda. Uma parte v
 
 ## Quem é o assunto da peça
 
-Para muita gente, publicar é sinônimo de se promover: falar de si, das próprias conquistas, do consultório novo, do prêmio, do curso no exterior. Quem tem pudor de autopromoção, e muito profissional competente tem, conclui que não tem nada a fazer na internet. A conclusão estaria certa se a premissa estivesse certa.
+Para muita gente, publicar é sinônimo de se promover: falar de si, das próprias conquistas, do consultório novo, do prêmio, do curso no exterior. Quem tem pudor de autopromoção conclui que não tem nada a fazer na internet. A conclusão estaria certa se a premissa estivesse certa.
 
 ```compara
 esquerda:
@@ -95,11 +93,11 @@ direita:
 
 Um oftalmologista pode anunciar o aparelho novo do consultório. É autopromoção legítima, e o texto perde a validade em poucas semanas. Ou pode explicar por que os olhos que ardem e embaçam no fim do dia, em quem passa oito horas diante de uma tela, raramente melhoram só com um grau novo nos óculos. O segundo texto ainda vai ser útil daqui a três anos, e quem o encontrar vai saber, sem que ninguém diga, com que tipo de médico está lidando. O profissional aparece pela forma como pensa, quase nunca como tema.
 
-Quando Lúcia entendeu essa diferença, alguma coisa destravou. Ela percebeu que podia falar da culpa de quem "falha" num protocolo de vinte e um dias sem mencionar Débora, sem contar nada da própria vida, sem citar nenhum colega. O assunto seria a ideia, amplamente difundida, de que ansiedade se elimina com uma sequência de tarefas e um prazo, e de onde vem a sensação de fracasso quando isso não acontece. Seria um texto sobre a dúvida de milhares de pessoas, escrito por alguém que conhece o assunto de dentro.
+Quando Lúcia entendeu essa diferença, percebeu que podia falar da culpa de quem "falha" num protocolo de vinte e um dias sem mencionar Débora, sem contar nada da própria vida, sem citar nenhum colega. O assunto seria a ideia, repetida em dezenas de vídeos, de que ansiedade se elimina com uma sequência de tarefas e um prazo, e de onde vem a sensação de fracasso quando isso não acontece. Seria um texto sobre uma dúvida que chegava ao consultório dela toda semana, escrito por alguém que conhece o assunto de dentro.
 
 ## A pergunta que decide
 
-Durante anos, Lúcia se fez a mesma pergunta sobre a internet: "eu quero aparecer?". E a resposta, honesta, era sempre não. A pergunta trava porque mede desejo, e o desejo de muito especialista sério é ficar longe dos holofotes. Enquanto a decisão depender dessa pergunta, ela vai ser adiada para sempre, com a consciência tranquila.
+Durante anos, Lúcia se fez a mesma pergunta sobre a internet: "eu quero aparecer?". E a resposta, honesta, era sempre não. A pergunta trava porque mede desejo, e o desejo dela era ficar longe de qualquer vitrine. Enquanto a decisão depender dessa pergunta, ela vai ser adiada para sempre, com a consciência tranquila.
 
 A outra pergunta é esta: quem eu aceito que explique o meu trabalho a quem ainda não me conhece? Formulada assim, a decisão sai do terreno do gosto.
 
@@ -118,13 +116,15 @@ Foi uma colega do grupo de estudos quem fez à Lúcia essa segunda pergunta, num
 
 Antes de escrever a primeira linha, porém, releu o que o código de ética da profissão diz sobre publicidade. Encontrou o que já intuía: é vedado prometer resultado, fazer divulgação sensacionalista, expor qualquer pessoa atendida. Informar, esclarecer e corrigir uma crença que prejudica quem procura ajuda não só é permitido como faz parte do papel de quem entende do assunto. Muitas profissões têm regras parecidas. Conhecê-las antes de publicar delimita o terreno e, dentro dele, dá segurança.
 
-Lúcia não publicou nada naquela semana. Fez uma coisa mais útil: abriu uma nota no celular e passou a anotar, ao fim de cada dia, as perguntas e as crenças com que os pacientes chegavam. Em duas semanas, a lista tinha trinta e uma linhas, e algumas se repetiam com pequenas variações.
+## Trinta e uma linhas
+
+Naquela semana, Lúcia abriu uma nota no celular e passou a anotar, ao fim de cada dia, as perguntas e as crenças com que os pacientes chegavam. Em duas semanas, a lista tinha trinta e uma linhas, e algumas se repetiam com pequenas variações.
 
 "Se eu precisar de remédio, é porque a terapia não funcionou." "Terapia boa resolve em poucas sessões." "Ansiedade é falta do que fazer." "Se eu mexer no passado, vou ficar pior." "Se o método funcionou para tanta gente e não funcionou comigo, o problema sou eu."
 
 Lúcia não achava nenhuma dessas frases absurda, e nenhuma era rara no consultório dela. Cada uma tinha uma origem compreensível, algum pedaço de verdade e um efeito concreto: atrasava a procura por ajuda ou fazia a pessoa desistir cedo demais. Pelo menos dez eram equívocos que ela corrigia toda semana, sempre com as mesmas palavras. Eram dez correções prontas, testadas durante anos, que até ali só tinham sido ditas de porta fechada.
 
-Naquela noite, escolheu por onde começar, e não foi pela frase mais repetida da lista. Foi pela que tinha levado Débora à sala dela. Escreveu as primeiras linhas no celular, antes de dormir, sem citar Débora nem caso nenhum: “Se você seguiu um protocolo de vinte e um dias e a ansiedade continuou, o que falhou foi a promessa de prazo. Vamos falar de onde vem essa culpa.”
+Naquela noite, escolheu por onde começar: a frase que tinha levado Débora à sala dela, embora não fosse a mais repetida da lista. Escreveu as primeiras linhas no celular, antes de dormir, sem citar Débora nem caso nenhum: “Se você seguiu à risca um protocolo com prazo para acabar com a ansiedade e ela continuou, o que falhou foi a promessa de prazo. Vamos falar de onde vem essa culpa.”
 
 ```guardar
 - A dúvida do seu futuro cliente vai ser respondida por alguém. Você só decide se será por você.
@@ -148,7 +148,7 @@ campos:
     exemplo: "O dentista: “Nos clareamentos que acompanho, o que aparece é sensibilidade nos primeiros dias, e passa. O esmalte continua lá.”\nEscreva o que você vê na prática; o que está no manual o seu cliente também encontra."
     linhas: 5
   - rotulo: "O critério que a pessoa leva para decidir sozinha"
-    exemplo: "“A pergunta certa não é se clareia. É se o seu dente já reage a gelado: se reage, a concentração começa baixa e o tempo de cada sessão é menor.”"
+    exemplo: "“Antes de clarear, veja se o seu dente já reage a gelado. Se reage, diga isso ao dentista e peça para começar com concentração baixa e sessões mais curtas. Se ele não perguntar, pergunte você.”"
     linhas: 4
   - rotulo: "Quem é o assunto desta peça? Diga em uma linha por que ela não é sobre você."
     exemplo: "Uma professora de alfabetização: “O assunto é a ideia de que criança que ainda não lê aos seis anos está atrasada. Eu apareço no jeito de explicar.”"
@@ -171,7 +171,7 @@ regras:
   - {regra: "Entregue o critério, não só a resposta.", porque: "A resposta resolve um caso. O critério faz a pessoa lembrar de você no próximo."}
 faca:
   - "“Você provavelmente ouviu isso de alguém em quem confia, e faz sentido, porque…”"
-  - "“O que mudou foi isto”, ou “o que falta nessa ideia é isto”. Hoje, na prática, o que eu vejo é aquilo."
+  - "“O que mudou foi isto” ou “o que falta nessa ideia é isto”, seguido de “hoje, na prática, o que eu vejo é…”."
   - "“Se você for decidir sozinho, a régua é esta.”"
 evite:
   - "“Pare de acreditar nessa bobagem.”"
@@ -184,7 +184,7 @@ esqueleto:
   - {rotulo: "O que você vê hoje", texto: "A sua observação de prática, com um detalhe que só quem faz tem.", linhas: 2}
   - {rotulo: "A régua", texto: "Como a pessoa decide sozinha da próxima vez.", linhas: 2}
 roteiro: |
-  Tem uma coisa que eu ouço toda semana, e que parece fazer todo sentido.
+  Tem uma coisa que eu ouço toda semana:
 
   {o equívoco que você mais ouve}
 
@@ -194,7 +194,7 @@ roteiro: |
 
   Se você for decidir sozinho, a régua é esta: {o critério que a pessoa leva para casa}
 
-  Não precisa de mim para usar. Guarda aí.
+  Essa régua é sua. Guarda aí.
 roteiro_nota: Um equívoco por peça. Se o assunto envolve saúde, direito ou finanças, deixe claro que o critério orienta, mas não substitui uma avaliação individual.
 ```
 
@@ -211,7 +211,7 @@ roteiro_nota: Um equívoco por peça. Se o assunto envolve saúde, direito ou fi
   opcoes:
     - A frequência com que cada um publica.
     - A qualidade da imagem e do som.
-    - "Quem é o assunto: você ou o problema de quem lê."
+    - "Quem é o assunto, você ou quem lê."
     - O tamanho dos textos e dos vídeos.
   correta: 2
   explicacao: A ocupação de território põe no centro o problema de quem ainda não é cliente e oferece critério. É isso que permite ao especialista sério comunicar sem se sentir vaidoso.

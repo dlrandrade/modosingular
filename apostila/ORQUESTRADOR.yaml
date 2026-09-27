@@ -220,6 +220,10 @@ licoes_da_revisao:
   - "cap02-r2: o esqueleto da rede não repete a oficina; quando a oficina já escreveu as partes, o esqueleto é 'passe a limpo' com 2 linhas por parte (campo esqueleto_rotulo)."
   - "cap02-r2: a cena final, a seção de conceito e o gabarito apontam para a MESMA peça/escolha do personagem. Conferir gabarito contra o texto final a cada reescrita."
   - "cap02-r2: profissões de figurantes não se repetem em capítulos vizinhos (conferir ESTADO.yaml > figurantes antes de escolher)."
+  - "cap02-r3: a régua entregue na peça é a que o CLIENTE usa sozinho (o que observar, o que perguntar), nunca a conduta do profissional."
+  - "cap03-r2: gravar no espaço do cliente exige autorização informada (ele sabe o que vai ser dito) e o mínimo da casa no quadro; o assunto nunca é a decisão daquele cliente."
+  - "cap03-r3: critério do 'Confira antes de seguir' precisa ser verificável no papel, no momento em que a oficina termina."
+  - "cap03-r3: toda cena que mostra resultado mostra também como a pessoa chegou a ele; sem furos de enredo (quem sabia o quê, e quando)."
 
 # ---------------------------------------------------------------------
 elenco:

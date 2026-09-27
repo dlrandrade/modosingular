@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 16:02
+# atualizado: 2026-09-27 16:08
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -56,7 +56,7 @@ capitulos:
       veredito: aprovado
     nota: 9.14
   2:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 15:32
@@ -77,9 +77,18 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.67
+    - iteracao: 3
+      data: 2026-09-27 16:06
+      revisao: apostila/revisoes/cap02-r3.yaml
+      media: 9.05
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.05
   3:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 15:32
@@ -101,7 +110,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.72
+    - iteracao: 3
+      data: 2026-09-27 16:06
+      revisao: apostila/revisoes/cap03-r3.yaml
+      media: 9.02
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.02
   4:
     status: reprovado
     iteracoes:
@@ -144,7 +162,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   9:
-    status: planejado
+    status: rascunho
     iteracoes: []
   10:
     status: planejado
@@ -247,6 +265,7 @@ figurantes:
   - 1
   nutricionista:
   - 1
+  - 9
   farmacêutica:
   - 3
   enfermeira de posto de saúde:
@@ -275,6 +294,12 @@ figurantes:
   - 8
   marceneiro:
   - 8
+  técnico de ar-condicionado:
+  - 9
+  enfermeira obstetra:
+  - 9
+  otorrinolaringologista:
+  - 9
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'

@@ -54,7 +54,7 @@
 
 html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color: var(--ink); }
 .nh { hyphens: manual; }
-.nq { white-space: nowrap; }
+.nq { hyphens: manual; }
 .texto p, .prosa p { hyphenate-limit-chars: 6 3 3; }
 .escala th.ex, .escala td.ex { width: 8mm; text-align: center; font: 600 7.4pt var(--sans); color: var(--acc-d); }
 .somas { display: flex; gap: 3mm; margin: 0 0 3mm; }
@@ -340,3 +340,4 @@ table.escala td .nlin { display: inline-block; width: 5mm; text-indent: 0; font:
 .tabela table { margin: 0; }
 .tabela .tab-leg { text-indent: 0; margin: 0; padding: 1.6mm 0 2mm; border-top: .5pt solid var(--ink); text-align: left; font: italic 400 10.2pt/13pt var(--serif); }
 .tabela .tab-leg .num { display: block; font: 600 6.6pt var(--sans); font-style: normal; letter-spacing: .16em; text-transform: uppercase; color: var(--acc-d); margin-bottom: .6mm; }
+table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }

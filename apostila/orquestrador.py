@@ -363,7 +363,8 @@ def b_oficina(d, c):
             cel = '<td class="cxg nota"><span></span></td>' if g.get("tipo") == "nota" else '<td class="cxg"><span></span></td>'
             corpo_g = "".join(f'<tr><td>{esc(l)}</td>' + cel * len(g["colunas"]) + '</tr>'
                               for l in g["linhas"])
-            espaco = (f'<table class="grade"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
+            curta = " curta" if max(len(l) for l in g["linhas"]) <= 14 else ""
+            espaco = (f'<table class="grade{curta}"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
                       + f'</tr>{corpo_g}</table>')
         else:
             espaco = linhas(f.get("linhas", 3))
@@ -387,7 +388,7 @@ def b_rede(d, c):
     if d.get("roteiro"):
         paras = [p.strip() for p in d["roteiro"].strip().split("\n\n")]
         nota = f'<p class="remissao">{md_inline(d["roteiro_nota"])}</p>' if d.get("roteiro_nota") else ""
-        rot = ('<div class="roteiro-bloco"><p class="rotulo">Roteiro de fala — para ler em voz alta, gravando</p><div class="roteiro">'
+        rot = ('<div class="roteiro-bloco"><p class="rotulo">Roteiro de fala — para dizer em voz alta</p><div class="roteiro">'
                + "".join(f"<p>{lacunas(p)}</p>" for p in paras) + f"</div>{nota}</div>")
     bloco_esq = (f'<p class="rotulo">{esc(d.get("esqueleto_rotulo", "Esqueleto da peça — rascunhe aqui"))}</p>'
                  f'<div class="esqueleto">{esq}</div>')
@@ -439,7 +440,8 @@ def sem_hifen(h: str) -> str:
         if not t.startswith("<"):
             t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
             t = re.sub(r"(“(?:\S+\s){0,15}\S+”)", r'<span class="nh">\1</span>', t)
-            partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nq">\1</span>', t)
+            # compostos: WORD JOINER depois do hífen impede a quebra sem criar caixa inline
+            partes[i] = re.sub(r"(?<=\w)-(?=\w)", "-\u2060", t)
     return "".join(partes)
 
 

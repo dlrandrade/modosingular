@@ -66,7 +66,7 @@ Marcos chegou por indicação e, mesmo assim, abriu o perfil antes de entrar. É
 
 A conta tem uma parcela que não cabe na planilha. Se a assimetria custasse só dinheiro, seria administrável; existe um jeito de viver bem de indicação. O que torna o problema mais incômodo é que ele mexe com reconhecimento. Pense numa cardiologista com vinte anos de consultório que descobre quem a associação do bairro convidou para a palestra do mês do coração: um rapaz de camiseta que explica em vídeos, com muita segurança e alguns erros, o que fazer quando o coração dispara. A comissão conhecia os vídeos dele. Dela, que atende a duas quadras dali, conhecia o nome, e nem todos.
 
-A cardiologista descreveria esse incômodo com uma raiva que não gostaria de admitir, a sensação de ver o próprio lugar ocupado por quem sabe menos. A raiva é compreensível. O problema é que ela não publica nada.
+A cardiologista descreveria esse incômodo com uma raiva que não gostaria de admitir, a sensação de ver outro no lugar que ela achava que era dela. A raiva é compreensível. O problema é que ela não publica nada.
 
 ## O que este livro não vai pedir
 
