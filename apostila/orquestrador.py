@@ -148,6 +148,9 @@ def lint(n: int, silencioso=False) -> dict:
     e_nao = re.findall(r",\s+e não\b", prosa)
     sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante|merecem? (?:uma|um) (?:observação|olhar|atenção)|é preciso olhar para)", prosa)
     repare = re.findall(r"\b(?:Repare|Perceba|Note que|Observe que)\b", prosa)
+    muletas = re.findall(r"(?i)\b(?:justamente|exatamente|realmente|simplesmente)\b", prosa)
+    if len(muletas) > 4:
+        avisos.append(f"muletas (justamente/exatamente/realmente/simplesmente): {len(muletas)} (máx 4)")
     supos = re.findall(r"\b(?:Talvez você|É provável que você|Você provavelmente|Você já deve ter|Você certamente)\b", prosa)
     blocos_sem_roteiro = textos_dos_blocos(re.sub(r"(?ms)^roteiro: \|.*?(?=^roteiro_nota:|^```)", "", corpo))
     sem_falas = re.sub(r"“[^”]*”|\"[^\"]*\"", "", prosa + "\n" + blocos_sem_roteiro)
@@ -351,8 +354,16 @@ def b_oficina(d, c):
     campos = ""
     for i, f in enumerate(d["campos"], 1):
         dica = f'<p class="dica">{esc(f["exemplo"])}</p>' if f.get("exemplo") else ""
+        if f.get("grade"):
+            g = f["grade"]
+            corpo_g = "".join(f'<tr><td>{esc(l)}</td>' + '<td class="cxg"><span></span></td>' * len(g["colunas"]) + '</tr>'
+                              for l in g["linhas"])
+            espaco = (f'<table class="grade"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
+                      + f'</tr>{corpo_g}</table>')
+        else:
+            espaco = linhas(f.get("linhas", 3))
         campos += (f'<div class="campo"><p class="enunciado"><span class="n">{i:02d}</span>{md_inline(f["rotulo"])}</p>'
-                   f'{dica}{linhas(f.get("linhas", 3))}</div>')
+                   f'{dica}{espaco}</div>')
     crit = "".join(f"<li>{md_inline(x)}</li>" for x in d.get("criterios", []))
     return (f'<section class="oficina">{cab_secao(f"Oficina · Capítulo {c.n}", d["titulo"], d["objetivo"])}'
             f'<div class="meta"><div class="tempo"><p class="rotulo">Tempo</p><p class="valor">{d["tempo"]} min</p></div>'
@@ -437,6 +448,8 @@ def md_prosa(s: str, c: Ctx) -> str:
 
 def render_cap(n: int) -> tuple[str, dict]:
     fm, corpo = ler_cap(n)
+    corpo = re.sub(r"^(\s*)((?:[^\s<>]+\s){2}[^\s<>]+?)(?=[\s,.;:])",
+                   lambda m: f'{m.group(1)}<span class="abre">{m.group(2)}</span>', corpo, count=1)
     c = Ctx(n)
     fase = orq()["livro"]["fases"][fm["fase"]]
     texto_html, secoes_html, pos, no_texto = [], [], 0, True
@@ -456,8 +469,7 @@ def render_cap(n: int) -> tuple[str, dict]:
                 f'<p class="subtitulo">{esc(fm["subtitulo"])}</p><p class="epigrafe">{esc(fm["epigrafe"])}</p>'
                 f'<div class="ilustracao">{FIG.ilustracao(fm["ilustracao"])}'
                 f'<p class="legenda">{esc(fm.get("legenda_ilustracao", ""))}</p></div></header>')
-    txt = re.sub(r"^(\s*<p>)((?:\S+\s){2}\S+?)(?=[\s,.])",
-                 lambda m: f'{m.group(1)}<span class="abre">{m.group(2)}</span>', "".join(texto_html), count=1)
+    txt = "".join(texto_html)
     return (f'<section class="capitulo">{abertura}<div class="texto">{txt}</div>'
             f'{"".join(secoes_html)}</section>'), {"fm": fm, "corpo": corpo}
 

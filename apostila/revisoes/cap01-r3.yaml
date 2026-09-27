@@ -1,0 +1,134 @@
+capitulo: 1
+iteracao: 3
+notas: {metodo: 9.2, voz: 9.0, originalidade: 9.0, clareza: 9.2, ritmo: 8.8, concretude: 9.1,
+        coerencia: 8.8, aplicabilidade: 8.5, impresso: 8.4, honestidade: 9.1}
+bloqueadores:
+  - 'Autodiagnóstico: as duas leituras de faixa que remetem a linhas específicas falham contra o item invertido, que é exatamente o que a lição da r2 manda testar ("toda instrução de pontuação precisa ser testada linha a linha contra os itens invertidos"). (1) Faixa baixa: "Compare as linhas 1 e 2: é a diferença entre elas que importa." Na linha 2 a numeração está invertida, então quem compara os NÚMEROS circulados chega sempre à conclusão oposta: quem marcou "Concordo totalmente" nas duas linhas (nenhuma assimetria) circulou 5 e 1, diferença de 4; quem marcou "Concordo totalmente" na 1 e "Discordo totalmente" na 2 (assimetria máxima) circulou 5 e 5, diferença zero. O caso existe dentro da faixa: 5+5+1+1+1+1 = 14. (2) Faixa alta: "diz por onde começar: pela linha em que você marcou mais alto." Para o leitor típico dessa faixa, os números mais altos estão nas linhas 1, 3 e 4, que medem a autoridade real, a dependência de indicação e o mercado; nenhuma delas é ponto de partida (começar "pela linha 1" não quer dizer nada), e na linha 2 "marcar mais alto" é ambíguo. O instrumento impresso dá ao leitor uma leitura errada; a correção é de uma frase por faixa.'
+pontos_fortes:
+  - 'A cena de abertura continua de editora e agora planta o modo da Renata como a bíblia pede: "Renata deixou a pasta de exames fechada sobre a mesa; primeiro queria ouvir." e "Marcos não entendeu todos os termos. Entendeu o desenho, e isso bastou". O detalhe de ofício é exato (dor pior ao acordar que cede com o movimento, fita medindo a flexão lombar, encaminhamento ao reumatologista).'
+  - 'O fecho da cena ganhou o melhor achado do capítulo, um ganho novo e não uma repetição: o paciente que indica a fisioterapeuta e, "sem que ninguém pedisse, um aviso: “Não liga para o Instagram dela.”" Resume a tese inteira numa fala e prova que a indicação e a presença digital puxam em sentidos opostos.'
+  - 'Formulações próprias que um leitor exigente sublinha: "a média da profissão, com o nome dela em cima"; "Dizia que ela atende coluna, o que é verdade; que gosta de alongamento, o que é meia verdade; e que se parece com todas as outras, o que é falso"; "cresce na velocidade de outra pessoa"; "A raiva é compreensível. O problema é que ela não publica nada."'
+  - 'A seção "Por que os melhores costumam ter a distância maior" (reflexo, sinais que só aparecem ao vivo, escrúpulo) é contribuição própria, com três detalhes de ofício exatos e variados (recalque ou retração do reboco; a criança que brinca ou nem olha em volta), e desarma a objeção "não tenho jeito para isso".'
+  - 'Regra de ouro íntegra e dita sem sermão ("a coluna, o contrato, o balanço, a reforma, a ansiedade, o dente"); roteiro de fala é o esqueleto dito em voz alta, 100% sobre a área. Arco coerente com o cap. 5 ("tentou publicar a cada dois dias, e parou no vigésimo terceiro dia"; o cap. 5 abre em "Durante vinte e dois dias"). Lint limpo.'
+  - 'A oficina agora amarra o checklist campo a campo (campos 04 e 06 novos) e a rede parte do campo 03; o leitor sabe o que fazer e com o quê.'
+resolvidos_das_anteriores:
+  - 'r2, bloqueador da pontuação para quem não tem perfil: resolvido ("circule o 5 nas linhas 2 e 5"), e a instrução foi separada em nota sob a tabela. Mas ver o novo bloqueador nas leituras das faixas.'
+  - 'r2, faixa moderada que afirmava o que a escala não mede e campo 02 sem instrução para quem não tem perfil: resolvidos.'
+  - 'r2, "Faça assim" com indireta a colegas ("por que ninguém tinha visto isso antes"): resolvido ("por que a dor melhora justamente quando ele se mexe"; "o senso comum não vê").'
+  - 'r2, contradição tensão x cena na regra 1: resolvido ("Comece por uma cena com conflito").'
+  - 'r2, arco do carrossel da Renata: resolvido e coerente com o texto do cap. 5.'
+  - 'r2, modo de pensar da Renata e pasta de exames sem uso: resolvidos.'
+  - 'r2, "Bem feita…" antecipando a figura 1.2: resolvido (agora introduz a figura). Parágrafo da cardiologista dividido: resolvido. Seção "A conta" como depósito: só parcialmente (ver problemas).'
+  - 'r2, fecho repetindo a batida "quase foi embora": o fecho resolveu (ganho novo), mas a batida ainda aparece três vezes no capítulo (ver problemas).'
+  - 'r2, antítese do "Para guardar", três suposições sobre o leitor, "parou de fingir": resolvidos (lint: 1 suposição, 1 "não é/é").'
+  - 'r2, checklist sem campo para a explicação confortável, rede desligada da oficina, tempo da rede: resolvidos (campo 06, "Parta de uma das três evidências do campo 03", "uns dez minutos"). O tempo total do dia continua acima do pacto (ver problemas).'
+  - 'r2, "quase todo especialista deseja em silêncio" e promessa na faixa alta: resolvidos.'
+  - 'r2, distratores da verificação (anúncio pago; plataformas) e comprimento da correta: resolvidos. Novo problema: distratores fáceis demais.'
+  - 'r2, pediatra vaga, iceberg, vocabulário de mercado na caixa comparativa, "encurtar" repetido, "te" misturado com "você": resolvidos.'
+  - 'r2, registro de figurantes no ESTADO.yaml: NÃO resolvido (pediatra, professora de piano e nutricionista seguem fora do registro).'
+  - 'r2, diagramação: esqueleto agora inteiro numa página (resolvido); hifenização em fim de página e "bem-/comportada" (resolvidos nas páginas vistas); extensão do capítulo (piorou: 17 páginas), brancos em p014 e p016, notas de figura pequenas e rótulo com fundo branco na fig. 1.1: não resolvidos.'
+problemas:
+  - criterio: aplicabilidade
+    trecho: "Compare as linhas 1 e 2: é a diferença entre elas que importa."
+    por_que: 'Bloqueador (ver acima). Com a linha 2 invertida, a comparação dos números circulados dá sempre a leitura oposta à verdadeira.'
+    correcao: 'Faixa baixa: "Ou a sua presença já comunica boa parte de quem você é, ou a sua autoridade fora da tela ainda está em construção. Olhe as colunas que você marcou nas linhas 1 e 2: se ficaram em lados opostos da tabela, a distância existe mesmo com soma baixa."'
+  - criterio: aplicabilidade
+    trecho: "É desconfortável de ler, e diz por onde começar: pela linha em que você marcou mais alto."
+    por_que: 'Bloqueador (ver acima). Nas linhas 1, 3 e 4, marcar alto não aponta ponto de partida; na linha 2, "mais alto" é ambíguo.'
+    correcao: '"É desconfortável de ler, e diz por onde começar: pela linha 2, 5 ou 6 em que você circulou o número mais alto. É ali que a distância se forma."'
+  - criterio: aplicabilidade
+    trecho: "Uma advogada de família: 1. O divórcio que não virou processo depois de uma conversa de duas horas. 2. A pergunta que faço na primeira reunião e ninguém faz. 3. O tipo de ação que eu recuso, e por quê."
+    por_que: 'O critério de qualidade da mesma oficina diz "As três evidências são fatos. “Sou dedicado” é adjetivo; “atendi o caso X deste jeito” é evidência." O exemplo cumpre isso só no item 1; os itens 2 e 3 são rubricas do PWA (categorias, não fatos), e o 2 traz a comparação com colegas que a rede manda evitar ("e ninguém faz"). O leitor copia o molde do exemplo, e o molde está vazio.'
+    correcao: 'Dar fatos nos três itens, sem comparação: "1. O divórcio que não virou processo depois de uma conversa de duas horas. 2. Antes de falar de partilha, pergunto quem vai buscar as crianças na escola na segunda-feira. 3. Recuso ação de alienação parental sem laudo, e explico ao cliente por quê na primeira reunião."'
+  - criterio: aplicabilidade
+    trecho: "tempo: 30"
+    por_que: 'O pacto de "Antes de começar" promete "trinta a quarenta e cinco minutos" por capítulo. Aqui: leitura de cerca de 2.000 palavras de prosa mais boxes (12 a 15 min), autodiagnóstico (5), oficina de seis campos (30), peça da rede (10, sem contar a gravação), verificação e checklist (5): mais de uma hora, logo no primeiro dia, que é quando o leitor decide se o pacto é crível. O campo 05 é o único sem exemplo de profissão e pede o que o leitor não tem como saber ("clientes que foram para outro lugar").'
+    correcao: 'Ou baixar a oficina para 25 minutos e dar ao campo 05 um exemplo concreto e verificável (uma dentista: "O convite para falar na associação de pais da escola do meu filho, que foi para uma colega que eu nunca vi atender."), ou declarar a exceção no próprio capítulo, na intro da oficina: "Hoje o trabalho passa de uma hora; os próximos capítulos voltam ao ritmo combinado." Não deixar a promessa do pacto quebrada em silêncio.'
+  - criterio: coerencia
+    trecho: "Marcos viu o reflexo antes de ver a pessoa. Quase foi embora."
+    por_que: 'A lição da r2 limita a mesma batida narrativa a duas vezes por capítulo. Ela aparece três: a legenda da abertura ("Quase foi embora"), a cena ("ele contou, meio sem graça, que quase não tinha entrado") e a argumentação ("No caso da Renata, por pouco não trabalhou contra"). A legenda ainda entrega o desfecho da cena antes de o leitor chegar a ela.'
+    correcao: 'Legenda: "Marcos viu o reflexo antes de ver a pessoa." (cortar "Quase foi embora."). Manter as duas outras.'
+  - criterio: ritmo
+    trecho: "Nos primeiros quinze minutos de conversa, alguma coisa mudou no rosto dele."
+    por_que: 'Frase herdada do PWA, vaga ("alguma coisa mudou no rosto") e fora de ordem: anuncia o efeito antes de mostrar a causa, que vem nas cinco frases seguintes. Com ela, o parágrafo tem 7 frases, acima do teto de 6 da lição da r2. A última frase do parágrafo ("Entendeu o desenho, e isso bastou…") já faz o trabalho da mudança, e melhor.'
+    correcao: 'Cortar a frase. O parágrafo fica com 6 frases e a virada acontece no fim, onde deve.'
+  - criterio: ritmo
+    trecho: "Antes de qualquer técnica, meça a sua distância. As próximas páginas pedem uma caneta."
+    por_que: 'O texto corrido termina no melhor momento do capítulo ("Não liga para o Instagram dela.") e, na linha seguinte, o narrador anuncia as seções seguintes, o que a lição da r1 veta ("não listar as seções seguintes do capítulo"). A r1 também avisou que a fórmula da caneta, repetida, vira cacoete. Na página, a frase vai sozinha para o topo da p019.'
+    correcao: 'Cortar as duas frases. Se o autor quiser a ponte, ela cabe como primeira linha da instrução do autodiagnóstico: "Antes de qualquer técnica, meça a sua distância. Circule um número por linha…"'
+  - criterio: ritmo
+    trecho: "É provável que você já tenha dado alguma explicação para a própria ausência."
+    por_que: 'A seção "A conta que ninguém faz" ainda reúne oito blocos: a conta, os limites da indicação, o custo discreto, a figura 1.1, o intervalo do perfil, a cardiologista, a raiva e as desculpas. O intertítulo cobre só os quatro primeiros; a partir de "Se a assimetria custasse só dinheiro" o assunto é reconhecimento e desculpas, que o PWA tratava em seção própria. O parágrafo das desculpas, no fim, é a pergunta a que a seção seguinte responde, mas fica separado dela pelo intertítulo.'
+    correcao: 'Mover o parágrafo "É provável que você já tenha dado alguma explicação…" para abrir "O que este livro não vai pedir", logo antes de "Um medo costuma travar gente séria…" (as desculpas e o medo são a mesma resistência). Abrir o parágrafo da cardiologista com uma ponte que prenda à conta: "A conta tem uma parcela que não cabe na planilha."'
+  - criterio: voz
+    trecho: "Só foi porque a mulher insistiu" / "só circula por um único canal" / "isso é só experiência" / "Só então a competência dela entra em campo" / "Só guardou a frase do Marcos"
+    por_que: 'Tique lexical que o lint não conta: "só" aparece 13 vezes na prosa, "já" 15, "ninguém" 9 ("ninguém tinha investigado", "sem que ninguém notasse", "Ninguém nunca sentou", "quando ninguém decide", "sem que ninguém ensine", "ninguém aqui vai sugerir", "Ninguém precisa ouvir", "sem que ninguém pedisse", mais o intertítulo). Em 2.000 palavras isso vira música de fundo; em 30 capítulos, assinatura. "Justamente" aparece 3 vezes.'
+    correcao: 'Cortar cerca de metade das ocorrências de "só" e "já" onde não mudam o sentido (ex.: "isso é só experiência" -> "isso é experiência"; "Só então a competência dela entra em campo" -> "Então a competência dela entra em campo"; "A confiança que você gera existe; circula por um único canal"). Manter no máximo 5 "ninguém". Sugestão ao orquestrador: aviso no lint para palavras de apoio acima de 5 por mil.'
+  - criterio: voz
+    trecho: "Não significa, e as duas colunas abaixo mostram por quê."
+    por_que: 'Narrador que anuncia o box, com erro de endereço no papel: as colunas não estão "abaixo", estão na página seguinte (p017, depois de ~23% de branco na p016), e não mostram "por quê", mostram o quê. O mesmo endereçamento de tela aparece na rede: "A peça abaixo é para quem…" e "É o esqueleto acima, dito em voz alta" (o esqueleto está na página anterior).'
+    correcao: '"Não significa." (e deixar o box falar). Na rede: "A peça a seguir é para quem…" e "É o mesmo esqueleto, dito em voz alta."'
+  - criterio: originalidade
+    trecho: "Não trabalha enquanto você dorme, nem enquanto você atende outro cliente, nem no sábado."
+    por_que: '"Trabalhar enquanto você dorme" é o slogan do marketing de infoproduto, exatamente o registro de que o público-alvo desconfia; herdado do PWA, é a única frase do capítulo que o leitor já leu num anúncio.'
+    correcao: '"Não trabalha enquanto você atende outro cliente, nem no sábado, nem no mês em que você sai de férias."'
+  - criterio: originalidade
+    trecho: "ilustracao: espelho"
+    por_que: 'Trocar o iceberg pelo espelho foi certo, mas o desenho da p011 mostra um reflexo fiel (cabeça dourada, busto bege, a mesma figura), quando a tese é que o reflexo diminui e genericiza a pessoa. Lida ao pé da letra, a ilustração diz o contrário do capítulo: o espelho mostra quem você é.'
+    correcao: 'No desenho, deixar a pessoa fora do espelho em traço cheio e o reflexo menor, em cinza e sem traços próprios (uma silhueta qualquer), para que a diferença se leia em preto e branco. A legenda passa a funcionar sozinha.'
+  - criterio: concretude
+    trecho: "e com isso já sabe se aquela febre pede exame ou só antitérmico e observação."
+    por_que: 'A observação do estado geral é critério real de triagem em pediatria, mas nenhuma pediatra "já sabe" a conduta pela entrada da criança; ela ainda examina. Para o leitor da saúde, o exagero soa como texto de fora, e o livro prega o escrúpulo de quem conhece as exceções três linhas adiante.'
+    correcao: '"…e com isso já tem meia resposta sobre se aquela febre pede exame ou só antitérmico e observação."'
+  - criterio: honestidade
+    trecho: "Quem recebe o nome de um médico faz o mesmo."
+    por_que: 'Afirmação universal sem fonte, da família que a r1 mandou cortar ("quase todo mundo faz isso hoje"). O mesmo em "O vídeo tem centenas de milhares de visualizações, e os pacientes dela assistiram" (todos?).'
+    correcao: '"Muita gente que recebe o nome de um médico faz o mesmo." / "…e alguns pacientes dela assistiram."'
+  - criterio: honestidade
+    trecho: "Há um paradoxo aqui: a assimetria tende a ser maior justamente em quem é muito bom no que faz"
+    por_que: 'A seção é boa, mas só lisonjeia: todo leitor com distância grande sai dela autorizado a se ver entre os melhores, e ela termina em "Nenhuma das três razões é defeito". O próprio autodiagnóstico admite a outra hipótese ("a sua autoridade fora da tela ainda está em construção"); a prosa, não. Um leitor exigente percebe o afago.'
+    correcao: 'Acrescentar uma frase no primeiro parágrafo da seção: "Nem toda distância grande vem de competência grande; mas, quando a competência existe, três razões costumam alargar a distância, e nenhuma delas é falta de jeito para a internet."'
+  - criterio: clareza
+    trecho: "É nesse intervalo, entre o nome recebido e a primeira mensagem, que a indicação se confirma ou perde força."
+    por_que: 'O caso que sustenta o argumento não acontece nesse intervalo: Marcos já tinha marcado e abriu o perfil sentado na recepção, entre a chegada e a consulta. O leitor atento percebe que a regra geral e o exemplo apontam para momentos diferentes.'
+    correcao: '"É nesse intervalo, entre o nome recebido e a porta do consultório, que a indicação se confirma ou perde força."'
+  - criterio: honestidade
+    trecho: "Chega até você já convencido / A conversa começa com a objeção já vencida."
+    por_que: 'Vocabulário de venda ("convencido", "objeção vencida") numa figura sem ressalva, para um público de profissões com código de publicidade que o livro promete respeitar. Soa como resultado garantido do funil, e contradiz o tom contido do parágrafo que a introduz ("parte da confiança foi construída").'
+    correcao: 'Nó 4: "Chega até você já com confiança" / nota: "A conversa começa alguns passos adiante."'
+  - criterio: metodo
+    trecho: "Porque os melhores costumam ter aversão a qualquer tecnologia."
+    por_que: 'Os distratores ficaram inequivocamente falsos, como a r1 pediu, mas absurdos demais: "só funciona para quem já tem muitos seguidores", "quem é muito bom não precisa de clientes novos", "aversão a qualquer tecnologia". Qualquer leitor acerta as quatro sem ter lido o capítulo; a verificação deixa de verificar. O distrator bom é o equívoco que o capítulo refuta.'
+    correcao: 'q3 a: "Porque os melhores têm a agenda cheia e não sobra tempo para publicar." (o capítulo trata "não tenho tempo" como explicação, não como causa). q2 b: "Ela para de funcionar quando você começa a publicar." (o capítulo diz o contrário). Gabarito comentado explica por que cada um é a armadilha.'
+  - criterio: coerencia
+    trecho: "Ninguém nunca sentou para pensar em como a competência dela deveria aparecer para quem ainda não a conhece."
+    por_que: 'Duas frases antes, Renata tentou publicar a cada dois dias por mais de três semanas, o que é ter pensado no perfil, ainda que mal. A dupla negação "Ninguém nunca" também é a primeira coisa que o preparador marca.'
+    correcao: '"Ninguém jamais decidiu o que o perfil deveria dizer sobre ela a quem ainda não a conhece."'
+  - criterio: coerencia
+    trecho: "Uma pediatra experiente percebe…" / "Uma professora de piano: …" / "Uma nutricionista: …"
+    por_que: 'Pendente da r2: o registro de figurantes do ESTADO.yaml lista para o cap. 1 só cardiologista, engenheiro estrutural, contadora e advogada de família. Pediatra, professora de piano e nutricionista ficam livres para reaparecer nos próximos capítulos, contra a regra de uma participação por profissão.'
+    correcao: 'Registrar pediatra, professora de piano e nutricionista como usados no cap. 1.'
+  - criterio: aplicabilidade
+    trecho: "Escrevi a frase da minha assimetria — As duas metades estão preenchidas e sustentadas por três evidências (campo 03)."
+    por_que: 'O item 4 (3 pontos) repete o item 1 ("Escrevi as duas metades da frase… campos 01 e 02") e remete só ao campo 03. O rótulo diz uma coisa e a ajuda outra; o leitor pontua duas vezes a mesma frase.'
+    correcao: 'Rótulo: "Sustentei a frase com três fatos"; ajuda: "As três evidências do campo 03 são fatos, não adjetivos."'
+edicoes_de_linha:
+  - 'Usar o que você já tem, repertório, opinião e casos. -> Usar o que você já tem: repertório, opinião e casos.'
+  - 'Em nenhum desses quatro passos aparece a palavra viral. -> Em nenhum desses quatro passos aparece a palavra “viral”. (palavra citada, não usada)'
+  - 'Houve um mês em que tentou publicar a cada dois dias, e parou no vigésimo terceiro dia sem saber explicar por quê. -> Houve um mês em que tentou publicar a cada dois dias e parou no vigésimo terceiro dia, sem saber explicar por quê.'
+  - 'É por isso que a assimetria tem mais a ver com distribuição de confiança do que com qualquer técnica de publicação. -> Por isso a assimetria tem mais a ver com distribuição de confiança do que com técnica de publicação. (segundo "É por isso que" da página; "qualquer" sobra)'
+  - 'Fabricar cansa em poucas semanas, porque obriga você a sustentar um personagem. Revelar dá trabalho no começo, porque exige… mas depois pede menos esforço, porque cada peça sai… -> três "porque" em três frases; trocar o do meio: "Revelar dá trabalho no começo, já que exige olhar para o próprio ofício com atenção, mas depois pede menos esforço: cada peça sai de algo que você já faz."'
+  - 'Se um deles se aposentasse… dois de cada cinco pacientes novos deixariam de chegar -> Como os dois indicavam mais ou menos o mesmo tanto, se um deles se aposentasse… dois de cada cinco pacientes novos deixariam de chegar (a conta só fecha com essa premissa; o leitor contador vai querer vê-la)'
+  - 'Gabarito q1: A assimetria mede percepção. -> A assimetria é uma questão de percepção. (quem mede é o autodiagnóstico)'
+  - 'Oficina, campo 02, exemplo: “…sou mais um profissional da área, competente e igual a todos os outros.” -> dar profissão, como nos demais campos: Um corretor de seguros: “…vendo apólice como quem vende qualquer coisa.”'
+  - 'Rede, esqueleto: A régua que você usa e que a maioria não usa. -> A régua que você usa para decidir. (a comparação com "a maioria" empurra para a indireta que o "Evite" proíbe)'
+diagramacao:
+  - 'Extensão: o capítulo ocupa 17 páginas (p011 a p027), uma a mais que na r2 e três acima do teto de 14, com a prosa em 1.951 palavras, na metade de baixo da faixa. Oficina e rede tomam seis páginas (p021 a p026). Em 30 capítulos, o padrão soma de 60 a 90 páginas acima do previsto.'
+  - 'p016: ~23% de branco no pé, depois do intertítulo "O que este livro não vai pedir" e do parágrafo de entrada; a caixa comparativa só abre na p017. O intertítulo fica separado do seu conteúdo principal e o texto diz "abaixo". Prender intertítulo e parágrafo ao box, ou deixar o box ir para depois do parágrafo "A coluna da esquerda…", subindo a prosa.'
+  - 'p014: ~14% de branco no pé antes de "A conta que ninguém faz" (pendente da r2). Verificar a regra que empurra o intertítulo com a figura 1.1.'
+  - 'p024: "Faça assim / Evite" sozinhos e ~70% de página em branco antes do esqueleto (p025). O projeto aceita branco antes de esqueleto indivisível, mas aqui é evitável: testar o esqueleto começando na p024, logo abaixo do faça/evite (as linhas 3/3/4/2 somam pouco mais de meia página), o que devolve uma página ao capítulo.'
+  - 'p026, roteiro de fala: espaço antes da pontuação depois de cada lacuna ("há um mês ,", "disse .", "aparente .", "viu .", "primeiro ."). É o padding do sublinhado; tirar o espaço à direita da lacuna ou colar a pontuação dentro do span.'
+  - 'p015, figura 1.1: o rótulo "a assimetria" continua com fundo claro cortando a hachura, e as notas das barras seguem em Inter itálico cinza pequeno (pendente desde a r1). Subir para 8,5 pt e escurecer.'
+  - 'p011: ver problema de originalidade sobre o espelho; o reflexo desenhado é idêntico à pessoa.'
+  - 'p019: "Para guardar" e ~60% de branco antes do autodiagnóstico: aceito pelo projeto; com o corte de "Antes de qualquer técnica…" a página fica ainda mais leve, sem custo.'
+veredito: "O texto está a uma passada de linha do 9, com abertura, fecho e argumento de editora, mas o piloto ainda não passa: as leituras das faixas do autodiagnóstico dão ao leitor a conclusão invertida pela linha invertida (bloqueador), o exemplo da oficina contradiz o próprio critério de evidência, o dia pede mais de uma hora contra o pacto de 30 a 45 minutos e a diagramação subiu para 17 páginas."

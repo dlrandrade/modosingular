@@ -167,7 +167,7 @@ figure.fig .titulo-fig { font: italic 400 10.4pt/13.5pt var(--serif); margin: .8
 figure.fig svg { display: block; width: 100%; height: auto; }
 
 table { width: 100%; border-collapse: collapse; margin: 5mm 0; break-inside: avoid; font: 400 7.9pt/10.8pt var(--sans); }
-table caption { caption-side: top; text-align: left; font: italic 400 10.2pt/13pt var(--serif);
+table caption { break-after: avoid; caption-side: top; text-align: left; font: italic 400 10.2pt/13pt var(--serif);
   padding: 1.6mm 0 2mm; border-top: .5pt solid var(--ink); }
 table caption .num { display: block; font: 600 6.6pt var(--sans); font-style: normal; letter-spacing: .16em;
   text-transform: uppercase; color: var(--acc-d); margin-bottom: .6mm; }
@@ -321,3 +321,11 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .glossario dd { margin: .6mm 0 0; font-size: 9.2pt; line-height: 13pt; text-align: left; }
 .prosa pre, .prompt { font: 400 7.9pt/11.6pt var(--sans); background: var(--soft); padding: 4mm 5mm; white-space: pre-wrap; }
 .prosa table td { height: 9mm; }
+
+table.grade { margin: 1.5mm 0 0; font: 400 9pt/12pt var(--serif); }
+table.grade th { text-align: center; }
+table.grade th:first-child { text-align: left; }
+table.grade td { padding: 1.6mm 1mm; border-bottom: .4pt solid var(--line); }
+table.grade td:first-child { font-weight: 400; }
+table.grade td.cxg { text-align: center; width: 22mm; }
+table.grade td.cxg span { display: inline-block; width: 3.6mm; height: 3.6mm; border: .7pt solid var(--ink-2); }

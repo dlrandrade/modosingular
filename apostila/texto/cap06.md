@@ -16,7 +16,7 @@ De volta ao escritório, o estagiário perguntou, meio sem jeito, por que os cli
 
 À tarde, recusou um caso. O empresário queria contestar uma ação alegando que o funcionário era autônomo, e os próprios e-mails dele, que trouxe impressos, mostravam horário fixo, chefe e metas. Otávio explicou que não defenderia aquela tese e sugeriu outra estratégia; o empresário saiu contrariado. Às seis, antes de ir embora, notou uma coisa que ninguém tinha comentado: quase todos os clientes que o procuraram naquele semestre tinham funcionários em regime misto, parte em casa e parte na empresa, e nenhum deles controlava direito as horas feitas em casa.
 
-Às sete da noite, sentado no carro, Otávio pensou que precisava enviar à agência alguma ideia para o mês seguinte e concluiu que não tinha nenhuma. O calendário sugerido pela agência abria com uma arte comemorativa do Dia do Trabalhador. Naquele único dia, ele tinha vivido pelo menos sete peças publicáveis sobre a própria área. Não guardou nenhuma.
+Às sete da noite, sentado no carro, Otávio pensou no que diria quando a agência voltasse a publicar, dali a algumas semanas, e concluiu que não tinha nenhuma ideia. O calendário que ela tinha sugerido para a retomada abria com uma arte comemorativa do Dia do Trabalhador. Naquele único dia, ele tinha vivido pelo menos sete peças publicáveis sobre a própria área. Não guardou nenhuma.
 
 Nenhuma daquelas sete coisas parecia conteúdo, e o motivo é revelador. Elas não se pareciam com nada do que a agência publicava. Não tinham título, não cabiam num "Você sabia?", não eram datas comemorativas. Eram pedaços de trabalho, com nome de cliente, cheiro de fórum e pressa. Otávio tinha aprendido, sem perceber, que conteúdo era aquela coisa limpa e genérica que chegava pronta na planilha colorida. Tudo o que era dele parecia sujo demais para ser publicado.
 
@@ -56,7 +56,9 @@ Tabela: Onde a matéria-prima aparece
 | Opinião | Onde você discorda dos seus pares | O seu posicionamento real |
 | Observação | Algo que você notou e ninguém comentou | A sua leitura do mercado |
 
-As sete apareceram naquela terça. A pergunta das férias era a recorrente. "Todo advogado só manda fazer acordo" era uma objeção. A testemunha que desmentiu o ponto era um caso. Os cartões de ponto mal controlados, um erro comum. A recusa da tese do autônomo, uma decisão. A regra sobre quando fazer acordo, uma opinião formada em décadas. E a mistura de trabalho em casa com horas sem controle, uma observação que nenhum colega dele tinha feito em voz alta.
+As sete apareceram naquela terça, sem que Otávio procurasse nenhuma.
+
+A pergunta das férias era a recorrente. "Todo advogado só manda fazer acordo" era uma objeção. A testemunha que desmentiu o ponto era um caso. Os cartões de ponto mal controlados, um erro comum. A recusa da tese do autônomo, uma decisão. A regra sobre quando fazer acordo, uma opinião formada em décadas. E a mistura de trabalho em casa com horas sem controle, uma observação que nenhum colega dele tinha feito em voz alta.
 
 ```figura
 tipo: orbita
@@ -120,7 +122,7 @@ pontos: [9, 30, 55, 78]
 legenda: Esquema ilustrativo de um estoque que cresce sem esforço extra. Em poucas semanas, deixa de faltar ideia e passa a faltar tempo para usar todas.
 ```
 
-Em três semanas, o caderno do Otávio tinha vinte e seis anotações. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a frase de um cliente que resumia um mal-entendido comum melhor do que qualquer manual, a pergunta que um estagiário fez e que nenhum advogado experiente teria coragem de fazer. Quando a agência pediu ideias para o mês seguinte, ele mandou uma foto de duas páginas do caderno. A resposta veio em dez minutos: "Isso aqui dá para o ano inteiro." Otávio desconfiou do entusiasmo, como desconfia de quase tudo, mas voltou a guardar o caderno no bolso com um cuidado novo. Júlia, que acompanhou a experiência de perto, começou o dela na semana seguinte.
+Em três semanas, o caderno do Otávio tinha vinte e seis anotações. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a frase de um cliente que resumia um mal-entendido comum melhor do que qualquer manual, a pergunta que um estagiário fez e que nenhum advogado experiente teria coragem de fazer. Numa tarde, mostrou duas páginas do caderno a Helena. Ela leu em silêncio e devolveu com uma frase: "Isso aqui dá para o ano inteiro." Otávio desconfiou do entusiasmo, como desconfia de quase tudo, mas voltou a guardar o caderno no bolso com um cuidado novo. Helena começou o dela na semana seguinte.
 
 ```citacao
 texto: Quando essa percepção se instala, criação deixa de começar na tela vazia. Começa na vida.

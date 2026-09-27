@@ -50,7 +50,7 @@ def quebrar(txt: str, largura: float, tam: float) -> list[str]:
 def texto(x, y, txt, tam=11, cor=INK, peso=400, ancora="start", largura=None,
           entrelinha=1.3, fonte=SANS, estilo="normal", esp=0.0) -> tuple[str, float]:
     """Texto com quebra. Devolve (svg, altura_ocupada). Corpo mínimo ~8 pt impresso."""
-    tam = max(tam * ESCALA, 11.4)
+    tam = max(tam * ESCALA, 12)
     txt = aspas(txt)
     linhas = quebrar(txt, largura, tam) if largura else [str(txt)]
     partes = [f'<tspan x="{x:.1f}" dy="{0 if i == 0 else tam * entrelinha:.1f}">{escape(l)}</tspan>'
@@ -196,7 +196,15 @@ def fluxo(d):
 def ciclo(d):
     nos = d["nos"]
     n = len(nos)
-    cx, cy, r = W / 2, 150, 92
+    cx, r = W / 2, 78
+    larg = 118
+    # altura dos rótulos de cima e de baixo define o centro vertical
+    def bloco(no, lg):
+        _, h1 = texto(0, 0, no["rotulo"], 10.5, INK, 600, largura=lg)
+        h2 = texto(0, 0, no["nota"], 9, INK2, largura=lg)[1] if no.get("nota") else 0
+        return h1 + h2
+    topo = bloco(nos[0], 190) + 10
+    cy = topo + r + 16
     out = [f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{LINE}" stroke-width="1.2" stroke-dasharray="3 3"/>']
     pts = [(cx + r * math.cos(-math.pi / 2 + 2 * math.pi * i / n), cy + r * math.sin(-math.pi / 2 + 2 * math.pi * i / n),
             -math.pi / 2 + 2 * math.pi * i / n) for i in range(n)]
@@ -206,18 +214,26 @@ def ciclo(d):
         mx2, my2 = cx + r * math.cos(a2), cy + r * math.sin(a2)
         out.append(f'<path d="M{cx + r * math.cos(a1):.1f} {cy + r * math.sin(a1):.1f} A{r} {r} 0 0 1 {mx2:.1f} {my2:.1f}" fill="none" stroke="{ACC}" stroke-width="1.3"/>')
         out.append(seta(mx1, my1, mx2, my2, ACC, 1.3, 6))
+    base = cy + r
     for i, (x, y, ang) in enumerate(pts):
         out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="13" fill="{PAPER}" stroke="{ACC}" stroke-width="1.3"/>')
         out.append(texto(x, y + 5, str(i + 1), 14, ACC_D, 400, "middle", fonte=SERIF)[0])
         c, sn = math.cos(ang), math.sin(ang)
-        anc, tx = ("middle", x) if abs(c) < .3 else (("start", x + 22) if c > 0 else ("end", x - 22))
-        ty = y - 34 if sn < -.7 else (y + 30 if sn > .7 else y - 2)
-        larg = 150 if anc != "middle" else 200
-        s, h = texto(tx, ty, nos[i]["rotulo"], 10.5, INK, 600, anc, largura=larg)
-        out.append(s)
-        if nos[i].get("nota"):
-            out.append(texto(tx, ty + h, nos[i]["nota"], 9, INK2, 400, anc, largura=larg)[0])
-    y = _legenda(out, 296, d)
+        no = nos[i]
+        if abs(c) < .3:
+            anc, tx, lg = "middle", x, 190
+            h = bloco(no, lg)
+            ty = y - 22 - h + 12 if sn < 0 else y + 34
+        else:
+            anc, tx, lg = ("start", x + 22, larg) if c > 0 else ("end", x - 22, larg)
+            h = bloco(no, lg)
+            ty = y - h / 2 + 10
+        s1, h1 = texto(tx, ty, no["rotulo"], 10.5, INK, 600, anc, largura=lg)
+        out.append(s1)
+        if no.get("nota"):
+            out.append(texto(tx, ty + h1, no["nota"], 9, INK2, 400, anc, largura=lg)[0])
+        base = max(base, ty + h + 4)
+    y = _legenda(out, base + 6, d)
     return svg("".join(out), y + 4)
 
 

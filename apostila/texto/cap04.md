@@ -10,78 +10,80 @@ legenda_ilustracao: Existe uma matéria-prima que só nasce de você. Nenhum bri
 
 Toda primeira segunda-feira do mês, às sete e quarenta, chega ao e-mail do Otávio o calendário da agência. São quinze publicações, cada uma com imagem, legenda e data, organizadas numa planilha colorida. Ele abre o arquivo antes do primeiro cliente, passa os olhos por cada linha, confere se não há nenhum erro de lei ou de português e responde com a mesma palavra de sempre: aprovado. Faz isso há três anos. Leva, em média, doze minutos.
 
-Numa terça-feira de março, a sócia mais nova do escritório, Júlia, entrou na sala dele com o celular na mão. Uma das publicações do mês, uma arte azul com o título "Você sabia?", afirmava que o banco de horas é sempre vantajoso para o empregador. Embaixo, havia um comentário da dona de uma pequena rede de lavanderias de Olinda: "Se é tão vantajoso, por que eu perdi uma ação trabalhista justamente por causa dele?". Tinha quarenta curtidas, mais do que a própria publicação. Júlia queria saber o que responder.
+Numa quinta-feira de março, a sócia mais nova do escritório, Helena, entrou na sala dele com o celular na mão. Uma das publicações do mês, uma arte azul com o título "Você sabia?", explicava que o banco de horas permite compensar horas extras com folgas, sem pagá-las, desde que haja acordo. Estava certo. Embaixo, havia um comentário da dona de uma pequena rede de lavanderias de Olinda: "Eu tinha acordo e perdi uma ação trabalhista por causa do banco de horas. O que a publicação não conta?". Tinha quarenta curtidas, mais do que a própria publicação. Helena queria saber o que responder.
 
-Otávio leu o texto da agência em voz alta, devagar, e ficou um tempo calado. Ele não pensava aquilo. Pensava quase o contrário. Em vinte e cinco anos defendendo pequenas empresas no Recife, tinha visto o banco de horas mal controlado virar a primeira fonte de condenação de clientes que acreditavam estar protegidos. O que a dona da lavanderia dizia era exatamente o que ele diria, se alguém tivesse perguntado a ele antes de publicar. Naquela tarde, respondeu ao comentário concordando com ela, o que na prática significava discordar de si mesmo em público.
+Otávio leu o texto da agência em voz alta, devagar, e ficou um tempo calado. Não havia nada de errado ali. Faltava tudo o que ele diria. Em vinte e cinco anos defendendo pequenas empresas no Recife, tinha visto o banco de horas mal controlado aparecer em quase toda ação contra clientes que acreditavam estar protegidos pelo acordo assinado. A pergunta da dona da lavanderia era a que ele mesmo faria, se alguém tivesse perguntado a ele antes de publicar.
 
-Escreveu à mão, antes de digitar, como faz com tudo o que importa. "A senhora tem razão, e a publicação simplificou demais. O banco de horas só protege quem controla o ponto com rigor, mês a mês, e guarda os comprovantes. Na maioria das pequenas empresas que eu atendo, ele é a primeira coisa que aparece numa condenação." Júlia leu por cima do ombro dele e perguntou, sem maldade, por que o perfil do escritório não falava assim. Otávio não soube responder na hora. Passou o resto da semana com a pergunta.
+Escreveu a resposta à mão, antes de digitar, como faz com tudo o que importa. "A senhora tem razão, e a publicação simplificou demais. O banco de horas só protege quem tem o acordo por escrito, controla o ponto com rigor, mês a mês, e compensa as horas dentro do prazo. Nas ações contra pequenas empresas que chegam ao meu escritório, é quase sempre o primeiro pedido da lista." Helena leu por cima do ombro dele e perguntou, sem maldade, por que o perfil do escritório não falava assim. Otávio não soube responder na hora. Passou o resto da semana com a pergunta.
 
 ## Como a história costuma acontecer
 
-O caminho que levou Otávio até aquela terça-feira é comum a ponto de parecer um roteiro. Ele reconheceu, com razão, que precisava estar na internet e que não tinha tempo de fazer aquilo sozinho. Contratou uma agência bem recomendada. Teve uma reunião de briefing de uma hora, numa sala de vidro, com duas pessoas simpáticas e um questionário. Perguntaram qual era o público, e ele respondeu que eram empresários de pequeno e médio porte. Perguntaram o tom desejado, e ele disse "formal, mas acessível", a resposta que quase todo profissional liberal dá. Perguntaram os temas, e ele citou direitos e deveres do empregador. Tudo isso era verdade, e nada disso era ele. A partir do mês seguinte, recebeu publicações bem diagramadas, gramaticalmente corretas e tecnicamente defensáveis.
+O caminho que levou Otávio até aquela quinta-feira é comum a ponto de parecer um roteiro. Ele reconheceu, com razão, que precisava estar na internet e que não tinha tempo de fazer aquilo sozinho. Contratou uma agência bem recomendada. Teve uma reunião de briefing de uma hora, numa sala de vidro, com duas pessoas simpáticas e um questionário.
 
-Nenhuma estava errada, e ele aprovava todas. Mas não se reconhecia em nenhuma: era o nome dele dizendo coisas que ele nunca diria daquele jeito, num tom de repartição pública que nada tinha a ver com os e-mails longos e francos que os clientes costumavam guardar e reler. Depois de alguns meses sem resultado que justificasse o investimento, ele chegou à conclusão que quase todo especialista nessa situação chega: rede social não funciona para advogado. A conclusão estava errada, porque aquele perfil nunca tinha sido realmente dele.
+Perguntaram qual era o público, e ele respondeu que eram empresários de pequeno e médio porte. Perguntaram o tom desejado, e ele disse "formal, mas acessível", a resposta que muito profissional liberal dá. Perguntaram os temas, e ele citou direitos e deveres do empregador. Tudo isso era verdade, e nada disso era ele.
+
+A partir do mês seguinte, recebeu publicações bem diagramadas, gramaticalmente corretas e tecnicamente defensáveis. Nenhuma estava errada, e ele aprovava todas. Mas não se reconhecia em nenhuma: era o nome dele dizendo coisas que ele nunca diria daquele jeito, num tom de repartição pública que nada tinha a ver com os e-mails longos e francos que os clientes costumavam guardar e reler. Depois de alguns meses sem resultado que justificasse o investimento, chegou à conclusão mais comum nessa situação: rede social não funciona para advogado. Continuou pagando, porque cancelar também dava trabalho. A conclusão estava errada, porque aquele perfil nunca tinha sido dele.
 
 ```conceito
 termo: Terceirização prematura
 definicao: Entregar a produção da própria presença digital a um terceiro antes de ter identificado a própria linguagem, o que transforma conhecimento vivo em comunicação institucional, correta e emocionalmente anônima.
-porque: O problema está na ordem, e não na agência. Executar antes de descobrir produz um perfil que poderia pertencer a qualquer profissional do mesmo setor.
+porque: O problema está na ordem em que as coisas acontecem. Executar antes de descobrir produz um perfil que poderia pertencer a qualquer profissional do mesmo setor.
 ```
 
 A agência do Otávio fez bem o trabalho que lhe foi pedido. O que ninguém percebeu é que o trabalho pedido era impossível. Um terceiro pode executar, organizar e amplificar uma voz; não pode inventá-la a partir de uma reunião de uma hora. Existe uma matéria-prima que só nasce do próprio especialista, e sem ela não há briefing capaz de produzir presença singular de forma consistente.
 
 ## Por que gente competente terceiriza cedo
 
-Seria fácil atribuir a decisão do Otávio à preguiça ou à vaidade, e as duas explicações estariam erradas. A terceirização prematura costuma nascer justamente do raciocínio de um bom profissional. Otávio delega a contabilidade do escritório a um contador, a limpeza a uma empresa, a manutenção dos computadores a um técnico. Aprendeu cedo que o tempo dele vale mais nas audiências e nos pareceres do que em qualquer outra coisa, e que o resto deve ir para quem faz melhor. Aplicou à comunicação a mesma lógica que aplica a tudo.
+Seria fácil atribuir a decisão do Otávio à preguiça ou à vaidade, e as duas explicações estariam erradas. A terceirização prematura costuma nascer do raciocínio de um bom profissional. Otávio delega a contabilidade do escritório a um contador, a limpeza a uma empresa, a manutenção dos computadores a um técnico. Aprendeu cedo que o tempo dele vale mais nas audiências e nos pareceres do que em qualquer outra coisa, e que o resto deve ir para quem faz melhor. Aplicou à comunicação a mesma lógica que aplica a tudo.
 
 O raciocínio falha num ponto só: ele supõe que comunicar é uma atividade periférica, como a contabilidade, quando na verdade é uma extensão da atividade principal. O que Otávio pensa sobre banco de horas, sobre acordos, sobre o que protege e o que não protege um pequeno empresário é o próprio serviço que ele vende. Entregar isso a outra pessoa equivale a delegar o próprio produto.
 
-Há também um fator menos racional. Muita gente se sente desconfortável ouvindo a própria voz gravada ou lendo o próprio texto publicado, e esse desconforto encontra alívio imediato quando outra pessoa assume o trabalho. As publicações da agência não davam vergonha a Otávio. Também não davam orgulho. Ficavam num meio-termo confortável, que é exatamente onde nenhum cliente presta atenção.
+Há também um fator menos racional. Muita gente se sente desconfortável ouvindo a própria voz gravada ou lendo o próprio texto publicado, e esse desconforto encontra alívio imediato quando outra pessoa assume o trabalho. As publicações da agência não davam vergonha a Otávio. Também não davam orgulho. Ficavam num meio-termo confortável, que é onde nenhum cliente presta atenção.
 
 ## O que se perde no caminho
 
-Quando alguém escreve por você, essa pessoa precisa preencher lacunas o tempo todo. Qual exemplo usar, que opinião defender, onde pôr a ênfase, como terminar. E ela preenche com o que conhece: as boas práticas do mercado, os formatos que funcionaram para outros clientes, o vocabulário médio da sua área. É um trabalho honesto, e o resultado é correto. Correto é exatamente o problema.
+Quando alguém escreve por você, essa pessoa precisa preencher lacunas o tempo todo. Qual exemplo usar, que opinião defender, onde pôr a ênfase, como terminar. E ela preenche com o que conhece: as boas práticas do mercado, os formatos que funcionaram para outros clientes, o vocabulário médio da sua área. É um trabalho honesto, e o resultado é correto. Correto é o problema.
 
-Boa parte da informação de qualquer área é pública. Duas consultoras de recursos humanos podem responder à mesma pergunta sobre demissão de um funcionário antigo com a mesma informação técnica, e é provável que as duas estejam certas. Uma começa pelos riscos jurídicos; a outra, pelo efeito sobre a equipe que fica. Uma fala como quem já viu dezenas de desligamentos desastrosos; a outra, como quem leu sobre eles. O que diferencia as duas é o modo de pensar o problema, e é justamente essa parte que não passa por um briefing.
+Boa parte da informação de qualquer área é pública. Duas consultoras de recursos humanos podem responder à mesma pergunta sobre a demissão de um funcionário antigo com a mesma informação técnica, e as duas estarão certas. Uma começa pelos riscos jurídicos; a outra, pelo efeito sobre a equipe que fica. O que diferencia as duas é o modo de pensar o problema, e essa parte não passa por um briefing.
 
-Há ainda um incentivo estrutural para o genérico. Uma agência atende muitos clientes ao mesmo tempo, e o que aprende com um aplica aos outros. O formato que funcionou para uma clínica odontológica vira modelo para um escritório de advocacia. Isso é eficiência para a agência e diluição para o cliente, que recebe, sem saber, uma versão ajustada do que outras dez empresas também recebem.
+Uma agência tem ainda um incentivo estrutural para o genérico. Ela atende muitos clientes ao mesmo tempo, e o que aprende com um aplica aos outros. O formato que funcionou para uma clínica odontológica vira modelo para um escritório de advocacia. Isso é eficiência para a agência e diluição para o cliente, que recebe, sem saber, uma versão ajustada do que outras dez empresas também recebem.
 
 ```figura
 tipo: gap
 titulo: O que sobrevive à terceirização prematura
 ilustrativo: true
 a: {rotulo: "Informação técnica", valor: 90, nota: "O que qualquer redator competente consegue pesquisar e escrever."}
-b: {rotulo: "O seu modo de pensar o problema", valor: 15, nota: "O que só existe na publicação se você tiver revelado antes."}
+b: {rotulo: "O seu modo de pensar o problema", valor: 15, nota: "O que só chega à publicação se você o tiver descoberto antes."}
 rotulo_distancia: o que não se transfere
-legenda: A agência entrega bem o que é transferível. O que diferencia você é justamente a parte que não se transfere.
+legenda: Os tamanhos são ilustrativos. A proporção mostra onde a agência é boa e onde ela não tem como ajudar.
 ```
 
-No caso do Otávio, a perda era mensurável. As publicações falavam de direitos e deveres em abstrato, porque é assim que o direito do trabalho aparece nos manuais. Ele, na prática, pensa em cenários: o que acontece se o funcionário sair amanhã, que papel vai faltar, qual testemunha vai contradizer o que está escrito. A frase que repete a todo cliente novo, "contrato assinado não é prova de nada", nunca apareceu no perfil. Nenhum redator teria como adivinhá-la, porque ela é fruto de vinte e cinco anos de audiências, e ela diz mais sobre o jeito dele de advogar do que as cento e poucas publicações somadas.
+No caso do Otávio, dava para apontar o que se perdeu. As publicações falavam de direitos e deveres em abstrato, porque é assim que o direito do trabalho aparece nos manuais. Ele, na prática, pensa em cenários: o que acontece se o funcionário sair amanhã, que papel vai faltar, qual testemunha vai contradizer o que está escrito. A pergunta que faz a todo cliente novo, "e se ele sair amanhã?", nunca apareceu no perfil. Nenhum redator teria como adivinhá-la: ela é fruto de vinte e cinco anos de audiências e diz mais sobre o jeito dele de advogar do que as quinhentas e tantas publicações somadas.
 
 ## Os quatro sinais
 
-Nem sempre a terceirização prematura é tão visível quanto um comentário que desmente a publicação. Na maioria das vezes, ela se manifesta em sinais discretos, que o próprio especialista sente e prefere não nomear.
+Nem sempre a terceirização prematura é tão visível quanto um comentário que expõe o que a publicação não diz. Na maioria das vezes, ela se manifesta em sinais discretos, que o próprio especialista sente e prefere não nomear.
 
 1. Você lê a publicação e pensa "está certo", mas nunca "é isso mesmo que eu penso".
 2. Se trocassem o seu nome pelo de um colega, ninguém perceberia.
-3. Você aprova por não ter objeção, sem nenhum entusiasmo.
+3. Você aprova por falta de objeção, nunca por entusiasmo.
 4. Quando alguém discorda nos comentários, você não sabe defender o que foi publicado.
 
-O segundo sinal tem um teste simples. Escolha três publicações recentes, cubra o nome e a foto e mostre a alguém que conhece bem o seu trabalho: um sócio, um cliente antigo, alguém da família. Pergunte de quem é. Se a pessoa hesitar, ou apostar num colega, o sinal está presente. Otávio fez o teste com Júlia, misturando publicações dele com as de dois escritórios concorrentes. Ela errou duas das três.
+O segundo sinal tem um teste simples. Escolha três publicações recentes, cubra o nome e a foto e mostre a alguém que conhece bem o seu trabalho e não acompanha o seu perfil: um cliente antigo, alguém da família. Pergunte de quem é. Se a pessoa hesitar, ou apostar num colega, o sinal está presente. Otávio fez o teste com a mulher, que conhece o jeito dele de falar há trinta anos e nunca abriu o perfil do escritório. Misturou três publicações dele com três de dois escritórios concorrentes. Ela apontou duas dos concorrentes como dele.
 
 ```nota
 tipo: alerta
 titulo: O quarto sinal é o mais grave
-texto: Se você não consegue defender nos comentários o que foi publicado com o seu nome, aquela peça não é sua. E no dia em que ela funcionar, vai atrair pessoas que esperam encontrar alguém que você não é.
+texto: Se alguém discorda nos comentários e você não sabe o que responder, a peça não saiu de você. E, se ela funcionar, vai atrair pessoas à procura de alguém que você não é.
 ```
 
-O quarto sinal pesa mais porque inverte o objetivo da presença. O conteúdo deveria aproximar você das pessoas certas; uma peça que você não defende aproxima as erradas. Um cliente que contratasse Otávio convencido de que o banco de horas é sempre vantajoso chegaria esperando um advogado que confirma o que ele quer ouvir, e encontraria um advogado que começa toda conversa pela pior hipótese. A frustração dos dois lados seria garantida.
+O quarto sinal pesa mais porque inverte o objetivo da presença. O conteúdo deveria aproximar você das pessoas certas; uma peça que você não defende aproxima as erradas. Um cliente que contratasse Otávio convencido de que basta assinar um acordo de banco de horas chegaria esperando um advogado que confirma o que ele quer ouvir, e encontraria um advogado que começa toda conversa pela pior hipótese. A frustração dos dois lados seria garantida.
 
 Os quatro sinais não aparecem só em quem contrata agência. Muitos especialistas que produzem sozinhos terceirizam a voz de outro jeito: imitando o formato e o tom de algum perfil famoso da área, preenchendo modelos prontos, publicando o que "funciona" em vez do que pensam. O efeito é o mesmo. Um personal trainer que copia as frases de efeito de um colega com milhões de seguidores está tão terceirizado quanto Otávio, só que sem pagar mensalidade.
 
 ## A ordem que funciona
 
-Otávio não demitiu a agência. Fez algo mais útil: suspendeu as publicações por dois meses e mudou a ordem do processo. A agência não deixa de existir nesse novo arranjo. Ela ganha uma função melhor, a de parar de inventar o especialista e passar a amplificá-lo.
+Otávio pediu à agência dois meses sem publicações. Não deu muitas explicações, e a agência aceitou com o alívio de quem também já não sabia o que postar. Ele ainda não sabia o que queria no lugar daquilo; sabia só que não queria mais aprovar o que não diria. A agência pode voltar a ter um papel, e melhor do que o de antes, mas só depois que houver uma voz para amplificar. Até lá, qualquer arranjo novo repetiria o erro com outra roupa.
 
 ```figura
 tipo: fluxo
@@ -94,7 +96,7 @@ nos:
   - {rotulo: "Você revisa contra a sua voz", nota: "Eu falaria assim? É a única pergunta."}
 ```
 
-Nem tudo na produção de uma presença tem o mesmo peso. Algumas etapas carregam o que é seu e não podem sair das suas mãos; outras são técnica pura, aprendível e contratável. Separar umas das outras é o que permite delegar sem se apagar.
+Nem tudo na produção de uma presença tem o mesmo peso. Algumas etapas carregam o que é seu e não podem sair das suas mãos; outras são técnica pura, aprendível e contratável. Separar umas das outras é o que permite, mais adiante, delegar sem se apagar.
 
 Tabela: O que delegar e o que nunca delegar
 
@@ -103,17 +105,18 @@ Tabela: O que delegar e o que nunca delegar
 | Ter a ideia ou a opinião | Nunca | É o único insumo que não existe fora de você |
 | Falar ou rascunhar | Nunca | O modo faz parte do conteúdo |
 | Estruturar e cortar | Sim | Habilidade técnica, aprendível e contratável |
-| Diagramar e editar | Sim | Acabamento |
+| Diagramar e editar o vídeo | Sim | Acabamento |
+| Revisar a versão final | Nunca | Só você sabe se falaria assim |
 | Agendar e publicar | Sim | Operação |
-| Responder comentários | Em parte | Dúvidas técnicas voltam para você; logística, não |
+| Responder comentários | Em parte | Dúvidas técnicas voltam para você, dentro do que o seu código permite responder em público; logística, não |
 
-A conversa com a agência foi mais fácil do que ele esperava. Otávio explicou que não queria mais receber pautas prontas; ia mandar, toda semana, dois ou três áudios curtos sobre o que tinha acontecido no escritório, e a agência trabalharia a partir deles. A redatora responsável pelo perfil confessou que preferia assim. Passava horas pesquisando temas genéricos de direito do trabalho para um cliente que nunca comentava nada, e tinha a sensação de escrever para ninguém. Com material real nas mãos, o trabalho dela também ficaria melhor. Os detalhes desse novo arranjo voltam no capítulo 24, quando ele estiver pronto para delegar de verdade.
+Na semana em que suspendeu as publicações, Otávio gravou no celular, entre uma audiência e outra, três minutos sobre o que fazer quando um funcionário pede para "acertar por fora". Não pensou em publicar; gravou para ouvir. Transcreveu o áudio à noite, sem corrigir nada. A primeira frase era "vamos começar pelo pior cenário", e a última, "o que é pago por fora sempre aparece, e aparece na pior hora". No meio, havia repetições, a pergunta retórica que ele faz sempre, "e quem vai provar isso, o senhor?", e um exemplo de um cliente de Caruaru, com o nome trocado.
 
-Na semana em que suspendeu as publicações, Otávio gravou no celular, entre uma audiência e outra, três minutos explicando banco de horas do jeito que explica a um cliente novo. Transcreveu o áudio à noite, sem corrigir nada. A primeira frase era "vamos começar pelo pior cenário", e a última, "o papel que você assinou não vai te salvar se o ponto disser outra coisa". No meio, havia repetições, uma pergunta retórica que ele faz sempre e um exemplo de um cliente de Caruaru, com o nome trocado. Era a primeira vez que alguma coisa com o nome dele soava como ele. No dia seguinte, ouviu o áudio no carro, a caminho do fórum, e riu de uma expressão que usa há décadas sem nunca ter percebido. A oficina deste capítulo pede o mesmo áudio, sobre a sua área.
+Desde a resposta à dona da lavanderia, era a primeira vez que alguma coisa com o nome dele soava como ele. Com uma diferença: a resposta ele tinha escrito com cuidado, e o áudio saiu sem nenhum. No dia seguinte, ouviu a gravação no carro, a caminho do fórum, e riu de um "veja bem" que diz antes de toda má notícia, há décadas, sem nunca ter percebido.
 
 ```guardar
-- A agência entrega bem tudo o que é transferível; o que diferencia você é justamente a parte que não se transfere.
-- Se você não consegue defender nos comentários o que foi publicado com o seu nome, aquela peça não é sua.
+- Uma agência executa bem o que se transfere. A sua voz não se transfere antes de existir.
+- Uma peça que você não saberia defender atrai as pessoas erradas.
 - Terceirizar depois de descobrir a própria voz multiplica o que é seu. Antes disso, apaga.
 ```
 
@@ -121,23 +124,24 @@ Na semana em que suspendeu as publicações, Otávio gravou no celular, entre um
 titulo: Três minutos de matéria-prima bruta
 objetivo: Produzir o insumo que ninguém pode produzir por você e ouvir, na sua própria fala, a diferença entre a sua voz e a voz média do seu mercado.
 tempo: 25
-entrega: Um áudio de até três minutos, gravado no celular, com o primeiro minuto transcrito à mão sem correções, a auditoria dos quatro sinais e a sua tabela de delegação.
+entrega: Um áudio de até três minutos, gravado no celular, com os primeiros trinta segundos transcritos à mão sem correções, a auditoria dos quatro sinais e a sua grade de delegação.
 campos:
   - rotulo: "Sobre o que você vai falar por três minutos?"
     exemplo: "Algo que você explicaria hoje mesmo a um cliente, sem preparo. Um corretor de seguros: “Por que o seguro mais barato costuma sair mais caro no dia do sinistro.”"
     linhas: 2
-  - rotulo: "Grave o áudio. Depois transcreva aqui o primeiro minuto, palavra por palavra."
+  - rotulo: "Grave o áudio. Depois transcreva aqui os primeiros trinta segundos, palavra por palavra."
     exemplo: "Não limpe as repetições, os “né”, as pausas, as frases que mudam no meio. Elas são dados."
     linhas: 10
   - rotulo: "O que você notou na sua própria fala?"
     exemplo: "“Começo sempre pelo erro mais comum.” “Uso comparação com cozinha.” “Faço uma pergunta antes de responder.”"
     linhas: 4
   - rotulo: "Auditoria: quais dos quatro sinais aparecem no que você publica hoje?"
-    exemplo: "Anote os números (1 a 4) e um exemplo de cada. Se você não publica, pense no que publicou por último ou no perfil que costuma imitar."
+    exemplo: "Anote os números (1 a 4) e um exemplo de cada. Se você nunca publicou, escreva qual sinal mais aparece no perfil do colega que você mais admira, e por que você não quer repeti-lo."
     linhas: 3
-  - rotulo: "A sua tabela: o que você faz hoje, o que delega e o que deveria voltar para as suas mãos?"
-    exemplo: "Use as seis etapas da tabela do capítulo. Se trabalha sozinho, marque o que gostaria de delegar um dia."
-    linhas: 4
+  - rotulo: "A sua grade de delegação: marque, para cada etapa, o que acontece hoje"
+    grade:
+      colunas: ["Faço", "Delego", "Deve voltar para mim"]
+      linhas: ["Ter a ideia ou a opinião", "Falar ou rascunhar", "Estruturar e cortar", "Diagramar e editar", "Revisar a versão final", "Agendar e publicar", "Responder comentários"]
 criterios:
   - A transcrição está bruta, com repetições, hesitações e vícios de linguagem.
   - Você identificou pelo menos duas marcas recorrentes da sua fala.
@@ -146,7 +150,7 @@ criterios:
 
 ```rede
 titulo: A explicação que já é sua
-intro: A peça deste capítulo é a explicação que você dá toda semana, sobre um tema da sua área, com as suas palavras. As regras valem se alguém edita ou publica por você, e também se o "terceiro" é uma ferramenta de IA.
+intro: A peça deste capítulo é a explicação que você gravou na oficina, organizada para quem ainda não conhece você. Parta da transcrição do campo 02 e das marcas do campo 03; o esqueleto só pede que você as ponha em ordem. As regras valem se alguém edita ou publica por você, e também se o "terceiro" é uma ferramenta de IA.
 regras:
   - {regra: "Entregue áudio, não briefing.", porque: "O briefing transfere informação. O áudio transfere o modo, que é justamente o que a informação não carrega."}
   - {regra: "Revise com uma pergunta só: eu falaria assim?", porque: "Revisar por correção gramatical aprova conteúdo genérico. Revisar pela voz barra o que não é seu."}
@@ -212,7 +216,7 @@ roteiro_nota: Fale, não leia um texto formal. Se a explicação ficou do tamanh
 
 ```aplicacao
 itens:
-  - {rotulo: "Auditei o que publico contra os quatro sinais", ajuda: "Sei quantos sinais se aplicam a mim e tenho um exemplo de cada (campo 04).", pontos: 3}
-  - {rotulo: "Separei o que é meu do que é delegável", ajuda: "Preenchi a minha tabela com as etapas reais do meu trabalho (campo 05).", pontos: 3}
-  - {rotulo: "Produzi matéria-prima bruta com a minha voz", ajuda: "Gravei os três minutos e transcrevi o primeiro sem corrigir (campos 01 a 03).", pontos: 3}
+  - {rotulo: "Produzi matéria-prima bruta com a minha voz", ajuda: "Gravei os três minutos e transcrevi os primeiros trinta segundos sem corrigir (campos 01 a 03).", pontos: 4}
+  - {rotulo: "Separei o que é meu do que é delegável", ajuda: "Preenchi a grade com as etapas reais do meu trabalho (campo 05).", pontos: 3}
+  - {rotulo: "Auditei o que publico contra os quatro sinais", ajuda: "Sei quais sinais se aplicam a mim, com um exemplo de cada (campo 04).", pontos: 2}
 ```
