@@ -206,13 +206,13 @@ roteiro_nota: Um equívoco por peça. Se o assunto envolve saúde, direito ou fi
   opcoes:
     - A frequência com que cada um publica ao longo da semana.
     - A qualidade da produção de imagem e de som das peças.
-    - "O centro da peça, que pode ser você ou o problema de quem lê."
+    - "Quem é o assunto: você ou o problema de quem lê."
     - O tamanho dos textos e a duração dos vídeos publicados.
   correta: 2
   explicacao: A ocupação de território põe no centro o problema de quem ainda não é cliente e oferece critério. É isso que permite ao especialista sério comunicar sem se sentir vaidoso.
 - pergunta: No caso da Lúcia, o que tornou a correção possível sem ferir o sigilo?
   opcoes:
-    - Tomar como assunto a crença difundida, sem contar a história de ninguém.
+    - Falar da crença difundida, sem contar a história de ninguém.
     - Pedir à paciente autorização para contar o caso dela em detalhes.
     - Esperar a paciente encerrar a terapia para então contar a sessão.
     - Publicar a história apenas para um grupo fechado de seguidores.
