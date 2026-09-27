@@ -18,13 +18,13 @@ Semanas depois, contou a história à irmã num almoço de domingo e resumiu com
 
 ## O que Renata diria a um paciente
 
-Renata passa os dias aplicando, em outro assunto, o raciocínio de que precisava. Quando um paciente abandona os exercícios de casa na terceira semana, ela não conclui que ele é preguiçoso. Pergunta quais exercícios, em que horário, em que lugar da casa, depois de quê. Quase sempre descobre que o plano não cabia na vida da pessoa: exigia um tapete que ela não tinha, um horário que a rotina não oferecia, uma série longa demais para quem trabalha em pé o dia inteiro. Renata ajusta o plano à pessoa. Costuma dizer que exercício bom é o que o paciente faz.
+Renata passa os dias aplicando aos pacientes o raciocínio de que precisava. Quando um paciente abandona os exercícios de casa na terceira semana, ela não conclui que ele é preguiçoso. Pergunta quais exercícios, em que horário, em que lugar da casa, depois de quê. Quase sempre descobre que o plano não cabia na vida da pessoa: exigia um tapete que ela não tinha, um horário que a rotina não oferecia, uma série longa demais para quem trabalha em pé o dia inteiro. Renata ajusta o plano à pessoa. Costuma dizer que exercício bom é o que o paciente faz.
 
 O caso de que ela mais gosta é o do Aurélio, porteiro de um prédio no Batel, que abandonou três vezes a rotina de vinte minutos que ela tinha prescrito. Na quarta conversa, Renata descobriu que ele trabalhava em turnos de doze horas, dormia pouco e chegava em casa sem energia para nada. Trocou os vinte minutos por três exercícios curtos, feitos em pé, atrás do balcão da portaria, em três momentos do turno em que o movimento caía. Na consulta seguinte, ele descreveu o balcão com orgulho: dava para apoiar as mãos na beirada de granito e fazer o exercício sem que nenhum morador percebesse. Nos três meses seguintes, não falhou uma semana. O plano passou a caber no dia dele.
 
 Consigo mesma, o raciocínio desapareceu. O plano de um carrossel a cada dois dias exigia que ela, que explica tudo em voz alta e desenhando no ar, sentasse para escrever depois de dez horas de atendimento. Quando o plano falhou, ela culpou a pessoa. Débora, a paciente da Lúcia no capítulo 2, tirou a mesma conclusão depois de um protocolo de vinte e um dias. Renata fez o que faz quem ouviu a vida inteira uma única explicação para esse tipo de desistência: falta de disciplina, de organização, de comprometimento. A receita também não muda: um calendário mais rígido, um lembrete no celular, alguém para cobrar.
 
-Este capítulo parte de outra hipótese: quem se considera inconstante pode estar tentando sustentar uma forma de criar que não combina com o jeito como pensa, vive e trabalha. O problema está no encaixe, como estava no plano do Aurélio.
+Há outra hipótese: quem se considera inconstante pode estar tentando sustentar uma forma de criar que não combina com o jeito como pensa e trabalha. O problema está no encaixe, como estava no plano do Aurélio.
 
 ```conceito
 termo: Custo invisível da linguagem errada
@@ -52,13 +52,13 @@ series:
 legenda: Os valores são ilustrativos. O seu quadro de atrito, na oficina, mostra onde está o custo no seu caso.
 ```
 
-Uma designer de interiores que pensa com amostras de tecido na mão leva uma noite para escrever cinco dicas de cortina, porque precisa descrever em palavras a textura e o caimento que, diante da cliente, ela mostra dobrando o pano em dois minutos. Na primeira semana, a noite parece um preço justo. Na quarta, ela já está escolhendo entre a lista e o jantar. Cada combinação errada entre pessoa e formato cobra uma pequena taxa por peça. A taxa parece suportável no primeiro dia e se torna impagável no vigésimo.
+Uma designer de interiores que pensa com amostras de tecido na mão leva uma noite para escrever cinco dicas de cortina, porque precisa descrever em palavras a textura e o caimento que, diante da cliente, ela mostra dobrando o pano em dois minutos. Na primeira semana, a noite parece um preço justo. Na quarta, ela já está escolhendo entre a lista e o jantar. Cada combinação errada entre pessoa e formato cobra uma pequena taxa por peça. A taxa parece suportável na primeira peça e se torna impagável algumas semanas depois.
 
-Os outros três personagens também pararam, cada um num ponto diferente. Caio não teve dificuldade para gravar; o custo dele estava na edição, onze fins de semana para seis vídeos, uma taxa de formato tão clara quanto a da Renata. Otávio e Lúcia pararam por outros motivos, a terceirização e o receio de se expor, que o livro trata no lugar deles. Nenhum deles tem menos disciplina que os outros.
+Caio também parou, e num ponto diferente: não teve dificuldade para gravar; o custo dele estava na edição, onze fins de semana para seis vídeos, uma taxa de formato tão clara quanto a da Renata. Otávio e Lúcia não chegaram a esse ponto, por outros caminhos: ele entregou a voz a uma agência (cap. 4), ela nunca começou, por receio de se expor (cap. 2). Nenhum dos quatro tem falta de disciplina.
 
 ## A curva do vigésimo terceiro dia
 
-Uma rotina raramente quebra por causa de um grande acontecimento. Renata parou numa quinta-feira comum, um pouco mais pesada que as outras, quando o custo acumulado do formato ultrapassou a energia que sobrava no fim do dia.
+A rotina da Renata não quebrou por causa de um grande acontecimento. Parou numa quinta-feira comum, um pouco mais pesada que as outras, quando o custo acumulado do formato ultrapassou a energia que sobrava no fim do dia.
 
 ```figura
 tipo: linha
@@ -104,7 +104,7 @@ direita:
     - Você investiga o próprio modo de pensar.
 ```
 
-A primeira leitura tem um efeito colateral grave: ela ensina a desistir. Depois de duas ou três tentativas fracassadas por "falta de disciplina", o especialista conclui que aquilo não é para ele, e a conclusão parece baseada em provas. A segunda leitura transforma cada tentativa frustrada em dado. Renata precisava descobrir qual etapa custava caro e trocar a etapa, como faz com os exercícios dos pacientes. Trocar a etapa vem antes de qualquer meta de frequência; a ordem está na figura 5.3.
+A primeira leitura tem um efeito colateral grave: ela ensina a desistir. Depois de duas ou três tentativas fracassadas por "falta de disciplina", o especialista conclui que aquilo não é para ele, e a conclusão parece baseada em provas. A segunda leitura transforma cada tentativa frustrada em dado. Renata precisava descobrir qual etapa custava caro e mudar o caminho em volta dela, como faz com o plano dos pacientes. Trocar a etapa vem antes de qualquer meta de frequência; a ordem está na figura 5.3.
 
 ```figura
 tipo: fluxo
@@ -123,20 +123,20 @@ Os sinais de incompatibilidade são outros. Você adia a tarefa mesmo com o temp
 
 ## O endereço do problema
 
-Semanas depois do almoço, numa noite sem paciente tardio, Renata fez consigo as perguntas que faz a quem abandona os exercícios: o quê, em que horário, em que etapa, depois de quê. Escreveu as respostas numa folha de papel, à mesa da cozinha, e deu a cada etapa uma nota de atrito, de 0 a 10. Ter a ideia recebeu 2; estruturar a sequência de lâminas, 8; escrever o texto de cada uma, 10; escolher cores e imagens, 6; publicar, 1. Olhou a folha por um tempo, com calma, e reconheceu nela uma cena de tantas avaliações: o paciente que diz que tudo dói e, perguntado movimento por movimento, descobre que só dois doem de verdade. O problema tinha endereço, e o endereço não era ela.
+Um mês depois do almoço, numa noite sem paciente tardio, Renata fez consigo as perguntas que faz a quem abandona os exercícios: o quê, em que horário, em que etapa, depois de quê. Escreveu as respostas numa folha de papel, à mesa da cozinha, e deu a cada etapa uma nota de atrito, de 0 a 10. Ter a ideia recebeu 2; estruturar a sequência de lâminas, 8; escrever o texto de cada uma, 10; escolher cores e imagens, 6; publicar, 1. Olhou a folha por um tempo, com calma, e reconheceu nela uma cena de tantas avaliações: o paciente que diz que tudo dói e, perguntado movimento por movimento, descobre que só dois doem de verdade. O problema tinha endereço, e o endereço não era ela.
 
-A folha mostrava mais uma coisa. As duas notas altas ficavam lado a lado, e as duas tratavam da mesma passagem: transformar uma explicação falada em frases escritas, curtas e em ordem. A nota 6 das cores incomodava, mas sozinha não teria derrubado ninguém; era um custo que Renata toparia pagar se o resto fosse leve. As pontas da sequência, a ideia e a publicação, estavam baratas desde o começo. Isso descartava duas conclusões que rondavam desde o vigésimo terceiro dia: a de que não tinha o que dizer e a de que não servia para aparecer. O atrito morava no meio, numa etapa de tradução que ela tinha acrescentado ao próprio trabalho sem perceber.
+A folha mostrava mais uma coisa. As duas notas altas ficavam lado a lado, e as duas tratavam da mesma passagem: transformar uma explicação falada em frases escritas, curtas e em ordem. A nota 6 das cores incomodava, mas sozinha não teria derrubado ninguém; era um custo que Renata toparia pagar se o resto fosse leve. As pontas da sequência, a ideia e a publicação, estavam baratas desde o começo. Isso descartava duas conclusões que rondavam desde o vigésimo terceiro dia: a de que não tinha o que dizer e a de que não servia para aparecer. O atrito morava no meio, numa etapa de tradução de formato que ela tinha acrescentado ao próprio trabalho sem perceber.
 
 ```nota
 tipo: tese
 titulo: A pergunta que substitui a culpa
-texto: Qual é a maneira de criar que respeita a forma como eu penso, vivo e trabalho? É essa a pergunta que tira você da posição de incompetente digital e devolve o problema ao lugar onde ele pode ser resolvido.
+texto: Qual é a maneira de criar que respeita a forma como eu penso, vivo e trabalho? Ela tira você da posição de incompetente digital e devolve o problema ao lugar onde ele pode ser resolvido.
 ```
 
 Na mesma semana, Renata contou nos dedos quantas vezes tinha dado aquela explicação sobre dor e movimento desde segunda-feira: quatro, a quatro pacientes diferentes, de pé, com as mãos, sem cansar. A explicação estava pronta havia anos. O que precisava mudar era o caminho entre ela e a publicação, e esse caminho não passava pela lâmina em branco.
 
 ```guardar
-- A sequência raramente quebra por um grande acontecimento. Ela quebra quando o custo acumulado passa da energia de um dia comum.
+- A sequência não precisa de um grande acontecimento para quebrar. Basta o custo acumulado passar da energia de um dia comum.
 - O custo de um formato compatível cai com o tempo; o de um formato incompatível sobe.
 - Tratar incompatibilidade como preguiça leva você a resolver o problema errado, com mais culpa.
 ```
@@ -152,11 +152,11 @@ itens:
   - {texto: "Eu sentia alívio quando um imprevisto me impedia de fazer."}
   - {texto: "Eu olhava o resultado e achava que ele não tinha nada a ver comigo."}
   - {texto: "A tarefa consumia a energia que eu queria ter para o trabalho."}
-nota: "Antes de ler a faixa: nesse mesmo período, você abandonou também coisas de que gosta? Se sim, o problema pode ser de energia, e não de formato; releia a seção “Disciplina ou compatibilidade”, nas páginas anteriores."
+nota: "Antes de ler a faixa: nesse mesmo período, você abandonou também coisas de que gosta? Se sim, o problema pode ser de energia, e não de formato; releia a seção “Disciplina ou compatibilidade”, algumas páginas antes."
 faixas:
   - {min: 6, max: 13, titulo: "Atrito baixo", leitura: "O formato combinava razoavelmente com você. Se mesmo assim você parou, olhe primeiro para o ritmo e a energia daquele período (cap. 8), e só depois para o formato."}
   - {min: 14, max: 21, titulo: "Atrito médio", leitura: "Há fricção real. Ela pode estar concentrada numa etapa, como estruturar ou escrever a primeira versão, ou espalhada pelo processo; a autópsia da oficina mostra qual dos dois."}
-  - {min: 22, max: 30, titulo: "Atrito alto", leitura: "Os sinais apontam para um formato que não combinava com você, desde que o resto da vida não estivesse parando junto. Não tente de novo com mais força; comece pela autópsia e troque a etapa que mais custa."}
+  - {min: 22, max: 30, titulo: "Atrito alto", leitura: "Os sinais apontam para um formato que não combinava com você, desde que o resto da vida não estivesse parando junto. Não tente de novo com mais força; faça a autópsia e anote a etapa que mais custa. A troca de formato vem na fase II, quando você souber como pensa."}
 ```
 
 ```oficina
@@ -178,7 +178,7 @@ campos:
       colunas: ["Nota"]
       linhas: ["Ter a ideia", "Estruturar", "Gravar ou escrever", "Editar", "Publicar", "Etapa: ______________", "Etapa: ______________", "Etapa: ______________"]
   - rotulo: "Por que essa etapa custava tanto para você, em particular?"
-    exemplo: "Um professor de cursinho: “Sem a lousa e sem aluno na frente, eu não sabia por onde começar o vídeo. Regravava a abertura cinco vezes e desistia no meio.”"
+    exemplo: "Uma oftalmologista: “No consultório eu explico com o modelo do olho na mão. Na frente da câmera, sem o modelo e sem paciente, eu regravava a abertura cinco vezes e desistia no meio.”"
     linhas: 4
   - rotulo: "Reescreva a história sem culpa"
     exemplo: "Em vez de “eu não tenho disciplina”, escreva: “eu escolhi um formato que exigia de mim X todos os dias, e X não estava disponível”."
@@ -198,7 +198,7 @@ regras:
   - {regra: "Termine no ajuste.", porque: "A peça existe para devolver a possibilidade de recomeçar, com um caminho diferente."}
 faca:
   - "Uma enfermeira de posto de saúde: “Quem para o remédio de pressão costuma parar no mesmo momento: quando a pressão normaliza. Antes de parar, converse com quem prescreveu.”"
-  - "Uma contadora: “Quem promete separar as notas do mês costuma desistir em abril, logo depois da declaração. Uma pasta sanfonada na gaveta da entrada dura mais do que a planilha.”"
+  - "Uma contadora: “Quem promete separar os recibos do mês costuma desistir em junho, logo depois da declaração. Uma pasta sanfonada na gaveta da entrada dura mais do que a planilha.”"
   - Nomear a etapa em que a maioria trava, com o detalhe que você vê na prática.
   - Terminar com uma troca concreta de método, como horário, lembrete ou com quem conversar.
 evite:
