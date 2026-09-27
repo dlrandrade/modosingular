@@ -10,7 +10,7 @@ legenda_ilustracao: Território não fica vago. Se você não finca a bandeira, 
 
 Débora entrou na sala da Lúcia numa terça-feira à noite e, antes de sentar, pediu desculpas. Tinha feito tudo direito, disse. Durante vinte e um dias seguiu um protocolo que encontrou num vídeo: respiração em quatro tempos ao acordar, diário de gratidão, nada de café depois das duas da tarde, dez minutos de sol. O rapaz do vídeo garantia que, no fim das três semanas, a ansiedade estaria sob controle. No vigésimo segundo dia, ela acordou com o coração acelerado, como sempre. A conclusão veio sozinha: se o método funcionava para milhares de pessoas e não tinha funcionado para ela, o problema era ela.
 
-Lúcia atende adultos com ansiedade há nove anos em Porto Alegre, e já tinha ouvido versões parecidas dessa história. Mesmo assim, se surpreendeu com o tempo que levou para desfazer aquela. Foram três sessões dedicadas a desmontar a culpa por ter "falhado" num protocolo antes de conseguir falar do que realmente importava. Nada ali era mentira, exatamente. Respirar melhor ajuda, dormir melhor ajuda, sol faz bem. O dano estava na promessa de prazo e na ideia de que ansiedade é um defeito a ser eliminado, e não um funcionamento a ser compreendido.
+Lúcia atende adultos com ansiedade há nove anos em Porto Alegre, e já tinha ouvido versões parecidas dessa história. Mesmo assim, se surpreendeu com o tempo que levou para desfazer aquela. Foram três sessões dedicadas a desmontar a culpa por ter "falhado" num protocolo antes de conseguir falar do que realmente importava. Nada ali era mentira, exatamente. Respirar melhor ajuda, dormir melhor ajuda, sol faz bem. O dano estava na promessa de prazo e na ideia, embutida nela, de que ansiedade se elimina como um defeito, quando o trabalho clínico começa justamente por entender como ela funciona naquela pessoa.
 
 Naquela noite, depois do último paciente, Lúcia fez uma busca que nunca tinha feito. Digitou no celular as palavras que Débora tinha usado e passou meia hora assistindo ao que aparecia. Encontrou dezenas de vídeos com milhões de visualizações, quase todos com a mesma estrutura: um problema complexo, uma solução em poucos passos, um prazo. Não encontrou nenhuma colega em quem confiasse. As pessoas que ela respeitava, que tinham anos de formação e de clínica, estavam em silêncio. Como ela.
 
@@ -34,9 +34,9 @@ O nome parece forte, e é de propósito. A palavra renúncia lembra que existe u
 
 ## Quem está ocupando o seu lugar
 
-Vale olhar com calma para as pessoas que preenchem o espaço deixado pelos especialistas, porque a reação mais comum, o desprezo, atrapalha mais do que ajuda. O rapaz do protocolo de vinte e um dias provavelmente acredita no que diz. Talvez tenha passado por uma crise, melhorado com aquelas práticas e concluído que encontrou uma resposta universal. Ele não tem formação para saber por que funcionou no caso dele e não funciona para todo mundo. Tem, em compensação, três coisas que faltam à maioria dos especialistas: responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte.
+As pessoas que preenchem o espaço deixado pelos especialistas merecem um olhar calmo, porque a reação mais comum, o desprezo, atrapalha mais do que ajuda. O rapaz do protocolo de vinte e um dias provavelmente acredita no que diz. Talvez tenha passado por uma crise, melhorado com aquelas práticas e concluído que encontrou uma resposta universal. Ele não tem formação para saber por que funcionou no caso dele e não funciona para todo mundo. Tem, em compensação, três coisas que faltam à maioria dos especialistas: responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte.
 
-Nenhuma dessas três coisas exige diminuir a profundidade do que você sabe. Responder à pergunta real, e não à que os livros da sua área consideram importante, é uma questão de escuta, e você escuta essas perguntas o dia inteiro. Usar as palavras do público é uma questão de tradução, e este livro inteiro trata disso. Aparecer de novo é uma questão de sistema, e a quarta fase é dedicada a ele. O que o especialista tem e o ocupante do espaço não tem, a noção das exceções, do risco, do que não serve para todo mundo, é exatamente o que falta à conversa pública.
+Nenhuma dessas três coisas exige diminuir a profundidade do que você sabe. Responder à pergunta real, aquela que chega ao consultório e raramente aparece nos livros da sua área, é uma questão de escuta, e você escuta essas perguntas o dia inteiro. Usar as palavras do público é uma questão de tradução, e este livro inteiro trata disso. Aparecer de novo é uma questão de sistema, e a quarta fase é dedicada a ele. O que o especialista tem e o ocupante do espaço não tem, a noção das exceções, do risco, do que não serve para todo mundo, é exatamente o que falta à conversa pública.
 
 A comparação serve menos para alimentar raiva do que para mostrar que a disputa pelo espaço, em si, é justa: ganha quem aparece. Injusto, para o seu público, é que só apareça quem sabe menos.
 
@@ -116,7 +116,7 @@ legenda: O desconforto é real, mas é seu e passa. O custo de ceder a conversa 
 
 Lúcia não publicou nada naquela semana. Fez uma coisa mais útil: abriu uma nota no celular e passou a anotar, ao fim de cada dia, as perguntas e as crenças com que os pacientes chegavam. Em duas semanas, a lista tinha trinta e uma linhas, e algumas se repetiam com pequenas variações. "Se eu precisar de remédio, é porque a terapia não funcionou." "Terapia boa resolve em poucas sessões." "Ansiedade é falta do que fazer." "Se eu mexer no passado, vou ficar pior." Nenhuma dessas frases era absurda. Cada uma tinha uma origem compreensível, algum pedaço de verdade e um efeito concreto: atrasava a procura por ajuda ou fazia a pessoa desistir cedo demais. Pelo menos dez eram equívocos que ela corrigia toda semana, sempre com as mesmas palavras, para uma pessoa de cada vez. Foi a primeira vez que ela olhou para aquilo como matéria-prima.
 
-A oficina deste capítulo pede exatamente esse movimento. Você vai escolher um equívoco que o seu público repete, entender por que ele existe e escrever a correção que você faz de cabeça há anos. Não é um exercício de coragem. É um exercício de generosidade com quem ainda não chegou até você.
+A oficina deste capítulo pede exatamente esse movimento. Você vai escolher um equívoco que o seu público repete, entender por que ele existe e escrever a correção que você faz de cabeça há anos. Ele pede menos coragem do que generosidade com quem ainda não chegou até você.
 
 ```guardar
 - A dúvida do seu futuro cliente vai ser respondida por alguém. Você só decide se será por você.
@@ -137,7 +137,7 @@ campos:
     exemplo: "“Porque há vinte anos os produtos eram mais agressivos. A informação estava certa na época e ficou.”"
     linhas: 4
   - rotulo: "O que é verdade hoje, na sua experiência"
-    exemplo: "Traga o que você vê no consultório, no escritório ou na obra, e não o que está no manual."
+    exemplo: "Traga o que você vê no consultório, no escritório ou na obra. O manual todo mundo já leu."
     linhas: 5
   - rotulo: "O critério que a pessoa leva para decidir sozinha"
     exemplo: "“A pergunta certa não é se clareia, é qual concentração para qual sensibilidade, e isso se avalia assim.”"
@@ -147,7 +147,7 @@ campos:
     linhas: 4
 criterios:
   - Você explicou a origem do erro sem ridicularizar quem acredita nele.
-  - A correção usa evidência da sua prática, e não só citação de literatura.
+  - A correção usa evidência da sua prática, além da literatura.
   - O critério serve à pessoa mesmo que ela nunca contrate você.
 ```
 
@@ -189,41 +189,41 @@ roteiro_nota: Um equívoco por peça. Se o assunto envolve saúde, direito ou fi
 ```verificacao
 - pergunta: Por que o silêncio de um especialista não é neutro?
   opcoes:
-    - Porque as plataformas punem contas inativas.
-    - Porque a dúvida do público é respondida de qualquer jeito, e outra pessoa educa esse público no seu lugar.
-    - Porque os concorrentes ganham mais seguidores.
-    - Porque os clientes acham que você fechou as portas.
+    - Porque as plataformas reduzem o alcance de quem passa muito tempo sem publicar.
+    - Porque outra pessoa acaba respondendo às dúvidas do seu público no seu lugar.
+    - Porque os concorrentes que publicam passam a ter mais seguidores do que você.
+    - Porque os clientes antigos podem achar que você encerrou as atividades.
   correta: 1
   explicacao: O ponto não é a plataforma nem a métrica. A dúvida do seu público vai ser respondida; a única variável é por quem, e com que qualidade.
 - pergunta: Qual é a diferença central entre autopromoção e ocupação de território?
   opcoes:
-    - A frequência de publicação.
-    - A qualidade da produção.
-    - O centro do conteúdo, que pode ser você mesmo ou o problema do outro.
-    - O tamanho do texto.
+    - A frequência com que cada um publica ao longo da semana.
+    - A qualidade da produção de imagem e de som das peças.
+    - O centro da peça: você mesmo ou o problema de quem lê.
+    - O tamanho dos textos e a duração dos vídeos publicados.
   correta: 2
   explicacao: A ocupação de território põe no centro o problema de quem ainda não é cliente e oferece critério. É isso que permite ao especialista sério comunicar sem se sentir vaidoso.
 - pergunta: No caso da Lúcia, o que tornou a correção possível sem ferir o sigilo?
   opcoes:
-    - Pedir autorização à paciente para contar a história.
-    - Mudar o nome e a cidade da paciente.
-    - Tomar como assunto a crença difundida, e não a história de alguém.
-    - Publicar só para seguidores próximos.
-  correta: 2
+    - Tomar como assunto a crença difundida, sem contar a história de ninguém.
+    - Pedir à paciente autorização para contar o caso dela em detalhes.
+    - Trocar o nome e a cidade da paciente antes de contar a sessão.
+    - Publicar a história apenas para um grupo fechado de seguidores.
+  correta: 0
   explicacao: O tema da peça é a ideia de que ansiedade se elimina com um protocolo e um prazo, uma crença pública. Nenhuma sessão precisa ser contada para que essa correção seja feita.
 - pergunta: Que pergunta o capítulo propõe no lugar de "eu quero aparecer?"
   opcoes:
-    - Quanto tempo eu tenho por semana?
-    - Qual formato dá mais alcance na minha área?
-    - Quem eu aceito que explique o meu trabalho para quem ainda não me conhece?
-    - De quantos seguidores eu preciso para começar?
-  correta: 2
+    - Quanto tempo livre eu consigo reservar por semana para isso?
+    - Qual formato está dando mais alcance para quem é da minha área?
+    - De quantos seguidores eu preciso antes de começar a publicar?
+    - Quem eu aceito que explique o meu trabalho a quem não me conhece?
+  correta: 3
   explicacao: A primeira pergunta mede desejo, e por isso trava. A segunda mede consequência, e por isso decide.
 ```
 
 ```aplicacao
 itens:
-  - {rotulo: "Listei cinco equívocos que o meu público repete", ajuda: "São crenças reais, ouvidas de clientes, e não temas genéricos da minha área.", pontos: 3}
+  - {rotulo: "Listei cinco equívocos que o meu público repete", ajuda: "São crenças reais, ouvidas de clientes, com as palavras deles.", pontos: 3}
   - {rotulo: "Escolhi um e entendi por que ele existe", ajuda: "Sei explicar a origem da crença sem desprezar quem acredita nela.", pontos: 3}
   - {rotulo: "Separei ocupação de território de autopromoção", ajuda: "Consigo dizer por que a minha peça não é sobre mim, embora fale do meu trabalho.", pontos: 2}
   - {rotulo: "Escrevi a correção pública", ajuda: "O rascunho tem as quatro partes do esqueleto.", pontos: 2}

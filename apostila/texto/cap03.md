@@ -18,7 +18,11 @@ No mesmo período, aconteceu uma coisa em que ele não prestou atenção. Uma cl
 
 Caio não fez nada de errado ao investir em equipamento, e boa produção não é um defeito. O problema começa quando ela passa a ser confundida com substância, e essa confusão tem história. À medida que a criação de conteúdo virou um mercado, com seus cursos, seus especialistas e suas tendências, espalhou-se a ideia de que presença profissional precisa parecer peça publicitária: câmera boa, luz, cenário, cortes rápidos, legenda animada, identidade visual impecável.
 
+No caso do Caio, a pressão era maior porque a arquitetura vive de imagem. Revistas, portfólios e plataformas de decoração acostumaram o público a fotos perfeitas de ambientes prontos, e ele achou natural que a própria presença seguisse o mesmo padrão. O que as revistas não mostram, e o que os clientes dele mais valorizam depois que o contratam, é o raciocínio que levou àquele ambiente.
+
 Para quem vive de vender produção, essa ideia faz sentido. Para quem vive de outra coisa, ela inverte a ordem natural. O especialista passa a achar que só pode começar quando tiver a embalagem pronta. A embalagem sempre pode melhorar, então o começo nunca chega. E quando chega, como no caso do Caio, vem com um custo tão alto por peça que a produção não sobrevive a um mês cheio.
+
+Há também um motivo menos confessável para a produção atrair tanto. Equipamento se compra, edição se aprende em tutorial, cenário se monta num fim de semana. São problemas com solução conhecida, mensuráveis, que dão a sensação de progresso a cada etapa. Ter uma opinião sobre o próprio ofício e dizê-la em público é outra coisa: expõe, não tem tutorial e pode dar errado diante de todo mundo. Caio não pensou nisso quando comprou a câmera, mas os onze fins de semana de edição tinham uma vantagem escondida. Enquanto ajustava a cor de um plano, ele não precisava decidir o que pensava sobre nada. Comprar equipamento é uma das formas mais respeitáveis de adiar.
 
 ```figura
 tipo: camadas
@@ -46,6 +50,8 @@ Caio fez o teste com o seu vídeo preferido, o do apartamento do Cambuí. O que 
 
 Depois, por curiosidade, ele transcreveu o áudio do taco. O texto tinha uma afirmação contrária ao que todo mundo estava fazendo, uma informação técnica que pouca gente tem (a madeira, a raridade, o custo de recuperar), uma consequência prática (o valor de revenda) e uma frase que dava para repetir. Gravado entre cavaletes, com barulho de serra ao fundo, o áudio passava no teste com folga. O vídeo de onze fins de semana, não.
 
+O teste vale igualmente para textos e imagens. Um carrossel com design impecável, paleta de cores coerente e tipografia escolhida a dedo pode, depois de reduzido às frases, dizer apenas que "cuidar da pele é um ato de amor-próprio". Uma dermatologista que escreve, em cinco linhas sem nenhum enfeite, por que o protetor solar aplicado de manhã protege pouco quem passa a tarde perto de uma janela, e o que fazer a respeito, oferece mais em poucas palavras do que dez carrosséis bonitos. O teste do mudo não pergunta como a peça foi feita. Pergunta o que sobra quando a forma sai de cena.
+
 ```nota
 tipo: alerta
 titulo: Como aplicar o teste do mudo
@@ -63,10 +69,12 @@ Tabela: Sinais de autoridade que não dependem de produção
 | Detalhe específico | "Em quase todo apartamento dos anos 70 que eu abro, o problema está na coluna de água da cozinha." | Ninguém inventa um detalhe assim. Só quem viu muitos casos. |
 | Exceção nomeada | "Isso vale para quase todo mundo, menos para quem já teve uma lesão no joelho." | Saber a exceção prova domínio maior do que saber a regra. |
 | Recusa | "Esse tipo de ação eu não aceito, e vou explicar por quê." | Quem recusa demonstra critério, e critério é raro. |
-| Mudança de opinião | "Eu pensava o contrário até alguns anos atrás. O que me fez mudar foi…" | Revela raciocínio ativo, e não repetição de manual. |
+| Mudança de opinião | "Eu pensava o contrário até alguns anos atrás. O que me fez mudar foi…" | Revela raciocínio ativo, longe da repetição de manual. |
 | Cálculo de risco | "O ganho aqui é pequeno e o risco é real. Eu não recomendaria." | Contraria o interesse comercial imediato, e por isso é confiável. |
 
 O áudio do taco tinha três desses sinais: o detalhe (peroba), o cálculo de risco (gastar mais para valer menos) e uma recusa implícita (não troque). Os vídeos cinematográficos não tinham nenhum. A diferença de resultado entre os dois não tem mistério.
+
+Os cinco sinais têm uma coisa em comum: são subprodutos do trabalho real, e por isso não precisam ser inventados, só percebidos. Toda semana você dá detalhes que ninguém mais daria, nomeia exceções, recusa pedidos, revê uma opinião antiga, pesa riscos em voz alta diante de um cliente. Isso acontece em conversas que terminam e se perdem. Um jeito simples de começar a notar é, durante três dias, anotar ao fim do expediente uma frase que você disse a alguém e que um colega menos experiente não diria. Em pouco tempo aparece um padrão, e ele é a matéria-prima dos próximos capítulos.
 
 ```exemplo
 titulo: A mesma informação em duas hierarquias
@@ -79,7 +87,9 @@ porque: O segundo vídeo tem produção pior e autoridade muito maior. Ele descr
 
 Nada disso é uma defesa do feio ou do descuidado. A boa produção tem uma função real, só que é outra: ela reduz atrito. Áudio limpo faz a pessoa continuar ouvindo. Legenda permite assistir no ônibus, sem som. Imagem estável cansa menos. Uma boa diagramação faz o texto ser lido até o fim. Todas essas coisas protegem a atenção de quem está do outro lado, e isso importa.
 
-O que a produção não faz é criar autoridade onde não há pensamento. Ela funciona como um bom par de óculos: deixa ver melhor o que já está ali, e não acrescenta nada à paisagem. Quando o especialista entende isso, a pergunta muda de "quanto preciso investir para começar?" para "qual é o mínimo que impede a minha ideia de se perder no caminho?". A segunda pergunta tem uma resposta curta, e quase sempre gratuita.
+O que a produção não faz é criar autoridade onde não há pensamento. Ela funciona como um bom par de óculos: deixa ver melhor o que já está ali, sem acrescentar nada à paisagem. Quando o especialista entende isso, a pergunta muda de "quanto preciso investir para começar?" para "qual é o mínimo que impede a minha ideia de se perder no caminho?". A segunda pergunta tem uma resposta curta, e quase sempre gratuita.
+
+Existe, sim, um momento em que investir mais em produção faz sentido. Ele chega quando você já sabe o que diz, já tem um ritmo que se sustenta e percebe que algum atrito específico está custando atenção: o áudio que falha em ambiente barulhento, o texto longo que ninguém lê até o fim porque falta respiro. Nesses casos, o investimento resolve um problema identificado, em vez de adiar um problema que ainda nem apareceu. Os capítulos sobre formato e sobre escala, mais adiante, tratam disso. Até lá, a regra é gastar primeiro em pensamento e só depois em acabamento.
 
 ```nota
 tipo: pratica
@@ -107,7 +117,11 @@ Há ainda uma vantagem pouco comentada da produção mínima: ela traz o ambient
 
 Caio não vendeu a câmera. Ela continua útil para as fotos de entrega, que ele faz uma vez por mês, com calma. O que mudou foi a ordem das coisas. Na quinta-feira seguinte ao teste do mudo, ele apoiou o celular num cavalete, no meio de uma obra no bairro Guanabara, e gravou em uma tomada só, com o barulho de uma furadeira ao fundo, por que a parede que o cliente queria demolir tinha que ficar. Errou uma palavra no meio e não regravou. Levou quatro minutos entre ligar a câmera e publicar.
 
-O vídeo não ganhou prêmio de edição, e ninguém comentou a trilha, porque não havia trilha. Duas pessoas mandaram mensagem perguntando se ele atendia em Valinhos. É cedo para tirar conclusões de um único vídeo, e o livro não vai pedir que você tire. O que ele pede é que você faça a experiência da produção mínima pelo menos uma vez, antes de decidir o que ela vale para você.
+Os seis vídeos antigos continuam publicados. Caio pensou em apagá-los e desistiu: eram bons registros de obras de que ele se orgulha. Numa noite de chuva, reassistiu ao do Cambuí e percebeu o que faltava. Em nenhum momento o vídeo explicava por que a cozinha tinha mudado de lugar, por que a janela da sala foi mantida mesmo torta, por que ele desaconselhou o forro de gesso que a cliente queria. As decisões que fizeram daquela reforma um trabalho dele, e não de qualquer escritório, estavam todas fora do filme.
+
+O vídeo novo não ganhou prêmio de edição, e ninguém comentou a trilha, porque não havia trilha. Duas pessoas mandaram mensagem perguntando se ele atendia em Valinhos. É cedo para tirar conclusões de um único vídeo, e o livro não vai pedir que você tire. O que ele pede é que você faça a experiência da produção mínima pelo menos uma vez, antes de decidir o que ela vale para você.
+
+Quatro minutos contra onze fins de semana. A comparação não diz que o vídeo simples é melhor em tudo; diz que ele é sustentável. Um especialista com a agenda cheia consegue repetir quatro minutos toda semana, o ano inteiro. Onze fins de semana para seis vídeos não se repetem nem uma vez, e a presença que depende de esforço extraordinário termina no primeiro mês comum. O capítulo 5 volta a essa conta com mais cuidado.
 
 ```guardar
 - Se a sua ideia não sobrevive em texto puro, nenhuma edição vai salvá-la.
@@ -131,7 +145,7 @@ campos:
     exemplo: "Se sobrasse só esta frase, ela ainda interessaria a alguém da sua área de atuação?"
     linhas: 2
   - rotulo: "O que você vai dizer, em fala natural"
-    exemplo: "Escreva como você fala, e não como escreveria. Leia em voz alta antes de gravar."
+    exemplo: "Escreva como você fala. Leia em voz alta antes de gravar e corte o que soar escrito."
     linhas: 7
   - rotulo: "O que você deixou de fazer de propósito"
     exemplo: "“Não editei, não pus legenda, gravei na obra com o celular apoiado num cavalete.”"
@@ -163,8 +177,6 @@ esqueleto:
   - {rotulo: "A exceção", texto: "Quando a regra falha. É ela que prova domínio.", linhas: 2}
   - {rotulo: "O fecho", texto: "Uma frase repetível. Nada de pedir que sigam você.", linhas: 1}
 roteiro: |
-  Vou gravar isto do jeito mais simples possível, porque o que importa aqui não é a imagem.
-
   {a afirmação direta, sem preâmbulo}
 
   Tem um detalhe que quase ninguém conta: {um detalhe específico da sua prática, uma frequência, um sinal}
@@ -186,27 +198,27 @@ roteiro_nota: Grave antes de pensar demais. Se precisar de uma segunda tomada, t
   explicacao: O pensamento é a base, e cada camada acima só faz sentido se a de baixo existir. Inverter a ordem produz um perfil bonito e indiferenciado, como os seis vídeos do Caio.
 - pergunta: Qual é a função real da boa produção?
   opcoes:
-    - Criar autoridade percebida.
-    - Aumentar o alcance nas plataformas.
-    - Reduzir o atrito, para que a autoridade não se perca no caminho.
-    - Justificar um preço maior.
+    - Criar a autoridade que o texto sozinho não tem.
+    - Aumentar o alcance das peças nas plataformas.
+    - Reduzir o atrito para a autoridade não se perder.
+    - Justificar um preço maior pelo serviço prestado.
   correta: 2
-  explicacao: Áudio limpo, legenda e imagem estável não acrescentam autoridade; evitam que ela se perca. A função é de preservação, e não de criação.
+  explicacao: Áudio limpo, legenda e imagem estável não acrescentam autoridade; evitam que ela se perca. A função delas é preservar.
 - pergunta: Qual destes é um sinal de autoridade que NÃO depende de produção?
   opcoes:
-    - Uma abertura com corte rápido nos primeiros segundos.
-    - Nomear a exceção à regra que você acabou de dar.
-    - Uma identidade visual consistente.
-    - Legenda animada palavra por palavra.
-  correta: 1
-  explicacao: Saber a exceção prova mais domínio do que saber a regra, e não custa nada. É o tipo de sinal que nenhuma agência consegue fabricar por você.
+    - Uma abertura com corte rápido logo nos primeiros segundos.
+    - Uma identidade visual consistente em todas as peças.
+    - Legenda animada que acompanha a fala palavra por palavra.
+    - Nomear a exceção à regra que você acabou de explicar.
+  correta: 3
+  explicacao: Saber a exceção prova mais domínio do que saber a regra, e custa zero. É o tipo de sinal que nenhuma agência consegue fabricar por você.
 - pergunta: O que o teste do mudo avalia?
   opcoes:
-    - Se o conteúdo funciona sem som.
-    - Se a ideia sobrevive quando se tira toda a produção e sobra só o que foi dito.
-    - Se as legendas estão corretas.
-    - Se o vídeo prende a atenção nos primeiros segundos.
-  correta: 1
+    - Se a ideia sobrevive quando só sobra o que foi dito.
+    - Se o conteúdo continua funcionando para quem assiste sem som.
+    - Se as legendas acompanham corretamente a fala do vídeo.
+    - Se o vídeo segura a atenção nos primeiros três segundos.
+  correta: 0
   explicacao: É um teste de substância. Reescreva a peça em texto puro; o que sobra é a autoridade real que ela carrega.
 ```
 
@@ -214,6 +226,6 @@ roteiro_nota: Grave antes de pensar demais. Se precisar de uma segunda tomada, t
 itens:
   - {rotulo: "Apliquei o teste do mudo", ajuda: "Reescrevi a minha última peça em texto puro e avaliei com honestidade o que sobrou.", pontos: 3}
   - {rotulo: "Identifiquei onde eu estava gastando esforço demais", ajuda: "Sei nomear a etapa de produção que me travava sem trazer retorno.", pontos: 2}
-  - {rotulo: "Gravei ou escrevi uma peça com produção mínima", ajuda: "Testei a ideia na prática, e não só no papel.", pontos: 3}
+  - {rotulo: "Gravei ou escrevi uma peça com produção mínima", ajuda: "Testei a ideia na prática, fora do papel.", pontos: 3}
   - {rotulo: "Anotei três sinais de autoridade que posso usar", ajuda: "Tenho um detalhe, uma exceção ou uma recusa da minha prática por escrito.", pontos: 2}
 ```
