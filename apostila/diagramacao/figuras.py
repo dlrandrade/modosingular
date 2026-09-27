@@ -662,13 +662,18 @@ def ilu_ponte():
 
 
 def ilu_espelho():
+    """A pessoa, inteira, diante de um espelho que devolve uma silhueta menor e sem traços."""
     return _ilu(
-        f'<ellipse cx="200" cy="140" rx="70" ry="94" fill="{PAPER}" stroke-width="1.5"/>'
-        f'<ellipse cx="200" cy="140" rx="60" ry="84" stroke="{INK3}" stroke-width=".7"/>'
-        f'<circle cx="200" cy="124" r="20" fill="{ACC}" stroke="none"/>'
-        f'<path d="M166 196 C170 168 230 168 234 196" fill="{ACC_L}" stroke="{ACC}"/>'
-        f'<path d="M156 90 l18 -18 M160 110 l30 -30" stroke="{INK3}" stroke-width=".7"/>'
-        f'<path d="M188 234 l-10 34 h44 l-10 -34"/>')
+        f'<ellipse cx="270" cy="140" rx="62" ry="90" fill="{PAPER}" stroke-width="1.5"/>'
+        f'<ellipse cx="270" cy="140" rx="53" ry="80" stroke="{INK3}" stroke-width=".7"/>'
+        f'<path d="M232 88 l14 -14 M236 106 l26 -26" stroke="{INK3}" stroke-width=".7"/>'
+        f'<circle cx="270" cy="138" r="12" fill="{SOFT}" stroke="{INK3}" stroke-width=".8"/>'
+        f'<path d="M248 186 C251 166 289 166 292 186" fill="{SOFT}" stroke="{INK3}" stroke-width=".8"/>'
+        f'<path d="M258 230 l-8 30 h40 l-8 -30"/>'
+        f'<circle cx="110" cy="118" r="26" fill="{ACC}" stroke="none"/>'
+        f'<path d="M66 214 C72 162 148 162 154 214 Z" fill="{ACC_L}" stroke="{ACC}"/>'
+        f'<path d="M86 104 q24 -16 48 0" stroke="{ACC_D}" stroke-width="1"/>'
+        f'<line x1="40" y1="262" x2="360" y2="262" stroke="{INK3}" stroke-width=".8"/>')
 
 
 def ilu_mapa():

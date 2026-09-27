@@ -207,6 +207,13 @@ licoes_da_revisao:
   - "cap02-r1: esqueleto e roteiro precisam servir a TODOS os exemplos que o próprio capítulo dá."
   - "cap02-r1: generalizações empíricas ('quase nunca', 'com frequência', 'costumam') sobre o comportamento de terceiros viram observação de personagem ou saem."
   - "cap02-r1: nomes populares de condições (ex.: 'vista cansada' = presbiopia) conferidos antes de usar."
+  - "cap03-r1: uma regra operacional (ex.: número de tomadas) aparece idêntica em todos os lugares do capítulo."
+  - "cap03-r1: gravar 'onde você trabalha' sempre com a ressalva do quadro limpo (nenhum papel, tela, prontuário ou cliente identificável)."
+  - "cap04-r1: a batida 'personagem não fez o óbvio; fez outra coisa' está esgotada na Fase I. Abrir desfechos pela ação."
+  - "cap04-r1: frases-marca e cenas reservadas no plano (ex.: 'contrato assinado não é prova de nada' é do cap. 16; 'dá para derrubar essa parede?' é do cap. 14) não podem ser gastas antes."
+  - "cap04-r1: nomes de figurantes com som distante dos protagonistas (Helena, e não Júlia, perto de Lúcia). A sócia do Otávio é Helena."
+  - "cap04-r1: arcos não se resolvem antes da hora: Otávio só volta à agência, com novo arranjo, no cap. 24; até lá as publicações estão suspensas."
+  - "cap04-r1: campos da oficina que pedem tabela usam 'grade' (linhas x colunas para marcar); espaço de escrita dimensionado para caber o que se pede à mão."
 
 # ---------------------------------------------------------------------
 elenco:
@@ -292,7 +299,7 @@ elenco:
 
 # ---------------------------------------------------------------------
 estrutura_do_capitulo:
-  paginas_alvo: "10 a 14 (só a oficina começa em página nova; autodiagnóstico cabe numa página; campo de escrita nunca quebra)"
+  paginas_alvo: "14 a 16. Decisão de projeto: corpo 10,8 pt para leitor de 30 a 60 anos, espaço real de escrita à mão e seções de caderno inteiras custam páginas. Só a oficina começa em página nova; autodiagnóstico cabe numa página; campo de escrita nunca quebra. O revisor aponta brancos evitáveis, não a extensão em si."
   prosa_palavras: [1800, 2800]
   partes:
     - abertura:   "Página ímpar. Fase, número, título, subtítulo, epígrafe (a frase do capítulo) e ilustração com legenda."

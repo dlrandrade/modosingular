@@ -61,7 +61,7 @@ problemas:
     por_que: 'A seção "A conta que ninguém faz" ainda reúne oito blocos: a conta, os limites da indicação, o custo discreto, a figura 1.1, o intervalo do perfil, a cardiologista, a raiva e as desculpas. O intertítulo cobre só os quatro primeiros; a partir de "Se a assimetria custasse só dinheiro" o assunto é reconhecimento e desculpas, que o PWA tratava em seção própria. O parágrafo das desculpas, no fim, é a pergunta a que a seção seguinte responde, mas fica separado dela pelo intertítulo.'
     correcao: 'Mover o parágrafo "É provável que você já tenha dado alguma explicação…" para abrir "O que este livro não vai pedir", logo antes de "Um medo costuma travar gente séria…" (as desculpas e o medo são a mesma resistência). Abrir o parágrafo da cardiologista com uma ponte que prenda à conta: "A conta tem uma parcela que não cabe na planilha."'
   - criterio: voz
-    trecho: "Só foi porque a mulher insistiu" / "só circula por um único canal" / "isso é só experiência" / "Só então a competência dela entra em campo" / "Só guardou a frase do Marcos"
+    trecho: '"Só foi porque a mulher insistiu" / "só circula por um único canal" / "isso é só experiência" / "Só então a competência dela entra em campo" / "Só guardou a frase do Marcos"'
     por_que: 'Tique lexical que o lint não conta: "só" aparece 13 vezes na prosa, "já" 15, "ninguém" 9 ("ninguém tinha investigado", "sem que ninguém notasse", "Ninguém nunca sentou", "quando ninguém decide", "sem que ninguém ensine", "ninguém aqui vai sugerir", "Ninguém precisa ouvir", "sem que ninguém pedisse", mais o intertítulo). Em 2.000 palavras isso vira música de fundo; em 30 capítulos, assinatura. "Justamente" aparece 3 vezes.'
     correcao: 'Cortar cerca de metade das ocorrências de "só" e "já" onde não mudam o sentido (ex.: "isso é só experiência" -> "isso é experiência"; "Só então a competência dela entra em campo" -> "Então a competência dela entra em campo"; "A confiança que você gera existe; circula por um único canal"). Manter no máximo 5 "ninguém". Sugestão ao orquestrador: aviso no lint para palavras de apoio acima de 5 por mil.'
   - criterio: voz
@@ -105,7 +105,7 @@ problemas:
     por_que: 'Duas frases antes, Renata tentou publicar a cada dois dias por mais de três semanas, o que é ter pensado no perfil, ainda que mal. A dupla negação "Ninguém nunca" também é a primeira coisa que o preparador marca.'
     correcao: '"Ninguém jamais decidiu o que o perfil deveria dizer sobre ela a quem ainda não a conhece."'
   - criterio: coerencia
-    trecho: "Uma pediatra experiente percebe…" / "Uma professora de piano: …" / "Uma nutricionista: …"
+    trecho: '"Uma pediatra experiente percebe…" / "Uma professora de piano: …" / "Uma nutricionista: …"'
     por_que: 'Pendente da r2: o registro de figurantes do ESTADO.yaml lista para o cap. 1 só cardiologista, engenheiro estrutural, contadora e advogada de família. Pediatra, professora de piano e nutricionista ficam livres para reaparecer nos próximos capítulos, contra a regra de uma participação por profissão.'
     correcao: 'Registrar pediatra, professora de piano e nutricionista como usados no cap. 1.'
   - criterio: aplicabilidade

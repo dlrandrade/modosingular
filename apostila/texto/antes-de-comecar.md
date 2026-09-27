@@ -21,7 +21,7 @@ Quatro capítulos trazem ainda um **autodiagnóstico**, uma escala para circular
 
 ## O pacto de leitura
 
-O ritmo sugerido é de um capítulo por dia, em trinta a quarenta e cinco minutos. Ele foi pensado para caber numa agenda cheia e para dar tempo de a oficina de hoje virar prática amanhã. Se você quiser acelerar, tudo bem, dentro de dois limites: não passe de cinco capítulos no mesmo dia e não termine o livro em menos de sete dias. Mais rápido do que isso, você lê, mas não aplica, e um livro lido sem aplicação vira só mais uma opinião na estante.
+O ritmo sugerido é de um capítulo por dia, em quarenta e cinco minutos a uma hora, somando leitura e oficina. Em dia cheio, divida em duas partes: leia num momento e faça a oficina em outro, sem deixar para o dia seguinte. Ele foi pensado para caber numa agenda cheia e para dar tempo de a oficina de hoje virar prática amanhã. Se você quiser acelerar, tudo bem, dentro de dois limites: não passe de cinco capítulos no mesmo dia e não termine o livro em menos de sete dias. Mais rápido do que isso, você lê, mas não aplica, e um livro lido sem aplicação vira só mais uma opinião na estante.
 
 Há também três regras de sequência. Não pule capítulos, porque cada um prepara o seguinte. Não avance sem fazer a oficina, mesmo que ela pareça simples. E use o checklist ao fim de cada capítulo como um sinal honesto: com setenta por cento dos pontos ou mais, siga; com menos, volte à oficina. O calendário do Apêndice D serve para registrar as datas e o tempo real de cada dia.
 

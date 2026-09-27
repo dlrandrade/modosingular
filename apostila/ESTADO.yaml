@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 15:32
+# atualizado: 2026-09-27 15:41
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -27,9 +27,18 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.62
+    - iteracao: 3
+      data: 2026-09-27 15:39
+      revisao: apostila/revisoes/cap01-r3.yaml
+      media: 8.92
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.92
   2:
-    status: reprovado
+    status: em_revisao
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 15:32
@@ -175,6 +184,7 @@ figurantes:
   - 1
   dentista:
   - 2
+  - 1
   veterinária:
   - 2
   oftalmologista:
@@ -189,12 +199,21 @@ figurantes:
   - 4
   corretor de seguros:
   - 4
+  - 1
   mecânico de motos:
   - 6
   confeiteira:
   - 6
+  pediatra:
+  - 1
+  professora de piano:
+  - 1
+  nutricionista:
+  - 1
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
+- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite''
+  passa para depois do esqueleto, para eliminar brancos.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)

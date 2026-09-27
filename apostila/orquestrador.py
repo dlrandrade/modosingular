@@ -149,6 +149,10 @@ def lint(n: int, silencioso=False) -> dict:
     sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante|merecem? (?:uma|um) (?:observação|olhar|atenção)|é preciso olhar para)", prosa)
     repare = re.findall(r"\b(?:Repare|Perceba|Note que|Observe que)\b", prosa)
     muletas = re.findall(r"(?i)\b(?:justamente|exatamente|realmente|simplesmente)\b", prosa)
+    apoio = len(re.findall(r"(?i)\b(?:só|já|ninguém)\b", prosa))
+    metr["so_ja_ninguem"] = apoio
+    if apoio / mil > 10:
+        avisos.append(f"palavras de apoio (só/já/ninguém): {apoio} ({apoio / mil:.1f}/mil; máx 10)")
     if len(muletas) > 4:
         avisos.append(f"muletas (justamente/exatamente/realmente/simplesmente): {len(muletas)} (máx 4)")
     supos = re.findall(r"\b(?:Talvez você|É provável que você|Você provavelmente|Você já deve ter|Você certamente)\b", prosa)
@@ -386,9 +390,9 @@ def b_rede(d, c):
                + "".join(f"<p>{lacunas(p)}</p>" for p in paras) + f"</div>{nota}</div>")
     return (f'<section class="rede">{cab_secao(f"Do caderno para a rede · Capítulo {c.n}", d["titulo"], d.get("intro", ""))}'
             f'<ol class="regras">{regras}</ol>'
+            f'<p class="rotulo">Esqueleto da peça — rascunhe aqui</p><div class="esqueleto">{esq}</div>'
             f'<div class="faca-evite"><div class="faca"><p class="rotulo">Faça assim</p><ul>{faca}</ul></div>'
-            f'<div class="evite"><p class="rotulo">Evite</p><ul>{evite}</ul></div></div>'
-            f'<p class="rotulo">Esqueleto da peça — rascunhe aqui</p><div class="esqueleto">{esq}</div>{rot}</section>')
+            f'<div class="evite"><p class="rotulo">Evite</p><ul>{evite}</ul></div></div>{rot}</section>')
 
 
 def b_verificacao(d, c):
