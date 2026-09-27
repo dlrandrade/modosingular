@@ -1,8 +1,9 @@
 "use client";
 
-import { useEffect, useState, useTransition } from "react";
+import { useEffect, useRef, useState, useTransition } from "react";
+import { CrieAgora } from "./CrieAgora";
 import { useRouter } from "next/navigation";
-import type { Capitulo } from "@/content/types";
+import type { CapituloCliente, Publicar } from "./tipos";
 import {
   abrirCapitulo, concluirCapitulo, enviarQuiz,
   salvarTarefa, salvarPontuacao, salvarTeste, salvarNota,
@@ -12,9 +13,10 @@ type Detalhe = { id: string; marcada: number; correta: number; acertou: boolean;
 type ResultadoQuiz = { acertos: number; total: number; passou: boolean; detalhes: Detalhe[] };
 
 export function LeitorInterativo({
-  capitulo: cap, concluido, quizAnterior, tarefaAnterior, scoreAnterior, notaAnterior, proximo,
+  capitulo: cap, publicar, concluido, quizAnterior, tarefaAnterior, scoreAnterior, notaAnterior, proximo,
 }: {
-  capitulo: Capitulo;
+  capitulo: CapituloCliente;
+  publicar: Publicar;
   concluido: boolean;
   quizAnterior: { acertos: number; total: number; passou: boolean; answers: unknown } | null;
   tarefaAnterior: { campos: Record<string, string>; state: string; formato: string | null; link_publicacao: string | null } | null;
@@ -47,7 +49,15 @@ export function LeitorInterativo({
 
   /* ----------------------------------------------------------- teste */
   const [teste, setTeste] = useState<Record<string, number>>({});
-  const [resTeste, setResTeste] = useState<{ soma: number; faixa: { titulo: string; leitura: string } } | null>(null);
+  const [resTeste, setResTeste] = useState<
+    { soma: number; faixa: { min: number; max: number; titulo: string; leitura: string } } | null
+  >(null);
+  const refResultado = useRef<HTMLDivElement>(null);
+
+  // O resultado é a recompensa de responder o teste inteiro: leva a tela até ele.
+  useEffect(() => {
+    if (resTeste) refResultado.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+  }, [resTeste]);
   const testeCompleto = cap.teste ? cap.teste.itens.every((i) => teste[i.id] > 0) : true;
 
   /* ------------------------------------------------------- pontuação */
@@ -61,7 +71,13 @@ export function LeitorInterativo({
   // Só salva rascunho depois de uma edição real: sem isso, reabrir um
   // capítulo com a tarefa já entregue a rebaixaria para rascunho.
   const [tocado, setTocado] = useState(false);
-  const tarefaEntregue = tarefaAnterior?.state === "submitted" || tarefaAnterior?.state === "published";
+  const [entregue, setEntregue] = useState(
+    tarefaAnterior?.state === "submitted" || tarefaAnterior?.state === "published",
+  );
+  const [erroTarefa, setErroTarefa] = useState("");
+  const refEntrega = useRef<HTMLDivElement>(null);
+  // Reeditar depois de entregar: precisa reenviar para valer.
+  const editadaAposEntrega = entregue && tocado;
 
   /* ----------------------------------------------------------- notas */
   const [nota, setNota] = useState(notaAnterior);
@@ -136,12 +152,36 @@ export function LeitorInterativo({
               {testeCompleto ? "Ver meu resultado" : `Responda os ${cap.teste.itens.length} itens`}
             </button>
           ) : (
-            <div className="card p-4 mt-4" style={{ borderColor: "var(--accent)" }}>
-              <div className="text-[10.5px] font-bold uppercase tracking-wider mb-1.5" style={{ color: "var(--accent)" }}>
-                Seu resultado · {resTeste.soma} pontos
+            <div ref={refResultado} className="rise mt-5 rounded-2xl border overflow-hidden"
+                 style={{ borderColor: "var(--accent)" }}>
+              <div className="px-5 pt-6 pb-5 text-center" style={{ background: "var(--accent-dim)" }}>
+                <div className="text-[10.5px] font-bold uppercase tracking-[.14em] mb-3"
+                     style={{ color: "var(--accent)" }}>
+                  Seu resultado
+                </div>
+                <div className="flex items-baseline justify-center gap-1.5 mb-3">
+                  <span className="font-serif leading-none tabular-nums"
+                        style={{ fontSize: "3.6rem", color: "var(--accent)" }}>
+                    {resTeste.soma}
+                  </span>
+                  <span className="text-[13px]" style={{ color: "var(--ink-3)" }}>
+                    de {cap.teste!.itens.length * cap.teste!.escala.length}
+                  </span>
+                </div>
+                <h4 className="font-serif text-[1.65rem] leading-tight" style={{ color: "var(--ink)" }}>
+                  {resTeste.faixa.titulo}
+                </h4>
               </div>
-              <h4 className="font-serif text-lg mb-2">{resTeste.faixa.titulo}</h4>
-              <p className="text-[14px] leading-relaxed" style={{ color: "var(--ink-2)" }}>{resTeste.faixa.leitura}</p>
+
+              <div className="px-5">
+                <Medidor faixas={cap.teste!.faixas} soma={resTeste.soma} />
+              </div>
+
+              <div className="px-5 pb-5 pt-4">
+                <p className="text-[15px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
+                  {resTeste.faixa.leitura}
+                </p>
+              </div>
             </div>
           )}
         </Secao>
@@ -202,7 +242,7 @@ export function LeitorInterativo({
           <div className="mt-4">
             <div className="card p-4 text-center"
                  style={{ borderColor: resultado.passou ? "var(--pos)" : "var(--neg)" }}>
-              <div className="font-serif text-3xl mb-1"
+              <div className="font-serif text-[2rem] mb-1"
                    style={{ color: resultado.passou ? "var(--pos)" : "var(--neg)" }}>
                 {resultado.acertos}/{resultado.total}
               </div>
@@ -261,7 +301,7 @@ export function LeitorInterativo({
       <Secao numero="Tarefa" titulo={cap.tarefa.titulo} legenda={cap.tarefa.objetivo}>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="chip">~{cap.tarefa.tempoMin} min</span>
-          {tarefaEntregue && <span className="chip" style={{ color: "var(--pos)", borderColor: "var(--pos)" }}>entregue</span>}
+          {entregue && <span className="chip" style={{ color: "var(--pos)", borderColor: "var(--pos)" }}>entregue</span>}
         </div>
 
         <div className="card p-3.5 mb-4">
@@ -320,17 +360,67 @@ export function LeitorInterativo({
           </ul>
         </div>
 
-        <div className="flex items-center gap-3 mt-4">
-          <button className="btn btn-primary flex-1" disabled={pendente}
-            onClick={() => startTransition(async () => {
-              await salvarTarefa(cap.n, campos, true, { formato });
-              setSalvo("ok"); router.refresh();
-            })}>
-            Entregar tarefa
-          </button>
-          <span className="text-[12px] shrink-0" style={{ color: "var(--ink-3)" }}>
-            {salvo === "salvando" ? "salvando…" : salvo === "ok" ? "rascunho salvo" : ""}
-          </span>
+        <div ref={refEntrega} className="mt-4 scroll-mt-24">
+          {entregue && !editadaAposEntrega ? (
+            <div className="rise rounded-xl border p-4"
+                 style={{ borderColor: "var(--pos)",
+                          background: "color-mix(in srgb, var(--pos) 9%, transparent)" }}>
+              <div className="flex items-start gap-3">
+                <span className="shrink-0 w-6 h-6 rounded-full grid place-items-center text-[13px] font-bold"
+                      style={{ background: "var(--pos)", color: "var(--bg)" }}>✓</span>
+                <div>
+                  <p className="text-[15px] font-semibold mb-1" style={{ color: "var(--pos)" }}>
+                    Tarefa entregue
+                  </p>
+                  <p className="text-[13.5px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
+                    Está salva na sua conta e aparece no seu perfil. Pode continuar editando
+                    — se mudar algo, é só entregar de novo.
+                  </p>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <>
+              {editadaAposEntrega && (
+                <p className="text-[13px] leading-relaxed mb-2.5 rounded-lg px-3 py-2.5"
+                   style={{ color: "var(--accent)", background: "var(--accent-dim)" }}>
+                  Você editou depois de entregar. Entregue de novo para gravar a versão nova.
+                </p>
+              )}
+              <button className="btn btn-primary w-full" disabled={pendente}
+                onClick={() => startTransition(async () => {
+                  const preenchidos = Object.values(campos).filter((v) => v && v.trim()).length;
+                  if (preenchidos === 0) {
+                    setErroTarefa("Preencha ao menos um campo antes de entregar.");
+                    return;
+                  }
+                  setErroTarefa("");
+                  await salvarTarefa(cap.n, campos, true, { formato });
+                  setEntregue(true);
+                  setTocado(false);
+                  setSalvo("idle");
+                  refEntrega.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+                })}>
+                {pendente ? "Entregando…" : editadaAposEntrega ? "Entregar de novo" : "Entregar tarefa"}
+              </button>
+            </>
+          )}
+
+          {erroTarefa && (
+            <p className="text-[13px] mt-2.5 rounded-lg px-3 py-2.5"
+               style={{ color: "var(--neg)",
+                        background: "color-mix(in srgb, var(--neg) 12%, transparent)" }}>
+              {erroTarefa}
+            </p>
+          )}
+
+          <p className="text-[12px] mt-2.5 text-center" style={{ color: "var(--ink-3)" }}>
+            {salvo === "salvando"
+              ? "salvando rascunho…"
+              : salvo === "ok"
+              ? "rascunho salvo automaticamente"
+              : "o que você escrever é salvo sozinho enquanto digita"}
+          </p>
         </div>
       </Secao>
 
@@ -373,7 +463,7 @@ export function LeitorInterativo({
 
         {score !== null && (
           <div className="card p-4 mt-3 text-center" style={{ borderColor: "var(--accent)" }}>
-            <div className="font-serif text-4xl mb-1" style={{ color: "var(--accent)" }}>{score}</div>
+            <div className="font-serif text-[2.35rem] mb-1" style={{ color: "var(--accent)" }}>{score}</div>
             <p className="text-[13px]" style={{ color: "var(--ink-2)" }}>
               {score >= 80 ? "Aplicado de verdade. Pode seguir."
                 : score >= 50 ? "Parcialmente aplicado. Vale revisitar os critérios em branco antes de avançar."
@@ -389,6 +479,9 @@ export function LeitorInterativo({
           placeholder="O que este capítulo mexeu em você? O que você quer lembrar daqui a três meses?"
           value={nota} onChange={(e) => setNota(e.target.value)} />
       </Secao>
+
+      {/* ============================================= CRIE AGORA ==== */}
+      <CrieAgora n={cap.n} publicar={publicar} />
 
       {/* =============================================== CONCLUIR ==== */}
       <div className="card p-5 text-center" style={{ borderColor: quizAprovado ? "var(--accent)" : "var(--line)" }}>
@@ -420,6 +513,51 @@ export function LeitorInterativo({
 
 /* ------------------------------------------------------- auxiliares */
 
+/** Onde a pontuação caiu dentro do espectro completo do teste. */
+function Medidor({ faixas, soma }: {
+  faixas: { min: number; max: number; titulo: string }[]; soma: number;
+}) {
+  const lo = Math.min(...faixas.map((f) => f.min));
+  const hi = Math.max(...faixas.map((f) => f.max));
+  const amplitude = Math.max(hi - lo, 1);
+  const pos = Math.min(100, Math.max(0, ((soma - lo) / amplitude) * 100));
+
+  return (
+    <div className="pt-7">
+      <div className="relative">
+        <div className="absolute -top-5 flex flex-col items-center"
+             style={{ left: `${pos}%`, transform: "translateX(-50%)" }}>
+          <span style={{
+            width: 0, height: 0,
+            borderLeft: "5px solid transparent",
+            borderRight: "5px solid transparent",
+            borderTop: "6px solid var(--accent)",
+          }} />
+        </div>
+        <div className="flex h-2.5 rounded-full overflow-hidden">
+          {faixas.map((f, i) => {
+            const largura = ((f.max - f.min + 1) / (amplitude + 1)) * 100;
+            const ativa = soma >= f.min && soma <= f.max;
+            return (
+              <div key={i} style={{
+                width: `${largura}%`,
+                background: ativa ? "var(--accent)" : "var(--line)",
+                borderRight: i < faixas.length - 1 ? "2px solid var(--surface)" : undefined,
+              }} />
+            );
+          })}
+        </div>
+      </div>
+      <div className="flex justify-between mt-2 text-[10.5px] tabular-nums"
+           style={{ color: "var(--ink-3)" }}>
+        <span>{lo}</span>
+        <span>{faixas.length} faixas</span>
+        <span>{hi}</span>
+      </div>
+    </div>
+  );
+}
+
 function Secao({ id, numero, titulo, legenda, children }: {
   id?: string; numero: string; titulo: string; legenda: string; children: React.ReactNode;
 }) {
@@ -429,7 +567,7 @@ function Secao({ id, numero, titulo, legenda, children }: {
         <div className="text-[10.5px] font-bold uppercase tracking-[.12em] mb-1" style={{ color: "var(--accent)" }}>
           {numero}
         </div>
-        <h2 className="font-serif text-xl leading-tight mb-1">{titulo}</h2>
+        <h2 className="font-serif text-[1.4rem] leading-tight mb-1">{titulo}</h2>
         <p className="text-[13px] leading-relaxed" style={{ color: "var(--ink-3)" }}>{legenda}</p>
       </div>
       {children}

@@ -44,7 +44,7 @@ export default async function Perfil(
     <>
       <Cabecalho />
       <main className="max-w-2xl mx-auto px-page pt-6 pb-28">
-        <h1 className="font-serif text-2xl mb-6">Seu perfil</h1>
+        <h1 className="font-serif text-[1.65rem] mb-6">Seu perfil</h1>
 
         {redefinir && <NovaSenha />}
 
@@ -63,7 +63,7 @@ export default async function Perfil(
           </div>
           {ling ? (
             <>
-              <h2 className="font-serif text-xl mb-1.5" style={{ color: "var(--accent)" }}>
+              <h2 className="font-serif text-[1.4rem] mb-1.5" style={{ color: "var(--accent)" }}>
                 {ling.nome}
                 {j.perfil.linguagem_secundaria && (
                   <span className="text-[13px] font-sans not-italic ml-2" style={{ color: "var(--ink-3)" }}>
@@ -97,7 +97,7 @@ export default async function Perfil(
 
         {/* --------------------------------------------------- dados */}
         <section className="mb-6">
-          <h2 className="font-serif text-lg mb-3">Seus dados</h2>
+          <h2 className="font-serif text-[1.28rem] mb-3">Seus dados</h2>
           <FormPerfil perfil={j.perfil} />
         </section>
 
@@ -134,7 +134,7 @@ export default async function Perfil(
 function Card({ valor, rotulo }: { valor: string; rotulo: string }) {
   return (
     <div className="card p-4">
-      <div className="font-serif text-2xl leading-none mb-1.5" style={{ color: "var(--accent)" }}>{valor}</div>
+      <div className="font-serif text-[1.65rem] leading-none mb-1.5" style={{ color: "var(--accent)" }}>{valor}</div>
       <div className="text-[12px] leading-snug" style={{ color: "var(--ink-3)" }}>{rotulo}</div>
     </div>
   );

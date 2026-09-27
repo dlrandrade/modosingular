@@ -3,7 +3,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { createClient } from "@/lib/supabase/server";
 import { carregarJornada } from "@/lib/dados";
-import { getCapitulo, FASES } from "@/content";
+import { getCapitulo, FASES, ROTEIROS, ESTRUTURAS, montarPrompt } from "@/content";
+import { paraCliente } from "./tipos";
 import { textoBloqueio } from "@/lib/ritmo";
 import { Cabecalho } from "@/components/Cabecalho";
 import { Conteudo, IlustracaoCapitulo } from "@/components/Blocos";
@@ -63,14 +64,14 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
             </span>
           </div>
 
-          <h1 className="font-serif text-[2rem] leading-[1.15] mb-2">{cap.tema}</h1>
+          <h1 className="font-serif text-[2.15rem] leading-[1.15] mb-2">{cap.tema}</h1>
           <p className="text-[15px] leading-relaxed mb-6" style={{ color: "var(--ink-2)" }}>
             {cap.subtitulo}
           </p>
 
           <blockquote className="rounded-xl p-4 mb-2"
                       style={{ background: "var(--accent-dim)", borderLeft: "3px solid var(--accent)" }}>
-            <p className="font-serif italic text-[1.15rem] leading-snug" style={{ color: "var(--accent-2)" }}>
+            <p className="font-serif italic text-[1.3rem] leading-snug" style={{ color: "var(--accent-2)" }}>
               “{cap.frase}”
             </p>
           </blockquote>
@@ -91,7 +92,7 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
           <div className="text-[10.5px] font-bold uppercase tracking-[.1em] mb-2" style={{ color: "var(--ink-3)" }}>
             O conceito
           </div>
-          <h2 className="font-serif text-xl mb-2" style={{ color: "var(--accent)" }}>{cap.conceito.termo}</h2>
+          <h2 className="font-serif text-[1.4rem] mb-2" style={{ color: "var(--accent)" }}>{cap.conceito.termo}</h2>
           <p className="text-[14.5px] leading-relaxed mb-3" style={{ color: "var(--ink-2)" }}>
             {cap.conceito.definicao}
           </p>
@@ -112,11 +113,11 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
 
         {/* ------------------------------------------------------- insights */}
         <section className="my-9">
-          <h2 className="font-serif text-xl mb-3">Para levar deste capítulo</h2>
+          <h2 className="font-serif text-[1.4rem] mb-3">Para levar deste capítulo</h2>
           <ul className="space-y-2.5">
             {cap.insights.map((t, i) => (
               <li key={i} className="card p-3.5 flex gap-3">
-                <span className="shrink-0 font-serif text-lg leading-none mt-0.5" style={{ color: "var(--accent)" }}>
+                <span className="shrink-0 font-serif text-[1.28rem] leading-none mt-0.5" style={{ color: "var(--accent)" }}>
                   {i + 1}
                 </span>
                 <p className="text-[14.5px] leading-relaxed" style={{ color: "var(--ink-2)" }}>{t}</p>
@@ -127,7 +128,12 @@ export default async function Dia({ params }: { params: Promise<{ n: string }> }
 
         {/* --------------------- tudo o que é interativo vive no cliente */}
         <LeitorInterativo
-          capitulo={cap}
+          capitulo={paraCliente(cap)}
+          publicar={{
+            roteiro: ROTEIROS[cap.n] ?? "",
+            estrutura: ESTRUTURAS[cap.n] ?? [],
+            prompt: montarPrompt(cap),
+          }}
           concluido={estado.concluido}
           quizAnterior={quizRes.data ?? null}
           tarefaAnterior={tarefaRes.data ?? null}
@@ -163,7 +169,7 @@ function Bloqueado({ n, motivo, dia }: { n: number; motivo: string | null; dia: 
             <path d="M7 9V6.5a3 3 0 016 0V9" />
           </svg>
         </div>
-        <h1 className="font-serif text-2xl mb-3">Capítulo {n} ainda fechado</h1>
+        <h1 className="font-serif text-[1.65rem] mb-3">Capítulo {n} ainda fechado</h1>
         <p className="text-[14.5px] leading-relaxed mb-7" style={{ color: "var(--ink-2)" }}>
           {textoBloqueio(motivo as never, dia)}
         </p>

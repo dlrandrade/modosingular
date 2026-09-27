@@ -71,6 +71,8 @@ export interface EntradaGating {
   dia: number;
   concluidos: number[];         // números dos capítulos concluídos
   assinaturaAtiva: boolean;
+  /** Admin revisando o curso: ignora sequência, assinatura e ritmo. */
+  ignorarGating?: boolean;
 }
 
 /**
@@ -81,7 +83,9 @@ export interface EntradaGating {
  *  2. Assinatura — a partir do capítulo 4 exige assinatura ativa.
  *  3. Ritmo — não passa do teto proporcional do dia.
  */
-export function calcularGating({ dia, concluidos, assinaturaAtiva }: EntradaGating): EstadoCapitulo[] {
+export function calcularGating(
+  { dia, concluidos, assinaturaAtiva, ignorarGating }: EntradaGating,
+): EstadoCapitulo[] {
   const feitos = new Set(concluidos);
   const totalFeitos = feitos.size;
   const teto = tetoDoDia(dia);
@@ -94,6 +98,7 @@ export function calcularGating({ dia, concluidos, assinaturaAtiva }: EntradaGati
     const n = i + 1;
     const concluido = feitos.has(n);
     if (concluido) return { n, liberado: true, concluido, motivo: null };
+    if (ignorarGating) return { n, liberado: true, concluido, motivo: null };
 
     if (n > proximo) return { n, liberado: false, concluido, motivo: "sequencia" as const };
     if (n > CAPITULOS_GRATIS && !assinaturaAtiva)

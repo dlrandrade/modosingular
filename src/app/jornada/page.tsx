@@ -30,7 +30,7 @@ export default async function Jornada() {
           <p className="text-[13px] mb-1" style={{ color: "var(--ink-3)" }}>
             {j.perfil.nome ? `Olá, ${j.perfil.nome.split(" ")[0]}.` : "Olá."}
           </p>
-          <h1 className="font-serif text-[1.7rem] leading-tight mb-4">
+          <h1 className="font-serif text-[1.85rem] leading-tight mb-4">
             {j.concluidos.length === 0
               ? "Comece pelo Dia 1."
               : j.concluidos.length === TOTAL_CAPITULOS
@@ -88,11 +88,11 @@ export default async function Jornada() {
                 <div className="text-[11px] uppercase tracking-wide mb-1.5" style={{ color: "var(--ink-3)" }}>
                   Dia {capAtual.n} · {faseAtual?.nome}
                 </div>
-                <h2 className="font-serif text-xl leading-tight mb-2">{capAtual.tema}</h2>
+                <h2 className="font-serif text-[1.4rem] leading-tight mb-2">{capAtual.tema}</h2>
                 <p className="text-[14px] leading-relaxed mb-3" style={{ color: "var(--ink-2)" }}>
                   {capAtual.subtitulo}
                 </p>
-                <p className="font-serif italic text-[14.5px] leading-snug pl-3 border-l-2"
+                <p className="font-serif italic text-[1.06rem] leading-snug pl-3 border-l-2"
                    style={{ color: "var(--accent-2)", borderColor: "var(--accent)" }}>
                   “{capAtual.frase}”
                 </p>
@@ -108,10 +108,10 @@ export default async function Jornada() {
           return (
             <section key={fase.n} className="mb-8">
               <div className="flex items-baseline gap-2.5 mb-1">
-                <span className="font-serif text-2xl leading-none" style={{ color: "var(--accent)" }}>
+                <span className="font-serif text-[1.65rem] leading-none" style={{ color: "var(--accent)" }}>
                   {fase.n}
                 </span>
-                <h3 className="font-serif text-lg">{fase.nome}</h3>
+                <h3 className="font-serif text-[1.28rem]">{fase.nome}</h3>
                 <span className="ml-auto text-[11.5px] tabular-nums" style={{ color: "var(--ink-3)" }}>
                   {feitos}/{caps.length}
                 </span>
@@ -151,7 +151,7 @@ export default async function Jornada() {
 function Metrica({ valor, rotulo }: { valor: string; rotulo: string }) {
   return (
     <div>
-      <div className="font-serif text-2xl leading-none" style={{ color: "var(--accent)" }}>{valor}</div>
+      <div className="font-serif text-[1.65rem] leading-none" style={{ color: "var(--accent)" }}>{valor}</div>
       <div className="text-[11px] mt-1" style={{ color: "var(--ink-3)" }}>{rotulo}</div>
     </div>
   );

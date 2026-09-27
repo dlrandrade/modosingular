@@ -40,7 +40,7 @@ export default async function Landing() {
         {/* ------------------------------------------------------ hero */}
         <section className="py-14 sm:py-20 rise">
           <p className="chip mb-5">30 capítulos · para especialistas</p>
-          <h1 className="font-serif text-[2.4rem] sm:text-[3.2rem] leading-[1.08] mb-5">
+          <h1 className="font-serif text-[2.5rem] sm:text-[3.3rem] leading-[1.08] mb-5">
             Você é maior fora da internet
             <br />
             <span style={{ color: "var(--accent)" }}>do que dentro dela.</span>
@@ -67,7 +67,7 @@ export default async function Landing() {
 
         {/* --------------------------------------------------- a tensão */}
         <section className="py-10 border-t hair">
-          <h2 className="font-serif text-2xl mb-5">Talvez o problema nunca tenha sido você</h2>
+          <h2 className="font-serif text-[1.65rem] mb-5">Talvez o problema nunca tenha sido você</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {[
               ["Você já tentou e parou", "Durou entre 11 e 23 dias. O mercado chamou de falta de disciplina. Quase nunca é."],
@@ -85,7 +85,7 @@ export default async function Landing() {
 
         {/* --------------------------------------------------- o método */}
         <section id="metodo" className="py-10 border-t hair scroll-mt-16">
-          <h2 className="font-serif text-2xl mb-2">Cinco fases, {TOTAL_CAPITULOS} capítulos</h2>
+          <h2 className="font-serif text-[1.65rem] mb-2">Cinco fases, {TOTAL_CAPITULOS} capítulos</h2>
           <p className="text-[14.5px] leading-relaxed mb-6" style={{ color: "var(--ink-2)" }}>
             Um capítulo por dia é o ritmo sugerido. Você pode adiantar — mas a jornada
             não termina em menos de sete dias. Presença se constrói com repetição, não com maratona.
@@ -95,8 +95,8 @@ export default async function Landing() {
             {FASES.map((f) => (
               <li key={f.n} className="card p-4">
                 <div className="flex items-baseline gap-2.5 mb-1.5">
-                  <span className="font-serif text-2xl leading-none" style={{ color: "var(--accent)" }}>{f.n}</span>
-                  <h3 className="font-serif text-lg">{f.nome}</h3>
+                  <span className="font-serif text-[1.65rem] leading-none" style={{ color: "var(--accent)" }}>{f.n}</span>
+                  <h3 className="font-serif text-[1.28rem]">{f.nome}</h3>
                   <span className="ml-auto text-[11.5px]" style={{ color: "var(--ink-3)" }}>
                     dias {f.capitulos[0]}–{f.capitulos[1]}
                   </span>
@@ -117,7 +117,7 @@ export default async function Landing() {
 
         {/* ------------------------------------------- o que tem dentro */}
         <section className="py-10 border-t hair">
-          <h2 className="font-serif text-2xl mb-5">O que existe em cada capítulo</h2>
+          <h2 className="font-serif text-[1.65rem] mb-5">O que existe em cada capítulo</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {[
               ["Conceito e frase do dia", "Uma ideia por capítulo, nomeada e definida."],
@@ -174,7 +174,7 @@ export default async function Landing() {
 
         {/* --------------------------------------------------- fechamento */}
         <section className="py-12 border-t hair text-center">
-          <blockquote className="font-serif text-xl sm:text-2xl leading-snug italic mb-7 max-w-xl mx-auto"
+          <blockquote className="font-serif text-[1.4rem] sm:text-[1.65rem] leading-snug italic mb-7 max-w-xl mx-auto"
                       style={{ color: "var(--accent-2)" }}>
             “Talvez não seja a pessoa que não combina com conteúdo.
             Talvez seja o modelo de conteúdo que nunca combinou com a pessoa.”

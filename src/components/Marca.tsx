@@ -9,7 +9,7 @@ export function Marca({ className = "", compacto = false }: { className?: string
         ))}
         <circle cx="16" cy="16" r="1.8" fill="var(--accent)" />
       </svg>
-      <span className={`font-serif tracking-tight ${compacto ? "text-base" : "text-xl"}`}>
+      <span className={`font-serif tracking-tight ${compacto ? "text-[1.15rem]" : "text-[1.4rem]"}`}>
         Modo Singular
       </span>
     </div>

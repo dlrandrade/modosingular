@@ -23,7 +23,7 @@ export default async function AdminCapitulos() {
 
   return (
     <>
-      <h1 className="font-serif text-2xl mb-1.5">Capítulos</h1>
+      <h1 className="font-serif text-[1.65rem] mb-1.5">Capítulos</h1>
       <p className="text-[13.5px] leading-relaxed mb-6" style={{ color: "var(--ink-3)" }}>
         O texto, os diagramas, o quiz e as tarefas vivem no código — versionados e estáveis.
         Aqui você gerencia o que muda: o vídeo de cada dia e recados pontuais.

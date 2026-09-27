@@ -29,7 +29,7 @@ export default async function Assinatura() {
       <main className="max-w-lg mx-auto px-page pt-8 pb-16">
         {j.assinaturaAtiva ? (
           <>
-            <h1 className="font-serif text-2xl mb-2">Assinatura ativa</h1>
+            <h1 className="font-serif text-[1.65rem] mb-2">Assinatura ativa</h1>
             <p className="text-[14.5px] leading-relaxed mb-6" style={{ color: "var(--ink-2)" }}>
               Você tem acesso aos {TOTAL_CAPITULOS} capítulos e a tudo que produzir dentro deles.
             </p>
@@ -46,7 +46,7 @@ export default async function Assinatura() {
           <>
             <div className="text-center mb-7">
               <span className="chip mb-3">Capítulo {CAPITULOS_GRATIS + 1} em diante</span>
-              <h1 className="font-serif text-[1.9rem] leading-tight mb-3">
+              <h1 className="font-serif text-[2.05rem] leading-tight mb-3">
                 Você já viu como o método funciona.
               </h1>
               <p className="text-[15px] leading-relaxed" style={{ color: "var(--ink-2)" }}>
@@ -57,7 +57,7 @@ export default async function Assinatura() {
 
             <div className="card overflow-hidden mb-5" style={{ borderColor: "var(--accent)" }}>
               <div className="p-5 text-center border-b hair">
-                <div className="font-serif text-4xl leading-none mb-1" style={{ color: "var(--accent)" }}>
+                <div className="font-serif text-[2.35rem] leading-none mb-1" style={{ color: "var(--accent)" }}>
                   {preco}
                 </div>
                 <div className="text-[13px]" style={{ color: "var(--ink-3)" }}>por mês · cancele quando quiser</div>

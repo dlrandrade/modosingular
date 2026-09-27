@@ -17,7 +17,8 @@ async function exigirUsuario() {
 /** Revalida o acesso a um capítulo no servidor — o gating do cliente é só UI. */
 async function podeAcessar(userId: string, n: number) {
   const supabase = await createClient();
-  const [j, prog, sub] = await Promise.all([
+  const [perfil, j, prog, sub] = await Promise.all([
+    supabase.from("profiles").select("role").eq("id", userId).single(),
     supabase.from("journeys").select("started_at").eq("user_id", userId).single(),
     supabase.from("chapter_progress").select("chapter,state").eq("user_id", userId),
     supabase.from("subscriptions").select("status,current_period_end").eq("user_id", userId).maybeSingle(),
@@ -29,21 +30,35 @@ async function podeAcessar(userId: string, n: number) {
   const fim = sub.data?.current_period_end;
   const ativa = ATIVAS.includes(status) && (!fim || new Date(fim) > new Date());
   const dia = diaDaJornada(j.data?.started_at ?? new Date().toISOString());
-  const estado = calcularGating({ dia, concluidos, assinaturaAtiva: ativa }).find((g) => g.n === n);
+  // Admin revisa o curso inteiro sem travar em sequência, assinatura ou ritmo.
+  const estado = calcularGating({
+    dia, concluidos, assinaturaAtiva: ativa, ignorarGating: perfil.data?.role === "admin",
+  }).find((g) => g.n === n);
   return { permitido: !!estado?.liberado, motivo: estado?.motivo ?? null, dia };
 }
 
 /* --------------------------------------------------------------- abrir */
 export async function abrirCapitulo(n: number) {
   const { supabase, user } = await exigirUsuario();
-  const { permitido } = await podeAcessar(user.id, n);
-  if (!permitido) return { ok: false as const, erro: "bloqueado" };
 
-  await supabase.from("chapter_progress").upsert(
-    { user_id: user.id, chapter: n, state: "reading", opened_at: new Date().toISOString() },
-    { onConflict: "user_id,chapter", ignoreDuplicates: false },
-  );
-  await supabase.from("activity_log").insert({ user_id: user.id, acao: "abriu_capitulo", chapter: n });
+  // Marcar leitura NUNCA pode rebaixar um capítulo concluído: reabrir para
+  // reler apagava o progresso. O gating já foi aplicado na renderização da
+  // página; aqui só registramos a visita, sem revalidar nada.
+  const { data: atual } = await supabase
+    .from("chapter_progress").select("state")
+    .eq("user_id", user.id).eq("chapter", n).maybeSingle();
+
+  if (!atual) {
+    await supabase.from("chapter_progress").insert({
+      user_id: user.id, chapter: n, state: "reading",
+      opened_at: new Date().toISOString(),
+    });
+  } else if (atual.state !== "completed") {
+    await supabase.from("chapter_progress")
+      .update({ state: "reading", opened_at: new Date().toISOString() })
+      .eq("user_id", user.id).eq("chapter", n);
+  }
+
   return { ok: true as const };
 }
 
@@ -70,7 +85,6 @@ export async function concluirCapitulo(n: number) {
   await supabase.from("activity_log").insert({ user_id: user.id, acao: "concluiu_capitulo", chapter: n });
 
   revalidatePath("/jornada");
-  revalidatePath(`/dia/${n}`);
   return { ok: true as const };
 }
 
@@ -124,7 +138,6 @@ export async function enviarQuiz(n: number, respostas: number[]) {
     answers: detalhes, acertos, total, passou,
   });
 
-  revalidatePath(`/dia/${n}`);
   return { ok: true as const, acertos, total, passou, detalhes };
 }
 
@@ -149,7 +162,6 @@ export async function salvarTarefa(
     publicado_em: publicar ? new Date().toISOString() : null,
   }, { onConflict: "user_id,chapter" });
 
-  revalidatePath(`/dia/${n}`);
   return { ok: true as const };
 }
 
@@ -167,7 +179,6 @@ export async function salvarPontuacao(n: number, criterios: Record<string, numbe
     { user_id: user.id, chapter: n, criterios, score },
     { onConflict: "user_id,chapter" },
   );
-  revalidatePath(`/dia/${n}`);
   return { ok: true as const, score };
 }
 
@@ -204,7 +215,6 @@ export async function salvarTeste(slug: string, n: number, respostas: Record<str
     revalidatePath("/perfil");
   }
 
-  revalidatePath(`/dia/${n}`);
   return { ok: true as const, soma, faixa };
 }
 

@@ -17,14 +17,14 @@ function Bloco({ b }: { b: Block }) {
 
     case "lead":
       return (
-        <p className="font-serif text-xl leading-relaxed my-5" style={{ color: "var(--ink)" }}>
+        <p className="font-serif text-[1.4rem] leading-relaxed my-5" style={{ color: "var(--ink)" }}>
           {b.text}
         </p>
       );
 
     case "h":
       return (
-        <h3 className="font-serif text-[1.4rem] mt-9 mb-3 leading-snug" style={{ color: "var(--ink)" }}>
+        <h3 className="font-serif text-[1.55rem] mt-9 mb-3 leading-snug" style={{ color: "var(--ink)" }}>
           {b.text}
         </h3>
       );
@@ -32,7 +32,7 @@ function Bloco({ b }: { b: Block }) {
     case "quote":
       return (
         <blockquote className="my-7 pl-5 border-l-2" style={{ borderColor: "var(--accent)" }}>
-          <p className="font-serif text-lg leading-relaxed italic" style={{ color: "var(--ink)" }}>
+          <p className="font-serif text-[1.28rem] leading-relaxed italic" style={{ color: "var(--ink)" }}>
             “{b.text}”
           </p>
           {b.fonte && (
@@ -118,7 +118,7 @@ function Bloco({ b }: { b: Block }) {
     case "def":
       return (
         <div className="my-7 rounded-xl border p-4" style={{ borderColor: "var(--line)", background: "var(--bg-2)" }}>
-          <div className="font-serif text-lg mb-1" style={{ color: "var(--accent)" }}>{b.termo}</div>
+          <div className="font-serif text-[1.28rem] mb-1" style={{ color: "var(--accent)" }}>{b.termo}</div>
           <p className="text-[14.5px] leading-relaxed" style={{ color: "var(--ink-2)" }}>{b.texto}</p>
         </div>
       );
@@ -184,7 +184,7 @@ function Bloco({ b }: { b: Block }) {
         <div className="my-7 grid gap-3" style={{ gridTemplateColumns: `repeat(auto-fit, minmax(130px, 1fr))` }}>
           {b.items.map((s, i) => (
             <div key={i} className="card p-4">
-              <div className="font-serif text-3xl leading-none mb-1.5" style={{ color: "var(--accent)" }}>{s.valor}</div>
+              <div className="font-serif text-[2rem] leading-none mb-1.5" style={{ color: "var(--accent)" }}>{s.valor}</div>
               <div className="text-[12.5px] font-medium leading-snug" style={{ color: "var(--ink)" }}>{s.rotulo}</div>
               {s.nota && <div className="text-[11px] mt-1" style={{ color: "var(--ink-3)" }}>{s.nota}</div>}
             </div>
