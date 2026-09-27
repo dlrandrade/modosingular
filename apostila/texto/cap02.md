@@ -20,6 +20,8 @@ Quando alguém tem uma dúvida sobre o seu campo, essa dúvida vai ser respondid
 
 Se você não respondeu, a resposta veio de alguém com menos anos de prática, menos casos vistos e menos noção das exceções. Às vezes vem de alguém de boa-fé e mal informado; às vezes, de alguém que sabe exatamente o que está vendendo. Em qualquer dos dois casos, a pessoa que consumiu aquela resposta chega até você, se chegar, já educada por ela. E você gasta a primeira parte do atendimento desfazendo o que outra pessoa ensinou.
 
+Há um efeito ainda mais sério, e menos visível. A educação que o público recebe antes de chegar até você decide se ele vai procurar alguém, quando e com que expectativa. Débora levou oito meses para procurar terapia depois dos primeiros sintomas, em parte porque acreditava que resolveria sozinha com a sequência certa de hábitos. Quem desiste de procurar ajuda por causa de uma resposta ruim nunca aparece na agenda de ninguém para ser corrigido.
+
 Isso acontece em todas as áreas, não só na saúde mental. Uma veterinária de Belo Horizonte ouve toda semana que gato de apartamento não precisa de vacina, porque não sai de casa. A crença tem uma lógica que parece sólida para quem nunca pensou em quantas coisas entram num apartamento pela sola de um sapato. Ela passa os primeiros dez minutos de muitas consultas explicando isso, com paciência, para uma pessoa de cada vez. Enquanto isso, o vídeo que ensinou o contrário continua sendo visto por milhares.
 
 ```conceito
@@ -30,11 +32,21 @@ porque: A decisão de não comunicar tem consequência ativa. Ela transfere a te
 
 O nome parece forte, e é de propósito. A palavra renúncia lembra que existe uma escolha envolvida, mesmo quando ela não parece uma escolha. Ninguém acorda decidindo abrir mão da própria influência. A renúncia acontece aos poucos, em cada dúvida do seu público que alguém respondeu no seu lugar.
 
+## Quem está ocupando o seu lugar
+
+Vale olhar com calma para as pessoas que preenchem o espaço deixado pelos especialistas, porque a reação mais comum, o desprezo, atrapalha mais do que ajuda. O rapaz do protocolo de vinte e um dias provavelmente acredita no que diz. Talvez tenha passado por uma crise, melhorado com aquelas práticas e concluído que encontrou uma resposta universal. Ele não tem formação para saber por que funcionou no caso dele e não funciona para todo mundo. Tem, em compensação, três coisas que faltam à maioria dos especialistas: responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte.
+
+Nenhuma dessas três coisas exige diminuir a profundidade do que você sabe. Responder à pergunta real, e não à que os livros da sua área consideram importante, é uma questão de escuta, e você escuta essas perguntas o dia inteiro. Usar as palavras do público é uma questão de tradução, e este livro inteiro trata disso. Aparecer de novo é uma questão de sistema, e a quarta fase é dedicada a ele. O que o especialista tem e o ocupante do espaço não tem, a noção das exceções, do risco, do que não serve para todo mundo, é exatamente o que falta à conversa pública.
+
+A comparação serve menos para alimentar raiva do que para mostrar que a disputa pelo espaço, em si, é justa: ganha quem aparece. Injusto, para o seu público, é que só apareça quem sabe menos.
+
 ## Os bons motivos da Lúcia
 
 Lúcia tinha motivos para o silêncio, e todos eles eram bons. O primeiro era exposição. Ela gosta da discrição do consultório, da porta fechada, da ideia de que o paciente sabe pouco sobre a vida dela, e temia que publicar fosse abrir uma janela nessa parede. O segundo era sigilo: toda história que ela conhece de perto pertence a alguém que confiou nela, e o simples pensamento de usar uma sessão como exemplo lhe dava um nó no estômago. O terceiro era o olhar dos colegas. Na formação dela, psicóloga que aparecia demais na internet era vista com desconfiança, e ela não queria ser uma delas.
 
 Havia ainda um quarto motivo, que ela nunca dizia em voz alta: a crença de que o trabalho bem feito fala por si. Durante anos, falou mesmo. A agenda estava cheia, a lista de espera existia, as indicações vinham. O silêncio parecia sóbrio, quase elegante. O problema é que o trabalho bem feito fala por si apenas para quem já está dentro da sala.
+
+O terceiro motivo, o olhar dos colegas, costuma pesar mais do que se admite, e por isso merece uma observação. Os colegas que torcem o nariz para quem aparece raramente estão julgando o conteúdo; estão julgando a vaidade. Um texto que corrige uma crença com cuidado quase nunca é lido como exibicionismo, nem pelos mais críticos. Com frequência é compartilhado por eles, porque diz em público o que também gostariam de dizer e não têm tempo. O desconforto com o julgamento alheio diminui muito quando o assunto deixa de ser você.
 
 Cada um desses motivos merece respeito, e nenhum deles vai ser descartado neste livro. O sigilo, em particular, vai ganhar um capítulo inteiro mais adiante. Mas é preciso olhar para o que a ausência produz do lado de fora, independentemente das intenções de quem se ausenta.
 
@@ -76,6 +88,8 @@ direita:
 
 A diferença está no centro de gravidade. Na autopromoção, o assunto é o profissional. Na ocupação de território, o assunto é a dúvida, o erro, o dilema de quem ainda não é cliente. O profissional aparece como consequência, pela forma como pensa sobre aquilo, e quase nunca como tema.
 
+Um oftalmologista pode anunciar o aparelho novo do consultório. É autopromoção legítima, e o texto perde a validade em poucas semanas. Ou pode explicar por que a vista cansada no fim do dia, em quem passa oito horas diante de uma tela, raramente se resolve só com um grau novo nos óculos. O segundo texto ainda vai ser útil daqui a três anos, e quem o encontrar vai saber, sem que ninguém diga, com que tipo de médico está lidando.
+
 Quando Lúcia entendeu essa diferença, alguma coisa destravou. Ela percebeu que podia falar da culpa de quem "falha" num protocolo de vinte e um dias sem mencionar Débora, sem contar nada da própria vida, sem citar nenhum colega. O assunto seria a ideia, amplamente difundida, de que ansiedade se elimina com uma sequência de tarefas e um prazo, e de onde vem a sensação de fracasso quando isso não acontece. Seria um texto sobre a dúvida de milhares de pessoas, escrito por alguém que conhece o assunto de dentro.
 
 ```citacao
@@ -89,6 +103,8 @@ Durante anos, Lúcia se fez a mesma pergunta sobre a internet: "eu quero aparece
 
 Existe uma pergunta melhor, que mede consequência em vez de desejo: quem eu aceito que explique o meu trabalho para as pessoas que ainda não me conhecem? Formulada assim, a decisão muda de natureza. Deixa de ser sobre gostar ou não de aparecer e passa a ser sobre quem vai ocupar o espaço que é seu, e com que qualidade.
 
+A troca tem um efeito colateral curioso. A primeira pergunta põe você no centro: o seu desconforto, a sua imagem, o seu tempo. A segunda põe no centro quem está do outro lado, a pessoa que vai decidir sobre a própria saúde, o próprio dinheiro ou a própria casa com base no que encontrar. Especialistas que travam diante da primeira pergunta costumam responder à segunda com uma rapidez que surpreende a eles mesmos.
+
 ```figura
 tipo: balanca
 titulo: O que pesa de verdade na decisão
@@ -98,7 +114,7 @@ direita: {rotulo: "O custo de outro explicar por você", peso: 78}
 legenda: O desconforto é real, mas é seu e passa. O custo de ceder a conversa recai sobre o seu público, e se renova a cada dúvida respondida por outra pessoa.
 ```
 
-Lúcia não publicou nada naquela semana. Fez uma coisa mais útil: abriu uma nota no celular e passou a anotar, ao fim de cada dia, as perguntas e as crenças com que os pacientes chegavam. Em duas semanas, a lista tinha trinta e uma linhas. Pelo menos dez eram equívocos que ela corrigia toda semana, sempre com as mesmas palavras, para uma pessoa de cada vez. Foi a primeira vez que ela olhou para aquilo como matéria-prima.
+Lúcia não publicou nada naquela semana. Fez uma coisa mais útil: abriu uma nota no celular e passou a anotar, ao fim de cada dia, as perguntas e as crenças com que os pacientes chegavam. Em duas semanas, a lista tinha trinta e uma linhas, e algumas se repetiam com pequenas variações. "Se eu precisar de remédio, é porque a terapia não funcionou." "Terapia boa resolve em poucas sessões." "Ansiedade é falta do que fazer." "Se eu mexer no passado, vou ficar pior." Nenhuma dessas frases era absurda. Cada uma tinha uma origem compreensível, algum pedaço de verdade e um efeito concreto: atrasava a procura por ajuda ou fazia a pessoa desistir cedo demais. Pelo menos dez eram equívocos que ela corrigia toda semana, sempre com as mesmas palavras, para uma pessoa de cada vez. Foi a primeira vez que ela olhou para aquilo como matéria-prima.
 
 A oficina deste capítulo pede exatamente esse movimento. Você vai escolher um equívoco que o seu público repete, entender por que ele existe e escrever a correção que você faz de cabeça há anos. Não é um exercício de coragem. É um exercício de generosidade com quem ainda não chegou até você.
 
