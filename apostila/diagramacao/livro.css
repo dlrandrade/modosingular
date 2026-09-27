@@ -55,7 +55,7 @@
 html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color: var(--ink); }
 .nh { hyphens: manual; }
 .nq { hyphens: manual; }
-.texto p, .prosa p { hyphenate-limit-chars: 6 3 3; }
+.texto p, .prosa p { hyphenate-limit-chars: 7 3 3; }
 .escala th.ex, .escala td.ex { width: 8mm; text-align: center; font: 600 7.4pt var(--sans); color: var(--acc-d); }
 .somas { display: flex; gap: 3mm; margin: 0 0 3mm; }
 .somas > div { flex: 1; border-top: 1pt solid var(--ink); padding-top: 1.4mm; }

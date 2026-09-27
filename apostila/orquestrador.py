@@ -434,17 +434,10 @@ NOMES = r"\b(Renata|Marcos|Otávio|Lúcia|Caio|Débora|Moura|Bezerra|Prado|Tavar
 
 
 def sem_hifen(h: str) -> str:
-    """Nomes próprios do elenco e palavras compostas não são hifenizados."""
-    partes = re.split(r"(<[^>]+>)", h)
-    for i, t in enumerate(partes):
-        if not t.startswith("<"):
-            t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
-            t = re.sub(r"(“(?:\S+\s){0,15}\S+”)", r'<span class="nh">\1</span>', t)
-            # compostos: WORD JOINER depois do hífen impede a quebra sem criar caixa inline
-            # compostos ficam sem tratamento: qualquer caixa inquebrável faz o WeasyPrint
-            # comer o espaço anterior no fim de linha justificada ("doex-motorista")
-            partes[i] = t
-    return "".join(partes)
+    """Nada de caixas inline no texto justificado: qualquer <span> inquebrável faz o WeasyPrint
+    engolir o espaço vizinho ("assunto.Otávio"). Nomes curtos ficam protegidos pelo
+    hyphenate-limit-chars do CSS (palavras de até 6 letras não se hifenizam)."""
+    return h
 
 
 def md_prosa(s: str, c: Ctx) -> str:
@@ -463,7 +456,7 @@ def render_cap(n: int) -> tuple[str, dict]:
     fm, corpo = ler_cap(n)
     # versalete de abertura: a primeira oração se couber em até seis palavras; senão, três palavras
     m_ = re.match(r"^(\s*)([^,.;:\n<>]+?)(?=[,.;:])", corpo)
-    if m_ and len(m_.group(2).split()) <= 6:
+    if m_ and len(m_.group(2).split()) <= 8:
         corpo = f'{m_.group(1)}<span class="abre">{m_.group(2)}</span>' + corpo[m_.end():]
     else:
         corpo = re.sub(r"^(\s*)((?:[^\s<>]+\s){2}[^\s<>]+?)(?=[\s,.;:])",
