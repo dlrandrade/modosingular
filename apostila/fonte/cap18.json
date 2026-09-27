@@ -1,0 +1,344 @@
+{
+ "n": 18,
+ "fase": 3,
+ "tema": "O critério como conteúdo",
+ "subtitulo": "Mostrar como você decide vale mais do que mostrar o que você sabe",
+ "frase": "Informação qualquer um copia. A régua com que você decide, não.",
+ "conceito": {
+  "termo": "Critério",
+  "definicao": "A régua interna que você usa para escolher entre duas opções ambas defensáveis. É a camada mais profunda do repertório e a única completamente intransferível: dois profissionais com a mesma informação decidem diferente porque têm critérios diferentes.",
+  "porqueImporta": "Porque o cliente não consegue avaliar a sua técnica — ele não tem repertório para isso. Mas consegue avaliar o seu critério, porque critério é raciocínio, e raciocínio é legível para leigos."
+ },
+ "ilustracao": {
+  "motivo": "mapa",
+  "legenda": "Todo mundo tem o mesmo mapa. A diferença está em como cada um escolhe o caminho."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma coisa que o seu cliente não consegue fazer: avaliar se você é tecnicamente bom."
+  },
+  {
+   "t": "p",
+   "text": "Ele não tem repertório para isso. Não sabe se o material que você usou é o melhor, se a abordagem era a indicada, se existia opção superior. Ele está comprando algo que não consegue julgar."
+  },
+  {
+   "t": "p",
+   "text": "Mas existe uma coisa que ele consegue avaliar perfeitamente: o seu raciocínio. Se você mostra como decide, ele consegue perceber se a decisão foi bem pensada — mesmo sem entender o conteúdo técnico dela."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "Por que critério é o conteúdo mais convertedor que existe",
+   "texto": "Ele é a única prova de competência que um leigo consegue verificar. Não porque ele entende a técnica, mas porque ele reconhece bom raciocínio quando vê — e reconhece a ausência dele também."
+  },
+  {
+   "t": "h",
+   "text": "Onde o critério aparece"
+  },
+  {
+   "t": "p",
+   "text": "Critério só existe onde há escolha. Se só tem um caminho, não há régua — há protocolo. Procure os pontos da sua prática em que duas opções são ambas defensáveis."
+  },
+  {
+   "t": "table",
+   "caption": "Quatro tipos de critério publicável",
+   "head": [
+    "Tipo",
+    "A pergunta que ele responde",
+    "Por que convence"
+   ],
+   "rows": [
+    [
+     "De entrada",
+     "Quando eu aceito e quando eu recuso um caso",
+     "Recusa é a prova mais forte de critério que existe"
+    ],
+    [
+     "De escolha",
+     "Como eu decido entre A e B quando ambos servem",
+     "Mostra pensamento, não protocolo"
+    ],
+    [
+     "De parada",
+     "Quando eu decido que já é suficiente",
+     "Contraria o interesse comercial — logo, é confiável"
+    ],
+    [
+     "De encaminhamento",
+     "Quando o caso não é meu e eu mando para outro",
+     "Prova honestidade profissional em ato, não em discurso"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O critério de parada é o mais raro",
+   "texto": "Quase ninguém publica 'aqui eu paro'. É contraintuitivo porque parece deixar dinheiro na mesa. Mas é justamente por contrariar o próprio interesse que ele é lido como prova de integridade — e integridade é o que faz alguém escolher você entre iguais."
+  },
+  {
+   "t": "h",
+   "text": "Como tornar o critério legível"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Nomeie a bifurcação",
+     "texto": "'Nesse ponto, existem dois caminhos e os dois são defensáveis.' Estabeleça que há escolha real — sem isso, não há critério a mostrar."
+    },
+    {
+     "titulo": "Explique o que cada caminho custa",
+     "texto": "Não o que cada um oferece — o que cada um custa. Trade-off é mais informativo que benefício."
+    },
+    {
+     "titulo": "Diga a sua régua",
+     "texto": "'Eu escolho A quando __.' Uma condição verificável, não uma preferência vaga."
+    },
+    {
+     "titulo": "Admita quando você erra",
+     "texto": "'Essa régua já me fez errar em __.' Nada aumenta mais a credibilidade de um critério do que conhecer o seu limite."
+    }
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "Conhecimento versus critério",
+   "ruim": "'Existem duas abordagens principais para esse tipo de caso: a conservadora e a intervencionista. Cada uma tem suas indicações específicas e cabe ao profissional avaliar qual é a mais adequada para cada paciente.'",
+   "bom": "'Nesse ponto tem duas saídas e as duas são defensáveis. A conservadora custa tempo: você vai conviver com o problema por mais alguns meses. A intervencionista custa reversibilidade: uma vez feito, não desfaz. Minha régua é simples: se a pessoa tem menos de 40 e o quadro é estável, eu vou de conservadora, mesmo que ela peça o contrário. Já errei com isso duas vezes em casos que pioraram rápido — por isso hoje eu remarco revisão em 60 dias em vez de 6 meses.'",
+   "porque": "O primeiro demonstra conhecimento e não decide nada — 'cabe ao profissional avaliar' devolve a responsabilidade sem informar. O segundo mostra a régua, o custo de cada lado, e o erro que a régua já produziu. Um leigo consegue julgar a qualidade desse raciocínio."
+  },
+  {
+   "t": "h",
+   "text": "O efeito comercial do critério"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "funil",
+    "titulo": "O que acontece quando o critério é público",
+    "etapas": [
+     {
+      "rotulo": "A pessoa lê o seu critério",
+      "nota": "Sem te conhecer, sem indicação."
+     },
+     {
+      "rotulo": "Reconhece bom raciocínio",
+      "nota": "Não avalia técnica — avalia pensamento."
+     },
+     {
+      "rotulo": "Se identifica ou se exclui",
+      "nota": "Os dois são bons: você filtra antes da consulta."
+     },
+     {
+      "rotulo": "Chega já concordando com a régua",
+      "nota": "A objeção foi respondida antes do contato."
+     },
+     {
+      "rotulo": "Aceita a sua condução",
+      "nota": "Porque escolheu você pelo critério, não pelo preço."
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare no terceiro passo: quem não concorda com a sua régua não te procura. Isso parece perda e é ganho — são exatamente os casos que dariam problema depois."
+  }
+ ],
+ "insights": [
+  "O cliente não consegue avaliar a sua técnica, mas avalia perfeitamente o seu raciocínio. Critério é a única prova de competência legível para leigos.",
+  "O critério de parada — 'aqui eu paro' — é o mais raro porque contraria o próprio interesse. É por isso que ele convence.",
+  "Quem discorda da sua régua não te procura. Parece perda; são exatamente os casos que dariam problema depois."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Identifiquei uma bifurcação real da minha prática",
+   "ajuda": "Dois caminhos ambos defensáveis, não um protocolo.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Expliquei o custo de cada caminho",
+   "ajuda": "Trade-off, não benefício.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Enunciei minha régua de forma verificável",
+   "ajuda": "'Eu escolho A quando __' com condição concreta.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Admiti um limite ou erro da minha régua",
+   "ajuda": "Disse onde ela já falhou.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que critério converte mais do que demonstração de conhecimento?",
+   "opcoes": [
+    "Porque é mais curto de explicar.",
+    "Porque é a única prova de competência que um leigo consegue verificar — ele reconhece bom raciocínio mesmo sem entender a técnica.",
+    "Porque o algoritmo prioriza conteúdo opinativo.",
+    "Porque conhecimento técnico é chato."
+   ],
+   "correta": 1,
+   "explicacao": "O cliente compra algo que não sabe julgar. Mas raciocínio é legível para qualquer um — inclusive a ausência dele."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que o 'critério de parada' é o mais convincente?",
+   "opcoes": [
+    "Porque é o mais fácil de explicar.",
+    "Porque contraria o próprio interesse comercial e por isso é lido como prova de integridade.",
+    "Porque encurta o tratamento.",
+    "Porque poucos profissionais o conhecem."
+   ],
+   "correta": 1,
+   "explicacao": "Dizer 'aqui eu paro' parece deixar dinheiro na mesa — e é exatamente essa aparência que o torna crível."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Onde o critério existe?",
+   "opcoes": [
+    "Em qualquer procedimento técnico.",
+    "Apenas onde há escolha real entre opções ambas defensáveis.",
+    "Nas etapas mais complexas do trabalho.",
+    "Nos casos de maior valor financeiro."
+   ],
+   "correta": 1,
+   "explicacao": "Se só existe um caminho, há protocolo, não régua. Critério só aparece na bifurcação."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Por que admitir onde a sua régua já falhou aumenta a credibilidade?",
+   "opcoes": [
+    "Porque gera empatia com o público.",
+    "Porque conhecer o limite de um critério prova que ele foi testado na prática, não formulado no discurso.",
+    "Porque reduz o risco jurídico.",
+    "Porque é exigido pelos conselhos profissionais."
+   ],
+   "correta": 1,
+   "explicacao": "Régua sem limite conhecido é régua nunca usada de verdade. O erro admitido é a prova de uso."
+  }
+ ],
+ "tarefa": {
+  "titulo": "A sua régua, publicada",
+  "objetivo": "Tornar visível o raciocínio que o cliente consegue julgar — e que nenhum concorrente consegue copiar.",
+  "tempoMin": 30,
+  "entrega": "Um critério publicável nas quatro etapas, com o limite admitido.",
+  "formatoSugerido": [
+   "texto",
+   "reels",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "bifurcacao",
+    "rotulo": "1. A bifurcação: duas saídas, ambas defensáveis",
+    "placeholder": "'Nesse ponto existem dois caminhos e os dois são defensáveis: __ e __.'",
+    "linhas": 3
+   },
+   {
+    "id": "custos",
+    "rotulo": "2. O que cada caminho CUSTA",
+    "placeholder": "Não o que oferece — o que custa. Tempo? Reversibilidade? Dinheiro? Risco?",
+    "linhas": 4
+   },
+   {
+    "id": "regua",
+    "rotulo": "3. A minha régua",
+    "placeholder": "'Eu escolho __ quando __.' A condição precisa ser verificável, não uma preferência vaga.",
+    "linhas": 3
+   },
+   {
+    "id": "limite",
+    "rotulo": "4. Onde essa régua já me fez errar",
+    "placeholder": "E o que você ajustou por causa disso.",
+    "linhas": 3
+   },
+   {
+    "id": "tipo",
+    "rotulo": "Que tipo de critério é este?",
+    "placeholder": "De entrada / de escolha / de parada / de encaminhamento.",
+    "linhas": 1
+   }
+  ],
+  "criteriosDeQualidade": [
+   "As duas opções são realmente defensáveis — se uma é obviamente pior, não é bifurcação.",
+   "A régua tem uma condição verificável, não 'depende do caso'.",
+   "Você admitiu um limite real, não um limite decorativo."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para publicar critério",
+  "regras": [
+   {
+    "regra": "Nunca termine em 'cabe ao profissional avaliar'",
+    "porque": "Essa frase devolve a responsabilidade sem informar nada. É o oposto de critério — é a recusa de mostrar a régua."
+   },
+   {
+    "regra": "Fale em custo, não em benefício",
+    "porque": "Todo mundo lista benefícios. Quem lista custos está sendo honesto sobre trade-off — e trade-off é a linguagem da decisão."
+   },
+   {
+    "regra": "Publique o que você recusa",
+    "porque": "A recusa é o critério mais legível de todos, e o que mais atrai o cliente certo enquanto afasta o errado."
+   }
+  ],
+  "facaAssim": [
+   "'Eu escolho A quando __, mesmo que a pessoa peça B.'",
+   "'Isso já me fez errar. Foi assim que eu ajustei.'",
+   "'Se você discorda dessa régua, provavelmente não sou o profissional certo pra você — e tudo bem.'"
+  ],
+  "eviteAssim": [
+   "'Cada caso é um caso.'",
+   "'Cabe ao profissional avaliar a melhor conduta.'",
+   "Listar vantagens dos dois lados sem dizer como você decide."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "A bifurcação",
+    "texto": "'Existem dois caminhos aqui e os dois são defensáveis.'"
+   },
+   {
+    "rotulo": "Os custos",
+    "texto": "O que cada lado cobra. Em tempo, risco, reversibilidade ou dinheiro."
+   },
+   {
+    "rotulo": "A régua",
+    "texto": "'Eu escolho __ quando __.' Verificável."
+   },
+   {
+    "rotulo": "O limite",
+    "texto": "'Já errei assim.' A prova de que a régua foi usada."
+   }
+  ]
+ },
+ "roteiro": "Nesse ponto aqui existem dois caminhos, e os dois são defensáveis.\n\nO primeiro custa {o custo do caminho A}. O segundo custa {o custo do caminho B}.\n\nNinguém te conta isso porque é mais fácil vender só o lado bom.\n\nA minha régua é simples: eu escolho {A ou B} quando {a condição verificável}.\n\nE já errei com isso. Foi assim que eu ajustei: {o ajuste}",
+ "estrutura": [
+  {
+   "rotulo": "A bifurcação",
+   "texto": "'Existem dois caminhos aqui e os dois são defensáveis.'"
+  },
+  {
+   "rotulo": "Os custos",
+   "texto": "O que cada lado cobra: tempo, risco, reversibilidade, dinheiro."
+  },
+  {
+   "rotulo": "A sua régua",
+   "texto": "'Eu escolho __ quando __.' Uma condição verificável."
+  },
+  {
+   "rotulo": "O limite",
+   "texto": "'Já errei assim.' A prova de que a régua foi usada."
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "n": 19,
+ "fase": 4,
+ "tema": "O caderno de campo",
+ "subtitulo": "O sistema de captura que faz a inspiração deixar de ser necessária",
+ "frase": "Quem captura não precisa lembrar. E quem não precisa lembrar, não depende de estar inspirado.",
+ "conceito": {
+  "termo": "Captura",
+  "definicao": "O ato de registrar matéria-prima no momento em que ela aparece, sem julgar, sem estruturar e sem decidir o que virá dela. É a única etapa do sistema que precisa acontecer todo dia — e a única que custa segundos.",
+  "porqueImporta": "Porque a distância entre 'tive uma ideia' e 'produzi um conteúdo' é onde 90% das ideias morrem. A captura elimina essa distância convertendo memória em registro."
+ },
+ "ilustracao": {
+  "motivo": "semente",
+  "legenda": "Guardar não é produzir. Mas sem guardar não há o que produzir."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "No capítulo 6 você descobriu que a sua rotina já produz matéria-prima. Agora vem a parte que transforma isso de constatação em sistema."
+  },
+  {
+   "t": "p",
+   "text": "Porque saber que a rotina produz conteúdo não adianta nada se o conteúdo evapora até a noite. E ele evapora — sempre. Não porque a sua memória é ruim, mas porque para você aquilo é rotina, e o cérebro descarta rotina por definição."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A regra fundamental do sistema",
+   "texto": "Capturar e produzir são operações separadas, em momentos separados, com custos separados. Todo sistema de conteúdo que fracassa fracassa por juntar as duas — e a captura acaba herdando o custo da produção."
+  },
+  {
+   "t": "h",
+   "text": "As quatro regras da captura"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Um lugar só",
+     "texto": "Um único destino para tudo. Notas do celular, um caderno, um grupo de WhatsApp com você mesmo. Dois lugares significa nenhum lugar."
+    },
+    {
+     "titulo": "Menos de 30 segundos",
+     "texto": "Se demora mais que isso, você não vai fazer no dia corrido — e o dia corrido é justamente o dia mais rico em matéria-prima."
+    },
+    {
+     "titulo": "Sem julgar",
+     "texto": "Não decida se serve. Julgar durante a captura é o que a encarece. O filtro vem depois, em outro momento, com outra cabeça."
+    },
+    {
+     "titulo": "Sem estruturar",
+     "texto": "Frase crua. 'Terceira pessoa essa semana perguntando de X.' Nada de título, categoria ou rascunho."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O erro do sistema bonito",
+   "texto": "Muita gente monta um Notion elaborado com categorias, tags e status. Ele funciona por duas semanas e morre. Não porque é ruim — porque cada captura passou a custar dois minutos em vez de vinte segundos. Sistema de captura precisa ser feio e rápido."
+  },
+  {
+   "t": "h",
+   "text": "Os cinco gatilhos de captura"
+  },
+  {
+   "t": "p",
+   "text": "Você não precisa lembrar de capturar. Precisa amarrar a captura a coisas que já acontecem."
+  },
+  {
+   "t": "table",
+   "caption": "Onde encaixar a captura na rotina que já existe",
+   "head": [
+    "Gatilho",
+    "Quando",
+    "O que capturar"
+   ],
+   "rows": [
+    [
+     "Fim de atendimento",
+     "Nos 30s enquanto o próximo entra",
+     "A pergunta que a pessoa fez"
+    ],
+    [
+     "Explicar duas vezes",
+     "Quando você repete algo no mesmo dia",
+     "A explicação — é sinal de demanda"
+    ],
+    [
+     "Irritação",
+     "Quando algo do mercado te incomoda",
+     "A frase que você diria se pudesse"
+    ],
+    [
+     "Surpresa",
+     "Quando um caso foge do esperado",
+     "O detalhe que não fechava"
+    ],
+    [
+     "Fim do dia",
+     "No trajeto de volta, por áudio",
+     "O que ficou na cabeça sem motivo"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "O gatilho mais produtivo",
+   "texto": "'Explicar duas vezes no mesmo dia' é o melhor sinal que existe. Se você precisou dizer a mesma coisa para duas pessoas diferentes em poucas horas, isso não é coincidência — é uma dúvida de mercado batendo na sua porta duas vezes."
+  },
+  {
+   "t": "h",
+   "text": "A separação que sustenta tudo"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "Três momentos, três custos",
+    "nos": [
+     {
+      "rotulo": "CAPTURAR — todo dia, 30 segundos",
+      "nota": "Sem julgar. Custo tão baixo que sobrevive ao pior dia."
+     },
+     {
+      "rotulo": "SELECIONAR — 1x por semana, 10 minutos",
+      "nota": "Agora sim você julga. Escolhe 2 do estoque acumulado."
+     },
+     {
+      "rotulo": "PRODUZIR — 2x por semana, no seu modo",
+      "nota": "Já com a matéria-prima escolhida. Zero tela vazia."
+     }
+    ],
+    "ciclico": true
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare no que essa separação resolve: no momento de produzir, você nunca enfrenta uma tela vazia. Você abre uma lista de coisas que a sua própria vida entregou."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "area-acumulada",
+    "titulo": "Estoque acumulado com 3 capturas por dia útil",
+    "labels": [
+     "Semana 1",
+     "Mês 1",
+     "Mês 3",
+     "Mês 6"
+    ],
+    "pontos": [
+     15,
+     45,
+     135,
+     270
+    ],
+    "nota": "465 registros em seis meses. Você nunca mais vai abrir um documento em branco."
+   }
+  }
+ ],
+ "insights": [
+  "O conteúdo evapora até a noite não porque sua memória é ruim, mas porque para você aquilo é rotina — e o cérebro descarta rotina por definição.",
+  "Todo sistema de conteúdo que fracassa fracassa por juntar captura e produção: a captura herda o custo da produção e para de acontecer.",
+  "Sistema de captura precisa ser feio e rápido. O Notion bonito com tags morre em duas semanas."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Escolhi UM lugar único de captura",
+   "ajuda": "Um só. Não dois.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Amarrei a captura a gatilhos que já existem",
+   "ajuda": "Escolhi pelo menos dois gatilhos da minha rotina real.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Capturei sem julgar por um dia inteiro",
+   "ajuda": "Registrei tudo, inclusive o que parecia inútil.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Separei captura de produção na agenda",
+   "ajuda": "Tenho momentos distintos para cada uma.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que capturar e produzir devem ser operações separadas?",
+   "opcoes": [
+    "Para organizar melhor o calendário editorial.",
+    "Porque juntas, a captura herda o custo da produção e para de acontecer nos dias corridos.",
+    "Porque exigem ferramentas diferentes.",
+    "Porque a produção precisa ser delegada."
+   ],
+   "correta": 1,
+   "explicacao": "A captura só sobrevive se custar segundos. Se ela exigir decisão e estrutura, vira produção — e morre no primeiro dia difícil."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que sistemas de captura elaborados costumam fracassar?",
+   "opcoes": [
+    "Porque não têm integração com redes sociais.",
+    "Porque cada captura passa a custar minutos em vez de segundos.",
+    "Porque exigem assinatura paga.",
+    "Porque são difíceis de aprender."
+   ],
+   "correta": 1,
+   "explicacao": "Categorias, tags e status transformam 20 segundos em 2 minutos. Sistema de captura precisa ser feio e rápido."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é o gatilho de captura mais produtivo?",
+   "opcoes": [
+    "O fim do dia, no trajeto de volta.",
+    "Quando você explica a mesma coisa duas vezes no mesmo dia.",
+    "Quando algo do mercado te irrita.",
+    "Quando um caso foge do esperado."
+   ],
+   "correta": 1,
+   "explicacao": "Repetir a mesma explicação para duas pessoas em poucas horas não é coincidência — é uma dúvida de mercado batendo duas vezes na sua porta."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Instalar o caderno de campo",
+  "objetivo": "Montar o sistema de captura que vai abastecer os seus próximos doze meses — e testá-lo por um dia inteiro.",
+  "tempoMin": 20,
+  "entrega": "Um sistema de captura definido, com gatilhos amarrados à rotina, e um dia de uso real registrado.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "lugar",
+    "rotulo": "O meu lugar único de captura",
+    "placeholder": "Notas do iPhone / Google Keep / grupo de WhatsApp comigo / caderno na mesa. UM só.",
+    "linhas": 1
+   },
+   {
+    "id": "gatilhos",
+    "rotulo": "Os meus dois gatilhos",
+    "placeholder": "Escolha dois que já acontecem na sua rotina. Ex.: 'fim de atendimento' e 'trajeto de volta'.",
+    "linhas": 2
+   },
+   {
+    "id": "capturas",
+    "rotulo": "As capturas de hoje (mínimo 5)",
+    "placeholder": "Frases cruas. Sem título, sem categoria, sem julgar se serve.",
+    "linhas": 8
+   },
+   {
+    "id": "agenda",
+    "rotulo": "Quando eu SELECIONO e quando eu PRODUZO",
+    "placeholder": "Ex.: seleciono domingo 20h (10 min). Produzo terça 12h30 e quinta 18h.",
+    "linhas": 2
+   },
+   {
+    "id": "atrito",
+    "rotulo": "Quanto tempo levou cada captura?",
+    "placeholder": "Se passou de 30 segundos, simplifique o sistema.",
+    "linhas": 1
+   }
+  ],
+  "criteriosDeQualidade": [
+   "É um lugar só — não dois, não 'depende'.",
+   "Nenhuma captura levou mais de 30 segundos.",
+   "Você registrou pelo menos uma coisa que achou que não serviria."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para publicar sobre método e sistema",
+  "regras": [
+   {
+    "regra": "Mostre o sistema feio",
+    "porque": "Ver as notas cruas de outra pessoa é libertador. Sistema bonito intimida e sugere que é preciso ser organizado para começar."
+   },
+   {
+    "regra": "Publique o estoque, não a teoria",
+    "porque": "'Tenho 140 ideias anotadas' prova mais do que qualquer explicação sobre a importância de anotar."
+   },
+   {
+    "regra": "Ensine a separação, não a ferramenta",
+    "porque": "A ferramenta é irrelevante e muda. A separação entre capturar e produzir é o que resolve."
+   }
+  ],
+  "facaAssim": [
+   "Print das suas notas cruas, com os erros de digitação.",
+   "'Isso aqui virou post três meses depois. Na hora eu achei que não servia.'",
+   "'Não é sobre ter ideia. É sobre não perder as que já vêm.'"
+  ],
+  "eviteAssim": [
+   "Vender uma ferramenta ou template como se fosse a solução.",
+   "Mostrar um sistema organizado demais para ser verdade.",
+   "Falar de produtividade em vez de falar do problema real."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O problema",
+    "texto": "'Eu tinha ideia e perdia. Não era memória ruim.'"
+   },
+   {
+    "rotulo": "A separação",
+    "texto": "Capturar ≠ produzir. Momentos, custos e cabeças diferentes."
+   },
+   {
+    "rotulo": "A prova",
+    "texto": "O print do sistema feio, com o volume acumulado."
+   },
+   {
+    "rotulo": "O convite",
+    "texto": "'Escolhe um lugar só. Hoje.'"
+   }
+  ]
+ },
+ "roteiro": "Anotei uma coisa essa semana entre um atendimento e outro, e resolvi trazer aqui.\n\n{a observação crua que você capturou}\n\nNão é nada elaborado. É só uma coisa que eu vi acontecer de novo, e que talvez sirva pra você.\n\nPorque quando alguma coisa se repete na minha frente, geralmente é porque está se repetindo na vida de muita gente.",
+ "estrutura": [
+  {
+   "rotulo": "A observação",
+   "texto": "O que você notou essa semana, cru, sem enfeite."
+  },
+  {
+   "rotulo": "A repetição",
+   "texto": "Por que isso aparece de novo e de novo na sua frente."
+  },
+  {
+   "rotulo": "O que revela",
+   "texto": "A dificuldade maior que essa cena expõe."
+  },
+  {
+   "rotulo": "O uso",
+   "texto": "O que a pessoa faz com essa informação."
+  }
+ ]
+}

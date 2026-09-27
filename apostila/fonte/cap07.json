@@ -1,0 +1,416 @@
+{
+ "n": 7,
+ "fase": 2,
+ "tema": "Os quatro modos de pensar",
+ "subtitulo": "Você não escolhe o seu modo. Você o descobre.",
+ "frase": "Uma pessoa pensa falando. Outra pensa escrevendo. Uma terceira ganha clareza respondendo. Outra, contando.",
+ "conceito": {
+  "termo": "Modo criativo",
+  "definicao": "A operação mental em que você organiza ideias com menos esforço e mais clareza. Não é preferência estética nem habilidade treinada — é a forma como o seu pensamento naturalmente se estrutura.",
+  "porqueImporta": "Porque o formato que você escolhe deveria ser consequência do seu modo. Escolher formato antes de conhecer o modo é a origem de quase toda inconsistência."
+ },
+ "ilustracao": {
+  "motivo": "prisma",
+  "legenda": "A mesma luz, quatro saídas. O prisma não muda a luz — revela o que ela já era."
+ },
+ "leituraMin": 10,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Dois especialistas igualmente competentes podem ter desempenhos opostos no mesmo formato. Isso não é sobre talento. É sobre encaixe."
+  },
+  {
+   "t": "p",
+   "text": "A singularidade não está apenas no tema. Está também no modo de elaborar o tema. E o modo é anterior ao formato — é ele que decide se produzir vai parecer extensão do seu trabalho ou um segundo emprego."
+  },
+  {
+   "t": "h",
+   "text": "Os quatro modos"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "ORAL — você pensa falando",
+     "texto": "Suas melhores ideias aparecem no meio de uma explicação. Você começa a falar sem saber onde vai chegar e chega. Escrever, para você, é mais lento que pensar: no meio do parágrafo você já perdeu o fio. Sinal claro: você explica melhor do que escreve, e sabe disso."
+    },
+    {
+     "titulo": "ESCRITO — você pensa escrevendo",
+     "texto": "Você só entende o que pensa depois de ver escrito. Falando, você se atrapalha, corta a própria frase, acha que ficou confuso. No texto, você é preciso e até elegante. Sinal claro: você reescreve mensagens de WhatsApp antes de enviar."
+    },
+    {
+     "titulo": "DIALÓGICO — você pensa respondendo",
+     "texto": "Sozinho, a tela fica vazia. Mas dê uma pergunta e você desenvolve por vinte minutos. Sua inteligência é reativa no melhor sentido: precisa de um interlocutor para acionar. Sinal claro: suas melhores frases saem em conversa, nunca em preparação."
+    },
+    {
+     "titulo": "NARRATIVO — você pensa contando",
+     "texto": "Você chega ao conceito pelo caso. Se tentar começar pela tese, trava; se começar por 'teve um paciente que…', a tese aparece sozinha no final. Sinal claro: você usa exemplo antes da explicação, sempre."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "Nenhum modo é superior",
+   "texto": "Não existe modo que performa melhor em abstrato. Existe o modo em que VOCÊ é potente. Perseguir o modo de outra pessoa é exatamente o erro que este método combate."
+  },
+  {
+   "t": "h",
+   "text": "Por que o modo errado custa tanto"
+  },
+  {
+   "t": "p",
+   "text": "Quando o formato não corresponde ao modo, aparece uma etapa invisível: a tradução. Você precisa converter o pensamento do formato natural para o formato escolhido antes de começar a produzir."
+  },
+  {
+   "t": "p",
+   "text": "Essa etapa não aparece no calendário, não é contabilizada e é justamente ela que consome a energia que faltou no dia em que você parou."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "matriz",
+    "titulo": "Afinidade entre modo e formato",
+    "colunas": [
+     "Reels falado",
+     "Carrossel",
+     "Texto longo",
+     "Stories c/ caixinha",
+     "Podcast/live",
+     "Vídeo caso"
+    ],
+    "linhas": [
+     {
+      "rotulo": "Oral",
+      "celulas": [
+       2,
+       0,
+       0,
+       1,
+       2,
+       2
+      ]
+     },
+     {
+      "rotulo": "Escrito",
+      "celulas": [
+       0,
+       2,
+       2,
+       1,
+       0,
+       1
+      ]
+     },
+     {
+      "rotulo": "Dialógico",
+      "celulas": [
+       1,
+       1,
+       1,
+       2,
+       2,
+       0
+      ]
+     },
+     {
+      "rotulo": "Narrativo",
+      "celulas": [
+       2,
+       1,
+       2,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare que quase todo especialista já tentou o carrossel — porque é o que o mercado ensina. E para dois dos quatro modos, o carrossel é o formato mais caro que existe."
+  },
+  {
+   "t": "h",
+   "text": "O caminho que dissolve o atrito"
+  },
+  {
+   "t": "p",
+   "text": "Uma coisa importante: descobrir o seu modo não te obriga a publicar naquele formato para sempre. Ele define onde você CAPTURA, não necessariamente onde você PUBLICA."
+  },
+  {
+   "t": "example",
+   "titulo": "Um oral produzindo carrossel sem sofrer",
+   "ruim": "Sentar diante do documento em branco, tentar escrever dez slides, travar no terceiro, adiar para o fim de semana, não fazer.",
+   "bom": "Gravar 4 minutos de áudio explicando o assunto como explicaria a um paciente. Transcrever. Cortar a transcrição em dez pedaços. Cada pedaço é um slide — com as suas palavras intactas.",
+   "porque": "O modo oral foi respeitado na captura. O carrossel virou só uma etapa de formatação, que é delegável e barata. O atrito saiu de 87 para 18."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A regra que vale para os 30 dias",
+   "texto": "Capture sempre no seu modo. Publique no formato que fizer sentido. A tradução entre os dois é técnica — e técnica se resolve, se delega ou se automatiza. O que não se resolve é forçar o pensamento a nascer no formato errado."
+  }
+ ],
+ "insights": [
+  "O modo é anterior ao formato. Escolher formato sem conhecer o modo é a origem de quase toda inconsistência.",
+  "A etapa de tradução entre modo e formato é invisível no calendário e é ela que consome a energia que falta no dia da desistência.",
+  "Descubra o modo para saber onde CAPTURAR. O formato de publicação continua livre."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Fiz o teste com honestidade",
+   "ajuda": "Respondi pensando em como sou, não em como gostaria de ser.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Reconheci meu modo primário em experiências reais",
+   "ajuda": "Consigo citar dois momentos da minha vida que confirmam o resultado.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Identifiquei o formato incompatível que eu vinha forçando",
+   "ajuda": "Sei qual formato eu tentava por obrigação e não por afinidade.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Desenhei minha rota captura → publicação",
+   "ajuda": "Sei em que modo capturo e em que formato publico.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "O que define o 'modo criativo' de alguém?",
+   "opcoes": [
+    "O formato de conteúdo que traz mais alcance para ele.",
+    "A operação mental em que a pessoa organiza ideias com menos esforço e mais clareza.",
+    "O nível de habilidade técnica em edição.",
+    "A quantidade de tempo livre que ela tem."
+   ],
+   "correta": 1,
+   "explicacao": "O modo não é preferência nem habilidade treinada. É como o seu pensamento naturalmente se estrutura — e por isso não se escolhe, se descobre."
+  },
+  {
+   "id": "q2",
+   "pergunta": "O que é a 'etapa de tradução' e por que ela é perigosa?",
+   "opcoes": [
+    "É traduzir conteúdo para outro idioma; encarece a produção.",
+    "É converter o pensamento do modo natural para o formato escolhido; é invisível no calendário e consome a energia que causa a desistência.",
+    "É adaptar o conteúdo para cada rede social.",
+    "É explicar termos técnicos para leigos."
+   ],
+   "correta": 1,
+   "explicacao": "Ela não aparece em nenhum planejamento, não é contabilizada como trabalho, e é exatamente onde a constância quebra."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Descobrir o seu modo obriga você a publicar sempre naquele formato?",
+   "opcoes": [
+    "Sim, é a única forma de manter consistência.",
+    "Não. O modo define onde você CAPTURA; o formato de publicação continua livre.",
+    "Sim, mas só nos primeiros seis meses.",
+    "Não, o modo é irrelevante para a produção."
+   ],
+   "correta": 1,
+   "explicacao": "Um oral pode publicar carrossel — desde que capture falando e trate a formatação como etapa técnica, delegável e barata."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Alguém que só entende o que pensa depois de ver escrito, e que reescreve mensagens antes de enviar, tem qual modo primário?",
+   "opcoes": [
+    "Oral.",
+    "Escrito.",
+    "Dialógico.",
+    "Narrativo."
+   ],
+   "correta": 1,
+   "explicacao": "É o sinal clássico do modo escrito: a clareza vem depois do registro, não antes. Para essa pessoa, gravar reels espontâneo é caríssimo."
+  }
+ ],
+ "teste": {
+  "titulo": "Teste da Linguagem Criativa",
+  "instrucao": "Este é o teste central do método. Responda pensando na sua vida como ela é — inclusive fora do trabalho. Não existe resultado melhor: existe o seu.",
+  "escala": [
+   "Nada a ver comigo",
+   "Pouco",
+   "Mais ou menos",
+   "Bastante",
+   "É exatamente assim"
+  ],
+  "itens": [
+   {
+    "id": "o1",
+    "texto": "Eu explico melhor falando do que escrevendo, e sei disso."
+   },
+   {
+    "id": "o2",
+    "texto": "Minhas melhores ideias aparecem no meio de uma explicação em voz alta."
+   },
+   {
+    "id": "e1",
+    "texto": "Eu só entendo o que penso depois de ver escrito."
+   },
+   {
+    "id": "e2",
+    "texto": "Eu reescrevo mensagens antes de enviar, mesmo as simples."
+   },
+   {
+    "id": "d1",
+    "texto": "Sozinho eu travo, mas se alguém me faz uma pergunta eu desenvolvo por vinte minutos."
+   },
+   {
+    "id": "d2",
+    "texto": "Minhas melhores frases saem em conversa, nunca quando me preparo."
+   },
+   {
+    "id": "n1",
+    "texto": "Eu chego ao conceito pelo caso: começo por 'teve uma vez que…'."
+   },
+   {
+    "id": "n2",
+    "texto": "Se eu tentar começar pela tese, eu travo; pelo exemplo, flui."
+   }
+  ],
+  "faixas": [
+   {
+    "min": 8,
+    "max": 18,
+    "titulo": "Perfil ainda difuso",
+    "leitura": "Suas respostas ficaram baixas em todos os eixos, o que costuma significar uma de duas coisas: você respondeu com cautela, ou nunca observou como pensa. Refaça o teste depois de capturar por uma semana — os dados da prática vão dar a resposta que a introspecção não deu."
+   },
+   {
+    "min": 19,
+    "max": 30,
+    "titulo": "Modo definido com alternativa",
+    "leitura": "Existe um modo dominante e um secundário próximo. Isso é ótimo: você tem um caminho principal e uma rota de fuga para os dias em que o principal não estiver disponível. Use o dominante como padrão e o secundário como plano B."
+   },
+   {
+    "min": 31,
+    "max": 40,
+    "titulo": "Modo fortemente dominante",
+    "leitura": "Você tem um modo muito marcado. A boa notícia é que sua rota está clara e o atrito vai cair rápido. O cuidado é não tentar formatos do polo oposto por pressão de mercado — para você, eles custam o triplo."
+   }
+  ]
+ },
+ "tarefa": {
+  "titulo": "O seu mapa de modo",
+  "objetivo": "Traduzir o resultado do teste em uma rota concreta de captura e publicação que você vai usar pelos próximos 23 dias.",
+  "tempoMin": 25,
+  "entrega": "Seu modo primário nomeado, com evidências reais, e a rota captura → publicação definida.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "modo",
+    "rotulo": "Meu modo primário e o secundário",
+    "placeholder": "Ex.: Primário oral, secundário narrativo.",
+    "linhas": 1
+   },
+   {
+    "id": "evidencias",
+    "rotulo": "Duas evidências da minha vida real que confirmam isso",
+    "placeholder": "Ex.: dou aula há 6 anos e nunca uso slide. / Meus e-mails longos ficam confusos, mas explico o mesmo assunto em 2 min por áudio.",
+    "linhas": 4
+   },
+   {
+    "id": "forcado",
+    "rotulo": "Qual formato eu vinha forçando por obrigação?",
+    "placeholder": "E quanto tempo cada peça naquele formato me custava, de verdade?",
+    "linhas": 3
+   },
+   {
+    "id": "rota",
+    "rotulo": "Minha rota: onde capturo → onde publico",
+    "placeholder": "Ex.: Capturo em áudio de 3 min entre atendimentos → transcrevo → publico como texto e como reels legendado.",
+    "linhas": 4
+   },
+   {
+    "id": "planoB",
+    "rotulo": "Meu plano B para os dias difíceis",
+    "placeholder": "O que eu consigo fazer em 5 minutos quando o dia foi terrível.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "As evidências vêm da sua vida real, não do teste.",
+   "A rota tem no máximo três etapas — se tem quatro, ainda está cara demais.",
+   "O plano B cabe mesmo em cinco minutos."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes por modo criativo",
+  "regras": [
+   {
+    "regra": "Oral: capture em áudio, sempre",
+    "porque": "Escrever primeiro anula a sua vantagem e insere a etapa de tradução no início, onde ela é mais cara."
+   },
+   {
+    "regra": "Escrito: escreva primeiro, grave depois lendo do seu jeito",
+    "porque": "Você não perde espontaneidade — você nunca a teve nesse eixo, e forçá-la produz um vídeo pior que a sua média."
+   },
+   {
+    "regra": "Dialógico: crie um interlocutor artificial",
+    "porque": "Caixinha de perguntas, um sócio que te entrevista, ou você mesmo lendo uma pergunta antes de responder. Sem gatilho, você não aciona."
+   },
+   {
+    "regra": "Narrativo: comece sempre pelo caso, nunca pela tese",
+    "porque": "A tese vai aparecer sozinha no fim, e vai aparecer melhor do que se você tentasse formulá-la antes."
+   }
+  ],
+  "facaAssim": [
+   "Definir um único ponto de captura e usá-lo por 23 dias sem trocar.",
+   "Aceitar que a etapa de formatação é técnica e pode ser feita por outra pessoa ou por ferramenta.",
+   "Testar o plano B em um dia bom, para saber se ele funciona antes de precisar dele."
+  ],
+  "eviteAssim": [
+   "Adotar o modo de um criador que você admira mas cujo perfil é oposto ao seu.",
+   "Trocar de modo por causa de um conteúdo que não performou.",
+   "Achar que descobrir o modo resolve tudo — ele resolve o atrito, não o conteúdo."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Captura",
+    "texto": "No seu modo. Bruta, sem julgamento, 20 segundos a 4 minutos."
+   },
+   {
+    "rotulo": "Tradução",
+    "texto": "Etapa técnica: transcrever, cortar, estruturar. Delegável."
+   },
+   {
+    "rotulo": "Revisão",
+    "texto": "Uma pergunta só: 'eu falaria assim?'"
+   },
+   {
+    "rotulo": "Publicação",
+    "texto": "No formato que a plataforma pede, com a sua voz intacta."
+   }
+  ]
+ },
+ "roteiro": "Vou falar sobre uma coisa que eu explico melhor falando do que escrevendo.\n\n{o assunto que você domina e explica sem preparo}\n\nRepara que eu não preparei isso. Não tem roteiro. É como sai quando alguém me pergunta de verdade.\n\nE é assim que eu prefiro. Porque quando eu tento deixar bonito demais, some justamente a parte que faz entender.",
+ "estrutura": [
+  {
+   "rotulo": "A explicação direta",
+   "texto": "O assunto, do jeito mais simples que você consegue dizer."
+  },
+  {
+   "rotulo": "O exemplo",
+   "texto": "Um caso concreto que torna a explicação visível."
+  },
+  {
+   "rotulo": "Onde travam",
+   "texto": "A dúvida que sempre aparece nesse ponto."
+  },
+  {
+   "rotulo": "O resumo",
+   "texto": "A ideia inteira em uma frase."
+  }
+ ]
+}

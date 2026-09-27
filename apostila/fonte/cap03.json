@@ -1,0 +1,357 @@
+{
+ "n": 3,
+ "fase": 1,
+ "tema": "Conteúdo cinematográfico não é autoridade",
+ "subtitulo": "Primeiro vem o pensamento. Depois vem a embalagem.",
+ "frase": "Acabamento não substitui identidade. Produção não prova competência.",
+ "conceito": {
+  "termo": "Inversão da hierarquia",
+  "definicao": "O erro de tratar a qualidade de produção (câmera, luz, edição, design) como prova de autoridade, colocando a embalagem antes da substância. O resultado é um perfil profissional na forma e indiferenciado no conteúdo.",
+  "porqueImporta": "Porque essa inversão é cara, lenta e não escala: ela cria uma barreira de entrada artificial que faz o especialista parar antes de descobrir se tinha algo a dizer."
+ },
+ "ilustracao": {
+  "motivo": "raizes",
+  "legenda": "A base sustenta o topo. Quando o topo vira a base, tudo desaba."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Você já adiou publicar porque a luz não estava boa, porque o fundo estava bagunçado, porque ainda não tinha uma identidade visual, porque queria contratar alguém para editar direito."
+  },
+  {
+   "t": "p",
+   "text": "Repare no que aconteceu: a decisão de comunicar ficou refém de uma decisão de produção. E como a produção sempre pode melhorar, o adiamento não tem fim."
+  },
+  {
+   "t": "h",
+   "text": "De onde veio essa confusão"
+  },
+  {
+   "t": "p",
+   "text": "À medida que a criação de conteúdo virou um mercado, cresceu a ideia de que presença profissional precisa parecer peça publicitária. Câmeras melhores, iluminação, cenário, cortes rápidos, legenda animada, design impecável."
+  },
+  {
+   "t": "p",
+   "text": "Nada disso é ruim. O problema aparece quando esses elementos passam a ser confundidos com substância."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "camadas",
+    "titulo": "A hierarquia correta",
+    "camadas": [
+     {
+      "rotulo": "Acabamento",
+      "nota": "Edição, design, legenda, trilha. Melhora o que já existe."
+     },
+     {
+      "rotulo": "Formato",
+      "nota": "Reels, carrossel, texto. Decide como a ideia viaja."
+     },
+     {
+      "rotulo": "Clareza",
+      "nota": "A ideia cabe em uma frase que alguém consegue repetir."
+     },
+     {
+      "rotulo": "Pensamento",
+      "nota": "Ter uma opinião, um critério, uma leitura própria do problema."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O teste do mudo",
+   "texto": "Tire o seu último conteúdo do ar mentalmente e reescreva só o que ele dizia, em texto puro, sem edição. Se o que sobra não interessa a ninguém, o problema nunca foi a produção."
+  },
+  {
+   "t": "h",
+   "text": "O que realmente sinaliza autoridade"
+  },
+  {
+   "t": "p",
+   "text": "Autoridade percebida não vem da quantidade de elementos gráficos ao redor de uma ideia. Vem da percepção de que existe alguém ali que pensa, entende, observa e sabe do que está falando."
+  },
+  {
+   "t": "p",
+   "text": "E os sinais disso são pequenos, quase invisíveis para quem produz — mas altíssimos para quem consome."
+  },
+  {
+   "t": "table",
+   "caption": "Sinais de autoridade que não dependem de produção",
+   "head": [
+    "Sinal",
+    "Como aparece",
+    "Por que convence"
+   ],
+   "rows": [
+    [
+     "Detalhe específico",
+     "'Em 80% dos casos que vejo, o problema aparece do lado esquerdo primeiro.'",
+     "Ninguém inventa um detalhe assim. Só quem viu muitos casos."
+    ],
+    [
+     "Exceção nomeada",
+     "'Isso vale, exceto quando o paciente já usou X.'",
+     "Saber a exceção prova domínio maior do que saber a regra."
+    ],
+    [
+     "Recusa",
+     "'Esse procedimento eu não faço, e vou explicar por quê.'",
+     "Quem recusa demonstra critério — e critério é escasso."
+    ],
+    [
+     "Mudança de opinião",
+     "'Eu pensava o contrário até 2021. O que me fez mudar foi…'",
+     "Revela raciocínio ativo, não repetição de manual."
+    ],
+    [
+     "Cálculo de risco",
+     "'O ganho aqui é pequeno e o risco é real. Eu não recomendo.'",
+     "Contraria o interesse comercial — logo, é confiável."
+    ]
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "A mesma informação, duas hierarquias",
+   "ruim": "Vídeo com cortes rápidos, trilha e legenda animada: 'TOP 3 DICAS PARA UM SORRISO PERFEITO! 1 — escove 3x ao dia. 2 — use fio dental. 3 — visite seu dentista.'",
+   "bom": "Vídeo gravado no consultório, celular apoiado numa pilha de livros: 'Se você usa fio dental todo dia e ainda sangra, o problema não é o fio. Sangramento persistente com higiene correta é sinal de inflamação, não de técnica ruim. E aí a resposta não é escovar mais forte — é o oposto.'",
+   "porque": "O segundo tem produção pior e autoridade muito maior. Ele nomeia uma exceção, contraria uma solução óbvia e entrega um critério. Nenhum desses três precisa de câmera."
+  },
+  {
+   "t": "h",
+   "text": "O que a boa produção realmente faz"
+  },
+  {
+   "t": "p",
+   "text": "Isso não é uma defesa do feio. Boa produção tem uma função real, só que a função é outra: ela reduz atrito. Áudio limpo faz a pessoa continuar ouvindo. Legenda faz funcionar no mudo. Enquadramento estável reduz cansaço."
+  },
+  {
+   "t": "p",
+   "text": "Produção não cria autoridade. Ela evita que a autoridade se perca no caminho."
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "O mínimo que resolve 90%",
+   "texto": "Áudio audível, rosto iluminado por uma janela, celular apoiado em alguma coisa, e uma ideia que você defenderia numa conversa de bar. Isso já está acima da média do seu mercado."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "espectro",
+    "titulo": "Onde investir esforço",
+    "esquerda": "Retorno baixo",
+    "direita": "Retorno alto",
+    "marcas": [
+     {
+      "pos": 8,
+      "rotulo": "Identidade visual"
+     },
+     {
+      "pos": 26,
+      "rotulo": "Edição elaborada"
+     },
+     {
+      "pos": 55,
+      "rotulo": "Áudio limpo"
+     },
+     {
+      "pos": 88,
+      "rotulo": "Ter o que dizer"
+     }
+    ]
+   }
+  }
+ ],
+ "insights": [
+  "Se a sua ideia não sobrevive em texto puro, nenhuma edição vai salvá-la.",
+  "Produção não cria autoridade; ela impede que a autoridade se perca no caminho.",
+  "Detalhe específico, exceção nomeada e recusa fundamentada são os três sinais de autoridade mais baratos e mais raros."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Apliquei o teste do mudo no meu último conteúdo",
+   "ajuda": "Reescrevi em texto puro e avaliei honestamente o que sobrou.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei em que eu estava investindo esforço demais",
+   "ajuda": "Sei nomear a etapa de produção que estava me travando sem gerar retorno.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Publiquei ou gravei algo com produção mínima",
+   "ajuda": "Testei a hipótese na prática, não só na teoria.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Listei três sinais de autoridade que eu posso usar",
+   "ajuda": "Tenho detalhe, exceção ou recusa específicos anotados.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é a hierarquia correta proposta no capítulo?",
+   "opcoes": [
+    "Acabamento → formato → clareza → pensamento.",
+    "Pensamento → clareza → formato → acabamento.",
+    "Formato → acabamento → pensamento → clareza.",
+    "Clareza → acabamento → pensamento → formato."
+   ],
+   "correta": 1,
+   "explicacao": "O pensamento é a base. Cada camada acima só faz sentido se a de baixo existir. Inverter a ordem produz um perfil bonito e indiferenciado."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Segundo o capítulo, qual é a função real da boa produção?",
+   "opcoes": [
+    "Criar autoridade percebida.",
+    "Aumentar o alcance orgânico.",
+    "Reduzir o atrito para que a autoridade não se perca no caminho.",
+    "Justificar um preço maior."
+   ],
+   "correta": 2,
+   "explicacao": "Áudio limpo, legenda e enquadramento estável não adicionam autoridade — evitam que ela se perca. É uma função de preservação, não de criação."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual destes é um sinal de autoridade que NÃO depende de produção?",
+   "opcoes": [
+    "Uma abertura com corte rápido nos três primeiros segundos.",
+    "Nomear a exceção à regra que você acabou de dar.",
+    "Uma identidade visual consistente.",
+    "Legenda animada palavra por palavra."
+   ],
+   "correta": 1,
+   "explicacao": "Saber a exceção prova domínio maior do que saber a regra — e não custa nada. É o tipo de sinal que agência nenhuma consegue fabricar por você."
+  },
+  {
+   "id": "q4",
+   "pergunta": "O que o 'teste do mudo' avalia?",
+   "opcoes": [
+    "Se o conteúdo funciona sem som nas redes.",
+    "Se a ideia sobrevive quando você tira toda a produção e sobra só o que foi dito.",
+    "Se as legendas estão corretas.",
+    "Se o vídeo prende a atenção nos primeiros segundos."
+   ],
+   "correta": 1,
+   "explicacao": "É um teste de substância: reescreva o conteúdo em texto puro. O que sobra é a sua autoridade real naquela peça."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Produção mínima, pensamento máximo",
+  "objetivo": "Publicar (ou gravar) uma peça com a menor produção possível e o maior nível de pensamento que você conseguir.",
+  "tempoMin": 25,
+  "entrega": "Um conteúdo gravado ou escrito em uma única tomada, sem edição, contendo pelo menos um dos cinco sinais de autoridade.",
+  "formatoSugerido": [
+   "reels",
+   "story",
+   "texto"
+  ],
+  "campos": [
+   {
+    "id": "sinal",
+    "rotulo": "Qual sinal de autoridade você vai usar?",
+    "placeholder": "Detalhe específico / exceção nomeada / recusa / mudança de opinião / cálculo de risco",
+    "linhas": 1
+   },
+   {
+    "id": "ideia",
+    "rotulo": "A ideia em uma frase (o teste do mudo)",
+    "placeholder": "Se sobrasse só esta frase, ela ainda interessaria a alguém?",
+    "linhas": 2
+   },
+   {
+    "id": "roteiro",
+    "rotulo": "O que você vai dizer, em fala natural",
+    "placeholder": "Escreva como você falaria, não como escreveria. Leia em voz alta antes de gravar.",
+    "linhas": 6
+   },
+   {
+    "id": "cortei",
+    "rotulo": "O que você deixou de fazer de propósito",
+    "placeholder": "Ex.: não editei, não coloquei legenda, gravei no consultório com o celular apoiado.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Uma tomada só. Se errou uma palavra, deixou.",
+   "A peça contém um detalhe que só quem faz o seu trabalho saberia.",
+   "Você não adiou por causa de nenhum elemento de produção."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes de produção mínima",
+  "regras": [
+   {
+    "regra": "Grave onde você trabalha",
+    "porque": "O ambiente real carrega prova. Cenário neutro remove contexto que ajudava você."
+   },
+   {
+    "regra": "Uma tomada, um erro permitido",
+    "porque": "A hesitação natural sinaliza pensamento em tempo real — que é exatamente o que se quer provar."
+   },
+   {
+    "regra": "Resolva o áudio, ignore o resto",
+    "porque": "Áudio ruim faz a pessoa sair. Imagem imperfeita, não."
+   }
+  ],
+  "facaAssim": [
+   "Celular apoiado, janela na sua frente, e você falando como fala com um paciente.",
+   "Começar direto pela ideia: sem 'oi gente, tudo bem?'.",
+   "Terminar quando a ideia acabar, mesmo que seja em 40 segundos."
+  ],
+  "eviteAssim": [
+   "Regravar mais de duas vezes buscando a versão perfeita.",
+   "Esperar ter identidade visual pronta para começar.",
+   "Adicionar trilha, efeito ou corte que não muda o entendimento."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "0–3s",
+    "texto": "A afirmação direta. Sem saudação, sem preâmbulo."
+   },
+   {
+    "rotulo": "3–25s",
+    "texto": "O detalhe da sua prática que sustenta a afirmação."
+   },
+   {
+    "rotulo": "25–45s",
+    "texto": "A exceção ou o critério — o que faz a pessoa pensar diferente."
+   },
+   {
+    "rotulo": "Final",
+    "texto": "Uma frase repetível. Nada de 'me segue para mais dicas'."
+   }
+  ]
+ },
+ "roteiro": "Vou gravar isso do jeito mais simples possível, porque o que importa aqui não é a imagem.\n\n{a afirmação direta, sem preâmbulo}\n\nVou te dar um detalhe que provavelmente ninguém te contou: {um detalhe específico da sua prática — um número, uma frequência, um sinal}\n\nE tem uma exceção que muda tudo: {quando a regra falha}\n\nSe você só levar uma coisa daqui, leva essa exceção. É ela que separa quem acerta de quem repete o manual.",
+ "estrutura": [
+  {
+   "rotulo": "A afirmação",
+   "texto": "Direta, na primeira linha. Sem saudação, sem preâmbulo."
+  },
+  {
+   "rotulo": "O detalhe",
+   "texto": "Um dado da sua prática que só quem faz teria."
+  },
+  {
+   "rotulo": "A exceção",
+   "texto": "Quando a regra falha. É ela que prova domínio."
+  },
+  {
+   "rotulo": "O fecho",
+   "texto": "Uma frase repetível. Nada de pedir seguidor."
+  }
+ ]
+}

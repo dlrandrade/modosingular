@@ -1,0 +1,300 @@
+{
+ "n": 11,
+ "fase": 2,
+ "tema": "As palavras que são suas",
+ "subtitulo": "Vocabulário é assinatura",
+ "frase": "Duas pessoas podem dizer a mesma coisa. A experiência de ouvir não é a mesma.",
+ "conceito": {
+  "termo": "Léxico próprio",
+  "definicao": "O conjunto de palavras, analogias, estruturas de frase e maneirismos que fazem alguém reconhecer você mesmo sem ver o seu nome. É o traço mais copiável de fora e o mais difícil de fabricar de dentro.",
+  "porqueImporta": "Porque a informação da sua área é comum. A experiência de recebê-la de você não é — e é nesse intervalo que a identidade começa a aparecer."
+ },
+ "ilustracao": {
+  "motivo": "impressao-digital",
+  "legenda": "Ninguém escolhe a própria digital. Só é preciso parar de apagá-la."
+ },
+ "leituraMin": 7,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe um exercício simples e desconfortável: pegue os seus últimos cinco conteúdos, apague o seu nome e a sua foto, e pergunte a alguém do seu mercado de quem é aquilo."
+  },
+  {
+   "t": "p",
+   "text": "Se a pessoa não souber responder, o problema não é de estratégia. É de léxico."
+  },
+  {
+   "t": "h",
+   "text": "O que compõe o seu léxico"
+  },
+  {
+   "t": "table",
+   "caption": "Os quatro componentes de uma voz reconhecível",
+   "head": [
+    "Componente",
+    "O que é",
+    "Como identificar em você"
+   ],
+   "rows": [
+    [
+     "Palavras-âncora",
+     "Termos que você usa e outros não",
+     "Leia três transcrições suas e circule o que se repete"
+    ],
+    [
+     "Analogias recorrentes",
+     "O campo de onde você tira comparações",
+     "Você compara com esporte? Mecânica? Culinária? Obra?"
+    ],
+    [
+     "Estrutura de frase",
+     "Curta e seca, ou longa e ramificada",
+     "Conte as palavras das suas cinco últimas frases"
+    ],
+    [
+     "Ponto de entrada",
+     "Por onde você começa a explicar",
+     "Pelo erro? Pela história? Pela pergunta? Pela conclusão?"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "Você já tem um léxico",
+   "texto": "Ele aparece todo dia, na consulta, na reunião, na explicação para o cliente. O que acontece é que na hora de publicar você o troca por um vocabulário 'de internet' que acha mais adequado — e apaga a única coisa que era só sua."
+  },
+  {
+   "t": "h",
+   "text": "O que você apaga sem perceber"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A analogia esquisita que sempre funciona no consultório e você acha informal demais para publicar.",
+    "A expressão regional que identifica de onde você é.",
+    "A frase que você repete há anos e considera bordão batido — que é justamente o que te torna reconhecível.",
+    "A hesitação antes de uma afirmação difícil, que sinaliza que você está pensando de verdade.",
+    "O jeito de discordar sem agredir, que é uma habilidade rara e visível."
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "O mesmo conteúdo, com e sem léxico",
+   "ruim": "'É fundamental compreender que o tratamento requer aderência do paciente ao protocolo estabelecido para que os resultados sejam alcançados de forma consistente.'",
+   "bom": "'Isso aqui é igual academia: não adianta eu montar o melhor treino do mundo se você for três vezes e sumir. Metade do meu trabalho é o que eu faço. A outra metade é o que você faz quando sai daqui — e essa metade eu não consigo fazer por você.'",
+   "porque": "O primeiro é vocabulário institucional: correto, distante, intercambiável. O segundo tem analogia própria, estrutura curta, e uma admissão de limite. É reconhecível — e explica melhor."
+  },
+  {
+   "t": "h",
+   "text": "Como extrair o seu léxico dos seus próprios dados"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Grave três explicações reais",
+     "texto": "Três coisas que você explicaria hoje a um cliente. Áudio de 2 a 3 minutos cada, sem preparo."
+    },
+    {
+     "titulo": "Transcreva sem limpar",
+     "texto": "Nada de corrigir repetição, hesitação ou vício. Eles são exatamente o dado que você procura."
+    },
+    {
+     "titulo": "Circule o que se repete",
+     "texto": "Palavras, comparações, formas de começar. Se aparece nas três, é seu."
+    },
+    {
+     "titulo": "Escreva as suas cinco regras",
+     "texto": "'Eu começo pelo erro comum.' 'Eu uso analogia de esporte.' 'Eu falo em frases curtas.'"
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "O uso prático disso",
+   "texto": "Essas cinco regras viram o seu manual de voz. É o que você entrega a quem for te ajudar a produzir, e é a régua com que você revisa qualquer texto que leve o seu nome."
+  }
+ ],
+ "insights": [
+  "Se ninguém reconhece o seu conteúdo sem o seu nome, o problema é de léxico, não de estratégia.",
+  "Na hora de publicar, quase todo especialista troca a própria linguagem por um 'vocabulário de internet' — e apaga a única coisa que era dele.",
+  "A analogia que você acha informal demais para publicar costuma ser o seu ativo mais reconhecível."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Gravei e transcrevi três explicações reais",
+   "ajuda": "Sem limpar a transcrição.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei minhas palavras-âncora",
+   "ajuda": "Termos que aparecem nas três transcrições.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Reconheci meu campo de analogia",
+   "ajuda": "Sei de onde tiro minhas comparações.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Escrevi minhas cinco regras de voz",
+   "ajuda": "Tenho um manual de voz utilizável por mim e por terceiros.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "O que revela o teste de apagar o nome dos seus últimos conteúdos?",
+   "opcoes": [
+    "Se o seu design está consistente.",
+    "Se o seu léxico é reconhecível — se ninguém sabe de quem é, o problema é de voz.",
+    "Se você publica com frequência suficiente.",
+    "Se o algoritmo está entregando bem."
+   ],
+   "correta": 1,
+   "explicacao": "É um teste de identidade, não de estratégia. Conteúdo tecnicamente correto e anônimo é o produto típico da terceirização prematura."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que a hesitação antes de uma afirmação difícil não deve ser apagada?",
+   "opcoes": [
+    "Porque aumenta o tempo do vídeo.",
+    "Porque sinaliza que você está pensando de verdade, e não repetindo.",
+    "Porque o algoritmo valoriza pausas.",
+    "Porque facilita a legenda."
+   ],
+   "correta": 1,
+   "explicacao": "É um dos sinais mais baratos de autoridade: mostra raciocínio ativo em vez de reprodução de manual."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Para que serve o 'manual de voz' com cinco regras?",
+   "opcoes": [
+    "Para publicar mais rápido.",
+    "Para servir de régua na revisão e de instrução para quem te ajuda a produzir.",
+    "Para definir a paleta de cores do perfil.",
+    "Para escolher hashtags."
+   ],
+   "correta": 1,
+   "explicacao": "É o que permite terceirizar sem se apagar: o terceiro executa dentro das suas regras, e você revisa contra elas."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O seu manual de voz",
+  "objetivo": "Produzir o documento que protege a sua singularidade de qualquer pessoa que venha a escrever no seu nome — inclusive você mesmo em dia de pressa.",
+  "tempoMin": 40,
+  "entrega": "Três transcrições brutas e cinco regras de voz extraídas delas.",
+  "formatoSugerido": [
+   "áudio",
+   "texto"
+  ],
+  "campos": [
+   {
+    "id": "transcricoes",
+    "rotulo": "Cole aqui trechos das suas três transcrições",
+    "placeholder": "Bruto. Com 'né', com repetição, com o começo torto.",
+    "linhas": 8
+   },
+   {
+    "id": "ancoras",
+    "rotulo": "Palavras e expressões que se repetem",
+    "placeholder": "Liste as que aparecem em pelo menos duas das três gravações.",
+    "linhas": 3
+   },
+   {
+    "id": "analogias",
+    "rotulo": "De onde vêm as minhas comparações",
+    "placeholder": "Esporte? Mecânica? Cozinha? Obra? Trânsito? Música?",
+    "linhas": 2
+   },
+   {
+    "id": "entrada",
+    "rotulo": "Por onde eu começo a explicar",
+    "placeholder": "Pelo erro comum? Pela história? Pela pergunta? Pela conclusão?",
+    "linhas": 2
+   },
+   {
+    "id": "regras",
+    "rotulo": "As minhas cinco regras de voz",
+    "placeholder": "1. Eu começo pelo erro comum.\n2. Eu uso analogia de __.\n3. Eu falo em frases curtas.\n4. Eu admito o que não sei.\n5. Eu nunca uso a palavra __.",
+    "linhas": 6
+   }
+  ],
+  "criteriosDeQualidade": [
+   "As transcrições não foram limpas.",
+   "As regras descrevem o que você JÁ faz, não o que gostaria de fazer.",
+   "Pelo menos uma regra é do tipo 'eu nunca uso a palavra X'."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para preservar a voz na publicação",
+  "regras": [
+   {
+    "regra": "Escreva como fala, edite como escreve",
+    "porque": "A ordem inversa produz texto correto e morto. Comece pela oralidade e limpe depois — nunca o contrário."
+   },
+   {
+    "regra": "Mantenha uma imperfeição por peça",
+    "porque": "Uma expressão coloquial, uma frase que quebra a regra: é o que sinaliza pessoa em vez de departamento."
+   },
+   {
+    "regra": "Leia em voz alta antes de publicar",
+    "porque": "Se você tropeça lendo, é porque não é assim que você fala. Reescreva o trecho onde tropeçou."
+   }
+  ],
+  "facaAssim": [
+   "Usar a sua analogia esquisita, aquela que sempre funciona no atendimento.",
+   "Manter a expressão regional.",
+   "Começar do jeito que você começa — mesmo que não seja um 'gancho' de manual."
+  ],
+  "eviteAssim": [
+   "Vocabulário institucional: 'é fundamental compreender que', 'de forma consistente'.",
+   "Adotar o bordão de outro criador.",
+   "Corrigir a própria fala até ela ficar irreconhecível."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Insumo",
+    "texto": "Áudio bruto, no seu modo, sem preparo."
+   },
+   {
+    "rotulo": "Limpeza",
+    "texto": "Tirar só o que atrapalha o entendimento. Nada mais."
+   },
+   {
+    "rotulo": "Teste da leitura",
+    "texto": "Ler em voz alta. Onde tropeçar, reescrever."
+   },
+   {
+    "rotulo": "Última checagem",
+    "texto": "Passar as cinco regras. Se violou alguma, corrigir."
+   }
+  ]
+ },
+ "roteiro": "Deixa eu te explicar isso com a comparação que eu sempre uso.\n\n{o assunto} é igual {a sua analogia, aquela que você usa no atendimento e acha simples demais}\n\n{desenvolva a comparação até o fim}\n\nUso essa comparação há anos porque é a única que faz a ficha cair. Já tentei explicar de um jeito mais técnico e a pessoa saía balançando a cabeça sem entender nada.",
+ "estrutura": [
+  {
+   "rotulo": "A analogia",
+   "texto": "A comparação que você usa no atendimento e sempre funciona."
+  },
+  {
+   "rotulo": "O desenvolvimento",
+   "texto": "Leve a comparação até o fim, sem encurtar."
+  },
+  {
+   "rotulo": "A tradução",
+   "texto": "O que isso significa no caso concreto de quem está lendo."
+  },
+  {
+   "rotulo": "O fecho",
+   "texto": "Curto, do jeito que você encerra quando a ficha cai."
+  }
+ ]
+}

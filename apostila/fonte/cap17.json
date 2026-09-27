@@ -1,0 +1,334 @@
+{
+ "n": 17,
+ "fase": 3,
+ "tema": "O contraponto",
+ "subtitulo": "Discordar é a forma mais rápida de ficar visível — e a mais fácil de fazer errado",
+ "frase": "Divergir do consenso é barato. Divergir com argumento é raro.",
+ "conceito": {
+  "termo": "Contraponto fundamentado",
+  "definicao": "Uma discordância pública de uma prática, crença ou recomendação corrente do seu mercado, sustentada por repertório e não por provocação. Ataca a ideia, nunca a pessoa, e sempre oferece o que colocar no lugar.",
+  "porqueImporta": "Porque contraste é a operação cognitiva que mais rapidamente cria memória. As pessoas lembram de você pelo que você discorda muito mais do que pelo que você concorda."
+ },
+ "ilustracao": {
+  "motivo": "prisma",
+  "legenda": "Onde todos veem uma luz só, você mostra que havia várias."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma razão técnica para o contraponto funcionar tão bem, e ela não tem nada a ver com polêmica."
+  },
+  {
+   "t": "p",
+   "text": "O cérebro guarda diferença, não repetição. Quando você concorda com o que todo mundo já diz, você não gera nenhuma informação nova — literalmente. Quando você discorda, você cria um ponto de comparação, e ponto de comparação é o que a memória usa para arquivar."
+  },
+  {
+   "t": "p",
+   "text": "É por isso que você lembra da opinião contrária que ouviu há três anos e não lembra de nenhum dos cem posts que confirmavam o que você já pensava."
+  },
+  {
+   "t": "h",
+   "text": "As três alturas do contraponto"
+  },
+  {
+   "t": "table",
+   "caption": "Do mais fraco ao mais forte",
+   "head": [
+    "Altura",
+    "O que você contesta",
+    "Risco / Retorno"
+   ],
+   "rows": [
+    [
+     "Contra a prática",
+     "Um procedimento ou hábito comum do mercado",
+     "Baixo risco. Retorno médio. Bom para começar."
+    ],
+    [
+     "Contra a crença",
+     "Uma ideia que quase ninguém questiona",
+     "Risco médio. Retorno alto. É onde mora a marca."
+    ],
+    [
+     "Contra si mesmo",
+     "Algo que VOCÊ defendia e mudou de ideia",
+     "Risco baixo. Retorno altíssimo. Quase ninguém faz."
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A terceira é a mais subestimada",
+   "texto": "Discordar de si mesmo — 'eu pensava X até ver Y' — é o contraponto mais poderoso e o menos usado. Ele prova raciocínio ativo, remove a suspeita de vaidade e não cria inimigo nenhum. É o único contraponto sem custo político."
+  },
+  {
+   "t": "h",
+   "text": "A estrutura que separa argumento de birra"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Enuncie o consenso com justiça",
+     "texto": "Descreva a posição que você vai contestar da forma mais forte possível. Se você a enfraquece para vencer, você criou um espantalho — e quem entende percebe."
+    },
+    {
+     "titulo": "Reconheça por que ela existe",
+     "texto": "Toda crença amplamente aceita teve uma razão. Mostre que você conhece a razão. Isso é o que separa contraponto de arrogância."
+    },
+    {
+     "titulo": "Apresente o que não bate",
+     "texto": "O caso, o número, o padrão da sua prática que não se encaixa. Aqui entra o repertório do capítulo 9."
+    },
+    {
+     "titulo": "Proponha a substituição",
+     "texto": "Nunca deixe um vazio. Se você derrubou o critério da pessoa, entregue outro — senão você só produziu insegurança."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O erro que anula tudo",
+   "texto": "Contraponto sem substituição é destruição. A pessoa fica sem saber o que fazer e associa você ao desconforto, não à solução. Se você não tem o que colocar no lugar, ainda não é hora de publicar essa discordância."
+  },
+  {
+   "t": "example",
+   "titulo": "Birra e contraponto sobre o mesmo tema",
+   "ruim": "'Cansei de ver esse pessoal vendendo pacote fechado de tratamento. É má-fé pura. Quem faz isso não tem compromisso com o paciente, tem compromisso com a meta.'",
+   "bom": "'Pacote fechado existe por uma razão legítima: paciente quer previsibilidade de custo, e é justo que queira. O problema é que o número de sessões precisa ser decidido antes de saber quanto o corpo vai responder — e nos casos que eu acompanho essa variação chega a três vezes. Então ou o pacote é caro pra você por segurança, ou é curto demais pro caso. Se eu fosse escolher, eu pediria uma estimativa com faixa e ponto de revisão no meio. É o que eu faço.'",
+   "porque": "O primeiro atribui má intenção — o que impede qualquer conversa e afasta quem usa pacote de boa-fé. O segundo enuncia o consenso com justiça, traz um número do repertório, e entrega uma substituição prática. É contestável tecnicamente, e é exatamente por isso que constrói autoridade."
+  },
+  {
+   "t": "h",
+   "text": "Quando não publicar um contraponto"
+  },
+  {
+   "t": "checklist",
+   "titulo": "Segure a peça se…",
+   "items": [
+    "Você não consegue enunciar a posição contrária de forma justa.",
+    "O seu argumento depende de atribuir má intenção a alguém.",
+    "Você não tem o que propor no lugar.",
+    "Alguém identificável vai se reconhecer como alvo.",
+    "A sua motivação real é irritação com uma pessoa específica."
+   ]
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "balanca",
+    "titulo": "O que sustenta um contraponto",
+    "esquerda": {
+     "rotulo": "Indignação",
+     "peso": 30
+    },
+    "direita": {
+     "rotulo": "Repertório + substituição",
+     "peso": 85
+    }
+   }
+  }
+ ],
+ "insights": [
+  "O cérebro guarda diferença, não repetição. Concordar com o consenso não gera informação nova — literalmente.",
+  "Discordar de si mesmo é o contraponto mais poderoso e o menos usado: prova raciocínio ativo e não cria inimigo nenhum.",
+  "Contraponto sem substituição é destruição — a pessoa fica insegura e associa você ao desconforto."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Enunciei o consenso na versão mais forte dele",
+   "ajuda": "Não criei espantalho.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Reconheci por que a crença existe",
+   "ajuda": "Fui generoso com quem a defende.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Sustentei com repertório, não com indignação",
+   "ajuda": "Tem caso, número ou padrão da minha prática.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Propus uma substituição concreta",
+   "ajuda": "Entreguei o que colocar no lugar.",
+   "peso": 3
+  },
+  {
+   "id": "c5",
+   "rotulo": "Ninguém identificável é o alvo",
+   "ajuda": "Ataquei a prática, não a pessoa.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que o contraponto cria memória com mais eficiência?",
+   "opcoes": [
+    "Porque gera mais comentários e o algoritmo distribui mais.",
+    "Porque o cérebro guarda diferença; concordar com o consenso não gera informação nova.",
+    "Porque textos polêmicos são mais curtos.",
+    "Porque provoca resposta dos concorrentes."
+   ],
+   "correta": 1,
+   "explicacao": "Contraste é a operação que a memória usa para arquivar. É um efeito cognitivo, não um truque de distribuição."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é a altura de contraponto mais poderosa e menos usada?",
+   "opcoes": [
+    "Contra uma prática comum do mercado.",
+    "Contra uma crença que ninguém questiona.",
+    "Contra si mesmo — algo que você defendia e mudou de ideia.",
+    "Contra um concorrente direto."
+   ],
+   "correta": 2,
+   "explicacao": "Prova raciocínio ativo, remove a suspeita de vaidade e não cria inimigo. É o único contraponto sem custo político."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual erro anula completamente um contraponto?",
+   "opcoes": [
+    "Ser longo demais.",
+    "Não oferecer nada no lugar do que foi derrubado.",
+    "Usar dados de outra área.",
+    "Publicar em formato de texto em vez de vídeo."
+   ],
+   "correta": 1,
+   "explicacao": "Contraponto sem substituição gera insegurança. A pessoa associa você ao desconforto e não à solução."
+  },
+  {
+   "id": "q4",
+   "pergunta": "O que é um 'espantalho' neste contexto?",
+   "opcoes": [
+    "Um conteúdo publicado só para gerar engajamento.",
+    "Enfraquecer a posição contrária ao descrevê-la, para vencê-la com facilidade.",
+    "Um caso inventado para ilustrar um ponto.",
+    "Uma crítica indireta a um colega."
+   ],
+   "correta": 1,
+   "explicacao": "Quem entende do assunto percebe imediatamente — e a peça perde a credibilidade que deveria construir."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O seu contraponto fundamentado",
+  "objetivo": "Produzir uma discordância pública que constrói autoridade em vez de gastar reputação.",
+  "tempoMin": 35,
+  "entrega": "Um contraponto nas quatro etapas, aprovado no checklist de 'quando não publicar'.",
+  "formatoSugerido": [
+   "texto",
+   "reels",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "consenso",
+    "rotulo": "1. O consenso, na versão mais forte dele",
+    "placeholder": "Descreva a posição que você vai contestar como o melhor defensor dela descreveria.",
+    "linhas": 3
+   },
+   {
+    "id": "razao",
+    "rotulo": "2. Por que essa crença existe (seja generoso)",
+    "placeholder": "Que problema real ela resolvia? Em que contexto fazia sentido?",
+    "linhas": 3
+   },
+   {
+    "id": "naobate",
+    "rotulo": "3. O que não bate, na sua prática",
+    "placeholder": "O caso, o número ou o padrão. Traga o repertório.",
+    "linhas": 4
+   },
+   {
+    "id": "substituicao",
+    "rotulo": "4. O que você propõe no lugar",
+    "placeholder": "Concreto e utilizável. 'Se eu fosse escolher, eu faria __.'",
+    "linhas": 3
+   },
+   {
+    "id": "checklist",
+    "rotulo": "Checklist de segurança",
+    "placeholder": "Enunciei com justiça? Depende de má intenção? Tenho substituição? Alguém identificável é alvo? Minha motivação é irritação pessoal?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A etapa 1 seria assinada por quem defende a posição contrária.",
+   "A etapa 3 contém repertório específico, não opinião genérica.",
+   "A etapa 4 é executável por quem leu, hoje."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para discordar sem gastar reputação",
+  "regras": [
+   {
+    "regra": "Ataque a prática, nunca a pessoa",
+    "porque": "Discordar de uma ideia convida ao debate. Discordar de alguém convida à defesa — e ninguém muda de ideia se defendendo."
+   },
+   {
+    "regra": "Não atribua má intenção",
+    "porque": "A maioria das práticas que você contesta é feita de boa-fé por gente competente. Supor o contrário é o atalho que destrói a sua credibilidade."
+   },
+   {
+    "regra": "Termine sempre no que colocar no lugar",
+    "porque": "É a diferença entre ser lembrado como quem esclarece e como quem reclama."
+   }
+  ],
+  "facaAssim": [
+   "'Existe uma razão legítima para isso, e é __. O problema aparece quando __.'",
+   "'Eu pensava assim também. O que me fez mudar foi __.'",
+   "'Isso é contestável, e eu posso estar errado. Mas nos casos que eu acompanho, __.'"
+  ],
+  "eviteAssim": [
+   "'Cansei de ver esse pessoal…'",
+   "Descrever a posição contrária de forma que ninguém a defenderia.",
+   "Publicar no calor de uma irritação com alguém específico."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O consenso",
+    "texto": "Enunciado com justiça, na primeira linha."
+   },
+   {
+    "rotulo": "A concessão",
+    "texto": "'Faz sentido, porque __.' Prova que você entende antes de discordar."
+   },
+   {
+    "rotulo": "A fratura",
+    "texto": "O dado da sua prática que não encaixa."
+   },
+   {
+    "rotulo": "A substituição",
+    "texto": "O que fazer no lugar. Concreto e utilizável hoje."
+   }
+  ]
+ },
+ "roteiro": "Existe uma prática comum no meu meio que eu não sigo. E acho que vale explicar por quê.\n\nA prática é {o consenso, descrito na versão mais forte dele}\n\nE ela existe por uma razão legítima: {por que faz sentido}\n\nO problema aparece quando {a fratura que você observa}. Nos casos que eu acompanho, {o dado da sua prática}\n\nSe eu fosse escolher, eu faria assim: {a substituição concreta}",
+ "estrutura": [
+  {
+   "rotulo": "O consenso",
+   "texto": "Enunciado com justiça, na versão mais forte dele."
+  },
+  {
+   "rotulo": "A concessão",
+   "texto": "'Faz sentido, porque __.' Prova que você entende antes de discordar."
+  },
+  {
+   "rotulo": "A fratura",
+   "texto": "O dado da sua prática que não encaixa."
+  },
+  {
+   "rotulo": "A substituição",
+   "texto": "O que fazer no lugar. Concreto e utilizável hoje."
+  }
+ ]
+}

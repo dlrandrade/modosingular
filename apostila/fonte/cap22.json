@@ -1,0 +1,347 @@
+{
+ "n": 22,
+ "fase": 4,
+ "tema": "Referência sem cópia",
+ "subtitulo": "Como usar o que funciona sem virar mais um igual",
+ "frase": "Copie a estrutura. Nunca a voz.",
+ "conceito": {
+  "termo": "Referência estrutural",
+  "definicao": "O uso consciente do que funciona no trabalho de outros, extraindo apenas o mecanismo — a arquitetura da ideia, a ordem das informações, o tipo de gancho — e nunca o conteúdo, a voz ou o repertório.",
+  "porqueImporta": "Porque referência é inevitável e útil. O problema não é olhar para fora: é importar de fora aquilo que só poderia vir de dentro."
+ },
+ "ilustracao": {
+  "motivo": "espelho",
+  "legenda": "Olhar para o outro é útil. Virar o outro, não."
+ },
+ "leituraMin": 7,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma reação comum entre especialistas que estão começando: a recusa total a olhar referências, com medo de virar cópia."
+  },
+  {
+   "t": "p",
+   "text": "É uma superproteção que sai cara. Referência bem usada acelera muito o aprendizado — você não precisa redescobrir o que já foi descoberto sobre como uma ideia viaja."
+  },
+  {
+   "t": "p",
+   "text": "O problema não é olhar. É o que você extrai quando olha."
+  },
+  {
+   "t": "h",
+   "text": "As três camadas de qualquer conteúdo alheio"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "camadas",
+    "titulo": "O que copiar e o que jamais copiar",
+    "camadas": [
+     {
+      "rotulo": "VOZ — jamais",
+      "nota": "Léxico, bordão, personalidade, jeito de abrir. É a digital da pessoa."
+     },
+     {
+      "rotulo": "CONTEÚDO — jamais",
+      "nota": "O repertório dela, os casos dela, os números dela. Não são seus."
+     },
+     {
+      "rotulo": "ESTRUTURA — sim, sempre",
+      "nota": "A arquitetura: ordem das informações, tipo de gancho, onde vem a virada."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O que é estrutura, na prática",
+   "texto": "'Começa com uma afirmação contraintuitiva, apresenta o consenso, mostra a fratura com um número, entrega o critério.' Isso é estrutura. Não pertence a ninguém — é como retórica funciona há dois mil anos."
+  },
+  {
+   "t": "h",
+   "text": "O método da engenharia reversa"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Escolha uma peça que funcionou com você",
+     "texto": "Não a que teve mais views: a que fez VOCÊ parar e pensar. Sua reação é um dado melhor que a métrica alheia."
+    },
+    {
+     "titulo": "Descreva o esqueleto sem o conteúdo",
+     "texto": "Escreva a estrutura em linhas genéricas: 'linha 1: afirmação que contraria o senso comum. linha 2: por que todo mundo acredita no contrário…'"
+    },
+    {
+     "titulo": "Jogue fora a peça original",
+     "texto": "Literalmente. Feche a aba. Se a peça ficar aberta, você vai contaminar o seu texto com as palavras dela."
+    },
+    {
+     "titulo": "Preencha o esqueleto com o seu repertório",
+     "texto": "Do capítulo 9. Se o esqueleto pede um número na terceira linha, use o SEU número."
+    }
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "Referência bem e mal usada",
+   "ruim": "Ver um vídeo de um dentista que começa com 'ninguém te contou isso sobre clareamento' e publicar 'ninguém te contou isso sobre implante' — mesma estrutura, mesma voz, mesmo tom, conteúdo raso porque o objetivo era preencher o molde.",
+   "bom": "Ver o mesmo vídeo, extrair 'estrutura: revelação de informação omitida → por que é omitida → a informação → o que fazer com ela', fechar a aba, e escrever a partir de algo que VOCÊ observa há anos e que de fato quase ninguém conta — com o seu número, o seu caso e a sua forma de abrir.",
+   "porque": "A estrutura é a mesma nos dois. No primeiro, o conteúdo foi encontrado para caber no molde. No segundo, o molde organizou um conteúdo que já existia. A ordem inverte tudo."
+  },
+  {
+   "t": "h",
+   "text": "O teste da contaminação"
+  },
+  {
+   "t": "checklist",
+   "titulo": "Antes de publicar, verifique",
+   "items": [
+    "Alguma expressão dessa peça é reconhecível como de outra pessoa?",
+    "Eu conseguiria defender cada afirmação daqui num debate?",
+    "O exemplo é meu ou é uma adaptação do exemplo dela?",
+    "Se a referência não existisse, eu ainda teria algo a dizer sobre isso?",
+    "A abertura é minha ou é o bordão de alguém?"
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "A pergunta decisiva",
+   "texto": "A quarta. Se a resposta é 'não, eu não teria nada a dizer sobre isso', você não está usando referência — está preenchendo um formulário. E conteúdo assim tem um problema pior do que ser cópia: ele te compromete com uma posição que você não sustenta."
+  },
+  {
+   "t": "h",
+   "text": "Onde buscar referência"
+  },
+  {
+   "t": "table",
+   "caption": "Fontes de estrutura, por qualidade de retorno",
+   "head": [
+    "Fonte",
+    "O que extrair",
+    "Risco de contaminação"
+   ],
+   "rows": [
+    [
+     "Criadores de outra área",
+     "Estrutura pura, sem tentação de copiar conteúdo",
+     "Muito baixo — o melhor lugar"
+    ],
+    [
+     "Jornalismo e ensaio",
+     "Arquitetura de argumento, abertura de reportagem",
+     "Baixo"
+    ],
+    [
+     "Concorrentes diretos",
+     "Só o que NÃO fazer, e as lacunas que deixam",
+     "Altíssimo — evite"
+    ],
+    [
+     "Sua própria prática",
+     "Como você explica quando funciona",
+     "Zero — é a melhor fonte"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Repare na última linha. A melhor referência estrutural que existe é o seu próprio atendimento: a ordem em que você explica quando a pessoa entende de primeira já é uma estrutura testada."
+  }
+ ],
+ "insights": [
+  "O problema não é olhar referência. É importar de fora aquilo que só poderia vir de dentro.",
+  "Feche a aba antes de escrever. Peça aberta contamina o texto com as palavras dela.",
+  "A melhor referência estrutural é o seu próprio atendimento: a ordem em que você explica quando a pessoa entende de primeira."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Extraí apenas a estrutura de uma referência",
+   "ajuda": "Escrevi o esqueleto em linhas genéricas.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Fechei a referência antes de escrever",
+   "ajuda": "Não escrevi com a peça original aberta.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Preenchi com repertório meu",
+   "ajuda": "Números, casos e exemplos são meus.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Passei no teste da contaminação",
+   "ajuda": "Cinco perguntas verificadas.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Quais camadas de um conteúdo alheio podem ser usadas como referência?",
+   "opcoes": [
+    "Voz e estrutura.",
+    "Conteúdo e estrutura.",
+    "Apenas a estrutura.",
+    "Todas, desde que se dê crédito."
+   ],
+   "correta": 2,
+   "explicacao": "Estrutura é retórica — não pertence a ninguém. Voz e conteúdo são a digital e o repertório da pessoa; importá-los é o que produz cópia."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que se deve fechar a peça de referência antes de escrever?",
+   "opcoes": [
+    "Para evitar problemas de direitos autorais.",
+    "Porque a peça aberta contamina o seu texto com as palavras dela.",
+    "Para economizar tempo.",
+    "Porque distrai a atenção."
+   ],
+   "correta": 1,
+   "explicacao": "Com a peça à vista, você inevitavelmente reaproveita expressões — e a contaminação de voz é o que mais rapidamente apaga a sua singularidade."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é a pergunta decisiva do teste da contaminação?",
+   "opcoes": [
+    "A peça tem a mesma quantidade de palavras?",
+    "Se a referência não existisse, eu ainda teria algo a dizer sobre isso?",
+    "O design está parecido?",
+    "Usei as mesmas hashtags?"
+   ],
+   "correta": 1,
+   "explicacao": "Se a resposta é não, você preencheu um formulário — e se comprometeu publicamente com uma posição que não sustenta."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Qual fonte de referência tem o MENOR risco de contaminação?",
+   "opcoes": [
+    "Concorrentes diretos.",
+    "Criadores de outra área.",
+    "Outros profissionais da sua especialidade.",
+    "Perfis do mesmo nicho com mais seguidores."
+   ],
+   "correta": 1,
+   "explicacao": "Fora da sua área não há tentação de importar conteúdo — só a estrutura atravessa. Concorrentes diretos são o risco mais alto."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Engenharia reversa de uma referência",
+  "objetivo": "Aprender a extrair mecanismo sem importar voz — e produzir uma peça estruturalmente boa e inteiramente sua.",
+  "tempoMin": 30,
+  "entrega": "Um esqueleto extraído, a peça original fechada, e um conteúdo novo com o seu repertório.",
+  "formatoSugerido": [
+   "texto",
+   "reels",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "referencia",
+    "rotulo": "A peça que fez VOCÊ parar e pensar",
+    "placeholder": "De preferência de outra área. Descreva sem colar o texto.",
+    "linhas": 2
+   },
+   {
+    "id": "esqueleto",
+    "rotulo": "O esqueleto, em linhas genéricas",
+    "placeholder": "Linha 1: __\nLinha 2: __\nLinha 3: __\nLinha 4: __\n(sem nenhuma palavra do conteúdo original)",
+    "linhas": 5
+   },
+   {
+    "id": "meurepertorio",
+    "rotulo": "O meu repertório que cabe nesse esqueleto",
+    "placeholder": "Que padrão, exceção ou critério meu preenche essa estrutura?",
+    "linhas": 3
+   },
+   {
+    "id": "peca",
+    "rotulo": "A peça escrita (com a referência FECHADA)",
+    "placeholder": "Escreva sem olhar a original. Se travar, é sinal de que o assunto não era seu.",
+    "linhas": 8
+   },
+   {
+    "id": "contaminacao",
+    "rotulo": "Teste da contaminação (5 perguntas)",
+    "placeholder": "Expressão reconhecível? Defenderia num debate? Exemplo é meu? Teria algo a dizer sem a referência? Abertura é minha?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O esqueleto não contém nenhuma palavra do conteúdo original.",
+   "Você escreveu com a referência fechada.",
+   "A resposta à quarta pergunta do teste é 'sim'."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para usar referência com integridade",
+  "regras": [
+   {
+    "regra": "Busque referência fora da sua área",
+    "porque": "A estrutura atravessa áreas; o conteúdo não. Você fica com o mecanismo e sem a tentação."
+   },
+   {
+    "regra": "Estruture pela sua própria explicação",
+    "porque": "A ordem em que você explica no atendimento já é uma estrutura testada centenas de vezes em pessoas reais."
+   },
+   {
+    "regra": "Se travar ao preencher o esqueleto, mude de assunto",
+    "porque": "Travar significa que você não tem repertório sobre aquilo — e forçar produz exatamente a peça genérica que você quer evitar."
+   }
+  ],
+  "facaAssim": [
+   "Anotar estruturas que funcionaram como um catálogo pessoal de esqueletos.",
+   "Usar a sequência do seu próprio atendimento como arquitetura.",
+   "Creditar publicamente quando a ideia (não a estrutura) veio de alguém."
+  ],
+  "eviteAssim": [
+   "Escrever com a peça de referência aberta ao lado.",
+   "Adotar o bordão ou a abertura característica de outro criador.",
+   "Usar concorrente direto como modelo — é o caminho mais rápido para a indiferenciação."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Coleta",
+    "texto": "Uma peça que te fez parar. Preferencialmente de outra área."
+   },
+   {
+    "rotulo": "Abstração",
+    "texto": "O esqueleto em linhas genéricas, sem uma palavra do original."
+   },
+   {
+    "rotulo": "Isolamento",
+    "texto": "Fechar a referência. Sem exceção."
+   },
+   {
+    "rotulo": "Preenchimento",
+    "texto": "Seu repertório, seu número, seu caso, sua abertura."
+   }
+  ]
+ },
+ "roteiro": "Vi uma coisa fora da minha área que explica bem o que eu tento dizer aqui há tempos.\n\n{a comparação que você tirou de outro campo}\n\nNo meu trabalho é igual: {a aplicação ao seu campo}\n\nE é por isso que {a conclusão prática}",
+ "estrutura": [
+  {
+   "rotulo": "A ideia de fora",
+   "texto": "Algo de outro campo que explica bem o seu ponto."
+  },
+  {
+   "rotulo": "A ponte",
+   "texto": "Como isso se traduz para a sua área."
+  },
+  {
+   "rotulo": "O que muda",
+   "texto": "A consequência prática dentro do seu trabalho."
+  },
+  {
+   "rotulo": "A conclusão",
+   "texto": "A régua que sobra depois da comparação."
+  }
+ ]
+}

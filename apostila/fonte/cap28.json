@@ -1,0 +1,369 @@
+{
+ "n": 28,
+ "fase": 5,
+ "tema": "As métricas que importam",
+ "subtitulo": "Medir o que decide, não o que aparece na tela",
+ "frase": "O que o aplicativo te mostra não é o que o seu negócio precisa saber.",
+ "conceito": {
+  "termo": "Métrica de decisão",
+  "definicao": "Um indicador que, quando muda, faz você mudar de comportamento. Se um número sobe ou desce e você não faz nada de diferente, ele não é métrica — é ruído com aparência de informação.",
+  "porqueImporta": "Porque as métricas mais visíveis (curtidas, alcance, seguidores) são as que menos se correlacionam com faturamento em negócios de expertise — e reagir a elas leva você a abandonar exatamente o que estava funcionando."
+ },
+ "ilustracao": {
+  "motivo": "lente",
+  "legenda": "O instrumento mais visível nem sempre mede o que importa."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe um tipo de dano que só aparece depois de alguns meses: o especialista começa a produzir conteúdo bom, olha as métricas, conclui que não está funcionando, e muda para o que 'performa' — abandonando justamente a coisa que estava construindo autoridade."
+  },
+  {
+   "t": "p",
+   "text": "O problema não é medir. É medir o que é fácil de medir em vez do que é importante."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "O teste de uma métrica",
+   "texto": "Se um número muda e você não faz nada de diferente, ele não é uma métrica — é ruído. E ruído consome atenção que deveria ir para o conteúdo."
+  },
+  {
+   "t": "h",
+   "text": "Por que curtidas enganam em negócios de expertise"
+  },
+  {
+   "t": "p",
+   "text": "Curtida é um gesto público. As pessoas curtem o que querem ser vistas curtindo. Já a decisão de contratar um especialista costuma ser privada — muitas vezes até discreta."
+  },
+  {
+   "t": "p",
+   "text": "É comum que a peça que mais gerou clientes seja uma das que menos performaram publicamente. Alguém leu, não curtiu para não sinalizar que tem o problema, e salvou."
+  },
+  {
+   "t": "table",
+   "caption": "O que cada número realmente diz",
+   "head": [
+    "Métrica",
+    "O que mede de fato",
+    "Vale a pena reagir?"
+   ],
+   "rows": [
+    [
+     "Curtidas",
+     "Concordância pública confortável",
+     "Não"
+    ],
+    [
+     "Alcance",
+     "Decisão do algoritmo naquele dia",
+     "Não"
+    ],
+    [
+     "Seguidores",
+     "Volume, não qualidade nem intenção",
+     "Não"
+    ],
+    [
+     "Salvamentos",
+     "Utilidade percebida — vai voltar depois",
+     "Sim"
+    ],
+    [
+     "Compartilhamento em direct",
+     "Alguém pensou numa pessoa específica",
+     "Sim, é o mais forte"
+    ],
+    [
+     "Mensagens com dúvida real",
+     "Confiança suficiente para se expor",
+     "Sim"
+    ],
+    [
+     "'Vim pelo Instagram'",
+     "Conversão real",
+     "Sim, é o único que fecha a conta"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A métrica mais valiosa e menos observada",
+   "texto": "Compartilhamento por mensagem direta. Quando alguém envia sua peça para uma pessoa específica, aconteceu a coisa mais difícil do marketing: alguém colocou a própria reputação em jogo recomendando você. Uma dessas vale mais que trezentas curtidas."
+  },
+  {
+   "t": "h",
+   "text": "O painel de quatro números"
+  },
+  {
+   "t": "p",
+   "text": "Você não precisa de dashboard. Precisa de quatro números, olhados uma vez por mês."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "camadas",
+    "titulo": "O painel mensal do especialista",
+    "camadas": [
+     {
+      "rotulo": "4. Alcance de conteúdo de topo",
+      "nota": "Só para saber se ainda entra gente nova. Nunca para reagir."
+     },
+     {
+      "rotulo": "3. Mensagens com dúvida real",
+      "nota": "Sinal de que a confiança está se formando."
+     },
+     {
+      "rotulo": "2. Salvamentos e compartilhamentos por direct",
+      "nota": "Utilidade e recomendação. O melhor sinal antecedente."
+     },
+     {
+      "rotulo": "1. Clientes que citaram o conteúdo",
+      "nota": "A única métrica que fecha a conta. Pergunte sempre."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "A pergunta que gera a métrica nº 1",
+   "texto": "Inclua em toda primeira conversa: 'como você chegou até mim?'. É trabalho de dez segundos e é o único dado que liga conteúdo a faturamento. Sem ele, você vai passar anos decidindo no escuro."
+  },
+  {
+   "t": "h",
+   "text": "A frequência correta de análise"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "Qualidade das decisões conforme a frequência de análise",
+    "unidade": "qualidade da decisão",
+    "labels": [
+     "Diária",
+     "Semanal",
+     "Quinzenal",
+     "Mensal",
+     "Trimestral"
+    ],
+    "series": [
+     {
+      "nome": "Qualidade da decisão tomada",
+      "pontos": [
+       12,
+       30,
+       58,
+       86,
+       74
+      ],
+      "destaque": true
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Análise diária produz reação a ruído. Análise trimestral perde o momento de corrigir. O ponto ótimo é mensal — tempo suficiente para o sinal emergir e curto o bastante para ainda dar para ajustar."
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O sintoma do excesso de análise",
+   "texto": "Se você já mudou de estratégia por causa de um único post, você está analisando com frequência demais. Uma peça isolada não contém informação suficiente sobre nada."
+  }
+ ],
+ "insights": [
+  "Se um número muda e você não faz nada de diferente, ele não é métrica — é ruído com aparência de informação.",
+  "A peça que mais gera cliente costuma ser uma das que menos performam: a pessoa não curte para não sinalizar que tem o problema.",
+  "Compartilhamento por direct é o sinal mais forte que existe: alguém colocou a própria reputação em jogo recomendando você."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Montei meu painel de 4 números",
+   "ajuda": "Sem dashboard, só os quatro.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Comecei a perguntar 'como você chegou até mim?'",
+   "ajuda": "Em toda primeira conversa.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Defini frequência mensal de análise",
+   "ajuda": "Parei de olhar métrica por post.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Identifiquei que métricas eu vinha perseguindo",
+   "ajuda": "Sei quais eram ruído.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é o teste que define se algo é métrica ou ruído?",
+   "opcoes": [
+    "Se o número aparece no aplicativo.",
+    "Se, quando ele muda, você faz alguma coisa de diferente.",
+    "Se ele cresce mês a mês.",
+    "Se ele pode ser comparado com concorrentes."
+   ],
+   "correta": 1,
+   "explicacao": "Métrica é o que informa decisão. Se o número muda e o seu comportamento não, ele só está consumindo atenção."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que curtidas enganam especialmente em negócios de expertise?",
+   "opcoes": [
+    "Porque o algoritmo as manipula.",
+    "Porque curtida é gesto público, e a decisão de contratar um especialista costuma ser privada e discreta.",
+    "Porque poucos usuários curtem hoje em dia.",
+    "Porque são fáceis de comprar."
+   ],
+   "correta": 1,
+   "explicacao": "É comum a peça que mais gerou clientes ser uma das que menos performaram: a pessoa leu, salvou e não curtiu para não sinalizar que tem o problema."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é a única métrica que 'fecha a conta' entre conteúdo e faturamento?",
+   "opcoes": [
+    "Alcance de contas não seguidoras.",
+    "Salvamentos.",
+    "Clientes que citaram o conteúdo ao chegar.",
+    "Crescimento de seguidores."
+   ],
+   "correta": 2,
+   "explicacao": "E ela só existe se você perguntar 'como você chegou até mim?' em toda primeira conversa. Dez segundos de trabalho, anos de clareza."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Qual é a frequência ótima de análise?",
+   "opcoes": [
+    "Diária.",
+    "Semanal.",
+    "Mensal.",
+    "Trimestral."
+   ],
+   "correta": 2,
+   "explicacao": "Tempo suficiente para o sinal emergir acima do ruído, e curto o bastante para ainda permitir correção. Análise diária produz reação a ruído."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O painel de quatro números",
+  "objetivo": "Substituir a vigilância de métricas de vaidade por um instrumento que realmente informa decisão.",
+  "tempoMin": 25,
+  "entrega": "Um painel definido, a pergunta de origem implantada, e a lista do que você vai parar de olhar.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "vinha",
+    "rotulo": "Que métricas eu vinha perseguindo?",
+    "placeholder": "Seja honesto. Você já mudou algo por causa de um post ruim?",
+    "linhas": 2
+   },
+   {
+    "id": "painel",
+    "rotulo": "Meu painel de 4 números",
+    "placeholder": "1. Clientes que citaram conteúdo: __\n2. Salvamentos/compartilhamentos: __\n3. Mensagens com dúvida real: __\n4. Alcance de topo: __",
+    "linhas": 4
+   },
+   {
+    "id": "pergunta",
+    "rotulo": "Onde eu vou implantar 'como você chegou até mim?'",
+    "placeholder": "Em que momento da primeira conversa? Quem pergunta se não for você?",
+    "linhas": 2
+   },
+   {
+    "id": "parar",
+    "rotulo": "O que eu vou PARAR de olhar",
+    "placeholder": "Liste explicitamente. Compromisso escrito.",
+    "linhas": 3
+   },
+   {
+    "id": "frequencia",
+    "rotulo": "Quando eu analiso",
+    "placeholder": "Dia fixo do mês. Ex.: primeiro domingo, 20h, 15 minutos.",
+    "linhas": 1
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O painel tem exatamente quatro números, não mais.",
+   "A pergunta de origem tem um momento definido e um responsável.",
+   "A lista do que parar de olhar inclui pelo menos uma métrica que hoje te incomoda."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para falar sobre resultado publicamente",
+  "regras": [
+   {
+    "regra": "Mostre o processo, não o print",
+    "porque": "Print de métrica atrai colegas, não clientes. E colegas não compram — copiam."
+   },
+   {
+    "regra": "Nunca use métrica de vaidade como prova de competência",
+    "porque": "Sinaliza que você mede o próprio trabalho pelo critério errado, e quem está avaliando percebe."
+   },
+   {
+    "regra": "Se for falar de resultado, fale do cliente, não seu",
+    "porque": "O resultado que interessa ao seu público é o dele, não o seu alcance."
+   }
+  ],
+  "facaAssim": [
+   "'Uma pessoa chegou aqui dizendo que leu um texto meu de oito meses atrás. É assim que isso funciona.'",
+   "Falar de tempo e continuidade em vez de números de audiência.",
+   "Compartilhar o critério de avaliação, não o resultado da avaliação."
+  ],
+  "eviteAssim": [
+   "Print de alcance ou de crescimento de seguidores.",
+   "'Bati X mil seguidores, obrigado!'",
+   "Usar performance de conteúdo como argumento de competência profissional."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O sinal",
+    "texto": "Um fato concreto de conversão: alguém chegou e citou o conteúdo."
+   },
+   {
+    "rotulo": "O mecanismo",
+    "texto": "Por que isso acontece — o efeito acumulado, não o post."
+   },
+   {
+    "rotulo": "O contraste",
+    "texto": "Por que a métrica visível não teria mostrado isso."
+   },
+   {
+    "rotulo": "O critério",
+    "texto": "O que você olha, e o que decidiu parar de olhar."
+   }
+  ]
+ },
+ "roteiro": "Quase todo mundo avalia {o que você faz} pelo mesmo indicador: {a métrica óbvia do seu campo}.\n\nE ela engana. Porque {por que engana}.\n\nO que eu olho é outra coisa: {o indicador que importa de verdade}. É menos visível e diz muito mais sobre o que vem depois.\n\nSe você for avaliar sozinho, olhe para isso.",
+ "estrutura": [
+  {
+   "rotulo": "O indicador comum",
+   "texto": "Aquilo pelo qual todo mundo avalia o seu tipo de trabalho."
+  },
+  {
+   "rotulo": "Por que engana",
+   "texto": "O que ele deixa de fora e por que isso importa."
+  },
+  {
+   "rotulo": "O que você olha",
+   "texto": "O indicador real, o que você acompanha de verdade."
+  },
+  {
+   "rotulo": "Como medir",
+   "texto": "Como a pessoa verifica isso sozinha."
+  }
+ ]
+}

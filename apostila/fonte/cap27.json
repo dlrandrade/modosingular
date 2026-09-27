@@ -1,0 +1,361 @@
+{
+ "n": 27,
+ "fase": 5,
+ "tema": "Da audiência ao cliente",
+ "subtitulo": "O caminho da confiança quando ninguém pediu para ser vendido",
+ "frase": "Vínculo acumulado ao longo do tempo se transforma em preferência.",
+ "conceito": {
+  "termo": "Conversão por familiaridade",
+  "definicao": "O processo pelo qual alguém que acompanha você passa a te procurar sem nunca ter recebido uma oferta direta — porque a exposição repetida ao seu raciocínio reduziu a distância a ponto de o contato parecer natural.",
+  "porqueImporta": "Porque quando vários profissionais podem tecnicamente resolver o mesmo problema, a decisão passa a ser tomada por confiança, familiaridade e identidade. E essas três coisas se constroem antes da oferta, não durante."
+ },
+ "ilustracao": {
+  "motivo": "ponte",
+  "legenda": "A travessia já estava pronta quando a pessoa decidiu atravessar."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "A pergunta que todo especialista faz depois de alguns meses publicando é sempre a mesma: 'tudo bem, mas como isso vira cliente?'"
+  },
+  {
+   "t": "p",
+   "text": "A resposta incomoda um pouco porque não é mecânica. Não existe um botão. O que existe é uma sequência que acontece na cabeça de quem acompanha — e ela é bastante previsível."
+  },
+  {
+   "t": "h",
+   "text": "Os cinco estágios da distância"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Desconhecido",
+     "texto": "A pessoa não sabe que você existe. Nada que você faça a alcança, exceto conteúdo de reconhecimento de problema."
+    },
+    {
+     "titulo": "Encontrado",
+     "texto": "Ela viu uma peça. Não guardou o seu nome. Se você aparecer de novo, ela não vai lembrar que já viu."
+    },
+    {
+     "titulo": "Reconhecido",
+     "texto": "Terceira ou quarta exposição. Ela começa a associar você a um tema. Aqui o léxico faz o trabalho — é ele que faz alguém reconhecer antes de ler o nome."
+    },
+    {
+     "titulo": "Familiar",
+     "texto": "Ela sabe como você pensa. Consegue antecipar sua posição sobre um assunto novo. É aqui que a preferência se forma, e você não faz ideia de que essa pessoa existe."
+    },
+    {
+     "titulo": "Procurado",
+     "texto": "Surge a necessidade. E, diferente de um desconhecido, ela não vai pesquisar opções: ela já tem uma."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O que ninguém te conta sobre o estágio 4",
+   "texto": "A maior parte do seu futuro faturamento está em pessoas que estão no estágio 'familiar' agora e que você nunca viu comentar, curtir ou responder story. Elas leem, formam opinião e vão embora sem deixar rastro. Métrica de engajamento não vê essas pessoas — e são elas que compram."
+  },
+  {
+   "t": "h",
+   "text": "Por que a oferta direta funciona tão mal no começo"
+  },
+  {
+   "t": "p",
+   "text": "Uma oferta feita a alguém no estágio 2 é lida como interrupção. A mesma oferta, feita a alguém no estágio 4, é lida como conveniência."
+  },
+  {
+   "t": "p",
+   "text": "O texto é idêntico. O que mudou foi a distância. E é por isso que copiar a chamada de venda de alguém que já tem audiência quase nunca funciona: você importou a frase sem importar o contexto que a tornava aceitável."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Resposta à mesma oferta, por estágio",
+    "unidade": "receptividade relativa",
+    "series": [
+     {
+      "rotulo": "Familiar (estágio 4)",
+      "valor": 82,
+      "nota": "Lê como conveniência. Já decidiu antes."
+     },
+     {
+      "rotulo": "Reconhecido (estágio 3)",
+      "valor": 41,
+      "nota": "Considera, mas ainda compara."
+     },
+     {
+      "rotulo": "Encontrado (estágio 2)",
+      "valor": 9,
+      "nota": "Lê como interrupção. Rejeita por padrão."
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "O que fazer em cada estágio"
+  },
+  {
+   "t": "table",
+   "caption": "A ação certa para cada distância",
+   "head": [
+    "Estágio",
+    "O que a pessoa precisa",
+    "O que você publica"
+   ],
+   "rows": [
+    [
+     "Desconhecido",
+     "Encontrar você por acaso",
+     "Reconhecimento de problema (camada 1)"
+    ],
+    [
+     "Encontrado",
+     "Um motivo para voltar",
+     "Léxico marcante, posição clara"
+    ],
+    [
+     "Reconhecido",
+     "Entender como você pensa",
+     "Critério, contraponto, régua"
+    ],
+    [
+     "Familiar",
+     "Um caminho quando precisar",
+     "Prova, caso, e — raramente — a porta aberta"
+    ],
+    [
+     "Procurado",
+     "Facilidade de contato",
+     "Apenas não atrapalhar"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O erro do último estágio",
+   "texto": "Muita gente constrói familiaridade por meses e depois torna difícil o contato: link quebrado, direct fechado, ausência de instrução clara. A conversão morre no metro final por falta de logística, não de confiança."
+  },
+  {
+   "t": "h",
+   "text": "Como fazer a oferta sem quebrar o vínculo"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Oferta que quebra o vínculo",
+    "tom": "neg",
+    "items": [
+     "Aparece em toda peça.",
+     "Usa urgência artificial.",
+     "Muda o tom: o especialista some, o vendedor aparece.",
+     "Promete resultado.",
+     "Pede a ação antes de dar o critério."
+    ]
+   },
+   "direita": {
+    "titulo": "Oferta que preserva",
+    "tom": "pos",
+    "items": [
+     "Aparece em ~10% das peças.",
+     "Diz para quem NÃO serve.",
+     "Mantém o mesmo tom e o mesmo léxico.",
+     "Descreve o processo, não o resultado.",
+     "Vem depois do critério, como consequência."
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "A oferta mais eficiente que existe para especialista",
+   "texto": "'Se você tem X e já tentou Y sem resultado, é o tipo de caso que eu atendo. Se você tem Z, provavelmente não sou a pessoa certa e eu te digo isso na primeira conversa.' Ela filtra, demonstra critério e não promete nada — e é justamente por isso que converte."
+  }
+ ],
+ "insights": [
+  "A mesma oferta é interrupção no estágio 2 e conveniência no estágio 4. O texto é idêntico; o que mudou foi a distância.",
+  "A maior parte do seu futuro faturamento está em pessoas 'familiares' que nunca curtiram nem comentaram. Métrica de engajamento não as vê.",
+  "Muita conversão morre no metro final: link quebrado, direct fechado, instrução ausente. Falta logística, não confiança."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Identifiquei em que estágio está a maioria da minha audiência",
+   "ajuda": "Sei se preciso de alcance ou de aprofundamento.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Verifiquei a logística do último metro",
+   "ajuda": "Link funciona, contato é claro, instrução existe.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Escrevi uma oferta que filtra em vez de prometer",
+   "ajuda": "Diz para quem não serve.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Ajustei a frequência da minha oferta",
+   "ajuda": "Cerca de 10% das peças, não mais.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que a mesma oferta funciona de formas tão diferentes?",
+   "opcoes": [
+    "Porque o algoritmo distribui de forma variável.",
+    "Porque no estágio 2 ela é lida como interrupção e no estágio 4 como conveniência — o que muda é a distância, não o texto.",
+    "Porque o horário de publicação influencia.",
+    "Porque depende da estação do ano."
+   ],
+   "correta": 1,
+   "explicacao": "É também por isso que copiar a chamada de venda de quem já tem audiência falha: importou-se a frase sem o contexto que a tornava aceitável."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Onde está a maior parte do seu futuro faturamento?",
+   "opcoes": [
+    "Nos seguidores que mais comentam.",
+    "Nas pessoas em estágio 'familiar' que nunca curtiram nem comentaram.",
+    "Nos clientes atuais.",
+    "Em quem responde aos stories."
+   ],
+   "correta": 1,
+   "explicacao": "Elas leem, formam opinião e vão embora sem rastro. Métricas de engajamento não as enxergam — e são elas que procuram quando surge a necessidade."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Por que a oferta que 'diz para quem não serve' converte melhor?",
+   "opcoes": [
+    "Porque reduz o volume de mensagens.",
+    "Porque filtra, demonstra critério e não promete nada — e é isso que torna o restante crível.",
+    "Porque é mais curta.",
+    "Porque evita problemas com o conselho profissional."
+   ],
+   "correta": 1,
+   "explicacao": "Recusar publicamente um tipo de caso é a prova de critério mais legível que existe — e critério é o que sustenta preferência entre iguais."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O último metro",
+  "objetivo": "Garantir que a confiança construída não se perca por falha de logística — e escrever a oferta que filtra.",
+  "tempoMin": 30,
+  "entrega": "Uma auditoria do caminho de contato e uma oferta escrita que filtra em vez de prometer.",
+  "formatoSugerido": [
+   "texto",
+   "story",
+   "bio"
+  ],
+  "campos": [
+   {
+    "id": "estagio",
+    "rotulo": "Em que estágio está a maioria de quem me acompanha?",
+    "placeholder": "Desconhecido / encontrado / reconhecido / familiar. E como você sabe disso?",
+    "linhas": 2
+   },
+   {
+    "id": "logistica",
+    "rotulo": "Auditoria do último metro",
+    "placeholder": "Link da bio funciona? O contato é óbvio? Alguém sabe o que fazer para falar com você? Teste do celular de outra pessoa.",
+    "linhas": 4
+   },
+   {
+    "id": "oferta",
+    "rotulo": "A minha oferta que filtra",
+    "placeholder": "'Se você tem __ e já tentou __ sem resultado, é o tipo de caso que eu atendo. Se você tem __, provavelmente não sou a pessoa certa.'",
+    "linhas": 4
+   },
+   {
+    "id": "frequencia",
+    "rotulo": "Com que frequência eu vou fazer oferta",
+    "placeholder": "Aproximadamente 1 a cada 10 peças. Defina o seu número.",
+    "linhas": 1
+   },
+   {
+    "id": "naoserve",
+    "rotulo": "Para quem eu explicitamente NÃO sirvo",
+    "placeholder": "Seja específico. Isso é o que torna o resto crível.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Você testou o caminho de contato no celular de outra pessoa, não no seu.",
+   "A oferta contém um 'não sou a pessoa certa se…'.",
+   "A oferta não promete nenhum resultado."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para vender sem quebrar o vínculo",
+  "regras": [
+   {
+    "regra": "Descreva o processo, nunca o resultado",
+    "porque": "Resultado é promessa e promessa cria expectativa que você não controla. Processo é verdade verificável."
+   },
+   {
+    "regra": "Diga para quem você não serve",
+    "porque": "A recusa é o que torna a aceitação crível — e filtra os casos que dariam problema."
+   },
+   {
+    "regra": "Mantenha o mesmo tom da peça anterior",
+    "porque": "Se o especialista some e o vendedor aparece, a audiência sente a troca e o vínculo trinca."
+   }
+  ],
+  "facaAssim": [
+   "'Se você tem __, esse é o tipo de caso que eu atendo. Se tem __, não sou eu.'",
+   "'Não prometo prazo. Prometo te dizer na primeira conversa se dá ou não.'",
+   "Deixar a porta aberta uma vez a cada dez peças, sem urgência."
+  ],
+  "eviteAssim": [
+   "'Últimas vagas', 'só até sexta' e outras urgências fabricadas.",
+   "Chamada para ação no fim de toda peça.",
+   "Mudar o tom quando chega a hora de vender."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O critério de entrada",
+    "texto": "'Esse é o tipo de caso que eu atendo: __.'"
+   },
+   {
+    "rotulo": "O critério de exclusão",
+    "texto": "'Se você tem __, não sou a pessoa certa.'"
+   },
+   {
+    "rotulo": "O processo",
+    "texto": "O que acontece na prática. Sem prazo, sem promessa."
+   },
+   {
+    "rotulo": "A porta",
+    "texto": "Como falar com você. Simples e sem urgência."
+   }
+  ]
+ },
+ "roteiro": "Vou ser direto sobre quem eu atendo, porque isso poupa o tempo de todo mundo.\n\nSe você tem {o perfil} e já tentou {o caminho comum} sem resultado, esse é o tipo de caso que eu pego.\n\nSe você tem {outro perfil}, provavelmente eu não sou a pessoa certa — e eu te digo isso na primeira conversa, não depois de três meses.\n\nNão prometo prazo. Prometo te dizer com honestidade se dá ou não dá.",
+ "estrutura": [
+  {
+   "rotulo": "Para quem serve",
+   "texto": "'Se você tem __ e já tentou __ sem resultado.'"
+  },
+  {
+   "rotulo": "Para quem não serve",
+   "texto": "'Se você tem __, não sou a pessoa certa.'"
+  },
+  {
+   "rotulo": "O processo",
+   "texto": "O que acontece na prática. Sem prazo, sem promessa."
+  },
+  {
+   "rotulo": "A porta",
+   "texto": "Como falar com você. Simples e sem urgência."
+  }
+ ]
+}

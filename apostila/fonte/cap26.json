@@ -1,0 +1,354 @@
+{
+ "n": 26,
+ "fase": 5,
+ "tema": "Boca de funil com rosto",
+ "subtitulo": "O perfil deixa de ser vitrine e passa a ser porta de entrada",
+ "frase": "Uma superfície de contato permanente entre você e pessoas que ainda não sabem que precisam de você.",
+ "conceito": {
+  "termo": "Boca de funil",
+  "definicao": "A função do perfil como ponto de primeiro contato para pessoas que não te conhecem — em oposição à função de vitrine, que apenas confirma informações para quem já foi indicado.",
+  "porqueImporta": "Porque vitrine só serve a quem já chegou. Boca de funil traz quem nunca chegaria — e é a única forma de crescer sem depender do volume de indicações."
+ },
+ "ilustracao": {
+  "motivo": "farol",
+  "legenda": "Vitrine espera quem passa. Farol alcança quem ainda está longe."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma diferença estrutural entre um perfil que funciona como vitrine e um que funciona como boca de funil, e ela não está no design."
+  },
+  {
+   "t": "p",
+   "text": "Está em para quem o perfil foi construído. A vitrine é feita para quem já ouviu falar de você e foi confirmar. A boca de funil é feita para quem ainda não sabe que tem o problema que você resolve."
+  },
+  {
+   "t": "table",
+   "caption": "Duas funções, dois desenhos",
+   "head": [
+    "Aspecto",
+    "Vitrine",
+    "Boca de funil"
+   ],
+   "rows": [
+    [
+     "Público",
+     "Quem já foi indicado",
+     "Quem não te conhece"
+    ],
+    [
+     "Conteúdo dominante",
+     "Serviço, estrutura, resultado",
+     "Problema, critério, raciocínio"
+    ],
+    [
+     "Pergunta que responde",
+     "'Ele é bom mesmo?'",
+     "'Isso que eu sinto tem nome?'"
+    ],
+    [
+     "Efeito",
+     "Confirma decisão já tomada",
+     "Cria a decisão"
+    ],
+    [
+     "Depende de",
+     "Indicação prévia",
+     "Nada — funciona sozinha"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A pergunta que revela qual é o seu perfil hoje",
+   "texto": "Olhe as suas últimas dez publicações. Quantas fazem sentido para alguém que nunca ouviu falar de você e ainda não sabe que tem o problema? Se a resposta for menos de metade, você tem uma vitrine."
+  },
+  {
+   "t": "h",
+   "text": "As três camadas de um funil com rosto"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "funil",
+    "titulo": "Do desconhecido ao cliente, sem perder o rosto",
+    "etapas": [
+     {
+      "rotulo": "RECONHECIMENTO — 'isso tem nome?'",
+      "nota": "Conteúdo sobre o problema. Maior volume, maior alcance."
+     },
+     {
+      "rotulo": "CRITÉRIO — 'como se decide isso?'",
+      "nota": "Sua régua. É aqui que a preferência se forma."
+     },
+     {
+      "rotulo": "CONFIANÇA — 'ele entende disso?'",
+      "nota": "Caso-prova, repertório, exceção."
+     },
+     {
+      "rotulo": "AÇÃO — 'quero falar com ele'",
+      "nota": "Menor volume. E o menos importante de todos."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O erro de proporção",
+   "texto": "A maioria dos especialistas inverte o funil: publica 80% de camada 4 (agende, entre em contato, conheça nossos serviços) e quase nada de camada 1. O resultado é um perfil que só funciona para quem já ia comprar mesmo — ou seja, uma vitrine cara."
+  },
+  {
+   "t": "h",
+   "text": "A proporção que funciona"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Distribuição recomendada das suas peças",
+    "unidade": "% do que você publica",
+    "series": [
+     {
+      "rotulo": "Reconhecimento do problema",
+      "valor": 40,
+      "nota": "É o que traz gente nova. Nunca deixe cair."
+     },
+     {
+      "rotulo": "Critério e raciocínio",
+      "valor": 30,
+      "nota": "É o que cria preferência entre iguais."
+     },
+     {
+      "rotulo": "Prova e repertório",
+      "valor": 20,
+      "nota": "Casos, padrões, exceções."
+     },
+     {
+      "rotulo": "Chamada para ação",
+      "valor": 10,
+      "nota": "Suficiente. Mais que isso vira vitrine."
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Por que o funil precisa continuar tendo rosto"
+  },
+  {
+   "t": "p",
+   "text": "Existe uma versão desse raciocínio que dá errado: montar uma máquina de conteúdo impessoal, otimizada para captação, em que o especialista some atrás do processo."
+  },
+  {
+   "t": "p",
+   "text": "Isso funciona por um tempo e depois falha por um motivo simples: em negócios baseados em confiança, o cliente não está escolhendo apenas o serviço. Está escolhendo uma pessoa capaz de prestar aquele serviço."
+  },
+  {
+   "t": "quote",
+   "text": "Quanto mais a presença cresce, mais importante se torna preservar aquilo que torna aquele profissional reconhecível.",
+   "fonte": "Dossiê — A verdade central do seu negócio"
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "O teste do rosto",
+   "texto": "Se o seu funil funcionasse igualmente bem com o nome de outra pessoa nele, ele não tem rosto — tem processo. Processo capta lead. Rosto capta preferência. Só o segundo sobrevive à comparação de preço."
+  }
+ ],
+ "insights": [
+  "Vitrine é feita para quem já foi indicado. Boca de funil é feita para quem ainda não sabe que tem o problema.",
+  "A maioria inverte a proporção: 80% de 'agende sua consulta' e quase nada de conteúdo de reconhecimento. Isso é uma vitrine cara.",
+  "Se o seu funil funcionasse igualmente bem com o nome de outra pessoa, ele tem processo, não rosto. Processo capta lead; rosto capta preferência."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Auditei minhas últimas 10 peças por camada",
+   "ajuda": "Sei quantas são de reconhecimento, critério, prova e ação.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei minha proporção real vs. a recomendada",
+   "ajuda": "Sei o quanto estou invertido.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Produzi uma peça de camada 1",
+   "ajuda": "Conteúdo de reconhecimento do problema.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Passei no teste do rosto",
+   "ajuda": "Meu conteúdo não funcionaria com o nome de outra pessoa.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é a diferença estrutural entre vitrine e boca de funil?",
+   "opcoes": [
+    "A qualidade do design.",
+    "Para quem o perfil foi construído: quem já foi indicado, ou quem ainda não sabe que tem o problema.",
+    "A frequência de publicação.",
+    "O uso de vídeo em vez de imagem."
+   ],
+   "correta": 1,
+   "explicacao": "Vitrine confirma uma decisão já tomada. Boca de funil cria a decisão — e por isso não depende de indicação prévia."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual camada do funil deve receber a MAIOR parte das suas publicações?",
+   "opcoes": [
+    "Chamada para ação.",
+    "Prova e repertório.",
+    "Critério e raciocínio.",
+    "Reconhecimento do problema."
+   ],
+   "correta": 3,
+   "explicacao": "Cerca de 40%. É a única camada que traz gente nova; as demais trabalham sobre quem já chegou."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que é o 'teste do rosto'?",
+   "opcoes": [
+    "Verificar se você aparece em vídeo com frequência.",
+    "Checar se o seu funil funcionaria igualmente bem com o nome de outra pessoa nele.",
+    "Confirmar se sua foto de perfil está atualizada.",
+    "Medir quantos seguidores conhecem você pessoalmente."
+   ],
+   "correta": 1,
+   "explicacao": "Se funcionaria igual, você construiu processo, não presença. Processo capta lead; rosto capta preferência — e só a preferência sobrevive à comparação de preço."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Por que a máquina de conteúdo impessoal falha em negócios de confiança?",
+   "opcoes": [
+    "Porque o algoritmo penaliza contas automatizadas.",
+    "Porque o cliente não escolhe só o serviço: escolhe uma pessoa capaz de prestá-lo.",
+    "Porque é caro de manter.",
+    "Porque não gera volume suficiente."
+   ],
+   "correta": 1,
+   "explicacao": "É o que sustenta a crença de que 'as pessoas se conectam com pessoas' — menos romântica do que parece, e com consequência comercial direta."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Converter vitrine em boca de funil",
+  "objetivo": "Corrigir a proporção do seu conteúdo e produzir a camada que traz gente que não te conhece.",
+  "tempoMin": 35,
+  "entrega": "Auditoria das últimas 10 peças por camada e uma nova peça de reconhecimento de problema.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "auditoria",
+    "rotulo": "Minhas últimas 10 peças, classificadas por camada",
+    "placeholder": "1. __ (camada __)\n2. __ (camada __)\n… Camadas: 1 reconhecimento, 2 critério, 3 prova, 4 ação.",
+    "linhas": 6
+   },
+   {
+    "id": "proporcao",
+    "rotulo": "Minha proporção real vs. a recomendada (40/30/20/10)",
+    "placeholder": "Real: __/__/__/__ — onde estou invertido?",
+    "linhas": 2
+   },
+   {
+    "id": "problema",
+    "rotulo": "O problema que meu público tem e ainda não sabe nomear",
+    "placeholder": "O que a pessoa sente, com as palavras dela, antes de saber que isso tem nome técnico.",
+    "linhas": 3
+   },
+   {
+    "id": "peca",
+    "rotulo": "A peça de reconhecimento",
+    "placeholder": "Escreva para quem NUNCA ouviu falar de você e ainda não sabe que tem o problema. Zero menção ao seu serviço.",
+    "linhas": 8
+   },
+   {
+    "id": "rosto",
+    "rotulo": "Teste do rosto",
+    "placeholder": "Essa peça funcionaria com o nome de um colega? Se sim, o que falta de você nela?",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A peça de reconhecimento não menciona o seu serviço em nenhum momento.",
+   "Ela usa as palavras da pessoa, não o nome técnico do problema.",
+   "Ela não funcionaria com o nome de um colega."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo de topo com identidade",
+  "regras": [
+   {
+    "regra": "Nomeie o problema com as palavras da pessoa",
+    "porque": "Ninguém procura pelo nome técnico. As pessoas procuram pelo que sentem — e é aí que elas te encontram."
+   },
+   {
+    "regra": "Conteúdo de topo não vende nada",
+    "porque": "Qualquer menção a serviço na camada 1 muda a leitura de 'ele entende' para 'ele quer vender'. O ganho de curto prazo custa o de longo."
+   },
+   {
+    "regra": "Mesmo no topo, mantenha o léxico",
+    "porque": "É o que impede a peça de alcance virar peça anônima. Alcance sem rosto não converte em preferência."
+   }
+  ],
+  "facaAssim": [
+   "'Se você sente __ e já ouviu que é normal, existe uma explicação melhor.'",
+   "Descrever a experiência antes de nomear a categoria.",
+   "Terminar em critério, não em chamada."
+  ],
+  "eviteAssim": [
+   "'Agende sua avaliação' no fim de toda peça.",
+   "Usar o nome técnico do problema como gancho.",
+   "Suavizar o léxico para 'alcançar mais gente' — alcança e não converte."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Gancho",
+    "texto": "A experiência descrita nas palavras da pessoa."
+   },
+   {
+    "rotulo": "Nomeação",
+    "texto": "'Isso tem nome, e não é o que te disseram.'"
+   },
+   {
+    "rotulo": "Explicação",
+    "texto": "Por que acontece, com o seu repertório."
+   },
+   {
+    "rotulo": "Critério",
+    "texto": "O que fazer com essa informação. Sem chamada para ação."
+   }
+  ]
+ },
+ "roteiro": "Se você sente {a experiência, com as palavras da pessoa — não o nome técnico}, presta atenção nisso.\n\nIsso tem nome. E não é o que costumam dizer.\n\n{o que realmente é, explicado simples}\n\nAcontece porque {a explicação estrutural}\n\nNão estou vendendo nada com isso. Só acho que você merece saber que tem explicação.",
+ "estrutura": [
+  {
+   "rotulo": "A experiência",
+   "texto": "O que a pessoa sente, nas palavras dela — não no nome técnico."
+  },
+  {
+   "rotulo": "A nomeação",
+   "texto": "'Isso tem nome, e não é o que te disseram.'"
+  },
+  {
+   "rotulo": "A explicação",
+   "texto": "Por que acontece, com o seu repertório."
+  },
+  {
+   "rotulo": "O critério",
+   "texto": "O que fazer com isso. Sem chamada para ação."
+  }
+ ]
+}

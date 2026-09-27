@@ -1,0 +1,389 @@
+{
+ "n": 23,
+ "fase": 4,
+ "tema": "Escala sem descaracterização",
+ "subtitulo": "Crescer sem virar uma fábrica de peças genéricas",
+ "frase": "Quanto mais a presença cresce, mais importante fica preservar o que torna você reconhecível.",
+ "conceito": {
+  "termo": "Escala com rosto",
+  "definicao": "O aumento de volume e alcance da presença digital sem perda da singularidade — obtido escalando as etapas mecânicas (formatação, distribuição, operação) e mantendo intocadas as etapas identitárias (ideia, voz, critério).",
+  "porqueImporta": "Porque a tentação natural do crescimento é padronizar tudo. E quando a padronização alcança a voz, você conquista alcance no exato momento em que perde o motivo pelo qual as pessoas te procuravam."
+ },
+ "ilustracao": {
+  "motivo": "impressao-digital",
+  "legenda": "Pode crescer o quanto quiser. Não pode apagar o desenho."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe um ponto na trajetória de todo especialista que começa a dar certo em que o crescimento passa a ameaçar exatamente aquilo que causou o crescimento."
+  },
+  {
+   "t": "p",
+   "text": "Você começa a receber mais demanda, precisa de mais volume, contrata ajuda, cria processos. Cada uma dessas decisões é individualmente correta. E o efeito somado pode ser a lenta conversão de conhecimento vivo em comunicação institucional."
+  },
+  {
+   "t": "callout",
+   "kind": "citacao",
+   "titulo": "O risco descrito no dossiê",
+   "texto": "A pessoa que passou anos acumulando experiências, casos, opiniões e percepções aparece no digital como uma coleção de frases corretas, visualmente organizadas e emocionalmente anônimas."
+  },
+  {
+   "t": "h",
+   "text": "A tensão central: escala versus descaracterização"
+  },
+  {
+   "t": "p",
+   "text": "A pergunta não é se você deve escalar — em algum momento, você vai precisar. A pergunta é o que escala e o que não escala."
+  },
+  {
+   "t": "table",
+   "caption": "A linha divisória",
+   "head": [
+    "Etapa",
+    "Escala?",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Ter a ideia",
+     "Nunca",
+     "É a matéria-prima que só existe em você"
+    ],
+    [
+     "Ter a opinião",
+     "Nunca",
+     "Opinião delegada é opinião de outra pessoa"
+    ],
+    [
+     "Falar / rascunhar",
+     "Nunca",
+     "O modo é conteúdo, não embalagem"
+    ],
+    [
+     "Decidir o critério",
+     "Nunca",
+     "É a sua régua, e ela é o produto"
+    ],
+    [
+     "Transcrever",
+     "Sim",
+     "Operação mecânica"
+    ],
+    [
+     "Estruturar e cortar",
+     "Sim",
+     "Habilidade técnica, contratável"
+    ],
+    [
+     "Diagramar / editar",
+     "Sim",
+     "Puro acabamento"
+    ],
+    [
+     "Distribuir e agendar",
+     "Sim",
+     "Logística"
+    ],
+    [
+     "Responder dúvida técnica",
+     "Parcial",
+     "Volta para você; o resto, não"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A regra dos 4 nuncas",
+   "texto": "Ideia, opinião, fala e critério. Enquanto essas quatro etapas continuarem sendo suas, você pode escalar tudo o resto sem risco. No dia em que uma delas for delegada, o processo de apagamento começou — e ele é silencioso."
+  },
+  {
+   "t": "h",
+   "text": "Os três sinais de descaracterização em curso"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "O volume sobe e o comentário muda de tom",
+     "texto": "As pessoas param de responder à ideia e passam a responder ao formato. 'Que post lindo' substitui 'nunca tinha pensado nisso assim'."
+    },
+    {
+     "titulo": "Você começa a aprovar sem ler direito",
+     "texto": "O sinal mais confiável. Quando a revisão vira formalidade, a voz já saiu."
+    },
+    {
+     "titulo": "Você não lembra o que publicou esta semana",
+     "texto": "Se você não lembra, é porque não pensou aquilo — apenas autorizou."
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "text": "A arquitetura que permite escalar com segurança"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "Escala preservando a identidade",
+    "nos": [
+     {
+      "rotulo": "VOCÊ: captura no seu modo",
+      "nota": "Áudio bruto, 3 min. Inegociável."
+     },
+     {
+      "rotulo": "EQUIPE: transcreve e estrutura",
+      "nota": "Sem trocar palavras. Corta, não reescreve."
+     },
+     {
+      "rotulo": "EQUIPE: formata e agenda",
+      "nota": "Design, legenda, distribuição."
+     },
+     {
+      "rotulo": "VOCÊ: revisa contra o manual de voz",
+      "nota": "Uma pergunta: 'eu falaria assim?' Cap. 11."
+     },
+     {
+      "rotulo": "VOCÊ: escreve a última frase",
+      "nota": "O fechamento é onde a opinião mora. Sempre seu."
+     }
+    ],
+    "ciclico": true
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare que o seu tempo nessa arquitetura é pequeno — talvez quinze minutos por peça. Mas é o tempo que está nos lugares certos: no começo, definindo a substância, e no fim, garantindo a voz."
+  },
+  {
+   "t": "h",
+   "text": "O paradoxo do crescimento"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "O que acontece com a diferenciação conforme o volume cresce",
+    "unidade": "diferenciação percebida",
+    "labels": [
+     "4/mês",
+     "8/mês",
+     "16/mês",
+     "30/mês",
+     "60/mês"
+    ],
+    "series": [
+     {
+      "nome": "Com os 4 nuncas preservados",
+      "pontos": [
+       70,
+       78,
+       84,
+       86,
+       85
+      ],
+      "destaque": true
+     },
+     {
+      "nome": "Com a voz delegada",
+      "pontos": [
+       68,
+       60,
+       44,
+       28,
+       18
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O que o gráfico mostra",
+   "texto": "Volume não destrói singularidade. Delegação de voz destrói. As duas coisas costumam acontecer juntas, e por isso quase todo mundo culpa a escala pelo que a terceirização causou."
+  }
+ ],
+ "insights": [
+  "Os 4 nuncas: ideia, opinião, fala e critério. Preservadas essas quatro etapas, tudo o resto escala sem risco.",
+  "O sinal mais confiável de descaracterização é você começar a aprovar sem ler direito. Quando a revisão vira formalidade, a voz já saiu.",
+  "Volume não destrói singularidade; delegação de voz destrói. Como acontecem juntas, quase todo mundo culpa a escala."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Identifiquei minhas etapas mecânicas e identitárias",
+   "ajuda": "Sei o que posso e o que não posso delegar.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Desenhei minha arquitetura de escala",
+   "ajuda": "Com os 4 nuncas preservados.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Defini meu ponto de revisão",
+   "ajuda": "Sei em que momento eu checo contra o manual de voz.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Verifiquei os três sinais de descaracterização",
+   "ajuda": "Nenhum se aplica hoje, ou sei qual se aplica.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Quais são os '4 nuncas' que jamais devem ser delegados?",
+   "opcoes": [
+    "Ideia, edição, distribuição e resposta a comentários.",
+    "Ideia, opinião, fala e critério.",
+    "Roteiro, gravação, edição e legenda.",
+    "Pauta, design, agendamento e métricas."
+   ],
+   "correta": 1,
+   "explicacao": "São as quatro etapas identitárias. Preservadas elas, todo o resto — transcrição, estrutura, design, logística — pode escalar sem risco."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é o sinal MAIS confiável de que a descaracterização começou?",
+   "opcoes": [
+    "A queda no alcance dos posts.",
+    "Você começar a aprovar conteúdo sem ler direito.",
+    "O aumento no custo da equipe.",
+    "A mudança na identidade visual."
+   ],
+   "correta": 1,
+   "explicacao": "Quando a revisão vira formalidade, a voz já saiu — e o sintoma seguinte é não lembrar do que se publicou na semana."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que o capítulo conclui sobre a relação entre volume e singularidade?",
+   "opcoes": [
+    "Volume necessariamente reduz a singularidade.",
+    "Volume não destrói singularidade; delegação de voz destrói — e as duas costumam acontecer juntas.",
+    "Singularidade só é possível com baixo volume.",
+    "Volume aumenta a singularidade automaticamente."
+   ],
+   "correta": 1,
+   "explicacao": "Como escala e terceirização caminham juntas, a escala leva a culpa por um efeito que a delegação de voz produziu."
+  }
+ ],
+ "tarefa": {
+  "titulo": "A sua arquitetura de escala",
+  "objetivo": "Desenhar como você vai crescer sem apagar aquilo que faz alguém te escolher.",
+  "tempoMin": 30,
+  "entrega": "Uma arquitetura de produção com os 4 nuncas explicitamente protegidos.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "hoje",
+    "rotulo": "Como o meu conteúdo é produzido hoje",
+    "placeholder": "Todas as etapas, e quem faz cada uma. Se é tudo você, escreva assim mesmo.",
+    "linhas": 4
+   },
+   {
+    "id": "nuncas",
+    "rotulo": "Os meus 4 nuncas, escritos por extenso",
+    "placeholder": "Ideia: eu. Opinião: eu. Fala/rascunho: eu. Critério: eu. — E o que eu faria se alguém propusesse mudar isso.",
+    "linhas": 4
+   },
+   {
+    "id": "delegavel",
+    "rotulo": "O que eu delegaria primeiro, se pudesse",
+    "placeholder": "Qual etapa mecânica consome mais do seu tempo hoje?",
+    "linhas": 2
+   },
+   {
+    "id": "revisao",
+    "rotulo": "Meu ponto e método de revisão",
+    "placeholder": "Quando eu reviso e contra o quê? (as 5 regras do manual de voz, cap. 11)",
+    "linhas": 3
+   },
+   {
+    "id": "sinais",
+    "rotulo": "Os três sinais — algum se aplica a mim hoje?",
+    "placeholder": "Comentários mudaram de tom? Aprovo sem ler? Não lembro do que publiquei?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Os 4 nuncas estão escritos por extenso, com o seu nome em cada um.",
+   "O ponto de revisão tem um critério objetivo, não 'eu dou uma olhada'.",
+   "A etapa que você delegaria é mecânica, não identitária."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para crescer sem se apagar",
+  "regras": [
+   {
+    "regra": "A última frase é sempre sua",
+    "porque": "O fechamento é onde a opinião mora. Delegar o fechamento é delegar a posição."
+   },
+   {
+    "regra": "Revise contra o manual, não contra a gramática",
+    "porque": "Revisão gramatical aprova conteúdo genérico. Revisão de voz não."
+   },
+   {
+    "regra": "Mantenha uma peça por semana 100% sua",
+    "porque": "É o seu controle de qualidade: se a peça inteiramente sua soa muito diferente das outras, a delegação foi longe demais."
+   }
+  ],
+  "facaAssim": [
+   "Entregar áudio bruto como insumo e receber estrutura de volta.",
+   "Marcar no texto devolvido as frases que você não diria.",
+   "Manter visível o manual de voz para quem produz com você."
+  ],
+  "eviteAssim": [
+   "Aprovar em lote, sem leitura completa.",
+   "Deixar terceiros escolherem a opinião da peça.",
+   "Padronizar a abertura a ponto de ela deixar de soar como você."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Insumo",
+    "texto": "Áudio bruto seu, no seu modo. Inegociável."
+   },
+   {
+    "rotulo": "Processo",
+    "texto": "Transcrição, corte, estrutura, design. Delegável."
+   },
+   {
+    "rotulo": "Revisão",
+    "texto": "Contra as 5 regras do manual de voz."
+   },
+   {
+    "rotulo": "Assinatura",
+    "texto": "A última frase, escrita por você, sempre."
+   }
+  ]
+ },
+ "roteiro": "Uma coisa que eu não delego, e não vou delegar nunca: {o que só você decide}\n\nPosso ter ajuda para {as partes mecânicas do seu trabalho}. Mas a decisão de {a decisão central} é minha, caso a caso.\n\nPorque é ali que mora a diferença entre um serviço e o meu serviço.\n\nE se um dia você perceber que isso mudou, pode me cobrar.",
+ "estrutura": [
+  {
+   "rotulo": "O que você não delega",
+   "texto": "A decisão que continua sendo sua, caso a caso."
+  },
+  {
+   "rotulo": "Por que não",
+   "texto": "O que se perderia se essa parte fosse padronizada."
+  },
+  {
+   "rotulo": "O que isso custa",
+   "texto": "Em tempo, em escala, em dinheiro."
+  },
+  {
+   "rotulo": "O que o cliente ganha",
+   "texto": "A diferença que isso faz no resultado dele."
+  }
+ ]
+}

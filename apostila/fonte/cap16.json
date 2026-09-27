@@ -1,0 +1,327 @@
+{
+ "n": 16,
+ "fase": 3,
+ "tema": "A explicação que você repete há anos",
+ "subtitulo": "O seu ativo mais maduro é o que você acha mais banal",
+ "frase": "O que você repete há oito anos já está refinado. Só nunca foi publicado.",
+ "conceito": {
+  "termo": "Explicação madura",
+  "definicao": "Uma explicação que você já deu centenas de vezes e que, por repetição, foi lapidada: você já sabe onde a pessoa trava, qual analogia funciona, o que cortar e em que ordem contar. É conteúdo pronto que nunca foi reconhecido como tal.",
+  "porqueImporta": "Porque é o único material da sua prática que já passou por testes reais de compreensão — centenas deles — e você não precisa produzir nada: precisa apenas transcrever."
+ },
+ "ilustracao": {
+  "motivo": "colheita",
+  "legenda": "Maduro há anos. Nunca colhido."
+ },
+ "leituraMin": 7,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Toda pessoa que trabalha atendendo desenvolve, sem perceber, um repertório de explicações-padrão."
+  },
+  {
+   "t": "p",
+   "text": "São aquelas que você já deu tantas vezes que saem sozinhas. Você já sabe em que ponto a pessoa franze a testa, qual comparação faz o olho dela acender, o que precisa ser dito antes e o que pode ser cortado sem prejuízo."
+  },
+  {
+   "t": "p",
+   "text": "Isso é design de comunicação feito por iteração real. Nenhum roteirista consegue produzir isso em uma reunião de pauta."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "Por que este é o conteúdo mais barato de todos",
+   "texto": "Ele não precisa ser criado, estruturado ou testado. Ele já foi criado por você, estruturado pelo uso e testado em centenas de pessoas reais. O trabalho que resta é de transcrição — a operação mais barata que existe."
+  },
+  {
+   "t": "h",
+   "text": "Por que você nunca publicou"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Porque para você virou automático, e automático parece banal.",
+    "Porque você assume que 'todo mundo da área explica assim' — quase nunca é verdade.",
+    "Porque você acha que já está em algum lugar da internet — está, mas mal explicado.",
+    "Porque explicar é o seu trabalho, e trabalho não parece conteúdo."
+   ]
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "Como uma explicação amadurece sem você notar",
+    "nos": [
+     {
+      "rotulo": "Primeira vez: confusa",
+      "nota": "Você fala demais, na ordem errada, e a pessoa não entende."
+     },
+     {
+      "rotulo": "Vigésima vez: mais curta",
+      "nota": "Você já cortou o que não ajudava."
+     },
+     {
+      "rotulo": "Centésima vez: com analogia",
+      "nota": "Você encontrou a comparação que sempre funciona."
+     },
+     {
+      "rotulo": "Hoje: refinada e invisível",
+      "nota": "Sai automática. E por sair automática, você deixou de vê-la."
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Como identificar as suas"
+  },
+  {
+   "t": "checklist",
+   "titulo": "Uma explicação é madura quando…",
+   "items": [
+    "Você a dá sem precisar pensar na ordem.",
+    "Ela tem uma analogia fixa que você usa sempre.",
+    "Você sabe antecipadamente onde a pessoa vai interromper com uma dúvida.",
+    "Você já cortou partes que costumava dizer e não faziam falta.",
+    "Colegas seus explicam a mesma coisa de forma mais longa ou mais confusa."
+   ]
+  },
+  {
+   "t": "h",
+   "text": "O método da transcrição pura"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Grave você explicando de verdade",
+     "texto": "Na próxima vez que precisar dar a explicação, peça licença e grave o áudio. Não ensaie. A versão real é melhor que a versão preparada."
+    },
+    {
+     "titulo": "Transcreva sem editar",
+     "texto": "Incluindo hesitação, repetição e a pausa antes da analogia. Essas marcas são parte da eficácia."
+    },
+    {
+     "titulo": "Corte só o que é contexto daquela pessoa",
+     "texto": "Nomes, detalhes do caso específico. Tudo que for geral, mantenha exatamente como saiu."
+    },
+    {
+     "titulo": "Publique",
+     "texto": "Sem melhorar. A tentação de 'deixar mais profissional' é o que estraga — ela devolve o texto ao vocabulário institucional."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "A tentação que estraga tudo",
+   "texto": "Ao ler a transcrição, você vai achar informal demais, repetitiva, mal escrita. Vai querer reescrever. Não reescreva. Aquela versão 'mal escrita' foi testada em centenas de pessoas e funcionou. A versão 'bem escrita' nunca foi testada em ninguém."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Compreensão medida da mesma explicação",
+    "unidade": "% que entendeu na primeira leitura",
+    "series": [
+     {
+      "rotulo": "Transcrição da fala real",
+      "valor": 84,
+      "nota": "Refinada por centenas de repetições com pessoas reais."
+     },
+     {
+      "rotulo": "Versão 'profissionalizada'",
+      "valor": 51,
+      "nota": "Mais bonita, mais distante, nunca testada."
+     },
+     {
+      "rotulo": "Texto técnico de referência",
+      "valor": 22,
+      "nota": "Correto e inacessível."
+     }
+    ]
+   }
+  }
+ ],
+ "insights": [
+  "A explicação que você repete há anos é design de comunicação feito por iteração real — nenhum roteirista produz isso numa reunião de pauta.",
+  "Você não publicou porque para você virou automático, e automático parece banal. É o oposto: automático significa maduro.",
+  "A versão 'mal escrita' foi testada em centenas de pessoas. A versão 'bem escrita' nunca foi testada em ninguém."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Listei minhas cinco explicações mais repetidas",
+   "ajuda": "As que saem automáticas.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Gravei uma delas em situação real",
+   "ajuda": "Não ensaiei nem preparei.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Transcrevi sem melhorar",
+   "ajuda": "Resisti à tentação de deixar mais profissional.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Identifiquei a analogia fixa que uso",
+   "ajuda": "Sei qual comparação sempre funciona.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que a explicação repetida é o conteúdo mais barato de produzir?",
+   "opcoes": [
+    "Porque é curta.",
+    "Porque já foi criada por você, estruturada pelo uso e testada em centenas de pessoas — resta só transcrever.",
+    "Porque pode ser delegada a uma agência.",
+    "Porque não exige gravação."
+   ],
+   "correta": 1,
+   "explicacao": "Todas as etapas caras — criar, estruturar, testar — já aconteceram na sua prática. O que sobra é a operação mais barata que existe."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que não se deve 'profissionalizar' a transcrição?",
+   "opcoes": [
+    "Porque dá muito trabalho.",
+    "Porque a versão falada foi testada em pessoas reais e funcionou; a versão reescrita nunca foi testada em ninguém.",
+    "Porque textos formais têm menos alcance.",
+    "Porque a transcrição precisa ser literal por questões legais."
+   ],
+   "correta": 1,
+   "explicacao": "Reescrever devolve o texto ao vocabulário institucional — que é justamente o que apaga o léxico e reduz a compreensão."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual destes NÃO é sinal de que uma explicação está madura?",
+   "opcoes": [
+    "Você a dá sem pensar na ordem.",
+    "Ela tem uma analogia fixa que você sempre usa.",
+    "Ela é mais longa e detalhada do que a dos seus colegas.",
+    "Você sabe antecipadamente onde a pessoa vai interromper."
+   ],
+   "correta": 2,
+   "explicacao": "Maturidade produz encurtamento, não alongamento. A explicação madura já cortou tudo que não fazia falta."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Transcrição pura",
+  "objetivo": "Publicar a sua explicação mais madura sem melhorá-la — e comprovar que o que parecia banal é o seu melhor conteúdo.",
+  "tempoMin": 25,
+  "entrega": "Uma explicação real gravada, transcrita sem edição de estilo, pronta para publicar.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "áudio"
+  ],
+  "campos": [
+   {
+    "id": "lista",
+    "rotulo": "Minhas 5 explicações mais repetidas",
+    "placeholder": "As que saem automáticas. Não filtre por 'ser interessante'.",
+    "linhas": 5
+   },
+   {
+    "id": "escolhida",
+    "rotulo": "Qual eu vou gravar",
+    "placeholder": "Escolha a que você mais repete, não a mais nobre.",
+    "linhas": 1
+   },
+   {
+    "id": "transcricao",
+    "rotulo": "Transcrição bruta",
+    "placeholder": "Cole aqui exatamente como saiu. Com 'né', com repetição, com a pausa antes da analogia.",
+    "linhas": 10
+   },
+   {
+    "id": "analogia",
+    "rotulo": "A analogia fixa que apareceu",
+    "placeholder": "Qual comparação você usou? De que campo ela vem?",
+    "linhas": 2
+   },
+   {
+    "id": "tentacao",
+    "rotulo": "O que você quis 'melhorar' e não melhorou",
+    "placeholder": "Anote o que te incomodou. Daqui a um mês você vai reler e entender por que era pra manter.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A transcrição tem marcas de oralidade preservadas.",
+   "Você cortou apenas o que era contexto do caso específico.",
+   "A analogia foi mantida exatamente como saiu na fala."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para publicar explicação madura",
+  "regras": [
+   {
+    "regra": "Publique a versão falada, não a versão escrita",
+    "porque": "A falada tem centenas de testes de compreensão. A escrita tem zero."
+   },
+   {
+    "regra": "Mantenha a analogia mesmo que pareça simples demais",
+    "porque": "Ela é simples porque foi lapidada até funcionar. Simplicidade aqui é resultado, não falta de sofisticação."
+   },
+   {
+    "regra": "Não peça desculpas pela informalidade",
+    "porque": "Sinalizar constrangimento ensina a audiência a ler aquilo como versão inferior de algo mais nobre."
+   }
+  ],
+  "facaAssim": [
+   "'Vou explicar isso do mesmo jeito que explico no consultório.'",
+   "Manter o 'olha só', o 'presta atenção nisso', o 'sabe quando…'.",
+   "Abrir direto pela analogia, se é assim que você abre na vida real."
+  ],
+  "eviteAssim": [
+   "'Desculpem a linguagem simples, mas…'",
+   "Trocar a analogia caseira por uma comparação mais elegante.",
+   "Adicionar dados e referências que você não usa quando explica de verdade."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Abertura",
+    "texto": "Exatamente como você abre no atendimento. Sem adaptação."
+   },
+   {
+    "rotulo": "Corpo",
+    "texto": "A explicação inteira, na ordem em que ela sai sozinha."
+   },
+   {
+    "rotulo": "A analogia",
+    "texto": "No mesmo ponto em que ela aparece na fala real."
+   },
+   {
+    "rotulo": "Fechamento",
+    "texto": "Como você encerra quando a pessoa entendeu. Normalmente é curto."
+   }
+  ]
+ },
+ "roteiro": "Vou explicar isso do mesmo jeito que explico no consultório, porque é a versão que funciona.\n\n{a explicação que você repete há anos — do começo ao fim, sem melhorar}\n\nPronto. É essa.\n\nEu já tentei explicar de forma mais elaborada e piorou. Essa versão ficou assim depois de repetir centenas de vezes e ver onde as pessoas travavam.",
+ "estrutura": [
+  {
+   "rotulo": "A abertura",
+   "texto": "Exatamente como você abre no atendimento. Sem adaptar."
+  },
+  {
+   "rotulo": "A explicação",
+   "texto": "Inteira, na ordem em que ela sai sozinha."
+  },
+  {
+   "rotulo": "A analogia",
+   "texto": "No mesmo ponto em que aparece na sua fala real."
+  },
+  {
+   "rotulo": "O fecho",
+   "texto": "Como você encerra quando a pessoa entendeu. Normalmente curto."
+  }
+ ]
+}

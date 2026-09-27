@@ -1,0 +1,111 @@
+# ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
+# atualizado: 2026-09-27 10:59
+fases_do_projeto:
+  F0: concluida
+  F1: concluida
+  F2: em_andamento
+capitulos:
+  1:
+    status: planejado
+    iteracoes: []
+  2:
+    status: planejado
+    iteracoes: []
+  3:
+    status: planejado
+    iteracoes: []
+  4:
+    status: planejado
+    iteracoes: []
+  5:
+    status: planejado
+    iteracoes: []
+  6:
+    status: planejado
+    iteracoes: []
+  7:
+    status: planejado
+    iteracoes: []
+  8:
+    status: planejado
+    iteracoes: []
+  9:
+    status: planejado
+    iteracoes: []
+  10:
+    status: planejado
+    iteracoes: []
+  11:
+    status: planejado
+    iteracoes: []
+  12:
+    status: planejado
+    iteracoes: []
+  13:
+    status: planejado
+    iteracoes: []
+  14:
+    status: planejado
+    iteracoes: []
+  15:
+    status: planejado
+    iteracoes: []
+  16:
+    status: planejado
+    iteracoes: []
+  17:
+    status: planejado
+    iteracoes: []
+  18:
+    status: planejado
+    iteracoes: []
+  19:
+    status: planejado
+    iteracoes: []
+  20:
+    status: planejado
+    iteracoes: []
+  21:
+    status: planejado
+    iteracoes: []
+  22:
+    status: planejado
+    iteracoes: []
+  23:
+    status: planejado
+    iteracoes: []
+  24:
+    status: planejado
+    iteracoes: []
+  25:
+    status: planejado
+    iteracoes: []
+  26:
+    status: planejado
+    iteracoes: []
+  27:
+    status: planejado
+    iteracoes: []
+  28:
+    status: planejado
+    iteracoes: []
+  29:
+    status: planejado
+    iteracoes: []
+  30:
+    status: planejado
+    iteracoes: []
+figurantes:
+  cardiologista:
+  - 1
+  engenheiro estrutural:
+  - 1
+  contadora:
+  - 1
+  advogada de família:
+  - 1
+decisoes:
+- '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
+  gate >= 9.0 sem critério < 8.0'
+pendencias:
+- Nome do autor para capa e folha de rosto (projeto.autor)

@@ -1,0 +1,313 @@
+{
+ "n": 14,
+ "fase": 3,
+ "tema": "A pergunta recorrente",
+ "subtitulo": "O ativo de conteúdo mais subestimado que existe",
+ "frase": "Se três pessoas te perguntaram a mesma coisa, trezentas estão com a mesma dúvida em silêncio.",
+ "conceito": {
+  "termo": "Pergunta recorrente",
+  "definicao": "Uma dúvida que aparece repetidamente na sua prática e que você já respondeu tantas vezes que deixou de perceber como conteúdo. É o insumo de maior retorno e menor custo do seu estoque.",
+  "porqueImporta": "Porque ela chega com a demanda validada: alguém já quis saber. Você não precisa adivinhar o que interessa — o mercado já te disse, na sua frente, várias vezes."
+ },
+ "ilustracao": {
+  "motivo": "lente",
+  "legenda": "O que se repete na sua frente é o dado mais confiável que você tem."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Toda semana alguém te pergunta a mesma coisa. E toda semana você responde, com paciência, do zero."
+  },
+  {
+   "t": "p",
+   "text": "Se você somar o tempo que gastou respondendo a mesma pergunta nos últimos cinco anos, provavelmente daria semanas de trabalho. Semanas gastas em uma explicação que poderia estar publicada, sendo lida por mil pessoas enquanto você almoça."
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "Por que ela é o melhor insumo que existe",
+   "texto": "Ela é a única pauta que chega com a demanda pré-validada. Você não está apostando no que interessa: alguém sentou na sua frente e perguntou. Três vezes. Esse é o dado mais limpo de mercado que você vai conseguir."
+  },
+  {
+   "t": "h",
+   "text": "Por que você não percebe o valor dela"
+  },
+  {
+   "t": "p",
+   "text": "Porque para você a resposta é trivial. Você a formulou há anos, já a refinou, já sabe onde a pessoa vai travar. A facilidade de responder é lida por você como falta de valor."
+  },
+  {
+   "t": "p",
+   "text": "É exatamente o contrário. A facilidade é o sinal de que a resposta está madura. Você tem a versão refinada de uma explicação que a maioria dos seus colegas ainda dá de forma confusa."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "gap",
+    "titulo": "Como você e o mercado avaliam a mesma resposta",
+    "a": {
+     "rotulo": "Valor que VOCÊ atribui",
+     "valor": 20,
+     "nota": "'Isso é básico. Todo mundo sabe.'"
+    },
+    "b": {
+     "rotulo": "Valor para quem NUNCA ouviu",
+     "valor": 88,
+     "nota": "'Ninguém tinha me explicado assim.'"
+    },
+    "legenda": "Esse descompasso é o que faz o conteúdo mais valioso do especialista ficar sem ser publicado."
+   }
+  },
+  {
+   "t": "h",
+   "text": "Os três níveis de uma pergunta recorrente"
+  },
+  {
+   "t": "p",
+   "text": "Uma mesma pergunta rende três conteúdos diferentes, dependendo do nível em que você a responde."
+  },
+  {
+   "t": "table",
+   "caption": "Três respostas para a mesma pergunta",
+   "head": [
+    "Nível",
+    "O que responde",
+    "Efeito"
+   ],
+   "rows": [
+    [
+     "Literal",
+     "A pergunta como foi feita",
+     "Resolve a dúvida. Útil, esquecível."
+    ],
+    [
+     "Estrutural",
+     "Por que essa dúvida existe",
+     "Reposiciona o problema. A pessoa entende melhor do que perguntou."
+    ],
+    [
+     "Crítico",
+     "Por que a pergunta está errada",
+     "Muda o critério. É aqui que a autoridade aparece."
+    ]
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "A mesma pergunta nos três níveis",
+   "ruim": "Pergunta: 'Quanto tempo dura o tratamento?' — Resposta literal: 'Em média de 8 a 12 meses.'",
+   "bom": "Nível crítico: 'Essa é a pergunta que todo mundo faz, e ela é a errada. O tempo depende quase inteiramente de uma variável que ninguém te contou: a frequência com que você cumpre a parte que é sua. Eu já vi o mesmo caso durar 8 meses e durar 3 anos. A pergunta certa é: o que exatamente vai depender de mim?'",
+   "porque": "O literal informa. O crítico reposiciona: a pessoa sai com um critério novo e uma percepção de que você pensa diferente. E ela vai repetir isso para outra pessoa."
+  },
+  {
+   "t": "h",
+   "text": "O estoque que você já tem"
+  },
+  {
+   "t": "p",
+   "text": "Se você listar as perguntas que ouve com frequência, provavelmente vai chegar a algo entre quinze e trinta. Multiplicado por três níveis, isso é entre quarenta e cinco e noventa peças de conteúdo — com demanda validada, sem inventar nada."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "area-acumulada",
+    "titulo": "Estoque de conteúdo gerado por perguntas recorrentes",
+    "labels": [
+     "20 perguntas",
+     "+ nível estrutural",
+     "+ nível crítico",
+     "+ variações por formato"
+    ],
+    "pontos": [
+     20,
+     20,
+     20,
+     60
+    ],
+    "nota": "120 peças de um único inventário. A dois por semana, isso é mais de um ano de publicação."
+   }
+  }
+ ],
+ "insights": [
+  "A pergunta recorrente é a única pauta que chega com a demanda pré-validada — alguém já perguntou, na sua frente, várias vezes.",
+  "A facilidade com que você responde não é sinal de pouco valor. É sinal de que a resposta está madura.",
+  "Uma pergunta rende três conteúdos: o literal informa, o estrutural reposiciona, o crítico muda o critério."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Listei 15 ou mais perguntas recorrentes",
+   "ajuda": "Com as palavras de quem perguntou.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Escolhi uma e respondi nos três níveis",
+   "ajuda": "Literal, estrutural e crítico, separadamente.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Não descartei nenhuma por parecer básica",
+   "ajuda": "As básicas são as de maior alcance.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Guardei a lista no meu banco de matéria-prima",
+   "ajuda": "O estoque está registrado, não na memória.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que a pergunta recorrente é o melhor insumo de conteúdo?",
+   "opcoes": [
+    "Porque é rápida de responder.",
+    "Porque chega com a demanda pré-validada: alguém já quis saber, repetidamente.",
+    "Porque o algoritmo prioriza formato de pergunta.",
+    "Porque não exige repertório."
+   ],
+   "correta": 1,
+   "explicacao": "É o dado de mercado mais limpo que existe. Você não aposta no que interessa — você observou o interesse acontecer na sua frente."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual nível de resposta faz a autoridade aparecer com mais força?",
+   "opcoes": [
+    "Literal — responder exatamente o que foi perguntado.",
+    "Estrutural — explicar por que a dúvida existe.",
+    "Crítico — mostrar por que a pergunta está errada e qual é a certa.",
+    "Todos têm o mesmo efeito."
+   ],
+   "correta": 2,
+   "explicacao": "O nível crítico entrega um critério novo. A pessoa sai percebendo que você pensa diferente — e costuma repetir isso para outra pessoa."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Por que o especialista subestima as próprias respostas recorrentes?",
+   "opcoes": [
+    "Porque lê a facilidade de responder como falta de valor.",
+    "Porque tem vergonha do assunto.",
+    "Porque a resposta é longa demais.",
+    "Porque não sabe se está correta."
+   ],
+   "correta": 0,
+   "explicacao": "A facilidade é o sintoma oposto: significa que a explicação está madura e refinada por repetição — exatamente o que os colegas ainda não têm."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O inventário de perguntas",
+  "objetivo": "Construir o estoque que vai abastecer os seus próximos doze meses sem depender de inspiração.",
+  "tempoMin": 35,
+  "entrega": "Quinze perguntas recorrentes listadas e uma delas respondida nos três níveis.",
+  "formatoSugerido": [
+   "texto",
+   "reels",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "lista",
+    "rotulo": "15 perguntas que você ouve com frequência",
+    "placeholder": "Uma por linha, com as palavras de quem perguntou. Não traduza para o seu jargão.",
+    "linhas": 10
+   },
+   {
+    "id": "escolhida",
+    "rotulo": "A pergunta que você vai desenvolver hoje",
+    "placeholder": "Escolha a que você mais responde, não a mais interessante.",
+    "linhas": 1
+   },
+   {
+    "id": "literal",
+    "rotulo": "Nível 1 — resposta literal",
+    "placeholder": "Responda exatamente o que foi perguntado, direto.",
+    "linhas": 3
+   },
+   {
+    "id": "estrutural",
+    "rotulo": "Nível 2 — por que essa dúvida existe",
+    "placeholder": "O que no mercado, na informação disponível ou na experiência gera essa pergunta.",
+    "linhas": 4
+   },
+   {
+    "id": "critico",
+    "rotulo": "Nível 3 — por que a pergunta está errada",
+    "placeholder": "Qual é a pergunta certa e por quê. É aqui que a sua autoridade fica visível.",
+    "linhas": 4
+   }
+  ],
+  "criteriosDeQualidade": [
+   "São 15 ou mais e nenhuma foi cortada por parecer básica.",
+   "As perguntas estão com as palavras originais, não traduzidas.",
+   "O nível crítico realmente propõe outra pergunta — não é só uma resposta mais longa."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo de pergunta",
+  "regras": [
+   {
+    "regra": "Cite a pergunta literal, entre aspas",
+    "porque": "A palavra da pessoa é o gancho que a realidade te deu pronto. Traduzir para jargão desmonta o gancho."
+   },
+   {
+    "regra": "Normalize a dúvida antes de responder",
+    "porque": "'Essa é a pergunta que mais me fazem' tira a vergonha de quem tem a dúvida e aumenta o compartilhamento."
+   },
+   {
+    "regra": "Uma pergunta, uma peça",
+    "porque": "Agrupar cinco perguntas dilui todas e queima cinco peças de estoque de uma vez."
+   }
+  ],
+  "facaAssim": [
+   "'Três pessoas me perguntaram isso essa semana, então vou responder aqui.'",
+   "'A pergunta é: [literal]. E ela é a pergunta errada — vou explicar.'",
+   "'Se você também pensa isso, não é besteira. Faz todo sentido, porque…'"
+  ],
+  "eviteAssim": [
+   "Reescrever a pergunta em linguagem técnica.",
+   "'5 dúvidas mais comuns sobre X' — queima cinco pautas e não aprofunda nenhuma.",
+   "Responder só no nível literal quando você tem o nível crítico disponível."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "A pergunta",
+    "texto": "Literal, entre aspas, na primeira linha."
+   },
+   {
+    "rotulo": "A normalização",
+    "texto": "'É a que mais me fazem' — tira a vergonha, aumenta o alcance."
+   },
+   {
+    "rotulo": "A virada",
+    "texto": "'Mas ela é a pergunta errada.' O reposicionamento."
+   },
+   {
+    "rotulo": "A pergunta certa",
+    "texto": "E o critério para respondê-la sozinho."
+   }
+  ]
+ },
+ "roteiro": "A pergunta que mais me fazem é essa: {a pergunta literal}\n\nE eu vou te dizer uma coisa: ela é a pergunta errada.\n\nNão porque seja boba — ela faz todo sentido. Mas porque a resposta depende de uma variável que ninguém te contou: {a variável}\n\nA pergunta certa é {a pergunta melhor}. E essa eu consigo responder de verdade: {a resposta}",
+ "estrutura": [
+  {
+   "rotulo": "A pergunta",
+   "texto": "Literal, entre aspas, na primeira linha."
+  },
+  {
+   "rotulo": "A normalização",
+   "texto": "Por que ela é comum e faz todo sentido."
+  },
+  {
+   "rotulo": "A virada",
+   "texto": "'Mas ela é a pergunta errada.' O reposicionamento."
+  },
+  {
+   "rotulo": "A pergunta certa",
+   "texto": "E o critério para respondê-la sozinho."
+  }
+ ]
+}

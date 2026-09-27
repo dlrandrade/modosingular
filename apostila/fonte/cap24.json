@@ -1,0 +1,348 @@
+{
+ "n": 24,
+ "fase": 4,
+ "tema": "Quando e como delegar",
+ "subtitulo": "A agência depois da voz, nunca antes",
+ "frase": "Contrate execução, nunca identidade.",
+ "conceito": {
+  "termo": "Delegação madura",
+  "definicao": "A contratação de apoio externo feita depois que o especialista já descobriu a própria linguagem, com escopo restrito às etapas mecânicas e com um manual de voz que serve de contrato de qualidade.",
+  "porqueImporta": "Porque o mesmo profissional contratado no momento errado produz conteúdo genérico, e contratado no momento certo multiplica alcance sem custo de identidade. A variável não é ele — é você."
+ },
+ "ilustracao": {
+  "motivo": "chave",
+  "legenda": "A ferramenta certa, na ordem certa. Fora de ordem, ela não abre nada."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "No capítulo 4 ficou estabelecido que o erro não é terceirizar — é a ordem. Agora você já tem o que faltava: modo, ritmo, repertório, posição, léxico, sistema e formato. A ordem está correta."
+  },
+  {
+   "t": "p",
+   "text": "Então este capítulo responde à pergunta prática: como contratar sem repetir o erro que quase todo especialista comete."
+  },
+  {
+   "t": "h",
+   "text": "Os três sinais de que chegou a hora"
+  },
+  {
+   "t": "checklist",
+   "titulo": "Você está pronto para delegar quando…",
+   "items": [
+    "Você já publicou pelo menos 30 peças no seu FMV e tem um padrão reconhecível.",
+    "Você tem um manual de voz escrito (cap. 11) que outra pessoa consegue seguir.",
+    "A etapa que mais te consome é mecânica, não criativa.",
+    "Você consegue dizer 'esta frase não é minha' e explicar por quê."
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "Se algum item falhou",
+   "texto": "Não contrate ainda. Contratar antes desses quatro não acelera nada: apenas transfere para outra pessoa a tarefa de adivinhar quem você é — e ela vai adivinhar com base na média do seu mercado."
+  },
+  {
+   "t": "h",
+   "text": "O escopo correto de um contrato"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Escopo que apaga você",
+    "tom": "neg",
+    "items": [
+     "'Criação de conteúdo para o perfil.'",
+     "'Planejamento de pautas mensais.'",
+     "'Produção de 15 posts por mês.'",
+     "'Gestão de redes sociais.'",
+     "Você aprova. Eles decidem."
+    ]
+   },
+   "direita": {
+    "titulo": "Escopo que multiplica você",
+    "tom": "pos",
+    "items": [
+     "'Transcrição e estruturação de áudios enviados pelo cliente.'",
+     "'Formatação em carrossel e reels a partir do material bruto.'",
+     "'Legendagem, design e agendamento.'",
+     "'Triagem de comentários; dúvidas técnicas encaminhadas.'",
+     "Você decide. Eles executam."
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "O que entregar no primeiro dia"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "O manual de voz",
+     "texto": "As cinco regras do capítulo 11. É o documento mais importante do contrato, mais do que o briefing."
+    },
+    {
+     "titulo": "Dez peças suas como corpus",
+     "texto": "Não como modelo estético — como amostra de voz. 'É assim que ele fala. Não invente outro jeito.'"
+    },
+    {
+     "titulo": "A lista dos 4 nuncas",
+     "texto": "Explícita, por escrito: ideia, opinião, fala e critério não são deles. Nunca."
+    },
+    {
+     "titulo": "O fluxo de insumo",
+     "texto": "Como e quando você manda áudio. Se isso não estiver definido, eles vão preencher o vazio inventando pauta."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "A cláusula que resolve 80% dos problemas",
+   "texto": "'Nenhuma peça é publicada sem um insumo bruto meu correspondente.' Isso torna estruturalmente impossível a produção genérica — porque sem áudio meu, não existe post."
+  },
+  {
+   "t": "h",
+   "text": "Como revisar sem virar gargalo"
+  },
+  {
+   "t": "p",
+   "text": "O maior risco prático da delegação não é a perda de voz. É você virar o gargalo: a equipe entrega, e o material fica dias parado esperando a sua aprovação."
+  },
+  {
+   "t": "table",
+   "caption": "Um sistema de revisão que não trava",
+   "head": [
+    "O que revisar",
+    "Quanto tempo",
+    "Critério"
+   ],
+   "rows": [
+    [
+     "A abertura",
+     "10 segundos",
+     "Eu abriria assim?"
+    ],
+    [
+     "A opinião central",
+     "20 segundos",
+     "Eu defendo isso num debate?"
+    ],
+    [
+     "A última frase",
+     "10 segundos",
+     "Escrita por mim? Se não, reescrevo agora."
+    ],
+    [
+     "Expressões estranhas",
+     "20 segundos",
+     "Alguma frase aqui não é minha?"
+    ],
+    [
+     "TOTAL",
+     "~1 minuto por peça",
+     "Se demora mais, o problema é de manual, não de revisão."
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O indicador de que o manual está bom",
+   "texto": "Se a sua revisão leva mais de dois minutos por peça de forma consistente, o problema não é a equipe — é que o manual de voz não está específico o bastante. Melhore o documento em vez de aumentar a revisão."
+  }
+ ],
+ "insights": [
+  "O mesmo profissional contratado no momento errado produz genérico, e no momento certo multiplica alcance. A variável não é ele — é você.",
+  "A cláusula que resolve 80% dos problemas: nenhuma peça é publicada sem um insumo bruto seu correspondente.",
+  "Se a revisão leva mais de dois minutos por peça, o problema é o manual de voz, não a equipe."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Verifiquei os quatro sinais de prontidão",
+   "ajuda": "Sei se estou pronto ou o que falta.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Escrevi o escopo correto de contratação",
+   "ajuda": "Só etapas mecânicas.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Preparei o pacote do primeiro dia",
+   "ajuda": "Manual, corpus, 4 nuncas, fluxo de insumo.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Defini meu sistema de revisão de 1 minuto",
+   "ajuda": "Sei o que checo e em que ordem.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual escopo de contratação preserva a sua identidade?",
+   "opcoes": [
+    "'Criação de conteúdo e planejamento de pautas.'",
+    "'Transcrição, estruturação e formatação a partir de material bruto enviado por você.'",
+    "'Gestão completa de redes sociais.'",
+    "'Produção de 15 posts por mês com aprovação do cliente.'"
+   ],
+   "correta": 1,
+   "explicacao": "O escopo correto começa sempre em material bruto seu. Escopos que começam em 'criação' ou 'pauta' transferem a decisão de conteúdo."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual cláusula torna a produção genérica estruturalmente impossível?",
+   "opcoes": [
+    "Exigir aprovação prévia de todas as peças.",
+    "'Nenhuma peça é publicada sem um insumo bruto meu correspondente.'",
+    "Definir um número mínimo de revisões.",
+    "Exigir exclusividade da agência."
+   ],
+   "correta": 1,
+   "explicacao": "Sem áudio seu não existe post. A regra remove a possibilidade de a equipe preencher lacuna com a média do mercado."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Se a sua revisão está levando cinco minutos por peça, qual é o diagnóstico?",
+   "opcoes": [
+    "A equipe é ruim e deve ser trocada.",
+    "O manual de voz não está específico o bastante — melhore o documento.",
+    "Você deveria revisar menos.",
+    "O volume está alto demais."
+   ],
+   "correta": 1,
+   "explicacao": "Revisão longa é sintoma de instrução vaga. Aumentar a revisão trata o sintoma; melhorar o manual resolve a causa."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Qual destes NÃO é sinal de prontidão para delegar?",
+   "opcoes": [
+    "Ter publicado 30 peças no seu FMV.",
+    "Ter um manual de voz escrito.",
+    "Estar sem tempo e precisando urgentemente de ajuda.",
+    "A etapa que mais consome você ser mecânica."
+   ],
+   "correta": 2,
+   "explicacao": "Urgência é o motivo mais comum e o pior de todos: contratar por falta de tempo, antes de descobrir a voz, é exatamente o erro do capítulo 4."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O pacote de delegação",
+  "objetivo": "Preparar o material que permite contratar apoio sem risco de apagamento — mesmo que você só vá contratar daqui a um ano.",
+  "tempoMin": 35,
+  "entrega": "Escopo, manual, lista de nuncas e sistema de revisão, prontos para entregar a alguém.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "prontidao",
+    "rotulo": "Os quatro sinais: onde eu estou?",
+    "placeholder": "30 peças no FMV? Manual escrito? Etapa que consome é mecânica? Consigo dizer 'não é minha'?",
+    "linhas": 4
+   },
+   {
+    "id": "escopo",
+    "rotulo": "O escopo que eu contrataria, por escrito",
+    "placeholder": "Comece sempre por 'a partir de material bruto enviado por mim…'",
+    "linhas": 4
+   },
+   {
+    "id": "nuncas",
+    "rotulo": "A cláusula dos 4 nuncas",
+    "placeholder": "Escreva como você entregaria a um contratado, por extenso.",
+    "linhas": 3
+   },
+   {
+    "id": "fluxo",
+    "rotulo": "O fluxo de insumo",
+    "placeholder": "Como e quando eu mando áudio. Quantos por semana. Por qual canal.",
+    "linhas": 3
+   },
+   {
+    "id": "revisao",
+    "rotulo": "Meu roteiro de revisão de 1 minuto",
+    "placeholder": "Abertura → opinião central → última frase → expressões estranhas.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O escopo não contém as palavras 'criação', 'pauta' ou 'planejamento de conteúdo'.",
+   "A cláusula dos nuncas está escrita como instrução a terceiro, não como anotação sua.",
+   "O fluxo de insumo tem frequência e canal definidos."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para contratar apoio",
+  "regras": [
+   {
+    "regra": "Contrate por etapa, nunca por resultado de conteúdo",
+    "porque": "Contratar '15 posts/mês' transfere a decisão de o que dizer. Contratar 'formatação de 15 insumos meus' não."
+   },
+   {
+    "regra": "Entregue corpus, não referências de outros perfis",
+    "porque": "Mandar perfis que você admira instrui a equipe a te fazer parecido com eles. Mande você mesmo."
+   },
+   {
+    "regra": "Comece pequeno e por uma etapa só",
+    "porque": "Delegar tudo de uma vez impede identificar onde a voz se perde quando ela se perde."
+   }
+  ],
+  "facaAssim": [
+   "'Vou te mandar 3 áudios por semana. Sua parte começa na transcrição.'",
+   "'Este é o manual de voz. Se algo não couber nele, me pergunte antes.'",
+   "'A última frase de toda peça eu escrevo.'"
+  ],
+  "eviteAssim": [
+   "'Faz do jeito que achar melhor, você é o especialista em redes.'",
+   "Mandar referência de outro perfil como modelo a imitar.",
+   "Contratar por urgência antes de ter os quatro sinais."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Documento 1",
+    "texto": "Manual de voz — as 5 regras do capítulo 11."
+   },
+   {
+    "rotulo": "Documento 2",
+    "texto": "Corpus — 10 peças suas como amostra de voz."
+   },
+   {
+    "rotulo": "Documento 3",
+    "texto": "Os 4 nuncas, como cláusula explícita."
+   },
+   {
+    "rotulo": "Documento 4",
+    "texto": "Fluxo de insumo: quantos áudios, quando, por onde."
+   }
+  ]
+ },
+ "roteiro": "Uma pergunta que eu recebo bastante: como escolher um profissional para {o serviço da sua área}.\n\nNão vou te dizer para escolher a mim. Vou te dar a régua que eu usaria se fosse contratar alguém do meu próprio campo.\n\nPrimeiro: {critério 1}. Segundo: {critério 2}. Terceiro, e esse quase ninguém checa: {critério 3}\n\nSe a pessoa passar nos três, provavelmente você está em boas mãos — comigo ou com qualquer outro.",
+ "estrutura": [
+  {
+   "rotulo": "O primeiro critério",
+   "texto": "O que checar ao escolher um profissional da sua área."
+  },
+  {
+   "rotulo": "O segundo",
+   "texto": "Outro critério verificável por quem é leigo."
+  },
+  {
+   "rotulo": "O terceiro",
+   "texto": "O que quase ninguém checa e deveria."
+  },
+  {
+   "rotulo": "O convite honesto",
+   "texto": "'Se passar nos três, você está bem servido — comigo ou não.'"
+  }
+ ]
+}
