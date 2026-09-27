@@ -329,3 +329,4 @@ table.grade td { padding: 1.6mm 1mm; border-bottom: .4pt solid var(--line); }
 table.grade td:first-child { font-weight: 400; }
 table.grade td.cxg { text-align: center; width: 22mm; }
 table.grade td.cxg span { display: inline-block; width: 3.6mm; height: 3.6mm; border: .7pt solid var(--ink-2); }
+table.grade td.cxg.nota span { width: 14mm; height: 7mm; }

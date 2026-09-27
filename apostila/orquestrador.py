@@ -360,7 +360,8 @@ def b_oficina(d, c):
         dica = f'<p class="dica">{esc(f["exemplo"])}</p>' if f.get("exemplo") else ""
         if f.get("grade"):
             g = f["grade"]
-            corpo_g = "".join(f'<tr><td>{esc(l)}</td>' + '<td class="cxg"><span></span></td>' * len(g["colunas"]) + '</tr>'
+            cel = '<td class="cxg nota"><span></span></td>' if g.get("tipo") == "nota" else '<td class="cxg"><span></span></td>'
+            corpo_g = "".join(f'<tr><td>{esc(l)}</td>' + cel * len(g["colunas"]) + '</tr>'
                               for l in g["linhas"])
             espaco = (f'<table class="grade"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
                       + f'</tr>{corpo_g}</table>')

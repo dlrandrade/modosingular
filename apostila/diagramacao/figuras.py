@@ -401,7 +401,11 @@ def linha(d, area=False):
         out.append(f'<line x1="{L}" y1="{yy:.1f}" x2="{R}" y2="{yy:.1f}" stroke="{SOFT}" stroke-width="1"/>')
     out.append(f'<line x1="{L}" y1="{B}" x2="{R}" y2="{B}" stroke="{INK3}" stroke-width="1"/>')
     n = len(labels)
-    xs = [L + (R - L) * i / (n - 1) for i in range(n)]
+    if d.get("x"):  # eixo proporcional aos valores (ex.: dias 1, 5, 10, 23…)
+        x0, x1 = d["x"][0], d["x"][-1]
+        xs = [L + (R - L) * (v - x0) / (x1 - x0) for v in d["x"]]
+    else:
+        xs = [L + (R - L) * i / (n - 1) for i in range(n)]
     for i, (x, lb) in enumerate(zip(xs, labels)):
         anc = "start" if i == 0 else ("end" if i == n - 1 and area else "middle")
         out.append(texto(x - (4 if anc == "start" else 0), B + 16, lb, 9, INK2, 400, anc)[0])
@@ -420,14 +424,20 @@ def linha(d, area=False):
             out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{2.6 if dest else 2}" fill="{cor}"/>')
         fins.append([pts[-1][1], s["nome"], dest])
     fins.sort(key=lambda f: f[0])
-    for i in range(1, len(fins)):
-        if fins[i][0] - fins[i - 1][0] < 26:
-            fins[i][0] = fins[i - 1][0] + 26
+    rot = [texto(R + 10, 0, nome, 9.5, largura=W - R - 12)[1] if nome else 0 for _, nome, _ in fins]
+    for i in range(1, len(fins)):  # empilha rótulos pela altura real (1 ou 2 linhas)
+        minimo = fins[i - 1][0] + rot[i - 1] + 3
+        if fins[i][0] < minimo:
+            fins[i][0] = minimo
     for y, nome, dest in fins:
         if nome:
             out.append(texto(R + 10, y + 3, nome, 9.5, INK if dest else INK2, 600 if dest else 400, largura=W - R - 12)[0])
     for m in d.get("marcas", []):
-        x = xs[labels.index(m["em"])]
+        if isinstance(m["em"], (int, float)) and d.get("x"):
+            x0, x1 = d["x"][0], d["x"][-1]
+            x = L + (R - L) * (m["em"] - x0) / (x1 - x0)
+        else:
+            x = xs[labels.index(m["em"])]
         out.append(f'<line x1="{x:.1f}" y1="{T}" x2="{x:.1f}" y2="{B}" stroke="{ACC}" stroke-dasharray="3 3"/>')
         out.append(texto(x + 4, T + 10, m["rotulo"], 9, ACC_D, 600, largura=110)[0])
     h = B + 26
