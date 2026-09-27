@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 20:36
+# atualizado: 2026-09-27 20:41
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -135,7 +135,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.26
+    - iteracao: 2
+      data: 2026-09-27 20:38
+      revisao: apostila/revisoes/cap04-r2.yaml
+      media: 8.73
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.73
   5:
     status: reprovado
     iteracoes:
@@ -151,7 +160,16 @@ capitulos:
       bloqueadores: 3
       lint_erros: 0
       veredito: reprovado
-    nota: 8.3
+    - iteracao: 2
+      data: 2026-09-27 20:37
+      revisao: apostila/revisoes/cap05-r2.yaml
+      media: 8.71
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.71
   6:
     status: rascunho
     iteracoes: []
@@ -319,5 +337,7 @@ decisoes:
 - '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois da aprovação (cena da cardiologista
   virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência
   da Fase I.'
+- '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável (span nowrap/inline-block/word
+  joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)

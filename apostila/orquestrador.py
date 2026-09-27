@@ -441,12 +441,16 @@ def sem_hifen(h: str) -> str:
             t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
             t = re.sub(r"(“(?:\S+\s){0,15}\S+”)", r'<span class="nh">\1</span>', t)
             # compostos: WORD JOINER depois do hífen impede a quebra sem criar caixa inline
-            partes[i] = re.sub(r"(?<=\w)-(?=\w)", "-\u2060", t)
+            # compostos ficam sem tratamento: qualquer caixa inquebrável faz o WeasyPrint
+            # comer o espaço anterior no fim de linha justificada ("doex-motorista")
+            partes[i] = t
     return "".join(partes)
 
 
 def md_prosa(s: str, c: Ctx) -> str:
     h = sem_hifen(md(s))
+    # a última palavra do parágrafo não se hifeniza: evita linha final com meia palavra
+    h = re.sub(r"(\s)([^\s<>]{2,})</p>", r'\1<span class="nh">\2</span></p>', h)
 
     def legenda(m):  # título e tabela num bloco só: o rótulo nunca fica órfão no pé da página
         c.tab += 1
@@ -457,8 +461,13 @@ def md_prosa(s: str, c: Ctx) -> str:
 
 def render_cap(n: int) -> tuple[str, dict]:
     fm, corpo = ler_cap(n)
-    corpo = re.sub(r"^(\s*)((?:[^\s<>]+\s){2}[^\s<>]+?)(?=[\s,.;:])",
-                   lambda m: f'{m.group(1)}<span class="abre">{m.group(2)}</span>', corpo, count=1)
+    # versalete de abertura: a primeira oração se couber em até seis palavras; senão, três palavras
+    m_ = re.match(r"^(\s*)([^,.;:\n<>]+?)(?=[,.;:])", corpo)
+    if m_ and len(m_.group(2).split()) <= 6:
+        corpo = f'{m_.group(1)}<span class="abre">{m_.group(2)}</span>' + corpo[m_.end():]
+    else:
+        corpo = re.sub(r"^(\s*)((?:[^\s<>]+\s){2}[^\s<>]+?)(?=[\s,.;:])",
+                       lambda m: f'{m.group(1)}<span class="abre">{m.group(2)}</span>', corpo, count=1)
     c = Ctx(n)
     fase = orq()["livro"]["fases"][fm["fase"]]
     texto_html, secoes_html, pos, no_texto = [], [], 0, True

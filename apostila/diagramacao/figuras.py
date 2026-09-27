@@ -410,7 +410,7 @@ def barras(d):
             y += h2 + 2
         y += 10
     if d.get("unidade"):
-        out.append(texto(0, y + 6, d["unidade"], 9, INK3, estilo="italic")[0])
+        out.append(texto(0, y + 6, d["unidade"], 9, INK2, estilo="italic")[0])
         y += 14
     y = _legenda(out, y, d)
     return svg("".join(out), y + 2)
@@ -472,7 +472,7 @@ def linha(d, area=False):
         out.append(texto(x + 4, T + 10, m["rotulo"], 9, ACC_D, 600, largura=110)[0])
     h = B + 26
     if d.get("unidade"):
-        out.append(texto(L, h + 4, d["unidade"], 9, INK3, estilo="italic")[0])
+        out.append(texto(L, h + 4, d["unidade"], 9, INK2, estilo="italic")[0])
         h += 12
     h = _legenda(out, h, d)
     return svg("".join(out), h + 2)
