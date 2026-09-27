@@ -139,7 +139,7 @@ tempo: 30
 entrega: O rascunho de uma peça que nomeia um equívoco comum, explica por que ele existe e entrega o critério certo.
 campos:
   - rotulo: "O equívoco que os seus clientes chegam repetindo"
-    exemplo: "Um dentista: “Clareamento estraga o esmalte.”\nUm corretor de seguros: “Seguro residencial só vale para casa, não para apartamento.”"
+    exemplo: "Um dentista: “Clareamento estraga o esmalte.”\nUma corretora de imóveis: “Comprar na planta sempre sai mais barato.”"
     linhas: 3
   - rotulo: "Por que esse equívoco existe? Seja generoso com quem acredita nele."
     exemplo: "“Porque há vinte anos os produtos eram mais agressivos. A informação estava certa na época e ficou.”"
@@ -151,7 +151,7 @@ campos:
     exemplo: "“A pergunta certa não é se clareia. É se o seu dente já reage a gelado: se reage, a concentração começa baixa e o tempo de cada sessão é menor.”"
     linhas: 4
   - rotulo: "Quem é o assunto desta peça? Diga em uma linha por que ela não é sobre você."
-    exemplo: "Um fonoaudiólogo: “O assunto é a ideia de que rouquidão que dura semanas é só cansaço da voz. Eu apareço no jeito de explicar.”"
+    exemplo: "Uma professora de alfabetização: “O assunto é a ideia de que criança que ainda não lê aos seis anos está atrasada. Eu apareço no jeito de explicar.”"
     linhas: 2
   - rotulo: "Mais quatro equívocos para o seu estoque"
     exemplo: "Anote sem desenvolver. Cada um é uma peça futura; no capítulo 6 eles entram no seu caderno de campo."

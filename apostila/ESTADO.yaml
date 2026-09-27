@@ -1,12 +1,12 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 15:52
+# atualizado: 2026-09-27 15:58
 fases_do_projeto:
   F0: concluida
   F1: concluida
   F2: em_andamento
 capitulos:
   1:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 11:07
@@ -45,8 +45,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 9.11
-    alerta: '4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão.'
+    - iteracao: 5
+      data: 2026-09-27 15:57
+      revisao: apostila/revisoes/cap01-r5.yaml
+      media: 9.14
+      minimo: 8.9
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.14
   2:
     status: reprovado
     iteracoes:
@@ -84,7 +92,16 @@ capitulos:
       bloqueadores: 2
       lint_erros: 0
       veredito: reprovado
-    nota: 8.25
+    - iteracao: 2
+      data: 2026-09-27 15:57
+      revisao: apostila/revisoes/cap03-r2.yaml
+      media: 8.72
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.72
   4:
     status: reprovado
     iteracoes:
@@ -203,7 +220,6 @@ figurantes:
   - 1
   dentista:
   - 2
-  - 1
   veterinária:
   - 2
   oftalmologista:
@@ -219,7 +235,6 @@ figurantes:
   corretor de seguros:
   - 4
   - 1
-  - 2
   mecânico de motos:
   - 6
   confeiteira:
@@ -230,20 +245,25 @@ figurantes:
   - 1
   nutricionista:
   - 1
-  fonoaudiólogo:
-  - 2
   farmacêutica:
-  - 1
+  - 3
   enfermeira de posto de saúde:
   - 5
+  professora de alfabetização:
+  - 2
+  psicopedagoga:
+  - 1
+  eletricista:
+  - 1
+  corretora de imóveis:
+  - 2
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
 - '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite''
   passa para depois do esqueleto, para eliminar brancos.'
+- '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois da aprovação (cena da cardiologista
+  virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência
+  da Fase I.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
-- 'Cap. 1 (após r5): trocar a cena da cardiologista que ''desfaz em consulta o que o vídeo ensinou'' por cena de
-  reconhecimento (palestra dada a colega conhecido por vídeos), para não antecipar a tese do cap. 2 (cap02-r2).'
-- 'Cap. 1 (após r5): farmacêutica do campo 06 repete a do cap. 3; trocar por contador (pró-labore x distribuição
-  de lucro).'

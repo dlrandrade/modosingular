@@ -221,7 +221,7 @@ table.escala { width: 100%; table-layout: fixed; border-collapse: collapse; marg
 .faixas { display: flex; gap: 3.5mm; }
 .faixas .faixa { flex: 1; border-top: 1.2pt solid var(--acc); padding: 1.8mm 0 0; }
 .faixas .intervalo { font: 400 15pt/1 var(--display); color: var(--acc-d); margin-bottom: 1mm; }
-.faixas .faixa p { margin: 0; font-size: 8.6pt; line-height: 11.6pt; text-align: left; }
+.faixas .faixa p { margin: 0; font-size: 8.3pt; line-height: 10.9pt; text-align: left; }
 .faixas .faixa b { display: block; font: 600 9.6pt var(--serif); margin-bottom: .6mm; }
 
 /* ------------------------------------------------------------- do caderno para a rede */
