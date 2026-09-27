@@ -167,6 +167,8 @@ antivicios:
     frase_soco: 4         # parágrafo de 1 frase com menos de 12 palavras
     repare_perceba: 1     # "Repare", "Perceba", "Note que"
     pergunta_resposta: 1  # "O resultado? Um..." (pergunta curta respondida em seguida)
+    virgula_e_nao: 3      # ", e não Y" — a antítese disfarçada (revisão cap01-r1)
+    sinalizacao: 1        # "vale olhar", "convém", "antes de seguir", "por ora"... narrador que anuncia
   limites_por_mil_palavras:   # AVISO
     travessao: 7          # "—" na prosa
     interrogacao: 8
@@ -175,6 +177,20 @@ antivicios:
     media_min: 11
     media_max: 22
     desvio_min: 6         # variação de comprimento (ritmo)
+
+# ---------------------------------------------------------------------
+#  Lições das revisões cegas. Valem para TODOS os capítulos, escritos ou a escrever.
+licoes_da_revisao:
+  - "cap01-r1: o roteiro de fala é a versão falada do esqueleto da peça, 100% sobre a área do leitor. Proibido mencionar internet, perfil, publicar, 'vou começar a falar', 'próximas semanas'."
+  - "cap01-r1: a antítese disfarçada (', e não Y', 'Não tem X. Tem Y', 'X e Y são coisas diferentes: a primeira… a segunda…') é o mesmo tique do 'não é X, é Y'. No máximo uma antítese explícita por seção."
+  - "cap01-r1: narrador que anuncia ('vale entendê-lo', 'antes de seguir', 'por ora', 'o nome importa menos') é voz de curso. Dizer, não anunciar."
+  - "cap01-r1: todo item do checklist de aplicação precisa de um campo correspondente na oficina."
+  - "cap01-r1: autodiagnóstico precisa de instrução para quem não tem perfil/não publica, e as faixas não podem afirmar o que a escala não mede."
+  - "cap01-r1: verificação com corretas em posições variadas, opções de comprimento parecido, distratores inequivocamente falsos para TODAS as profissões do público (ex.: 'indicação é proibida' é verdade parcial para advogados)."
+  - "cap01-r1: detalhe de ofício tem de ser exato (pronto-socorro não tem retorno na semana seguinte; engenheiro diz 'recalque'; fisioterapeuta mede mobilidade lombar). Contas feitas por personagens têm de fechar."
+  - "cap01-r1: nada de afirmação empírica sem fonte ('quase todo mundo faz isso hoje'); nada de promessa ('vai gerar diferença perceptível'); autodiagnóstico 'estima', não 'mede'."
+  - "cap01-r1: fecho do texto termina em consequência prática; não listar as seções seguintes do capítulo; não apresentar o elenco como ficha (dar a cada um uma imagem)."
+  - "cap01-r1: exemplos da oficina em profissões diferentes da do personagem em foco, sem autoelogio."
 
 # ---------------------------------------------------------------------
 elenco:
@@ -260,7 +276,7 @@ elenco:
 
 # ---------------------------------------------------------------------
 estrutura_do_capitulo:
-  paginas_alvo: "10 a 14"
+  paginas_alvo: "10 a 14 (só a oficina começa em página nova; autodiagnóstico cabe numa página; campo de escrita nunca quebra)"
   prosa_palavras: [1800, 2800]
   partes:
     - abertura:   "Página ímpar. Fase, número, título, subtítulo, epígrafe (a frase do capítulo) e ilustração com legenda."

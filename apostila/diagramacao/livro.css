@@ -30,10 +30,10 @@
 /* ------------------------------------------------------------- páginas */
 @page {
   size: 170mm 240mm;
-  margin: 19mm 18mm 22mm 21mm;
+  margin: 20mm 20mm 22mm 22mm;
 }
 @page :left {
-  margin-left: 18mm; margin-right: 21mm;
+  margin-left: 20mm; margin-right: 22mm;
   @top-left { content: "Modo Singular"; font: 500 6.6pt var(--sans); letter-spacing: .16em;
               text-transform: uppercase; color: var(--ink-3); vertical-align: bottom; padding-bottom: 4mm; }
   @bottom-left { content: counter(page); font: 500 7.6pt var(--sans); color: var(--ink-2); vertical-align: top; padding-top: 5mm; }
@@ -52,7 +52,8 @@
 @page :blank { @top-left { content: none } @top-right { content: none }
                @bottom-left { content: none } @bottom-right { content: none } }
 
-html { font-family: var(--serif); font-size: 10.3pt; line-height: 14.8pt; color: var(--ink); }
+html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color: var(--ink); }
+.nh { hyphens: manual; }
 body { margin: 0; }
 
 /* ------------------------------------------------------------- texto corrido */
@@ -81,7 +82,7 @@ strong { font-weight: 600; }
 .texto ul li::marker, .prosa ul li::marker { color: var(--acc); }
 
 /* ------------------------------------------------------------- abertura de capítulo */
-.abertura { page: abertura; break-before: right; break-after: page; height: 197mm; position: relative; }
+.abertura { page: abertura; break-before: right; break-after: page; height: 196mm; position: relative; }
 .abertura .fase-rotulo { font: 600 7pt var(--sans); letter-spacing: .2em; text-transform: uppercase;
   color: var(--ink-3); margin: 0; }
 .abertura .numero { font: 400 88pt/1 var(--display); color: var(--acc); margin: 7mm 0 0 -1.2mm; }
@@ -142,6 +143,8 @@ strong { font-weight: 600; }
 .compara .neg .rotulo { color: var(--ink-3); }
 
 .guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3.4mm 0 1mm; margin-top: 8mm; }
+.guardar .rotulo { margin-bottom: 3.4mm; }
+.texto > p:nth-last-child(2), .texto > .guardar { break-before: avoid; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
 .guardar li { position: relative; padding-left: 8mm; margin: 0 0 2.6mm;
   font-size: 10pt; line-height: 14pt; text-align: left; hyphens: auto; }
@@ -167,7 +170,9 @@ td { border-bottom: .4pt solid var(--line); padding: 1.8mm 2.4mm 1.8mm 0; vertic
 td:first-child { font-weight: 600; color: var(--ink); }
 
 /* ------------------------------------------------------------- seções de caderno */
-.oficina, .autodiag, .rede, .fechamento { break-before: page; }
+.oficina { break-before: page; }
+.autodiag { break-inside: avoid; margin-top: 10mm; }
+.rede, .fechamento { margin-top: 11mm; }
 .cab-secao { border-top: 2pt solid var(--ink); padding-top: 2mm; margin-bottom: 5mm; break-after: avoid; }
 .cab-secao h2 { font: 400 20pt/22pt var(--display); margin: 1mm 0 0; hyphens: manual; }
 .cab-secao .sub { font: italic 10pt/14pt var(--serif); color: var(--ink-2); margin: 1.6mm 0 0; }
@@ -178,7 +183,7 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .meta > div.tempo { flex: 0 0 24mm; }
 .meta .tempo p.valor { font: 400 17pt/1.1 var(--display); color: var(--acc-d); }
 
-.campo { margin: 0 0 5mm; }
+.campo { margin: 0 0 5mm; break-inside: avoid; }
 .campo .enunciado { font: 600 10pt/13.6pt var(--serif); margin: 0; break-after: avoid; }
 .campo .enunciado .n { font: 600 7.6pt var(--sans); color: var(--acc); margin-right: 1.8mm; }
 .campo .dica { font: italic 8.8pt/12pt var(--serif); color: var(--ink-3); margin: .8mm 0 0; text-align: left;
@@ -193,22 +198,23 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .caixas li::before { content: ""; position: absolute; left: 0; top: 1.4pt; width: 3.2mm; height: 3.2mm; border: .7pt solid var(--ink-2); }
 
 /* ------------------------------------------------------------- autodiagnóstico */
-.autodiag .instrucao { font-size: 9.8pt; line-height: 13.8pt; margin: 0 0 4mm; text-align: left; }
+.autodiag .instrucao { font-size: 9.6pt; line-height: 13.4pt; margin: 0 0 3mm; text-align: left; }
 table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 400 8.6pt/11.6pt var(--sans); }
 .escala th { font: 600 5.8pt/7.4pt var(--sans); letter-spacing: .04em; text-align: center; padding: 0 .6mm 1.4mm;
   text-transform: uppercase; border-bottom: 1pt solid var(--acc); width: 11mm; }
 .escala th:first-child { width: auto; text-align: left; }
-.escala td { border-bottom: .4pt solid var(--line); padding: 2mm 1mm 2mm 0; vertical-align: middle; }
-.escala td:first-child { font-weight: 400; font-family: var(--serif); font-size: 9.4pt; line-height: 12.8pt; }
+.escala td { border-bottom: .4pt solid var(--line); padding: 1.3mm 1mm 1.3mm 0; vertical-align: middle; }
+.escala td:first-child { font-weight: 400; font-family: var(--serif); font-size: 9.2pt; line-height: 12.2pt; }
 .escala td.op { text-align: center; padding: 0; }
 .escala td.op span { display: inline-block; width: 5.4mm; height: 5.4mm; border-radius: 50%;
   border: .6pt solid var(--ink-3); font: 500 7.4pt/5.4mm var(--sans); text-align: center; color: var(--ink-2); }
-.soma { text-align: right; margin: 0 0 5mm; }
+.soma { text-align: right; margin: 0 0 3mm; }
 .soma .txt { font: 600 7.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); margin-right: 3mm; }
 .soma .caixa { display: inline-block; width: 16mm; height: 8mm; border: .8pt solid var(--ink); vertical-align: middle; }
-.faixas .faixa { display: flex; gap: 4mm; border-top: .4pt solid var(--line); padding: 2.4mm 0; break-inside: avoid; }
-.faixas .intervalo { flex: 0 0 16mm; font: 400 15pt/1 var(--display); color: var(--acc-d); }
-.faixas .faixa p { margin: 0; font-size: 9.2pt; line-height: 12.8pt; text-align: left; }
+.faixas { display: flex; gap: 3.5mm; }
+.faixas .faixa { flex: 1; border-top: 1.2pt solid var(--acc); padding: 1.8mm 0 0; }
+.faixas .intervalo { font: 400 15pt/1 var(--display); color: var(--acc-d); margin-bottom: 1mm; }
+.faixas .faixa p { margin: 0; font-size: 8.6pt; line-height: 11.6pt; text-align: left; }
 .faixas .faixa b { display: block; font: 600 9.6pt var(--serif); margin-bottom: .6mm; }
 
 /* ------------------------------------------------------------- do caderno para a rede */
@@ -227,6 +233,7 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .faca-evite .evite { border-top: 1.6pt solid var(--ink-3); padding-top: 2mm; }
 
 .esqueleto { margin: 0 0 5mm; }
+.rotulo + .esqueleto, p.rotulo { break-after: avoid; }
 .esqueleto .parte { display: flex; gap: 4mm; border-top: .4pt solid var(--line); padding: 2.2mm 0 0; break-inside: avoid; }
 .esqueleto .parte .qual { flex: 0 0 28mm; font: 600 6.8pt/10pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--acc-d); padding-top: .6mm; }
 .esqueleto .parte .corpo { flex: 1; }
@@ -243,7 +250,7 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .remissao a { color: inherit; text-decoration: none; }
 
 /* ------------------------------------------------------------- fechamento */
-.questao { margin: 0 0 4mm; break-inside: avoid; }
+.questao { margin: 0 0 3.2mm; break-inside: avoid; }
 .questao .enunciado { font: 600 9.8pt/13.4pt var(--serif); margin: 0 0 1.4mm; }
 .questao .enunciado .n { font: 600 7.6pt var(--sans); color: var(--acc); margin-right: 1.8mm; }
 .questao ol { list-style: none; margin: 0; padding: 0 0 0 5mm; }
@@ -279,10 +286,9 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .sumario h2 { font: 400 28pt/1 var(--display); margin: 0 0 8mm; }
 .sumario .fase { font: 600 6.8pt var(--sans); letter-spacing: .18em; text-transform: uppercase; color: var(--acc-d);
   margin: 5mm 0 1.6mm; border-top: .5pt solid var(--line); padding-top: 2mm; }
-.sumario a { display: flex; color: var(--ink); text-decoration: none; font-size: 9.8pt; line-height: 15pt; }
-.sumario a .n { flex: 0 0 7mm; font: 400 11pt var(--display); color: var(--acc-d); }
-.sumario a .t { flex: 1; }
-.sumario a::after { content: target-counter(attr(href), page); font: 500 7.8pt var(--sans); color: var(--ink-2); }
+.sumario a { display: block; color: var(--ink); text-decoration: none; font-size: 10pt; line-height: 16pt; }
+.sumario a .n { display: inline-block; width: 8mm; font: 400 11.5pt var(--display); color: var(--acc-d); }
+.sumario a::after { content: target-counter(attr(href), page); float: right; font: 500 8pt/16pt var(--sans); color: var(--ink-2); }
 
 .pre { break-before: right; }
 .pre h1, .apendice h1 { font: 400 26pt/28pt var(--display); margin: 14mm 0 6mm; string-set: cabeca content(); }

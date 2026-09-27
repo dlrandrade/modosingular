@@ -15,6 +15,8 @@ INK, INK2, INK3 = "#1b1b1a", "#4d4b47", "#8b877f"
 LINE, SOFT, PAPER = "#cdc7bb", "#f1ece2", "#ffffff"
 ACC, ACC_L, ACC_D = "#9a7328", "#ecdfc2", "#6f521b"
 SANS = "Inter, sans-serif"
+ESCALA = 1.12          # corpo dos rótulos (a coluna ficou mais estreita e o leitor tem 30 a 60 anos)
+BARRA_B = "#b3ada2"    # cinza claro: em P&B precisa contrastar com o dourado escuro
 SERIF = "'Instrument Serif', serif"
 
 
@@ -47,7 +49,8 @@ def quebrar(txt: str, largura: float, tam: float) -> list[str]:
 
 def texto(x, y, txt, tam=11, cor=INK, peso=400, ancora="start", largura=None,
           entrelinha=1.3, fonte=SANS, estilo="normal", esp=0.0) -> tuple[str, float]:
-    """Texto com quebra. Devolve (svg, altura_ocupada)."""
+    """Texto com quebra. Devolve (svg, altura_ocupada). Corpo mínimo ~8 pt impresso."""
+    tam = max(tam * ESCALA, 10.8)
     txt = aspas(txt)
     linhas = quebrar(txt, largura, tam) if largura else [str(txt)]
     partes = [f'<tspan x="{x:.1f}" dy="{0 if i == 0 else tam * entrelinha:.1f}">{escape(l)}</tspan>'
@@ -74,8 +77,8 @@ def seta(x1, y1, x2, y2, cor=INK3, larg=1.1, ponta=6):
 
 
 HACHURA = (f'<defs><pattern id="hach" width="6" height="6" patternUnits="userSpaceOnUse" '
-           f'patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="{ACC}" '
-           f'stroke-width="1.2" opacity=".55"/></pattern></defs>')
+           f'patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="{INK2}" '
+           f'stroke-width="1.6" opacity=".75"/></pattern></defs>')
 
 
 def _legenda(out, y, d):
@@ -94,16 +97,16 @@ def gap(d):
     out, y, topos = [HACHURA], 6, []
     for i, item in enumerate((a, b)):
         topos.append(y)
-        s, hh = texto(0, y + 14, item["rotulo"], 10.5, INK, 600, largura=138)
+        s, hh = texto(0, y + 15, item["rotulo"], 10.5, INK, 600, largura=138)
         out.append(s)
         out.append(f'<rect x="{x0}" y="{y}" width="{bw}" height="22" fill="{SOFT}"/>')
         out.append(f'<rect x="{x0}" y="{y}" width="{bw * item["valor"] / 100:.1f}" height="22" '
-                   f'fill="{ACC if i == 0 else INK3}"/>')
+                   f'fill="{ACC_D if i == 0 else BARRA_B}"/>')
         h2 = 0
         if item.get("nota"):
-            s, h2 = texto(x0, y + 36, item["nota"], 9.5, INK2, largura=bw, estilo="italic")
+            s, h2 = texto(x0, y + 38, item["nota"], 9.5, INK2, largura=bw, estilo="italic")
             out.append(s)
-        y += max(30 + h2, hh + 6) + 12
+        y += max(32 + h2, hh + 6) + 14
     xa, xb = x0 + bw * a["valor"] / 100, x0 + bw * b["valor"] / 100
     yb = topos[1]
     out.append(f'<rect x="{min(xa, xb):.1f}" y="{yb}" width="{abs(xa - xb):.1f}" height="22" '

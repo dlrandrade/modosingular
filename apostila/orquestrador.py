@@ -129,10 +129,13 @@ def lint(n: int, silencioso=False) -> dict:
     lim = cfg["limites_por_capitulo"]
     nao_e = re.findall(r"(?i)\bnão (?:é|são|era|foi|está|será)\b[^.!?\n]{1,90}?[.,;:—]\s*(?:é|são|era|foi|mas)\b", prosa)
     socos = [p for p in paragrafos if len(frases(p)) == 1 and len(p.split()) < 12 and not p.startswith(("-", "*", ">"))]
+    nao_e += re.findall(r"(?i)\bnão\b[^.!?\n]{3,120}[.!?]\s+(?:É|Tem|Era|Foi|Está|São)\s", prosa)
+    e_nao = re.findall(r",\s+e não\b", prosa)
+    sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante)", prosa)
     repare = re.findall(r"\b(?:Repare|Perceba|Note que|Observe que)\b", prosa)
     perg_resp = re.findall(r"(?:^|[.?!]\s+)(?:[A-ZÀ-Ý][^.?!\s]*(?:\s[^.?!\s]+){0,4})\?\s+[A-ZÀ-Ý][^.?!]{0,70}\.", prosa)
     for nome, lista in (("nao_e_e", nao_e), ("frase_soco", socos), ("repare_perceba", repare),
-                        ("pergunta_resposta", perg_resp)):
+                        ("pergunta_resposta", perg_resp), ("virgula_e_nao", e_nao), ("sinalizacao", sinal)):
         metr[nome] = len(lista)
         if len(lista) > lim[nome]:
             erros.append(f"{nome}: {len(lista)} (máx {lim[nome]}) -> " + " | ".join(x.strip()[:70] for x in lista[:5]))
@@ -160,6 +163,20 @@ def lint(n: int, silencioso=False) -> dict:
     if not alvo[0] <= palavras <= alvo[1]:
         erros.append(f"prosa com {palavras} palavras (alvo {alvo[0]}–{alvo[1]})")
 
+    inter = len(re.findall(r"^## ", BLOCO_RE.sub("", corpo), re.M))
+    metr["intertitulos"] = inter
+    if not 3 <= inter <= 5:
+        erros.append(f"intertítulos: {inter} (use de 3 a 5)")
+    # verificação: posição das corretas e comprimento das opções
+    for m in BLOCO_RE.finditer(corpo):
+        if m.group(1) == "verificacao":
+            qs = yaml.safe_load(m.group(2))
+            pos = [q["correta"] for q in qs]
+            if len(qs) >= 3 and len(set(pos)) < min(3, len(qs)):
+                erros.append(f"verificação: corretas pouco variadas {pos} (use ao menos 3 posições diferentes)")
+            longas = sum(1 for q in qs if len(q["opcoes"][q["correta"]]) == max(len(o) for o in q["opcoes"]))
+            if longas > len(qs) // 2:
+                avisos.append(f"verificação: a correta é a opção mais longa em {longas} de {len(qs)} questões")
     inicios = [" ".join(p.split()[:2]).lower() for p in paragrafos if len(p.split()) > 3]
     rep = {i: inicios.count(i) for i in set(inicios) if inicios.count(i) > 2}
     if rep:
@@ -340,8 +357,21 @@ BLOCOS = {"conceito": b_conceito, "figura": b_figura, "exemplo": b_exemplo, "com
 SECOES = ("autodiagnostico", "oficina", "rede", "verificacao", "aplicacao")
 
 
+NOMES = r"\b(Renata|Marcos|Otávio|Lúcia|Caio|Débora|Moura|Bezerra|Prado|Tavares)\b"
+
+
+def sem_hifen(h: str) -> str:
+    """Nomes próprios do elenco e palavras compostas não são hifenizados."""
+    partes = re.split(r"(<[^>]+>)", h)
+    for i, t in enumerate(partes):
+        if not t.startswith("<"):
+            t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
+            partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nh">\1</span>', t)
+    return "".join(partes)
+
+
 def md_prosa(s: str, c: Ctx) -> str:
-    h = md(s)
+    h = sem_hifen(md(s))
 
     def legenda(m):
         c.tab += 1
