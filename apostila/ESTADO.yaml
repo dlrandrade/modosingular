@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 20:54
+# atualizado: 2026-09-27 20:57
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -387,7 +387,11 @@ decisoes:
   da Fase I.'
 - '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável (span nowrap/inline-block/word
   joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
+- '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto); ''tradução'' sem qualificação
+  é o conceito da Fase III (experiência→peça, cap. 13).'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
   no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'
+- 'Cap. 5 (após r4): ''numa etapa de tradução que ela tinha acrescentado'' -> ''numa etapa de tradução de formato''
+  (decisão de termos).'

@@ -56,7 +56,8 @@ html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color:
 .nh { hyphens: manual; }
 .nq { hyphens: manual; }
 .texto p, .prosa p { hyphenate-limit-chars: 7 3 3; }
-.escala th.ex, .escala td.ex { width: 8mm; text-align: center; font: 600 7.4pt var(--sans); color: var(--acc-d); }
+.escala th.ex, .escala td.ex { width: 6.5mm; text-align: center; font: 600 7pt var(--sans); color: var(--acc-d); }
+.escala th.ex { font: 600 5.2pt/7pt var(--sans); }
 .somas { display: flex; gap: 3mm; margin: 0 0 3mm; }
 .somas > div { flex: 1; border-top: 1pt solid var(--ink); padding-top: 1.4mm; }
 .somas .txt { display: block; font: 600 6.6pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 1mm; }
@@ -208,9 +209,9 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .autodiag .instrucao { font-size: 9.6pt; line-height: 13.4pt; margin: 0 0 3mm; text-align: left; }
 table.escala { width: 100%; table-layout: fixed; border-collapse: collapse; margin: 0 0 4mm; font: 400 8.6pt/11.6pt var(--sans); }
 .escala th { font: 600 5.2pt/7pt var(--sans); letter-spacing: 0; text-align: center; padding: 0 0 1.4mm;
-  text-transform: uppercase; border-bottom: 1pt solid var(--acc); width: 13.2mm; }
+  text-transform: uppercase; border-bottom: 1pt solid var(--acc); width: 12.4mm; }
 .escala th:first-child { width: auto; text-align: left; }
-.escala td { border-bottom: .4pt solid var(--line); padding: 1.3mm 1mm 1.3mm 0; vertical-align: middle; }
+.escala td { border-bottom: .4pt solid var(--line); padding: 1.1mm 1mm 1.1mm 0; vertical-align: middle; }
 .escala td:first-child { font-weight: 400; font-family: var(--serif); font-size: 9.2pt; line-height: 12.2pt; }
 .escala td.op { text-align: center; padding: 0; }
 .escala td.op span { display: inline-block; width: 5.4mm; height: 5.4mm; border-radius: 50%;
@@ -225,7 +226,7 @@ table.escala { width: 100%; table-layout: fixed; border-collapse: collapse; marg
 .faixas .faixa b { display: block; font: 600 9.6pt var(--serif); margin-bottom: .6mm; }
 
 /* ------------------------------------------------------------- do caderno para a rede */
-.regras { list-style: none; margin: 0 0 4mm; padding: 0; break-inside: avoid; }
+.regras { list-style: none; margin: 0 0 4mm; padding: 0; }
 .regras li { position: relative; padding-left: 8mm; margin: 0 0 3mm; break-inside: avoid; }
 .regras li .g { position: absolute; left: 0; top: -2pt; font: 400 17pt/1 var(--display); color: var(--acc); }
 .regras .regra { font: 600 10pt/13.4pt var(--serif); margin: 0; }
