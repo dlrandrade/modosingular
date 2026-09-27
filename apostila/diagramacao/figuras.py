@@ -145,7 +145,7 @@ def funil(d):
 
 
 def quadrante(d):
-    L, T, S = 60, 10, 380
+    L, T, S = 60, 30, 380
     H = S * .62
     out = [f'<rect x="{L}" y="{T}" width="{S}" height="{H:.0f}" fill="{PAPER}" stroke="{LINE}"/>',
            f'<rect x="{L + S/2}" y="{T}" width="{S/2}" height="{H/2:.1f}" fill="{ACC_L}" opacity=".6"/>',
@@ -156,8 +156,10 @@ def quadrante(d):
     out.append(texto(L, T + H + 30, ex[0], 9.5, INK2)[0])
     out.append(texto(L + S, T + H + 30, ex[1], 9.5, INK2, ancora="end")[0])
     out.append(seta(L - 14, T + H, L - 14, T, INK3))
-    out.append(f'<text transform="translate({L - 22},{T + H}) rotate(-90)" font-family="{SANS}" font-size="9.5" fill="{INK2}">{escape(aspas(ey[0]))}</text>')
-    out.append(f'<text transform="translate({L - 22},{T}) rotate(-90)" font-family="{SANS}" font-size="9.5" fill="{INK2}" text-anchor="end">{escape(aspas(ey[1]))}</text>')
+    # topo do eixo vertical na horizontal, acima do quadro; base girada ao longo da metade de baixo
+    out.append(texto(L - 18, T - 10, ey[1], 9.5, INK2)[0])
+    out.append(f'<text transform="translate({L - 22},{T + H}) rotate(-90)" font-family="{SANS}" '
+               f'font-size="{max(9.5 * ESCALA, 12):.1f}" fill="{INK2}">{escape(aspas(ey[0]))}</text>')
     for p in d["pontos"]:
         px = L + S * p["x"] / 100
         py = T + H - H * p["y"] / 100

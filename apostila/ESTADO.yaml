@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 16:08
+# atualizado: 2026-09-27 20:33
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -165,7 +165,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   10:
-    status: planejado
+    status: rascunho
     iteracoes: []
   11:
     status: planejado
@@ -242,12 +242,15 @@ figurantes:
   - 2
   veterinária:
   - 2
+  - 10
   oftalmologista:
   - 2
   fonoaudióloga:
   - 3
+  - 10
   dermatologista:
   - 3
+  - 10
   consultora de RH:
   - 4
   personal trainer:
@@ -278,6 +281,7 @@ figurantes:
   - 1
   corretora de imóveis:
   - 2
+  - 10
   professora de pilates:
   - 3
   treinador de natação:
@@ -300,6 +304,10 @@ figurantes:
   - 9
   otorrinolaringologista:
   - 9
+  professor de cursinho:
+  - 10
+  despachante:
+  - 10
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
