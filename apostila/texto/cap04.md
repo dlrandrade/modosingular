@@ -10,7 +10,7 @@ legenda_ilustracao: Existe uma matéria-prima que só nasce de você. Nenhum bri
 
 Toda primeira segunda-feira do mês, às sete e quarenta, chega ao e-mail do Otávio o calendário da agência. São quinze publicações, cada uma com imagem, legenda e data, organizadas numa planilha colorida. Ele abre o arquivo antes do primeiro cliente, passa os olhos por cada linha, confere se não há nenhum erro de lei ou de português e responde com a mesma palavra de sempre: aprovado. Faz isso há três anos. Leva, em média, doze minutos.
 
-Numa quinta-feira de março, a sócia mais nova do escritório, Helena, entrou na sala dele com o celular na mão. Uma das publicações do mês, uma arte azul com o título "Você sabia?", explicava que o banco de horas permite compensar horas extras com folgas, sem pagá-las, desde que haja acordo, e estava certo.
+Numa quinta-feira de março, a sócia mais nova do escritório, Helena, entrou na sala dele com o celular na mão. Uma das publicações do mês, uma arte azul com o título "Você sabia?", explicava corretamente que o banco de horas permite compensar horas extras com folgas, sem pagá-las, desde que haja acordo.
 
 Embaixo, havia um comentário da dona de uma pequena rede de lavanderias de Olinda: "Eu tinha acordo e perdi uma ação trabalhista por causa do banco de horas. O que a publicação não conta?". O comentário tinha quarenta curtidas, mais do que a própria publicação. Helena queria saber o que responder.
 
@@ -18,13 +18,13 @@ Otávio leu o texto da agência em voz alta, devagar, e ficou um tempo calado. N
 
 Escreveu a resposta à mão, antes de digitar, como faz com tudo o que importa. "A senhora tem razão, e a publicação simplificou demais. O banco de horas só protege quem tem o acordo por escrito, controla o ponto com rigor, mês a mês, e compensa as horas dentro do prazo. Nas ações contra pequenas empresas que chegam ao meu escritório, as horas extras de um banco mal controlado são quase sempre o primeiro pedido da lista." Helena leu por cima do ombro dele e perguntou, sem maldade, por que o perfil do escritório não falava assim. Otávio não soube responder na hora. Passou o resto da semana com a pergunta.
 
-## Como a história costuma acontecer
+## O caminho até a quinta-feira
 
 O caminho que levou Otávio até aquela quinta-feira é comum a ponto de parecer um roteiro. Ele reconheceu, com razão, que precisava estar na internet e que não tinha tempo de fazer aquilo sozinho. Contratou uma agência bem recomendada. Teve uma reunião de briefing de uma hora, numa sala de vidro, com duas pessoas simpáticas e um questionário.
 
 Perguntaram qual era o público, e ele respondeu que eram empresários de pequeno e médio porte. Perguntaram o tom desejado, e ele disse "formal, mas acessível", a resposta que muito profissional liberal dá. Perguntaram os temas, e ele citou direitos e deveres do empregador. Tudo isso era verdade, e nada disso era ele.
 
-A partir do mês seguinte, recebeu publicações bem diagramadas, gramaticalmente corretas e tecnicamente defensáveis. Nenhuma estava errada, e ele aprovava todas. Mas não se reconhecia em nenhuma: era o nome dele dizendo coisas que ele nunca diria daquele jeito, num tom de repartição pública que nada tinha a ver com os e-mails longos e francos que os clientes costumavam guardar e reler. Depois de alguns meses sem resultado que justificasse o investimento, chegou à conclusão mais comum nessa situação: rede social não funciona para advogado. Continuou pagando, porque cancelar também dava trabalho. A conclusão estava errada, porque aquele perfil nunca tinha sido dele.
+A partir do mês seguinte, recebeu publicações bem diagramadas, gramaticalmente corretas e tecnicamente defensáveis. Nenhuma estava errada, e ele aprovava todas. Mas não se reconhecia em nenhuma: era o nome dele dizendo coisas que ele nunca diria daquele jeito, num tom de repartição pública que nada tinha a ver com os e-mails longos e francos que os clientes costumavam guardar e reler. Depois de alguns meses sem resultado que justificasse o investimento, chegou a uma conclusão que parecia óbvia: rede social não funciona para advogado. Continuou pagando, porque cancelar também dava trabalho. A conclusão estava errada, porque aquele perfil nunca tinha sido dele.
 
 ```conceito
 termo: Terceirização prematura
@@ -36,11 +36,11 @@ A agência do Otávio fez bem o trabalho que lhe foi pedido. O que ninguém perc
 
 ## Por que gente competente terceiriza cedo
 
-Seria fácil atribuir a decisão do Otávio à preguiça ou à vaidade, e as duas explicações estariam erradas. A terceirização prematura costuma nascer do raciocínio de um bom profissional. Otávio delega a contabilidade do escritório a um contador, a limpeza a uma empresa, a manutenção dos computadores a um técnico. Aprendeu cedo que o tempo dele vale mais nas audiências e nos pareceres do que em qualquer outra coisa, e que o resto deve ir para quem faz melhor. Aplicou à comunicação a mesma lógica que aplica a tudo.
+Seria fácil atribuir a decisão do Otávio à preguiça ou à vaidade, e as duas explicações estariam erradas. No caso do Otávio, ela nasceu do raciocínio de um bom profissional. Otávio delega a contabilidade do escritório a um contador, a limpeza a uma empresa, a manutenção dos computadores a um técnico. Aprendeu cedo que o tempo dele vale mais nas audiências e nos pareceres do que em qualquer outra coisa, e que o resto deve ir para quem faz melhor. Aplicou à comunicação a mesma lógica que aplica a tudo.
 
-O raciocínio falha num ponto só: ele supõe que comunicar é uma atividade periférica, como a contabilidade, quando na verdade é uma extensão da atividade principal. O que Otávio pensa sobre banco de horas, sobre acordos, sobre o que protege e o que não protege um pequeno empresário é o próprio serviço que ele vende. Entregar isso a outra pessoa equivale a delegar o próprio produto.
+O raciocínio falha num ponto só: ele supõe que comunicar é uma atividade periférica, como a contabilidade. No trabalho dele, comunicar é a própria atividade principal, dita em voz alta. O que Otávio pensa sobre banco de horas, sobre acordos, sobre o que protege e o que não protege um pequeno empresário é o próprio serviço que ele vende. Entregar isso a outra pessoa equivale a delegar o próprio produto.
 
-Otávio nunca gostou de ouvir a própria voz gravada nem de reler o que publicava; achava a voz grave demais e os textos longos demais, e esse desconforto encontrou alívio imediato quando outra pessoa assumiu o trabalho. As publicações da agência não davam vergonha a Otávio. Também não davam orgulho. Ficavam num meio-termo confortável, que é onde nenhum cliente presta atenção.
+Otávio nunca gostou de ouvir a própria voz gravada nem de se imaginar lido por estranhos; achava a voz grave demais e os próprios textos longos demais para a internet, e esse desconforto encontrou alívio imediato quando outra pessoa assumiu o trabalho. As publicações da agência não davam vergonha a Otávio. Também não davam orgulho. Ficavam num meio-termo confortável, que é onde nenhum cliente presta atenção.
 
 ## O que se perde no caminho
 
@@ -48,7 +48,7 @@ Quando alguém escreve por você, essa pessoa precisa preencher lacunas o tempo 
 
 Boa parte da informação de qualquer área é pública. Duas consultoras de recursos humanos podem responder à mesma pergunta sobre a demissão de um funcionário antigo com a mesma informação técnica, e as duas estarão certas. Uma começa pelos riscos jurídicos; a outra, pelo efeito sobre a equipe que fica. O que diferencia as duas é o modo de pensar o problema, e essa parte não passa por um briefing.
 
-Uma agência tem ainda um incentivo estrutural para o genérico. Ela atende muitos clientes ao mesmo tempo, e o que aprende com um aplica aos outros. Otávio só entendeu o mecanismo quando reconheceu, no perfil de uma clínica odontológica atendida pela mesma agência, a arte azul e o "Você sabia?" que chegavam para ele. Mandou um print para Helena, sem comentário. Para a agência, reaproveitar o que funciona é eficiência. Para o cliente, é diluição.
+A agência do Otávio tinha ainda um incentivo para o genérico: atendia muitos clientes ao mesmo tempo, e o que aprendia com um aplicava aos outros. Otávio só entendeu o mecanismo quando reconheceu, no perfil de uma clínica odontológica atendida pela mesma agência, a arte azul e o "Você sabia?" que chegavam para ele. Mandou um print para Helena, sem comentário.
 
 ```figura
 tipo: gap
@@ -73,7 +73,7 @@ Nem sempre a terceirização prematura é tão visível quanto um comentário qu
 
 O segundo sinal tem um teste simples. Escolha três publicações recentes, cubra o nome e a foto e mostre a alguém que conhece bem o seu trabalho e não acompanha o seu perfil: um cliente antigo, alguém da família. Pergunte de quem é. Se a pessoa hesitar, ou apostar num colega, o sinal está presente.
 
-Otávio fez o teste com a mulher, que conhece o jeito dele de falar há trinta anos e nunca abriu o perfil do escritório. Misturou três publicações dele com três de dois escritórios concorrentes. Ela apontou duas dos concorrentes como dele.
+Otávio fez o teste com a mulher, que conhece o jeito dele de falar há trinta anos e nunca abriu o perfil do escritório. Misturou três publicações dele com três de dois escritórios concorrentes. Ela apontou como dele duas das publicações dos concorrentes.
 
 ```nota
 tipo: alerta
@@ -112,7 +112,7 @@ Tabela: O que delegar e o que nunca delegar
 | Diagramar e editar o vídeo | Sim | Acabamento |
 | Revisar a versão final | Nunca | Só você sabe se falaria assim |
 | Agendar e publicar | Sim | Operação |
-| Responder comentários | Em parte | Dúvidas técnicas voltam para você, dentro do que o seu código permite responder em público; logística, não |
+| Responder comentários | Em parte | Dúvidas técnicas voltam para você, dentro do que o código de ética da sua profissão permite responder em público; logística, não |
 
 Na semana em que suspendeu as publicações, Otávio ficou no escritório depois que todos saíram, fechou a porta e gravou no celular três minutos sobre o que fazer quando um funcionário pede para "acertar por fora". Gravou só para ouvir. Transcreveu o áudio à noite, sem corrigir nada. A primeira frase era "vamos começar pelo pior cenário", e a última, "o que é pago por fora sempre aparece, e aparece na pior hora". No meio, havia repetições, a pergunta retórica que ele faz sempre, "e quem vai provar isso, o senhor?", e um exemplo de um cliente de Caruaru, com o nome trocado.
 
@@ -140,7 +140,7 @@ campos:
     exemplo: "“Começo sempre pelo erro mais comum.” “Uso comparação com cozinha.” “Faço uma pergunta antes de responder.”"
     linhas: 4
   - rotulo: "Auditoria: quais dos quatro sinais aparecem no que você publica hoje?"
-    exemplo: "Anote os números (1 a 4) e um exemplo do sinal mais forte. Se você nunca publicou, escreva qual sinal mais aparece no perfil do colega que você mais admira, e por que você não quer repeti-lo."
+    exemplo: "Anote os números (1 a 4) e um exemplo do sinal mais forte. Se você nunca publicou, aplique o teste do sinal 2 a três publicações de um perfil da sua área que você acompanha: cobrindo o nome, você saberia dizer de quem são? Anote o que torna a mais anônima delas intercambiável."
     linhas: 3
   - rotulo: "A sua grade de delegação: marque quem faz hoje cada etapa e, se for o caso, o que deve voltar para você"
     exemplo: "Se você faz tudo sozinho, marque “Deve voltar para mim” nas etapas em que hoje segue um modelo pronto ou o tom de outro perfil."
@@ -155,7 +155,7 @@ criterios:
 
 ```rede
 titulo: A explicação que já é sua
-intro: A peça deste capítulo é a explicação que você gravou na oficina, organizada para quem ainda não conhece você. Parta da transcrição do campo 02 e das marcas do campo 03; o esqueleto só pede que você as ponha em ordem. Se hoje alguém publica por você, a decisão desta semana é a do Otávio: suspender ou reduzir ao mínimo. As regras abaixo valem para quando você voltar a delegar, depois de conhecer a própria voz, e também se o "terceiro" for uma ferramenta de IA.
+intro: A peça deste capítulo é a explicação que você gravou na oficina, organizada para quem ainda não conhece você. Parta do áudio inteiro, ouvido de novo, dos trinta segundos transcritos no campo 02 e das marcas do campo 03. O esqueleto só pede que você ponha tudo em ordem. Se hoje alguém publica por você, a decisão desta semana é a do Otávio: suspender ou reduzir ao mínimo. As regras abaixo valem para quando você voltar a delegar, depois de conhecer a própria voz, e também se o "terceiro" for uma ferramenta de IA. Antes de publicar, tire da peça qualquer detalhe que identifique um cliente, mesmo com o nome trocado.
 regras:
   - {regra: "Entregue áudio, não briefing.", porque: "O briefing transfere informação. O áudio transfere o modo, que é justamente o que a informação não carrega."}
   - {regra: "Revise com uma pergunta só: eu falaria assim?", porque: "Revisar por correção gramatical aprova conteúdo genérico. Revisar pela voz barra o que não é seu."}
@@ -174,7 +174,7 @@ esqueleto:
   - {rotulo: "Onde travam", texto: "O ponto em que as pessoas costumam se perder, e o esclarecimento.", linhas: 3}
   - {rotulo: "O fecho curto", texto: "Como você encerra quando a pessoa entendeu.", linhas: 2}
 roteiro: |
-  Toda semana alguém me pergunta {a pergunta que você mais ouve}. Eu explico sempre do mesmo jeito, e vou explicar igual aqui.
+  Vou explicar {o assunto} do jeito que eu explico {a um cliente | a um paciente} quando ele está na minha frente. Sem enfeite.
 
   {a explicação, na ordem em que ela sai de você}
 
@@ -223,5 +223,5 @@ roteiro_nota: Fale, não leia um texto formal. Se a explicação ficou do tamanh
 itens:
   - {rotulo: "Produzi matéria-prima bruta com a minha voz", ajuda: "Gravei os três minutos e transcrevi os primeiros trinta segundos sem corrigir (campos 01 a 03).", pontos: 4}
   - {rotulo: "Separei o que é meu do que é delegável", ajuda: "Preenchi a grade com as etapas reais do meu trabalho (campo 05).", pontos: 3}
-  - {rotulo: "Auditei o que publico contra os quatro sinais", ajuda: "Sei quais sinais aparecem no que publico, ou no perfil que analisei (campo 04).", pontos: 2}
+  - {rotulo: "Auditei o que publico contra os quatro sinais", ajuda: "Sei quais sinais aparecem no que publico, ou apliquei o teste do sinal 2 a outro perfil (campo 04).", pontos: 2}
 ```

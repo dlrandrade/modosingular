@@ -67,12 +67,12 @@ body { margin: 0; }
 /* ------------------------------------------------------------- texto corrido */
 .texto p, .prosa p {
   margin: 0; text-indent: 1.35em; text-align: justify; hyphens: auto;
-  orphans: 3; widows: 3;
+  orphans: 2; widows: 2;
 }
 .texto > p:first-child, .texto h2 + p, .texto .bloco + p, .texto figure + p,
 .texto table + p, .texto ul + p, .texto ol + p, .texto blockquote + p,
 .prosa > p:first-child, .prosa h1 + p, .prosa h2 + p, .prosa .bloco + p, .prosa ul + p, .prosa ol + p,
-.prosa table + p { text-indent: 0; }
+.prosa table + p, .texto .tabela + p, .prosa .tabela + p { text-indent: 0; }
 .texto .abre { font: 600 8.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
 .texto .bloco p { text-indent: 0; }
 
@@ -341,3 +341,5 @@ table.escala td .nlin { display: inline-block; width: 5mm; text-indent: 0; font:
 .tabela .tab-leg { text-indent: 0; margin: 0; padding: 1.6mm 0 2mm; border-top: .5pt solid var(--ink); text-align: left; font: italic 400 10.2pt/13pt var(--serif); }
 .tabela .tab-leg .num { display: block; font: 600 6.6pt var(--sans); font-style: normal; letter-spacing: .16em; text-transform: uppercase; color: var(--acc-d); margin-bottom: .6mm; }
 table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
+.compara .lado > p, .compara .lado .rotulo { hyphens: manual; }
+.compara .lado * { hyphens: manual; }

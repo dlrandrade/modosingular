@@ -8,7 +8,7 @@ ilustracao: engrenagem
 legenda_ilustracao: Quando as peças não se encaixam, mais força não resolve. Só desgasta mais depressa.
 ---
 
-Durante vinte e dois dias, Renata publicou um carrossel a cada dois dias, como tinha prometido a si mesma. Tinha ouvido de uma colega que carrossel era o formato que "mais salvava", e montou um plano: um a cada dois dias, sete lâminas cada, escritos à noite, depois do último paciente. Nos primeiros dias, a novidade compensava o cansaço. Ela escrevia até as onze, escolhia as cores no aplicativo de design, publicava e ia dormir com uma sensação boa de dever cumprido.
+Durante vinte e dois dias, Renata publicou um carrossel a cada dois dias, como tinha prometido a si mesma. Tinha ouvido de uma colega que carrossel era o formato que "mais salvava", e montou um plano: sete lâminas por carrossel, escritas à noite, depois do último paciente. Nos primeiros dias, a novidade compensava o cansaço. Ela escrevia até as onze, escolhia as cores no aplicativo de design, publicava e ia dormir com uma sensação boa de dever cumprido.
 
 O vigésimo terceiro dia foi uma quinta-feira. O último atendimento terminou às nove e meia, com uma paciente que chorou metade da sessão, porque a dor nas costas tinha voltado na mesma semana em que ela perdeu o emprego. Renata chegou em casa, abriu o computador e ficou quarenta minutos diante da primeira lâmina em branco.
 
@@ -20,9 +20,9 @@ Semanas depois, contou a história à irmã num almoço de domingo e resumiu com
 
 Renata passa os dias aplicando, em outro assunto, o raciocínio de que precisava. Quando um paciente abandona os exercícios de casa na terceira semana, ela não conclui que ele é preguiçoso. Pergunta quais exercícios, em que horário, em que lugar da casa, depois de quê. Quase sempre descobre que o plano não cabia na vida da pessoa: exigia um tapete que ela não tinha, um horário que a rotina não oferecia, uma série longa demais para quem trabalha em pé o dia inteiro. Renata ajusta o plano à pessoa. Costuma dizer que exercício bom é o que o paciente faz.
 
-O caso de que ela mais gosta é o do Aurélio, porteiro de um prédio no Batel, que abandonou três vezes a rotina de vinte minutos que ela tinha prescrito. Na quarta conversa, Renata descobriu que ele trabalhava em turnos de doze horas, dormia pouco e chegava em casa sem energia para nada. Trocou os vinte minutos por três exercícios curtos, feitos em pé, atrás do balcão da portaria, em três momentos do turno em que o movimento caía. Na consulta seguinte, ele descreveu o balcão da portaria com orgulho: dava para apoiar as mãos na beirada de granito e fazer o exercício sem que nenhum morador percebesse. Aurélio nunca mais parou. O plano passou a caber no dia dele.
+O caso de que ela mais gosta é o do Aurélio, porteiro de um prédio no Batel, que abandonou três vezes a rotina de vinte minutos que ela tinha prescrito. Na quarta conversa, Renata descobriu que ele trabalhava em turnos de doze horas, dormia pouco e chegava em casa sem energia para nada. Trocou os vinte minutos por três exercícios curtos, feitos em pé, atrás do balcão da portaria, em três momentos do turno em que o movimento caía. Na consulta seguinte, ele descreveu o balcão com orgulho: dava para apoiar as mãos na beirada de granito e fazer o exercício sem que nenhum morador percebesse. Nos três meses seguintes, não falhou uma semana. O plano passou a caber no dia dele.
 
-Consigo mesma, o raciocínio desapareceu. O plano de um carrossel a cada dois dias exigia que ela, que explica tudo em voz alta e desenhando no ar, transformasse uma fala em texto curto e estruturado depois de dez horas de atendimento. Quando o plano falhou, ela culpou a pessoa. A Débora da Lúcia, no capítulo 2, tinha feito o mesmo com um protocolo de vinte e um dias; o assunto muda, e a conclusão é sempre a mesma. Renata fez o que faz quem ouviu a vida inteira a mesma explicação para esse tipo de desistência: falta de disciplina, de organização, de comprometimento. A solução proposta também se repete: um calendário mais rígido, um lembrete no celular, alguém para cobrar.
+Consigo mesma, o raciocínio desapareceu. O plano de um carrossel a cada dois dias exigia que ela, que explica tudo em voz alta e desenhando no ar, sentasse para escrever depois de dez horas de atendimento. Quando o plano falhou, ela culpou a pessoa. Débora, a paciente da Lúcia no capítulo 2, tirou a mesma conclusão depois de um protocolo de vinte e um dias. Renata fez o que faz quem ouviu a vida inteira uma única explicação para esse tipo de desistência: falta de disciplina, de organização, de comprometimento. A receita também não muda: um calendário mais rígido, um lembrete no celular, alguém para cobrar.
 
 Este capítulo parte de outra hipótese: quem se considera inconstante pode estar tentando sustentar uma forma de criar que não combina com o jeito como pensa, vive e trabalha. O problema está no encaixe, como estava no plano do Aurélio.
 
@@ -38,7 +38,7 @@ Linguagem, aqui, é o jeito como você transforma o que pensa em algo que outra 
 
 Toda peça publicada tem um custo, e o tempo gasto é só uma parte dele. Existe um custo emocional, que é o quanto você precisa se forçar para começar, e um custo operacional, que é o número de etapas entre a ideia e a publicação. Os dois somados determinam se uma rotina sobrevive a uma semana difícil.
 
-No caso da Renata, a etapa cara era invisível. Ter a ideia não custava nada, porque as ideias aparecem aos montes durante os atendimentos, e ela as anotava num bloco ao lado do computador, sem nome de ninguém. Publicar também era fácil. O que consumia toda a energia era passar a explicação falada para texto estruturado, uma etapa extra que ninguém vê e que gastava justamente o fôlego que faltou no vigésimo terceiro dia. Para ela, era trabalho dobrado.
+No caso da Renata, o custo não estava onde ela procurava. Ter a ideia custava pouco, porque as ideias aparecem aos montes durante os atendimentos, e ela as anotava num bloco ao lado do computador, sem nome de ninguém. Publicar também era fácil. Em algum ponto entre uma coisa e outra havia uma etapa que ninguém vê e que gastava justamente o fôlego que faltou no vigésimo terceiro dia. Qual era, ela só saberia semanas depois.
 
 ```figura
 tipo: barras
@@ -52,9 +52,9 @@ series:
 legenda: Os valores são ilustrativos. O seu quadro de atrito, na oficina, mostra onde está o custo no seu caso.
 ```
 
-Uma designer de interiores que resolve tudo com amostras de tecido na mão sofre para escrever listas de dicas; o mesmo raciocínio sai inteiro quando ela o explica com o tecido na mão, diante da cliente, em dois minutos. Cada combinação errada entre pessoa e formato cobra uma pequena taxa por peça. A taxa parece suportável no primeiro dia e se torna impagável no vigésimo.
+Uma designer de interiores que pensa com amostras de tecido na mão leva uma noite para escrever cinco dicas de cortina, porque precisa descrever em palavras a textura e o caimento que, diante da cliente, ela mostra dobrando o pano em dois minutos. Na primeira semana, a noite parece um preço justo. Na quarta, ela já está escolhendo entre a lista e o jantar. Cada combinação errada entre pessoa e formato cobra uma pequena taxa por peça. A taxa parece suportável no primeiro dia e se torna impagável no vigésimo.
 
-Os outros três personagens pagam taxas diferentes. Caio não teve dificuldade para gravar; o custo dele estava na edição, onze fins de semana para seis vídeos. Otávio pagou a dele terceirizando, e o capítulo anterior mostrou o preço. Lúcia nem chegou a pagar: a taxa de se expor era alta o bastante para ela não começar. Nenhum deles tem menos disciplina que os outros. Cada um tem um ponto diferente em que a taxa fica alta.
+Os outros três personagens também pararam, cada um num ponto diferente. Caio não teve dificuldade para gravar; o custo dele estava na edição, onze fins de semana para seis vídeos, uma taxa de formato tão clara quanto a da Renata. Otávio e Lúcia pararam por outros motivos, a terceirização e o receio de se expor, que o livro trata no lugar deles. Nenhum deles tem menos disciplina que os outros.
 
 ## A curva do vigésimo terceiro dia
 
@@ -75,7 +75,7 @@ marcas:
 legenda: Esquema ilustrativo, com o eixo proporcional aos dias.
 ```
 
-Duas coisas acontecem ao mesmo tempo no gráfico. A energia disponível cai, porque a vida continua exigindo o de sempre. E o custo dos dois formatos anda em direções opostas.
+Duas coisas acontecem ao mesmo tempo no gráfico. A energia que sobra para a tarefa cai, porque o cansaço de cada semana de trabalho se soma ao da anterior e o entusiasmo do começo não se renova. E o custo dos dois formatos anda em direções opostas.
 
 O formato compatível fica mais barato com o tempo, porque vira hábito e se encaixa em gestos que você já faz. O incompatível fica mais caro, porque a resistência se acumula e cada peça começa com um pouco mais de relutância que a anterior. Em algum ponto, as linhas se cruzam. No vigésimo terceiro dia, a conta da Renata parou de fechar.
 
@@ -100,11 +100,11 @@ direita:
   itens:
     - A solução é trocar o formato.
     - Cada falha vira informação sobre o que não serve para você.
-    - A vergonha diminui e a produção aumenta.
+    - A vergonha diminui e sobra energia para tentar de outro jeito.
     - Você investiga o próprio modo de pensar.
 ```
 
-A primeira leitura tem um efeito colateral grave: ela ensina a desistir. Depois de duas ou três tentativas fracassadas por "falta de disciplina", o especialista conclui que aquilo não é para ele, e a conclusão parece baseada em provas. A segunda leitura transforma cada tentativa frustrada em dado. Renata precisava descobrir qual etapa custava caro e trocar a etapa, como faz com os exercícios dos pacientes.
+A primeira leitura tem um efeito colateral grave: ela ensina a desistir. Depois de duas ou três tentativas fracassadas por "falta de disciplina", o especialista conclui que aquilo não é para ele, e a conclusão parece baseada em provas. A segunda leitura transforma cada tentativa frustrada em dado. Renata precisava descobrir qual etapa custava caro e trocar a etapa, como faz com os exercícios dos pacientes. Trocar a etapa vem antes de qualquer meta de frequência; a ordem está na figura 5.3.
 
 ```figura
 tipo: fluxo
@@ -114,20 +114,18 @@ nos:
   - {rotulo: "Menos atrito", nota: "Cada peça custa menos do que custava no formato errado."}
   - {rotulo: "Continuidade", nota: "A sequência sobrevive aos dias ruins."}
   - {rotulo: "Presença acumulada", nota: "Muitas peças simples, uma depois da outra, dizem mais sobre você do que cinco caprichadas."}
-  - {rotulo: "Reconhecimento", nota: "É aqui que a autoridade chega a quem ainda não conhece você."}
+  - {rotulo: "Reconhecimento", nota: "Só aqui a autoridade tem chance de chegar a quem ainda não conhece você."}
 ```
 
 Seria desonesto dizer que toda desistência é culpa do formato. Às vezes a agenda está cheia demais, a vida atravessa uma fase difícil, o cansaço é geral e não tem nada a ver com a forma de criar. Há um jeito simples de separar os dois casos. Se você abandona também as coisas que combinam com você, as que em geral faz com prazer, o problema provavelmente é de energia. Nesse caso, a resposta passa por reduzir o ritmo, assunto do capítulo 8, antes de pensar em trocar de formato.
 
 Os sinais de incompatibilidade são outros. Você adia a tarefa mesmo com o tempo livre reservado. Sente alívio quando um imprevisto impede a publicação. Refaz a mesma peça várias vezes sem saber o que está errado. E, quando ela fica pronta, tem a sensação de que não se parece com você. Um desses sinais sozinho diz pouco; três ou quatro juntos apontam para o formato.
 
-Existe ainda um custo social para quem anuncia a rotina antes de começar: conta aos colegas, avisa os seguidores, promete três publicações por semana. Quando a rotina quebra, a desistência vira pública, e a vergonha se soma à culpa. Renata não tinha anunciado nada, e mesmo assim demorou semanas para contar à irmã. Uma boa regra é prometer pouco, em silêncio, e deixar que a regularidade apareça sozinha.
-
 ## O endereço do problema
 
-Semanas depois do almoço, numa noite sem paciente tardio, Renata fez consigo as perguntas que faz a quem abandona os exercícios: o quê, em que horário, em que etapa, depois de quê. Escreveu as respostas numa folha de papel, à mesa da cozinha, e deu a cada etapa uma nota de atrito, de 0 a 10. Ter a ideia recebeu 2; estruturar a sequência de lâminas, 8; escrever o texto de cada uma, 10; escolher cores e imagens, 6; publicar, 1. O problema tinha endereço, e o endereço não era ela.
+Semanas depois do almoço, numa noite sem paciente tardio, Renata fez consigo as perguntas que faz a quem abandona os exercícios: o quê, em que horário, em que etapa, depois de quê. Escreveu as respostas numa folha de papel, à mesa da cozinha, e deu a cada etapa uma nota de atrito, de 0 a 10. Ter a ideia recebeu 2; estruturar a sequência de lâminas, 8; escrever o texto de cada uma, 10; escolher cores e imagens, 6; publicar, 1. Olhou a folha por um tempo, com calma, e reconheceu nela uma cena de tantas avaliações: o paciente que diz que tudo dói e, perguntado movimento por movimento, descobre que só dois doem de verdade. O problema tinha endereço, e o endereço não era ela.
 
-A folha mostrava mais uma coisa. As duas notas altas ficavam lado a lado, e as duas tratavam da mesma passagem: transformar uma explicação falada em frases escritas, curtas e em ordem. A nota 6 das cores incomodava, mas sozinha não teria derrubado ninguém; era um custo que Renata toparia pagar se o resto fosse leve. As pontas da sequência, a ideia e a publicação, estavam baratas desde o começo. Isso descartava duas conclusões apressadas que ela quase tirou naquele almoço de domingo: a de que não tinha o que dizer e a de que não servia para aparecer. O atrito morava no meio, numa etapa de tradução que ela tinha acrescentado ao próprio trabalho sem perceber.
+A folha mostrava mais uma coisa. As duas notas altas ficavam lado a lado, e as duas tratavam da mesma passagem: transformar uma explicação falada em frases escritas, curtas e em ordem. A nota 6 das cores incomodava, mas sozinha não teria derrubado ninguém; era um custo que Renata toparia pagar se o resto fosse leve. As pontas da sequência, a ideia e a publicação, estavam baratas desde o começo. Isso descartava duas conclusões que rondavam desde o vigésimo terceiro dia: a de que não tinha o que dizer e a de que não servia para aparecer. O atrito morava no meio, numa etapa de tradução que ela tinha acrescentado ao próprio trabalho sem perceber.
 
 ```nota
 tipo: tese
@@ -145,7 +143,7 @@ Na mesma semana, Renata contou nos dedos quantas vezes tinha dado aquela explica
 
 ```autodiagnostico
 titulo: Diagnóstico de atrito
-instrucao: Pense na última vez que você tentou manter uma rotina de publicação. Se nunca tentou, pense em outra rotina que abandonou, como academia, curso ou dieta; os itens valem para as duas. Circule um número por linha, some e leia a sua faixa. É uma estimativa.
+instrucao: Pense na última vez que você tentou manter uma rotina de publicação. Se nunca tentou, pense em outra tarefa de produção que abandonou ou empurrou, como escrever um artigo, preparar uma aula nova ou manter um relatório periódico; os itens valem para as duas. Circule um número por linha, some e leia a sua faixa. É uma estimativa.
 escala: ["Nunca", "Raramente", "Às vezes", "Com frequência", "Sempre"]
 itens:
   - {texto: "Eu adiava começar mesmo com o tempo livre reservado."}
@@ -154,10 +152,10 @@ itens:
   - {texto: "Eu sentia alívio quando um imprevisto me impedia de fazer."}
   - {texto: "Eu olhava o resultado e achava que ele não tinha nada a ver comigo."}
   - {texto: "A tarefa consumia a energia que eu queria ter para o trabalho."}
-nota: "Antes de ler a faixa: nesse mesmo período, você abandonou também coisas de que gosta? Se sim, o problema pode ser de energia, e não de formato; releia a seção “Disciplina ou compatibilidade”."
+nota: "Antes de ler a faixa: nesse mesmo período, você abandonou também coisas de que gosta? Se sim, o problema pode ser de energia, e não de formato; releia a seção “Disciplina ou compatibilidade”, nas páginas anteriores."
 faixas:
   - {min: 6, max: 13, titulo: "Atrito baixo", leitura: "O formato combinava razoavelmente com você. Se mesmo assim você parou, olhe primeiro para o ritmo e a energia daquele período (cap. 8), e só depois para o formato."}
-  - {min: 14, max: 21, titulo: "Atrito médio", leitura: "Há fricção real, mas localizada: uma etapa específica que trava, como estruturar, gravar ou sair de casa para o treino. A autópsia da oficina ajuda a isolá-la."}
+  - {min: 14, max: 21, titulo: "Atrito médio", leitura: "Há fricção real. Ela pode estar concentrada numa etapa, como estruturar ou escrever a primeira versão, ou espalhada pelo processo; a autópsia da oficina mostra qual dos dois."}
   - {min: 22, max: 30, titulo: "Atrito alto", leitura: "Os sinais apontam para um formato que não combinava com você, desde que o resto da vida não estivesse parando junto. Não tente de novo com mais força; comece pela autópsia e troque a etapa que mais custa."}
 ```
 
@@ -168,17 +166,17 @@ tempo: 25
 entrega: Um relato honesto da última tentativa, com a etapa exata em que ela quebrou, uma nota de atrito para cada etapa e a história reescrita sem culpa.
 campos:
   - rotulo: "Descreva a sua última tentativa de manter constância"
-    exemplo: "O que você prometeu a si mesmo, em que formato, com que frequência, e quanto tempo durou. Se nunca tentou publicar, use outra rotina que abandonou."
+    exemplo: "O que você prometeu a si mesmo, em que formato, com que frequência, e quanto tempo durou. Se nunca tentou publicar, use outra tarefa de produção que abandonou (um artigo, uma aula nova, um relatório)."
     linhas: 4
   - rotulo: "Em que etapa, exatamente, travou?"
-    exemplo: "Ter a ideia, estruturar, gravar ou escrever, editar, publicar. Se a rotina foi outra, use as etapas dela: separar a roupa, sair de casa, treinar, voltar. A etapa importa mais do que o dia."
+    exemplo: "Ter a ideia, estruturar, gravar ou escrever, editar, publicar. Se a tarefa foi outra, use as etapas dela: juntar o material, montar o roteiro, escrever, revisar, entregar. A etapa importa mais do que o dia."
     linhas: 3
   - rotulo: "Dê uma nota de atrito, de 0 a 10, para cada etapa"
-    exemplo: "Se a sua rotina não foi de publicação, risque as etapas que não servem e escreva as suas nas linhas em branco."
+    exemplo: "Se a sua tarefa não foi de publicação, risque as etapas que não servem e escreva as suas nas linhas em branco."
     grade:
       tipo: nota
       colunas: ["Nota"]
-      linhas: ["Ter a ideia", "Estruturar", "Gravar ou escrever", "Editar", "Publicar", "Etapa: ______________", "Etapa: ______________"]
+      linhas: ["Ter a ideia", "Estruturar", "Gravar ou escrever", "Editar", "Publicar", "Etapa: ______________", "Etapa: ______________", "Etapa: ______________"]
   - rotulo: "Por que essa etapa custava tanto para você, em particular?"
     exemplo: "Um professor de cursinho: “Sem a lousa e sem aluno na frente, eu não sabia por onde começar o vídeo. Regravava a abertura cinco vezes e desistia no meio.”"
     linhas: 4
@@ -193,13 +191,14 @@ criterios:
 
 ```rede
 titulo: Por que as pessoas desistem, na sua área
-intro: "Faça com os seus clientes o que você acabou de fazer consigo, como Renata fez com o Aurélio: o que eles abandonam, em que etapa, e o que muda quando o plano muda. A peça fala desse padrão, sem caso identificável, e nunca da sua rotina de publicação. Leva uns dez minutos."
+intro: "Faça com os seus clientes o que Renata faz com os pacientes e o que você acabou de fazer consigo: o que eles abandonam, em que etapa, e o que muda quando o plano muda. A peça fala desse padrão, sem caso identificável, e nunca da sua rotina de publicação. Leva uns dez minutos."
 regras:
   - {regra: "Fale do método antes de falar da força de vontade.", porque: "Quem desistiu já se culpou o bastante. Mostrar que o método falhou dá à pessoa um motivo para tentar de novo."}
-  - {regra: "Diga quando a desistência acontece.", porque: "“Na terceira semana” ou “quando a dor melhora” mostra que você já viu isso muitas vezes; “com o tempo” não mostra nada."}
+  - {regra: "Diga quando a desistência acontece.", porque: "“Na terceira semana” ou “depois da declaração” mostra que você já viu isso muitas vezes; “com o tempo” não mostra nada."}
   - {regra: "Termine no ajuste.", porque: "A peça existe para devolver a possibilidade de recomeçar, com um caminho diferente."}
 faca:
   - "Uma enfermeira de posto de saúde: “Quem para o remédio de pressão costuma parar no mesmo momento: quando a pressão normaliza. Antes de parar, converse com quem prescreveu.”"
+  - "Uma contadora: “Quem promete separar as notas do mês costuma desistir em abril, logo depois da declaração. Uma pasta sanfonada na gaveta da entrada dura mais do que a planilha.”"
   - Nomear a etapa em que a maioria trava, com o detalhe que você vê na prática.
   - Terminar com uma troca concreta de método, como horário, lembrete ou com quem conversar.
 evite:
@@ -218,7 +217,7 @@ roteiro: |
 
   Eu vejo isso o tempo todo: {o momento em que as pessoas param, na sua observação}.
 
-  A pergunta que eu faço é outra: qual é o jeito que cabe na vida que você tem de verdade? Na maioria das vezes que eu vejo, a resposta é {o ajuste de método que você propõe}.
+  Em vez de perguntar como se esforçar mais, eu pergunto: qual é o jeito que cabe na vida que você tem de verdade? Na maioria dos casos que acompanho, a resposta é {o ajuste de método que você propõe}.
 roteiro_nota: A peça fala dos seus clientes e do que eles tentam fazer. Em áreas de saúde, o ajuste proposto em público é de método, nunca de tratamento.
 ```
 
@@ -236,7 +235,7 @@ roteiro_nota: A peça fala dos seus clientes e do que eles tentam fazer. Em áre
     - Aumenta, porque a novidade do começo passa.
     - Permanece igual durante todo o período.
     - Oscila conforme o humor das plataformas.
-    - Diminui, porque vira hábito.
+    - Diminui, porque vira hábito e se encaixa na rotina.
   correta: 3
   explicacao: O formato compatível vira extensão do que você já faz, e fica mais barato. O incompatível acumula resistência, e fica mais caro.
 - pergunta: Por que a leitura "falta de disciplina" é perigosa?

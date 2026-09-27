@@ -1,9 +1,10 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 20:44
+# atualizado: 2026-09-27 20:47
 fases_do_projeto:
   F0: concluida
   F1: concluida
-  F2: em_andamento
+  F2: concluida
+  F3: em_andamento
 capitulos:
   1:
     status: aprovado
@@ -121,7 +122,7 @@ capitulos:
       veredito: aprovado
     nota: 9.02
   4:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 15:32
@@ -144,7 +145,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.73
+    - iteracao: 3
+      data: 2026-09-27 20:46
+      revisao: apostila/revisoes/cap04-r3.yaml
+      media: 9.02
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.02
   5:
     status: reprovado
     iteracoes:
@@ -169,12 +179,21 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.71
+    - iteracao: 3
+      data: 2026-09-27 20:47
+      revisao: apostila/revisoes/cap05-r3.yaml
+      media: 8.94
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.94
   6:
     status: rascunho
     iteracoes: []
   7:
-    status: planejado
+    status: rascunho
     iteracoes: []
   8:
     status: rascunho
@@ -343,3 +362,5 @@ decisoes:
   joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
+- 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
+  no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'

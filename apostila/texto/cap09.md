@@ -12,7 +12,7 @@ Numa segunda-feira sem paciente das duas às três, Renata abriu o caderno onde 
 
 Releu a lista e sentiu uma coisa parecida com vergonha. Estava tudo certo, e nada ali era dela. Qualquer estudante do quarto período escreveria aquelas onze linhas. Metade delas já estava, com outras cores, no perfil que o sobrinho tinha montado seis anos antes. Fechou o caderno.
 
-No domingo, no almoço de família, a irmã perguntou qual tinha sido o paciente mais difícil do ano. Renata pensou num senhor de setenta anos, ex-motorista de ônibus, que chegou encaminhado com diagnóstico de hérnia e uma lista de exercícios que pioravam tudo. E começou a falar. Contou que a dor dele era pior sentado do que em pé, ao contrário do que a hérnia faria esperar; que ele melhorava quando se inclinava para a frente no carrinho do supermercado; que foi esse detalhe, o carrinho, que a fez desconfiar de outra coisa e pedir que o médico olhasse de novo o exame. Contou o que mudou no tratamento, o que ela deixou de mandar ele fazer e por quê. Falou uns quinze minutos, com as mãos desenhando no ar a curva da coluna dele.
+Na quarta à noite, a irmã ligou para combinar o aniversário da mãe e, no meio da conversa, perguntou qual tinha sido o paciente mais difícil do ano. Renata pensou num senhor de setenta anos, ex-motorista de ônibus, que chegou encaminhado com diagnóstico de hérnia e uma lista de exercícios que pioravam tudo. E começou a falar. Contou que a dor dele era pior sentado do que em pé, ao contrário do que a hérnia faria esperar; que ele melhorava quando se inclinava para a frente no carrinho do supermercado; que foi esse detalhe, o carrinho, que a fez desconfiar de outra coisa e pedir que o médico olhasse de novo o exame. Contou o que mudou no tratamento, o que ela deixou de mandar ele fazer e por quê. Falou uns quinze minutos, andando pela sala com o telefone no ombro e as mãos desenhando no ar a curva da coluna dele.
 
 A irmã, que já tinha ouvido a história do caderno, disse o óbvio: "Isso aí não estava na sua lista."
 
@@ -20,7 +20,7 @@ Renata respondeu o que quase todo especialista responderia: aquilo era só um ca
 
 ## A regra e o dia em que ela falha
 
-O caderno e o almoço mostraram a mesma pessoa, com a mesma formação, na mesma semana, em dois estados diferentes. A diferença tem nome. A lista era informação: o que a profissão sabe, organizado em tópicos, disponível em qualquer livro-texto e em trinta segundos de busca. A história era repertório: o que Renata sabe por ter atendido muitos pacientes, incluindo os que não se comportaram como o livro prometia.
+O caderno e o telefonema mostraram a mesma pessoa, com a mesma formação, na mesma semana, em dois estados diferentes. A diferença tem nome. A lista era informação: o que a profissão sabe, organizado em tópicos, disponível em qualquer livro-texto e em trinta segundos de busca. A história era repertório: o que Renata sabe por ter atendido muitos pacientes, incluindo os que não se comportaram como o livro prometia.
 
 Há uma pergunta que separa as duas coisas, e ela serve para qualquer área: "e quando não funciona?". Quem estudou sabe a regra. Quem praticou por muitos anos sabe quando a regra falha, com que frequência, por quais sinais isso se anuncia e o que fazer no lugar. Essa segunda camada não aparece em nenhum manual, porque os manuais descrevem o caso típico, e o repertório se forma justamente nos casos que fogem dele.
 
