@@ -16,11 +16,15 @@ Guardou o áudio e abriu o caderno de campo. Procurou, entre as anotações das 
 
 A paciente sentia dor todas as semanas, mas a dor era pior na segunda e na terça e quase sumia na sexta. Tinha feito alongamento, trocado o colchão, comprado uma cadeira nova para o escritório. Na terceira sessão, Renata perguntou o que ela fazia no sábado. A resposta veio sem nenhuma importância: faxina na casa da mãe, que já não conseguia fazer sozinha, quatro horas, de joelhos e curvada, lavando o banheiro e o quintal. Renata não mudou os exercícios. Mudou o sábado, com três ajustes de postura e uma pausa a cada hora. Na quinta semana, a segunda-feira passou a ser um dia comum.
 
+Renata olhou para as duas histórias lado a lado e achou a segunda sem graça. Não havia cadeira de rodas, nem cirurgia, nem choro na escada. Havia uma mulher que limpava o banheiro da mãe de joelhos e uma fisioterapeuta que perguntou o que ela fazia no sábado. A vontade era publicar a primeira. Mas o primeiro rascunho já tinha mostrado o que ela provava, e a segunda, por ser tão comum, falava com quase todo mundo que ela queria atender.
+
 ## O argumento e o caso
 
 A diferença entre as duas histórias da Renata não está na qualidade do trabalho. Está no que cada uma pede a quem ouve. A do senhor da cadeira de rodas pede admiração. A da paciente das segundas pede que a pessoa olhe para o próprio calendário.
 
 Há também uma diferença entre contar um caso e afirmar uma coisa. Renata poderia escrever "eu investigo a rotina do paciente antes de mudar o tratamento". É verdade, e é uma afirmação sobre ela. Pede que o leitor acredite, e o leitor que ainda não a conhece não tem motivo para acreditar. Quando ela conta o caso das segundas, não afirma nada. Descreve o que aconteceu, e quem lê chega sozinho à conclusão de que ela investiga a rotina. Uma conclusão a que a pessoa chegou sozinha vira dela, e ninguém discute a própria conclusão.
+
+Otávio conhece bem essa diferença, porque ela é a base do ofício dele. Num processo, o advogado que afirma que a empresa agiu de boa-fé convence pouco. O que convence é o documento, a testemunha, a sequência de fatos que leva o juiz a concluir sozinho que houve boa-fé. Um bom caso, numa peça, funciona como uma boa prova numa audiência: ninguém precisa dizer o que ele mostra. Caio faz o mesmo sem dar nome ao método: quase toda peça dele começa por "teve uma obra" e termina num critério, como a da parede no capítulo anterior. Lúcia faz com casos compostos, do jeito que aprendeu no capítulo 13, e o domingo das seis da tarde é, no fundo, um caso-prova sobre ansiedade antecipatória.
 
 ```conceito
 termo: Caso-prova
@@ -48,7 +52,9 @@ pontos:
 legenda: Esquema ilustrativo. O caso do senhor da cadeira de rodas mora no alto, à esquerda; o da paciente das segundas, no alto, à direita.
 ```
 
-O caso comum tem ainda uma vantagem que o espetacular não tem: ele se repete. Renata tinha visto a dor das segundas em dezenas de pacientes, com versões diferentes do sábado: o jogo de futebol, a obra em casa, o neto no colo o dia inteiro. A paciente das quarenta e poucas anos era um exemplo de um padrão, e o padrão é o que torna o caso útil a quem lê. Já o senhor da cadeira de rodas era único, e a lição dele não se transfere para ninguém.
+O caso comum tem ainda uma vantagem que o espetacular não tem: ele se repete. Renata tinha visto a dor das segundas em dezenas de pacientes, com versões diferentes do sábado: o jogo de futebol, a obra em casa, o neto no colo o dia inteiro. A paciente de quarenta e poucos anos era um exemplo de um padrão, e o padrão é o que torna o caso útil a quem lê. Já o senhor da cadeira de rodas era único, e a lição dele não se transfere para ninguém.
+
+Os casos comuns quase nunca parecem casos a quem os viveu, e por isso é preciso procurá-los de propósito. O caderno de campo é o primeiro lugar, sobretudo as anotações que parecem sem importância. O inventário de perguntas do capítulo 14 é o segundo: por trás de cada pergunta recorrente existe um caso típico que a responde. "Por que a minha dor piora na segunda?" é uma pergunta; a paciente do sábado é a resposta contada como história.
 
 Isso não significa que os casos extraordinários devam ficar para sempre na gaveta. Eles têm lugar, e costumam render mais quando o especialista já é conhecido pelo trabalho comum. Contado por alguém que o público ainda não conhece, o milagre parece propaganda. Contado por alguém cujo raciocínio o público já acompanha há meses, parece consequência.
 
@@ -74,6 +80,10 @@ O terceiro tempo conta a decisão, e principalmente o motivo. Renata não mudou 
 
 O quarto tempo é o único que precisa sobreviver sozinho, fora da história: se a sua dor tem dia da semana, procure o que você faz na véspera. Sem esse tempo, Renata teria contado uma boa história. Com ele, entregou uma ferramenta que qualquer pessoa pode usar amanhã de manhã, com ou sem fisioterapeuta.
 
+## O teste do coadjuvante
+
+Há um jeito rápido de saber se um caso é prova ou vaidade. Imagine quem lê, no fim da peça, e pergunte o que ele sente. Se sente admiração por você, o caso foi de vaidade, ainda que verdadeiro e bem escrito. Se sente que aprendeu a enxergar alguma coisa, foi um caso-prova. A admiração raramente faz alguém procurar um profissional; a sensação de ter entendido o próprio problema faz.
+
 ```exemplo
 titulo: O mesmo caso, com e sem os quatro tempos
 comum: Um veterinário, sobre um atendimento. "Recebi um caso complexo, um cão que outros colegas não conseguiram ajudar. Com dedicação e a técnica certa, conseguimos um resultado excelente. A família saiu muito feliz. É por isso que eu amo o que faço."
@@ -81,17 +91,17 @@ singular: O mesmo veterinário, nos quatro tempos. "O tutor chegou achando que e
 porque: O primeiro fala do profissional e não ensina nada; nem o problema fica claro. O segundo entrega um sinal concreto e um critério que o tutor pode usar sozinho, e a competência aparece na percepção do detalhe.
 ```
 
-## O teste do coadjuvante
-
-Há um jeito rápido de saber se um caso é prova ou vaidade. Imagine quem lê, no fim da peça, e pergunte o que ele sente. Se sente admiração por você, o caso foi de vaidade, ainda que verdadeiro e bem escrito. Se sente que aprendeu a enxergar alguma coisa, foi um caso-prova. A admiração raramente faz alguém procurar um profissional; a sensação de ter entendido o próprio problema faz.
-
 O mesmo teste pega um erro comum na narração: transformar o cliente em coadjuvante emocionado. O choro no último degrau da escada, a gratidão da família, o abraço na despedida. São momentos reais e bonitos, e dizem pouco sobre o problema. Na peça, o protagonista é o problema, e o que o resolveu. O cliente aparece como alguém com quem o leitor se identifica, e nunca como plateia do profissional.
 
 Os adjetivos denunciam a vaidade antes de qualquer teste. "Complexo", "delicado", "desafiador", "de excelência" são avaliações que o profissional faz do próprio trabalho, e quem lê as desconta automaticamente. Descreva o que aconteceu, com os detalhes certos, e o leitor aplica o adjetivo sozinho. Renata cortou os três adjetivos do primeiro áudio e, ao cortar, percebeu que o caso do senhor ficava sem assunto.
 
+Há ainda um limite que nenhum caso atravessa: ele não promete resultado. O caso-prova mostra um critério em funcionamento e o que aconteceu naquela situação. Não garante que vai acontecer de novo, nem com quem lê. Nas profissões regulamentadas, os códigos de ética vedam a promessa de resultado e, em várias delas, a exibição de antes e depois. Um caso bem contado respeita esse limite sem esforço, porque o assunto dele é o critério, e não o desfecho.
+
 O sigilo vale para o caso-prova como valeu para a tradução do capítulo 13. A paciente das segundas não tem nome, idade exata, profissão nem bairro na peça que Renata gravou. O sábado da faxina virou "o sábado", e a casa da mãe sumiu, porque identificava demais. O padrão, que Renata já tinha visto em muitos pacientes, fez o resto: qualquer pessoa com dor de segunda-feira se reconheceria, e nenhuma se veria exposta.
 
 Renata gravou a versão das segundas na terça seguinte, no carro, em dois minutos e meio. Começou pela dor que piorava no começo da semana e terminou na pergunta sobre a véspera. Não disse nenhum adjetivo sobre o próprio trabalho. Na sexta, uma paciente nova marcou avaliação e, na primeira consulta, antes de qualquer pergunta, contou o que fazia aos sábados.
+
+O áudio do senhor da cadeira de rodas continua guardado no celular, com uma anotação no nome do arquivo: "para quando já me conhecerem". Renata não o apagou, nem pensa em apagar. Sabe que, um dia, contado por alguém cujo raciocínio o público já acompanha, ele vai parecer consequência, e não propaganda. Até lá, prefere os casos de segunda-feira.
 
 ```guardar
 - Um argumento pede que acreditem em você. Um caso deixa a pessoa concluir sozinha, e a conclusão passa a ser dela.

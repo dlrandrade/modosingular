@@ -513,10 +513,14 @@ def escada(d):
     passos = d["degraus"]
     n = len(passos)
     lw = (W - 10) / n
-    out, base = [], 40 + 34 * n
+    # o degrau mais baixo precisa caber número + rótulo de até três linhas
+    alt_rot = max(texto(0, 0, p["rotulo"], 9.6, INK, 600, largura=lw - 16)[1] for p in passos)
+    h0 = max(58, 40 + alt_rot)
+    passo = 26
+    out, base = [], 10 + h0 + passo * (n - 1)
     for i, p in enumerate(passos):
         x = 5 + lw * i
-        top = base - 34 * (i + 1)
+        top = base - (h0 + passo * i)
         ult = i == n - 1
         out.append(f'<rect x="{x:.1f}" y="{top}" width="{lw - 3:.1f}" height="{base - top}" fill="{ACC if ult else (ACC_L if i == n - 2 else SOFT)}"/>')
         out.append(texto(x + 8, top + 22, str(i + 1), 18, PAPER if ult else ACC_D, 400, fonte=SERIF)[0])
