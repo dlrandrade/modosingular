@@ -389,11 +389,12 @@ def b_rede(d, c):
         nota = f'<p class="remissao">{md_inline(d["roteiro_nota"])}</p>' if d.get("roteiro_nota") else ""
         rot = ('<div class="roteiro-bloco"><p class="rotulo">Roteiro de fala — para ler em voz alta, gravando</p><div class="roteiro">'
                + "".join(f"<p>{lacunas(p)}</p>" for p in paras) + f"</div>{nota}</div>")
+    bloco_esq = (f'<p class="rotulo">{esc(d.get("esqueleto_rotulo", "Esqueleto da peça — rascunhe aqui"))}</p>'
+                 f'<div class="esqueleto">{esq}</div>')
+    fe = (f'<div class="faca-evite"><div class="faca"><p class="rotulo">Faça assim</p><ul>{faca}</ul></div>'
+          f'<div class="evite"><p class="rotulo">Evite</p><ul>{evite}</ul></div></div>')
     return (f'<section class="rede">{cab_secao(f"Do caderno para a rede · Capítulo {c.n}", d["titulo"], d.get("intro", ""))}'
-            f'<ol class="regras">{regras}</ol>'
-            f'<p class="rotulo">{esc(d.get("esqueleto_rotulo", "Esqueleto da peça — rascunhe aqui"))}</p><div class="esqueleto">{esq}</div>'
-            f'<div class="faca-evite"><div class="faca"><p class="rotulo">Faça assim</p><ul>{faca}</ul></div>'
-            f'<div class="evite"><p class="rotulo">Evite</p><ul>{evite}</ul></div></div>{rot}</section>')
+            f'<ol class="regras">{regras}</ol>' + (fe + bloco_esq if d.get("faca_antes") else bloco_esq + fe) + f'{rot}</section>')
 
 
 def b_verificacao(d, c):
@@ -445,10 +446,11 @@ def sem_hifen(h: str) -> str:
 def md_prosa(s: str, c: Ctx) -> str:
     h = sem_hifen(md(s))
 
-    def legenda(m):
+    def legenda(m):  # título e tabela num bloco só: o rótulo nunca fica órfão no pé da página
         c.tab += 1
-        return f'<table><caption><span class="num">Tabela {c.n}.{c.tab}</span>{m.group(1)}</caption>'
-    return re.sub(r"<p>Tabela:\s*(.*?)</p>\s*<table>", legenda, h, flags=re.S)
+        return (f'<div class="tabela"><p class="tab-leg"><span class="num">Tabela {c.n}.{c.tab}</span>{m.group(1)}</p>'
+                f'<table>{m.group(2)}</table></div>')
+    return re.sub(r"<p>Tabela:\s*(.*?)</p>\s*<table>(.*?)</table>", legenda, h, flags=re.S)
 
 
 def render_cap(n: int) -> tuple[str, dict]:

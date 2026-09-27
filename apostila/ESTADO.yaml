@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 15:58
+# atualizado: 2026-09-27 16:01
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -216,6 +216,7 @@ figurantes:
   - 1
   contadora:
   - 1
+  - 3
   advogada de família:
   - 1
   dentista:
@@ -257,6 +258,18 @@ figurantes:
   - 1
   corretora de imóveis:
   - 2
+  professora de pilates:
+  - 3
+  treinador de natação:
+  - 3
+  mecânico:
+  - 3
+  advogada previdenciária:
+  - 3
+  instrutor de autoescola:
+  - 3
+  ceramista:
+  - 3
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
