@@ -444,7 +444,7 @@ CSS_EXTRA = 'a.pg::after { content: target-counter(attr(href), page); }'
 
 def build(caps: list[int], saida: Path, png: bool, grafica: bool, completo: bool) -> Path:
     from weasyprint import CSS, HTML
-    html = html_livro(caps, completo)
+    html = html_livro(caps, True)
     SAIDA.mkdir(exist_ok=True)
     (SAIDA / "ultimo.html").write_text(html)
     extra = [CSS(string=CSS_EXTRA)]
