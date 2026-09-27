@@ -564,14 +564,20 @@ ficção de primeira linha no Brasil. Nota 9 significa "excelente, só ajuste de
 Trabalhe a partir do diretório /home/user/modosingular.
 
 LEIA, NESTA ORDEM:
-1. apostila/ORQUESTRADOR.yaml — seções briefing, voz, antivicios, elenco, estrutura_do_capitulo,
-   figuras, rubrica e o plano do capítulo {n} em `capitulos`.
+0. Se `python3 -c "import weasyprint, yaml, markdown"` falhar: pip install -q weasyprint pyyaml markdown pypdfium2
+1. apostila/ORQUESTRADOR.yaml — seções briefing, voz, antivicios, licoes_da_revisao (regras aprendidas
+   em revisões anteriores; valem para este capítulo), elenco, estrutura_do_capitulo, figuras,
+   rubrica e o plano do capítulo {n} em `capitulos`.
 2. O capítulo-fonte do PWA:  python3 apostila/orquestrador.py fonte {n}
 3. O manuscrito:  apostila/texto/cap{n:02d}.md  (os blocos ```...``` viram boxes, figuras,
    oficina com linhas de escrita etc. na diagramação).
 4. O lint automático:  python3 apostila/orquestrador.py lint {n}
-5. As páginas diagramadas: apostila/saida/qa/cap{n:02d}/*.png — abra com a ferramenta Read ao
-   menos a abertura, duas páginas de texto com figura, a oficina e o fechamento.{extra}
+5. As páginas diagramadas: apostila/saida/qa/cap{n:02d}/pNNN.png. O capítulo começa na p011 (abertura)
+   e vai até a página anterior ao "A. Gabarito comentado"; as demais são pré e pós-textuais.
+   Abra com a ferramenta Read ao menos a abertura, duas páginas de texto com figura, a oficina,
+   a seção de rede e o fechamento. Espaço em branco antes de uma seção que precisa de página
+   inteira (autodiagnóstico, oficina) ou antes de um esqueleto de escrita indivisível é aceito
+   pelo projeto; aponte os demais.{extra}
 
 AVALIE cada critério da rubrica de 0 a 10 (use décimos). Cada nota abaixo de 9,5 precisa
 de ao menos uma evidência citada entre aspas do próprio texto (ou da página, no caso de
@@ -592,6 +598,7 @@ problemas:                  # do mais grave ao menos grave
     por_que: "..."
     correcao: "reescrita sugerida ou instrução precisa"
 edicoes_de_linha: []        # trocas pequenas "de -> para"
+diagramacao: []             # problemas visuais concretos, com página
 veredito: "uma frase"
 
 Não edite o manuscrito nem nenhum outro arquivo além do YAML de revisão. Não rode o
