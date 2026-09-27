@@ -326,6 +326,30 @@ def matriz(d):
     return svg("".join(out), y + 6)
 
 
+def ficha(d):
+    """Ficha de arquivo: cabeçalho com um nome e linhas rótulo → conteúdo."""
+    L, R = 6, W - 6
+    out, y = [], 10
+    s_, h = texto(L + 14, y + 22, d["nome"], 13, INK, 600, fonte=SERIF)
+    corpo = [s_]
+    y += 22 + 12
+    corpo.append(f'<line x1="{L + 14}" y1="{y}" x2="{R - 14}" y2="{y}" stroke="{ACC}" stroke-width="1.2"/>')
+    y += 16
+    for i, ln in enumerate(d["linhas"]):
+        r_, hr = texto(L + 14, y + 10, ln["rotulo"].upper(), 8, ACC_D, 600, largura=150, esp=0.4)
+        v_, hv = texto(L + 190, y + 10, ln["valor"], 10.2, INK, largura=R - L - 205)
+        corpo += [r_, v_]
+        y += max(hr, hv) + 12
+        if i < len(d["linhas"]) - 1:
+            corpo.append(f'<line x1="{L + 14}" y1="{y - 6}" x2="{R - 14}" y2="{y - 6}" stroke="{LINE}" stroke-width=".6"/>')
+    y += 4
+    out.append(f'<rect x="{L}" y="4" width="{R - L}" height="{y - 4:.1f}" rx="3" fill="{PAPER}" stroke="{INK3}" stroke-width=".8"/>')
+    out.append(f'<line x1="{L + 34}" y1="4" x2="{L + 34}" y2="{y:.1f}" stroke="{ACC_L}" stroke-width=".8"/>' if d.get("margem") else "")
+    out += corpo
+    y = _legenda(out, y + 6, d)
+    return svg("".join(out), y + 4)
+
+
 def _bolinha(x, y, r, v):
     if v == 2:
         return f'<circle cx="{x:.1f}" cy="{y}" r="{r}" fill="{ACC}"/>'
@@ -511,7 +535,7 @@ def escada(d):
 
 FIGURAS = {
     "gap": gap, "funil": funil, "quadrante": quadrante, "fluxo": fluxo, "ciclo": ciclo,
-    "camadas": camadas, "espectro": espectro, "balanca": balanca, "matriz": matriz,
+    "camadas": camadas, "espectro": espectro, "balanca": balanca, "matriz": matriz, "ficha": ficha,
     "orbita": orbita, "barras": barras, "linha": linha, "area": area, "radar": radar,
     "escada": escada,
 }
