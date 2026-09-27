@@ -18,7 +18,7 @@ Dezembro tinha horas sobrando e nenhuma disposição. A agenda vazia prometeu um
 
 ## Todo dia de quem
 
-A recomendação de publicar todos os dias, ou quase, circula como se valesse para qualquer pessoa. Ela foi pensada para quem vive de produzir conteúdo e tem o dia inteiro para isso. Quem atende tem outra rotina: o ortopedista tem plantão, a professora tem fim de semestre, o tributarista tem fechamento de balanço, a confeiteira tem dezembro. Todos têm, também, semanas em que a cabeça fica presa num caso difícil e não sobra espaço para mais nada. Um calendário de publicação que ignora isso foi feito para outra pessoa.
+A recomendação de publicar todos os dias, ou quase, circula como se valesse para qualquer pessoa. Ela foi pensada para quem vive de produzir conteúdo e tem o dia inteiro para isso. Quem atende tem outra rotina: o ortopedista tem plantão, a professora tem fim de semestre, o tributarista tem fechamento de balanço, a confeiteira tem dezembro. Todos têm, também, semanas em que a cabeça fica presa num caso difícil e não sobra espaço para mais nada. A recomendação chega acompanhada de horário ideal para publicar, tamanho ideal de texto e duração ideal de vídeo, tudo calculado para quem não tem paciente marcado às sete e meia da manhã. Um calendário de publicação que ignora isso foi feito para outra pessoa.
 
 O erro mais frequente é calibrar o ritmo no melhor momento. O plano nasce num domingo de entusiasmo, depois de um curso ou de uma conversa animada, e passa o resto do ano servindo de régua. Cada semana que fica abaixo dele vira prova de fracasso. Lúcia cometeu uma versão mais sutil do mesmo erro: calibrou pelo mês de mais horas livres, sem perguntar quanta energia viria junto com elas.
 
@@ -44,9 +44,9 @@ unidade: peças publicadas, acumuladas desde janeiro
 labels: ["M1", "M3", "M6", "M9", "M12"]
 x: [1, 3, 6, 9, 12]
 series:
-  - {nome: "Prometeu 5 por semana e parou no 1º mês", pontos: [20, 20, 20, 20, 20]}
-  - {nome: "Prometeu 3 por semana e parou no 3º mês", pontos: [13, 39, 39, 39, 39]}
-  - {nome: "Prometeu 2 por semana e manteve", pontos: [9, 26, 52, 78, 104], destaque: true}
+  - {nome: "5 por semana, parou no 1º mês", pontos: [20, 20, 20, 20, 20]}
+  - {nome: "3 por semana, parou no 3º mês", pontos: [13, 39, 39, 39, 39]}
+  - {nome: "2 por semana, o ano todo", pontos: [9, 26, 52, 78, 104], destaque: true}
 legenda: Esquema ilustrativo, feito só com aritmética. A presença de um ano é a soma das semanas em que a linha continuou subindo.
 ```
 
@@ -85,6 +85,8 @@ O quarto passo é tirar trinta por cento e dividir. A margem existe porque o pio
 
 O número decepcionou Lúcia. Ela queria três, tinha feito seis em seis semanas antes do plano, e um parecia pouco para quem começava a gostar de publicar. Fez então a conta do ano. Uma peça por semana, sem quebra, são cinquenta e duas. O plano de três por semana tinha produzido quatro antes de parar.
 
+Renata fez a mesma conta em Curitiba, com outros números. Desde que passou a gravar áudios no estacionamento da clínica, uma peça lhe custava uns quarenta minutos, contando o tempo de passar o áudio a limpo. Julho, o mês dela, deixava quatro blocos de meia hora por semana com cabeça boa, dois deles no carro, antes de ligar o motor, e dois no fim da tarde de dias mais leves. Cento e vinte minutos, menos a margem, davam oitenta e quatro; divididos por quarenta, pouco mais de dois. Duas peças por semana, o ano inteiro. Ela anotou o número no caderno com uma condição ao lado: a segunda peça só sai se a primeira já saiu, para que uma semana ruim nunca vire duas dívidas.
+
 ## O piso, o teto e o dia marcado
 
 Existe um piso abaixo do qual o ritmo deixa de acumular. Quem publica uma vez por mês é esquecido entre uma peça e outra, e cada texto é lido como se fosse o primeiro. A partir de uma peça por semana, quem lê começa a reconhecer o nome e a esperar a próxima. Nenhuma pesquisa fixa esse piso com precisão para cada área, e o esquema abaixo serve de orientação.
@@ -105,7 +107,7 @@ legenda: Esquema ilustrativo. Acima do piso, o que pesa é a duração; abaixo d
 
 Se a sua conta der menos que o piso, olhe primeiro para o custo de cada peça, antes de procurar mais horas na semana. É ali que os capítulos 5 e 7 ajudam: encontrar a etapa cara e trocá-la por uma que combine com o seu modo. Lúcia tinha essa saída guardada. Se passar a limpo continuasse custando trinta e um minutos, ela poderia publicar o próprio áudio da resposta, com um parágrafo de apresentação, e o custo cairia pela metade.
 
-O teto também existe, e é o mês bom que o esconde. Quando março chegar com a agenda cheia e a energia de volta, vai aparecer a vontade de subir o número. Suba só depois de atravessar um pior mês inteiro sem quebra, e suba pouco. Nos meses bons, a folga pode virar peças guardadas para o mês ruim, e nunca um número maior prometido a si mesmo.
+O teto também existe, e é o mês bom que o esconde. Quando março chegar com a agenda cheia e a energia de volta, vai aparecer a vontade de subir o número. Suba só depois de atravessar um pior mês inteiro sem quebra, e suba pouco. Nos meses bons, a folga pode virar peças guardadas para o mês ruim, e nunca um número maior prometido a si mesmo. Caio faz isso sem chamar de método. Nas semanas de obra tranquila, grava dois ou três áudios a mais, sobre perguntas que sabe que vão voltar, e deixa na gaveta do celular. Na semana de entrega, quando não sobra meia hora para pensar, publica um deles e a sequência continua.
 
 Falta o último elemento, e sem ele a conta vira intenção: o dia e a hora. Um ritmo sem lugar fixo na semana compete com tudo o que aparece e perde quase sempre. Lúcia escolheu a terça às oito, antes do primeiro paciente. A pergunta da amiga chegava na segunda à noite; ela dormia com a pergunta e respondia de manhã, com o café, em voz alta, na sala de atendimento ainda vazia.
 
@@ -113,7 +115,7 @@ Em março, com a agenda cheia de novo, a terça das oito continuou de pé. Na d�
 
 ```guardar
 - Calibre o ritmo pelo pior mês do ano, e meça esse mês em energia, além de horas.
-- Presença é o que se acumula: duas peças por semana durante um ano deixam muito mais do que cinco por semana durante um mês.
+- "Presença é o que se acumula: duas peças por semana durante um ano deixam muito mais do que cinco por semana durante um mês."
 - Uma peça custa mais do que você imagina. Cronometre antes de prometer.
 ```
 
@@ -184,15 +186,15 @@ roteiro_nota: Um prazo por peça, sempre com a condição. Em áreas regulamenta
 ```verificacao
 - pergunta: Por que calibrar o ritmo pelo pior mês do ano?
   opcoes:
-    - Porque publicar menos costuma trazer mais alcance.
+    - Porque publicar menos costuma trazer mais alcance nas redes.
     - Porque é o único número que sobrevive ao ano inteiro.
     - Porque o pior mês costuma ter mais tempo livre.
-    - Porque as plataformas preferem frequência baixa.
+    - Porque as plataformas preferem quem publica pouco e sempre.
   correta: 1
   explicacao: Um ritmo calculado no mês bom quebra no mês ruim, e cada quebra custa uma volta pesada, com culpa e promessa de compensar. O número do pior mês é o que se repete em todos os outros.
 - pergunta: O que enganou a Lúcia em dezembro?
   opcoes:
-    - A falta de perguntas para responder.
+    - A falta de perguntas novas para responder.
     - O formato, que não combinava com ela.
     - A agenda vazia, com horas e sem energia.
     - A amiga, que parou de mandar perguntas.
@@ -208,7 +210,7 @@ roteiro_nota: Um prazo por peça, sempre com a condição. Em áreas regulamenta
   explicacao: Quem publica duas vezes por semana o ano inteiro termina com mais de cem peças; quem começa com cinco e para no primeiro mês termina com vinte. A soma depende da duração.
 - pergunta: Para que serve a margem de trinta por cento?
   opcoes:
-    - Para publicar menos do que o necessário.
+    - Para publicar menos do que seria necessário.
     - Para sobrar tempo para outras redes.
     - Para corrigir a cronometragem feita de memória.
     - Para absorver o imprevisto que o pior mês traz.

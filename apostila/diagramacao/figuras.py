@@ -264,8 +264,8 @@ def espectro(d):
     out = [f'<defs><linearGradient id="gesp" x1="0" x2="1"><stop offset="0" stop-color="{SOFT}"/>'
            f'<stop offset="1" stop-color="{ACC}"/></linearGradient></defs>',
            f'<rect x="{L}" y="{Y - 5}" width="{R - L}" height="10" fill="url(#gesp)"/>',
-           texto(L, Y + 40, d["esquerda"], 9.5, INK2, 600)[0],
-           texto(R, Y + 40, d["direita"], 9.5, ACC_D, 600, "end")[0]]
+           texto(L, Y + 54, d["esquerda"], 9.5, INK2, 600)[0],
+           texto(R, Y + 54, d["direita"], 9.5, ACC_D, 600, "end")[0]]
     for i, m in enumerate(sorted(d["marcas"], key=lambda m: m["pos"])):
         x = L + (R - L) * m["pos"] / 100
         cima = i % 2 == 0
@@ -277,7 +277,7 @@ def espectro(d):
         else:
             s, _ = texto(x, Y + 24, m["rotulo"], 10, INK, 600, anc, largura=120)
         out.append(s)
-    y = _legenda(out, 122, d)
+    y = _legenda(out, 134, d)
     return svg("".join(out), y + 2)
 
 
@@ -429,6 +429,10 @@ def linha(d, area=False):
         minimo = fins[i - 1][0] + rot[i - 1] + 3
         if fins[i][0] < minimo:
             fins[i][0] = minimo
+    if fins and fins[-1][0] + rot[-1] - 10 > B:  # estourou o eixo: sobe a pilha inteira
+        fins[-1][0] = B - rot[-1] + 10
+        for i in range(len(fins) - 2, -1, -1):
+            fins[i][0] = min(fins[i][0], fins[i + 1][0] - rot[i] - 3)
     for y, nome, dest in fins:
         if nome:
             out.append(texto(R + 10, y + 3, nome, 9.5, INK if dest else INK2, 600 if dest else 400, largura=W - R - 12)[0])
