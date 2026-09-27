@@ -68,6 +68,21 @@ def arq_cap(n: int) -> Path:
 BLOCO_RE = re.compile(r"^```(\w[\w-]*)\s*\n(.*?)^```\s*$", re.S | re.M)
 
 
+def carregar_yaml(txt: str):
+    """YAML tolerante: valores de texto com ': ' dentro são citados automaticamente."""
+    try:
+        return yaml.safe_load(txt)
+    except yaml.YAMLError:
+        linhas = []
+        for l in txt.splitlines():
+            m = re.match(r'^(\s*(?:- )?\w+: )(.+)$', l)
+            if m and ": " in m.group(2) and m.group(2)[0] not in "\"'[{|>":
+                v = m.group(2).replace("\\", "\\\\").replace('"', '\\"')
+                l = f'{m.group(1)}"{v}"'
+            linhas.append(l)
+        return yaml.safe_load("\n".join(linhas))
+
+
 def ler_cap(n: int) -> tuple[dict, str]:
     txt = arq_cap(n).read_text()
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", txt, re.S)
@@ -96,7 +111,7 @@ def textos_dos_blocos(corpo: str) -> str:
                 coleta(x)
     for m in BLOCO_RE.finditer(corpo):
         try:
-            coleta(yaml.safe_load(m.group(2)))
+            coleta(carregar_yaml(m.group(2)))
         except yaml.YAMLError as e:
             partes.append(f"<<YAML inválido em bloco {m.group(1)}: {e}>>")
     return "\n".join(partes)
@@ -175,7 +190,7 @@ def lint(n: int, silencioso=False) -> dict:
     # verificação: posição das corretas e comprimento das opções
     for m in BLOCO_RE.finditer(corpo):
         if m.group(1) == "verificacao":
-            qs = yaml.safe_load(m.group(2))
+            qs = carregar_yaml(m.group(2))
             pos = [q["correta"] for q in qs]
             if len(qs) >= 3 and len(set(pos)) < min(3, len(qs)):
                 erros.append(f"verificação: corretas pouco variadas {pos} (use ao menos 3 posições diferentes)")
@@ -284,18 +299,27 @@ def b_autodiagnostico(d, c):
     k = len(esc_)
     cab = "<tr><th></th>" + "".join(f"<th>{esc(e)}</th>" for e in esc_) + "</tr>"
     corpo = ""
+    eixos = d.get("eixos")  # {"O": "Oral", ...}: soma por eixo em vez de soma total
+    if eixos:
+        cab = "<tr><th></th><th class='ex'>Eixo</th>" + "".join(f"<th>{esc(e)}</th>" for e in esc_) + "</tr>"
     for it in d["itens"]:
         nums = list(range(k, 0, -1)) if it.get("invertido") else list(range(1, k + 1))
-        corpo += (f'<tr><td>{md_inline(it["texto"])}</td>'
+        tag = f'<td class="ex">{it["eixo"]}</td>' if eixos else ""
+        corpo += (f'<tr><td>{md_inline(it["texto"])}</td>{tag}'
                   + "".join(f'<td class="op"><span>{v}</span></td>' for v in nums) + "</tr>")
     faixas = "".join(
-        f'<div class="faixa"><div class="intervalo">{f["min"]}–{f["max"]}</div><div><b>{esc(f["titulo"])}</b>'
-        f'<p>{md_inline(f["leitura"])}</p></div></div>' for f in d["faixas"])
+        f'<div class="faixa"><div class="intervalo">{esc(f["rotulo"]) if f.get("rotulo") else str(f["min"]) + "–" + str(f["max"])}</div>'
+        f'<div><b>{esc(f["titulo"])}</b><p>{md_inline(f["leitura"])}</p></div></div>' for f in d["faixas"])
+    if eixos:
+        somas = ('<div class="somas">' + "".join(
+            f'<div><span class="txt">{esc(nome)} ({letra})</span><span class="caixa"></span></div>'
+            for letra, nome in eixos.items()) + '</div>')
+    else:
+        somas = '<p class="soma"><span class="txt">Soma dos números circulados</span><span class="caixa"></span></p>'
+    nota = f'<p class="nota-escala">{md_inline(d["nota"])}</p>' if d.get("nota") else ""
     return (f'<section class="autodiag">{cab_secao(f"Autodiagnóstico · Capítulo {c.n}", d["titulo"])}'
             f'<p class="instrucao">{md_inline(d["instrucao"])}</p><table class="escala">{cab}{corpo}</table>'
-            f'<p class="soma"><span class="txt">Soma dos números circulados</span><span class="caixa"></span></p>'
-            + (f'<p class="nota-escala">{md_inline(d["nota"])}</p>' if d.get("nota") else "") +
-            f'<div class="faixas">{faixas}</div></section>')
+            f'{somas}{nota}<div class="faixas">{faixas}</div></section>')
 
 
 def b_oficina(d, c):
@@ -395,7 +419,7 @@ def render_cap(n: int) -> tuple[str, dict]:
         tipo = m.group(1)
         if tipo not in BLOCOS:
             raise SystemExit(f"cap{n:02d}: bloco desconhecido '{tipo}'")
-        html = BLOCOS[tipo](yaml.safe_load(m.group(2)), c)
+        html = BLOCOS[tipo](carregar_yaml(m.group(2)), c)
         if tipo in SECOES:
             no_texto = False
         (texto_html if no_texto else secoes_html).append(html)
@@ -459,7 +483,7 @@ def html_livro(caps: list[int], completo: bool) -> str:
     glo = '<section class="apendice" id="ap-B"><h1>B. Glossário dos conceitos</h1><dl class="glossario">'
     for n in caps:
         for m in BLOCO_RE.finditer(meta[n][1]["corpo"]):
-            d = yaml.safe_load(m.group(2))
+            d = carregar_yaml(m.group(2))
             if m.group(1) == "verificacao":
                 qs = d if isinstance(d, list) else d["questoes"]
                 gab += f'<p class="gab-cap" id="gab-{n}">Capítulo {n} · {esc(meta[n][1]["fm"]["titulo"])}</p>'

@@ -56,6 +56,11 @@ html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color:
 .nh { hyphens: manual; }
 .nq { white-space: nowrap; }
 .texto p, .prosa p { hyphenate-limit-chars: 6 3 3; }
+.escala th.ex, .escala td.ex { width: 8mm; text-align: center; font: 600 7.4pt var(--sans); color: var(--acc-d); }
+.somas { display: flex; gap: 3mm; margin: 0 0 3mm; }
+.somas > div { flex: 1; border-top: 1pt solid var(--ink); padding-top: 1.4mm; }
+.somas .txt { display: block; font: 600 6.6pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 1mm; }
+.somas .caixa { display: block; height: 8mm; border: .8pt solid var(--ink); }
 .nota-escala { font: italic 8.8pt/12pt var(--serif); color: var(--ink-2); margin: -1mm 0 3mm; text-align: left; }
 body { margin: 0; }
 
