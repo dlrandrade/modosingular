@@ -30,7 +30,7 @@ def aspas(t) -> str:
 def _larg(txt: str, tam: float) -> float:
     estreitas = sum(1 for c in txt if c in "ilIjtf.,;:!'|() ")
     largas = sum(1 for c in txt if c in "mwMWOQ@")
-    return tam * (0.54 * (len(txt) - estreitas - largas) + 0.3 * estreitas + 0.8 * largas)
+    return tam * (0.6 * (len(txt) - estreitas - largas) + 0.32 * estreitas + 0.86 * largas)
 
 
 def quebrar(txt: str, largura: float, tam: float) -> list[str]:
@@ -83,7 +83,7 @@ HACHURA = (f'<defs><pattern id="hach" width="6" height="6" patternUnits="userSpa
 
 def _legenda(out, y, d):
     if d.get("legenda"):
-        s, h = texto(0, y + 10, d["legenda"], 9.6, INK2, largura=W, estilo="italic")
+        s, h = texto(0, y + 10, d["legenda"], 9.6, INK2, largura=W - 8, estilo="italic")
         out.append(s)
         y += h + 6
     return y
@@ -377,7 +377,7 @@ def barras(d):
 def linha(d, area=False):
     labels = d["labels"]
     series = d.get("series") or [{"nome": d.get("nome", ""), "pontos": d["pontos"], "destaque": True}]
-    L, R, T, B = 20, 360, 12, 190
+    L, R, T, B = 34, 360, 12, 190
     mx = max(max(s["pontos"]) for s in series) * 1.08 or 1
     out = []
     for k in range(5):
@@ -386,8 +386,9 @@ def linha(d, area=False):
     out.append(f'<line x1="{L}" y1="{B}" x2="{R}" y2="{B}" stroke="{INK3}" stroke-width="1"/>')
     n = len(labels)
     xs = [L + (R - L) * i / (n - 1) for i in range(n)]
-    for x, lb in zip(xs, labels):
-        out.append(texto(x, B + 15, lb, 9, INK2, 400, "middle")[0])
+    for i, (x, lb) in enumerate(zip(xs, labels)):
+        anc = "start" if i == 0 else ("end" if i == n - 1 and area else "middle")
+        out.append(texto(x - (4 if anc == "start" else 0), B + 16, lb, 9, INK2, 400, anc)[0])
     fins = []
     for s in series:
         pts = [(x, B - (B - T) * v / mx) for x, v in zip(xs, s["pontos"])]
