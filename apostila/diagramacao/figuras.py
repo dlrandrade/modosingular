@@ -50,7 +50,7 @@ def quebrar(txt: str, largura: float, tam: float) -> list[str]:
 def texto(x, y, txt, tam=11, cor=INK, peso=400, ancora="start", largura=None,
           entrelinha=1.3, fonte=SANS, estilo="normal", esp=0.0) -> tuple[str, float]:
     """Texto com quebra. Devolve (svg, altura_ocupada). Corpo mínimo ~8 pt impresso."""
-    tam = max(tam * ESCALA, 10.8)
+    tam = max(tam * ESCALA, 11.4)
     txt = aspas(txt)
     linhas = quebrar(txt, largura, tam) if largura else [str(txt)]
     partes = [f'<tspan x="{x:.1f}" dy="{0 if i == 0 else tam * entrelinha:.1f}">{escape(l)}</tspan>'
@@ -112,8 +112,9 @@ def gap(d):
     out.append(f'<rect x="{min(xa, xb):.1f}" y="{yb}" width="{abs(xa - xb):.1f}" height="22" '
                f'fill="url(#hach)" stroke="{ACC}" stroke-width=".8"/>')
     rot = d.get("rotulo_distancia", "a distância")
-    out.append(f'<rect x="{(xa + xb) / 2 - _larg(rot, 9.5) / 2 - 4:.1f}" y="{yb + 5}" '
-               f'width="{_larg(rot, 9.5) + 8:.1f}" height="13" fill="{PAPER}"/>')
+    lr = _larg(rot, 11.4) + 12
+    out.append(f'<rect x="{(xa + xb) / 2 - lr / 2:.1f}" y="{yb + 3}" rx="2" '
+               f'width="{lr:.1f}" height="16" fill="{PAPER}" stroke="{ACC}" stroke-width=".8"/>')
     out.append(texto((xa + xb) / 2, yb + 15, rot, 9.5, ACC_D, 600, "middle")[0])
     y = _legenda(out, y - 4, d)
     return svg("".join(out), y + 4)

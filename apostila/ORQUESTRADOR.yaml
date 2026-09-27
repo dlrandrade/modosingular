@@ -169,6 +169,8 @@ antivicios:
     pergunta_resposta: 1  # "O resultado? Um..." (pergunta curta respondida em seguida)
     virgula_e_nao: 3      # ", e não Y" — a antítese disfarçada (revisão cap01-r1)
     sinalizacao: 1        # "vale olhar", "convém", "antes de seguir", "por ora"... narrador que anuncia
+    suposicao_leitor: 1   # "Talvez você…", "É provável que você…", "Você provavelmente…"
+    te_pronome: 0         # "te" fora do roteiro de fala (tratamento é "você")
   limites_por_mil_palavras:   # AVISO
     travessao: 7          # "—" na prosa
     interrogacao: 8
@@ -191,6 +193,14 @@ licoes_da_revisao:
   - "cap01-r1: nada de afirmação empírica sem fonte ('quase todo mundo faz isso hoje'); nada de promessa ('vai gerar diferença perceptível'); autodiagnóstico 'estima', não 'mede'."
   - "cap01-r1: fecho do texto termina em consequência prática; não listar as seções seguintes do capítulo; não apresentar o elenco como ficha (dar a cada um uma imagem)."
   - "cap01-r1: exemplos da oficina em profissões diferentes da do personagem em foco, sem autoelogio."
+  - "cap01-r2: tratamento uniforme com 'você' na prosa e nos blocos ('a quem ainda não conhece você'); 'te' só é aceito dentro do roteiro de fala, que imita a fala."
+  - "cap01-r2: no máximo uma suposição sobre o leitor por capítulo ('Talvez você…', 'É provável que você…', 'Você provavelmente…'). Afirme."
+  - "cap01-r2: exemplos de 'Faça assim' nunca contêm indireta a colegas ('por que ninguém tinha visto isso antes')."
+  - "cap01-r2: toda instrução de pontuação precisa ser testada linha a linha contra os itens invertidos."
+  - "cap01-r2: coerência de arco: nada no capítulo N pode negar o que o ponto_de_partida do personagem prevê para capítulos seguintes (ex.: a tentativa de carrossel da Renata)."
+  - "cap01-r2: a mesma batida narrativa ('quase foi embora') no máximo duas vezes por capítulo; o fecho da cena traz um ganho novo."
+  - "cap01-r2: parágrafo com no máximo 6 frases; seção não vira depósito de assuntos que o intertítulo não cobre."
+  - "cap01-r2: o personagem em foco mostra o seu modo de pensar (ver elenco.modo) já na primeira cena em que aparece."
 
 # ---------------------------------------------------------------------
 elenco:

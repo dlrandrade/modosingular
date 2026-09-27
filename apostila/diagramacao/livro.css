@@ -54,6 +54,9 @@
 
 html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color: var(--ink); }
 .nh { hyphens: manual; }
+.nq { white-space: nowrap; }
+.texto p, .prosa p { hyphenate-limit-chars: 6 3 3; }
+.nota-escala { font: italic 8.8pt/12pt var(--serif); color: var(--ink-2); margin: -1mm 0 3mm; text-align: left; }
 body { margin: 0; }
 
 /* ------------------------------------------------------------- texto corrido */
@@ -144,7 +147,7 @@ strong { font-weight: 600; }
 
 .guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3.4mm 0 1mm; margin-top: 8mm; }
 .guardar .rotulo { margin-bottom: 3.4mm; }
-.texto > p:nth-last-child(2), .texto > .guardar { break-before: avoid; }
+.texto > .guardar { break-before: avoid; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
 .guardar li { position: relative; padding-left: 8mm; margin: 0 0 2.6mm;
   font-size: 10pt; line-height: 14pt; text-align: left; hyphens: auto; }
@@ -232,7 +235,7 @@ table.escala { width: 100%; border-collapse: collapse; margin: 0 0 4mm; font: 40
 .faca-evite .faca { border-top: 1.6pt solid var(--acc); padding-top: 2mm; }
 .faca-evite .evite { border-top: 1.6pt solid var(--ink-3); padding-top: 2mm; }
 
-.esqueleto { margin: 0 0 5mm; }
+.esqueleto { margin: 0 0 5mm; break-inside: avoid; }
 .rotulo + .esqueleto, p.rotulo { break-after: avoid; }
 .esqueleto .parte { display: flex; gap: 4mm; border-top: .4pt solid var(--line); padding: 2.2mm 0 0; break-inside: avoid; }
 .esqueleto .parte .qual { flex: 0 0 28mm; font: 600 6.8pt/10pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--acc-d); padding-top: .6mm; }

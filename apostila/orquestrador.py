@@ -38,7 +38,7 @@ TEXTO = RAIZ / "texto"
 FONTE = RAIZ / "fonte"
 SAIDA = RAIZ / "saida"
 DIAG = RAIZ / "diagramacao"
-STATUS = ["planejado", "rascunho", "em_revisao", "reprovado", "aprovado"]
+STATUS = ["planejado", "rascunho", "em_revisao", "reprovado", "aprovado_pendente_ordem", "aprovado"]
 ROMANO = ["", "I", "II", "III", "IV", "V"]
 
 
@@ -133,9 +133,14 @@ def lint(n: int, silencioso=False) -> dict:
     e_nao = re.findall(r",\s+e não\b", prosa)
     sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante)", prosa)
     repare = re.findall(r"\b(?:Repare|Perceba|Note que|Observe que)\b", prosa)
+    supos = re.findall(r"\b(?:Talvez você|É provável que você|Você provavelmente|Você já deve ter|Você certamente)\b", prosa)
+    blocos_sem_roteiro = textos_dos_blocos(re.sub(r"(?ms)^roteiro: \|.*?(?=^roteiro_nota:|^```)", "", corpo))
+    sem_falas = re.sub(r"“[^”]*”|\"[^\"]*\"", "", prosa + "\n" + blocos_sem_roteiro)
+    te = re.findall(r"(?i).{0,25}\bte\b.{0,25}", sem_falas)
     perg_resp = re.findall(r"(?:^|[.?!]\s+)(?:[A-ZÀ-Ý][^.?!\s]*(?:\s[^.?!\s]+){0,4})\?\s+[A-ZÀ-Ý][^.?!]{0,70}\.", prosa)
     for nome, lista in (("nao_e_e", nao_e), ("frase_soco", socos), ("repare_perceba", repare),
-                        ("pergunta_resposta", perg_resp), ("virgula_e_nao", e_nao), ("sinalizacao", sinal)):
+                        ("pergunta_resposta", perg_resp), ("virgula_e_nao", e_nao), ("sinalizacao", sinal),
+                        ("suposicao_leitor", supos), ("te_pronome", te)):
         metr[nome] = len(lista)
         if len(lista) > lim[nome]:
             erros.append(f"{nome}: {len(lista)} (máx {lim[nome]}) -> " + " | ".join(x.strip()[:70] for x in lista[:5]))
@@ -289,6 +294,7 @@ def b_autodiagnostico(d, c):
     return (f'<section class="autodiag">{cab_secao(f"Autodiagnóstico · Capítulo {c.n}", d["titulo"])}'
             f'<p class="instrucao">{md_inline(d["instrucao"])}</p><table class="escala">{cab}{corpo}</table>'
             f'<p class="soma"><span class="txt">Soma dos números circulados</span><span class="caixa"></span></p>'
+            + (f'<p class="nota-escala">{md_inline(d["nota"])}</p>' if d.get("nota") else "") +
             f'<div class="faixas">{faixas}</div></section>')
 
 
@@ -366,7 +372,7 @@ def sem_hifen(h: str) -> str:
     for i, t in enumerate(partes):
         if not t.startswith("<"):
             t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
-            partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nh">\1</span>', t)
+            partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nq">\1</span>', t)
     return "".join(partes)
 
 
@@ -517,20 +523,27 @@ def registrar(n: int, arquivo: Path) -> None:
     e = estado()
     cap = e["capitulos"][n]
     anterior_ok = n == 1 or e["capitulos"][n - 1]["status"] == "aprovado"
-    aprovado = media >= g["nota_minima"] and not abaixo and not bloq and not li["erros"] and anterior_ok
+    passou = media >= g["nota_minima"] and not abaixo and not bloq and not li["erros"]
+    aprovado = passou and anterior_ok
     it = len(cap["iteracoes"]) + 1
     cap["iteracoes"].append({
         "iteracao": it, "data": f"{dt.datetime.now():%Y-%m-%d %H:%M}", "revisao": str(arquivo.relative_to(RAIZ.parent)),
         "media": media, "minimo": minimo, "abaixo_do_minimo": abaixo, "bloqueadores": len(bloq),
         "lint_erros": len(li["erros"]), "veredito": "aprovado" if aprovado else "reprovado"})
-    cap["status"] = "aprovado" if aprovado else "reprovado"
+    cap["status"] = "aprovado" if aprovado else ("aprovado_pendente_ordem" if passou else "reprovado")
+    if aprovado:  # promove em cascata quem passou e esperava a ordem
+        k = n + 1
+        while k <= 30 and e["capitulos"][k]["status"] == "aprovado_pendente_ordem":
+            e["capitulos"][k]["status"] = "aprovado"
+            print(f"cap{k:02d} promovido: aprovado (ordem liberada)")
+            k += 1
     cap["nota"] = media
     if aprovado:
         cap.pop("alerta", None)
     elif it >= g["iteracoes_max"]:
         cap["alerta"] = "4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão."
     salvar(e)
-    motivo = "" if anterior_ok else f" (gate de ordem: cap. {n - 1} ainda não aprovado)"
+    motivo = "" if anterior_ok or not passou else f" (passou; aguarda a aprovação do cap. {n - 1})"
     print(f"cap{n:02d} iteração {it}: média {media} · mínimo {minimo} · abaixo de {g['criterio_minimo']}: {abaixo or '—'}"
           f" · bloqueadores {len(bloq)} · lint {len(li['erros'])} erro(s)  =>  {cap['status'].upper()}{motivo}")
 

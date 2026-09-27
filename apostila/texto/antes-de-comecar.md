@@ -48,4 +48,4 @@ Os quatro são personagens compostos, feitos de traços de muitos especialistas 
 
 **Sobre resultados.** Ninguém pode prometer quantos clientes a sua presença vai trazer, e este livro não promete. O que ele oferece é um método para que aquilo que você já é chegue a quem ainda não te conhece, de um jeito que você consiga sustentar. O resto depende do seu mercado, do seu ritmo e do tempo.
 
-Quando estiver pronto, vire a página. O primeiro capítulo começa numa sala de espera.
+Quando estiver pronto, vire a página. O primeiro capítulo começa num consultório em Curitiba.
