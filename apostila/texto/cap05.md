@@ -197,7 +197,7 @@ regras:
   - {regra: "Diga quando a desistência acontece.", porque: "“Na terceira semana” ou “quando a dor melhora” mostra que você já viu isso muitas vezes; “com o tempo” não mostra nada."}
   - {regra: "Termine no ajuste.", porque: "A peça existe para devolver a possibilidade de recomeçar, com um caminho diferente."}
 faca:
-  - "Uma farmacêutica: “Quase todo mundo que para o remédio de pressão para no mesmo momento: quando a pressão normaliza. Antes de parar, converse com quem prescreveu.”"
+  - "Uma enfermeira de posto de saúde: “Quase todo mundo que para o remédio de pressão para no mesmo momento: quando a pressão normaliza. Antes de parar, converse com quem prescreveu.”"
   - Nomear a etapa em que a maioria trava, com o detalhe que você vê na prática.
   - Terminar com uma troca concreta de método, como horário, lembrete ou com quem conversar.
 evite:

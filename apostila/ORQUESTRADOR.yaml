@@ -214,6 +214,12 @@ licoes_da_revisao:
   - "cap04-r1: nomes de figurantes com som distante dos protagonistas (Helena, e não Júlia, perto de Lúcia). A sócia do Otávio é Helena."
   - "cap04-r1: arcos não se resolvem antes da hora: Otávio só volta à agência, com novo arranjo, no cap. 24; até lá as publicações estão suspensas."
   - "cap04-r1: campos da oficina que pedem tabela usam 'grade' (linhas x colunas para marcar); espaço de escrita dimensionado para caber o que se pede à mão."
+  - "cap01-r4: toda faixa do autodiagnóstico é testada contra combinações extremas (itens que não medem a coisa somando alto). A leitura remete a linhas numeradas e só afirma o que aquelas linhas medem."
+  - "cap01-r4/cap02-r2: 'muita gente', 'costuma(m)', 'a maioria', 'quase todo' sobre terceiros são generalizações sem fonte; viram observação de personagem ou saem. Máximo 2 por capítulo."
+  - "cap02-r2: exemplo de critério entrega a régua inteira (nunca termina em 'assim' ou 'isto'). Detalhe de ofício (código de ética, lei, técnica) conferido na fonte; na dúvida, formular pelo que é certo."
+  - "cap02-r2: o esqueleto da rede não repete a oficina; quando a oficina já escreveu as partes, o esqueleto é 'passe a limpo' com 2 linhas por parte (campo esqueleto_rotulo)."
+  - "cap02-r2: a cena final, a seção de conceito e o gabarito apontam para a MESMA peça/escolha do personagem. Conferir gabarito contra o texto final a cada reescrita."
+  - "cap02-r2: profissões de figurantes não se repetem em capítulos vizinhos (conferir ESTADO.yaml > figurantes antes de escolher)."
 
 # ---------------------------------------------------------------------
 elenco:

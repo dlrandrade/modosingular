@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 15:47
+# atualizado: 2026-09-27 15:52
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -219,6 +219,7 @@ figurantes:
   corretor de seguros:
   - 4
   - 1
+  - 2
   mecânico de motos:
   - 6
   confeiteira:
@@ -229,6 +230,12 @@ figurantes:
   - 1
   nutricionista:
   - 1
+  fonoaudiólogo:
+  - 2
+  farmacêutica:
+  - 1
+  enfermeira de posto de saúde:
+  - 5
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
@@ -236,3 +243,7 @@ decisoes:
   passa para depois do esqueleto, para eliminar brancos.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
+- 'Cap. 1 (após r5): trocar a cena da cardiologista que ''desfaz em consulta o que o vídeo ensinou'' por cena de
+  reconhecimento (palestra dada a colega conhecido por vídeos), para não antecipar a tese do cap. 2 (cap02-r2).'
+- 'Cap. 1 (após r5): farmacêutica do campo 06 repete a do cap. 3; trocar por contador (pró-labore x distribuição
+  de lucro).'

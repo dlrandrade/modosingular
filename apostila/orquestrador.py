@@ -262,7 +262,7 @@ def md(s: str) -> str:
 
 
 def md_inline(s) -> str:
-    return re.sub(r"^<p>(.*)</p>$", r"\1", md(s).strip(), flags=re.S)
+    return sem_hifen(re.sub(r"^<p>(.*)</p>$", r"\1", md(s).strip(), flags=re.S))
 
 
 def esc(s) -> str:
@@ -391,7 +391,7 @@ def b_rede(d, c):
                + "".join(f"<p>{lacunas(p)}</p>" for p in paras) + f"</div>{nota}</div>")
     return (f'<section class="rede">{cab_secao(f"Do caderno para a rede · Capítulo {c.n}", d["titulo"], d.get("intro", ""))}'
             f'<ol class="regras">{regras}</ol>'
-            f'<p class="rotulo">Esqueleto da peça — rascunhe aqui</p><div class="esqueleto">{esq}</div>'
+            f'<p class="rotulo">{esc(d.get("esqueleto_rotulo", "Esqueleto da peça — rascunhe aqui"))}</p><div class="esqueleto">{esq}</div>'
             f'<div class="faca-evite"><div class="faca"><p class="rotulo">Faça assim</p><ul>{faca}</ul></div>'
             f'<div class="evite"><p class="rotulo">Evite</p><ul>{evite}</ul></div></div>{rot}</section>')
 
@@ -437,7 +437,7 @@ def sem_hifen(h: str) -> str:
     for i, t in enumerate(partes):
         if not t.startswith("<"):
             t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
-            t = re.sub(r"(“(?:\S+\s){0,5}\S+”)", r'<span class="nh">\1</span>', t)
+            t = re.sub(r"(“(?:\S+\s){0,15}\S+”)", r'<span class="nh">\1</span>', t)
             partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nq">\1</span>', t)
     return "".join(partes)
 
