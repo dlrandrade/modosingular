@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 20:47
+# atualizado: 2026-09-27 20:49
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -211,7 +211,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   13:
-    status: planejado
+    status: rascunho
     iteracoes: []
   14:
     status: planejado
@@ -280,6 +280,7 @@ figurantes:
   veterinária:
   - 2
   - 10
+  - 13
   oftalmologista:
   - 2
   fonoaudióloga:

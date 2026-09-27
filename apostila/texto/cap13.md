@@ -33,8 +33,8 @@ tipo: barras
 titulo: O custo de uma peça, conforme a origem
 unidade: minutos até publicar, medidos pela Lúcia
 series:
-  - {rotulo: "Traduzida de uma conversa", valor: 72, nota: "O detalhe já existe. O trabalho é converter."}
-  - {rotulo: "Criada do zero", valor: 180, nota: "Três horas, e o texto não ficou pronto. Inventar contexto e exemplo custa mais, e sai genérico."}
+  - {rotulo: "Traduzida de uma conversa: 72 min", valor: 72, nota: "O detalhe já existe. O trabalho é converter."}
+  - {rotulo: "Criada do zero: 180 min, sem terminar", valor: 180, nota: "Três horas, e o texto não ficou pronto. Inventar contexto e exemplo custa mais, e sai genérico."}
 legenda: Os números são da Lúcia, e não uma regra. O seu caderno de cronometragem, do capítulo 8, mostra os seus.
 ```
 
@@ -60,12 +60,6 @@ nos:
 
 Na sexta de manhã, Lúcia fez as quatro operações no papel, uma de cada vez, sem tentar escrever a peça. A primeira foi fácil: uma pessoa descreveu uma angústia que começa no domingo à tarde e antecipa a semana. Isolar é isso, dizer o que aconteceu numa frase curta, antes de qualquer interpretação.
 
-A segunda foi a que mais tempo levou, e a que ensinou mais. Lúcia listou tudo o que aquela frase da sessão carregava de identificável. O horário exato. A televisão da vizinha. A música de abertura do programa, que era a imagem mais bonita da história e, por isso mesmo, a mais perigosa: era a frase da paciente, com as palavras dela, e ela a reconheceria na hora se a lesse. Cortou a música, a vizinha e a parede. Ficou com o domingo, a tarde e o aperto, que são de milhares de pessoas.
-
-A terceira operação foi a que transformou o texto. Lúcia se perguntou do que aquele domingo era exemplo, e encontrou a resposta no próprio repertório: a ansiedade antecipatória, que sofre pelo que ainda não aconteceu e rouba o tempo livre que existe antes. Juntou a paciente das cinco da tarde a outras duas, de anos diferentes, que tinham descrito o mesmo fenômeno com outras palavras. O caso passou a ser composto, feito de três, e o padrão ficou mais verdadeiro do que qualquer um deles sozinho.
-
-A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta que ajuda a pessoa a observar o próprio domingo: o que exatamente você está antecipando? A tarefa da segunda-feira, a conversa com alguém, a sensação de não ter descansado? Nomear o que se antecipa, escreveu, costuma diminuir o tamanho do aperto, e ajuda a decidir se vale procurar ajuda.
-
 Tabela: O domingo, operação por operação
 
 | Etapa | O que Lúcia tinha | O que fez |
@@ -75,6 +69,13 @@ Tabela: O domingo, operação por operação
 | Despersonalizado | Algumas pessoas sentem o domingo acabar às seis da tarde | Tirou horário exato, música, vizinha e a frase literal |
 | Generalizado | A angústia do domingo é a semana chegando antes da hora | Juntou três casos parecidos e achou o padrão |
 | Devolvido | “O que exatamente você está antecipando?” | Entregou uma pergunta que a pessoa usa sozinha |
+
+A segunda foi a que mais tempo levou, e a que ensinou mais. Lúcia listou tudo o que aquela frase da sessão carregava de identificável. O horário exato. A televisão da vizinha. A música de abertura do programa, que era a imagem mais bonita da história e, por isso mesmo, a mais perigosa: era a frase da paciente, com as palavras dela, e ela a reconheceria na hora se a lesse. Cortou a música, a vizinha e a parede. Ficou com o domingo, a tarde e o aperto, que são de milhares de pessoas.
+
+A terceira operação foi a que transformou o texto. Lúcia se perguntou do que aquele domingo era exemplo, e encontrou a resposta no próprio repertório: a ansiedade antecipatória, que sofre pelo que ainda não aconteceu e rouba o tempo livre que existe antes. Juntou a paciente das cinco da tarde a outras duas, de anos diferentes, que tinham descrito o mesmo fenômeno com outras palavras. O caso passou a ser composto, feito de três, e o padrão ficou mais verdadeiro do que qualquer um deles sozinho.
+
+A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta que ajuda a pessoa a observar o próprio domingo: o que exatamente você está antecipando? A tarefa da segunda-feira, a conversa com alguém, a sensação de não ter descansado? Nomear o que se antecipa, escreveu, costuma diminuir o tamanho do aperto, e ajuda a decidir se vale procurar ajuda.
+
 
 ## A linha que não se cruza
 
