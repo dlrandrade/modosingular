@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 11:27
+# atualizado: 2026-09-27 15:32
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -29,17 +29,66 @@ capitulos:
       veredito: reprovado
     nota: 8.62
   2:
-    status: em_revisao
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap02-r1.yaml
+      media: 8.36
+      minimo: 7.0
+      abaixo_do_minimo:
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.36
   3:
-    status: em_revisao
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap03-r1.yaml
+      media: 8.25
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      - aplicabilidade
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.25
   4:
-    status: em_revisao
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap04-r1.yaml
+      media: 8.26
+      minimo: 6.5
+      abaixo_do_minimo:
+      - metodo
+      - coerencia
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.26
   5:
-    status: em_revisao
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap05-r1.yaml
+      media: 8.3
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      - impresso
+      - honestidade
+      bloqueadores: 3
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.3
   6:
     status: rascunho
     iteracoes: []
