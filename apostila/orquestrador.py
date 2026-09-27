@@ -146,7 +146,7 @@ def lint(n: int, silencioso=False) -> dict:
     socos = [p for p in paragrafos if len(frases(p)) == 1 and len(p.split()) < 12 and not p.startswith(("-", "*", ">"))]
     nao_e += re.findall(r"(?i)\bnão\b[^.!?\n]{3,120}[.!?]\s+(?:É|Tem|Era|Foi|Está|São)\s", prosa)
     e_nao = re.findall(r",\s+e não\b", prosa)
-    sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante)", prosa)
+    sinal = re.findall(r"(?i)\b(?:vale (?:a pena )?(?:entender|olhar|lembrar|notar|dizer)|convém|antes de seguir|por ora|como vimos|vamos ver|a seguir,|o que já é bastante|merecem? (?:uma|um) (?:observação|olhar|atenção)|é preciso olhar para)", prosa)
     repare = re.findall(r"\b(?:Repare|Perceba|Note que|Observe que)\b", prosa)
     supos = re.findall(r"\b(?:Talvez você|É provável que você|Você provavelmente|Você já deve ter|Você certamente)\b", prosa)
     blocos_sem_roteiro = textos_dos_blocos(re.sub(r"(?ms)^roteiro: \|.*?(?=^roteiro_nota:|^```)", "", corpo))
@@ -197,6 +197,31 @@ def lint(n: int, silencioso=False) -> dict:
             longas = sum(1 for q in qs if len(q["opcoes"][q["correta"]]) == max(len(o) for o in q["opcoes"]))
             if longas > len(qs) // 2:
                 avisos.append(f"verificação: a correta é a opção mais longa em {longas} de {len(qs)} questões")
+    # itens que deveriam ser texto e viraram dicionário (": " dentro de item YAML sem aspas)
+    for m in BLOCO_RE.finditer(corpo):
+        try:
+            d = carregar_yaml(m.group(2))
+        except yaml.YAMLError:
+            continue
+        listas = []
+        if m.group(1) == "verificacao":
+            listas = [q.get("opcoes", []) for q in d]
+        elif m.group(1) in ("guardar",):
+            listas = [d if isinstance(d, list) else d.get("itens", [])]
+        elif m.group(1) == "compara":
+            listas = [d["esquerda"]["itens"], d["direita"]["itens"]]
+        elif m.group(1) == "rede":
+            listas = [d.get("faca", []), d.get("evite", [])]
+        elif m.group(1) == "oficina":
+            listas = [d.get("criterios", [])]
+        for lst in listas:
+            for it in lst:
+                if not isinstance(it, str):
+                    erros.append(f"bloco {m.group(1)}: item que não é texto (ponha entre aspas): {it}")
+    # parágrafos longos demais
+    longos = [p[:50] for p in paragrafos if len(frases(p)) > 7]
+    if longos:
+        avisos.append(f"parágrafos com mais de 7 frases: {longos}")
     inicios = [" ".join(p.split()[:2]).lower() for p in paragrafos if len(p.split()) > 3]
     rep = {i: inicios.count(i) for i in set(inicios) if inicios.count(i) > 2}
     if rep:
@@ -396,6 +421,7 @@ def sem_hifen(h: str) -> str:
     for i, t in enumerate(partes):
         if not t.startswith("<"):
             t = re.sub(NOMES, r'<span class="nh">\1</span>', t)
+            t = re.sub(r"(“(?:\S+\s){0,5}\S+”)", r'<span class="nh">\1</span>', t)
             partes[i] = re.sub(r"\b(\w+(?:-\w+)+)\b", r'<span class="nq">\1</span>', t)
     return "".join(partes)
 

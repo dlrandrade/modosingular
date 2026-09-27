@@ -201,6 +201,12 @@ licoes_da_revisao:
   - "cap01-r2: a mesma batida narrativa ('quase foi embora') no máximo duas vezes por capítulo; o fecho da cena traz um ganho novo."
   - "cap01-r2: parágrafo com no máximo 6 frases; seção não vira depósito de assuntos que o intertítulo não cobre."
   - "cap01-r2: o personagem em foco mostra o seu modo de pensar (ver elenco.modo) já na primeira cena em que aparece."
+  - "cap02-r1: nenhuma imagem ou cena se repete entre capítulos (ex.: 'rapaz de vídeo que ensina errado' já é do cap. 1). Registrar imagens-chave em ESTADO.yaml › imagens."
+  - "cap02-r1: a mesma ideia (ex.: 'passar a consulta desfazendo o que outro ensinou') no máximo duas vezes por capítulo; a terceira vez tem de trazer ganho novo."
+  - "cap02-r1: o fecho da prosa não descreve a oficina ('A oficina deste capítulo pede…'); termina na cena ou numa consequência."
+  - "cap02-r1: esqueleto e roteiro precisam servir a TODOS os exemplos que o próprio capítulo dá."
+  - "cap02-r1: generalizações empíricas ('quase nunca', 'com frequência', 'costumam') sobre o comportamento de terceiros viram observação de personagem ou saem."
+  - "cap02-r1: nomes populares de condições (ex.: 'vista cansada' = presbiopia) conferidos antes de usar."
 
 # ---------------------------------------------------------------------
 elenco:

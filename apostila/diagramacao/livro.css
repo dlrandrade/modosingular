@@ -152,7 +152,6 @@ strong { font-weight: 600; }
 
 .guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3.4mm 0 1mm; margin-top: 8mm; }
 .guardar .rotulo { margin-bottom: 3.4mm; }
-.texto > .guardar { break-before: avoid; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
 .guardar li { position: relative; padding-left: 8mm; margin: 0 0 2.6mm;
   font-size: 10pt; line-height: 14pt; text-align: left; hyphens: auto; }
