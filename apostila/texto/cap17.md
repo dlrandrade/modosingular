@@ -114,15 +114,15 @@ campos:
   - rotulo: "O que você contesta, e em que altura (prática, crença ou você mesmo)"
     exemplo: "Uma nutricionista: “Crença: que comer de três em três horas acelera o metabolismo.”"
     linhas: 2
-  - rotulo: "1. A posição contrária, na versão mais forte e justa que você consegue escrever"
+  - rotulo: "A posição contrária, na versão mais forte e justa que você consegue escrever"
     exemplo: "Se não consegue escrevê-la de um jeito que quem a defende assinaria, pare aqui."
     linhas: 3
-  - rotulo: "2. Por que essa posição existe"
+  - rotulo: "Por que essa posição existe"
     linhas: 2
-  - rotulo: "3. O que a sua prática mostra que não se encaixa"
+  - rotulo: "O que a sua prática mostra que não se encaixa"
     exemplo: "Um caso típico, um padrão, um sinal. Sem identificar ninguém."
     linhas: 3
-  - rotulo: "4. O que você propõe no lugar"
+  - rotulo: "O que você propõe no lugar"
     exemplo: "Algo que a pessoa possa fazer sozinha amanhã."
     linhas: 2
   - rotulo: "Checagem: marque o que ainda falta resolver"

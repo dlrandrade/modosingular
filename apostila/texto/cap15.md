@@ -118,16 +118,16 @@ campos:
   - rotulo: "Dois casos candidatos: o mais bonito que você tem e um comum, que se repete"
     exemplo: "Anote os dois em uma linha cada. Use o segundo; o primeiro serve para você enxergar a diferença."
     linhas: 3
-  - rotulo: "1. A situação como qualquer um leria"
+  - rotulo: "A situação como qualquer um leria"
     exemplo: "O que parecia óbvio, e o que a pessoa já tinha tentado."
     linhas: 3
-  - rotulo: "2. O detalhe que não fechava"
+  - rotulo: "O detalhe que não fechava"
     exemplo: "Uma nutricionista: “Ela dizia que comia pouco o dia todo, e o cansaço vinha sempre às quatro da tarde.”"
     linhas: 2
-  - rotulo: "3. A decisão, e o porquê"
+  - rotulo: "A decisão, e o porquê"
     exemplo: "O que você fez de diferente, e qual régua usou para decidir."
     linhas: 3
-  - rotulo: "4. O que ensina a quem não é você"
+  - rotulo: "O que ensina a quem não é você"
     exemplo: "O critério, numa frase que sobreviva fora da história."
     linhas: 2
   - rotulo: "Os adjetivos sobre o seu trabalho que você cortou"
