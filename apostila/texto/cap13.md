@@ -58,30 +58,29 @@ nos:
   - {rotulo: "Devolver", nota: "Entregar o critério que quem lê pode usar sozinho, mesmo sem nunca procurar você."}
 ```
 
-Na sexta de manhã, fez o que faz quando precisa pensar: pediu à amiga do grupo de estudos que lhe mandasse quatro perguntas, sem saber do caso. O que aconteceu, numa frase? O que disso é só daquela pessoa? Do que isso é exemplo? O que alguém faria com isso sozinho? Lúcia respondeu cada uma por escrito, no papel, sem tentar escrever a peça.
+Na sexta de manhã, Lúcia fez o que faz quando precisa pensar: pediu à amiga do grupo de estudos que lhe mandasse quatro perguntas, sem saber do caso. O que aconteceu, numa frase? O que disso é só daquela pessoa? Do que isso é exemplo? O que alguém faria com isso sozinho? Lúcia respondeu cada uma por escrito, numa folha do caderno de sessão, sem tentar escrever a peça.
 
-A primeira foi fácil: uma pessoa sente um aperto que começa no domingo à tarde. Isolar é isso, dizer o que aconteceu numa frase curta, antes de qualquer interpretação.
+A primeira foi fácil: a paciente sente um aperto no domingo, por volta das seis, quando a mãe começa a passar as camisas e o cheiro do ferro atravessa a porta. Isolar é isso, dizer o que aconteceu numa frase, antes de qualquer interpretação, e ainda com tudo o que a pessoa trouxe.
+
+A segunda foi a que mais tempo levou, e a que ensinou mais. Lúcia listou tudo o que aquela frase isolada carregava de identificável. O horário exato. A mãe no quarto ao lado. O cheiro do ferro atravessando a porta, que era a imagem mais bonita da história e, por isso mesmo, a mais perigosa: era a frase da paciente, com as palavras dela, e ela a reconheceria na hora se a lesse. Cortou o ferro, a mãe e a porta. Ficou com o domingo, a tarde e o aperto, que são de milhares de pessoas.
+
+A terceira operação foi a que transformou o texto. Lúcia se perguntou do que aquele domingo era exemplo, e encontrou a resposta no próprio repertório, num detalhe que o senso comum não diz: o aperto costuma ser maior em quem descansou bem no sábado. O que chega antes da hora é a perda do descanso, mais do que o medo do trabalho. Juntou a paciente das cinco da tarde a outras duas, de anos diferentes, que tinham descrito o mesmo fenômeno com outras palavras. O caso passou a ser composto, feito de três, e o padrão ficou mais verdadeiro do que qualquer um deles sozinho.
+
+A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta com que a pessoa observasse o próprio domingo: o que exatamente você está antecipando, o que vem na segunda ou o que acaba no domingo? Nomear o que se perde, escreveu, às vezes diminui o aperto, e ajuda a decidir se é hora de procurar um profissional.
 
 Tabela: O domingo, operação por operação
 
 | Etapa | O que Lúcia tinha | O que fez |
 |---|---|---|
-| Bruto | A frase da paciente, com o cheiro do ferro de passar | Anotou no caderno de sessão, onde fica |
-| Isolado | Uma pessoa sente um aperto que começa no domingo à tarde | Descreveu o fato, sem interpretar |
-| Despersonalizado | Alguém sente um aperto que começa no domingo, no fim da tarde | Tirou horário exato, mãe, ferro e a frase literal |
+| Bruto | A sessão inteira, com as palavras da paciente | Anotou no caderno de sessão, onde fica |
+| Isolado | A paciente sente um aperto no domingo às seis, quando a mãe passa as camisas e o cheiro do ferro atravessa a porta | Descreveu o fato numa frase, sem interpretar |
+| Despersonalizado | Alguém sente um aperto que começa no domingo à tarde | Tirou horário exato, mãe, ferro e a frase literal |
 | Generalizado | O aperto é maior em quem descansou bem no sábado: é a perda do descanso chegando antes | Perguntou do que aquilo era exemplo e juntou outros dois casos |
 | Devolvido | “O que exatamente você está antecipando?” | Entregou uma pergunta que a pessoa usa sozinha |
 
-A segunda foi a que mais tempo levou, e a que ensinou mais. Lúcia listou tudo o que aquela frase da sessão carregava de identificável. O horário exato. A mãe no quarto ao lado. O cheiro do ferro atravessando a porta, que era a imagem mais bonita da história e, por isso mesmo, a mais perigosa: era a frase da paciente, com as palavras dela, e ela a reconheceria na hora se a lesse. Cortou o ferro, a mãe e a porta. Ficou com o domingo, a tarde e o aperto, que são de milhares de pessoas.
-
-A terceira operação foi a que transformou o texto. Lúcia se perguntou do que aquele domingo era exemplo, e encontrou a resposta no próprio repertório, num detalhe que o senso comum não diz: o aperto costuma ser maior em quem descansou bem no sábado. O que chega antes da hora é a perda do descanso, mais do que o medo do trabalho. Juntou a paciente das cinco da tarde a outras duas, de anos diferentes, que tinham descrito o mesmo fenômeno com outras palavras. O caso passou a ser composto, feito de três, e o padrão ficou mais verdadeiro do que qualquer um deles sozinho.
-
-A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta que ajuda a pessoa a observar o próprio domingo: o que exatamente você está antecipando, o que vem na segunda ou o que acaba no domingo? Nomear o que se perde, escreveu, às vezes diminui o tamanho do aperto, e ajuda a decidir se vale procurar ajuda.
-
-
 ## A linha que não se cruza
 
-Uma parte grande de quem lê este livro trabalha sob sigilo profissional: profissionais de saúde, advogados, psicólogos, contadores. O sigilo fecha um atalho, o de publicar o caso como ele aconteceu, com o nome trocado e mais nada. A tradução continua aberta.
+Uma parte grande de quem lê este livro trabalha sob sigilo profissional: médicos, dentistas, psicólogos, advogados, contadores. O sigilo fecha um atalho, o de publicar o caso como ele aconteceu, com o nome trocado e mais nada. A tradução continua aberta.
 
 ```compara
 esquerda:
@@ -90,7 +89,7 @@ esquerda:
     - Foto ou imagem de caso sem autorização escrita e específica para publicação.
     - Uma combinação de detalhes que permita reconhecer alguém, como idade, profissão e bairro.
     - "“Atendi hoje uma paciente que…” O “hoje” data o caso e aponta para a agenda."
-    - A frase literal de alguém, com as palavras dele.
+    - A frase de um atendimento que só aquela pessoa diria, com as palavras dela.
 direita:
   titulo: Mais seguro
   itens:
@@ -100,36 +99,36 @@ direita:
     - A dúvida sem o dono. Publique a pergunta, e nunca quem perguntou.
 ```
 
-O caso composto é a técnica mais útil para quem trabalha com sigilo, e é honesta, desde que dita como tal. Não é ficção: nenhum dos elementos foi inventado. É agregação. A pessoa descrita não existe, mas cada pedaço dela aconteceu com alguém, e o padrão que ela mostra é mais verdadeiro do que o de qualquer caso isolado. Diga a quem lê que está juntando situações parecidas, e faça isso na primeira linha; essa frase, por si mesma, tranquiliza quem se reconheceria. Numa cidade pequena ou num caso raro, nem o caso composto basta; aí a saída é esperar ou escolher outro caso.
+O caso composto é a técnica mais útil para quem trabalha com sigilo, e é honesta, desde que dita como tal. Não é ficção: nenhum dos elementos foi inventado. É agregação. A pessoa descrita não existe, mas cada pedaço dela aconteceu com alguém, e o padrão que ela mostra é mais verdadeiro do que o de qualquer caso isolado. Diga a quem lê que está juntando situações parecidas, e faça isso na primeira linha; essa frase, por si mesma, tranquiliza quem se reconheceria. Numa cidade pequena ou num caso raro, nem o caso composto basta; aí a saída é ficar só no padrão, sem caso, ou escolher outro caso.
 
-A frase mais bonita da sessão é, quase sempre, a que mais identifica. Ela é bonita porque é particular, e é particular porque é da pessoa. Lúcia cortou o cheiro do ferro com pena, e fez bem. Se a paciente lesse o texto, se reconheceria no domingo, como milhares de outras pessoas, mas não se veria exposta.
+A frase mais bonita da sessão é, em geral, a que mais identifica. Ela é bonita porque é particular, e é particular porque é da pessoa. Quem a corta não empobrece o texto: a paciente que o lesse se reconheceria no domingo, como milhares de outras pessoas, mas não se veria exposta.
 
 Há quem resolva o problema pedindo autorização ao paciente ou ao cliente. Às vezes é o caminho certo, sobretudo quando se trata de uma imagem ou de um depoimento, e a autorização precisa ser escrita e específica para aquela publicação. Mas pese o que o pedido significa para quem o recebe. Numa relação de cuidado, dizer não ao profissional que cuida de você é difícil, e a autorização dada nessas condições pode não ser tão livre quanto parece. Lúcia nunca pede. Prefere o caso composto, que dispensa a pergunta.
 
-O sigilo não é assunto só da saúde. Otávio, no capítulo 4, trocou o nome de um cliente de Caruaru num áudio que gravou só para si. Se um dia quiser publicar aquele exemplo, trocar o nome não vai bastar: numa cidade do tamanho de Caruaru, o tipo de empresa e o tipo de problema bastariam para alguém reconhecer o caso. Contadores, consultores, arquitetos e corretores também trabalham com informações que o cliente não autorizou a divulgar, mesmo quando nenhuma lei fala em sigilo.
+O sigilo não é assunto só da saúde. Otávio, no capítulo 4, trocou o nome de um cliente de Caruaru num áudio que gravou só para si. Se um dia quiser publicar aquele exemplo, trocar o nome não vai bastar: entre os empresários de Caruaru, que se conhecem, o tipo de empresa e o tipo de problema bastariam para alguém reconhecer o caso. Contadores, consultores, arquitetos e corretores também trabalham com informações que o cliente não autorizou a divulgar, mesmo quando nenhuma lei fala em sigilo.
 
 Cada profissão regulamentada tem um código que trata disso; leia o seu antes de publicar qualquer peça que parta de um atendimento. Desloque também a data da publicação: nunca na semana do atendimento, nem na semana de qualquer atendimento recente sobre o mesmo assunto. Em caso de dúvida, a resposta é não publicar aquele caso e procurar outro, ou esperar até que ele se torne um padrão.
 
 ## Do que isso é exemplo
 
-Das quatro operações, a mais esquecida é a terceira. Quem isola, despersonaliza e devolve, mas não generaliza, publica um caso interessante que serve para uma pessoa só: a que o viveu. Parece uma anedota profissional, contada para mostrar competência, e soa vagamente como fofoca, mesmo quando ninguém é identificável.
+Das quatro operações, a terceira é a que mais se pula quando se tem pressa. Quem isola, despersonaliza e devolve, mas não generaliza, publica um caso interessante que serve para uma pessoa só: a que o viveu. Parece uma anedota profissional, contada para mostrar competência, e soa vagamente como fofoca, mesmo quando ninguém é identificável.
 
-Generalizar é perguntar do que aquilo é exemplo, e responder com um tamanho certo. Pequeno demais, e o padrão continua sendo o caso. Grande demais, e vira obviedade: "ansiedade é comum" não diz nada a ninguém. O tamanho certo é o de um padrão que você reconhece por ter visto muitas vezes, e que quem lê talvez nunca tenha ouvido dito em voz alta. A angústia do domingo à tarde tem esse tamanho. Para calibrar: se o padrão caberia num horóscopo, está grande demais; se só faz sentido para quem estava na sala, está pequeno demais.
+Generalizar é perguntar do que aquilo é exemplo, e responder com um tamanho certo. Pequeno demais, e o padrão continua sendo o caso. Grande demais, e vira obviedade: "ansiedade é comum" não diz nada a ninguém. O tamanho certo é o de um padrão que você reconhece por ter visto muitas vezes, e que quem lê talvez nunca tenha ouvido dito em voz alta. O padrão da Lúcia tem esse tamanho: o aperto do domingo é maior em quem descansou bem no sábado. Para calibrar: se o padrão caberia num horóscopo, está grande demais; se só faz sentido para quem estava na sala, está pequeno demais.
 
-Otávio faz a mesma operação no ofício dele. Transforma a demissão mal documentada de um cliente numa lição, guardada no caderno, sobre o que acontece com toda advertência escrita às pressas: ela quase sempre existe, e quase sempre tem a data errada. O cliente some; fica aquilo de que ele foi exemplo, e é isso que interessa a um empresário que nunca vai conhecer o caso.
+Otávio faz a mesma operação no ofício dele. Transforma a demissão mal documentada de um cliente numa lição, guardada no caderno, sobre a advertência escrita às pressas, depois que o problema estourou: nos processos que ele vê, ela existe, mas tem data posterior à falta, e o juiz percebe. O cliente some; fica aquilo de que ele foi exemplo, e é isso que interessa a um empresário que nunca vai conhecer o caso.
 
 ## A espera
 
-Com as quatro operações prontas, Lúcia não publicou. Guardou a folha dentro do caderno de campo e esperou. A paciente das cinco da tarde tinha falado do domingo naquela semana; um texto sobre o domingo cinco dias depois seria um recado, por mais limpo que estivesse, e ela se reconheceria não pelos detalhes, que tinham saído, mas pela data. A regra do deslocamento vale também para o calendário.
+Com as quatro operações prontas, Lúcia copiou para o caderno de campo só as duas últimas respostas, o padrão e a pergunta, e deixou a folha no caderno de sessão, trancado na gaveta. Depois, esperou. A paciente das cinco da tarde tinha falado do domingo naquela semana; um texto sobre o domingo cinco dias depois seria um recado, por mais limpo que estivesse, e ela se reconheceria não pelos detalhes, que tinham saído, mas pela data. A regra do deslocamento vale também para o calendário.
 
-No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Lúcia anotou a data e esperou mais quatro semanas; agora eram duas pessoas que não podiam receber o texto como recado. Publicou na última terça de julho, às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha doze linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
+No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Lúcia anotou a data e esperou mais quatro semanas; agora eram duas pessoas que não podiam receber o texto como recado. Publicou na última terça de julho, às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha onze linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
 
-Uma delas dizia que a pessoa tinha lido o texto num domingo, no fim da tarde, e que pela primeira vez tinha conseguido dizer o que antecipava: o fim do único dia em que ninguém lhe pedia nada. Lúcia guardou a resposta no caderno, sem nome, como matéria para uma próxima tradução. O cheiro do ferro continuava no caderno trancado, onde pertencia.
+Uma delas vinha de alguém que tinha lido o texto num domingo, no fim da tarde, e que pela primeira vez tinha conseguido dizer o que antecipava: o fim do único dia em que ninguém lhe pedia nada. Lúcia guardou a resposta no caderno, sem nome, como matéria para uma próxima tradução. O cheiro do ferro continuava no caderno trancado, onde pertencia.
 
 ```guardar
 - Você não cria conteúdo do nada. Você traduz o que já aconteceu na sua prática, e o episódio já traz o assunto, o exemplo e o ângulo.
-- As quatro operações, sempre nesta ordem, são isolar, despersonalizar, generalizar e devolver. A mais esquecida é a de generalizar.
-- A frase mais bonita do atendimento é quase sempre a que mais identifica. O caso composto resolve o sigilo e deixa o padrão mais verdadeiro.
+- As quatro operações, sempre nesta ordem, são isolar, despersonalizar, generalizar e devolver, e a terceira é a que mais se pula.
+- A frase mais bonita do atendimento costuma ser a que mais identifica. O caso composto resolve o sigilo e deixa o padrão mais verdadeiro.
 ```
 
 ```oficina
@@ -140,23 +139,23 @@ tempo_nota: mais o tempo de passar a peça a limpo
 entrega: Um episódio traduzido nas quatro etapas, conferido contra a lista do sigilo e montado na sua voz.
 campos:
   - rotulo: "Isolar: o fato bruto, numa frase, sem interpretação"
-    exemplo: "Uma fonoaudióloga: “Uma mãe chorou quando eu disse que o filho de quatro anos ia, sim, falar.”"
+    exemplo: "Uma pediatra: “Uma mãe me disse que esperou a escola pedir avaliação, porque achava que o filho de quatro anos era só preguiçoso para falar.”"
     linhas: 2
   - rotulo: "Despersonalizar: marque o que você tirou"
     grade:
       colunas: ["Tirei", "Não havia"]
       linhas: ["Nome", "Idade exata", "Profissão", "Bairro ou cidade", "Data ou dia da semana", "A frase literal", "Detalhe único do caso"]
   - rotulo: "O mesmo fato, agora sem nada que identifique alguém"
-    exemplo: "“Há alguns anos, uma mãe ouviu de mim que o filho ia falar, e chorou de alívio.”"
+    exemplo: "“Há alguns anos, uma mãe me contou que esperou a escola pedir a avaliação do filho.”"
     linhas: 2
   - rotulo: "Generalizar: do que isso é exemplo?"
-    exemplo: "Nem pequeno demais, nem óbvio. A fonoaudióloga: “Pais de crianças com atraso de fala esperam a escola para agir.”"
+    exemplo: "Nem pequeno demais, nem óbvio. A pediatra: “Pais de crianças com atraso de fala esperam a escola para agir.”"
     linhas: 3
   - rotulo: "Devolver: o critério que a pessoa leva, mesmo sem procurar você"
     exemplo: "“Antes de esperar pelo ano que vem, observe se ele entende o que você pede sem gesto.”"
     linhas: 3
   - rotulo: "A peça montada, na sua voz"
-    exemplo: "Junte as quatro partes no seu modo: falando, escrevendo, respondendo ou contando. Leia em voz alta antes de passar a limpo."
+    exemplo: "Junte, nesta ordem, o caso do campo 03, uma frase que diga a quem lê que isso não acontece só com ele, o padrão e o critério. No seu modo: falando, escrevendo, respondendo ou contando."
     linhas: 7
 criterios:
   - Nenhuma combinação de detalhes do campo 06 permite reconhecer alguém, nem que a própria pessoa se veja como o caso.
@@ -175,16 +174,17 @@ regras:
 faca:
   - "“Já vi isso acontecer tantas vezes que deixou de ser exceção.”"
   - "“Vou juntar aqui três situações parecidas que vi nos últimos anos.”"
-  - "“O caso importa menos do que o que ele mostra.”"
+  - "“Esse caso não é raro. Raro é alguém dizer isso em voz alta.”"
 evite:
   - "“Atendi hoje uma paciente de 34 anos, advogada, que…” São três identificadores numa frase."
   - Foto ou imagem de caso sem autorização escrita e específica.
   - Terminar no caso, sem padrão. Vira fofoca profissional.
+esqueleto_rotulo: "Passe a limpo a peça do campo 06, nesta ordem, depois de conferir a lista do campo 02"
 esqueleto:
-  - {rotulo: "O caso", texto: "Deslocado no tempo e sem nada que identifique alguém.", linhas: 3}
+  - {rotulo: "O caso", texto: "O do campo 03, com o tempo deslocado.", linhas: 2}
   - {rotulo: "Reconhecimento", texto: "A frase que diz a quem lê que isso não acontece só com ele.", linhas: 2}
-  - {rotulo: "O padrão", texto: "Por que isso acontece, na sua observação.", linhas: 3}
-  - {rotulo: "O critério", texto: "O que a pessoa pode observar ou perguntar a partir de amanhã.", linhas: 3}
+  - {rotulo: "O padrão", texto: "O do campo 04.", linhas: 2}
+  - {rotulo: "O critério", texto: "O do campo 05.", linhas: 2}
 roteiro: |
   Tem uma coisa que eu já vi acontecer várias vezes, e em que eu penso até hoje.
 

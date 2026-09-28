@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 12:25
+# atualizado: 2026-09-28 12:28
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -540,6 +540,7 @@ figurantes:
   pediatra:
   - 1
   - 7
+  - 13
   professora de piano:
   - 1
   - 6
@@ -642,3 +643,6 @@ pendencias:
   no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'
 - 'QA final: o box Para guardar desce sozinho para a página seguinte mesmo com ~25% livres (cap10 p19, cap22 p19);
   investigar paginação do .guardar no WeasyPrint antes do PDF final'
+- 'Continuidade (cap13-r3): cap22 diz que autocuidado aos domingos era tema que Lúcia nunca trabalhou e a psicóloga
+  copiada começa pelo fim de tarde de domingo, mas o domingo é o texto de maior resposta da Lúcia (cap13, citado
+  no cap27); cap15 repete o corte da ''casa da mãe''; cap17 tem texto de ''doze linhas'' (cap13 agora tem onze).'
