@@ -129,9 +129,10 @@ def funil(d):
         w1 = topo - (topo - base) * i / n
         w2 = topo - (topo - base) * (i + 1) / n
         pts = f"{x_c - w1/2:.1f},{y} {x_c + w1/2:.1f},{y} {x_c + w2/2:.1f},{y + alt - 4} {x_c - w2/2:.1f},{y + alt - 4}"
-        cor = ACC if i == n - 1 else (ACC_L if i == 0 else SOFT)
+        dest = d.get("destaque", n - 1)  # etapa em dourado cheio (padrão: a última)
+        cor = ACC if i == dest else (ACC_L if i in (0, n - 1) else SOFT)
         out.append(f'<polygon points="{pts}" fill="{cor}" stroke="{PAPER}" stroke-width="1"/>')
-        out.append(texto(x_c, y + alt / 2 + 3, f"{i + 1}", 14, PAPER if i == n - 1 else ACC_D, 400, "middle", fonte=SERIF)[0])
+        out.append(texto(x_c, y + alt / 2 + 3, f"{i + 1}", 14, PAPER if i == d.get("destaque", n - 1) else ACC_D, 400, "middle", fonte=SERIF)[0])
         s, h = texto(262, y + 14, e["rotulo"], 10.5, INK, 600, largura=235)
         out.append(s)
         if e.get("nota"):
