@@ -408,7 +408,7 @@ def b_rede(d, c):
         paras = [p.strip() for p in d["roteiro"].strip().split("\n\n")]
         nota = f'<p class="remissao">{md_inline(d["roteiro_nota"])}</p>' if d.get("roteiro_nota") else ""
         rot = ('<div class="roteiro-bloco"><p class="rotulo">Roteiro de fala — para dizer em voz alta</p><div class="roteiro">'
-               + "".join(f"<p>{lacunas(p)}</p>" for p in paras) + f"</div>{nota}</div>")
+               + "".join(("<p class='ini'>" if p.startswith("{") else "<p>") + lacunas(p) + "</p>" for p in paras) + f"</div>{nota}</div>")
     bloco_esq = (f'<p class="rotulo">{esc(d.get("esqueleto_rotulo", "Esqueleto da peça — rascunhe aqui"))}</p>'
                  f'<div class="esqueleto">{esq}</div>')
     fe = (f'<div class="faca-evite"><div class="faca"><p class="rotulo">Faça assim</p><ul>{faca}</ul></div>'

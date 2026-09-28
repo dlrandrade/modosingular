@@ -2,7 +2,7 @@
 n: 30
 fase: 5
 titulo: Ocupar o território
-subtitulo: A presença que é reconhecidamente sua, e o próximo dia em que você publica
+subtitulo: A presença que é reconhecivelmente sua, e o próximo dia em que você publica
 epigrafe: Talvez nunca tenha sido a pessoa que não combinava com conteúdo. Talvez fosse o modelo de conteúdo que nunca combinou com a pessoa.
 ilustracao: territorio
 legenda_ilustracao: O espaço sempre esteve lá. Faltava alguém plantar a bandeira.
@@ -16,9 +16,9 @@ Depois abriu a agenda da semana. Ao lado de dois nomes, e já não era a primeir
 
 ## Os quatro, em janeiro
 
-No Recife, o contrato com a agência chegou à primeira renovação em janeiro, e Otávio só acrescentou uma linha, a sétima do manual, redigida à mão antes de mandar digitar: nenhuma peça sai sem a última frase dele, palavra por palavra. A regra valia desde abril; agora estava no contrato. Sílvia assinou a renovação sem pedir nenhuma alteração, e disse que era o contrato mais fácil de explicar à equipe nova. O perfil publicava oito peças por mês, pouco mais da metade do que publicava no tempo do "Você sabia?", e todas tinham começado num parecer ou num e-mail a cliente.
+No Recife, o contrato com a agência chegou à primeira renovação em janeiro, e Otávio só acrescentou uma linha, a sétima do manual, redigida à mão antes de mandar digitar: nenhuma peça sai sem a última frase dele, palavra por palavra. A regra valia desde abril; agora estava no contrato. Sílvia assinou a renovação sem pedir nenhuma alteração, e disse que era o contrato mais fácil de explicar a quem entrava na conta. O perfil publicava oito peças por mês, pouco mais da metade do que publicava no tempo do "Você sabia?", e todas tinham começado num parecer ou num e-mail a cliente.
 
-O tempo dele não mudou. Otávio continuava escrevendo pareceres até tarde, e em muitas semanas os cinco minutos no fim de cada parecer eram quase tudo o que o perfil recebia dele. Bastavam, porque o resto tinha sido desenhado para não depender de mais do que isso.
+Otávio continuava escrevendo pareceres até tarde, e em muitas semanas os cinco minutos no fim de cada parecer eram quase tudo o que o perfil recebia dele. Bastavam, porque o resto tinha sido desenhado para não depender de mais do que isso.
 
 Em Porto Alegre, uma paciente nova chegou à primeira sessão com uma lista de sinais de ansiedade salva no celular, tirada de um perfil que ela seguia, com quatro dos seis itens marcados. Era a cena que Lúcia tinha visto dezenas de vezes antes de começar a publicar. A diferença veio no fim da sessão. A paciente abriu, no mesmo celular, um texto da própria Lúcia sobre a distância entre um rótulo e uma descrição, e perguntou qual dos dois estava certo. Lúcia respondeu como sempre responde, com outra pergunta: o que ela tinha sentido ao ler cada um?
 
@@ -42,7 +42,7 @@ Tabela: A tradução do problema, fase por fase
 | IV · O Sistema | “Não tenho tempo.” | Um formato que não cabia no tempo que havia |
 | V · O Território | “Isso não dá resultado.” | A unidade de medida errada, e um vale que parecia fracasso |
 
-Faça a tradução com a sua própria frase. Volte à autópsia do capítulo 5, onde você escreveu por que tinha parado da última vez, e leia a explicação que deu na época. Depois procure, na tabela, a linha em que ela cabe. Se a sua frase era "não tenho tempo", confira se o formato-base de hoje cabe no seu pior mês. Se era "não sei o que postar", abra o inventário de perguntas e conte quantas pautas estão ali, esperando. A queixa antiga, relida agora, costuma mostrar o que ainda falta.
+Faça a tradução com a sua própria frase. Volte à autópsia do capítulo 5, onde você escreveu por que tinha parado da última vez, e leia a explicação que deu na época. Depois procure, na tabela, a linha em que ela cabe. Se a sua frase era "não tenho tempo", confira se o formato-base de hoje cabe no seu pior mês. Se era "não sei o que postar", abra o inventário de perguntas e conte quantas pautas estão ali, esperando. A queixa antiga, relida agora, mostra o que ainda falta.
 
 ```conceito
 termo: Autoria
@@ -54,7 +54,7 @@ A definição tem duas metades, e a segunda pesa tanto quanto a primeira. Uma pr
 
 ## O espaço que alguém ocupa
 
-O capítulo 2 mostrou quem ocupa o espaço que o especialista deixa vazio. Trinta capítulos depois, dá para dizer a outra metade: o mercado não consegue recompensar um conhecimento que não consegue perceber. Isso vale para a fisioterapeuta de Curitiba e vale para você. Em muitas profissões, saber deixou de bastar; passou a ser preciso permitir que outras pessoas saibam que você sabe. Aparecer, nesse sentido, tem menos de vaidade do que de distribuição: é o que faz o conhecimento que você acumulou chegar a quem precisa dele antes de ter a sorte de ser indicado a você.
+O capítulo 2 mostrou quem ocupa o espaço que o especialista deixa vazio. Trinta capítulos depois, dá para dizer a outra metade: o mercado não consegue recompensar um conhecimento que não consegue perceber. Em muitas profissões, saber deixou de bastar; passou a ser preciso permitir que outras pessoas saibam que você sabe. Aparecer, nesse sentido, tem menos de vaidade do que de distribuição: é o que faz o conhecimento que você acumulou chegar a quem precisa dele antes de ter a sorte de ser indicado a você.
 
 ```figura
 tipo: espectro
@@ -69,26 +69,26 @@ marcas:
 legenda: Esquema ilustrativo. Marque a lápis, na linha, onde você estava no dia em que abriu este livro e onde está hoje. A distância entre as duas marcas é o seu resultado, e só você pode medi-la.
 ```
 
-Ocupar o território é estar presente, no pedaço da sua área em que você é bom de verdade, com uma voz que ninguém confunda com a de outra pessoa, sem precisar falar de tudo nem aparecer em toda parte. O território de Otávio são os documentos que a pequena empresa precisa ter antes do problema. O de Caio, as paredes de apartamento antigo e o que elas escondem. São pedaços estreitos, e é por serem estreitos que alguém consegue ocupá-los inteiros.
+Ocupar o território é estar presente, no pedaço da sua área em que você é bom de verdade, com uma voz que ninguém confunda com a de outra pessoa, sem precisar falar de tudo nem aparecer em toda parte. O território de Otávio é o que a pequena empresa precisa fazer, e conseguir provar, antes de o problema chegar à Justiça do Trabalho. O de Caio, as paredes de apartamento antigo e o que elas escondem. São pedaços estreitos, e é por serem estreitos que alguém consegue ocupá-los inteiros.
 
 Ocupar o território também tem limites, e eles são os mesmos do resto do livro. Não se ocupa um espaço atacando colegas, prometendo resultado ou dizendo mais do que a sua prática sustenta. Nas profissões com código de ética, o código continua valendo em cada peça, e quem explica bem raramente precisa ir além do que ele permite. O território se ganha explicando melhor do que os outros, com mais precisão e mais honestidade sobre o que você não sabe, peça depois de peça.
 
 ## Os próximos noventa dias
 
-Você termina este livro com mais energia e mais ideias do que tinha no primeiro capítulo, e o risco está justamente aí. A tentação do dia seguinte é redesenhar tudo de uma vez: um formato novo, um assunto mais amplo, um ritmo mais ambicioso. Resista. O sistema que você montou nas últimas semanas foi construído, mas ainda não foi testado, e mudá-lo agora destrói a única evidência que você poderia ter sobre ele.
+Você termina este livro com mais energia e mais ideias do que tinha no primeiro capítulo, e o risco está justamente aí. A tentação do dia seguinte é redesenhar tudo de uma vez: um formato novo, um assunto mais amplo, um ritmo mais ambicioso. O sistema que você montou nas últimas semanas foi construído, mas ainda não foi testado, e mudá-lo agora destrói a única evidência que você poderia ter sobre ele.
 
 Os noventa dias seguintes têm três partes. Nos primeiros trinta, repetição pura: o formato-base, no ritmo que você assumiu no capítulo 8, com o caderno de campo aberto todos os dias e nenhum formato novo. É quando o hábito se instala, pela repetição. Do trigésimo primeiro ao sexagésimo, profundidade: o mesmo formato, agora atravessando o inventário de perguntas do capítulo 14 nos três níveis, e é quando o repertório começa a aparecer peça a peça.
 
 Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme. Uma só: outro modo de abrir, outra extensão, ou o mesmo caso contado uma segunda vez em outra forma, como o capítulo 20 descreveu. Se o hábito ainda oscila, se você ainda perde semanas sem perceber, não acrescente nada, e repita o bloco anterior. O critério para acrescentar é o que aconteceu nas semanas ruins: se nelas saiu ao menos a peça mínima, o hábito está firme.
 
-Uma dentista que publica às quartas passaria os primeiros trinta dias com a mesma peça de sempre, a dúvida da semana respondida em noventa segundos. Do dia 31 ao 60, a pergunta do clareamento, que ela ouve toda semana, respondida no nível estrutural: por que o dente escurece, e por que o clareamento não resolve tudo. No dia 61, antes de acrescentar qualquer coisa, ela olharia para a semana do feriado de junho, em que quase não publicou. Se naquela quarta saiu ao menos a peça mínima, a variação entra. Se não saiu nada, o terceiro bloco repete o segundo.
+Uma dentista que publica às quartas passaria os primeiros trinta dias com a mesma peça de sempre, a dúvida da semana respondida em noventa segundos. Do dia 31 ao 60, a pergunta do clareamento, que ela ouve toda semana, respondida no nível estrutural: por que o dente escurece, e o que o clareamento não alcança. No dia 61, antes de acrescentar qualquer coisa, ela olharia para a semana do feriado de junho, em que quase não publicou. Se naquela quarta saiu ao menos a peça mínima, a variação entra. Se não saiu nada, o terceiro bloco repete o segundo.
 
 Anote no calendário, hoje, as três datas: o fim do primeiro bloco, o do segundo e o do terceiro. No fim do primeiro, refaça o diagnóstico deste capítulo com uma caneta de outra cor, na mesma página, e compare linha por linha: a linha que não subiu é o trabalho do segundo bloco. Se um mês difícil cair no meio dos noventa dias, e é provável que caia, use o protocolo do capítulo 29 e conte a semana mínima como semana cumprida. O plano admite semanas fracas, desde que a sequência não se quebre.
 
 ```nota
 tipo: alerta
 titulo: O erro mais provável do dia seguinte
-texto: Mudar o formato, o assunto e o ritmo ao mesmo tempo, logo depois de terminar o livro. Se a mudança der errado, você não vai saber qual das três deu errado; se der certo, também não. Escreva na oficina o que você não vai mudar pelos próximos trinta dias e releia a lista no dia em que a vontade aparecer.
+texto: Mudar o formato, o assunto ou o ritmo logo depois de terminar o livro, e quase sempre os três de uma vez. Um sistema que não rodou trinta dias ainda não produziu evidência nenhuma; mudá-lo agora apaga a única que viria. Escreva na oficina o que você não vai mudar pelos próximos trinta dias e releia a lista no dia em que a vontade aparecer.
 ```
 
 ## A página que é sua
@@ -99,7 +99,7 @@ Os quatro já dispensam um capítulo por dia. O que eles têm está escrito em a
 
 O que ficou em branco também diz alguma coisa. Uma oficina pulada, um campo que não saiu, uma posição que você não teve coragem de escrever: esses espaços vazios são a sua lista de trabalho para as próximas semanas. Volte a eles no seu ritmo, um por semana, e só depois de publicar a peça da semana.
 
-A próxima peça não precisa de mais nada do que já está nestas páginas. Ela tem um dia da semana, um horário, uma captura do caderno de campo esperando para virar outra coisa e um formato que você já cronometrou. Falta apenas acontecer, e ela acontece no seu dia, sem aviso e sem cerimônia, com a sua voz.
+A próxima peça não precisa de mais nada do que já está nestas páginas. Ela tem um dia da semana, um horário, uma posição que você já escreveu e um formato que você já cronometrou. Depois dela, o caderno de campo tem a seguinte esperando. Falta apenas acontecer, e ela acontece no seu dia, sem aviso e sem cerimônia, com a sua voz.
 
 ```guardar
 - O problema nunca foi a falta de conteúdo. Faltava que a presença pertencesse a quem ela representa.
@@ -110,7 +110,7 @@ A próxima peça não precisa de mais nada do que já está nestas páginas. Ela
 ```autodiagnostico
 titulo: O diagnóstico final
 instrucao: Circule um número por linha pensando em como as coisas estão hoje. Na linha 6 os números estão em ordem inversa, de propósito. Se ainda não publicou, responda às linhas 3 e 5 pelo que já está escrito no caderno para publicar. Some e leia a sua faixa.
-rodadas: ["Soma de hoje", "Soma no dia 30"]
+rodadas: ["Soma de hoje", "Soma daqui a 30 dias"]
 escala: ["Discordo totalmente", "Discordo", "Mais ou menos", "Concordo", "Concordo totalmente"]
 itens:
   - {texto: "Consigo descrever a minha linguagem criativa numa frase."}
@@ -139,7 +139,7 @@ campos:
       colunas: ["Pronto", "Em branco"]
       linhas: ["A frase da assimetria (cap. 1)", "O mapa de modo (cap. 7)", "O número que você assume (cap. 8)", "O manifesto de três linhas (cap. 10)", "O manual de voz (cap. 11)", "O enunciado (cap. 12)", "O inventário de perguntas (cap. 14)", "O caderno de campo (cap. 19)", "O formato-base (cap. 20)", "A semana modelo (cap. 21)", "A arquitetura de escala (cap. 23)", "O painel de quatro números (cap. 28)", "O protocolo do mês difícil (cap. 29)"]
   - rotulo: "A declaração: o que você defende, na sua área, e por quê"
-    exemplo: "Parta de uma posição do capítulo 10 e use as palavras do seu manual de voz. Uma nutricionista: “Eu defendo que cortar o pão não é condição para emagrecer, e isso já me custou pacientes que queriam uma lista de proibidos.”"
+    exemplo: "Parta de uma posição do capítulo 10 e use as palavras do seu manual de voz. Uma dermatologista: “Eu defendo que o protetor solar se escolhe pela quantidade que a pessoa de fato passa, mais do que pelo número do fator, e isso já me custou pacientes que queriam o nome de um produto.”"
     linhas: 7
   - rotulo: "O plano de noventa dias"
     exemplo: "Dias 1 a 30: ___. Dias 31 a 60: ___. Dias 61 a 90: ___."
@@ -178,9 +178,7 @@ esqueleto:
   - {rotulo: "A sustentação", texto: "O caso, o número ou o padrão da sua prática.", linhas: 3}
   - {rotulo: "Para quem", texto: "A quem essa conversa serve, dito uma vez.", linhas: 2}
 roteiro: |
-  {A sua abertura de sempre}. Vou dizer uma coisa que eu defendo na minha área, sem rodeio.
-
-  {a sua posição}
+  {A sua abertura de sempre}. {a sua posição, dita numa frase}. É isso que eu defendo.
 
   Isso já me custou {o custo real: um cliente, um convite, a concordância de colegas}. E eu mantenho, porque em {o tempo} de prática foi o que eu vi funcionar: {o caso, o número ou o padrão}.
 
@@ -216,7 +214,7 @@ faca_antes: true
   explicacao: É quando o hábito se instala, e ele se instala pela repetição. A variação entra no terceiro bloco, e só se o hábito estiver firme.
 - pergunta: Por que ocupar um território estreito, e não a área inteira?
   opcoes:
-    - Porque as plataformas favorecem perfis de nicho em relação aos gerais, na distribuição.
+    - Porque as plataformas só mostram perfis de nicho a quem ainda não os segue.
     - Porque um território estreito exige menos peças por semana e menos estoque.
     - Porque os clientes desconfiam de quem fala de assuntos variados.
     - Porque é no pedaço em que você é bom que a sua voz não se confunde.
@@ -226,8 +224,8 @@ faca_antes: true
 
 ```aplicacao
 itens:
-  - {rotulo: "Fiz o inventário dos trinta capítulos", ajuda: "Sei o que ficou pronto e o que ficou em branco (campo 01).", pontos: 3}
-  - {rotulo: "Escrevi a declaração para publicar", ajuda: "Fala da minha área, e não do meu processo (campo 02).", pontos: 3}
+  - {rotulo: "Fiz o inventário dos trinta capítulos", ajuda: "Sei o que ficou pronto e o que ficou em branco (campo 01).", pontos: 2}
+  - {rotulo: "Escrevi a declaração para publicar", ajuda: "Fala da minha área, e não do meu processo (campo 02).", pontos: 4}
   - {rotulo: "Tenho o plano de noventa dias", ajuda: "Com os três blocos e o compromisso de não mudar nada nos primeiros trinta (campos 03 e 05).", pontos: 2}
   - {rotulo: "Marquei a declaração e a peça seguinte", ajuda: "Dia e hora da declaração e a captura da peça seguinte (campo 04).", pontos: 2}
 ```

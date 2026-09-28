@@ -372,3 +372,4 @@ table.grade.longa tbody tr:nth-child(-n+3) { break-before: avoid; }
 /* rede: cabeçalho e introdução inteiros, presos à primeira regra */
 .rede .cab-secao { break-inside: avoid; }
 .rede .regras li:first-child { break-before: avoid; }
+.roteiro p.ini > .lacuna:first-child { margin-left: -.6mm; }
