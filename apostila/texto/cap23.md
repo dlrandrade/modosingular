@@ -14,19 +14,19 @@ Bianca era boa no que fazia, e fazia de boa-fé. Tinha aprendido na faculdade a 
 
 Em abril, o perfil publicava seis vezes por semana. Os áudios eram os mesmos dois, gravados no estacionamento, mas cada um virava um carrossel, uma frase de destaque sobre fundo azul e um vídeo curto com legenda animada. Os números subiram. Bianca mostrava a Renata, na sexta, um gráfico com o crescimento de seguidores, e Renata aprovava a semana seguinte num bloco só, rolando a tela do celular entre um paciente e outro.
 
-No fim de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele tinha terminado o tratamento, e agora vinha para duas sessões de manutenção, depois de uma viagem longa de carro. Na saída, com o casaco já no braço, comentou que tinha visto o perfil dela de novo. Disse, rindo, que no ano anterior tinha finalmente parado de avisar os colegas para não ligarem para o Instagram da fisioterapeuta. "Agora eu acho que voltaria a avisar."
+No fim de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele tinha terminado o tratamento, e agora vinha para algumas sessões de manutenção, depois de uma viagem longa de carro. Na saída, com o casaco já no braço, comentou que tinha visto o perfil dela de novo. Disse, rindo, que no ano anterior tinha finalmente parado de avisar os colegas para não ligarem para o Instagram da fisioterapeuta. "Agora eu acho que voltaria a avisar."
 
 Renata riu com ele, e à noite abriu o perfil com calma pela primeira vez em semanas. Rolou as últimas trinta publicações. Encontrou dicas de postura numeradas, uma frase sobre autocuidado em letras grandes, um carrossel sobre o travesseiro certo que ela não lembrava de ter aprovado. Os áudios dela estavam lá dentro, em pedaços, mas as frases tinham mudado. "A dor não é o inimigo, é o alarme" tinha virado "Escute o seu corpo: a dor é um sinal", com ponto de exclamação no fim e um coração azul.
 
 Não havia nada de errado em nenhuma das peças, e era isso que mais incomodava. Estavam corretas, bem organizadas e bonitas. Mas não havia nelas a pergunta sobre as manhãs, nem o paciente do carrinho de supermercado, nem a desconfiança do exame que não combina com a queixa. Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
 
-A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abriu as mensagens das semanas anteriores e encontrou, em todas as sextas, a mesma pergunta da assistente, "posso agendar?", e a mesma resposta dela, "pode", enviada entre um paciente e outro. Nenhuma daquelas peças tinha saído sem a aprovação dela. Tinha aprovado tudo, e não tinha lido quase nada.
+A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abriu as mensagens das semanas anteriores e encontrou, em todas as sextas, a mesma pergunta da assistente, "posso agendar?", e a mesma resposta dela, "pode", enviada do corredor, com o próximo paciente já na maca. Nenhuma daquelas peças tinha saído sem a aprovação dela. Tinha aprovado tudo, e não tinha lido quase nada.
 
 ## O que escala e o que não escala
 
-Cada decisão daquela primavera tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de catorze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
+Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de catorze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
 
-A pergunta útil diante do crescimento não é se ele deve acontecer. Em algum momento, quase todo especialista que começa a dar certo vai precisar de mais volume ou de ajuda para sustentá-lo. A pergunta é o que pode crescer e o que precisa continuar pequeno. Há etapas da produção que são mecânicas, e ganham com mais gente e mais processo. Há outras que são o próprio conteúdo, e deixam de existir quando passam para outras mãos.
+Em algum momento, quem começa a dar certo precisa de mais volume, ou de ajuda para sustentá-lo. Diante disso, a pergunta útil é o que pode crescer e o que precisa continuar nas suas mãos. Há etapas da produção que são mecânicas, e ganham com mais gente e mais processo. Há outras que são o próprio conteúdo, e deixam de existir quando passam para outras mãos.
 
 Tabela: A linha que divide as etapas
 
@@ -54,17 +54,17 @@ porque: A tendência natural do crescimento é padronizar tudo. Quando a padroni
 
 A descaracterização é silenciosa porque cada peça, olhada sozinha, parece boa. Ela aparece melhor em três sinais, e Renata, olhando para trás, encontrou os três no mês de abril. O primeiro é o tom dos comentários. Durante o ano anterior, as pessoas respondiam à ideia: perguntavam, contavam o próprio caso, discordavam. Em abril, os comentários passaram a elogiar o formato. "Que post lindo" substituiu "nunca tinha pensado nisso assim".
 
-O segundo sinal é o mais confiável: aprovar sem ler direito. Quando a revisão vira uma formalidade feita entre dois pacientes, rolando a tela, a voz já saiu, porque ninguém mais está conferindo se ela está lá. O terceiro é consequência do segundo. Você não lembra o que publicou na semana. Renata não lembrava do carrossel do travesseiro, e não lembrava porque não o tinha pensado. Tinha apenas autorizado.
+O segundo sinal é o mais confiável: aprovar sem ler direito. Quando a revisão vira uma formalidade feita no intervalo, com o polegar, a voz já saiu, porque ninguém mais está conferindo se ela está lá. O terceiro é consequência do segundo. Você não lembra o que publicou na semana. Renata não lembrava do carrossel do travesseiro, e não lembrava porque não o tinha pensado. Tinha apenas autorizado.
 
 Os três sinais aparecem também em quem trabalha sozinho. Um modelo de arte que decide o tamanho de cada frase, um aplicativo que sugere legendas prontas, uma inteligência artificial que reescreve o áudio em tom de postagem: qualquer ajuda que troque palavras produz o mesmo efeito de uma assistente sem orientação. O Apêndice C traz um modelo de pedido que mantém a sua voz quando a ajuda é uma ferramenta. As quatro etapas que nunca passam adiante valem para gente e para programa.
 
 ```nota
 tipo: alerta
 titulo: A culpa costuma cair no lugar errado
-texto: Volume não apaga uma voz. O que apaga é passar a voz para outras mãos. Como as duas coisas acontecem juntas, quase sempre na mesma primavera, a escala leva a culpa por um efeito que a delegação produziu, e a pessoa reduz o volume sem mudar o que de fato estava errado.
+texto: Volume não apaga uma voz. O que apaga é passar a voz para outras mãos. Como as duas coisas costumam acontecer no mesmo mês, a escala leva a culpa por um efeito que a delegação produziu, e a pessoa reduz o volume sem mudar o que de fato estava errado.
 ```
 
-Renata quase cometeu esse erro. Na primeira noite, pensou em voltar às duas peças por semana e dispensar a ajuda de Bianca. Na manhã seguinte, fez uma conta diferente. O problema estava menos no número de peças do que no caminho de cada uma: três das quatro etapas que só ela podia fazer tinham passado para outra pessoa, e a quarta, a fala, tinha virado apenas insumo, cortada até perder o sentido. Com as quatro de volta nas mãos dela, seis peças por semana talvez continuassem possíveis.
+Renata quase cometeu esse erro. Na primeira noite, pensou em voltar às duas peças por semana e dispensar a ajuda de Bianca. Na manhã seguinte, fez uma conta diferente. O problema estava menos no número de peças do que no caminho de cada uma: as quatro etapas que só ela podia fazer tinham passado para outra pessoa, e a fala, que continuava sendo gravada por ela, chegava ao perfil reescrita. Com as quatro de volta nas mãos dela, seis peças por semana talvez continuassem possíveis.
 
 ## A arquitetura que protege o rosto
 
@@ -105,7 +105,7 @@ Em junho, Marcos voltou para a última sessão de manutenção. Não falou do pe
 
 ## Antes de precisar
 
-A maior parte de quem lê este livro ainda produz sozinho, e talvez continue assim. A arquitetura serve do mesmo jeito, por outro motivo: é mais fácil decidir o que nunca passa adiante antes de ter alguém para quem passar. Renata desenhou a dela depois do estrago, em abril, com o perfil já parecendo de outra pessoa. Quem a desenha antes entra na primeira contratação, ou na primeira ferramenta, com a linha já traçada.
+A maior parte de quem lê este livro ainda produz sozinho, e talvez continue assim. A arquitetura serve do mesmo jeito, por outro motivo: é mais fácil decidir o que nunca passa adiante antes de ter alguém para quem passar. Renata desenhou a dela depois do estrago, em abril, com o perfil já parecendo de outra pessoa. Quem a desenha antes entra na primeira contratação, ou na primeira ferramenta, com a linha já traçada. Uma folha basta: as quatro etapas no alto, com o seu nome ao lado de cada uma, e embaixo as que podem passar, com espaço para o nome de quem um dia fizer.
 
 A ordem natural da ajuda começa pelo mais mecânico. Primeiro a transcrição, que consome tempo e não carrega nada de seu. Depois a formatação e a agenda. O corte vem por último, porque é o ponto em que mais facilmente se escorrega do corte para a reescrita, e exige que a pessoa conheça bem a sua voz. As quatro etapas do topo da tabela não entram nessa fila em nenhum momento.
 

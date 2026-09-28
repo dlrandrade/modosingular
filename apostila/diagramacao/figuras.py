@@ -643,6 +643,27 @@ def ilu_engrenagem():
                 + f'<path d="M296 196 l18 -8 M300 208 l20 0 M318 180 l6 -6 M322 214 l8 4" stroke="{ACC}" stroke-width="1.2"/>')
 
 
+def ilu_relogio():
+    cx, cy, r = 200, 150, 88
+    def pt(a, rr):
+        t = math.radians(a - 90)
+        return cx + rr * math.cos(t), cy + rr * math.sin(t)
+    marcas = ""
+    for i in range(60):
+        rr0 = r - (9 if i % 5 == 0 else 4)
+        x0, y0 = pt(i * 6, rr0); x1, y1 = pt(i * 6, r)
+        marcas += f'<line x1="{x0:.1f}" y1="{y0:.1f}" x2="{x1:.1f}" y2="{y1:.1f}" stroke="{INK if i % 5 == 0 else INK3}" stroke-width="{1 if i % 5 == 0 else .6}"/>'
+    arcos = ""
+    for a0 in (20, 95, 150, 238, 300):
+        x0, y0 = pt(a0, r + 12); x1, y1 = pt(a0 + 24, r + 12)
+        arcos += f'<path d="M{x0:.1f} {y0:.1f} A{r + 12} {r + 12} 0 0 1 {x1:.1f} {y1:.1f}" stroke="{ACC}" stroke-width="4" stroke-linecap="round"/>'
+    hx, hy = pt(300, 44); mx, my = pt(60, 70)
+    return _ilu(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="{PAPER}" stroke-width="1.4"/>' + marcas + arcos
+                + f'<line x1="{cx}" y1="{cy}" x2="{hx:.1f}" y2="{hy:.1f}" stroke-width="2.2"/>'
+                + f'<line x1="{cx}" y1="{cy}" x2="{mx:.1f}" y2="{my:.1f}" stroke-width="1.4"/>'
+                + f'<circle cx="{cx}" cy="{cy}" r="3.5" fill="{ACC}" stroke="none"/>')
+
+
 def ilu_colheita():
     espigas = ""
     for i, x in enumerate(range(70, 340, 30)):
@@ -755,7 +776,7 @@ def ilu_megafone():
 
 ILUSTRACOES = {
     "iceberg": ilu_iceberg, "territorio": ilu_territorio, "raizes": ilu_raizes,
-    "impressao-digital": ilu_impressao, "engrenagem": ilu_engrenagem, "colheita": ilu_colheita,
+    "impressao-digital": ilu_impressao, "engrenagem": ilu_engrenagem, "relogio": ilu_relogio, "colheita": ilu_colheita,
     "prisma": ilu_prisma, "semente": ilu_semente, "farol": ilu_farol, "chave": ilu_chave,
     "lente": ilu_lente, "ponte": ilu_ponte, "espelho": ilu_espelho, "mapa": ilu_mapa,
     "megafone": ilu_megafone,
