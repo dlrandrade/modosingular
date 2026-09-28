@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 20:15
+# atualizado: 2026-09-28 20:17
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -680,8 +680,19 @@ capitulos:
       veredito: reprovado
     nota: 8.54
   21:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:16
+      revisao: apostila/revisoes/cap21-r1.yaml
+      media: 8.56
+      minimo: 7.4
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.56
   22:
     status: rascunho
     iteracoes: []
@@ -746,6 +757,7 @@ figurantes:
   - 10
   - 21
   - 29
+  - 21
   dermatologista:
   - 3
   - 10
@@ -820,6 +832,7 @@ figurantes:
   técnico de ar-condicionado:
   - 9
   - 28
+  - 21
   enfermeira obstetra:
   - 9
   otorrinolaringologista:
