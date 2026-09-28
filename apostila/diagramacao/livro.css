@@ -154,7 +154,7 @@ strong { font-weight: 600; }
 .compara .rotulo { margin-bottom: 2mm; }
 .compara .neg .rotulo { color: var(--ink-3); }
 
-.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3mm 0 .6mm; margin-top: 5mm; }
+.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3mm 0 .6mm; margin-top: 5mm; break-before: avoid; }
 .guardar .rotulo { margin-bottom: 2.6mm; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
 .guardar li { position: relative; padding-left: 8mm; margin: 0 0 2mm;

@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 06:44
+# atualizado: 2026-09-28 06:46
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -532,6 +532,8 @@ figurantes:
   - 20
   massoterapeuta:
   - 20
+  mestre de obras:
+  - 11
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
@@ -544,6 +546,8 @@ decisoes:
   joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
 - '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto); ''tradução'' sem qualificação
   é o conceito da Fase III (experiência→peça, cap. 13).'
+- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com break-before: avoid: quando não
+  cabe, leva junto as últimas linhas do texto, em vez de ficar sozinho na página.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
