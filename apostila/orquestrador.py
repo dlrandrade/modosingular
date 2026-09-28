@@ -376,12 +376,14 @@ def b_oficina(d, c):
             corpo_g = "".join(f'<tr><td>{esc(l)}</td>' + cel * len(g["colunas"]) + '</tr>'
                               for l in g["linhas"])
             curta = " curta" if max(len(l) for l in g["linhas"]) <= 14 else ""
-            espaco = (f'<table class="grade{curta}"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
-                      + f'</tr>{corpo_g}</table>')
+            longa = " longa" if len(g["linhas"]) > 6 else ""  # grade longa pode quebrar entre linhas, com o cabeçalho repetido
+            espaco = (f'<table class="grade{curta}{longa}"><thead><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
+                      + f'</tr></thead><tbody>{corpo_g}</tbody></table>')
         else:
             espaco = (linhas_rotuladas(f["rotulos_linhas"]) if f.get("rotulos_linhas")
                       else linhas(f.get("linhas", 3), f.get("numerar", False)))
-        campos += (f'<div class="campo"><p class="enunciado"><span class="n">{i:02d}</span>{md_inline(f["rotulo"])}</p>'
+        longa_c = " longa" if f.get("grade") and len(f["grade"]["linhas"]) > 6 else ""
+        campos += (f'<div class="campo{longa_c}"><p class="enunciado"><span class="n">{i:02d}</span>{md_inline(f["rotulo"])}</p>'
                    f'{dica}{espaco}</div>')
     crit = "".join(f"<li>{md_inline(x)}</li>" for x in d.get("criterios", []))
     return (f'<section class="oficina">{cab_secao(f"Oficina · Capítulo {c.n}", d["titulo"], d["objetivo"])}'

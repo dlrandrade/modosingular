@@ -1,0 +1,81 @@
+capitulo: 27
+iteracao: 1
+notas: {metodo: 8.8, voz: 8.8, originalidade: 8.5, clareza: 9.0, ritmo: 8.7, concretude: 9.2,
+        coerencia: 8.2, aplicabilidade: 8.4, impresso: 8.6, honestidade: 8.6}
+bloqueadores: []
+pontos_fortes:
+  - 'A cena de abertura põe a ética dentro da ação, sem precisar de sermão: a linha do 188 que "passou a pôr em todas as respostas desse tipo", o "Sentiu mais responsabilidade do que satisfação" e a fronteira "os textos falavam de muita gente; a sessão seria sobre uma pessoa só". É a melhor cena ética da Fase V e cumpre o arco F5 da Lúcia (oferta dentro do código).'
+  - 'O gráfico do PWA com números inventados (82/41/9) saiu. Em seu lugar entrou uma escada sem valores, e a referência de "uma a cada dez peças" aparece como referência, não como dado. Honestidade de método bem resolvida.'
+  - 'O último metro ganha cena de ofício concreta e verificável: o telefone de quatro anos antes, a descrição reescrita numa linha, a secretária que "acabou mandando mensagem, que é justamente o caminho que Lúcia não queria".'
+  - 'O fecho termina em cena e consequência, sem moral nem anúncio da oficina: "quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone". Checklist, oficina e verificação conversam (campos 01 a 06 com item correspondente; corretas em 1, 0, 2, 3).'
+problemas:
+  - criterio: coerencia
+    trecho: "Os quatro pacientes silenciosos tinham chegado justamente nessas semanas."
+    por_que: 'Contradição interna. O parágrafo anterior diz que, dos quatro que liam os textos, Lúcia "Encontrou um" nas curtidas e "Os outros três" não deixaram sinal. A própria verificação confirma: "só um aparecia nas curtidas". Silenciosos são três, não quatro. Além disso, a coincidência de todos terem chegado nas semanas de pouca resposta é conveniente demais e sugere uma causalidade que o texto não sustenta.'
+    correcao: 'Trocar por "Três dos quatro tinham chegado justamente nessas semanas." Ou, melhor: "Dois dos três silenciosos tinham chegado numa dessas semanas." Ajustar "Os que procuravam eram outros" se for preciso.'
+  - criterio: coerencia
+    trecho: "meses de leitura sem nenhum sinal, e depois uma ligação"
+    por_que: 'Furo de enredo (lição cap03-r3). O telefone do perfil era "o do consultório antigo, de quatro anos antes, desativado". Então como três leitores silenciosos ligaram? O texto não diz onde acharam o número, e isso enfraquece a tese do último metro, porque o metro quebrado não impediu ninguém. Há um furo parecido no começo: "não tinha encontrado, em lugar nenhum do perfil, um telefone" contra "O número que estava na descrição era o do consultório antigo". Havia telefone, só que morto.'
+    correcao: 'Dizer como os três chegaram, por exemplo: "e depois uma ligação, para um número que dois deles acharam no site do conselho e o terceiro pediu a uma amiga que já era paciente". No começo, trocar por "não tinha encontrado, em lugar nenhum do perfil, um telefone que funcionasse, um horário, uma instrução".'
+  - criterio: metodo
+    trecho: "Publique a oferta da oficina, no lugar de uma peça comum, com o mesmo tom de sempre."
+    por_que: 'O plano (voz.etica) marca o cap. 27 como um dos três lugares em que o livro lembra os códigos de publicidade. O texto só cita "o código de ética da psicologia". A oficina e a rede mandam TODO leitor publicar uma oferta, e é justamente a peça mais regulada: advogados (OAB, publicidade apenas informativa e sem captação), médicos e dentistas (registro no conselho obrigatório no anúncio) e a própria psicóloga, cujo código exige nome e número do CRP em qualquer divulgação. Nada disso aparece na oferta da Lúcia nem no esqueleto. O cap. 15 resolveu o mesmo ponto com uma frase ("Confira as do seu conselho").'
+    correcao: 'Acrescentar ao roteiro_nota ou à intro da rede uma frase: "A oferta é a peça mais regulada que você vai publicar. Em profissões com código de publicidade, confira antes o que o seu conselho ou a sua ordem exige e proíbe (registro no anúncio, promessa, captação)." Na cena, a oferta da Lúcia leva o número do CRP ("e o número do CRP, que o código exige em qualquer anúncio"). No esqueleto, "A porta" pode incluir "e o seu registro, se a profissão exigir".'
+  - criterio: originalidade
+    trecho: "Lúcia fez uma conta depois daquela sexta. Dos nove pacientes novos que tinha recebido desde março, quatro disseram, na primeira sessão, que liam os textos dela."
+    por_que: 'É a mesma batida do capítulo anterior. No cap. 26, Renata abre o capítulo contando na agenda a origem dos pacientes novos e fecha refazendo a conta: "quatro tinham chegado pelo perfil". Aqui o personagem conta a origem dos pacientes novos e chega a "quatro" de novo. Isso fere a lição cap08-r1 (números de personagens diferentes nunca coincidem) e a regra de não repetir cena entre capítulos. O cap. 28 volta ao mesmo gesto com a planilha da Helena, e são três capítulos seguidos com "contar como os clientes chegaram". A oficina também repete: o campo 01 do cap. 26 é "Como chegaram os seus últimos clientes novos".'
+    correcao: 'Tirar da Lúcia a "conta de agenda" e deixar a descoberta sair da escuta, que é o modo dela. Na primeira sessão da leitora, ela pergunta, e nas semanas seguintes mais duas pacientes dizem, sem ser perguntadas, que liam os textos. Se a contagem ficar, mudar o número (três de onze, por exemplo) e o enquadramento: o que ela procura não é a origem, e sim o rastro nas curtidas.'
+  - criterio: aplicabilidade
+    trecho: "Pergunte aos seus clientes recentes se liam o que você publica, e procure os nomes nas curtidas e nos comentários."
+    por_que: 'O campo 01 não se faz no papel, nos 30 minutos. Ele exige conversar com vários clientes durante semanas, e o tempo_nota só ressalva o teste no celular. Mesmo assim, o checklist dá 2 pontos a "Perguntei aos clientes recentes e procurei sinais (campo 01)", o que fere a lição cap08-r1: o critério só cobra o que existe ao fim da oficina.'
+    correcao: 'Reescrever o campo como algo que se faz de memória ou com a agenda: "Dos seus últimos dez clientes novos, quais mencionaram, sem você perguntar, algo que você publicou? Quantos deles você reconhece nas curtidas?" Acrescentar: "Daqui em diante, pergunte a cada cliente novo como chegou e anote com as palavras dele." Checklist: "Listei de memória quem citou o que publico (campo 01)".'
+  - criterio: aplicabilidade
+    trecho: "O caminho de contato testado, a sua oferta em quatro partes e a frequência com que ela vai aparecer."
+    por_que: 'A oferta tem quatro partes (para quem, para quem não, processo e porta), mas a oficina só tem campos para três (03 a 05). A porta, que é o tema do capítulo, fica sem campo de escrita, e o campo 02 testa o caminho, mas não o escreve. Além disso, só o campo 03 traz exemplo de profissão: o 04 ("Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência.") e o 05 ("O que acontece na primeira conversa, e o que se decide nela.") ficam sem caso, justamente os mais difíceis de escrever.'
+    correcao: 'Juntar ao campo 05 "e como marcar" (2 → 3 linhas) ou criar um campo "A porta: como marcar, em uma linha que funcione". Dar exemplos em profissões diferentes, por exemplo no 04 um contador: "Empresas com folha acima de cinquenta pessoas; para essas, indico um escritório com equipe de departamento pessoal." e no 05 uma engenheira agrônoma: "Na primeira visita, ando a lavoura com você e digo se o problema é de solo ou de manejo."'
+  - criterio: metodo
+    trecho: "Lúcia publicou a oferta numa terça às oito, no lugar da peça da semana"
+    por_que: 'Lúcia pensa RESPONDENDO, e o capítulo mostra os outros três fazendo a oferta "do seu jeito". A dela, porém, é uma peça escrita sem pergunta, no lugar da resposta semanal. Isso fere a lição cap11-r1/cap12-r1 e desperdiça uma oportunidade que o próprio enredo oferece: a mensagem "Como faço para marcar?" é a pergunta perfeita para ela responder em público, sem expor ninguém.'
+    correcao: 'Fazer a oferta nascer de uma pergunta: a amiga do grupo manda na segunda "como alguém que lê você marca uma conversa?", ou Lúcia responde em público, anonimizada e genérica, à pergunta "como faço para marcar?". Uma frase basta: "Pediu à amiga que a pergunta daquela semana fosse essa."'
+  - criterio: honestidade
+    trecho: "porque os comentários vêm de uma parte pequena e barulhenta de quem lê"
+    por_que: 'Passa do limite de duas generalizações sem fonte sobre terceiros (lições cap01-r4/cap02-r2). Além deste trecho, há "quase todo especialista se pergunta como aquilo vira cliente", "copiar a chamada de outra pessoa quase nunca funciona", "ela é bastante previsível", "Quem vai procurar você está, quase sempre, em silêncio" e "Muita confiança se perde por falta de um telefone". São seis afirmações empíricas no narrador.'
+    correcao: 'Manter no máximo duas e passar as demais à observação da Lúcia ou tirá-las. Por exemplo: "porque, no caso da Lúcia, os comentários vinham de quinze ou vinte pessoas, e as que procuravam eram outras"; "copiar a chamada de outra pessoa costuma dar errado" → "copiar a chamada de outra pessoa é arriscado"; no Guardar: "Quem vai procurar você pode estar em silêncio: lê, forma opinião e não deixa rastro."'
+  - criterio: ritmo
+    trecho: "No segundo, viu uma peça e não guardou o nome; se você aparecer de novo, ela não vai lembrar."
+    por_que: 'O parágrafo que segue a figura repete em prosa, degrau por degrau, as notas da própria figura. Logo depois, a ideia do silêncio volta em sequência: na legenda ("o quarto é o mais silencioso"), em "é o degrau mais silencioso", em "Os números de alcance e de comentários não a veem", em "O quarto degrau não aparece nos números", em "Os números que ela olhava toda semana mediam os quinze ou vinte", em "A parte que procura é silenciosa" e no Guardar. Passa da regra de duas vezes por ideia (lição cap02-r1), e a seção pesa.'
+    correcao: 'Cortar os degraus 1 a 3 da prosa e dizer só "Os três primeiros degraus estão na figura; é o quarto que importa." Tirar "o quarto é o mais silencioso de todos" da legenda e fundir os dois parágrafos sobre o quarto degrau num só, que termine em "Já tem uma." e passe direto ao que se faz ("Quem pergunta a cada cliente novo…").'
+  - criterio: aplicabilidade
+    trecho: "Se você {o perfil de quem você atende} e já tentou {o caminho comum}, esse é o tipo de caso com que eu trabalho."
+    por_que: 'Do jeito que estão rotuladas, as lacunas do roteiro não fecham a frase: "Se você [adultos com ansiedade] e já tentou" fica sem verbo. O mesmo acontece em "Se você {o que você não atende}". O Faça assim da mesma página usa "Se você tem ___", e o leitor fica com dois modelos que não batem.'
+    correcao: '"Se você {tem ou vive o quê} e já tentou {o caminho comum}, …" e "Se você {tem ou procura o que você não atende}, provavelmente eu não sou a pessoa certa…".'
+  - criterio: aplicabilidade
+    trecho: "Nenhuma linha dos campos 03 a 05 promete resultado ou prazo."
+    por_que: 'A regra de ouro vale para todas as profissões. "Prazo" confunde prazo de resultado (proibido prometer em saúde) com prazo de serviço, que em contabilidade, arquitetura e engenharia é parte honesta do processo ("o projeto sai em três semanas"). Um arquiteto que siga o critério ao pé da letra corta justamente o que descreve o processo.'
+    correcao: '"Nenhuma linha dos campos 03 a 05 promete resultado nem prazo para o resultado." No roteiro, manter "Não prometo prazo" como exemplo de saúde, não como fala universal, ou trocar por "Não prometo resultado."'
+  - criterio: concretude
+    trecho: "Na mesma manhã, Lúcia pediu à secretária que tentasse marcar uma consulta com ela a partir do perfil, como se fosse uma desconhecida."
+    por_que: 'A secretária é a pior testadora possível, porque sabe o telefone, o horário e o caminho. O box logo acima manda testar "no celular de outra pessoa" e "sem ajuda", e a cena não demonstra esse teste. "Na mesma manhã" também ficou longe do antecedente (a sexta), com três blocos no meio.'
+    correcao: 'Trocar a testadora por alguém de fora, como a irmã ou uma vizinha que nunca marcou nada com ela: "Naquela sexta, pediu à irmã, que nunca tinha marcado nada com ela, que tentasse marcar pelo perfil, sem ajuda." O resto da cena se mantém (quatro minutos, mensagem).'
+  - criterio: clareza
+    trecho: "Porque as pessoas desconfiam de ofertas em qualquer estágio."
+    por_que: 'O capítulo alterna "estágio" (figura, verificação) e "degrau" (prosa, tabela). O leitor apressado não sabe se são duas escalas.'
+    correcao: 'Fixar um termo: "degrau" na prosa, na tabela e na verificação. Figura: "Os cinco degraus da distância".'
+edicoes_de_linha:
+  - '"Caio deixa uma quinta-feira, a cada tanto," -> "Caio reserva, de vez em quando, uma quinta-feira" (''a cada tanto'' é calco do espanhol)'
+  - '"com o 188 escrito por extenso" -> "com o número 188 escrito na própria oferta" (''por extenso'' significa escrito em palavras)'
+  - '"O 188 por extenso não estava ali por formalidade." -> "A linha do 188 não estava ali por formalidade."'
+  - '"Nenhuma das três muda de tom." -> "Nenhum dos três muda de tom."'
+  - '"\"Eu leio você.\"" -> "\"Leio os seus textos.\""'
+  - '"O que ela precisava acertar era o jeito de fazê-la." -> "O que ela precisava acertar era o jeito de fazer a oferta." (antecedente de ''-la'' ambíguo)'
+  - '"e que a pessoa que se encaixa foi pensada" -> "e que quem se encaixa foi descrito de propósito"'
+  - '"numa noite em que a agenda de qualquer psicóloga é longa demais" -> "numa noite em que esperar pela agenda de qualquer psicóloga é esperar demais"'
+  - '"Lúcia pensou nela o fim de semana inteiro, e não pelo motivo que imaginava." -> "Lúcia pensou nela o fim de semana inteiro, por um motivo que não esperava."'
+  - '"Os números de comentários não o veem." -> "Os comentários não mostram essa pessoa."'
+  - '"Cada modo faz a oferta do seu jeito, e é bom que faça." -> "Cada modo faz a oferta do seu jeito."'
+diagramacao:
+  - 'Os PNGs de apostila/saida/qa/cap27 estão desatualizados (07:01, contra o manuscrito das 20:41). A p012 mostra "Oito meses de leitura silenciosa" e a p013 mostra "A pergunta que todo especialista faz... é sempre a mesma", trechos que não existem mais no texto. Esta revisão usou um render novo feito no scratchpad. Rodar build --png antes da próxima rodada.'
+  - 'p016 (render atual): cerca de 25% em branco no pé, depois do primeiro parágrafo de "A oferta que filtra", porque o box compara, que não se divide, foi para a p017. Não é branco aceito, pois não antecede oficina, autodiagnóstico nem esqueleto. Pôr o compara depois do parágrafo "A oferta que Lúcia escreveu, em novembro…" ou antes do intertítulo, que é onde ele cabe.'
+  - 'p021: o rótulo "ESQUELETO DA PEÇA — RASCUNHE AQUI" contradiz a lição cap02-r2, porque a oficina já escreveu as partes nos campos 03 a 05. Usar esqueleto_rotulo: "Passe a limpo os campos 03 a 05 e a porta, em frases de quem lê".'
+  - 'p011: a abertura usa a ilustração "ponte", a mesma do cap. 13, também da Lúcia. Conferir se o desenho é outro. Se for idêntico, variar o traço ou a composição para que dois capítulos da mesma personagem não abram com a mesma imagem.'
+veredito: "Capítulo maduro, com a melhor cena ética da Fase V, mas ainda não passa: uma contradição numérica (quatro silenciosos contra três), o furo do telefone morto, a conta de agenda repetida do cap. 26, uma oficina com campo inexequível em 30 minutos e sem a porta, e nenhum lembrete de conselho para as outras profissões regulamentadas no capítulo que ensina a publicar uma oferta."
