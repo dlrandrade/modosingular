@@ -8,11 +8,11 @@ ilustracao: engrenagem
 legenda_ilustracao: Uma peça padrão, repetida, move o resto do sistema.
 ---
 
-Às sete e quarenta da segunda quinta-feira de outubro, Caio parou na porta da cozinha de um apartamento de 1971 no Cambuí e tirou uma foto do batente. Era de peroba, com três camadas de tinta descascando nos cantos, e a proprietária tinha pedido na véspera que ele fosse trocado por um de alumínio. Caio sentou no degrau da escada do prédio, com o capacete no colo, e escreveu cinco linhas no celular. Publicou às sete e cinquenta e dois, com a licença que desde junho entra em todos os contratos dele, para fotos de detalhes da obra sem nada que identifique o apartamento ou o dono, e subiu.
+Às sete e quarenta da segunda quinta-feira de outubro, Caio sentou no degrau da escada de um prédio de 1964 no Botafogo, com o capacete no colo, e abriu no celular a foto que tinha escolhido na seleção da véspera. Era de junho, de uma obra entregue em agosto: uma bandeira de vidro canelado em cima da porta de uma cozinha, com o caixilho descascado. Escreveu cinco linhas, publicou às sete e cinquenta e dois e subiu para a obra do dia, que não tinha nada a ver com a peça.
 
-As cinco linhas diziam o que ele diria à proprietária, e disse, meia hora depois. Teve uma obra em que o batente da cozinha ia para o lixo. Por baixo da tinta, era peroba, madeira que não se compra mais nessa bitola. Raspado e encerado, dura mais que o prédio. O de alumínio que viria no lugar dele empena no primeiro verão. Às vezes, a peça mais velha da casa é a mais nova que você vai ter.
+As cinco linhas diziam o que ele tinha dito ao dono daquela cozinha, meses antes. Teve uma obra em que a bandeira de vidro em cima da porta ia para o lixo, porque o dono queria a porta até o teto. Por baixo de seis demãos de tinta, o caixilho era de ferro, inteiro, e esse vidro já não se fabrica. Deixamos a bandeira e trocamos só a porta. A porta até o teto teria custado a luz do corredor, que entrava por ali havia sessenta anos. Antes de tirar uma peça velha, pergunte o que ela deixa passar.
 
-Era a décima sétima quinta-feira seguida. Havia quatro meses que Caio publicava do mesmo jeito: uma foto tirada na obra daquela semana, cinco linhas escritas no degrau, no carro ou na fila da madeireira, sempre começando por "teve uma obra". Nenhuma das dezessete tinha levado mais de quinze minutos, contando a foto. Nenhuma tinha exigido que ele decidisse, na véspera, o que ia fazer.
+Era a décima sétima semana seguida com uma foto; as cinco linhas tinham vindo na terceira. Havia quatro meses que Caio publicava do mesmo jeito: uma foto de obra, tirada no dia da captura e publicada depois da seleção, e cinco linhas escritas no degrau, no carro ou na fila da madeireira, desde a terceira sempre começando por "teve uma obra". Nenhuma das dezessete tinha levado mais de quinze minutos, contando a foto. Nenhuma tinha exigido que ele decidisse, na véspera, o que ia fazer.
 
 As cinco linhas tinham uma ordem, e a ordem era a de uma história de obra. A primeira dizia onde ele estava e o que ia acontecer com a peça da foto. A segunda, o que ele tinha encontrado. A terceira, o que decidiu. A quarta, o que custaria o outro caminho. A quinta era a frase que a pessoa levaria, e quase sempre era a mesma que ele dizia ao cliente na obra, com as mesmas palavras. Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa.
 
@@ -38,7 +38,7 @@ porque: Um formato fixo elimina a decisão que mais se repete. Sem ela, o esfor�
 
 Um formato só serve de base se passar em quatro testes ao mesmo tempo. O primeiro é o do modo: ele nasce do jeito como você pensa, que o capítulo 7 ajudou a descobrir? O segundo é o do pior mês: cabe no número que você calculou no capítulo 8, com o custo medido por relógio? O terceiro é o do repertório: comporta um detalhe, uma exceção ou um critério, ou só cabe informação rasa? O quarto é o da repetição: você aguenta fazê-lo cem vezes sem passar a odiá-lo?
 
-Caio aplicou os quatro aos formatos que tinha tentado. O vídeo numa tomada passava no modo, porque ele conta bem em voz alta, mas custava quarenta minutos com as regravações e caía no teste do pior mês. O texto de três parágrafos passava no repertório e não passava no modo: escrever sem uma obra na frente o fazia rodear o assunto. A foto com cinco linhas passou nos quatro, e passou pelo motivo que ele menos esperava. A foto era a obra na frente dele, e as cinco linhas eram o começo de uma história que ele sabia contar.
+Caio aplicou os quatro aos formatos que tinha tentado. O vídeo do granilite tinha custado quatro minutos, numa tomada só; os seguintes ele passou a regravar até sair certo, e o custo subiu para quarenta. Passava no modo, porque ele conta bem em voz alta, mas no mês de entrega de obra sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia quarenta. O texto de três parágrafos passava no repertório e não passava no modo: escrever sem uma obra na frente o fazia rodear o assunto. A foto com cinco linhas passou nos quatro, e passou pelo motivo que ele menos esperava. A foto era a obra na frente dele, e as cinco linhas eram o começo de uma história que ele sabia contar.
 
 O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas, sem julgar, e só então a pergunta. Na quarta semana, relendo as quatro peças em sequência, não sentiu vontade de mudar nenhuma delas. Sentiu, pela primeira vez, que as quatro juntas pareciam escritas pela mesma pessoa, e essa pessoa era ele.
 
@@ -47,9 +47,9 @@ O teste que reprovou primeiro, no caso do Caio, foi o terceiro, e ele o viu repr
 ```figura
 tipo: barras
 titulo: O que cada formato custava ao Caio
-unidade: minutos por peça, medidos com relógio, incluindo regravações
+unidade: minutos por peça, medidos com relógio
 series:
-  - {rotulo: "Vídeo numa tomada, com regravações: 40", valor: 40, nota: "Passa no modo. Cai no pior mês."}
+  - {rotulo: "Vídeo gravado até sair certo: 40", valor: 40, nota: "Passa no modo. Cai no pior mês."}
   - {rotulo: "Texto de três parágrafos: 50", valor: 50, nota: "Passa no repertório. Cai no modo: sem a obra na frente, ele rodeia o assunto."}
   - {rotulo: "Foto da obra e cinco linhas: 12 a 15", valor: 14, nota: "Passa nos quatro testes."}
 legenda: Os números são do Caio, medidos em junho e julho. Os seus saem da cronometragem do capítulo 8.
@@ -67,19 +67,19 @@ A palavra "mínimo" costuma ser lida como "o mais rápido possível", e é aí q
 
 Cada modo tem formatos que tendem a passar nos quatro testes. Os personagens do livro encontraram os seus sem chamá-los assim, e a tabela reúne o que cada um usa, ao lado de um quinto formato que serve a mais de um modo. As durações ficam de fora de propósito: dependem da pessoa, e a única medida que vale é a sua, feita com relógio.
 
-Os números dos personagens mostram por quê. A peça da Lúcia custava setenta e dois minutos quando ela cronometrou em janeiro, cinco vezes o custo da do Caio, e mesmo assim passa no teste do pior mês, porque ela tem oitenta e quatro minutos úteis por semana e publica uma. A da Renata custa uns trinta e cinco, e ela publica duas. Um formato-base não precisa ser rápido. Precisa caber no número que você calculou, com folga.
+Os números dos personagens mostram por quê. A peça da Lúcia custava setenta e dois minutos quando ela cronometrou em janeiro, cinco vezes o custo da do Caio, e mesmo assim passa no teste do pior mês, porque ela tem oitenta e quatro minutos úteis por semana e publica uma. A da Renata custa uns trinta e cinco, e ela publica duas. Um formato-base precisa caber no número que você calculou, com folga, e a Lúcia mostra que isso pode ser setenta minutos.
 
 Tabela: Cinco formatos-base, por modo
 
 | Formato-base | Modo | Quem usa | O que comporta |
 |---|---|---|---|
 | Áudio de três minutos, em texto | Oral | Renata | Um caso, com o sinal e a decisão |
-| Texto curto, escrito à mão | Escrito | Otávio | Um argumento completo |
+| Texto curto, rascunhado à mão | Escrito | Otávio | Um argumento completo |
 | Resposta a uma pergunta | Dialógico | Lúcia | A pergunta recorrente |
 | Foto da obra e cinco linhas | Narrativo | Caio | Um caso curto, com o critério |
-| Vídeo de um minuto, uma tomada | Oral, narrativo | Nenhum | Uma ideia e um detalhe |
+| Vídeo de um minuto, uma tomada | Oral, narrativo | Nenhum dos quatro | Uma ideia e um detalhe |
 
-O quinto formato é o que mais tenta, porque parece o mais natural para quem fala bem. Ele funciona para quem aceita a primeira tomada, com o erro no meio, como Caio aceitou no vídeo do granilite. Para quem regrava até ficar perfeito, deixa de ser mínimo na terceira semana. O que decide é quantas vezes você grava de novo, mais do que a duração do vídeo.
+O quinto formato é o que mais tenta, porque parece o mais natural para quem fala bem. Ele funciona para quem aceita a primeira tomada, com o erro no meio, como Caio aceitou no vídeo do granilite. Para quem regrava até ficar perfeito, deixa de ser mínimo na terceira semana. O custo está nas regravações.
 
 ```exemplo
 titulo: Um formato-base mal escolhido e um bem escolhido
@@ -90,19 +90,19 @@ porque: O segundo formato não é mais bonito. Ele nasce no modo dela, cabe no p
 
 ## A variação vem depois
 
-Por volta da décima quinta-feira, Caio ficou com vontade de mudar. As cinco linhas pareciam repetitivas, sempre "teve uma obra", sempre uma foto meio torta tirada com o capacete no braço. O sócio sugeriu que ele experimentasse um vídeo com antes e depois, com música, "que está funcionando para todo mundo". Caio chegou a abrir a câmera, que continuava no armário do escritório. Fechou antes de ligar.
+Por volta da décima semana, Caio ficou com vontade de mudar. As cinco linhas pareciam repetitivas, sempre "teve uma obra", sempre uma foto meio torta tirada com o capacete no braço. O sócio sugeriu que ele experimentasse um vídeo com antes e depois, com música, "que está funcionando para todo mundo". Caio chegou a abrir a câmera, que continuava no armário do escritório. Fechou antes de ligar.
 
 Há motivos legítimos para mudar um formato-base, e nenhum deles é o tédio. Se o pior mês mudou, porque a agenda dobrou ou uma obra grande ocupou o ano, o formato pode deixar de caber e precisa ser refeito. Se um teste que parecia aprovado falha na prática, porque o formato não comporta o repertório que você quer mostrar, ele também precisa mudar. A diferença está na causa: um teste que falhou é informação, e a vontade de variar, na décima semana, é só vontade.
 
-O que o segurou foi uma conta simples. Quem acompanhava as quintas-feiras dele tinha visto, na melhor das hipóteses, metade delas. Para essa pessoa, a série estava começando. A repetição que cansava o Caio ainda era novidade para quem lia, e o que ele sentia como monotonia era, do outro lado, o começo do reconhecimento: a foto torta e o "teve uma obra" já anunciavam quem estava falando antes da segunda linha.
+O que o segurou foi uma conta simples. Caio conferiu: a leitora que mais comentava tinha visto seis das dez quintas. Para essa pessoa, a série estava começando. A repetição que cansava o Caio ainda era novidade para quem lia, e o que ele sentia como monotonia era, do outro lado, o começo do reconhecimento: a foto torta e o "teve uma obra" já anunciavam quem estava falando antes da segunda linha.
 
 ```nota
 tipo: pratica
 titulo: A regra das trinta
-texto: Não troque o formato-base antes de trinta repetições. A vontade de mudar costuma aparecer perto da décima, e quase sempre é tédio de quem faz, e não cansaço de quem lê. Anote a data da primeira peça e a data prevista da trigésima.
+texto: Não troque o formato-base antes de trinta repetições. Se a vontade de mudar aparecer perto da décima, desconfie: o cansaço é de quem faz, não de quem lê. Anote a data da primeira peça e a data prevista da trigésima.
 ```
 
-Depois das trinta, a variação fica barata, porque tudo o que ela precisa já existe. Variar não é trocar de formato. É pegar a mesma matéria-prima e dar a ela uma segunda forma, de vez em quando: o caso do batente contado em vídeo, numa tomada, na próxima obra em que aparecer outro igual. O formato-base continua toda quinta. A variação entra por cima, sem ocupar o lugar dele.
+Depois das trinta, a variação fica barata, porque tudo o que ela precisa já existe. Variar é pegar a mesma matéria-prima e dar a ela uma segunda forma, de vez em quando, sem trocar de formato: o caso do batente contado em vídeo, numa tomada, na próxima obra em que aparecer outro igual. O formato-base continua toda quinta. A variação entra por cima, sem ocupar o lugar dele.
 
 ```figura
 tipo: camadas
@@ -115,9 +115,9 @@ camadas:
 legenda: O sistema cresce de baixo para cima. Uma camada nova só entra quando a de baixo se sustenta sozinha.
 ```
 
-Na obra do Cambuí, a proprietária ouviu a explicação sobre a peroba com o celular na mão. Tinha visto a foto às oito da manhã e reconhecido a porta da cozinha pela maçaneta, que só ela saberia de onde era. Leu as cinco linhas duas vezes, disse, e na segunda entendeu o que ia perder. Pediu que ele raspasse o batente e mantivesse a madeira.
+Na obra do Botafogo, naquela manhã, Caio encontrou atrás da porta da área de serviço um quadro de disjuntores de 1968, com dois fusíveis antigos ainda no lugar. Mostrou ao dono, explicou por que precisava sair e tirou uma foto. No caderno, ao lado da anotação, escreveu: quadro de 1968, liberar em dezembro. Era matéria-prima de uma quinta que ainda não tinha data.
 
-Naquela noite, Caio fez o que vinha adiando desde julho. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada muda. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu. A câmera continuou no armário.
+Naquela noite, Caio fez o que vinha adiando desde julho. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada muda. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu.
 
 As quartas-feiras à noite ficaram livres. Caio passou a usar dez minutos delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
 
@@ -130,30 +130,30 @@ As quartas-feiras à noite ficaram livres. Caio passou a usar dez minutos delas 
 ```oficina
 titulo: O seu formato-base
 objetivo: Escolher o formato que você vai repetir trinta vezes, aprová-lo nos quatro testes e provar hoje, com uma peça real, que ele cabe no seu pior mês.
-tempo: 30
-tempo_nota: incluída uma peça feita no formato
+tempo: 20
+tempo_nota: mais o tempo da peça, que é justamente o que você vai medir
 entrega: O formato-base descrito numa frase, os quatro testes respondidos, o custo medido de uma peça real e a data da trigésima repetição.
 campos:
   - rotulo: "O seu formato-base, numa frase"
     exemplo: "Um professor de violão: “Vídeo de um minuto, com o violão no colo, tocando o trecho em que o aluno sempre erra, numa tomada.”"
     linhas: 2
-  - rotulo: "Os quatro testes"
-    grade:
-      colunas: ["Passa", "Não passa"]
-      linhas: ["Modo: nasce do jeito como eu penso (cap. 7)", "Pior mês: cabe no meu número (cap. 8)", "Repertório: comporta detalhe, exceção ou critério", "Repetição: aguento fazer cem vezes"]
   - rotulo: "A peça de hoje, feita no formato, a partir de uma captura selecionada"
     exemplo: "Use uma das escolhidas na seleção do capítulo 19. Escreva aqui o texto ou o roteiro."
     linhas: 7
   - rotulo: "O custo da peça de hoje, medido com relógio"
     exemplo: "Do momento em que você começou ao momento em que ficou pronta. Compare com os minutos do seu pior mês."
     linhas: 1
+  - rotulo: "Os quatro testes"
+    grade:
+      colunas: ["Passa", "Não passa", "Conferir na 4ª peça"]
+      linhas: ["Modo: nasce do jeito como eu penso (cap. 7)", "Pior mês: cabe no meu número (cap. 8)", "Repertório: comporta detalhe, exceção ou critério", "Repetição: aguento fazer cem vezes"]
   - rotulo: "A data da primeira peça e a da trigésima"
-    exemplo: "Uma massoterapeuta: “Primeira, terça, 14 de outubro. Com duas por semana, a trigésima cai no começo de fevereiro.”"
+    exemplo: "Uma massoterapeuta: “Primeira, terça, 14 de outubro. Com duas por semana, a trigésima cai no fim de janeiro.”"
     linhas: 2
 criterios:
-  - Os quatro testes do campo 02 estão marcados como aprovados. Se algum não passou, o formato do campo 01 mudou.
-  - A peça do campo 03 partiu de uma captura selecionada, e não de uma ideia nova.
-  - O custo do campo 04 cabe no número do seu pior mês.
+  - Modo, pior mês e repertório do campo 04 estão aprovados; a repetição tem a data da quarta peça marcada para conferir.
+  - A peça do campo 02 partiu de uma captura selecionada e liberada, e não de uma ideia nova.
+  - O custo do campo 03 cabe no número do seu pior mês.
 ```
 
 ```rede
@@ -212,7 +212,7 @@ faca_antes: true
     - Capturar trinta registros por semana no caderno.
     - Limitar cada vídeo a trinta segundos de duração.
   correta: 0
-  explicacao: A vontade de mudar costuma aparecer perto da décima repetição. Para quem lê, a série ainda está começando, e a repetição é o que começa a produzir reconhecimento.
+  explicacao: A vontade de mudar pode aparecer bem antes de o formato ter sido testado. Para quem lê, a série ainda está começando, e a repetição é o que começa a produzir reconhecimento.
 - pergunta: Como a variação entra no sistema, depois das trinta?
   opcoes:
     - No lugar do formato-base, que já cumpriu o papel dele.
@@ -225,8 +225,8 @@ faca_antes: true
 
 ```aplicacao
 itens:
-  - {rotulo: "O meu formato passou nos quatro testes", ajuda: "Modo, pior mês, repertório e repetição (campos 01 e 02).", pontos: 3}
-  - {rotulo: "Fiz uma peça real no formato", ajuda: "A partir de uma captura selecionada no capítulo 19 (campo 03).", pontos: 3}
-  - {rotulo: "Medi o custo com relógio", ajuda: "E ele cabe no número do meu pior mês (campo 04).", pontos: 2}
+  - {rotulo: "O meu formato passou nos quatro testes", ajuda: "Modo, pior mês e repertório; a repetição, com data para conferir (campos 01 e 04).", pontos: 3}
+  - {rotulo: "Fiz uma peça real no formato", ajuda: "A partir de uma captura selecionada no capítulo 19 (campo 02).", pontos: 3}
+  - {rotulo: "Medi o custo com relógio", ajuda: "E ele cabe no número do meu pior mês (campo 03).", pontos: 2}
   - {rotulo: "Marquei a data da trigésima", ajuda: "Até lá, o formato não muda (campo 05).", pontos: 2}
 ```
