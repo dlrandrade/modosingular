@@ -211,7 +211,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.48
+    - iteracao: 2
+      data: 2026-09-27 21:00
+      revisao: apostila/revisoes/cap06-r2.yaml
+      media: 8.93
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.93
   7:
     status: reprovado
     iteracoes:

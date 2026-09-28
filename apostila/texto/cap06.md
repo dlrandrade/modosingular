@@ -10,7 +10,7 @@ legenda_ilustracao: Você já planta todos os dias. Falta reconhecer a colheita.
 
 Às oito e dez de uma terça-feira, Otávio abriu o primeiro e-mail do dia. Era do dono de uma pequena transportadora de Jaboatão, cliente havia seis anos, perguntando se podia mandar embora um motorista que estava de férias. A pergunta vinha escrita às pressas, sem acento, com um "urgente" no assunto. Otávio respondeu em quatro parágrafos, do jeito que sempre responde: primeiro o que não fazer, depois o que fazer, por fim o risco que o cliente não tinha enxergado. Era a terceira vez naquele mês que alguém lhe fazia a mesma pergunta com outras palavras.
 
-Às nove e meia, numa audiência, uma testemunha contou uma rotina de trabalho que desmentia inteiramente os cartões de ponto que a empresa tinha juntado ao processo. O juiz ouviu com atenção. Otávio, que defendia a empresa, anotou mentalmente a lição que conhecia bem: cartão de ponto com horário sempre igual perde para quem conta o dia como ele foi. No almoço, uma cliente nova, dona de duas lojas de material de construção, disse sem rodeios que já tinha trocado de advogado duas vezes porque "todo advogado só manda fazer acordo". Otávio passou a sobremesa explicando quando ele manda fazer acordo, quando não manda e por quê.
+Às nove e meia, numa audiência, uma testemunha contou uma rotina de trabalho que desmentia inteiramente os cartões de ponto que a empresa tinha juntado ao processo. Otávio, que defendia a empresa, anotou mentalmente a lição que conhecia bem: cartão de ponto com horário sempre igual perde para quem conta o dia como ele foi. No almoço, uma cliente nova, dona de duas lojas de material de construção, disse sem rodeios que já tinha trocado de advogado duas vezes porque "todo advogado só manda fazer acordo". Otávio passou a sobremesa explicando quando ele manda fazer acordo, quando não manda e por que discorda dos colegas que fecham acordo na primeira audiência por hábito.
 
 De volta ao escritório, o estagiário perguntou, meio sem jeito, por que os clientes pequenos quase nunca guardam os recibos de pagamento, se eles pesam tanto nas ações. Otávio levou vinte minutos para responder, e a resposta passou por contabilidade informal, cultura de empresa familiar e uma audiência do começo da carreira que ele ainda conta com detalhes. O estagiário saiu da sala com duas páginas de anotações. Otávio não anotou nada.
 
@@ -18,20 +18,20 @@ De volta ao escritório, o estagiário perguntou, meio sem jeito, por que os cli
 
 Às sete da noite, sentado no carro, Otávio abriu o e-mail que a agência tinha mandado por conta própria, um calendário para quando a pausa acabasse, e que ele ainda não tinha respondido. A primeira linha era uma arte de São João, com bandeirinhas e o logotipo do escritório. Pensou no que diria se tivesse de publicar alguma coisa no dia seguinte e concluiu que não tinha nenhuma ideia. O áudio do "acertar por fora" continuava no celular; não lhe ocorreu que aquilo fosse uma. Naquele único dia, ele tinha vivido pelo menos sete peças publicáveis sobre a própria área. Não guardou nenhuma.
 
-Nenhuma daquelas sete coisas parecia conteúdo. Elas não se pareciam com nada do que a agência publicava. Não tinham título, não cabiam num "Você sabia?", não eram datas comemorativas. Eram pedaços de trabalho, com nome de cliente, cheiro de fórum e pressa. Otávio tinha aprendido, sem perceber, que conteúdo era aquela coisa limpa e genérica que chegava pronta na planilha colorida. Tudo o que era dele parecia sujo demais para ser publicado.
+Nenhuma daquelas sete coisas parecia conteúdo, nem se assemelhava ao que a agência publicava. Não tinham título, não cabiam num "Você sabia?", não eram datas comemorativas. Eram pedaços de trabalho, com nome de cliente, cheiro de fórum e pressa. Otávio tinha aprendido, sem perceber, que conteúdo era aquela coisa limpa e genérica que chegava pronta na planilha colorida. Tudo o que era dele parecia sujo demais para ser publicado.
 
 ## O que a frase quer dizer
 
 "Tudo pode ser conteúdo" é uma frase que costuma ser mal entendida, e o mal-entendido afasta justamente as pessoas sérias. Ela não sugere que qualquer coisa deva ir para a internet, nem que a vida pessoal precise virar vitrine, nem que seja preciso publicar todo dia. O que ela afirma é mais útil e mais modesto: a criação não precisa depender de inspiração, porque a rotina de quem trabalha já produz, sem parar, o material de que a criação precisa.
 
-Otávio não vive esperando ter ideias. Vive tendo ideias o dia inteiro, e não as reconhece porque, para ele, são óbvias. Responder se dá para demitir alguém de férias, desconfiar de cartão de ponto, explicar quando vale fazer acordo: tudo isso é parte do trabalho, e o trabalho não parece assunto. É o mesmo mecanismo do capítulo 1, a competência que vira reflexo, visto agora por outro ângulo. O óbvio de quem sabe é o que falta a quem pergunta.
+Otávio vive tendo ideias o dia inteiro e não as reconhece porque, para ele, são óbvias. Responder se dá para demitir alguém de férias, desconfiar de cartão de ponto, explicar quando vale fazer acordo: tudo isso é parte do trabalho, e o trabalho não parece assunto. É o mesmo mecanismo do capítulo 1, a competência que vira reflexo.
 
-Nem tudo que pode virar conteúdo deve virar. Casos que identificam alguém, confidências, conflitos ainda em curso, qualquer coisa que um cliente contaria só a você, ficam de fora, e o livro volta ao assunto quando tratar de sigilo. A matéria-prima de que se fala aqui é a que sobra depois desse filtro, e ela é muito mais farta do que parece: a pergunta sem o nome de quem perguntou, o padrão sem o caso, a decisão sem o cliente.
+Nem tudo que pode virar conteúdo deve virar. Casos que identificam alguém, confidências, conflitos ainda em curso, qualquer coisa que um cliente contaria só a você, ficam de fora, e o capítulo 13 volta ao assunto. A matéria-prima de que se fala aqui é a que sobra depois desse filtro, e ela é muito mais farta do que parece: a pergunta sem o nome de quem perguntou, o padrão sem o caso, a decisão sem o cliente.
 
 ```nota
 tipo: alerta
 titulo: A armadilha do óbvio
-texto: A explicação que você repete há anos e considera básica é, para quem nunca a ouviu, a informação mais útil que vai receber hoje. O que é óbvio para você é raro para o mercado.
+texto: A resposta que você dá toda semana e considera básica é, para quem nunca a ouviu, a informação mais útil que vai receber hoje. O que é óbvio para você é raro para o mercado.
 ```
 
 ```conceito
@@ -58,7 +58,7 @@ Tabela: Onde a matéria-prima aparece
 
 As sete apareceram naquela terça, sem que Otávio procurasse nenhuma.
 
-A pergunta das férias era a recorrente. "Todo advogado só manda fazer acordo" era uma objeção. A testemunha que desmentiu o ponto era um caso. Os recibos que os clientes pequenos não guardam, a pergunta do estagiário, eram um erro comum. A recusa da tese do autônomo, uma decisão. A regra sobre quando fazer acordo, uma opinião formada em décadas. E a mistura de trabalho em casa com horas sem controle, uma observação que nenhum colega dele tinha feito em voz alta.
+A pergunta das férias era a recorrente. "Todo advogado só manda fazer acordo" era uma objeção. A testemunha que desmentiu o ponto era um caso. Os recibos que os clientes pequenos não guardam, a pergunta do estagiário, eram um erro comum. A recusa da tese do autônomo, uma decisão. A regra sobre quando não fazer acordo, em que ele diverge de boa parte dos colegas, uma opinião. E a mistura de trabalho em casa com horas sem controle, uma observação que nenhum colega dele tinha feito em voz alta.
 
 ```figura
 tipo: orbita
@@ -68,15 +68,13 @@ satelites: ["Perguntas", "Objeções", "Casos", "Erros comuns", "Decisões", "Op
 legenda: As fontes não se esgotam, porque a prática não para. O que se esgota é a atenção de quem não anota.
 ```
 
-A lista vale para qualquer ofício, inclusive os que parecem menos "comunicáveis". Um mecânico de motos de Uberlândia ouve toda semana se vale a pena pôr gasolina aditivada numa moto de cento e cinquenta cilindradas; vê chegar motos com a corrente esticada demais porque o dono seguiu um vídeo; decide não trocar uma peça que o cliente pediu para trocar; ouve que óleo sintético é desperdício em moto pequena; lembra da moto que chegou sem freio e com o dono jurando que era a pastilha; acha que revisão por quilometragem faz menos sentido que revisão por uso; nota que as entregas por aplicativo mudaram o tipo de desgaste que aparece na oficina. Sete fontes, nenhum roteiro inventado.
-
-Nem todas as fontes rendem igual para todo mundo, e isso também é informação. No caderno do Otávio, sobram decisões e opiniões, escritas por extenso, porque ele passa o dia pesando riscos. No da Lúcia, sobram perguntas, cada uma com a crença que veio junto. Caio coleciona casos, cada obra com começo, meio e fim. Renata quase não escreve: três palavras e uma seta, e o resto ela explica em voz alta a quem estiver perto. O que mais aparece no seu caderno, e o jeito como aparece, diz alguma coisa sobre como você pensa.
+A lista vale para qualquer ofício, inclusive os que parecem menos "comunicáveis". Um mecânico de motos de Uberlândia ouve toda semana se vale a pena pôr gasolina aditivada numa moto de cento e cinquenta cilindradas, e ouve também que óleo sintético é desperdício em moto pequena. Vê chegar motos com a corrente esticada demais porque o dono a apertou como se fosse de bicicleta, lembra da que chegou sem freio, com o dono jurando que era a pastilha, quando era o fluido nunca trocado, e decide não trocar a embreagem que o cliente pediu, porque o problema era o cabo mal regulado. Acha que, para quem roda o dia inteiro em entrega, a revisão pela quilometragem do manual chega tarde, e nota que os aplicativos mudaram o tipo de desgaste que aparece na oficina.
 
 ## Por que a tela vazia trava
 
-Se você já tentou publicar, conhece a cena: o horário reservado, o celular ou o computador aberto, e nenhuma ideia que pareça boa o bastante. Quem passa por isso culpa a inspiração. O que falta é contexto: quando você senta para criar conteúdo, está pedindo ao próprio cérebro que produza uma ideia do zero, fora de qualquer contexto, sob pressão para que ela seja interessante. Poucas condições são tão ruins para pensar.
+Se você já tentou publicar, conhece a cena: o horário reservado, o celular ou o computador aberto, e nenhuma ideia que pareça boa o bastante. A culpa costuma ir para a inspiração. O que falta é contexto: quando você senta para criar conteúdo, está pedindo ao próprio cérebro que produza uma ideia do zero, fora de qualquer contexto, sob pressão para que ela seja interessante. Poucas condições são tão ruins para pensar.
 
-Quando você registra a ideia no momento em que ela acontece, o contexto faz metade do trabalho. O detalhe está ali, diante de você: as palavras exatas do cliente, a expressão da testemunha, o e-mail impresso com o horário fixo. Na tela vazia, o detalhe precisa ser inventado, e detalhe inventado sai genérico. É por isso que peças nascidas diante da tela vazia poderiam ser de qualquer colega.
+Quando você registra a ideia no momento em que ela acontece, o contexto faz metade do trabalho. O detalhe está ali, diante de você: as palavras exatas do cliente, a expressão da testemunha, o e-mail impresso com o horário fixo. Na tela vazia, o detalhe precisa ser inventado, e detalhe inventado sai genérico. É por isso que peças nascidas diante da tela vazia seriam de qualquer colega.
 
 A captura também muda a qualidade do que se publica. Uma peça nascida de uma situação real carrega marcas que nenhuma pesquisa fornece: uma frase dita por alguém, um lugar, um momento, um detalhe que só existiria ali. Quem lê percebe a diferença sem saber nomeá-la, do mesmo jeito que percebe a diferença entre uma carta escrita para si e uma circular.
 
@@ -97,7 +95,7 @@ direita:
     - Se renova, porque a rotina não para.
 ```
 
-Lúcia percebeu isso no capítulo 2, quando começou a anotar as crenças com que os pacientes chegavam, e Caio sem perceber quando mandou o áudio sobre o taco de peroba, gravado no meio da obra. Os dois estavam trabalhando, e o trabalho entregou o assunto pronto.
+Lúcia percebeu isso no capítulo 2, quando começou a anotar as crenças com que os pacientes chegavam; Caio, sem perceber, quando mandou o áudio sobre o taco de peroba, gravado no meio da obra. Os dois estavam trabalhando, e o trabalho entregou o assunto pronto.
 
 ```citacao
 texto: Quando essa percepção se instala, criação deixa de começar na tela vazia. Começa na vida.
@@ -108,9 +106,13 @@ fonte: do dossiê "A Verdade Central do Seu Negócio"
 
 Capturar não é produzir. No momento em que a ideia aparece, você não precisa saber o que vai fazer com ela, nem se ela serve, nem em que formato vai sair. Precisa apenas registrá-la antes de esquecer, e você vai esquecer, porque para você aquilo é rotina. A separação entre as duas coisas é o que torna a captura barata o bastante para virar hábito. Se cada anotação exigir uma avaliação, ela deixa de custar vinte segundos e volta a custar o que a tela vazia custava.
 
-O instrumento é o **caderno de campo**, que acompanha você até o fim deste livro. Pode ser um caderno de bolso ou uma nota fixa no celular, contanto que esteja sempre à mão e aceite anotações feias. Otávio, que escreve à mão antes de digitar qualquer coisa importante, comprou um caderno pequeno de capa preta e passou a levá-lo no bolso do paletó. A regra que ele adotou foi simples: entre um compromisso e outro, vinte segundos para uma frase crua. "Terceiro cliente no mês perguntando de férias." "Testemunha contra o ponto, de novo." Sem título, sem estrutura, sem julgamento.
+Na manhã seguinte, o estagiário deixou sobre a mesa do Otávio as duas páginas passadas a limpo, com uma dúvida no fim. Otávio leu e reconheceu nelas, quase palavra por palavra, a resposta que ele mesmo não tinha anotado. Na hora do almoço comprou um caderno pequeno de capa preta, e a primeira página foi a terça da véspera, reconstruída de memória.
 
-O que torna a captura sustentável são detalhes pequenos. O caderno abre sempre na próxima página em branco, com uma caneta presa na espiral. No celular, a nota fica fixada no topo, a um toque da tela inicial. No carro, um áudio de dez segundos resolve, desde que depois vire uma linha escrita. E há um formato mínimo que funciona para quase tudo: as palavras exatas de quem falou, entre aspas, seguidas de uma palavra de contexto e da data. Por exemplo: “Todo advogado só manda fazer acordo”, almoço, 14/5. Isso basta para recuperar a situação inteira semanas depois.
+O instrumento é o **caderno de campo**, que acompanha você até o fim deste livro. Pode ser um caderno de bolso ou uma nota fixa no celular, desde que esteja sempre à mão e aceite anotações feias. Otávio, que escreve à mão antes de digitar qualquer coisa importante, passou a levar o caderno no bolso do paletó. A regra que ele adotou foi simples: entre um compromisso e outro, vinte segundos para uma frase crua. "Terceiro cliente no mês querendo demitir funcionário em férias; ninguém sabe que não pode." "Testemunha desmontou o ponto britânico, de novo." Sem título, sem estrutura, sem julgamento.
+
+Mesmo com vinte segundos, Otávio não consegue deixar uma frase pela metade: as anotações dele saem inteiras, com sujeito e verbo, e quase sempre terminam num risco. O que mais aparece no seu caderno, e o jeito como aparece, diz alguma coisa sobre como você pensa.
+
+O que torna a captura sustentável são detalhes pequenos. O caderno abre sempre na próxima página em branco, com uma caneta presa na espiral. No celular, a nota fica fixada no topo, a um toque da tela inicial. No carro, um áudio de dez segundos resolve, desde que depois vire uma linha escrita. E há um formato mínimo que serve para a maior parte das anotações: as palavras exatas de quem falou, entre aspas, seguidas de uma palavra de contexto e da data. Por exemplo: “Todo advogado só manda fazer acordo”, almoço, 14/5. Em geral, isso basta para recuperar a situação semanas depois.
 
 ```nota
 tipo: pratica
@@ -123,24 +125,24 @@ tipo: area
 titulo: O que vinte segundos por dia acumulam
 ilustrativo: true
 labels: ["Semana 1", "Semana 4", "Semana 8", "Semana 12"]
-pontos: [9, 30, 55, 78]
+pontos: [14, 32, 55, 78]
 unidade: anotações acumuladas no caderno
 legenda: Esquema ilustrativo de um estoque que cresce sem esforço extra. Com algumas semanas de caderno, o problema pode deixar de ser falta de ideia.
 ```
 
-Em três semanas, o caderno do Otávio tinha vinte e seis anotações. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a frase de um cliente que resumia um mal-entendido comum melhor do que qualquer manual, a pergunta que um estagiário fez e que nenhum advogado experiente teria coragem de fazer.
+Na primeira noite, o caderno do Otávio ganhou onze linhas. Três semanas depois, tinha trinta e poucas. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a de um dono de padaria que resumia um mal-entendido inteiro, “se ele assinou, não reclama depois”, e a pergunta do estagiário sobre os recibos, que nenhum advogado experiente teria coragem de fazer.
 
-Numa tarde de sexta, depois da última audiência, mostrou duas páginas do caderno a Helena. Ela leu em silêncio e devolveu com uma frase: "Isso aqui dá para o ano inteiro." Otávio desconfiou do entusiasmo, como desconfia de quase tudo, mas voltou a guardar o caderno no bolso com um cuidado novo. Helena começou o dela na semana seguinte. Três semanas, vinte e seis linhas, nenhuma delas escrita diante de uma tela vazia.
+Numa tarde de sexta, depois da última audiência, mostrou duas páginas do caderno a Helena. Ela leu em silêncio e devolveu com uma frase: "Isso aqui dá para o ano inteiro." Otávio desconfiou do entusiasmo, como desconfia de quase tudo, mas voltou a guardar o caderno no bolso com um cuidado novo. Helena começou o dela na semana seguinte, num caderno igual, que pediu a ele que comprasse.
 
 ```guardar
-- O que é óbvio para você é raro para o mercado. A explicação que você repete há anos é informação preciosa para quem nunca a ouviu.
+- O que é óbvio para você é raro para o mercado. A resposta que você já cansou de dar é novidade para quem nunca a ouviu.
 - A tela vazia trava porque pede uma ideia fora de contexto. Capturar funciona porque o contexto faz metade do trabalho.
 - Capturar não é produzir. Separar as duas coisas é o que torna a captura barata o bastante para virar hábito.
 ```
 
 ```oficina
 titulo: O primeiro depósito no caderno de campo
-objetivo: "Provar para si mesmo que você já vive cercado de matéria-prima. Durante um dia de trabalho, anote no caderno de campo tudo o que aparecer, do jeito que vier; à noite, em quinze minutos, passe os registros para cá, cada um no campo da sua fonte. Comece pelos quatro equívocos que você anotou no capítulo 2."
+objetivo: "Provar para si mesmo que você já vive cercado de matéria-prima. Durante um dia de trabalho, anote no caderno de campo tudo o que aparecer, do jeito que vier; à noite, em quinze minutos, passe os registros para cá, cada um no campo da sua fonte. Antes de começar, copie para a primeira página do caderno os quatro equívocos do capítulo 2; eles abrem o estoque e não entram na conta dos dez de hoje. O primeiro dia esvazia a memória; depois, o normal é uma ou duas linhas por dia."
 tempo: 15
 entrega: O seu caderno de campo definido e dez registros brutos, separados por fonte, sem nenhum julgamento de qualidade.
 campos:
@@ -157,7 +159,7 @@ campos:
     exemplo: "Sem identificar ninguém: o que se esperava, o que aconteceu, o que você viu."
     linhas: 3
   - rotulo: "Uma decisão que você tomou e que um colega talvez tomasse diferente"
-    exemplo: "Qual foi a escolha, e qual foi a régua."
+    exemplo: "Uma professora de piano: “Não passei o aluno para a peça que ele pediu; a régua é tocar a anterior inteira, sem parar, lendo a partitura.”"
     linhas: 3
   - rotulo: "Algo que você notou e ninguém comentou"
     exemplo: "Sobre o seu público, o seu mercado ou a sua profissão."
@@ -173,6 +175,7 @@ criterios:
 
 ```rede
 titulo: A pergunta de todo mundo
+faca_antes: true
 intro: Escolha uma pergunta do seu caderno de campo, de preferência a que você mais ouve. A peça responde a ela e mais nada.
 regras:
   - {regra: "Publique a pergunta antes da resposta.", porque: "É na pergunta que a pessoa se reconhece. Sem ela, a resposta flutua no vazio."}
@@ -181,7 +184,7 @@ regras:
 faca:
   - "“É a pergunta que eu mais ouço neste mês. Vou responder com calma.”"
   - Citar a pergunta literal, entre aspas, antes de responder.
-  - "Fechar com “se você também pensava assim, o ponto é este”."
+  - "Terminar com a régua que a pessoa usa sozinha: o que observar, o que perguntar."
 evite:
   - Reescrever a pergunta em linguagem técnica.
   - Responder cinco perguntas de uma vez para aproveitar.
@@ -194,7 +197,7 @@ esqueleto:
 roteiro: |
   {quantas vezes e em quanto tempo você ouviu esta pergunta}, alguém me perguntou: {a pergunta, com as palavras de quem perguntou}
 
-  É das perguntas que eu mais ouço, e faz todo sentido: {por que a dúvida é razoável}.
+  Faz todo sentido perguntar isso: {por que a dúvida é razoável}.
 
   A resposta é esta: {a sua resposta, com o detalhe que só quem faz sabe}
 
@@ -210,7 +213,7 @@ roteiro_nota: Uma pergunta por gravação. Se a resposta depende de avaliação 
     - Que é preciso publicar alguma coisa todos os dias.
     - Que a vida pessoal também precisa virar assunto.
   correta: 1
-  explicacao: A frase afasta a dependência de inspiração, e não a seleção. A rotina de quem trabalha produz matéria-prima o tempo todo; o que falta é reconhecê-la.
+  explicacao: A frase livra a criação da dependência de inspiração; não dispensa escolher o que publicar. A rotina de quem trabalha produz matéria-prima o tempo todo; o que falta é reconhecê-la.
 - pergunta: Qual das sete fontes revela a sua régua, a parte mais difícil de copiar?
   opcoes:
     - A pergunta recorrente que você ouve toda semana.
@@ -241,6 +244,6 @@ roteiro_nota: Uma pergunta por gravação. Se a resposta depende de avaliação 
 itens:
   - {rotulo: "Reconheci as fontes na minha rotina", ajuda: "Pelo menos quatro das sete, nos campos 02 a 07.", pontos: 3}
   - {rotulo: "Criei o meu caderno de campo", ajuda: "Sei onde anoto e em que momento do dia (campo 01).", pontos: 2}
-  - {rotulo: "Capturei pelo menos dez itens", ajuda: "Os registros estão nos campos 02 a 07, com as palavras de quem falou.", pontos: 3}
+  - {rotulo: "Capturei pelo menos dez itens", ajuda: "Os registros estão nos campos 02 a 07; as perguntas e objeções, com as palavras de quem falou.", pontos: 3}
   - {rotulo: "Não julguei nenhum item durante a captura", ajuda: "Nenhum foi descartado por parecer óbvio ou fraco.", pontos: 2}
 ```

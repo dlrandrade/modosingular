@@ -422,6 +422,9 @@ def linha(d, area=False):
     L, R, T, B = 34, 360, 12, 190
     mx = max(max(s["pontos"]) for s in series) * 1.08 or 1
     out = []
+    if d.get("unidade"):  # a unidade vai no alto, à esquerda, como título do eixo vertical
+        out.append(texto(L - 30, 12, d["unidade"], 9, INK2, estilo="italic")[0])
+        T, B = T + 16, B + 16
     for k in range(5):
         yy = B - (B - T) * k / 4
         out.append(f'<line x1="{L}" y1="{yy:.1f}" x2="{R}" y2="{yy:.1f}" stroke="{SOFT}" stroke-width="1"/>')
@@ -471,9 +474,6 @@ def linha(d, area=False):
         out.append(f'<line x1="{x:.1f}" y1="{T}" x2="{x:.1f}" y2="{B}" stroke="{ACC}" stroke-dasharray="3 3"/>')
         out.append(texto(x + 4, T + 10, m["rotulo"], 9, ACC_D, 600, largura=110)[0])
     h = B + 26
-    if d.get("unidade"):
-        out.append(texto(L, h + 4, d["unidade"], 9, INK2, estilo="italic")[0])
-        h += 12
     h = _legenda(out, h, d)
     return svg("".join(out), h + 2)
 
