@@ -368,3 +368,7 @@ table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
 table.grade.longa { break-inside: auto; }
 table.grade.longa tr { break-inside: avoid; }
 table.grade.longa tbody tr:nth-child(-n+3) { break-before: avoid; }
+
+/* rede: cabeçalho e introdução inteiros, presos à primeira regra */
+.rede .cab-secao { break-inside: avoid; }
+.rede .regras li:first-child { break-before: avoid; }

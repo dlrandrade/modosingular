@@ -2,19 +2,19 @@
 n: 27
 fase: 5
 titulo: Da audiência ao cliente
-subtitulo: O caminho da confiança quando ninguém pediu para ser vendido
+subtitulo: O caminho da confiança quando ninguém pediu uma oferta
 epigrafe: Vínculo acumulado ao longo do tempo se transforma em preferência.
-ilustracao: semente
-legenda_ilustracao: O que cresce em silêncio aparece de uma vez, quando alguém decide procurar.
+ilustracao: iceberg
+legenda_ilustracao: Os comentários são a ponta. Quem vai procurar você está abaixo da linha d’água.
 ---
 
 A mensagem chegou numa quinta-feira de outubro, às onze da noite, e Lúcia só a leu na sexta de manhã, antes do primeiro paciente. Era curta. "Oi, Lúcia. Leio os seus textos desde março, toda terça. Nunca comentei nada. Acho que agora estou pronta. Como faço para marcar?"
 
 Vinha de um nome que ela não reconhecia, sem foto, de uma conta que não seguia ninguém da área e que nunca tinha curtido nenhuma das peças dela.
 
-Lúcia leu três vezes. Sete meses de leitura silenciosa, toda terça, e nenhum rastro. Nenhuma curtida, nenhuma resposta, nenhuma pergunta à amiga do grupo de estudos que pudesse ter vindo daquela pessoa. Se alguém tivesse perguntado a Lúcia, na véspera, quem acompanhava os textos dela, ela teria pensado nos nomes que comentavam, uns quinze ou vinte. Aquele não estaria entre eles.
+Lúcia leu três vezes. Sete meses de leitura silenciosa, toda terça, e nenhum rastro. Nenhuma curtida, nenhuma resposta, nenhuma mensagem. Se alguém tivesse perguntado a Lúcia, na véspera, quem acompanhava os textos dela, ela teria pensado nos nomes que comentavam, uns quinze ou vinte. Aquele não estaria entre eles.
 
-A segunda coisa que ela notou foi pior. A pessoa não sabia como marcar. Tinha lido trinta textos e não tinha encontrado, em lugar nenhum do perfil, um telefone que funcionasse, um horário, uma instrução. O número que estava na descrição era o do consultório antigo, de quatro anos antes, desativado. Lúcia tinha passado sete meses construindo, sem saber, a confiança de uma pessoa que, na hora de atravessar, não achou a ponte.
+A segunda coisa que ela notou foi pior. A pessoa não sabia como marcar. Tinha lido trinta textos e não tinha encontrado, em lugar nenhum do perfil, um telefone que funcionasse, um horário, uma instrução. O número que estava na descrição era o do consultório antigo, de quatro anos antes, desativado. Lúcia tinha passado todo esse tempo construindo, sem saber, a confiança de uma pessoa que, na hora de atravessar, não achou a ponte.
 
 E havia uma terceira, que a fez pensar antes de responder. Lúcia não atende por mensagem, e não queria que a primeira conversa com alguém que diz "acho que agora estou pronta" acontecesse numa caixa de texto, às onze da noite. Precisava responder de um jeito que abrisse o caminho sem começar ali mesmo um atendimento, e sem deixar a pessoa sozinha se, por acaso, a urgência fosse maior do que a frase dava a entender.
 
@@ -35,12 +35,12 @@ degraus:
   - {rotulo: "Reconhecido", nota: "Associa você a um assunto."}
   - {rotulo: "Familiar", nota: "Sabe como você pensa. Aqui nasce a preferência."}
   - {rotulo: "Procurado", nota: "A necessidade surge, e a escolha já está feita."}
-legenda: Cada degrau acontece na cabeça de quem lê. Nenhum deles aparece nos números das suas peças.
+legenda: Cada degrau acontece na cabeça de quem lê. Os números mostram quantos viram; nenhum mostra quem já chegou ao quarto.
 ```
 
-Os três primeiros degraus estão na figura; é o quarto que importa. Nele, a pessoa sabe como você pensa e consegue adivinhar o que você diria sobre um assunto novo. É ali que a preferência se forma. A pessoa familiar lê, concorda ou discorda em pensamento, e vai embora sem deixar rastro. Não curte porque não curte nada, não comenta porque não é do temperamento dela, não responde porque não tem pergunta. Quando a necessidade aparece, no quinto degrau, ela não pesquisa opções. Já tem uma.
+Os três primeiros degraus estão na figura; é o quarto que importa. Nele, a pessoa sabe como você pensa e consegue adivinhar o que você diria sobre um assunto novo, e é ali que a preferência se forma. A pessoa familiar lê, concorda ou discorda em pensamento, e vai embora sem deixar rastro. Não curte porque não curte nada, não comenta porque não é do temperamento dela, não responde porque não tem pergunta. Quando a necessidade aparece, no quinto degrau, ela não pesquisa opções. Já tem uma.
 
-O quarto degrau aparece em outro lugar: nas primeiras frases de quem chega. "Leio os seus textos." "Aquele texto sobre o domingo." "Você falou uma vez de pedir ajuda." Quem pergunta a cada cliente novo como ele chegou, e anota a resposta com as palavras dele, passa a enxergar o degrau que as métricas escondem. Lúcia não perguntava. Passou a perguntar em toda primeira sessão, como parte da conversa, sem insistir.
+O quarto degrau aparece em outro lugar: nas primeiras frases de quem chega. "Leio os seus textos." "Aquele texto sobre o domingo." "Você falou uma vez de pedir ajuda." Lúcia passou a ouvir essas frases de outro jeito: não como elogio, mas como o rastro que o perfil não mostrava.
 
 ```conceito
 termo: Conversão por familiaridade
@@ -48,43 +48,13 @@ definicao: O processo pelo qual alguém que acompanha você passa a procurar voc
 porque: Quando vários profissionais podem resolver o mesmo problema, a escolha passa a ser feita por confiança, familiaridade e identidade. As três se constroem antes da oferta, e não durante.
 ```
 
-Nas semanas seguintes, mais duas pacientes novas disseram na primeira sessão, antes mesmo da pergunta, que liam os textos dela. Lúcia foi procurar os nomes nas curtidas e nos comentários, e não encontrou nenhum. As duas tinham feito o mesmo caminho da leitora da quinta-feira: meses de leitura sem nenhum sinal, e depois uma ligação, para o número que uma achou na lista do convênio e que a outra ganhou de uma amiga, já paciente.
+Nas semanas seguintes, mais duas pacientes novas disseram na primeira sessão que liam os textos dela. As duas tinham feito o mesmo caminho da leitora da quinta-feira: meses de leitura sem nenhum sinal, e depois uma ligação, para um número que uma achou na lista do convênio e a outra ganhou de uma amiga, já paciente.
 
-Isso tem uma consequência prática, que vale para qualquer área. Quem decide se continua publicando olhando para os comentários corre o risco de desistir cedo. No caso da Lúcia, os comentários vinham de quinze ou vinte pessoas, e as que procuravam eram outras. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. A leitora da quinta-feira tinha começado a ler numa dessas semanas.
+Quem decide se continua publicando olhando para os comentários corre o risco de desistir cedo. No caso da Lúcia, os comentários vinham de quinze ou vinte pessoas, e as que procuravam eram outras. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. A leitora da quinta-feira tinha começado a ler numa dessas semanas.
 
 ## A mesma oferta, em distâncias diferentes
 
 Uma oferta feita a alguém no segundo degrau é lida como interrupção: a pessoa mal sabe quem você é e já está sendo convidada a comprar. A mesma oferta, com as mesmas palavras, feita a alguém no quarto degrau, é lida como conveniência: a pessoa estava esperando um jeito de chegar. O texto é idêntico. O que mudou foi a distância.
-
-É por isso que copiar a chamada de outra pessoa é arriscado. Quem tem uma audiência grande e familiar pode escrever "tenho duas vagas" e ser lido como um aviso útil. Quem está começando, com leitores no segundo degrau, escreve a mesma frase e é lido como vendedor. A frase veio sem o contexto que a tornava aceitável, e o contexto é a única coisa que não se copia.
-
-Cada modo faz a oferta do seu jeito. Renata fala dela no fim de um áudio, uma vez por mês, com a mesma voz com que explica a dor. Caio reserva, de vez em quando, uma quinta-feira para contar como é a primeira visita a um apartamento velho e o que ele olha antes de aceitar a obra. Otávio escreve quatro parágrafos sobre o tipo de empresa que ele defende e o tipo que ele recusa. Nenhum dos três muda de tom. A oferta sai da mesma boca que explicou, e por isso é ouvida.
-
-Tabela: O que cada distância pede
-
-| Degrau | O que a pessoa precisa | O que você publica |
-|---|---|---|
-| Desconhecido | Encontrar você por acaso | Reconhecimento do problema |
-| Encontrado | Um motivo para voltar | Léxico marcante, posição clara |
-| Reconhecido | Entender como você pensa | Critério, contraponto, régua |
-| Familiar | Um caminho quando precisar | Casos, padrões e, de vez em quando, a porta aberta |
-| Procurado | Facilidade de contato | Um caminho que funcione |
-
-A última linha é a mais simples e a mais esquecida. Dá para construir familiaridade por meses e, na hora em que alguém decide atravessar, a travessia está quebrada: o telefone é antigo, o link não abre, ninguém sabe se deve mandar mensagem, ligar ou preencher alguma coisa. A confiança estava pronta. Faltou logística. Lúcia descobriu que o telefone da descrição era de quatro anos antes porque uma pessoa, depois de sete meses, precisou perguntar.
-
-```nota
-tipo: alerta
-titulo: O último metro
-texto: Teste o caminho de contato no celular de outra pessoa, e não no seu. Peça que ela encontre, sem ajuda, como marcar com você. Se ela demorar mais de um minuto ou precisar perguntar, o último metro está quebrado, e parte de quem chegou ao quarto degrau vai desistir ali.
-```
-
-Naquela sexta, Lúcia pediu à irmã, que nunca tinha marcado nada com ela, que tentasse marcar pelo perfil, sem ajuda. A irmã levou quatro minutos e acabou mandando mensagem, que é justamente o caminho que Lúcia não queria. Naquela tarde, a descrição do perfil passou a ter uma linha só: o telefone da secretária, os dias e o horário em que ela atende, e a informação de que a primeira conversa é para decidir, das duas partes, se o trabalho faz sentido.
-
-## A oferta que filtra
-
-O último metro resolve quem já decidiu. Resta a pergunta da oferta: se e quando dizer, numa peça, que você atende e como. Lúcia nunca tinha feito isso, por receio de soar como propaganda e por cuidado com o código de ética da psicologia, que proíbe promessa de resultado e publicidade sensacionalista. Informar o que ela faz e para quem, porém, é permitido, e útil. O que ela precisava acertar era o jeito de fazer a oferta.
-
-A oferta que Lúcia escreveu, em novembro, tinha quatro partes, na voz dela. Para quem ela atende: adultos que vivem com ansiedade e já tentaram resolver sozinhos, com livros, aplicativos ou força de vontade. Para quem ela não é a pessoa certa: crianças, casais, e qualquer pessoa em crise, que precisa de atendimento imediato e não de uma vaga na agenda, com o número 188 escrito na própria oferta. Como funciona: uma primeira conversa para decidir junto se faz sentido. E como marcar, com o telefone da secretária e o número do CRP, que o código exige em qualquer divulgação.
 
 ```compara
 esquerda:
@@ -105,13 +75,43 @@ direita:
     - Vem depois do critério, como consequência.
 ```
 
+É por isso que copiar a chamada de outra pessoa é arriscado. Quem tem uma audiência grande e familiar pode escrever "tenho duas vagas" e ser lido como um aviso útil. Quem está começando, com leitores no segundo degrau, escreve a mesma frase e é lido como vendedor. A frase veio sem o contexto que a tornava aceitável, e o contexto é a única coisa que não se copia.
+
+Cada modo faz a oferta do seu jeito. Renata dedica um áudio inteiro, uma vez a cada dez peças, a dizer quem ela atende e quem não, com a mesma voz com que explica a dor. Caio reserva, de vez em quando, uma quinta-feira para contar como é a primeira visita a um apartamento velho e o que ele olha antes de aceitar a obra. Otávio escreve quatro parágrafos sobre o tipo de empresa que ele defende e o tipo que ele recusa. Nenhum dos três muda de tom. A oferta sai da mesma boca que explicou, e por isso é ouvida.
+
+Tabela: O que cada distância pede
+
+| Degrau | O que a pessoa precisa | O que você publica |
+|---|---|---|
+| Desconhecido | Encontrar você por acaso | Reconhecimento do problema |
+| Encontrado | Um motivo para voltar | Léxico marcante, posição clara |
+| Reconhecido | Entender como você pensa | Critério, contraponto, régua |
+| Familiar | Um caminho quando precisar | Casos, padrões e, de vez em quando, a porta aberta |
+| Procurado | Facilidade de contato | Um caminho que funcione |
+
+A última linha é a mais simples e a mais esquecida. Dá para construir familiaridade por meses e, na hora em que alguém decide atravessar, a travessia está quebrada: o telefone é antigo, o link não abre, ninguém sabe se deve mandar mensagem, ligar ou preencher alguma coisa. A confiança estava pronta. Faltou logística.
+
+```nota
+tipo: alerta
+titulo: O último metro
+texto: Teste o caminho de contato no celular de outra pessoa, e não no seu. Peça que ela encontre, sem ajuda, como marcar com você. Se ela demorar mais de um minuto ou precisar perguntar, o último metro está quebrado, e parte de quem chegou ao quarto degrau vai desistir ali.
+```
+
+Na mesma sexta em que respondeu à leitora, Lúcia ligou para a mãe, em Santa Cruz do Sul, e pediu que ela descobrisse pelo perfil, sem ajuda, como marcar uma consulta com a filha. A mãe levou quatro minutos e acabou mandando mensagem, que é justamente o caminho que Lúcia não queria. Contou depois que tinha procurado um número no alto da página, onde fica o de toda loja que ela conhece, e só achou uma frase bonita e o endereço antigo. Naquela tarde, a descrição do perfil ganhou três linhas: o número do CRP, o telefone da secretária com os dias e o horário, e a informação de que a primeira conversa é para decidir, das duas partes, se o trabalho faz sentido.
+
+## A oferta que filtra
+
+O último metro resolve quem já decidiu. Resta a pergunta da oferta: se e quando dizer, numa peça, que você atende e como. Lúcia nunca tinha feito isso, por receio de soar como propaganda e por cuidado com o código de ética da psicologia, que proíbe promessa de resultado e publicidade sensacionalista. Informar o que ela faz e para quem, porém, é permitido e útil. O que ela precisava acertar era o jeito de fazer a oferta.
+
+A oferta que Lúcia escreveu, em novembro, tinha quatro partes, na voz dela. Para quem ela atende: adultos que vivem com ansiedade e já tentaram resolver sozinhos, com livros, aplicativos ou força de vontade. Para quem ela não é a pessoa certa: crianças, casais, e qualquer pessoa em crise, que precisa de atendimento imediato e não de uma vaga na agenda, com o número 188 escrito na própria oferta. Como funciona: uma primeira conversa para decidir junto se faz sentido. E como marcar: o telefone da secretária e, ao lado, o número do CRP, que o código exige em qualquer divulgação.
+
 A parte mais importante era a segunda. Dizer para quem não serve é o que torna o resto crível. Quem lê entende que ali há critério, que a psicóloga não aceita tudo, e que quem se encaixa foi descrito de propósito. A exclusão também protege: filtra os casos que ela não deveria atender e encaminha, desde a primeira linha, quem precisa de outra coisa. Nenhuma frase prometia melhora, prazo ou alívio. Descrevia um processo e um critério.
 
 A linha do 188 não estava ali por formalidade. Uma peça que diz "eu atendo pessoas com ansiedade" vai ser lida, em algum momento, por alguém que está pior do que ansioso, numa noite em que esperar pela agenda de qualquer psicóloga é esperar demais. Para essa pessoa, a parte mais útil da oferta é justamente a que diz que não é ali, e onde é. Lúcia escreveu essa linha antes de todas as outras, e foi a única que não mudou em nenhuma revisão.
 
-Lúcia pediu à amiga do grupo que a pergunta daquela semana fosse a da leitora: como faço para marcar? Respondeu numa terça às oito, como respondia a todas, e a resposta foi a oferta. Decidiu que ela voltaria uma vez a cada dez peças, mais ou menos a cada dois meses e meio no ritmo dela. Na semana seguinte, voltou a responder à pergunta da amiga, como sempre. O tom não mudou de uma terça para a outra, e era isso que ela mais queria garantir: que a leitora da quinta-feira, se tivesse lido a oferta, reconhecesse nela a mesma pessoa dos trinta textos anteriores.
+Lúcia pediu à amiga do grupo que a pergunta daquela semana fosse uma que ninguém tinha feito em público, e que agora ela sabia que muita gente fazia calada: como alguém que lê você marca uma conversa? Respondeu numa terça às oito, como respondia a todas, e a resposta foi a oferta. Decidiu que ela voltaria uma vez a cada dez peças, pouco mais de dois meses no ritmo dela. Na semana seguinte, voltou a responder à pergunta da amiga, como sempre. O tom não mudou de uma terça para a outra, e era isso que ela mais queria garantir: que alguém como a leitora da quinta-feira reconhecesse na oferta a mesma pessoa dos trinta textos anteriores.
 
-Na véspera, Lúcia tinha deixado uma cópia impressa com a secretária, para que ela soubesse o que dizer a quem ligasse citando o texto. Na semana depois da oferta, a secretária recebeu três ligações de gente que citou os textos. Duas marcaram a primeira conversa. A terceira era de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante.
+Na véspera, Lúcia tinha deixado uma cópia impressa com a secretária, para que ela soubesse o que dizer a quem ligasse citando o texto. Na semana depois da oferta, a secretária recebeu duas ligações de gente que citou os textos. Uma marcou a primeira conversa. A outra era a mãe de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante.
 
 Em dezembro, a leitora da quinta-feira estava na quinta sessão. Na primeira, tinha contado a Lúcia que quase escreveu em julho, e depois em setembro, e desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos. Lúcia não disse nada sobre isso na sessão. À noite, abriu o caderno de campo e anotou, sem nome, uma frase para a próxima vez que alguém lhe perguntasse como os textos viram pacientes: quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone.
 
@@ -128,8 +128,8 @@ tempo: 30
 tempo_nota: mais o teste no celular de outra pessoa
 entrega: O caminho de contato testado, a sua oferta em quatro partes e a frequência com que ela vai aparecer.
 campos:
-  - rotulo: "Quem procurou você nos últimos meses tinha deixado algum sinal antes?"
-    exemplo: "Dos seus últimos dez clientes novos, quais mencionaram, sem você perguntar, algo que você publicou? Quantos deles você reconhece nas curtidas? Daqui em diante, pergunte a cada cliente novo como chegou e anote com as palavras dele."
+  - rotulo: "Em que degrau está a maior parte de quem acompanha você, e como você sabe"
+    exemplo: "Pense nos seus últimos clientes novos: quantos citaram algo que você publicou? Se quase nenhum, a maioria ainda está entre o segundo e o terceiro degrau, e a tabela 27.1 diz o que falta publicar. Uma fonoaudióloga: “Leem, mas ninguém cita. Preciso de mais critério e menos dica.”"
     linhas: 3
   - rotulo: "O teste do último metro, no celular de outra pessoa"
     exemplo: "Quanto tempo ela levou para descobrir como marcar? Precisou perguntar? O telefone, o link e o horário estão certos?"
@@ -138,10 +138,10 @@ campos:
     exemplo: "Uma professora de inglês: “Adultos que já começaram três cursos e pararam no segundo mês.”"
     linhas: 3
   - rotulo: "Para quem você não é a pessoa certa, e para onde encaminha"
-    exemplo: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência. Um contador: “Empresas com folha acima de cinquenta pessoas; para essas, indico um escritório com equipe de departamento pessoal.”"
+    exemplo: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência. Um cardiologista: “Arritmias que precisam de ablação; para essas, indico um eletrofisiologista.”"
     linhas: 3
   - rotulo: "Como funciona o primeiro passo, sem promessa, e como marcar"
-    exemplo: "O que acontece na primeira conversa, o que se decide nela e o caminho que funciona. Uma engenheira agrônoma: “Na primeira visita, ando a lavoura com você e digo se o problema é de solo ou de manejo.”"
+    exemplo: "O que acontece na primeira conversa, o que se decide nela e o caminho que funciona. Uma engenheira agrônoma: “Na primeira visita, percorro a lavoura com você e digo se o problema é de solo ou de manejo.”"
     linhas: 3
   - rotulo: "Com que frequência a oferta vai aparecer"
     exemplo: "Uma a cada dez peças é uma boa referência. Escreva o seu número e a próxima data."
@@ -222,7 +222,7 @@ faca_antes: true
 
 ```aplicacao
 itens:
-  - {rotulo: "Sei quem me procura em silêncio", ajuda: "Listei de memória quem citou o que publico (campo 01).", pontos: 2}
+  - {rotulo: "Sei em que degrau está quem me acompanha", ajuda: "E o que a tabela 27.1 diz para publicar (campo 01).", pontos: 2}
   - {rotulo: "Testei o último metro", ajuda: "No celular de outra pessoa, e corrigi o que falhou (campo 02).", pontos: 3}
   - {rotulo: "Escrevi a oferta que filtra", ajuda: "Com para quem sirvo, para quem não sirvo e o primeiro passo (campos 03 a 05).", pontos: 3}
   - {rotulo: "Defini a frequência da oferta", ajuda: "E a data da próxima (campo 06).", pontos: 2}

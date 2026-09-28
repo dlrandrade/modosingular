@@ -921,6 +921,7 @@ figurantes:
   cardiologista:
   - 1
   - 20
+  - 27
   engenheiro estrutural:
   - 1
   - 10
@@ -960,6 +961,7 @@ figurantes:
   - 10
   - 29
   - 21
+  - 27
   dermatologista:
   - 3
   - 10
@@ -1082,7 +1084,6 @@ figurantes:
   contador:
   - 17
   - 23
-  - 27
   professora de inglês:
   - 19
   - 27
@@ -1093,48 +1094,46 @@ figurantes:
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
-- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite''
-  passa para depois do esqueleto, para eliminar brancos.'
+- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite'' passa para
+  depois do esqueleto, para eliminar brancos.'
 - '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois da aprovação (cena da cardiologista
-  virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência
-  da Fase I.'
+  virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência da Fase I.'
 - '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável (span nowrap/inline-block/word
   joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
 - '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto); ''tradução'' sem qualificação
   é o conceito da Fase III (experiência→peça, cap. 13).'
-- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com break-before: avoid: quando não
-  cabe, leva junto as últimas linhas do texto, em vez de ficar sozinho na página.'
-- '2026-09-28: Caps. 13 (r4, 9,22) e 14 (r3, 9,01) passaram; correções de linha das revisões aplicadas depois da
-  aprovação. Oficinas aceitam ''numerar: true'' em campos de linhas. Cap. 30 redigido: todos os 30 capítulos têm
-  rascunho.'
-- '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página; cap10 leva duas linhas do texto
-  para a p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
-- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum
-  cabe inteiro no pé da página.'
-- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e
-  14 deixam de estar pendentes de ordem.'
+- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com break-before: avoid: quando não cabe, leva
+  junto as últimas linhas do texto, em vez de ficar sozinho na página.'
+- '2026-09-28: Caps. 13 (r4, 9,22) e 14 (r3, 9,01) passaram; correções de linha das revisões aplicadas depois da aprovação.
+  Oficinas aceitam ''numerar: true'' em campos de linhas. Cap. 30 redigido: todos os 30 capítulos têm rascunho.'
+- '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página; cap10 leva duas linhas do texto para a
+  p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
+- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum cabe inteiro
+  no pé da página.'
+- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e 14 deixam
+  de estar pendentes de ordem.'
 - '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal data cada captura de atendimento
   com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
-- '2026-09-28: Oficinas aceitam ''rotulos_linhas: [...]'' (linhas de escrita com rótulo à esquerda), para grades
-  que pedem texto e não marcação.'
-- '2026-09-28: Cap. 20: o alerta da 4ª reprovação (reescrever do zero) foi dispensado. A r4 deu média 9,03, sem
-  critério abaixo de 8, e o único bloqueador era uma linha de sigilo (abertura ''A pergunta desta semana…''), introduzida
-  pela própria r3. O capítulo convergiu; reescrever jogaria fora o que já passou. Também foi tirado o break-inside:
-  avoid do bloco .regras da rede, para ela poder começar no pé de página; cada regra continua inteira.'
-- '2026-09-28: CSS: ''.rotulo + .esqueleto'' deixou de ter break-after: avoid (prendia o esqueleto da rede ao roteiro
-  seguinte e empurrava os dois para a página seguinte, com até 60% de branco). Vale para todos os capítulos; cap20
-  perdeu duas páginas. Cap. 20 aprovado na r5 (9,07), com correções de linha aplicadas depois (legendas do Taquaral
-  trocadas por fotos antigas já liberadas, texto do cap. 18 na lista de formatos, psicopedagoga sem carrossel).'
-- '2026-09-28: Cap. 23 aprovado na r2 (9,19). Soluções que são dele: o assunto dito no fim do áudio, transcrever
-  sem trocar palavras, a peça de controle e a revisão com o manual. O cap. 24 fica com o escopo do contrato, as
-  quatro condições para delegar e a cláusula da semana vazia.'
-- '2026-09-28: Grades de oficina com mais de seis linhas podem quebrar entre linhas, com o cabeçalho repetido (classe
-  .longa). Cap. 26: termo único ''boca de funil'' (com ''porta de entrada'' só como paráfrase na definição); o depoimento
-  fixado virou ''os convênios que atende''; ilustração de abertura trocada de farol para mapa.'
+- '2026-09-28: Oficinas aceitam ''rotulos_linhas: [...]'' (linhas de escrita com rótulo à esquerda), para grades que pedem
+  texto e não marcação.'
+- '2026-09-28: Cap. 20: o alerta da 4ª reprovação (reescrever do zero) foi dispensado. A r4 deu média 9,03, sem critério abaixo
+  de 8, e o único bloqueador era uma linha de sigilo (abertura ''A pergunta desta semana…''), introduzida pela própria r3.
+  O capítulo convergiu; reescrever jogaria fora o que já passou. Também foi tirado o break-inside: avoid do bloco .regras
+  da rede, para ela poder começar no pé de página; cada regra continua inteira.'
+- '2026-09-28: CSS: ''.rotulo + .esqueleto'' deixou de ter break-after: avoid (prendia o esqueleto da rede ao roteiro seguinte
+  e empurrava os dois para a página seguinte, com até 60% de branco). Vale para todos os capítulos; cap20 perdeu duas páginas.
+  Cap. 20 aprovado na r5 (9,07), com correções de linha aplicadas depois (legendas do Taquaral trocadas por fotos antigas
+  já liberadas, texto do cap. 18 na lista de formatos, psicopedagoga sem carrossel).'
+- '2026-09-28: Cap. 23 aprovado na r2 (9,19). Soluções que são dele: o assunto dito no fim do áudio, transcrever sem trocar
+  palavras, a peça de controle e a revisão com o manual. O cap. 24 fica com o escopo do contrato, as quatro condições para
+  delegar e a cláusula da semana vazia.'
+- '2026-09-28: Grades de oficina com mais de seis linhas podem quebrar entre linhas, com o cabeçalho repetido (classe .longa).
+  Cap. 26: termo único ''boca de funil'' (com ''porta de entrada'' só como paráfrase na definição); o depoimento fixado virou
+  ''os convênios que atende''; ilustração de abertura trocada de farol para mapa.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
-- 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de
-  branco antes de box indivisível).'
+- 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de branco antes
+  de box indivisível).'
 imagens:
   ler a própria peça impressa como de outra pessoa: 25
   Renata rola o perfil à noite e descobre o problema: 23
