@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 12:45
+# atualizado: 2026-09-28 12:49
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -685,5 +685,7 @@ decisoes:
   rascunho.'
 - '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página; cap10 leva duas linhas do texto
   para a p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
+- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum
+  cabe inteiro no pé da página.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)

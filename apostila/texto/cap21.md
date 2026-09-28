@@ -12,7 +12,7 @@ Na terceira terça-feira de janeiro, às seis e dez da tarde, Otávio terminou o
 
 O parágrafo não falava das oficinas. Dizia que o banco de horas é o acordo que mais protege uma pequena empresa e o que mais a expõe, porque só vale se houver controle mês a mês, assinado pelo funcionário. Sem o controle, um ano de horas compensadas vira um ano de horas extras não pagas, e a conta chega de uma vez, na rescisão. Terminava com a pergunta que ele faz a todo cliente: quem, na sua empresa, confere essa folha todo mês?
 
-Era o quarto parágrafo daquela semana. Janeiro sempre tinha sido o mês que derrubava tudo. As pequenas empresas que ele defende fazem em janeiro as demissões que adiaram no fim do ano, o telefone não para, e o escritório vive de audiências marcadas às pressas. Quando montou o próprio enunciado, meses antes, Otávio tinha escrito ao lado do ritmo, uma peça por semana, três palavras que já eram um aviso: janeiro manda.
+Era o quarto parágrafo daquela semana. Janeiro sempre tinha sido o mês que derrubava tudo. As pequenas empresas que ele defende fazem em janeiro as demissões que adiaram no fim do ano, o telefone não para, e o escritório vive de audiências marcadas às pressas. Quando montou o próprio enunciado, meses antes, Otávio tinha escrito ao lado do ritmo, uma peça por semana, duas palavras que já eram um aviso: janeiro manda.
 
 Aquele janeiro não foi diferente. Nas três primeiras semanas, o escritório fez nove audiências e Otávio assinou dezessete pareceres, quase todos sobre rescisões que os clientes tinham adiado para depois das festas. Houve dias em que ele almoçou no carro, entre o fórum e o escritório. Em nenhum desses dias ele teria encontrado duas horas para escrever uma peça. Em todos eles, terminou pelo menos um parecer.
 

@@ -351,3 +351,9 @@ table.escala td .nlin { display: inline-block; width: 5mm; text-indent: 0; font:
 table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
 .compara .lado > p, .compara .lado .rotulo { hyphens: manual; }
 .compara .lado * { hyphens: manual; }
+
+/* O box "Na prática" pode quebrar entre "O comum" e "O singular": evita brancos de meia página. */
+.bloco.exemplo { break-inside: auto; }
+.exemplo .painel { break-inside: avoid; }
+.exemplo > .rotulo, .exemplo > .titulo { break-after: avoid; }
+.exemplo .porque { break-before: avoid; }
