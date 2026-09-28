@@ -8,15 +8,15 @@ ilustracao: colheita
 legenda_ilustracao: Nenhuma planta importa sozinha. A lavoura importa.
 ---
 
-Numa terça-feira de agosto, uma mulher de uns sessenta anos chegou ao escritório do Caio sem hora marcada, com uma folha de papel dobrada em quatro dentro da bolsa. Tinha comprado um apartamento de 1962 no Cambuí, de janelas de ferro, e o corretor tinha incluído no preço um orçamento para trocar todas por alumínio. Antes de assinar qualquer coisa, ela desdobrou a folha na mesa de Caio. Era a impressão de um texto que ele tinha publicado catorze meses antes, sobre janelas de ferro.
+Numa terça-feira de agosto, uma mulher de uns sessenta anos chegou ao escritório do Caio sem hora marcada, com uma folha de papel dobrada em quatro dentro da bolsa. Tinha comprado um apartamento de 1962 no Cambuí, de janelas de ferro, e o corretor tinha incluído no preço um orçamento para trocar todas por alumínio. Antes de assinar qualquer coisa, ela desdobrou a folha na mesa de Caio. Era a impressão de um texto que ele tinha publicado dezesseis meses antes, sobre janelas de ferro.
 
-Caio não se lembrava do texto. Leu como se fosse de outra pessoa. Eram três parágrafos, escritos na época em que ainda mudava de formato toda semana: a janela de ferro que os clientes chegam querendo trocar, a vedação que resolve o vento, a de alumínio barata que empena no primeiro verão. No pé da folha, a mulher tinha escrito a lápis o nome do prédio e a pergunta que queria fazer. Era a mesma pergunta que o texto respondia.
+Caio não se lembrava do texto. Leu como se fosse de outra pessoa. Eram três parágrafos, escritos na época em que ainda mudava de formato toda semana: a janela de ferro que os clientes chegam querendo trocar, a vedação que resolve o vento, a de alumínio barata, de perfil fino, que em pouco tempo deixa de vedar. No pé da folha, a mulher tinha escrito a lápis o nome do prédio e a pergunta que queria fazer. Era a mesma pergunta que o texto respondia.
 
 Ela contou como tinha chegado ali. Uma sobrinha, arquiteta em São Paulo, tinha mandado o link quando soube da compra, sem conhecer Caio. A mulher leu, procurou o perfil, leu mais uns quinze textos, de trás para a frente, numa noite. Achou, nas palavras dela, que ele era o único arquiteto que parecia gostar de apartamento velho. Imprimiu o da janela porque queria mostrar ao corretor e, antes disso, queria que o próprio autor confirmasse.
 
-À noite, Caio abriu o perfil e procurou o texto das janelas. Tinha onze curtidas e nenhum comentário. Na semana em que saiu, ele tinha achado que o texto não funcionou, e foi uma das razões pelas quais, pouco depois, desistiu dos textos longos e passou para a foto com cinco linhas. Catorze meses depois, a peça que ele tinha considerado um fracasso estava sobre a mesa dele, dobrada em quatro, trazendo uma cliente que já chegou convencida.
+À noite, Caio abriu o perfil e procurou o texto das janelas. Tinha onze curtidas e nenhum comentário. Na semana em que saiu, ele tinha achado que o texto não funcionou, e foi uma das razões pelas quais, pouco depois, desistiu dos textos longos e passou para a foto com cinco linhas. Dezesseis meses depois, a peça que ele tinha considerado um fracasso estava sobre a mesa dele, dobrada em quatro, trazendo uma cliente que já chegou convencida.
 
-A conversa daquela terça durou pouco mais de uma hora. Caio foi ao apartamento na quinta, contou as janelas, abriu e fechou cada uma, e confirmou o que o texto dizia: nove das onze se recuperavam com raspagem, vedação e regulagem; duas precisavam de peças novas, que um serralheiro de Campinas ainda fazia. A mulher desistiu do orçamento do corretor antes de sair do apartamento. Contratou a obra na semana seguinte, sem pedir outro orçamento a ninguém. Na primeira reunião de projeto, perguntou se podia contar à sobrinha que tinha dado certo. Caio disse que sim, e pediu que ela contasse também o que tinha ficado de fora do texto: as duas janelas que não tinham volta. Achava que a sobrinha, sendo arquiteta, ia gostar de saber onde a regra parava.
+A conversa daquela terça durou pouco mais de uma hora. Caio foi ao apartamento na quinta, contou as janelas, abriu e fechou cada uma, e confirmou o que o texto dizia: nove das onze se recuperavam com raspagem, vedação e regulagem; duas estavam com o quadro comido pela ferrugem e teriam de ser refeitas, no mesmo desenho, por um serralheiro de Campinas. A mulher desistiu do orçamento do corretor antes de sair do apartamento. Contratou a obra na semana seguinte, sem pedir outro orçamento a ninguém. Na primeira reunião de projeto, perguntou se podia contar à sobrinha que tinha dado certo. Caio disse que sim, e pediu que ela contasse também o que tinha ficado de fora do texto: as duas janelas que não tinham volta. Achava que a sobrinha, sendo arquiteta, ia gostar de saber onde a regra parava.
 
 ## A unidade errada
 
@@ -34,7 +34,7 @@ porque: Avaliar cada peça sozinha leva à conclusão errada. O que traz cliente
 
 A mulher das janelas não leu uma peça. Leu dezesseis, numa noite, e formou uma impressão. É assim que a presença trabalha: uma sequência forma uma impressão, a impressão cria familiaridade, a familiaridade encurta a distância, e a distância curta torna natural a procura. Nenhum desses passos aparece nos números do aplicativo. O que aparece é a curtida de cada peça, que é o dado menos útil para entender o que está acontecendo.
 
-Para quem está começando, o patrimônio é quase invisível nos primeiros meses. Com oito ou dez peças publicadas, falta um conjunto que alguém possa ler numa noite, e a única coisa que se vê é o número pequeno de cada uma. É o momento em que mais gente desiste, e é justamente o momento em que o acervo ainda não teve tempo de trabalhar. A mulher das janelas só encontrou dezesseis peças para ler porque, catorze meses antes, Caio não tinha parado na décima.
+Para quem está começando, o patrimônio é quase invisível nos primeiros meses. Com oito ou dez peças publicadas, falta um conjunto que alguém possa ler numa noite, e a única coisa que se vê é o número pequeno de cada uma. É o momento em que mais gente desiste, e é justamente o momento em que o acervo ainda não teve tempo de trabalhar. A mulher das janelas só encontrou dezesseis peças para ler porque, dezesseis meses antes, Caio não tinha parado na décima.
 
 ```figura
 tipo: linha
@@ -61,7 +61,7 @@ Tabela: As quatro propriedades de um patrimônio de presença
 | Trabalha sozinho | Age enquanto você atende, dorme ou viaja | A sua autoridade deixa de depender da sua presença física |
 | Encurta a conversa | A pessoa chega informada e quase convencida | A primeira reunião começa pela obra, e não pela confiança |
 
-A terceira propriedade é a mais subestimada. Tudo o que construiu a reputação de Caio em oito anos de obra, a visita, a conversa, a indicação de um cliente satisfeito, exigia que ele estivesse presente em algum momento. O texto das janelas trabalhou numa noite em que ele estava em casa, numa cidade em que ele nunca pôs os pés, lido por uma pessoa que nunca tinha ouvido falar dele. Foi a primeira coisa, em oito anos, que trabalhou no lugar dele.
+A terceira propriedade é a mais subestimada. Tudo o que construiu a reputação de Caio em anos de obra, a visita, a conversa, a indicação de um cliente satisfeito, exigia que ele estivesse presente em algum momento. O texto das janelas trabalhou numa noite em que ele estava em casa, repassado por uma pessoa que ele nunca conheceu e lido por outra que nunca tinha ouvido falar dele. Foi a primeira coisa, em todos aqueles anos, que trabalhou no lugar dele.
 
 A segunda propriedade, a de compor, estava no modo como ela leu. Um texto isolado sobre janelas poderia ser de qualquer arquiteto com uma opinião. Dezesseis textos seguidos, sobre paredes que mentem, pisos que valem mais raspados, batentes de peroba e janelas de ferro, mostravam uma pessoa com um jeito coerente de olhar para apartamentos velhos. Cada peça tornava as outras mais críveis. Foi essa coerência que ela resumiu na frase sobre o único arquiteto que parecia gostar de apartamento velho.
 
@@ -71,7 +71,7 @@ A quarta mudou a primeira reunião. A mulher não precisou ser convencida de que
 
 Quando alguém constrói, peça por peça, um acervo público do que pensa, explica e decide, acontece uma coisa que não depende de venda. A pessoa que um dia vai precisar daquilo encontra o acervo antes de encontrar o autor. Lê, forma uma opinião e chega depois, quando chega, já sabendo com quem vai falar. A venda, se é que dá para chamar assim, aconteceu na biblioteca, numa noite qualquer.
 
-A peça das janelas chegou à mulher por um link. Boa parte das peças antigas é encontrada assim, mais do que por busca: alguém que leu se lembra delas quando uma pessoa próxima tem o problema, e manda. Isso tem uma consequência para quem escreve. A peça precisa fazer sentido sozinha, fora da semana em que foi publicada, sem depender de "como eu disse ontem" ou de uma data. A sobrinha pôde mandar o texto porque ele se explicava sem ela.
+A peça das janelas chegou à mulher por um link. Muitas peças antigas chegam assim, mais do que pela busca: alguém que leu se lembra delas quando uma pessoa próxima tem o problema, e manda. Isso tem uma consequência para quem escreve. A peça precisa fazer sentido sozinha, fora da semana em que foi publicada, sem depender de "como eu disse ontem" ou de uma data. A sobrinha pôde mandar o texto porque ele se explicava sem ela.
 
 ```figura
 tipo: funil
@@ -88,7 +88,7 @@ Para que a biblioteca funcione, ela precisa ser mais do que um fluxo de peças e
 
 A lacuna dos banheiros o incomodou mais do que qualquer número de curtidas. Uma pessoa com um banheiro de 1970 para reformar, procurando o problema, não encontraria nada dele, e seria atendida por quem tivesse escrito. Os quatro assuntos com mais peças eram os que ele mais gostava de contar, e não necessariamente os que mais apareciam na obra. O acervo mostrava as preferências dele, e escondia metade do trabalho.
 
-O inventário mostrou outra coisa, menos confortável. Uma parte do que Caio tinha feito no primeiro ano não existia mais: os stories, as enquetes e alguns vídeos curtos que desaparecem depois de um dia. Tinham dado trabalho e não tinham deixado nada. Formatos que somem não acumulam, e peça que ninguém pode encontrar amanhã não entra em patrimônio nenhum. Caio não deixou de usá-los, mas deixou de contá-los como parte do acervo. Passou a tratá-los como conversa do dia, útil e passageira, e a guardar para as quintas o que precisava durar.
+O inventário mostrou outra coisa, menos confortável. Uma parte do que Caio tinha feito no primeiro ano não existia mais: os stories e as enquetes, que desaparecem depois de um dia. Tinham dado trabalho e não tinham deixado nada. Formatos que somem não acumulam, e peça que ninguém pode encontrar amanhã não entra em patrimônio nenhum. Caio não deixou de usá-los, mas deixou de contá-los como parte do acervo. Passou a tratá-los como conversa do dia, útil e passageira, e a guardar para as quintas o que precisava durar.
 
 ```compara
 esquerda:
@@ -107,9 +107,9 @@ direita:
     - Continuidade, porque não há fracasso semanal.
 ```
 
-Caio escolheu, a partir do caderno, quatro assuntos-âncora: paredes, pisos, janelas e banheiros. Seriam os temas a que ele voltaria sempre, por ângulos diferentes, a cada seis ou oito semanas. Voltar a um assunto não é repetir uma peça. A janela de ferro pode aparecer como o caso da mulher do Cambuí, como a comparação com o alumínio, como o erro de quem pinta por cima da ferrugem. Quem lê pela primeira vez vê a primeira; quem acompanha vê o assunto se aprofundar.
+Caio escolheu, a partir do caderno, quatro assuntos-âncora: paredes, pisos, janelas e banheiros. Seriam os temas a que ele voltaria sempre, por ângulos diferentes, a cada seis ou oito semanas. Voltar a um assunto não é repetir uma peça. A janela de ferro pode aparecer como o caso da cliente que quase trocou onze janelas, como a comparação com o alumínio, como o erro de quem pinta por cima da ferrugem. Quem lê pela primeira vez vê a primeira; quem acompanha vê o assunto se aprofundar.
 
-A vontade de não voltar a um tema, porque "já falei disso", é o erro simétrico ao da peça isolada. Caio enjoava da terceira peça sobre paredes muito antes de qualquer leitor. A mulher das janelas tinha lido quinze textos numa noite sem reclamar de nenhuma repetição; o que ela notou foi a coerência. A repetição dos mesmos assuntos, por ângulos diferentes, faz alguém associar um nome a um problema.
+A vontade de não voltar a um tema, porque "já falei disso", é o erro simétrico ao da peça isolada. Caio enjoava da terceira peça sobre paredes muito antes de qualquer leitor. A mulher das janelas tinha lido dezesseis textos numa noite sem reclamar de nenhuma repetição; o que ela notou foi a coerência. A repetição dos mesmos assuntos, por ângulos diferentes, faz alguém associar um nome a um problema.
 
 Em setembro, Caio publicou a primeira peça sobre banheiros: um ralo de 1974 que ele tinha mandado manter, porque a caída do piso era perfeita e refazer custaria mais do que trocar a grelha. Teve dezenove curtidas. Ele não olhou o número na sexta. Anotou no caderno, na página dos banheiros, e passou para a quinta seguinte.
 
@@ -196,7 +196,7 @@ faca_antes: true
     - Que o número de uma peça não diz o que ela vai fazer.
     - Que as peças antigas precisam ser atualizadas sempre.
   correta: 2
-  explicacao: A peça que ele tinha considerado um fracasso trouxe, catorze meses depois, uma cliente que chegou quase decidida, depois de ler outras quinze numa noite.
+  explicacao: A peça que ele tinha considerado um fracasso trouxe, dezesseis meses depois, uma cliente que chegou quase decidida, depois de ler outras quinze numa noite.
 - pergunta: Qual propriedade do patrimônio é a mais subestimada?
   opcoes:
     - Trabalhar sozinho, sem depender da sua presença.

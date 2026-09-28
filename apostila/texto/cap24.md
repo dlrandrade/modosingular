@@ -8,15 +8,15 @@ ilustracao: chave
 legenda_ilustracao: A ferramenta certa, na ordem certa. Fora de ordem, ela não abre nada.
 ---
 
-Em abril, dois anos depois de pedir à agência dois meses sem publicações, Otávio marcou uma reunião na mesma sala de vidro. Levou uma pasta de papel pardo, dessas de elástico, e a pôs na mesa antes de sentar. A responsável pela conta, uma jornalista chamada Sílvia, abriu o computador e começou pelo que sabia fazer: tinha preparado um calendário para o segundo trimestre, com quinze publicações por mês e as datas comemorativas marcadas em amarelo. A primeira era o Dia do Trabalhador.
+Em abril, dois anos depois de pedir à agência dois meses sem publicações, Otávio marcou uma reunião na mesma sala de vidro. Levou uma pasta de papel pardo, dessas de elástico, e a pôs na mesa antes de sentar. A responsável pela conta, uma jornalista chamada Sílvia, abriu o computador e começou pelo que sabia fazer: tinha preparado um calendário de maio a julho, com quinze publicações por mês e as datas comemorativas marcadas em amarelo. A primeira era o Dia do Trabalhador.
 
-Otávio agradeceu e pediu que ela fechasse o calendário. Abriu a pasta e tirou quatro coisas, uma de cada vez. Uma folha com cinco regras, escrita à mão e depois digitada, com o título "Como eu escrevo". Um maço de dez textos que ele tinha publicado desde agosto, no perfil do escritório, impressos e grampeados. Uma folha com quatro linhas curtas, sob o título "O que não é de vocês". E uma folha de fluxo, que dizia o que ele mandaria, quando e por onde.
+Otávio agradeceu e pediu que ela fechasse o calendário. Abriu a pasta e tirou quatro coisas, uma de cada vez. Uma folha com cinco regras, escrita à mão e depois digitada, com o título "Como eu escrevo". Um maço com dez dos textos que ele tinha publicado desde setembro, no perfil do escritório, impressos e grampeados. Uma folha com quatro linhas curtas, sob o título "O que não é de vocês". E uma folha de fluxo, que dizia o que ele mandaria, quando e por onde.
 
 Sílvia leu as cinco regras em silêncio. Eu começo pela pior hipótese. Eu uso a palavra prova com precisão, e nunca como enfeite. Eu escrevo em quatro parágrafos ou menos. Eu termino com uma pergunta que o empresário pode fazer a si mesmo. Eu nunca escrevo "você sabia?".
 
 Na última, ela riu, reconhecendo o bordão da própria agência, e Otávio riu com ela. Não havia ressentimento na folha. Havia, pela primeira vez, uma instrução.
 
-A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos dos pareceres da semana, os parágrafos escritos à mão no verso da última folha, e mandaria para Sílvia. Ele marcaria qual deles seria publicado e, em cada um, sublinharia a última frase, a pergunta. A agência digitaria sem trocar nenhuma palavra, conferiria com as regras, faria a arte com o texto dele, sem título em caixa-alta, e agendaria para terça. Mais nada.
+A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos dos pareceres que já tinham passado da data escrita a lápis no canto, os parágrafos escritos à mão no verso da última folha, e mandaria para Sílvia. Os da semana continuavam na pasta, esperando a vez. Ele marcaria qual deles seria publicado e, em cada um, sublinharia a última frase, a pergunta. A agência digitaria sem trocar nenhuma palavra, conferiria com as regras, faria a arte com o texto dele, sem título em caixa-alta, e agendaria para terça. Mais nada.
 
 Sílvia fez uma pergunta que Otávio esperava, e que merece ser feita por qualquer agência: e as datas? E o calendário? E o que o perfil publica nas semanas em que ele não mandar nada? Otávio respondeu com a quarta folha. Nenhuma peça sai sem um texto dele correspondente. Na semana em que ele não mandar, o perfil não publica. Não haveria bandeirinha de São João, nem arte do Dia do Trabalhador, nem nenhuma frase escrita para preencher um espaço.
 
@@ -24,16 +24,16 @@ A decisão de voltar tinha uma razão concreta. Desde janeiro, o maço de versos
 
 ## O erro era a ordem
 
-No capítulo 4, a agência fazia bem o trabalho que lhe tinham pedido, e o trabalho era impossível: inventar, a partir de uma reunião de uma hora, a voz de alguém que ainda não a conhecia. O problema nunca foi contratar ajuda. Foi contratar antes da hora. A mesma agência, com as mesmas pessoas, produzia peças genéricas dois anos antes e passou a produzir peças do Otávio em abril, e a diferença não estava nela.
+No capítulo 4, a agência fazia bem o trabalho que lhe tinham pedido, e o trabalho era impossível: inventar, a partir de uma reunião de uma hora, a voz de alguém que ainda não a conhecia. Contratar ajuda estava certo; a hora estava errada. A mesma agência, com as mesmas pessoas, produzia peças genéricas dois anos antes e passou a produzir peças do Otávio em abril, e a diferença não estava nela.
 
 Entre um momento e outro, Otávio fez o que o livro inteiro descreve. Descobriu que pensa escrevendo, calculou o ritmo do pior mês, encontrou o repertório, assumiu as posições que custam, montou a ficha de léxico, prendeu a produção ao fim de cada parecer. Chegou à sala de vidro com tudo aquilo que uma agência não tem como descobrir sozinha. A agência voltou a ser útil exatamente porque deixou de ter de adivinhar.
 
-Helena foi a mais desconfiada. Tinha visto o perfil do escritório passar três anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu as quatro folhas antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
+Helena foi a mais desconfiada. Tinha visto o perfil do escritório passar anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu as quatro folhas antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
 
 ```conceito
 termo: Delegação madura
 definicao: A contratação de apoio feita depois que você descobriu a própria linguagem, com o escopo restrito às etapas mecânicas e com um manual de voz que funciona como contrato de qualidade.
-porque: O mesmo profissional, contratado no momento errado, produz conteúdo genérico; contratado no momento certo, multiplica o alcance sem apagar ninguém. A variável não é ele. É você.
+porque: O mesmo profissional, contratado no momento errado, produz conteúdo genérico; contratado no momento certo, multiplica o alcance sem apagar ninguém. O que muda de um caso para o outro é o que você leva à primeira reunião.
 ```
 
 Há quatro sinais de que chegou a hora, e Otávio tinha os quatro. O primeiro é ter publicado ao menos trinta peças no seu formato-base, com um padrão que se reconhece. O segundo é ter um manual de voz escrito que outra pessoa consiga seguir. O terceiro é que a etapa que mais consome o seu tempo seja mecânica, como digitar, formatar ou agendar. O quarto é conseguir apontar uma frase e dizer "esta não é minha", explicando por quê.
@@ -89,7 +89,7 @@ itens:
 
 O primeiro texto que voltou da agência tinha uma frase trocada. Era o verso sobre o banco de horas, e a pergunta final, sublinhada à mão, dizia: quem, na sua empresa, confere essa folha todo mês? A versão digitada terminava assim: "Conte sempre com uma assessoria jurídica especializada." Sílvia tinha achado que faltava uma chamada. Otávio desfez a troca, e Sílvia não se ofendeu. Pediu que ele pusesse no manual uma sétima linha: a última frase é sempre dele, e nunca muda.
 
-Delegar tem um risco que não é a perda de voz. É você virar o gargalo. A equipe entrega na terça, o material espera a sua aprovação até sexta, e a semana seguinte começa atrasada. Otávio evitou isso com uma revisão curta, feita sempre na mesma ordem. Nas três primeiras semanas, levava uns quatro minutos por peça. Cada vez que encontrava uma frase fora do lugar, em vez de só corrigir, acrescentava uma linha ao manual.
+Delegar tem ainda outro risco, além da perda de voz: você virar o gargalo. A equipe entrega na terça, o material espera a sua aprovação até sexta, e a semana seguinte começa atrasada. Otávio evitou isso com uma revisão curta, feita sempre na mesma ordem. Na primeira semana, levava uns quatro minutos por peça. Cada vez que encontrava uma frase fora do lugar, em vez de só corrigir, acrescentava uma linha ao manual.
 
 A triagem de comentários seguiu a mesma lógica. A agência responde ao que é logística, como o endereço do escritório ou o horário de atendimento, e encaminha a Otávio tudo o que é dúvida de direito. Ele responde por escrito, do jeito dele, e a resposta volta para o perfil com as palavras dele. Uma dúvida técnica respondida por outra pessoa seria, afinal, uma opinião jurídica emitida em nome de quem não a leu.
 
@@ -122,7 +122,7 @@ Otávio não entregou tudo de uma vez. No primeiro mês, a agência só digitava
 
 O mesmo vale para quem ainda trabalha sozinho e pensa em usar ajuda, seja uma pessoa, seja uma ferramenta. Comece pela etapa mais mecânica, a que consome tempo sem carregar nada de seu, e observe um mês. Se nenhuma frase voltar trocada, passe a seguinte. Se voltar, corrija o manual antes de passar qualquer outra coisa. A pressa em delegar tudo de uma vez é a mesma pressa que, no capítulo 4, levou à agência antes da voz.
 
-Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro, que Otávio passou para Sílvia inteiro, com a instrução de usá-los na ordem em que ele numerou. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
+Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro, que Otávio passou para Sílvia inteiro, com a instrução de usá-los na ordem em que ele numerou e de pular qualquer um cuja data a lápis ainda não tivesse chegado. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
 
 No fim de maio, a dona das lojas de material de construção, que era cliente havia um ano, mandou ao escritório o link de uma das peças, com uma pergunta: a folha do banco de horas dela estava certa? Tinha lido na terça e conferido na quarta. Otávio respondeu que marcaria uma conversa. Era o tipo de mensagem que as artes azuis nunca tinham produzido: uma cliente que leu, foi conferir e voltou com uma pergunta da própria empresa. Antes de fechar o e-mail, ele sublinhou, na folha de fluxo que guardava na mesa, a frase que tinha escrito ali em abril: a última frase é minha.
 
@@ -176,12 +176,12 @@ evite:
   - Mandar o perfil de outra pessoa como modelo a imitar.
   - Contratar por urgência, antes dos quatro sinais.
 esqueleto:
-  - {rotulo: "A situação", texto: "O que acontece na sua área, dito como você diz.", linhas: 2}
+  - {rotulo: "A situação", texto: "Depois da sua abertura de sempre, o que acontece na sua área, dito como você diz.", linhas: 2}
   - {rotulo: "O risco", texto: "O que dá errado, e por quê.", linhas: 3}
   - {rotulo: "O que fazer", texto: "A recomendação, sem promessa de resultado.", linhas: 2}
   - {rotulo: "A última frase", texto: "A pergunta que a pessoa pode fazer a si mesma. Sublinhe.", linhas: 2}
 roteiro: |
-  Tem uma situação que eu vejo muito: {o que acontece na sua área}.
+  {A sua abertura de sempre}. {O que acontece na sua área}.
 
   O risco está em {o que dá errado, e por quê}.
 
@@ -200,7 +200,7 @@ faca_antes: true
     - "O que Otávio levou: voz, manual e escopo definidos."
     - O formato das peças, que passou a ser em vídeo.
   correta: 2
-  explicacao: A agência era a mesma. Em 2023, tinha de adivinhar a voz de alguém que não a conhecia. Em abril, recebeu um manual, uma amostra de voz, a lista do que não era dela e um fluxo de material.
+  explicacao: A agência era a mesma. Dois anos antes, tinha de adivinhar a voz de alguém que não a conhecia. Em abril, recebeu um manual, uma amostra de voz, a lista do que não era dela e um fluxo de material.
 - pergunta: Que cláusula torna a produção genérica impossível?
   opcoes:
     - Nenhuma peça sai sem material do cliente correspondente.
