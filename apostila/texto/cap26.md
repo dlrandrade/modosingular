@@ -8,11 +8,11 @@ ilustracao: mapa
 legenda_ilustracao: Quem ainda não conhece você precisa de um caminho até a porta.
 ---
 
-Numa segunda-feira de setembro, Renata fez uma conta que vinha adiando desde o começo do ano. Pegou a agenda dos três meses anteriores e marcou, ao lado de cada paciente novo, como ele tinha chegado. Eram trinta e um. Vinte e quatro vieram por indicação, a maioria dos mesmos dois ortopedistas de sempre. Cinco vieram de outros pacientes. Dois disseram que tinham encontrado o perfil. Os dois, quando ela perguntou mais, contaram que tinham recebido o nome dela de alguém e só depois abriram o perfil para conferir.
+Renata pegou a agenda dos três meses anteriores numa segunda-feira de setembro, à noite, e fez uma conta que vinha adiando desde o começo do ano: marcou, ao lado de cada paciente novo, como ele tinha chegado. Eram trinta e um: vinte e quatro indicados por médicos, a maioria pelos mesmos dois ortopedistas de sempre, cinco por outros pacientes e dois que disseram ter encontrado o perfil. Os dois, quando ela perguntou mais, contaram que tinham recebido o nome dela de alguém e só depois abriram o perfil para conferir.
 
 A conta a incomodou porque desmentia uma impressão. Desde o ano anterior, o perfil vinha crescendo, os pacientes chegavam citando áudios antigos, e ela tinha passado a achar que a presença estava trazendo gente nova. Estava confirmando gente que vinha de qualquer jeito. Marcos, lá no começo, tinha aberto o perfil quinze minutos antes da primeira consulta para conferir se valia a pena entrar; os pacientes do trimestre faziam a mesma coisa, mas agora encontravam uma fisioterapeuta que reconheciam.
 
-No dia seguinte, pediu a Bianca, a assistente, que imprimisse as três publicações fixadas e as dez últimas peças, e, depois do último paciente, leu as folhas na mesa da recepção, anotando a caneta em cada uma para quem ela tinha sido feita. As três publicações fixadas no alto eram as mesmas havia um ano: uma foto da sala de atendimento, uma lista dos tratamentos oferecidos e os convênios que ela atende. Abaixo delas, as peças mais recentes ainda terminavam, quase todas, com a mesma linha que Bianca acrescentava à legenda depois da leitura da Renata: agende a sua avaliação.
+No dia seguinte, depois do último paciente, abriu o perfil no computador da recepção e, com o caderno ao lado, anotou para quem cada uma das três publicações fixadas e das dez últimas peças tinha sido feita. As três publicações fixadas no alto eram as mesmas havia um ano: uma foto da sala de atendimento, uma lista dos tratamentos oferecidos e os convênios que ela atende. Abaixo delas, as peças mais recentes ainda terminavam, quase todas, com a mesma linha que Bianca acrescentava à legenda depois da leitura da Renata: agende a sua avaliação.
 
 Renata se fez a pergunta que a conta sugeria. Uma pessoa com dor nas costas havia dois anos, que nunca ouviu o nome dela e acha que dor lombar é coisa da idade, encontraria alguma coisa ali que fizesse sentido para ela? Encontraria uma sala, uma lista, os convênios e um convite para agendar. Tudo aquilo servia para quem tinha decidido procurar uma fisioterapeuta e queria saber se era aquela. Para quem ainda não sabia que o problema tinha solução, o perfil era uma porta fechada com uma placa bonita.
 
@@ -34,7 +34,7 @@ Tabela: Duas funções, dois desenhos
 
 O perfil da Renata era uma vitrine; desde os primeiros áudios, muito melhor do que a de antes. Isso não é pouco: a vitrine protege a indicação, e a indicação continuava sendo, de longe, a maior fonte de pacientes dela. O limite da vitrine é depender de alguém ter mandado a pessoa. Quem não foi indicado, e é a maior parte das pessoas com dor nas costas em Curitiba, nunca chega até ela.
 
-Há um jeito rápido de saber qual das duas funções o seu perfil cumpre hoje. Olhe as últimas dez peças e pergunte, de cada uma, se ela faria sentido para alguém que nunca ouviu o seu nome e ainda não sabe que tem o problema. Se menos da metade passar, você tem uma vitrine. Renata fez a pergunta e contou duas: um áudio de agosto e uma peça de critério.
+Olhe as suas últimas dez peças e pergunte, de cada uma, se ela faria sentido para alguém que nunca ouviu o seu nome e ainda não sabe que tem o problema. Se menos da metade passar, você tem uma vitrine. Renata fez a pergunta e contou duas: um áudio de agosto e uma peça de critério.
 
 ```conceito
 termo: Boca de funil
@@ -59,7 +59,7 @@ etapas:
 
 A auditoria das últimas dez peças mostrou o funil da Renata de cabeça para baixo. Renata classificou cada uma pelo que o corpo da peça fazia, e não pela última linha. Cinco eram de confiança, casos que só faziam sentido para quem já estava em tratamento. Três eram de critério. Uma era o convite puro, a lista de tratamentos com o horário. Uma, apenas, era de reconhecimento: um áudio de agosto sobre a dor que acorda antes da pessoa.
 
-Era a peça que os dois pacientes que abriram o perfil antes de marcar tinham citado: tinham o nome dela, mas ainda não a conheciam, e era a única que falava com alguém nessa situação. O convite colado no fim da legenda era um problema à parte: estava em quase todas, e contaminava qualquer camada.
+Era a peça que os dois pacientes do perfil tinham citado: tinham o nome dela, mas ainda não a conheciam, e era a única que falava com alguém nessa situação. O convite colado no fim da legenda era um problema à parte: estava em quase todas e contaminava qualquer camada.
 
 ```figura
 tipo: barras
@@ -85,21 +85,21 @@ texto: Publicar quase só as camadas de baixo, as que servem a quem já chegou, 
 
 ## Reconhecimento, com as palavras de quem sente
 
-Renata demorou a entender o que a camada de reconhecimento exigia. Quem sente dor e ainda não tem diagnóstico não procura pelo nome técnico. Procura pelo que sente: "dor nas costas que piora de manhã", "travei ao pegar a sacola", "dói mais quando fico em pé parado". A peça de reconhecimento começa pela experiência, dita como o paciente a diria, e só depois dá nome a ela. Começar pelo termo técnico é falar com colegas.
+Quem sente dor e ainda não tem diagnóstico não procura pelo nome técnico. Procura pelo que sente: "dor nas costas que piora de manhã", "travei ao pegar a sacola", "dói mais quando fico em pé parado". A peça de reconhecimento começa pela experiência, dita como o paciente a diria, e só depois dá nome a ela. Começar pelo termo técnico é falar com colegas.
 
-A matéria-prima estava pronta havia anos. Fazia mais de quinze anos que perguntava a todo paciente como eram as manhãs, e o caderno de campo estava cheio das respostas, com as palavras de cada um. "Acordo mais velho do que fui dormir." "Levo meia hora para conseguir calçar a meia." "Melhora depois do café, quando já andei um pouco." Cada uma dessas frases era o começo de uma peça de reconhecimento, e nenhuma delas precisava ser inventada. Renata usava só as que já tinham passado da data anotada na seleção (cap. 19) e que tinha ouvido de mais de um paciente, com pequenas variações, para que nenhuma apontasse para alguém.
+A matéria-prima estava pronta havia anos. Fazia mais de quinze anos que perguntava a todo paciente como eram as manhãs, e o caderno de campo estava cheio das respostas, com as palavras de cada um. "Acordo mais velho do que fui dormir." "Levo meia hora para conseguir calçar a meia." "Melhora depois do café, quando já andei um pouco." Cada uma dessas frases era o começo de uma peça de reconhecimento, e nenhuma delas precisava ser inventada. Renata usava só as que já tinham passado da data anotada na seleção do capítulo 19 e que tinha ouvido de mais de um paciente, com pequenas variações, para que nenhuma apontasse para alguém.
 
-Bianca continuou cuidando da transcrição, da arte e da agenda, do jeito que as duas tinham combinado em abril. Entrou uma marca a mais no fim de cada áudio. Depois de dizer qual era a ideia da peça, Renata passou a dizer também a camada: reconhecimento, critério, confiança. Bianca não decidia a camada, do mesmo jeito que não decidia o assunto. Mas passou a saber onde cada peça entrava, e a guardar o convite para marcar, que antes ia no fim de quase toda legenda, para uma peça de ação a cada duas semanas.
+Bianca, a assistente, continuou cuidando da transcrição, da arte e da agenda, do jeito que as duas tinham combinado em abril. Entrou uma marca a mais no fim de cada áudio. Depois de dizer qual era a ideia da peça, Renata passou a dizer também a camada: reconhecimento, critério, confiança ou ação. Bianca não decidia a camada, do mesmo jeito que não decidia o assunto. Mas passou a saber onde cada peça entrava, e o convite para marcar, que antes ia no fim de quase toda legenda, ficou para a peça de ação que Renata gravava a cada duas semanas.
 
 A primeira que gravou começava pela frase da meia: “Se você leva meia hora para calçar a meia de manhã, e melhora depois que anda um pouco, isso tem explicação, e ela vai além de ‘é da idade’.” Em seguida, contou por que aquela dor que melhora com o movimento merece ser investigada, e terminou com uma pergunta para a pessoa fazer ao próprio médico. Não mencionou a clínica, nem os tratamentos, nem a avaliação.
 
-A ausência do convite foi deliberada. Uma peça de reconhecimento que termina em "agende" muda de natureza no último segundo: a pessoa, que estava aprendendo alguma coisa sobre o próprio corpo, descobre que estava lendo um anúncio. O ganho de curto prazo, um ou outro agendamento, custa o de longo, que é ser lembrada como a fisioterapeuta que explicou. O caminho até a agenda continua existindo, no endereço do perfil, para quem quiser. Deixou de ser empurrado em cada peça.
+A ausência do convite foi deliberada. Uma peça de reconhecimento que termina em "agende" muda de natureza no último segundo: a pessoa, que estava aprendendo alguma coisa sobre o próprio corpo, descobre que estava lendo um anúncio. O que se ganharia, um ou outro agendamento, Renata achou pouco perto do que perdia: ser lembrada como a fisioterapeuta que explicou. O caminho até a agenda continua existindo, no endereço do perfil, para quem quiser. Deixou de ser empurrado em cada peça.
 
-Nas áreas da saúde, há ainda outro limite: a peça descreve, e quem examina decide. Renata passou a encerrar as peças desse tipo com uma frase que devolvia a decisão a quem pode tomá-la. Os códigos de ética da saúde vedam, na publicidade, a promessa de resultado, e diagnosticar quem lê é exatamente o que uma peça pública não pode fazer. A peça de reconhecimento fica do lado certo da linha quando entrega uma pergunta, e não uma conclusão.
+Nas áreas da saúde, há ainda outro limite: a peça descreve, e quem examina decide. Fora da saúde, a peça pode dar o nome, como dilatação térmica ou capital de giro; em saúde, Renata nomeava o mecanismo e deixava o diagnóstico para quem examina. Renata passou a encerrar as peças desse tipo com uma frase que devolvia a decisão a quem pode tomá-la. Os códigos de ética da saúde vedam, na publicidade, a promessa de resultado, e diagnosticar quem lê é exatamente o que uma peça pública não pode fazer. A peça de reconhecimento fica do lado certo da linha quando termina numa pergunta.
 
 ## O rosto no funil
 
-Há uma versão desse raciocínio que dá errado, e Renata a tinha visto de perto em abril. É a boca de funil montada como máquina: peças sobre o problema, em volume, otimizadas para aparecer, com o especialista escondido atrás do processo. Funciona por um tempo. Depois falha, porque, num trabalho baseado em confiança, a pessoa não escolhe apenas o serviço. Escolhe alguém capaz de prestá-lo, e precisa ver esse alguém em algum momento.
+Há uma versão desse raciocínio que dá errado, e Renata a tinha visto de perto em abril. É a boca de funil montada como máquina: peças sobre o problema, em volume, otimizadas para aparecer, com o especialista escondido atrás do processo. Em abril, com seis peças por semana, os números tinham subido e ela não se reconhecia em nenhuma. Uma boca de funil sem rosto pode até trazer gente, mas num trabalho baseado em confiança a pessoa escolhe alguém capaz de prestar o serviço, e precisa ver esse alguém em algum momento.
 
 ```nota
 tipo: pratica
@@ -113,14 +113,14 @@ No fim de setembro, Renata trocou as três publicações fixadas no alto do perf
 
 Os convênios foram para baixo, onde continuavam servindo a quem chegava indicado e queria confirmar. No alto, a primeira coisa que um estranho lia agora era a meia.
 
-Em novembro, numa quarta-feira, uma paciente nova chegou sem indicação. Tinha quarenta e poucos anos, trabalhava em pé numa farmácia e tinha encontrado o áudio da meia numa madrugada, procurando no celular por "dor nas costas de manhã". Contou, antes de sentar, que achou que alguém tinha descrito as manhãs dela. Renata perguntou como eram as manhãs, e a paciente riu, porque era a pergunta de outra peça do alto do perfil, que ela tinha ouvido na mesma madrugada.
+Em novembro, numa quarta-feira, uma paciente nova chegou sem indicação. Tinha quarenta e poucos anos, trabalhava em pé numa farmácia e tinha encontrado o áudio da meia numa madrugada, procurando no celular por "dor nas costas de manhã". Contou, antes de se sentar, que parecia que alguém tinha descrito as manhãs dela. Renata perguntou como eram as manhãs, e a paciente riu, porque era a pergunta de outra peça do alto do perfil, que ela tinha ouvido na mesma madrugada.
 
-Depois da avaliação, Renata reconheceu o padrão do Marcos e encaminhou a paciente a um reumatologista antes de começar o tratamento. Ela voltou três semanas depois, com o diagnóstico e o pedido médico. O Marcos tinha chegado apesar do perfil; ela tinha chegado por causa dele. Na agenda, ao lado do nome dela, Renata escreveu: perfil, sem indicação. A biblioteca do capítulo 25 é achada por quem procura o assunto; a peça de reconhecimento, por quem procura o que sente.
+Depois da avaliação, Renata reconheceu o padrão do Marcos e encaminhou a paciente a um reumatologista antes de começar o tratamento. Ela voltou três semanas depois, com o diagnóstico e o pedido médico. O Marcos tinha chegado apesar do perfil; ela tinha chegado por causa dele. Na agenda, ao lado do nome dela, Renata escreveu: perfil, sem indicação.
 
-No fim do ano, refez a conta. De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, sem a troca de setembro, talvez nunca tivessem ouvido o nome dela.
+No fim do ano, refez a conta. De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, sem a troca de setembro, talvez nunca ouvissem o nome dela.
 
 ```guardar
-- A vitrine confirma quem já foi indicado. A boca de funil começa a decisão de quem ainda não conhece você, e não depende de ninguém.
+- A vitrine confirma quem já foi indicado. A boca de funil começa a decisão de quem ainda não conhece você, sem depender de ninguém.
 - "A camada de reconhecimento é a maior: o problema, com as palavras de quem o sente. O convite para marcar é a menor."
 - Se a sua boca de funil funcionasse igual com o nome de um colega, ela tem processo, e não rosto.
 ```
@@ -136,15 +136,15 @@ campos:
     exemplo: "Olhe a agenda de três meses: indicação de colega, de cliente, perfil sem indicação, outro caminho. Se a agenda não diz, conte os que você lembra com certeza e marque os demais como “não sei”."
     linhas: 3
   - rotulo: "As suas últimas dez peças, por camada"
-    exemplo: "Classifique pelo corpo da peça, e não pela última linha. Se publicou menos de dez, classifique todas as que tem."
+    exemplo: "Anote três palavras de cada peça e marque uma camada só, pelo que o corpo faz; a última linha não conta. Se publicou menos de dez, classifique todas as que tem."
     grade:
       colunas: ["Reconhecimento", "Critério", "Confiança", "Ação"]
-      linhas: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+      linhas: ["1 ______________", "2 ______________", "3 ______________", "4 ______________", "5 ______________", "6 ______________", "7 ______________", "8 ______________", "9 ______________", "10 _____________"]
   - rotulo: "A sua proporção real contra a referência"
-    exemplo: "Real: __ · __ · __ · __ . Referência: 4 · 3 · 2 · 1. Onde o seu funil está invertido? Com menos de dez peças, compare a ordem das colunas, e não os números."
+    exemplo: "Real: __ · __ · __ · __ . Referência: 4 · 3 · 2 · 1. Onde o seu funil está invertido? Com menos de dez peças, compare só a ordem das colunas."
     linhas: 2
   - rotulo: "Uma experiência que o seu cliente sente e ainda não sabe nomear, com as palavras dele"
-    exemplo: "Tire do caderno de campo, e não da cabeça. Uma contadora: “O faturamento subiu e o dinheiro no caixa sumiu.” Uma dentista: “Sinto uma pontada quando tomo gelado, mas passa.”"
+    exemplo: "Tire do caderno de campo. Uma contadora: “O faturamento subiu e o dinheiro no caixa sumiu.” Uma dentista: “Sinto uma pontada quando tomo gelado, mas passa.”"
     linhas: 3
   - rotulo: "A peça de reconhecimento, sem mencionar o seu serviço"
     exemplo: "Comece pela experiência, dê nome a ela, explique por que acontece e termine com uma pergunta ou um critério."
@@ -155,7 +155,7 @@ campos:
 criterios:
   - O campo 01 tem números, mesmo que incluam “não sei”.
   - A peça do campo 05 não menciona o seu serviço, a sua agenda nem o lugar onde você atende.
-  - A experiência do campo 04 está nas palavras de quem a sente, e não no nome técnico.
+  - A experiência do campo 04 está nas palavras de quem a sente.
   - O campo 06 aponta pelo menos uma coisa na peça que um colega não diria.
 ```
 
@@ -177,7 +177,7 @@ evite:
 esqueleto_rotulo: "Passe a limpo a peça do campo 05"
 esqueleto:
   - {rotulo: "A experiência", texto: "O que a pessoa sente, nas palavras dela.", linhas: 2}
-  - {rotulo: "O nome", texto: "Isso tem explicação, e ela vai além do que se costuma ouvir.", linhas: 2}
+  - {rotulo: "O nome", texto: "O nome do que acontece, dito depois da experiência. Em saúde, o mecanismo, nunca o diagnóstico de quem lê.", linhas: 2}
   - {rotulo: "O porquê", texto: "Por que acontece, com o seu repertório.", linhas: 3}
   - {rotulo: "A pergunta", texto: "O que a pessoa pode perguntar ou observar. Sem convite.", linhas: 2}
 roteiro: |
