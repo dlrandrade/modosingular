@@ -2,19 +2,21 @@
 n: 14
 fase: 3
 titulo: A pergunta recorrente
-subtitulo: O assunto mais valioso da sua área é o que você responde toda semana sem perceber
+subtitulo: O assunto mais valioso da sua área é o que você já responde toda semana
 epigrafe: Se três pessoas perguntaram a mesma coisa, trezentas estão com a mesma dúvida em silêncio.
 ilustracao: lente
 legenda_ilustracao: O que se repete diante de você é o dado mais confiável que você tem.
 ---
 
-O casal chegou ao apartamento do Cambuí com uma pasta de recortes e um aplicativo de decoração aberto no celular. Tinham acabado de comprar o imóvel, um terceiro andar de 1974, e queriam a cozinha integrada à sala, como em todas as fotos da pasta. Caio atravessou a sala contando os passos, parou diante da parede que separava os dois cômodos e esperou. Sabia o que vinha. A mulher perguntou primeiro, com a mão encostada no reboco: "Dá para derrubar essa parede?"
+O áudio chegou às onze da noite de uma quarta-feira, com uma foto anexada. Uma mulher que tinha acabado de comprar, com o marido, um terceiro andar de 1974 no Taquaral mostrava a parede entre a cozinha e a sala e perguntava, com a voz de quem já tinha decidido: "Dá para derrubar essa parede?" Ao fundo da foto, sobre a pia, havia uma pasta de recortes aberta, com cozinhas integradas de revista, todas claras, todas sem parede nenhuma. Caio respondeu antes de dormir, com uma frase só, a de sempre nessas horas: amanhã eu vejo com vocês, e antes disso ninguém encosta a marreta em nada.
 
-Caio respondeu como responde há oito anos. Explicou que dependia do que a parede fazia além de separar a cozinha da sala. Bateu com os nós dos dedos em três pontos e ouviu o som. Olhou o teto, procurando a marca de uma viga. Abriu o armário da pia e seguiu com os olhos o caminho do cano de gás. Disse que, naquele caso, a parede parecia só de vedação, mas que ninguém derrubaria nada antes de ele ver a planta do prédio e conversar com o síndico. Saíram dali satisfeitos, com a resposta que queriam ouvir e as condições que não tinham imaginado.
+Caio foi ver na quinta de manhã.
 
-O marido ainda perguntou, já na porta, se o síndico podia proibir a obra. Caio explicou que o síndico não decide se a parede sai, mas precisa saber antes, receber o plano da reforma e o nome de quem responde por ela. Era outra resposta que ele dava toda semana, na porta, quase sempre depois da primeira. O casal anotou no celular, cada um no seu. A mulher disse que ninguém tinha falado nisso na hora da compra.
+Respondeu como responde há oito anos. Explicou que dependia do que a parede fazia além de separar a cozinha da sala. Bateu com os nós dos dedos em três pontos e ouviu o som. Olhou o teto, procurando a marca de uma viga. Abriu o armário da pia e seguiu com os olhos o caminho do cano de gás. Disse que, naquele caso, a parede parecia só de vedação, mas que ninguém derrubaria nada antes de ele ver a planta do prédio e conversar com o síndico. Saíram dali satisfeitos, com a resposta que queriam ouvir e as condições que não tinham imaginado.
 
-À noite, Caio abriu o caderno de campo que mantinha desde o capítulo 6, onde anotava as perguntas de clientes com as palavras deles. Contou quantas vezes aparecia a mesma frase, com pequenas variações: "Dá para derrubar essa parede?", "Essa parede pode sair?", "Se eu tirar essa parede, o prédio cai?". Em três meses, trinta e uma vezes. Mais de duas por semana.
+O marido ainda perguntou, já na porta, se o síndico podia proibir a obra. Caio explicou que o síndico não escolhe o projeto, mas recebe o plano da reforma, com o nome de quem responde por ela, e pode barrar a obra enquanto esse plano não chegar. Era outra resposta que ele dava toda semana, na porta, quase sempre depois da primeira. O casal anotou no celular, cada um no seu. A mulher disse que ninguém tinha falado nisso na hora da compra.
+
+À noite, Caio abriu o caderno de campo que mantinha havia alguns meses, onde anotava as perguntas de clientes com as palavras deles. Contou quantas vezes aparecia a mesma frase, com pequenas variações: "Dá para derrubar essa parede?", "Essa parede pode sair?", "Se eu tirar essa parede, o prédio cai?". Em três meses, trinta e uma vezes. Mais de duas por semana.
 
 Olhou para o número por um tempo. Tinha passado oito anos respondendo a mesma pergunta, uma pessoa de cada vez, em pé no meio de salas vazias, e nunca tinha pensado nela como assunto. Parecia básica demais. Qualquer arquiteto sabia a resposta. Era, achava ele, o tipo de coisa que não merecia uma peça.
 
@@ -30,7 +32,7 @@ definicao: Uma dúvida que aparece muitas vezes na sua prática e que você já 
 porque: Ela chega com a demanda comprovada. Você não precisa adivinhar o que interessa, porque as pessoas já disseram, diante de você, várias vezes.
 ```
 
-E ela é quase sempre subestimada por quem a responde. Caio achava a pergunta da parede básica porque, para ele, a resposta era trivial: ele a tinha formulado há anos, refinado a cada obra, e sabia de cor onde o cliente ia se confundir. A facilidade de responder parecia sinal de pouco valor. É o contrário. A facilidade é o sinal de que a resposta está madura, testada centenas de vezes, e de que ele tem uma versão clara de uma explicação que muitos colegas ainda dão de forma atrapalhada.
+E ela é quase sempre subestimada por quem a responde. Caio achava a pergunta da parede básica porque, para ele, a resposta era trivial: ele a tinha formulado há anos, refinado a cada obra, e sabia de cor onde o cliente ia se confundir. A facilidade de responder parecia sinal de pouco valor. É o contrário. A facilidade é o sinal de que a resposta está madura, testada centenas de vezes, numa versão clara de uma explicação que ele mesmo, no primeiro ano de escritório, dava de forma atrapalhada.
 
 ```figura
 tipo: gap
@@ -42,9 +44,7 @@ rotulo_distancia: o valor que você não vê
 legenda: Esquema ilustrativo. O descompasso entre as duas avaliações é o que mantém fora da internet a explicação mais útil que um especialista tem.
 ```
 
-Há um cálculo que ajuda a enxergar o tamanho disso. Caio levava uns dez minutos para responder à pergunta da parede com calma, em cada visita. Trinta e uma vezes em três meses dão pouco mais de cinco horas. Em oito anos, algo perto de cento e sessenta horas dedicadas à mesma explicação, dada a uma pessoa por vez. Uma peça bem feita sobre o assunto levaria uma hora para ser preparada e poderia ser ouvida por centenas de pessoas antes de elas chegarem à primeira visita.
-
-Os outros personagens têm as suas perguntas. Renata ouve toda semana se a dor lombar dela é hérnia. Lúcia ouve se ansiedade tem cura. Otávio ouve se o empregador pode descontar do salário o uniforme perdido. Cada uma dessas perguntas já foi respondida por eles mais vezes do que conseguiriam contar, e nenhuma tinha virado peça.
+Caio levava uns dez minutos para responder à pergunta da parede com calma, em cada visita. Trinta e uma vezes em três meses dão pouco mais de cinco horas. Em oito anos, algo perto de cento e sessenta horas dedicadas à mesma explicação, dada a uma pessoa por vez. Uma peça bem feita sobre o assunto levaria uma hora para ser preparada e poderia ser ouvida por centenas de pessoas antes de elas chegarem à primeira visita.
 
 ## Três respostas para a mesma pergunta
 
@@ -62,24 +62,24 @@ A resposta literal do Caio era a que ele dava nas visitas: depende de a parede s
 
 A resposta crítica era a que ele só dava quando tinha tempo. A pergunta "dá para derrubar?" presume que o único risco é a parede cair. Numa parede de apartamento antigo, o que mais dá problema costuma estar dentro dela: o cano de gás, a prumada de água do prédio inteiro, a fiação que ninguém mapeou. Por isso a pergunta que Caio queria que o cliente fizesse era outra: "O que passa dentro dessa parede, e quem responde por ela?"
 
-Nem toda pergunta tem os três níveis, e não é preciso forçá-los. Algumas dúvidas só têm resposta literal, porque são informação pura, e tudo bem publicá-las assim de vez em quando. O nível estrutural rende mais quando a dúvida nasce de um equívoco que se espalhou, como os do capítulo 2. O crítico só existe quando há uma pergunta melhor escondida atrás da que foi feita, e é o que mais trabalho dá. Por isso vale guardá-lo para as perguntas que você mais ouve.
+Nem toda pergunta tem os três níveis, e não é preciso forçá-los. Algumas dúvidas só têm resposta literal, porque são informação pura, e tudo bem publicá-las assim de vez em quando. O nível estrutural rende mais quando a dúvida nasce de um equívoco que se espalhou, como os do capítulo 2. O crítico só existe quando há uma pergunta melhor escondida atrás da que foi feita, e é o que mais trabalho dá. Guarde-o para as perguntas que você mais ouve.
 
 ```exemplo
 titulo: A mesma pergunta, no primeiro e no terceiro nível
 comum: Uma dentista responde à pergunta "preciso mesmo usar fio dental?". "Sim. O fio dental remove a placa bacteriana entre os dentes, onde a escova não alcança, e ajuda a prevenir cáries e doenças gengivais."
-singular: A mesma dentista, no nível crítico. "Essa pergunta costuma vir de quem usa o fio e vê a gengiva sangrar, e conclui que está machucando. Quase sempre é o contrário: sangra porque está inflamada, e está inflamada porque o fio não passou ali por semanas. A pergunta que eu gostaria que você fizesse é outra: onde a sua gengiva sangra? É ali que a escova não está chegando."
+singular: A mesma dentista, no nível crítico. "Essa pergunta costuma vir de quem usa o fio e vê a gengiva sangrar, e conclui que está machucando. Quase sempre é o contrário: sangra porque está inflamada, e está inflamada porque o fio não passou ali por semanas. A pergunta que eu gostaria que você fizesse é outra: onde a sua gengiva sangra? É ali que o fio não está chegando."
 porque: A primeira resposta está correta e poderia estar num folheto. A segunda muda o critério de quem pergunta, e a pessoa sai sabendo observar a própria boca. É esse tipo de resposta que alguém repete a outra pessoa.
 ```
 
 ## A linha que faltava
 
-Ao escrever a resposta crítica no caderno, Caio percebeu que tinha, afinal, uma posição. Havia oito anos que ele se recusava a mandar derrubar qualquer parede sem que um responsável técnico assinasse a obra e o síndico recebesse o plano de reforma antes do primeiro golpe de marreta, como pede a norma de reformas em edificações. Nunca tinha pensado nisso como opinião, porque para ele era só o jeito certo de trabalhar.
+Ao escrever a resposta crítica no caderno, Caio notou uma coisa que fazia em quase toda visita e nunca tinha escrito. Depois de explicar o que passava dentro da parede, ele quase sempre propunha não derrubar: meia parede com bancada, uma porta de correr, uma abertura larga que deixasse a luz passar e segurasse o cheiro. Nos apartamentos dos anos 1970, com cozinha pequena e fogão encostado na parede, a integração total costumava trocar um problema de fotografia por três de uso: o cheiro da fritura na sala, o barulho da máquina na hora da televisão, o gás mais perto do sofá.
 
-A recusa tinha um custo, e ele sabia exatamente qual. No ano anterior, um cliente quis derrubar a parede da cozinha num fim de semana, com um pedreiro de confiança, para economizar o laudo e o prazo do condomínio. Caio disse que não participaria. O cliente contratou o pedreiro, a parede caiu no sábado, e na segunda-feira o vizinho de baixo tinha uma mancha de água no teto. Caio perdeu o projeto e não ganhou nada com ter tido razão.
+Era uma posição, e desta vez ela tinha um preço que ele podia ver na mesa. O casal do Taquaral queria a cozinha das fotos, sem parede nenhuma. Se Caio dissesse o que pensava, havia uma boa chance de perder o projeto para quem fizesse a foto sem discutir. Até ali, nenhuma frase dele sobre paredes e pisos tinha custado nada, porque todo cliente que a ouvira concordara. Esta, não.
 
-Era a linha que tinha ficado em aberto no enunciado do capítulo 12. Caio a escreveu a lápis por cima de "em aberto": eu defendo que nenhuma parede sai sem alguém que responda por ela, mesmo perdendo o cliente que prefere o pedreiro do fim de semana. Não inventou a posição para completar a frase. Ela apareceu quando uma pergunta que ele ouvia toda semana o obrigou a dizer o que fazia e por quê.
+Era a linha que tinha ficado em aberto no enunciado. Caio a escreveu a lápis por cima de "em aberto": eu defendo que nem toda parede que pode sair deve sair, e em apartamento antigo quase nunca a da cozinha, mesmo perdendo o cliente que chega com a pasta de recortes. Não inventou a posição para completar a frase. Ela apareceu quando uma pergunta que ele ouvia toda semana o obrigou a escrever o que fazia e por quê.
 
-O capítulo 10 mostrou que as opiniões de verdade já existem na rotina, esperando para ser escritas. A pergunta recorrente é um dos lugares onde elas mais se escondem, porque a resposta que você dá há anos carrega junto as suas recusas. Vale reler as respostas de nível crítico do seu inventário procurando isso: onde, ao responder, você diz o que não faria.
+O capítulo 10 mostrou que as opiniões de verdade já existem na rotina, esperando para ser escritas. A pergunta recorrente é um dos lugares onde elas mais se escondem, porque a resposta que você dá há anos carrega junto as suas recusas. Releia as respostas de nível crítico do seu inventário procurando isso: onde, ao responder, você diz o que não faria.
 
 ## O estoque
 
@@ -95,24 +95,24 @@ unidade: peças disponíveis, a uma peça por semana
 labels: ["S0", "S13", "S26", "S39", "S52"]
 x: [0, 13, 26, 39, 52]
 series:
-  - {nome: "Só as 19 perguntas", pontos: [57, 44, 31, 18, 5]}
-  - {nome: "Com o caderno de campo", pontos: [57, 50, 44, 37, 31], destaque: true}
-legenda: Esquema ilustrativo, feito só com aritmética. Dezenove perguntas em três níveis sustentam um ano de publicação; com o caderno de campo acrescentando uma pergunta a cada duas semanas, o estoque se esgota bem mais devagar.
+  - {nome: "Só as 19 perguntas: sobram 5", pontos: [57, 44, 31, 18, 5]}
+  - {nome: "Com o caderno de campo: sobram 31", pontos: [57, 50, 44, 37, 31], destaque: true}
+legenda: Esquema ilustrativo, feito só com aritmética. Dezenove perguntas em três níveis dão até 57 peças, e sustentam um ano a uma peça por semana. Se o caderno acrescenta uma pergunta nova a cada duas semanas, e cada uma rende ao menos uma peça, o estoque cai pela metade da velocidade.
 ```
 
-A conta é simples. Dezenove perguntas em três níveis dão cinquenta e sete peças. A uma peça por semana, o ritmo que Caio tinha calculado para o pior mês, o inventário dura mais de um ano. E o caderno de campo não para de trabalhar: toda semana aparece uma pergunta nova, ou uma variação de uma antiga, e o estoque se renova antes de acabar.
+A conta é simples. Dezenove perguntas em três níveis dão até cinquenta e sete peças. A uma peça por semana, o ritmo que Caio tinha calculado para o pior mês, o inventário dura mais de um ano. E o caderno de campo não para de trabalhar: a cada duas semanas aparece uma pergunta nova, ou uma variação de uma antiga, que rende ao menos uma peça, e o estoque se renova antes de acabar.
 
-A ordem do inventário importa pouco, mas dois cuidados ajudam. O primeiro é começar pelas perguntas que mais aparecem, porque são as que mais gente tem e as que você responde melhor. O segundo é alternar os níveis, para que a sequência não vire uma série de correções. Uma semana literal, outra crítica, e o leitor percebe que você tanto responde quanto questiona.
+Caio pôs no topo as que mais apareciam no caderno, porque são as que mais gente tem e as que ele responde melhor, e alternou os níveis: uma semana a resposta direta, na outra a pergunta certa, para que a sequência não virasse uma série de correções. Quem acompanha percebe que ele tanto responde quanto questiona.
 
-Os outros três personagens montaram inventários de tamanhos diferentes. Renata chegou a vinte e três perguntas numa tarde, quase todas sobre dor e movimento, e reconheceu nelas o repertório do capítulo 9. Otávio achou catorze relendo os e-mails de clientes do último semestre, cada uma com a data em que tinha aparecido pela primeira vez. A mais antiga estava num e-mail de onze anos atrás, e ele ainda a respondia do mesmo jeito. Lúcia pediu à amiga que lembrasse as perguntas que ela mesma já tinha feito no grupo de estudos, e a lista saiu da conversa.
+Os outros três montaram inventários de tamanhos diferentes. Renata gravou as dela no carro, uma por áudio, e chegou a vinte e três, quase todas sobre dor e movimento, e reconheceu nelas o repertório do capítulo 9. Otávio achou catorze relendo os e-mails de clientes do último semestre, cada uma com a data em que tinha aparecido pela primeira vez, e completou dezessete na semana seguinte. A mais antiga estava num e-mail de onze anos atrás, e ele ainda a respondia do mesmo jeito. Lúcia pediu à amiga que lesse em voz alta as crenças anotadas no caderno de campo e, para cada uma, perguntasse: como o paciente diz isso? A lista saiu das respostas, com as palavras de quem chega ao consultório, e sem nenhum nome.
 
-O inventário resolve também o problema com que o capítulo 6 começou, o da tela em branco na hora reservada para criar. Quem tem um inventário não precisa ter ideias. Precisa abrir o caderno, escolher a pergunta da semana e decidir em que nível vai respondê-la. É uma decisão de dois minutos, e ela tira da rotina a parte que mais trava quem está começando.
+O inventário resolve também a cena que o capítulo 6 descreveu: o horário reservado, o celular aberto e nenhuma ideia. Quem tem um inventário não precisa ter ideias. Precisa abrir o caderno, escolher a pergunta da semana e decidir em que nível vai respondê-la. É uma decisão de dois minutos, e ela tira da rotina a parte que mais trava quem está começando.
 
-Na semana seguinte, Caio gravou a resposta crítica sobre a parede, no corredor vazio de uma obra, com a autorização do proprietário e o celular apoiado num cavalete. Começou como sempre: "Teve uma obra…". Contou a história da mancha no teto do vizinho, sem dizer onde nem de quem. Terminou com a pergunta que queria que as pessoas fizessem. No sábado, um casal chegou a outra visita e, antes que ele dissesse qualquer coisa, a mulher avisou: "Eu sei que não é para perguntar se dá para derrubar. Quero saber o que passa dentro dessa parede."
+Na segunda seguinte, Caio mandou ao casal do Taquaral o orçamento com duas opções: a parede inteira fora, como na pasta, e uma abertura larga com bancada, que ele recomendava, com três linhas explicando por quê. Não escondeu a posição, e não recusou a primeira opção, que era legítima. Na mesma noite, abriu o caderno na página das dezenove perguntas e marcou a primeira para quinta: dá para derrubar essa parede? Ao lado, anotou o nível: crítico. O casal ainda não tinha respondido.
 
 ```guardar
 - A pergunta que você responde toda semana é a única pauta que chega com a demanda comprovada.
-- A facilidade com que você responde é sinal de que a resposta está madura, e não de que ela vale pouco.
+- A facilidade com que você responde é sinal de que a resposta está madura.
 - Uma pergunta rende três peças. A literal informa, a estrutural explica, a crítica troca o critério de quem pergunta.
 ```
 
@@ -123,8 +123,8 @@ tempo: 35
 entrega: Quinze perguntas recorrentes com as palavras de quem perguntou, e uma delas respondida nos três níveis.
 campos:
   - rotulo: "Quinze perguntas que você ouve com frequência, com as palavras de quem perguntou"
-    exemplo: "Use o caderno de campo, as mensagens dos últimos meses e a memória das consultas. Uma por linha, sem traduzir para o jargão da sua área."
-    linhas: 10
+    exemplo: "Use o caderno de campo, as mensagens dos últimos meses e a memória das consultas. Uma por linha, sem traduzir para o jargão da sua área. Na última linha, anote onde esta lista vai morar."
+    linhas: 15
   - rotulo: "A pergunta que você vai desenvolver hoje"
     exemplo: "Escolha a que você mais responde, e não a mais interessante."
     linhas: 1
@@ -133,10 +133,10 @@ campos:
     linhas: 3
   - rotulo: "Nível 2: por que essa dúvida existe"
     exemplo: "O que na informação disponível, na experiência das pessoas ou no seu mercado gera essa pergunta."
-    linhas: 3
+    linhas: 4
   - rotulo: "Nível 3: o que a pergunta deixa de fora, e qual seria a pergunta certa"
     exemplo: "Uma corretora de seguros: “Não é ‘quanto custa o seguro do carro’. É ‘o que o meu seguro não cobre’.”"
-    linhas: 3
+    linhas: 4
 criterios:
   - São quinze ou mais, e nenhuma foi cortada por parecer básica.
   - As perguntas estão com as palavras de quem perguntou, sem tradução para o jargão.
@@ -162,7 +162,7 @@ esqueleto:
   - {rotulo: "A pergunta", texto: "Com as palavras de quem pergunta, entre aspas, na primeira linha.", linhas: 2}
   - {rotulo: "Por que ela faz sentido", texto: "De onde vem a dúvida, dita com respeito por quem a tem.", linhas: 3}
   - {rotulo: "O que ela deixa de fora", texto: "A variável que quase ninguém menciona.", linhas: 3}
-  - {rotulo: "A pergunta certa", texto: "E o critério para respondê-la, que a pessoa pode usar sozinha.", linhas: 2}
+  - {rotulo: "A pergunta certa", texto: "O critério para respondê-la, que a pessoa pode usar sozinha.", linhas: 2}
 roteiro: |
   A pergunta que eu mais ouço é esta: {a pergunta, com as palavras de quem pergunta}
 
@@ -193,7 +193,7 @@ roteiro_nota: Uma pergunta por peça. Em saúde, direito e finanças, a pergunta
   explicacao: A facilidade indica o oposto: a resposta está madura, refinada por centenas de repetições, e é mais clara do que a de quem responde pouco.
 - pergunta: O que caracteriza a resposta de nível crítico?
   opcoes:
-    - Ela propõe uma pergunta melhor.
+    - Ela troca a pergunta feita por outra, mais útil para quem perguntou.
     - Ela responde de forma direta ao que foi perguntado.
     - Ela explica por que a dúvida surge para tanta gente.
     - Ela reúne várias perguntas parecidas numa peça só.
@@ -204,15 +204,15 @@ roteiro_nota: Uma pergunta por peça. Em saúde, direito e finanças, a pergunta
     - Escolhendo a opinião que mais gerava discussão na área.
     - Copiando a posição de um arquiteto que admirava.
     - Perguntando aos clientes o que eles esperavam dele.
-    - Percebendo o que sempre recusava.
+    - Percebendo, na própria resposta, o que ele sempre desaconselhava.
   correta: 3
-  explicacao: A posição apareceu na resposta crítica: ele nunca derruba parede sem responsável técnico e aviso ao condomínio, e já perdeu cliente por isso. Não precisou ser inventada.
+  explicacao: A posição apareceu na resposta crítica: nem toda parede que pode sair deve sair, e ela tem um preço visível, o cliente que chega com a pasta de recortes. Não precisou ser inventada.
 ```
 
 ```aplicacao
 itens:
   - {rotulo: "Listei quinze ou mais perguntas recorrentes", ajuda: "Com as palavras de quem perguntou (campo 01).", pontos: 3}
   - {rotulo: "Respondi uma delas nos três níveis", ajuda: "Literal, estrutural e crítico, separados (campos 03 a 05).", pontos: 3}
-  - {rotulo: "Não descartei nenhuma por parecer básica", ajuda: "As básicas costumam ser as que mais gente tem.", pontos: 2}
+  - {rotulo: "Não descartei nenhuma por parecer básica", ajuda: "As básicas são as que eu respondo com mais frequência.", pontos: 2}
   - {rotulo: "Guardei o inventário onde eu produzo", ajuda: "A lista está no caderno de campo, e não só na memória.", pontos: 2}
 ```

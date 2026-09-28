@@ -12,9 +12,9 @@ A paciente das cinco da tarde chegou numa quinta-feira de maio e começou a sess
 
 Lúcia já tinha ouvido versões dessa história muitas vezes, de pacientes diferentes, com outros sinais e outros horários. Nunca tinha ouvido uma descrição tão precisa. Anotou a imagem no caderno de sessão, como faz com tudo o que é importante para o trabalho clínico, e passou o resto da tarde com ela na cabeça.
 
-Lúcia tem dois cadernos, e nunca os mistura. O de sessão fica trancado na gaveta do consultório e guarda o que pertence a cada paciente. O de campo, que ela passou a usar quando a nota no celular ficou pequena, fica na bolsa e guarda crenças, perguntas e padrões, sempre sem nome, nunca um episódio. Até aquela quinta-feira, a fronteira tinha sido fácil de manter: o que atravessava era a crença que o paciente trazia de fora, nunca o que ele vivia dentro da sala. Agora havia uma coisa de dentro que pedia para atravessar.
+Lúcia tem dois cadernos, e nunca os mistura. O de sessão fica trancado na gaveta do consultório e guarda o que pertence a cada paciente. O de campo, que substituiu a nota no celular quando a lista passou de cem linhas, fica na bolsa e guarda crenças, perguntas e padrões, sempre sem nome, nunca um episódio. Até aquela quinta-feira, a fronteira tinha sido fácil de manter: o que atravessava era a crença que o paciente trazia de fora, nunca o que ele vivia dentro da sala. Agora havia uma coisa de dentro que pedia para atravessar.
 
-À noite, em casa, sentiu a vontade de escrever sobre aquilo. Era exatamente o tipo de assunto que valia uma peça: uma experiência comum, pouco nomeada, que muita gente vive sem saber que tem nome e sem saber que pode ser trabalhada. E era, ao mesmo tempo, o tipo de coisa que ela nunca tinha publicado, por uma regra que se impôs no dia em que decidiu sair do silêncio: nenhuma cena de sessão, só as crenças que chegam com os pacientes.
+À noite, em casa, sentiu a vontade de escrever sobre aquilo. Era o tipo de assunto que valia uma peça: uma experiência comum, pouco nomeada, que muita gente vive sem saber que tem nome e sem saber que pode ser trabalhada. E era, ao mesmo tempo, o tipo de coisa que ela nunca tinha publicado, por uma regra que se impôs no dia em que decidiu sair do silêncio: nenhuma cena de sessão, só as crenças que chegam com os pacientes.
 
 Abriu o celular, escreveu duas linhas e apagou. Escreveu de novo, com outras palavras, e apagou outra vez. Cada versão tinha um detalhe que podia apontar para a paciente das cinco da tarde. Cada versão sem esses detalhes parecia genérica demais para valer a pena. Foi dormir sem publicar nada, com a sensação de que estava diante de uma escolha impossível: expor alguém ou dizer uma coisa óbvia.
 
@@ -22,18 +22,18 @@ Abriu o celular, escreveu duas linhas e apagou. Escreveu de novo, com outras pal
 
 A escolha parecia impossível porque Lúcia estava tentando fazer as duas coisas numa etapa só. Estava pegando a sessão inteira e tentando transformá-la diretamente numa peça. É o que a expressão "criar conteúdo" faz pensar: algo que sai pronto, de uma vez, da cabeça para a tela.
 
-O nome atrapalha. "Criar" sugere partir do nada, inventar um assunto, construir um exemplo, achar um ângulo. Custa caro e costuma sair genérico, porque o que se inventa tende a se parecer com o que todo mundo inventa. "Traduzir" sugere outra coisa: a matéria já existe, aconteceu na sua semana, e o trabalho é convertê-la de uma língua para outra. Da língua da sala, onde há uma pessoa específica, para a língua pública, onde há muitas pessoas que se reconhecem.
+O nome atrapalha. "Criar" sugere partir do nada, inventar um assunto, construir um exemplo, achar um ângulo. Custa caro e sai genérico com facilidade, porque o que se inventa se parece com o que já foi inventado. "Traduzir" sugere outra coisa: a matéria já existe, aconteceu na sua semana, e o trabalho é convertê-la de uma língua para outra. Da língua da sala, onde há uma pessoa específica, para a língua pública, onde há muitas pessoas que se reconhecem.
 
-Lúcia tinha os números para comparar, porque cronometrava as peças desde janeiro. As peças que partiam de algo que tinha acontecido, uma pergunta real da amiga ou uma crença anotada no caderno, custavam em torno de setenta minutos. Numa semana sem pergunta, tentou escrever do zero um texto sobre ansiedade no trabalho, e depois de três horas não tinha terminado. O texto do zero estava correto e não tinha nada que fosse dela.
+Lúcia tinha os números para comparar, porque cronometrava as peças desde janeiro. As peças que partiam de uma crença anotada no caderno, trazida por algum paciente, tinham caído para menos de uma hora desde março. Numa semana em que nem a amiga nem a lista trouxeram nada, tentou escrever do zero um texto sobre ansiedade no trabalho, e depois de três horas não tinha terminado. O texto do zero estava correto e não tinha nada que fosse dela.
 
-A diferença de custo não vem da velocidade de escrever. Vem de onde está o trabalho. Quem cria do zero gasta a maior parte do tempo procurando: um assunto, um exemplo, um ângulo que ainda não tenha sido usado. Quem traduz tem tudo isso na mão, porque o episódio trouxe o assunto, o exemplo e o ângulo juntos. O esforço vai para outra coisa, as quatro operações que convertem o episódio sem expor ninguém, e é um esforço que se aprende e fica mais rápido com o tempo.
+A diferença de custo está em onde fica o trabalho. Quem cria do zero gasta a maior parte do tempo procurando: um assunto, um exemplo, um ângulo que ainda não tenha sido usado. Quem traduz tem tudo isso na mão, porque o episódio trouxe o assunto, o exemplo e o ângulo juntos. O esforço vai para outra coisa, as quatro operações que convertem o episódio sem expor ninguém, e é um esforço que se aprende e fica mais rápido com o tempo.
 
 ```figura
 tipo: barras
 titulo: O custo de uma peça, conforme a origem
 unidade: minutos de trabalho por peça, medidos pela Lúcia
 series:
-  - {rotulo: "Partindo de algo que aconteceu: 72 min", valor: 72, nota: "O detalhe já existe. O trabalho é converter."}
+  - {rotulo: "Partindo de uma crença anotada: 55 min", valor: 55, nota: "O detalhe já existe. O trabalho é converter."}
   - {rotulo: "Criada do zero: 180 min, sem terminar", valor: 180, nota: "Três horas, e o texto não ficou pronto. Inventar contexto e exemplo custa mais, e sai genérico."}
 legenda: Os números são da Lúcia, e não uma regra. O seu caderno de cronometragem, do capítulo 8, mostra os seus.
 ```
@@ -58,7 +58,9 @@ nos:
   - {rotulo: "Devolver", nota: "Entregar o critério que quem lê pode usar sozinho, mesmo sem nunca procurar você."}
 ```
 
-Na sexta de manhã, Lúcia fez as quatro operações no papel, uma de cada vez, sem tentar escrever a peça. A primeira foi fácil: uma pessoa sente um aperto que começa no domingo à tarde. Isolar é isso, dizer o que aconteceu numa frase curta, antes de qualquer interpretação.
+Na sexta de manhã, fez o que faz quando precisa pensar: pediu à amiga do grupo de estudos que lhe mandasse quatro perguntas, sem saber do caso. O que aconteceu, numa frase? O que disso é só daquela pessoa? Do que isso é exemplo? O que alguém faria com isso sozinho? Lúcia respondeu cada uma por escrito, no papel, sem tentar escrever a peça.
+
+A primeira foi fácil: uma pessoa sente um aperto que começa no domingo à tarde. Isolar é isso, dizer o que aconteceu numa frase curta, antes de qualquer interpretação.
 
 Tabela: O domingo, operação por operação
 
@@ -66,7 +68,7 @@ Tabela: O domingo, operação por operação
 |---|---|---|
 | Bruto | A frase da paciente, com o cheiro do ferro de passar | Anotou no caderno de sessão, onde fica |
 | Isolado | Uma pessoa sente um aperto que começa no domingo à tarde | Descreveu o fato, sem interpretar |
-| Despersonalizado | Algumas pessoas sentem o domingo acabar antes da hora, no fim da tarde | Tirou horário exato, mãe, ferro e a frase literal |
+| Despersonalizado | Alguém sente um aperto que começa no domingo, no fim da tarde | Tirou horário exato, mãe, ferro e a frase literal |
 | Generalizado | O aperto é maior em quem descansou bem no sábado: é a perda do descanso chegando antes | Perguntou do que aquilo era exemplo e juntou outros dois casos |
 | Devolvido | “O que exatamente você está antecipando?” | Entregou uma pergunta que a pessoa usa sozinha |
 
@@ -74,12 +76,12 @@ A segunda foi a que mais tempo levou, e a que ensinou mais. Lúcia listou tudo o
 
 A terceira operação foi a que transformou o texto. Lúcia se perguntou do que aquele domingo era exemplo, e encontrou a resposta no próprio repertório, num detalhe que o senso comum não diz: o aperto costuma ser maior em quem descansou bem no sábado. O que chega antes da hora é a perda do descanso, mais do que o medo do trabalho. Juntou a paciente das cinco da tarde a outras duas, de anos diferentes, que tinham descrito o mesmo fenômeno com outras palavras. O caso passou a ser composto, feito de três, e o padrão ficou mais verdadeiro do que qualquer um deles sozinho.
 
-A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta que ajuda a pessoa a observar o próprio domingo: o que exatamente você está antecipando? A tarefa da segunda-feira, a conversa com alguém, a sensação de não ter descansado? Nomear o que se antecipa, escreveu, às vezes diminui o tamanho do aperto, e ajuda a decidir se vale procurar ajuda.
+A quarta operação foi devolver alguma coisa a quem lê. Lúcia não podia, nem queria, fazer terapia por escrito. Podia oferecer uma pergunta que ajuda a pessoa a observar o próprio domingo: o que exatamente você está antecipando, o que vem na segunda ou o que acaba no domingo? Nomear o que se perde, escreveu, às vezes diminui o tamanho do aperto, e ajuda a decidir se vale procurar ajuda.
 
 
 ## A linha que não se cruza
 
-Uma parte grande de quem lê este livro trabalha sob sigilo profissional: profissionais de saúde, advogados, psicólogos, contadores. O sigilo não impede a tradução; fecha o atalho de publicar o caso como ele aconteceu, com o nome trocado e mais nada.
+Uma parte grande de quem lê este livro trabalha sob sigilo profissional: profissionais de saúde, advogados, psicólogos, contadores. O sigilo fecha um atalho, o de publicar o caso como ele aconteceu, com o nome trocado e mais nada. A tradução continua aberta.
 
 ```compara
 esquerda:
@@ -100,71 +102,72 @@ direita:
 
 O caso composto é a técnica mais útil para quem trabalha com sigilo, e é honesta, desde que dita como tal. Não é ficção: nenhum dos elementos foi inventado. É agregação. A pessoa descrita não existe, mas cada pedaço dela aconteceu com alguém, e o padrão que ela mostra é mais verdadeiro do que o de qualquer caso isolado. Diga a quem lê que está juntando situações parecidas, e faça isso na primeira linha; essa frase, por si mesma, tranquiliza quem se reconheceria. Numa cidade pequena ou num caso raro, nem o caso composto basta; aí a saída é esperar ou escolher outro caso.
 
-A regra mais importante cabe numa linha: a frase mais bonita da sessão é, quase sempre, a que mais identifica. Ela é bonita porque é particular, e é particular porque é da pessoa. Lúcia cortou o cheiro do ferro com pena, e fez bem. Se a paciente lesse o texto, se reconheceria no domingo, como milhares de outras pessoas, mas não se veria exposta.
+A frase mais bonita da sessão é, quase sempre, a que mais identifica. Ela é bonita porque é particular, e é particular porque é da pessoa. Lúcia cortou o cheiro do ferro com pena, e fez bem. Se a paciente lesse o texto, se reconheceria no domingo, como milhares de outras pessoas, mas não se veria exposta.
 
 Há quem resolva o problema pedindo autorização ao paciente ou ao cliente. Às vezes é o caminho certo, sobretudo quando se trata de uma imagem ou de um depoimento, e a autorização precisa ser escrita e específica para aquela publicação. Mas pese o que o pedido significa para quem o recebe. Numa relação de cuidado, dizer não ao profissional que cuida de você é difícil, e a autorização dada nessas condições pode não ser tão livre quanto parece. Lúcia nunca pede. Prefere o caso composto, que dispensa a pergunta.
 
-O sigilo não é assunto só da saúde. Otávio, no capítulo 4, trocou o nome de um cliente de Caruaru num áudio que gravou só para si, e fez bem em não publicá-lo: numa cidade do tamanho de Caruaru, o tipo de empresa e o tipo de problema bastariam para alguém reconhecer o caso. Contadores, consultores, arquitetos e corretores também trabalham com informações que o cliente não autorizou a divulgar, mesmo quando nenhuma lei fala em sigilo.
+O sigilo não é assunto só da saúde. Otávio, no capítulo 4, trocou o nome de um cliente de Caruaru num áudio que gravou só para si. Se um dia quiser publicar aquele exemplo, trocar o nome não vai bastar: numa cidade do tamanho de Caruaru, o tipo de empresa e o tipo de problema bastariam para alguém reconhecer o caso. Contadores, consultores, arquitetos e corretores também trabalham com informações que o cliente não autorizou a divulgar, mesmo quando nenhuma lei fala em sigilo.
 
-Cada profissão regulamentada tem um código que trata disso, leia o seu antes de publicar qualquer peça que parta de um atendimento. Desloque também a data da publicação: nunca na semana do atendimento, e de preferência só quando o mesmo assunto tiver aparecido com outra pessoa. Em caso de dúvida, a resposta é não publicar aquele caso e procurar outro, ou esperar até que ele se torne um padrão.
+Cada profissão regulamentada tem um código que trata disso; leia o seu antes de publicar qualquer peça que parta de um atendimento. Desloque também a data da publicação: nunca na semana do atendimento, nem na semana de qualquer atendimento recente sobre o mesmo assunto. Em caso de dúvida, a resposta é não publicar aquele caso e procurar outro, ou esperar até que ele se torne um padrão.
 
 ## Do que isso é exemplo
 
 Das quatro operações, a mais esquecida é a terceira. Quem isola, despersonaliza e devolve, mas não generaliza, publica um caso interessante que serve para uma pessoa só: a que o viveu. Parece uma anedota profissional, contada para mostrar competência, e soa vagamente como fofoca, mesmo quando ninguém é identificável.
 
-Generalizar é perguntar do que aquilo é exemplo, e responder com um tamanho certo. Pequeno demais, e o padrão continua sendo o caso. Grande demais, e vira obviedade: "ansiedade é comum" não diz nada a ninguém. O tamanho certo é o de um padrão que você reconhece por ter visto muitas vezes, e que quem lê talvez nunca tenha ouvido dito em voz alta. A angústia do domingo à tarde tem esse tamanho. Um teste rápido ajuda a calibrar: se o padrão caberia num horóscopo, está grande demais; se só faz sentido para quem estava na sala, está pequeno demais.
+Generalizar é perguntar do que aquilo é exemplo, e responder com um tamanho certo. Pequeno demais, e o padrão continua sendo o caso. Grande demais, e vira obviedade: "ansiedade é comum" não diz nada a ninguém. O tamanho certo é o de um padrão que você reconhece por ter visto muitas vezes, e que quem lê talvez nunca tenha ouvido dito em voz alta. A angústia do domingo à tarde tem esse tamanho. Para calibrar: se o padrão caberia num horóscopo, está grande demais; se só faz sentido para quem estava na sala, está pequeno demais.
 
-Os outros personagens fazem a mesma operação nos seus ofícios. Otávio transforma a demissão mal documentada de um cliente numa lição, guardada no caderno, sobre o que acontece com toda advertência escrita às pressas: ela quase sempre existe, e quase sempre tem a data errada. O cliente some; fica aquilo de que ele foi exemplo, e é isso que interessa a um empresário que nunca vai conhecer o caso.
+Otávio faz a mesma operação no ofício dele. Transforma a demissão mal documentada de um cliente numa lição, guardada no caderno, sobre o que acontece com toda advertência escrita às pressas: ela quase sempre existe, e quase sempre tem a data errada. O cliente some; fica aquilo de que ele foi exemplo, e é isso que interessa a um empresário que nunca vai conhecer o caso.
 
 ## A espera
 
 Com as quatro operações prontas, Lúcia não publicou. Guardou a folha dentro do caderno de campo e esperou. A paciente das cinco da tarde tinha falado do domingo naquela semana; um texto sobre o domingo cinco dias depois seria um recado, por mais limpo que estivesse, e ela se reconheceria não pelos detalhes, que tinham saído, mas pela data. A regra do deslocamento vale também para o calendário.
 
-Em julho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Só então Lúcia tirou a folha do caderno e escreveu a peça, numa terça às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha doze linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
+No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Lúcia anotou a data e esperou mais quatro semanas; agora eram duas pessoas que não podiam receber o texto como recado. Publicou na última terça de julho, às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha doze linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
 
-Uma delas dizia que a pessoa tinha lido o texto num domingo, às cinco da tarde, e que pela primeira vez tinha conseguido dizer o que antecipava: o fim do único dia em que ninguém lhe pedia nada. Lúcia guardou a resposta no caderno, sem nome, como matéria para uma próxima tradução. O cheiro do ferro continuava no caderno trancado, onde pertencia.
+Uma delas dizia que a pessoa tinha lido o texto num domingo, no fim da tarde, e que pela primeira vez tinha conseguido dizer o que antecipava: o fim do único dia em que ninguém lhe pedia nada. Lúcia guardou a resposta no caderno, sem nome, como matéria para uma próxima tradução. O cheiro do ferro continuava no caderno trancado, onde pertencia.
 
 ```guardar
-- Você não cria conteúdo do nada. Você traduz o que já aconteceu na sua prática, e traduzir custa muito menos.
+- Você não cria conteúdo do nada. Você traduz o que já aconteceu na sua prática, e o episódio já traz o assunto, o exemplo e o ângulo.
 - As quatro operações, sempre nesta ordem, são isolar, despersonalizar, generalizar e devolver. A mais esquecida é a de generalizar.
 - A frase mais bonita do atendimento é quase sempre a que mais identifica. O caso composto resolve o sigilo e deixa o padrão mais verdadeiro.
 ```
 
 ```oficina
 titulo: A sua primeira tradução completa
-objetivo: Executar as quatro operações num episódio real da sua semana e chegar a uma peça que você possa publicar sem expor ninguém.
+objetivo: Executar as quatro operações num episódio real da sua prática, de preferência de semanas ou meses atrás, e chegar a uma peça que ninguém reconheça como o seu caso.
 tempo: 45
 tempo_nota: mais o tempo de passar a peça a limpo
 entrega: Um episódio traduzido nas quatro etapas, conferido contra a lista do sigilo e montado na sua voz.
 campos:
   - rotulo: "Isolar: o fato bruto, numa frase, sem interpretação"
-    exemplo: "Uma veterinária: “Um tutor chorou quando eu disse que a cirurgia do cachorro velho era possível.”"
+    exemplo: "Uma fonoaudióloga: “Uma mãe chorou quando eu disse que o filho de quatro anos ia, sim, falar.”"
     linhas: 2
   - rotulo: "Despersonalizar: marque o que você tirou"
     grade:
       colunas: ["Tirei", "Não havia"]
       linhas: ["Nome", "Idade exata", "Profissão", "Bairro ou cidade", "Data ou dia da semana", "A frase literal", "Detalhe único do caso"]
   - rotulo: "O mesmo fato, agora sem nada que identifique alguém"
-    exemplo: "“Há alguns anos, alguém ouviu de mim que um tratamento considerado impossível era possível, e chorou de alívio.”"
+    exemplo: "“Há alguns anos, uma mãe ouviu de mim que o filho ia falar, e chorou de alívio.”"
     linhas: 2
   - rotulo: "Generalizar: do que isso é exemplo?"
-    exemplo: "Nem pequeno demais, nem óbvio. A veterinária: “Tutores de cães idosos costumam decidir pela idade do animal, e não pelo exame.”"
+    exemplo: "Nem pequeno demais, nem óbvio. A fonoaudióloga: “Pais de crianças com atraso de fala esperam a escola para agir.”"
     linhas: 3
   - rotulo: "Devolver: o critério que a pessoa leva, mesmo sem procurar você"
-    exemplo: "“Antes de decidir pela idade do animal, pergunte o que, no exame dele, torna a cirurgia arriscada.”"
+    exemplo: "“Antes de esperar pelo ano que vem, observe se ele entende o que você pede sem gesto.”"
     linhas: 3
   - rotulo: "A peça montada, na sua voz"
-    exemplo: "Junte as quatro partes do jeito que você falaria. Leia em voz alta antes de passar a limpo."
+    exemplo: "Junte as quatro partes no seu modo: falando, escrevendo, respondendo ou contando. Leia em voz alta antes de passar a limpo."
     linhas: 7
 criterios:
-  - Nenhuma combinação de detalhes do campo 06 permite reconhecer alguém, nem a própria pessoa.
+  - Nenhuma combinação de detalhes do campo 06 permite reconhecer alguém, nem que a própria pessoa se veja como o caso.
   - O padrão do campo 04 é maior que o caso e menor que uma obviedade.
   - O critério do campo 05 serve a quem nunca vai procurar você.
+  - O episódio não é desta semana, ou a folha ficou guardada com a data em que pode sair.
 ```
 
 ```rede
 titulo: O caso que vira padrão
-intro: "Publique a peça da oficina. O assunto é o padrão da sua área; o caso é só a porta de entrada, e ninguém que o viveu pode ser reconhecido nele."
+intro: "Publique a peça da oficina quando o calendário permitir: se o episódio é recente, guarde a folha com a data em que ela pode sair. O assunto é o padrão da sua área; o caso é só a porta de entrada, e ninguém que o viveu pode ser reconhecido nele."
 regras:
   - {regra: "Desloque o tempo, sempre.", porque: "“Ontem” aponta para a agenda. “Há algum tempo” preserva a verdade e apaga o rastro."}
   - {regra: "Publique a dúvida, nunca o dono dela.", porque: "É a pergunta que faz as outras pessoas se reconhecerem. Quem perguntou não interessa a elas, e precisa ser protegido."}
@@ -208,7 +211,7 @@ faca_antes: true
     - Porque a imagem era longa demais para uma peça curta.
     - Porque a imagem era das outras duas pacientes.
     - Porque era a frase da paciente, e ela se reconheceria.
-    - Porque o código de ética proíbe citar familiares de pacientes.
+    - Porque o cheiro do ferro não tinha relação com o aperto.
   correta: 2
   explicacao: A frase mais bonita da sessão costuma ser a mais identificável, justamente por ser particular. A paciente se reconheceria no domingo como milhares de pessoas, mas não se veria exposta.
 - pergunta: O que é o caso composto?
@@ -234,5 +237,5 @@ itens:
   - {rotulo: "Fiz as quatro operações num episódio real", ajuda: "Isolar, despersonalizar, generalizar e devolver, nos campos 01 a 05.", pontos: 3}
   - {rotulo: "Conferi o sigilo item por item", ajuda: "Marquei a lista do campo 02; ninguém é reconhecível.", pontos: 3}
   - {rotulo: "Encontrei o padrão do caso", ajuda: "Não parei na anedota (campo 04).", pontos: 2}
-  - {rotulo: "Montei a peça na minha voz", ajuda: "Li em voz alta antes de passar a limpo (campo 06).", pontos: 2}
+  - {rotulo: "Entreguei um critério, e não só uma história", ajuda: "Quem lê leva uma pergunta ou um sinal para observar sozinho (campo 05).", pontos: 2}
 ```
