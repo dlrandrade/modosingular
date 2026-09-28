@@ -1,0 +1,83 @@
+capitulo: 28
+iteracao: 1
+notas: {metodo: 9.2, voz: 8.9, originalidade: 8.6, clareza: 8.8, ritmo: 8.9, concretude: 9.3,
+        coerencia: 7.8, aplicabilidade: 8.7, impresso: 8.6, honestidade: 8.9}
+bloqueadores:
+  - "Contradição com o método do próprio capítulo: o texto ensina que olhar os números com frequência maior que mensal é 'reagir a ruído' (figura 28.2 põe 'Toda semana' do lado 'Reage a ruído'), mas o personagem-modelo continua recebendo números toda semana: 'Otávio pediu a Sílvia que tirasse da planilha semanal as curtidas e o crescimento de seguidores, e pôs no lugar os salvamentos, os envios e as mensagens' e 'as conversas de sexta, mais úteis'. O caso-modelo tem de cumprir a regra que o capítulo prescreve: a planilha da agência passa a ser mensal, entregue na véspera da primeira segunda-feira."
+pontos_fortes:
+  - "A cena de abertura é das melhores da Fase V: a peça do São João com mil curtidas levada por uma página de humor e a peça das advertências com doze curtidas, e o detalhe de ofício que a sustenta ('Tinha a gaveta cheia de advertências, todas escritas na mesma tarde'; 'a frase sobre a mesma caneta e a mesma letra'). O quiasmo 'Os mil que curtiram não ligaram. Os três que ligaram não tinham curtido.' faz o conceito sem nenhuma lição."
+  - "O custo do alcance errado é mostrado com uma camada ética rara e verossímil: as mensagens de empregados que o advogado de empresas não pode orientar, respondidas com o sindicato e o atendimento gratuito das faculdades. 'A peça tinha trazido ao escritório exatamente o público que ele não podia atender' é consequência, não moral."
+  - "A transposição da rede respeita a regra de ouro com precisão: a peça do leitor fala do indicador enganoso da área dele ('O assunto é o seu trabalho, e não as suas métricas de publicação'), com regra, faça, esqueleto e roteiro alinhados entre si ('Faz sentido, porque...' corresponde ao 'Dizer por que o número comum faz sentido')."
+  - "Números do PWA tratados com honestidade: o gráfico de 'qualidade da decisão' com percentuais inventados virou espectro rotulado 'Esquema ilustrativo'; os números concretos (41 salvamentos, 19 envios, onze linhas em setembro) pertencem ao personagem e as contas fecham."
+problemas:
+  - criterio: coerencia
+    trecho: "passou a abrir o perfil só para publicar e para ler as mensagens"
+    por_que: "No cap. 24 a agência passou a digitar e agendar as peças ('agendaria para terça'); Otávio só fotografa os versos na sexta. Ele não abre o perfil para publicar. O leitor que acompanhou o arco percebe o furo."
+    correcao: "'e passou a abrir o perfil só uma vez por semana, para ler as mensagens que Sílvia separava.' (ou apenas 'só para ler as mensagens')."
+  - criterio: coerencia
+    trecho: "Durante dois anos, as peças do escritório tinham tido vinte, trinta curtidas"
+    por_que: "Pela linha do tempo dos caps. 21 e 24, as publicações ficaram suspensas por dois anos e Otávio só voltou a publicar em dezembro/janeiro; em junho ele publica há uns seis meses. 'Dois anos' de peças com vinte curtidas não existiram."
+    correcao: "'Desde janeiro, quando voltara a publicar, as peças do escritório tinham tido vinte, trinta curtidas, e de repente havia mil.'"
+  - criterio: coerencia
+    trecho: "Lúcia, no capítulo anterior, chegou à mesma pergunta por outro caminho, e descobriu que quem procura quase nunca aparece nas curtidas."
+    por_que: "Remissão inexata: no cap. 27 Lúcia não passou a perguntar a origem de ninguém; as pacientes contaram espontaneamente que liam os textos. Além disso, 'quase nunca' é generalização sobre terceiros. E o capítulo repete a batida que o cap. 25 já gastou (texto de treze curtidas que traz cliente meses depois; 'quem a leu e não curtiu porque não curte nada, quem guardou') e que o cap. 27 repetiu. Sem reconhecer isso, a cena central soa como a terceira versão da mesma descoberta."
+    correcao: "Trocar a remissão por uma que marque o ganho novo deste capítulo: 'Caio tinha descoberto isso por acaso, com uma folha dobrada em quatro sobre a mesa; Lúcia, pelas frases de quem chegava. Helena transformou o acaso em pergunta, e a pergunta em coluna.' Assim o cap. 28 assume a herança e entrega o que é seu: o instrumento."
+  - criterio: coerencia
+    trecho: "Foi a planilha de Helena, com três linhas escritas à mão, que desfez a impressão."
+    por_que: "Contradição interna: a mesma planilha é depois digital ('a resposta vai para uma planilha simples, com três colunas'; 'Otávio imprimiu a planilha'). Além disso o capítulo tem duas planilhas (a semanal de Sílvia e a de origem de Helena), e o leitor apressado as confunde, sobretudo quando a de Helena é chamada de planilha antes de ser apresentada."
+    correcao: "Dar à de Helena outro nome desde a primeira menção e mantê-lo: 'a folha de Helena' (se for à mão, então 'Otávio tirou uma cópia da folha e prendeu no quadro') ou 'a lista de origem'. Reservar 'planilha' só para a da agência."
+  - criterio: honestidade
+    trecho: "É o único dos quatro que a plataforma mostra de graça, e por isso mesmo o que menos merece atenção."
+    por_que: "Contradiz o próprio capítulo, que dois parágrafos antes diz que o aplicativo 'guarda os salvamentos e os envios por mensagem numa tela de estatísticas': a plataforma mostra também os números 2 e, em parte, 3. E a descrição de interface ('guarda... numa tela de estatísticas que quase ninguém abre') é afirmação sobre um produto que muda e, em algumas plataformas, já exibe publicamente a contagem de envios; 'quase ninguém abre' é generalização sem fonte."
+    correcao: "No §29: 'O aplicativo mostra as curtidas embaixo de cada peça; os salvamentos e os envios ficam, quando aparecem, nas estatísticas da conta, fora do caminho de quem só passa os olhos.' No §78: 'É o que a plataforma mais oferece e o que menos decide; por isso fica no topo do painel, e não na base.'"
+  - criterio: clareza
+    trecho: "O primeiro liga o que você publica ao trabalho que chega; os outros três dizem se essa ligação está se formando antes que ela apareça no primeiro."
+    por_que: "O quarto número (alcance) não antecipa ligação nenhuma; o próprio texto diz que ele serve 'só para perceber, a tempo, se o perfil está falando apenas com quem já o conhece'. A legenda da figura repete o erro ('os três de cima antecipam a base'). Some-se a ordem da exposição (1, depois 4, depois 3; o 2 ficou na seção anterior), e o leitor apressado não reconstrói o painel sem voltar à figura."
+    correcao: "'O primeiro liga o que você publica ao trabalho que chega; o segundo e o terceiro mostram essa ligação se formando antes; o quarto só confere se ainda entra gente nova.' Legenda: 'Os dois do meio antecipam a base; o do topo só vigia a entrada. Curtidas e seguidores ficam de fora.' Reordenar os parágrafos para 1, 2 (uma frase remetendo aos 41 salvamentos), 3, 4."
+  - criterio: ritmo
+    trecho: "A peça de feriado do ano seguinte já estava anotada no caderno, com data para maio: o que a pequena empresa precisa ter no papel antes do São João para não pagar em dobro depois. Sílvia leu o rascunho e disse que ela não ia viralizar."
+    por_que: "Repete quase palavra por palavra o fim do §107 ('o que a pequena empresa precisa ter no papel antes do feriado para não ser processada depois. Não viralizaria.'). O fecho gasta a mesma batida duas vezes e dilui o bom final do §109 (quadro de cortiça ao lado da folha do Seu Ednaldo)."
+    correcao: "No §107, parar na proposta ('Uma peça sobre feriado por ano, escrita do lado de quem ele defende.') sem descrever o conteúdo nem o 'Não viralizaria'; guardar tema e réplica para o último parágrafo, que então traz o ganho novo."
+  - criterio: coerencia
+    trecho: "Sílvia, animada, propôs uma série sobre feriados para o segundo semestre. Otávio pediu uma semana para pensar"
+    por_que: "No cap. 24 o contrato novo é 'sem pauta, sem calendário, sem redação', e Otávio já tinha dito que 'não haveria bandeirinha de São João'. Precisar de uma semana para pensar numa série de feriados recua o arco. Também não se diz de onde veio a peça do São João (um verso? escrita por quem?), o que deixa o leitor supor que a agência voltou a pautar datas."
+    correcao: "Uma oração que ancore a peça: 'Era um verso de um parecer do ano anterior, sobre escala em feriado, liberado em maio.' E trocar a hesitação por uma reação coerente com o personagem, que começa pela pior hipótese: 'Otávio não respondeu na hora. Antes de dizer não, quis saber o que exatamente a peça tinha trazido.'"
+  - criterio: aplicabilidade
+    trecho: "Um técnico de ar-condicionado: “A atendente pergunta quando marca a visita e escreve na ficha.”"
+    por_que: "É o único exemplo de profissão em toda a oficina, e o técnico de ar-condicionado já foi exemplo nos caps. 9 e 21. Os campos 02, 04 e 05 não têm exemplo concreto; o 02 pede 'onde encontrar cada um' e o exemplo só repete os nomes dos números. Falta instrução para quem atende sozinho, sem secretária nem atendente (a maioria do público-alvo), e para quem tem poucas primeiras conversas por mês."
+    correcao: "Campo 02: 'Uma nutricionista: “1. Coluna ‘como chegou’ na ficha de anamnese. 2. Estatísticas da conta, no primeiro dia do mês. 3. Mensagens em que a pessoa conta um problema, marcadas com estrela. 4. Alcance das peças de reconhecimento.”' Campo 03: trocar o técnico por outra profissão e acrescentar 'Se você atende sozinho, a pergunta vai na primeira mensagem ou na ficha de cadastro'. Campo 04: 'Um professor de cursinho: “Seguidores novos por semana e curtidas dos vídeos de resolução.”'"
+  - criterio: aplicabilidade
+    trecho: "{rotulo: \"Implantei a pergunta de origem\", ajuda: \"Com momento definido e alguém que anota (campo 03).\", pontos: 3}"
+    por_que: "Com 3 + 2 + 2 = 7 pontos o leitor segue para o cap. 29 sem ter implantado a pergunta de origem, que o próprio capítulo chama de 'o único dado que liga o que se publica ao que se fatura'. A pontuação deixa passar sem o item central."
+    correcao: "Pesos 4 / 3 / 2 / 1 (pergunta 4, painel 3, parar de olhar 2, dia 1), ou manter os pesos e escrever na condição de seguir: 'Com 7 pontos ou mais, e com a pergunta de origem implantada'."
+  - criterio: voz
+    trecho: "O dano mais comum desta fase é esse: trocar o que funcionava pelo que parecia funcionar."
+    por_que: "Generalização empírica sem fonte ('o mais comum') em fecho de parágrafo, com cara de frase de curso. Somada a 'quase ninguém abre', 'quase nunca aparece nas curtidas' e 'muitas vezes ele engana' (intro da rede), passa do limite de duas generalizações sobre terceiros por capítulo."
+    correcao: "'Foi esse o risco que Otávio quase correu: trocar o que funcionava pelo que parecia funcionar.' Nas demais, cortar o quantificador ou pôr na boca de personagem."
+  - criterio: voz
+    trecho: "O problema está em medir o que é fácil de medir no lugar do que é importante."
+    por_que: "Abertura de seção com a tese do PWA transposta quase literalmente, em registro de apostila; o capítulo inteiro mostra isso melhor do que a frase diz."
+    correcao: "Cortar a frase e abrir a seção pela frase seguinte, ajustada: 'O aplicativo mostra, com destaque, curtidas, alcance e seguidores, porque são os números que ele consegue contar.'"
+  - criterio: coerencia
+    trecho: "Nenhum dos três tinha curtido a peça."
+    por_que: "Não se diz como Otávio sabe disso (lição cap03-r3: toda cena que mostra resultado mostra como se chegou a ele). Há também duas coincidências numéricas: 'doze curtidas' da peça e 'doze de empregados' nas mensagens (e 'uma dúzia'), além de o texto de treze curtidas do Caio no cap. 25."
+    correcao: "'Otávio conferiu os doze nomes que tinham curtido a peça: nenhum era dos três.' Trocar as mensagens de empregados para 'quinze' (§19 e §80)."
+  - criterio: clareza
+    trecho: "Otávio nunca tratou a planilha de Helena como pesquisa. Tratava como um caderno de campo sobre o próprio perfil"
+    por_que: "'Caderno de campo' é termo técnico do livro (caps. 6 e 19: captura de matéria-prima). Usado aqui como metáfora para a lista de origem, embaralha o glossário. O tempo verbal também oscila (tratou / Tratava)."
+    correcao: "'Otávio nunca tratou a lista de Helena como pesquisa. Tratou como um registro de conversas: o que as pessoas diziam, de qual peça lembravam, que frase tinham guardado.'"
+edicoes_de_linha:
+  - "'passado a limpo por Sílvia sem nenhuma troca de palavra, e tinha passado despercebido' -> 'digitado por Sílvia sem nenhuma troca de palavra, e tinha passado despercebido'"
+  - "'Um especialista não precisa de painel de controle. Precisa de quatro números' -> 'Um especialista não precisa de um painel com vinte gráficos. Precisa de quatro números' (o capítulo chama o próprio instrumento de painel)"
+  - "'Era a primeira vez que um número sobre o que publicava parecia, de fato, com o trabalho que ele fazia.' -> 'Era a primeira vez que um número sobre o que publicava se parecia com o trabalho que ele fazia.'"
+  - "'É uma escolha de desenho, e não um segredo. Mas tem um efeito:' -> 'Não é segredo, é desenho, e tem um efeito:' ou simplesmente 'Isso tem um efeito:' (tira uma antítese de uma seção que já tem outra)"
+  - "'Helena tinha começado a perguntar' (§13) e 'a pergunta que Helena passou a fazer em junho' (§76) -> fixar a data: 'desde o começo de junho' nos dois lugares"
+  - "'e é justamente a que o aplicativo não mostra' -> 'e é a que o aplicativo não mostra' ('justamente' aparece também no conceito)"
+  - "rede, intro: 'e muitas vezes ele engana' -> 'e ele pode enganar'"
+  - "rede, evite: 'Prints de alcance ou de crescimento de seguidores.' -> 'Desqualificar os colegas que usam o número comum.' (o primeiro item fala de métricas de publicação, que a intro exclui do assunto)"
+diagramacao:
+  - "As páginas de QA (apostila/saida/qa/cap28, geradas às 12h20) são anteriores à última versão do manuscrito (20h44): p012 ainda traz 'no dia de São João', p020 traz 'quase sempre ele engana' e p022 não tem '{A sua abertura de sempre}'. Regerar antes da próxima revisão; o critério 'impresso' foi avaliado sobre páginas desatualizadas."
+  - "p016: cerca de um terço da página em branco depois de 'e ainda permite corrigir o rumo', porque a figura 28.2 (espectro) foi empurrada para a p017. Branco evitável: permitir que o parágrafo seguinte ('Otávio marcou a análise...') suba para antes da figura, ou reduzir a altura da figura."
+  - "p017, figura 28.2: o rótulo de destaque 'EQUILÍBRIO' fica colado a 'A cada trimestre' na mesma linha e lê-se como 'EQUILÍBRIO A cada trimestre'. Pôr o destaque acima da marca de 'Todo mês' ou afastar a marca do trimestre."
+  - "p021: três quartos da página em branco depois do faça/evite, porque o esqueleto (indivisível) vai para a p022. Aceito pelo projeto; registrar só para conferir se, com o roteiro novo, o conjunto ainda não cabe."
+veredito: "Capítulo com a melhor cena de abertura da fase e conceito bem encarnado, mas com uma contradição central (Otávio segue olhando números toda semana) e vários furos de continuidade com os caps. 21, 24, 25 e 27 que precisam de uma passada antes da aprovação."

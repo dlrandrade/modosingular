@@ -8,25 +8,25 @@ ilustracao: lente
 legenda_ilustracao: O instrumento mais visível nem sempre mede o que importa.
 ---
 
-Em junho, uma peça do escritório do Otávio passou de mil curtidas. Era um texto curto sobre feriados: se o empregador pode exigir que alguém trabalhe no São João, nas cidades em que ele é feriado, e quanto deve pagar por isso. Uma página de humor do Recife compartilhou, com uma piada sobre quadrilha, e em três dias a peça tinha sido vista por mais gente do que todas as outras do ano somadas. Sílvia, da agência, mandou os números numa planilha, com três pontos de exclamação no assunto do e-mail.
+Em junho, uma peça do escritório do Otávio passou de mil curtidas. Era um texto curto sobre feriados: se o empregador pode exigir que alguém trabalhe no São João, nas cidades em que ele é feriado, e quanto deve pagar por isso. Era um verso de um parecer do ano anterior, sobre escala em feriado, liberado em maio. Uma página de humor do Recife compartilhou, com uma piada sobre quadrilha, e em três dias a peça tinha sido vista por mais gente do que todas as outras do ano somadas. Sílvia, da agência, mandou os números fora de hora, com três pontos de exclamação no assunto do e-mail.
 
-Na mesma semana, uma peça de abril, sobre advertências escritas na véspera da audiência, completava dois meses com doze curtidas. Era um dos versos dos pareceres, passado a limpo por Sílvia sem nenhuma troca de palavra, e tinha passado despercebido. Otávio só voltou a pensar nela por causa de uma conversa com Helena, na sexta. Helena tinha começado a perguntar, a todo cliente novo, na primeira ligação, como tinha chegado ao escritório. Em junho, três empresários tinham respondido a mesma coisa.
+Na mesma semana, uma peça de abril, sobre advertências escritas na véspera da audiência, completava dois meses com doze curtidas. Era um dos versos dos pareceres, digitado por Sílvia sem nenhuma troca de palavra, e tinha passado despercebido. Otávio só voltou a pensar nela por causa de uma conversa com Helena, na sexta. Desde o começo de junho, Helena perguntava a todo cliente novo, na primeira ligação, como tinha chegado ao escritório. Naquele mês, três empresários tinham respondido a mesma coisa.
 
-Os três citaram a peça das advertências. Um deles, dono de uma pequena fábrica de esquadrias em Jaboatão, disse que tinha lido o texto em abril, guardado, e voltado a ele quando um funcionário antigo ameaçou entrar na Justiça. Tinha a gaveta cheia de advertências, todas escritas na mesma tarde. Outro recebeu o link de um contador. O terceiro não lembrava como tinha encontrado, mas lembrava da frase sobre a mesma caneta e a mesma letra. Nenhum dos três tinha curtido a peça.
+Os três citaram a peça das advertências. Um deles, dono de uma pequena fábrica de esquadrias em Jaboatão, disse que tinha lido o texto em abril, guardado, e voltado a ele quando um funcionário antigo ameaçou entrar na Justiça. Tinha a gaveta cheia de advertências, todas escritas na mesma tarde. Outro recebeu o link de um contador. O terceiro não lembrava como tinha encontrado, mas lembrava da frase sobre a mesma caneta e a mesma letra. Otávio conferiu os doze nomes que tinham curtido a peça: nenhum era dos três. Dois tinham salvado o texto; o terceiro o recebera por mensagem.
 
-A primeira reação de Otávio aos números do São João tinha sido de satisfação, e ele não teve vergonha de admitir isso a Helena. Durante dois anos, as peças do escritório tinham tido vinte, trinta curtidas, e de repente havia mil. Era difícil não sentir que alguma coisa, enfim, tinha dado certo. Foi a planilha de Helena, com três linhas escritas à mão, que desfez a impressão. Os mil que curtiram não ligaram. Os três que ligaram não tinham curtido.
+A primeira reação de Otávio aos números do São João tinha sido de satisfação, e ele não teve vergonha de admitir isso a Helena. Desde setembro, quando voltara a publicar, as peças do escritório tinham tido vinte, trinta curtidas, e de repente havia mil. Era difícil resistir à sensação de que alguma coisa, enfim, tinha dado certo. Foi a lista de Helena, com três linhas escritas à mão, que desfez a impressão. Os mil que curtiram não ligaram. Os três que ligaram não tinham curtido.
 
-A peça do São João não trouxe ninguém. Trouxe mil e poucas curtidas, duzentos comentários sobre quadrilha e uma dúzia de mensagens de empregados querendo saber se tinham direito a folga, que Otávio não atende, porque defende empresas. Sílvia, animada, propôs uma série sobre feriados para o segundo semestre. Otávio pediu uma semana para pensar e passou a semana olhando para os números de outro jeito.
+A peça do São João não trouxe ninguém. Trouxe mil e poucas curtidas, duzentos comentários sobre quadrilha e quinze mensagens de empregados querendo saber se tinham direito a folga, que Otávio não atende, porque defende empresas. Sílvia, animada, propôs uma série sobre feriados para o segundo semestre. Otávio não respondeu na hora. Antes de dizer não, quis saber o que exatamente a peça tinha trazido.
 
 As mensagens dos empregados o incomodaram mais do que a falta de clientes. Eram pessoas com dúvidas reais, algumas aflitas, e ele não podia orientá-las: defende as empresas, e aconselhar empregados, sem saber se do outro lado estava um cliente do escritório, podia pô-lo em conflito com quem ele defende. Respondeu a todas do mesmo jeito, indicando o sindicato de cada categoria e o atendimento gratuito das faculdades de direito. A peça tinha trazido ao escritório exatamente o público que ele não podia atender.
 
 ## O que o número mostra
 
-O problema está em medir o que é fácil de medir no lugar do que é importante. O aplicativo mostra, com destaque, curtidas, alcance e seguidores, porque são os números que ele consegue contar. O que Otávio precisava saber, se o que publicava trazia as pequenas empresas que ele defende, não aparecia em nenhuma tela. Estava na resposta dos clientes à pergunta de Helena.
+O aplicativo mostra, com destaque, curtidas, alcance e seguidores, porque são os números que ele consegue contar. O que Otávio precisava saber, se o que publicava trazia as pequenas empresas que ele defende, não aparecia em nenhuma tela. Estava na resposta dos clientes à pergunta de Helena.
 
 Uma curtida é um gesto público. As pessoas curtem o que querem ser vistas curtindo, e uma piada sobre quadrilha é um bom candidato. A decisão de contratar um advogado trabalhista para uma pequena empresa é privada, às vezes quase secreta: ninguém quer sinalizar em público que tem um funcionário prestes a processá-lo. O empresário das esquadrias leu, guardou e não curtiu. Curtir seria contar ao mundo que tinha o problema.
 
-Os números que dizem alguma coisa existem, mas ficam um toque mais fundo. O aplicativo mostra as curtidas em destaque, embaixo de cada peça, e guarda os salvamentos e os envios por mensagem numa tela de estatísticas que quase ninguém abre. É uma escolha de desenho, e não um segredo. Mas tem um efeito: quem olha só o que aparece mede exatamente a parte que menos diz sobre o próprio trabalho.
+Os números que dizem alguma coisa existem, mas ficam um toque mais fundo. O aplicativo mostra as curtidas embaixo de cada peça; os salvamentos e os envios ficam, quando aparecem, nas estatísticas da conta, fora do caminho de quem só passa os olhos. Isso tem um efeito: quem olha só o que aparece mede exatamente a parte que menos diz sobre o próprio trabalho.
 
 ```conceito
 termo: Métrica de decisão
@@ -34,9 +34,9 @@ definicao: Um número que, quando muda, faz você mudar de comportamento. Se ele
 porque: Os números mais visíveis, como curtidas, alcance e seguidores, são os que menos dizem sobre clientes num trabalho de especialista. Reagir a eles leva você a abandonar justamente o que estava funcionando.
 ```
 
-O teste de uma métrica é o que você faria diferente se ela mudasse. Se as curtidas da semana caírem pela metade, Otávio escreve um parágrafo diferente no fim do próximo parecer? Não. Se três clientes seguidos disserem que chegaram por uma peça sobre advertências, ele passa a guardar mais versos sobre documentos? Sim. A primeira é ruído. A segunda é informação, e é justamente a que o aplicativo não mostra.
+O teste de uma métrica é o que você faria diferente se ela mudasse. Se as curtidas da semana caírem pela metade, Otávio escreve um parágrafo diferente no fim do próximo parecer? Não. Se três clientes seguidos disserem que chegaram por uma peça sobre advertências, ele passa a guardar mais versos sobre documentos? Sim. A primeira é ruído. A segunda é informação, e é a que o aplicativo não mostra.
 
-O dano de olhar o número errado aparece devagar. A peça do São João, se virasse regra, levaria o perfil a falar de feriados, direitos do empregado e curiosidades trabalhistas, que atraem muita gente e nenhuma das pequenas empresas que Otávio defende. Em seis meses, o perfil estaria cheio de gente que não pode ser cliente dele e vazio do que atraía quem pode. O dano mais comum desta fase é esse: trocar o que funcionava pelo que parecia funcionar.
+O dano de olhar o número errado aparece devagar. A peça do São João, se virasse regra, levaria o perfil a falar de feriados, direitos do empregado e curiosidades trabalhistas, que atraem muita gente e nenhuma das pequenas empresas que Otávio defende. Em seis meses, o perfil estaria cheio de gente que não pode ser cliente dele e vazio do que atraía quem pode. Foi esse o risco que Otávio quase correu: trocar o que funcionava pelo que parecia funcionar.
 
 Tabela: O que cada número diz
 
@@ -50,7 +50,7 @@ Tabela: O que cada número diz
 | Mensagens com dúvida real | Confiança para se expor | Sim |
 | Clientes que citaram uma peça | A ligação entre publicar e trabalhar | Sim, é a que fecha a conta |
 
-Otávio pediu a Sílvia os números que a planilha não trazia. A peça das advertências tinha doze curtidas, e também quarenta e um salvamentos e dezenove envios por mensagem, a maior proporção de envios do ano. A do São João tinha mil e cem curtidas, oito salvamentos e seis envios. O envio por mensagem é o sinal que ele passou a olhar primeiro. Quando alguém manda uma peça a uma pessoa específica, põe a própria reputação em jogo para recomendar você. O contador que mandou o link ao segundo empresário tinha feito exatamente isso.
+Otávio pediu a Sílvia os números que o e-mail não trazia. A peça das advertências tinha doze curtidas, e também quarenta e um salvamentos e dezenove envios por mensagem, a maior proporção de envios do ano. A do São João tinha mil e cem curtidas, oito salvamentos e seis envios. O envio por mensagem é o sinal que ele passou a olhar primeiro. Quando alguém manda uma peça a uma pessoa específica, põe a própria reputação em jogo para recomendar você. O contador que mandou o link ao segundo empresário tinha feito exatamente isso.
 
 ```nota
 tipo: alerta
@@ -60,7 +60,7 @@ texto: Se você já mudou de rumo por causa de uma única peça, para cima ou pa
 
 ## Quatro números por mês
 
-Um especialista não precisa de painel de controle. Precisa de quatro números, olhados uma vez por mês, na mesma ordem, do mais importante para o menos importante. O primeiro liga o que você publica ao trabalho que chega; os outros três dizem se essa ligação está se formando antes que ela apareça no primeiro.
+Um especialista não precisa de um painel com vinte gráficos. Precisa de quatro números, olhados uma vez por mês, na mesma ordem, do mais importante para o menos importante. O primeiro liga o que você publica ao trabalho que chega; o segundo e o terceiro mostram essa ligação se formando antes; o quarto só confere se ainda entra gente nova.
 
 ```figura
 tipo: camadas
@@ -70,16 +70,16 @@ camadas:
   - {rotulo: "3. Dúvidas reais", nota: "Mensagens do seu público contando um problema. A confiança se formando."}
   - {rotulo: "2. Salvamentos e envios", nota: "Utilidade e recomendação. O melhor sinal do que vem depois."}
   - {rotulo: "1. Citações", nota: "Clientes que citaram uma peça. O único número que liga publicar e trabalhar; só existe se alguém perguntar."}
-legenda: A base, as citações, é o número que importa; os três de cima antecipam a base. Curtidas e seguidores ficam de fora.
+legenda: A base, as citações, é o número que importa. Os dois do meio antecipam a base; o do topo só vigia a entrada. Curtidas e seguidores ficam de fora.
 ```
 
-O primeiro número só existe se alguém fizer uma pergunta, e é a pergunta que Helena passou a fazer em junho: como o senhor chegou até nós? Leva dez segundos na primeira ligação e é o único dado que liga o que se publica ao que se fatura. No escritório do Otávio, a resposta vai para uma planilha simples, com três colunas: o nome da empresa, a resposta com as palavras do cliente e, quando houver, a peça citada. Lúcia, no capítulo anterior, chegou à mesma pergunta por outro caminho, e descobriu que quem procura quase nunca aparece nas curtidas.
+O primeiro número só existe se alguém fizer uma pergunta, e é a pergunta que Helena passou a fazer no começo de junho: como o senhor chegou até nós? Leva dez segundos na primeira ligação e é o único dado que liga o que se publica ao que se fatura. No escritório do Otávio, a resposta vai para uma lista simples, com três colunas: o nome da empresa, a resposta com as palavras do cliente e, quando houver, a peça citada. Caio tinha descoberto isso por acaso, com uma folha dobrada em quatro sobre a mesa; Lúcia, pelas frases de quem chegava. Helena transformou o acaso em pergunta, e a pergunta em coluna. O segundo número já apareceu aqui: os quarenta e um salvamentos e os dezenove envios da peça das advertências.
 
-O quarto número entrou no painel com uma função limitada. O alcance das peças de reconhecimento diz se ainda entra gente nova, gente que nunca tinha visto o escritório. Ele não serve para decidir o que publicar. Serve só para perceber, a tempo, se o perfil está falando apenas com quem já o conhece. É o único dos quatro que a plataforma mostra de graça, e por isso mesmo o que menos merece atenção.
+O quarto número entrou no painel com uma função limitada. O alcance das peças de reconhecimento diz se ainda entra gente nova, gente que nunca tinha visto o escritório. Ele não serve para decidir o que publicar. Serve só para perceber, a tempo, se o perfil está falando apenas com quem já o conhece. É o que a plataforma mais oferece e o que menos decide; por isso fica no topo do painel, e não na base.
 
-O terceiro número pede um critério para contar. Otávio separou, em junho, as mensagens que tinham chegado ao perfil: doze de empregados, sobre o São João, e quatro de donos de pequenas empresas com dúvidas de verdade, sobre recibos, horários e uma demissão que ainda não tinha acontecido. Só as quatro entraram no painel. Uma mensagem com dúvida real é aquela em que alguém do seu público se expõe um pouco, contando um problema que tem. É o sinal de que a confiança está se formando antes da primeira ligação.
+O terceiro número pede um critério para contar. Otávio separou, em junho, as mensagens que tinham chegado ao perfil: quinze de empregados, sobre o São João, e quatro de donos de pequenas empresas com dúvidas de verdade, sobre recibos, horários e uma demissão que ainda não tinha acontecido. Só as quatro entraram no painel. Uma mensagem com dúvida real é aquela em que alguém do seu público se expõe um pouco, contando um problema que tem. É o sinal de que a confiança está se formando antes da primeira ligação.
 
-Para quem atende poucos clientes novos por mês, os números do painel são pequenos, e tudo bem. Três citações num mês não são estatística; são três conversas, anotadas com as palavras de quem chegou. Otávio nunca tratou a planilha de Helena como pesquisa. Tratava como um caderno de campo sobre o próprio perfil: o que as pessoas diziam, de qual peça lembravam, que frase tinham guardado. Com o tempo, as repetições bastavam para mostrar o caminho, do mesmo jeito que as perguntas recorrentes do Caio mostravam os assuntos.
+Para quem atende poucos clientes novos por mês, os números do painel são pequenos, e tudo bem. Três citações num mês são pouco para estatística e bastam como conversa, anotadas com as palavras de quem chegou. Otávio nunca tratou a lista de Helena como pesquisa. Tratou como um registro de conversas: o que as pessoas diziam, de qual peça lembravam, que frase tinham guardado. Com o tempo, as repetições bastavam para mostrar o caminho, do mesmo jeito que as perguntas recorrentes do Caio mostravam os assuntos.
 
 A frequência importa tanto quanto a escolha dos números. Olhar todo dia é reagir a ruído: um feriado, uma piada, um dia em que a plataforma mostrou mais ou menos. Olhar uma vez por trimestre é descobrir tarde demais que alguma coisa mudou. Uma vez por mês dá tempo para o sinal aparecer acima do ruído e ainda permite corrigir o rumo.
 
@@ -91,7 +91,7 @@ direita: Corrige tarde demais
 marcas:
   - {pos: 6, rotulo: "Todo dia"}
   - {pos: 30, rotulo: "Toda semana"}
-  - {pos: 60, rotulo: "Todo mês", destaque: "EQUILÍBRIO"}
+  - {pos: 60, rotulo: "Todo mês: o equilíbrio", destaque: " "}
   - {pos: 92, rotulo: "A cada trimestre"}
 legenda: Esquema ilustrativo. Olhar demais produz decisões nervosas; olhar de menos, decisões atrasadas.
 ```
@@ -100,13 +100,13 @@ Otávio marcou a análise para a primeira segunda-feira de cada mês, às sete d
 
 ## O que parar de olhar
 
-O painel resolve o que olhar. A parte mais difícil foi decidir o que deixar de olhar, porque os números que não entraram continuam na tela, todos os dias, com destaque. Otávio pediu a Sílvia que tirasse da planilha semanal as curtidas e o crescimento de seguidores, e pôs no lugar os salvamentos, os envios e as mensagens. Sílvia estranhou. Depois de um mês, disse que a planilha tinha ficado mais curta e as conversas de sexta, mais úteis.
+O painel resolve o que olhar. A parte mais difícil foi decidir o que deixar de olhar, porque os números que não entraram continuam na tela, todos os dias, com destaque. Otávio pediu a Sílvia que a planilha da agência deixasse de ser semanal e passasse a chegar uma vez por mês, na véspera da primeira segunda-feira, sem curtidas nem crescimento de seguidores, com os salvamentos, os envios e as mensagens no lugar. Sílvia estranhou. Depois de dois meses, disse que a planilha tinha ficado mais curta e as conversas, mais úteis.
 
-Tirar os números da planilha não os tirou da tela. As curtidas continuavam embaixo de cada peça, e Otávio continuava vendo. Ele desligou as notificações do aplicativo, que avisavam a cada nova curtida, e passou a abrir o perfil só para publicar e para ler as mensagens. Nas primeiras semanas, sentiu falta da conferência. Depois, percebeu que a conferência nunca tinha mudado nada do que ele fazia na semana seguinte.
+Tirar os números da planilha não os tirou da tela. As curtidas continuavam embaixo de cada peça, e Otávio continuava vendo. Ele desligou as notificações do aplicativo, que avisavam a cada nova curtida, e passou a abrir o perfil só para ler as mensagens que Sílvia separava. Nas primeiras semanas, sentiu falta da conferência. Depois, percebeu que a conferência nunca tinha mudado nada do que ele fazia na semana seguinte.
 
-A conversa sobre a série de feriados foi a mais difícil. Sílvia tinha razão num ponto: a peça do São João tinha alcançado muita gente, e alcance não é ruim. Otávio concordou e fez uma proposta. Uma peça sobre feriado por ano, escrita do lado de quem ele defende: o que a pequena empresa precisa ter no papel antes do feriado para não ser processada depois. Não viralizaria. Talvez fosse salva por quem tem o problema.
+A conversa sobre a série de feriados foi a mais difícil. Sílvia tinha razão num ponto: a peça do São João tinha alcançado muita gente, e alcance não é ruim. Otávio concordou e fez uma proposta: uma peça sobre feriado por ano, escrita do lado de quem ele defende.
 
-Em setembro, a planilha de Helena tinha onze linhas. Sete citavam alguma peça, e cinco dessas eram versos sobre documentos: advertências, recibos, controle de horário. Nenhuma citava a do São João. Otávio imprimiu a planilha e prendeu no quadro de cortiça, ao lado da folha da noite do telefonema com Seu Ednaldo. Era a primeira vez que um número sobre o que publicava parecia, de fato, com o trabalho que ele fazia.
+Em setembro, a lista de Helena tinha onze linhas. Sete citavam alguma peça, e cinco dessas eram versos sobre documentos: advertências, recibos, controle de horário. Nenhuma citava a do São João. Otávio tirou uma cópia da lista e prendeu no quadro de cortiça, ao lado da folha da noite do telefonema com Seu Ednaldo. Era a primeira vez que um número sobre o que publicava se parecia com o trabalho que ele fazia.
 
 A peça de feriado do ano seguinte já estava anotada no caderno, com data para maio: o que a pequena empresa precisa ter no papel antes do São João para não pagar em dobro depois. Sílvia leu o rascunho e disse que ela não ia viralizar. Otávio concordou, e acrescentou que, se três donos de empresa a guardassem e ligassem, ela teria feito mais do que a outra.
 
@@ -126,13 +126,13 @@ campos:
     exemplo: "Seja honesto. Você já mudou de assunto ou de formato por causa de uma peça que foi bem ou mal?"
     linhas: 3
   - rotulo: "O seu painel: os quatro números e onde encontrar cada um"
-    exemplo: "1. Clientes que citaram uma peça. 2. Salvamentos e envios. 3. Mensagens com dúvida real. 4. Alcance das peças de reconhecimento."
+    exemplo: "Uma farmacêutica: “1. Coluna ‘como chegou’ na ficha de cadastro. 2. Estatísticas da conta, no primeiro dia do mês. 3. Mensagens em que a pessoa conta um problema, marcadas com estrela. 4. Alcance das peças de reconhecimento.”"
     linhas: 4
   - rotulo: "Onde entra a pergunta “como você chegou até aqui?”, e quem a faz"
-    exemplo: "Em que momento do primeiro contato, e quem anota a resposta com as palavras do cliente. Um técnico de ar-condicionado: “A atendente pergunta quando marca a visita e escreve na ficha.”"
+    exemplo: "Em que momento do primeiro contato, e quem anota a resposta com as palavras do cliente. Um eletricista: “A atendente pergunta quando marca a visita e escreve na ficha.” Se você atende sozinho, a pergunta vai na primeira mensagem ou na ficha de cadastro."
     linhas: 3
   - rotulo: "O que você vai parar de olhar"
-    exemplo: "Liste por escrito. Inclua pelo menos um número que hoje incomoda você."
+    exemplo: "Liste por escrito. Inclua pelo menos um número que hoje incomoda você. Um professor de cursinho: “Seguidores novos por semana e curtidas dos vídeos de resolução.”"
     linhas: 3
   - rotulo: "O dia da análise, e a pergunta que você vai fazer a si mesmo"
     exemplo: "Um dia fixo do mês, quinze minutos. A pergunta: o que eu faço diferente por causa disto?"
@@ -145,7 +145,7 @@ criterios:
 
 ```rede
 titulo: O número que engana na sua área
-intro: "Toda área tem um indicador pelo qual os clientes a avaliam, e muitas vezes ele engana. A peça fala desse indicador, na sua área, e do que você olha no lugar dele. O assunto é o seu trabalho, e não as suas métricas de publicação."
+intro: "Toda área tem um indicador pelo qual os clientes a avaliam, e ele pode enganar. A peça fala desse indicador, na sua área, e do que você olha no lugar dele. O assunto é o seu trabalho, e não as suas métricas de publicação."
 regras:
   - {regra: "Comece pelo número que todos usam.", porque: "Quem lê reconhece o critério com que já avalia profissionais da sua área, e presta atenção quando alguém o questiona com respeito."}
   - {regra: "Mostre o que ele deixa de fora.", porque: "O valor da peça está no que o número comum não enxerga, e que você enxerga por atender muitos casos."}
@@ -155,7 +155,7 @@ faca:
   - Dizer por que o número comum faz sentido, antes de mostrar onde falha.
   - Terminar com uma pergunta que a pessoa pode fazer a qualquer profissional.
 evite:
-  - Prints de alcance ou de crescimento de seguidores.
+  - Desqualificar os colegas que usam o número comum.
   - Usar os números das suas peças como prova de competência.
   - Falar do seu resultado quando o que interessa é o do cliente.
 esqueleto:
@@ -213,7 +213,7 @@ faca_antes: true
 ```aplicacao
 itens:
   - {rotulo: "Montei o meu painel de quatro números", ajuda: "Sem curtidas nem seguidores (campo 02).", pontos: 3}
-  - {rotulo: "Implantei a pergunta de origem", ajuda: "Com momento definido e alguém que anota (campo 03).", pontos: 3}
+  - {rotulo: "Implantei a pergunta de origem", ajuda: "Com momento definido e alguém que anota (campo 03).", pontos: 4}
   - {rotulo: "Decidi o que parar de olhar", ajuda: "Por escrito, incluindo um número que me incomoda (campo 04).", pontos: 2}
-  - {rotulo: "Marquei o dia da análise", ajuda: "Uma vez por mês, com a pergunta do que muda (campo 05).", pontos: 2}
+  - {rotulo: "Marquei o dia da análise", ajuda: "Uma vez por mês, com a pergunta do que muda (campo 05).", pontos: 1}
 ```
