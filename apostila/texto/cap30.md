@@ -10,13 +10,13 @@ legenda_ilustracao: O espaço sempre esteve lá. Faltava alguém plantar a bande
 
 Na primeira segunda-feira de janeiro, antes do primeiro paciente, Renata rolou o próprio perfil até o fim. Levou mais tempo do que esperava. Passou pelo áudio da meia, pelos vídeos em que desenhava a coluna no ar com as duas mãos, pelo contraponto sobre a postura correta, e chegou, lá embaixo, às fotos que o sobrinho tinha montado quase sete anos antes: alongamento na maca, um coração azul, "cuide da sua coluna". Eram corretas. Qualquer fisioterapeuta de Curitiba poderia tê-las publicado.
 
-Pensou em apagá-las e desistiu da ideia. Deixou as fotos no fundo do perfil, como a marca de altura das crianças no batente de uma porta. Quem chegasse até elas teria passado antes por um ano de áudios gravados no carro, com a voz dela, os exemplos dela e a pergunta que ela faz a todo paciente: e de manhã, como é?
+Pensou em apagá-las e desistiu da ideia. Deixou as fotos no fundo do perfil, como a marca de altura das crianças no batente de uma porta. Quem chegasse até elas teria passado antes por mais de dois anos de áudios gravados no carro, com a voz dela, os exemplos dela e a pergunta que ela faz a todo paciente: e de manhã, como é?
 
-Depois abriu a agenda da semana. Ao lado de dois nomes, na letra dela, estava escrito: perfil, sem indicação. Os dois ortopedistas continuavam mandando a maior parte dos pacientes novos, e Renata não queria que deixassem de mandar. O que tinha mudado era outra coisa. Pela primeira vez em quinze anos de consultório, havia uma segunda porta para chegar até ela, e quem entrava por essa porta já tinha ouvido a voz de quem ia atender.
+Depois abriu a agenda da semana. Ao lado de dois nomes, na letra dela, estava escrito: perfil, sem indicação. Os dois ortopedistas continuavam mandando a maior parte dos pacientes novos, e Renata não queria que deixassem de mandar. O que tinha mudado era outra coisa. Pela primeira vez em mais de quinze anos de consultório, havia uma segunda porta para chegar até ela, e quem entrava por essa porta já tinha ouvido a voz de quem ia atender.
 
 ## O que mudou, e o que continuou igual
 
-No Recife, o contrato com a agência venceu em janeiro, e Otávio o renovou com uma cláusula a menos. Saíram as quinze publicações por mês. Entrou uma linha que ele redigiu à mão antes de mandar digitar: as peças partem dos textos do advogado, e nenhuma sai sem a última frase dele. Para quem repete há mais de vinte e cinco anos que contrato assinado não é prova de nada, a cláusula nova era menos uma garantia do que um lembrete. O perfil publicava oito peças por mês, quase a metade do que publicava no tempo do "Você sabia?", e todas tinham começado num parecer ou num e-mail a cliente.
+No Recife, o contrato com a agência venceu em janeiro, e Otávio o renovou quase sem mexer. Acrescentou uma linha, redigida à mão antes de mandar digitar: as peças partem dos textos do advogado, e nenhuma sai sem a última frase dele. A regra valia desde abril, na folha de fluxo; agora estava no contrato. Para quem passou mais de vinte e cinco anos dizendo a clientes que o que não está escrito não existe, a linha nova era menos uma garantia do que um costume. O perfil publicava oito peças por mês, quase a metade do que publicava no tempo do "Você sabia?", e todas tinham começado num parecer ou num e-mail a cliente.
 
 O tempo dele não mudou. Otávio continuava escrevendo pareceres até tarde, e em muitas semanas os cinco minutos no fim de cada parecer eram tudo o que o perfil recebia dele. Bastavam, porque o resto tinha sido desenhado para não depender de mais do que isso.
 
@@ -49,7 +49,7 @@ Vale fazer a tradução com a sua própria frase. Volte à autópsia do capítul
 ```conceito
 termo: Autoria
 definicao: O estado em que a sua presença pública é reconhecivelmente sua, feita a partir do seu modo de pensar, do seu repertório, das suas posições e das suas palavras, e sustentável porque respeita a pessoa que precisa sustentá-la.
-porque: O que faltava nunca foi volume. Faltava que a presença pertencesse a quem ela representa, e uma presença que não pertence a ninguém é a primeira a ser abandonada.
+porque: Faltava que a presença pertencesse a quem ela representa. Uma presença que não pertence a ninguém é a primeira a ser abandonada.
 ```
 
 A definição tem duas metades, e a segunda pesa tanto quanto a primeira. Uma presença reconhecível que custa mais do que você pode pagar dura três meses. Uma presença barata que não se parece com você dura mais, e não serve para nada. Os trinta capítulos trabalharam as duas metades juntas: a voz, as posições e o léxico de um lado; o ritmo do pior mês, o formato mínimo e o caderno de campo do outro.
@@ -95,9 +95,9 @@ texto: Mudar o formato, o assunto e o ritmo ao mesmo tempo, logo depois de termi
 
 ## A página que é sua
 
-Este livro acompanhou quatro pessoas por um ano, e elas vão continuar sem ele. Renata vai gravar o próximo áudio no carro, entre dois pacientes, com as mãos no volante e sem poder desenhar a coluna no ar. Otávio vai escrever a última frase de um parecer e, embaixo dela, os cinco minutos de verso. Lúcia vai responder, numa terça às oito, a pergunta da semana. Caio vai tirar a foto de uma parede, com o capacete no braço, e escrever cinco linhas sobre o que ela esconde.
+Este livro acompanhou quatro pessoas por mais de um ano, e elas vão continuar sem ele. Renata vai gravar o próximo áudio no carro parado, antes de ligar o motor, com as mãos no volante e sem poder desenhar a coluna no ar. Otávio vai escrever a última frase de um parecer e, embaixo dela, os cinco minutos de verso. Lúcia vai responder, numa terça às oito, a pergunta da semana. Caio vai tirar a foto de uma parede, com o capacete no braço, e escrever cinco linhas sobre o que ela esconde.
 
-Nenhum dos quatro precisa mais de um capítulo por dia. O que eles têm está escrito em algum lugar à mão: um enunciado, uma semana modelo, um protocolo pregado na parede. E o que você tem também está, se fez as oficinas. Nas páginas de caderno destes trinta capítulos há mais linhas escritas por você do que parágrafos impressos, e é nelas que o método está agora, mais do que nas explicações.
+Nenhum dos quatro precisa mais de um capítulo por dia. O que eles têm está escrito em algum lugar à mão: um enunciado, uma semana modelo, um protocolo pregado na parede. E o que você tem também está, se fez as oficinas. Nas páginas de caderno destes trinta capítulos pode haver mais linhas escritas por você do que parágrafos impressos, e é nelas que o método está agora, mais do que nas explicações.
 
 O que ficou em branco também diz alguma coisa. Uma oficina pulada, um campo que não saiu, uma posição que você não teve coragem de escrever: esses espaços vazios são a sua lista de trabalho para as próximas semanas. Volte a eles no seu ritmo, um por semana, e só depois de publicar a peça da semana.
 
