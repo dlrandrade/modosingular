@@ -12,7 +12,7 @@ A cliente nova chegou ao escritório numa segunda-feira de manhã com uma pasta 
 
 Otávio olhou o contrato por alguns segundos, fechou a pasta com cuidado e disse a frase que diz a todo cliente novo, há quase vinte anos: "Contrato assinado não é prova de nada."
 
-A cliente franziu a testa, como todos franzem. Otávio já sabia que franziria, e sabia também o que vinha em seguida, e em que ordem.
+A cliente franziu a testa, como todos franzem. Otávio já contava com isso, e sabia também o que vinha em seguida, e em que ordem.
 
 Perguntou quem definia o horário do instrutor. Quem dava as broncas quando ele chegava atrasado. Se ele usava a camiseta da academia, se podia mandar outra pessoa no lugar dele num dia de folga, se era a academia que distribuía os alunos e cobrava deles. A cada resposta, a cliente ia percebendo sozinha o que ele queria mostrar. No fim, Otávio explicou que a Justiça do Trabalho olha primeiro para como o trabalho aconteceu de fato, e só depois para o que está no papel. Quando os dois não combinam, em regra vale o que aconteceu.
 
@@ -20,7 +20,7 @@ Os advogados chamam isso de primazia da realidade, e o nome técnico não ajuda 
 
 Ela saiu com a pasta azul debaixo do braço, menos calma e mais bem informada. Helena, que tinha assistido à reunião da porta, esperou o elevador fechar e disse, meio rindo, que era a terceira vez naquele mês que ouvia o sócio dar aquela mesma explicação, com as mesmas perguntas, na mesma ordem, e com o mesmo efeito na cara do cliente.
 
-Otávio não tinha reparado. Para ele, aquilo não era uma explicação. Era só o começo de qualquer conversa com um cliente novo.
+Otávio não tinha reparado. Achava que estava apenas começando a conversa, como começa todas.
 
 ## Uma explicação que amadureceu sozinha
 
@@ -40,7 +40,7 @@ nos:
   - {rotulo: "Hoje, refinada e invisível", nota: "Sai automática. E, por sair automática, você deixou de vê-la."}
 ```
 
-É um trabalho de projeto feito com gente de verdade. Cada cliente que se perdeu mostrou onde a explicação precisava mudar; cada um que entendeu mostrou o que manter. Nenhuma equipe de comunicação conseguiria reproduzir esse processo numa reunião de pauta, porque ele exige anos de testes que só a prática oferece.
+É um ajuste fino feito com clientes reais. Cada cliente que se perdeu mostrou onde a explicação precisava mudar; cada um que entendeu mostrou o que manter. Uma equipe de comunicação não consegue reproduzir esse processo numa reunião de pauta, porque ele exige anos de testes que só a prática oferece.
 
 ```conceito
 termo: Explicação madura
@@ -52,7 +52,7 @@ A pergunta recorrente diz o assunto; a explicação madura é a resposta que já
 
 ## Por que ela nunca foi publicada
 
-Se é tão boa, por que Otávio nunca publicou a explicação do contrato? São quatro razões, e nenhuma é falta de vontade.
+Otávio nunca publicou a explicação do contrato, e não por falta de vontade. São quatro razões.
 
 A primeira é que ela ficou automática, e o automático parece banal. Otávio achava a explicação tão óbvia que não conseguia imaginar alguém interessado nela, embora visse, toda semana, a cara de surpresa dos clientes ao ouvi-la. A segunda é supor que todo colega explica do mesmo jeito. A versão do Otávio tem as perguntas dele, na ordem dele, ajustadas por clientes que só ele atendeu.
 
@@ -73,9 +73,9 @@ itens:
   - Quando você ouve um colega explicar a mesma coisa, a sua versão é mais curta.
 ```
 
-Maturidade produz encurtamento. A explicação que você dá hoje costuma ser menor do que a que dava no começo, e esse é um dos jeitos mais seguros de identificá-la. Otávio fez a conta sem querer: o primeiro e-mail que encontrou no arquivo sobre o assunto, de 2003, tinha três páginas. O mais recente tinha quatro parágrafos.
+Maturidade produz encurtamento. A explicação que você dá hoje costuma ser menor do que a que dava no começo, e esse é um jeito simples de identificá-la. Otávio conferiu no arquivo: o primeiro e-mail que encontrou sobre o assunto, de 2003, tinha três páginas. O mais recente tinha quatro parágrafos.
 
-Caio tem uma assim, e só percebeu quando o sócio, que já tinha ouvido a história umas trinta vezes, terminou a frase por ele: a de por que a obra parece parada na terceira semana. Ele a conta sempre pela mesma obra, a da cliente que ligou achando que ele tinha sumido, quando a equipe passava a fiação por dentro do contrapiso, e sempre faz a mesma pausa antes de dizer onde os fios estavam. Os clientes riem na pausa, e o sócio ri junto, mesmo sabendo o fim.
+Caio tem uma assim, a de por que a obra parece parada na terceira semana, e só percebeu quando o sócio, que já a tinha ouvido umas trinta vezes, terminou a frase por ele. Ele a conta sempre pela mesma obra, a da cliente que ligou achando que ele tinha sumido, quando a equipe passava a fiação por dentro do contrapiso, e sempre faz a mesma pausa antes de dizer onde os fios estavam. Os clientes riem na pausa, e o sócio ri junto, mesmo sabendo o fim.
 
 ```figura
 tipo: barras
@@ -90,15 +90,17 @@ legenda: Contagem do Otávio, no arquivo de e-mails do escritório. É o caso de
 
 ## A transcrição pura
 
-Publicar uma explicação madura pede três coisas: registrá-la como ela é, cortar só o que pertence àquela conversa e não melhorar o resto. A última é a que custa.
+Publicar uma explicação madura pede três coisas: registrá-la como ela é, cortar o que pertence àquela conversa e não melhorar o resto.
 
-O registro depende do modo. Para Renata, que pensa falando, é gravar a explicação da próxima vez que ela acontecer de verdade, com a licença do paciente e sem nada que o identifique. Para Otávio, que pensa escrevendo, a explicação já estava registrada: bastava abrir um e-mail em que já a tinha dado. Lúcia pede à amiga do grupo de estudos que lhe faça a pergunta que desencadeia a explicação. Caio conta a obra para o sócio e grava.
+O registro depende do modo. Para Renata, que pensa falando, é dizer a explicação ao paciente e, no carro, refazê-la em voz alta enquanto ainda está quente. Transcrita sem limpar, uma delas ficou assim: "Olha, a sua coluna é… pensa numa mangueira de jardim, tá? Ela enverga inteira. Enverga inteira. Agora, se você dobra sempre no mesmo ponto…" A repetição fica, porque é ali que o paciente entende.
 
-Quem gravar uma conversa real precisa de licença e de cuidado. A licença é de quem está na conversa, e o cuidado é com o que ela revela: mesmo cortando o nome, uma gravação feita no atendimento pode carregar detalhes que identificam alguém. Por isso Renata, na maioria das vezes, faz outra coisa: dá a explicação ao paciente e, no carro, refaz em voz alta enquanto ela ainda está quente, sem nenhum dado dele.
+Transcrita, a fala parece pior do que soou. As repetições que no carro passavam despercebidas ficam visíveis, e a vontade é limpar. Limpe o que atrapalha a leitura, como um "é… é" que não diz nada, e deixe a repetição que marca o ponto, a pergunta ao ouvinte e a comparação no lugar em que ela apareceu. Quem lê vai ouvir a voz de quem fala, e é isso que faz o texto ser dela.
 
-O corte tem uma regra estreita: só sai o que é contexto daquela pessoa. Antes de cortar, Otávio escolheu de onde cortar. Não usou o e-mail que tinha mandado à dona das academias: com a ação em curso, um texto sobre instrutor autônomo assinado pelo advogado da academia seria lido pelo instrutor, e pelo advogado dele, como recado, qualquer que fosse a data. Abriu um e-mail de dois anos antes, de um caso encerrado, sobre a manicure de um salão de Casa Amarela. Cortou dele o nome do salão, as nove manicures, o bairro e o tempo do verbo, que contava a história de uma pessoa só. O que é geral ficou exatamente como saiu, inclusive a frase de abertura, as perguntas na ordem e o fecho curto.
+Para Otávio, que pensa escrevendo, a explicação já estava registrada: bastava abrir um e-mail em que já a tinha dado. Lúcia pede à amiga do grupo de estudos que lhe faça a pergunta que desencadeia a explicação. Caio conta a obra para o sócio e grava.
 
-O corte cuida do que está escrito; o calendário cuida do resto. Mesmo com o caso encerrado, Otávio guardou o e-mail cortado numa pasta e marcou no caderno uma sexta três semanas adiante, longe da reunião das academias, para que ninguém ligasse uma coisa à outra. Com o tempo deslocado e os detalhes fora, sobrou a explicação, que serve a qualquer pequena empresa com prestador de serviço.
+Gravar a conversa real também serve, mas pede licença e cuidado. A licença é de quem está na conversa, e o cuidado é com o que ela revela: mesmo cortando o nome, uma gravação feita no atendimento pode carregar detalhes que identificam alguém.
+
+O corte tem uma regra estreita: sai o que é contexto daquela pessoa. Antes de cortar, Otávio escolheu o e-mail. Não usou o que tinha mandado à dona das academias: com a ação em curso, os fatos dela não saem do escritório, com nome ou sem nome. Abriu um e-mail de dois anos antes, de um caso encerrado, sobre o técnico de instalação de uma pequena empresa de ar-condicionado de Casa Amarela, e cortou o nome da empresa, os sete técnicos, o bairro e o tempo do verbo, que contava a história de uma pessoa. O que é geral ficou exatamente como saiu, inclusive a frase de abertura, as perguntas na ordem e o fecho curto. Depois guardou o texto e marcou no caderno uma sexta três semanas adiante, para que a dona das academias, se lesse, não achasse que a reunião dela tinha virado assunto.
 
 Não melhorar é o mais difícil. Ao reler, você vai achar a explicação informal demais, repetitiva, simples demais para alguém com a sua formação. Vai querer reescrever. Não reescreva. A versão que parece mal escrita foi testada em gente de verdade e funcionou. A versão bem escrita nunca foi testada em ninguém.
 
@@ -119,12 +121,12 @@ singular: O e-mail, depois do corte. "Contrato assinado não é prova de nada. S
 porque: A primeira está correta e fala com quem já sabe. A segunda faz as perguntas que o leitor responde sobre a própria empresa, e a conclusão chega antes do artigo de lei.
 ```
 
-Três semanas depois, numa sexta à tarde, Otávio publicou o texto no perfil do escritório, que estava parado desde a suspensão da agência. Tinha quatro parágrafos, a frase de abertura, as perguntas sobre horário, bronca e uniforme, e um fecho de uma linha. Não tinha arte nem título em caixa-alta.
+Na sexta marcada, à tarde, Otávio publicou o texto no perfil do escritório. Tinha quatro parágrafos, a frase de abertura, as perguntas sobre horário, bronca e uniforme, e um fecho de uma linha. Não tinha arte nem título em caixa-alta.
 
 Na mesma tarde, abriu a pasta de e-mails enviados procurando outras explicações que se repetissem. Encontrou doze. A de por que o banco de horas precisa de controle mensal, a do funcionário que pede para sair e depois quer a multa, a da advertência que não serve se for escrita depois. Todas tinham passado pelo mesmo processo, de páginas a parágrafos, sem que ele percebesse. Anotou os doze assuntos no caderno preto, na página seguinte à das perguntas recorrentes, e escreveu no alto, com a letra de sempre: prontas.
 
 ```guardar
-- A explicação que você repete há anos foi desenhada com gente de verdade, ao longo de anos. Nenhuma reunião de pauta produz isso.
+- A explicação que você repete há anos foi lapidada, conversa a conversa, com quem precisava entender. Nenhuma reunião de pauta produz isso.
 - Você não a publicou porque ficou automática, e o automático parece banal. Automático, aqui, quer dizer maduro.
 - Registre, corte só o que é daquela conversa e publique sem melhorar. A versão bem escrita nunca foi testada em ninguém.
 ```
@@ -143,7 +145,7 @@ campos:
     exemplo: "Escolha a que você mais repete, e não a mais nobre."
     linhas: 2
   - rotulo: "A explicação, exatamente como saiu"
-    exemplo: "Transcreva o miolo, da frase de abertura até a comparação; o resto pode ficar no áudio ou no e-mail impresso, grampeado aqui. Mantenha as perguntas, as comparações e o jeito de começar."
+    exemplo: "Transcreva o miolo, da frase de abertura até a comparação; o resto pode ficar no áudio ou no e-mail impresso, grampeado aqui. Mantenha as perguntas, as comparações e o jeito de começar. Deixe as repetições e os “olha”; corte só o que é de uma pessoa."
     linhas: 14
   - rotulo: "A comparação ou a pergunta fixa que apareceu, e de onde ela veio"
     exemplo: "Um engenheiro estrutural, quando o cliente quer tirar um pilar: “A viga é uma régua apoiada em dois livros. Tire um livro e veja.” Veio de uma obra em que o cliente não acreditava no cálculo."
@@ -203,7 +205,7 @@ roteiro_nota: Uma explicação por peça. Tire o que é de uma pessoa específic
   explicacao: As etapas caras, criar, organizar e testar, já aconteceram na sua prática, com centenas de pessoas. O que sobra é o registro, que é a operação mais barata de todas.
 - pergunta: Por que não se deve melhorar a explicação transcrita?
   opcoes:
-    - Porque a versão falada foi testada em gente de verdade, e a reescrita não.
+    - Porque a versão que você já dá foi testada em gente real, e a reescrita não.
     - Porque dá trabalho demais reescrever um texto já pronto.
     - Porque textos informais costumam ter mais alcance do que os formais.
     - Porque a lei exige que a transcrição seja literal.
@@ -212,7 +214,7 @@ roteiro_nota: Uma explicação por peça. Tire o que é de uma pessoa específic
 - pergunta: Qual destes NÃO é sinal de que uma explicação está madura?
   opcoes:
     - Você a dá sem pensar na ordem das partes.
-    - Ela tem uma comparação que você usa sempre.
+    - Ela tem uma comparação ou uma pergunta que você usa sempre.
     - Você sabe onde a pessoa vai interromper.
     - Ela ficou mais longa com os anos.
   correta: 3
