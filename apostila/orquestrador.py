@@ -269,7 +269,10 @@ def esc(s) -> str:
     return escape(FIG.aspas(s), quote=False)
 
 
-def linhas(k) -> str:
+def linhas(k, numerar=False) -> str:
+    if numerar:  # linhas numeradas, para que "quinze ou mais" se confira num olhar
+        return ('<div class="linhas num">' + "".join(f'<div><span>{i}</span></div>' for i in range(1, max(int(k), 1) + 1))
+                + "</div>")
     return '<div class="linhas">' + "<div></div>" * max(int(k), 1) + "</div>"
 
 
@@ -370,7 +373,7 @@ def b_oficina(d, c):
             espaco = (f'<table class="grade{curta}"><tr><th></th>' + "".join(f'<th>{esc(c_)}</th>' for c_ in g["colunas"])
                       + f'</tr>{corpo_g}</table>')
         else:
-            espaco = linhas(f.get("linhas", 3))
+            espaco = linhas(f.get("linhas", 3), f.get("numerar", False))
         campos += (f'<div class="campo"><p class="enunciado"><span class="n">{i:02d}</span>{md_inline(f["rotulo"])}</p>'
                    f'{dica}{espaco}</div>')
     crit = "".join(f"<li>{md_inline(x)}</li>" for x in d.get("criterios", []))

@@ -203,6 +203,9 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .linhas { margin-top: 1mm; }
 .linhas div { height: 7.6mm; border-bottom: .45pt solid #b9b2a4; }
 .linhas div:nth-child(-n+2) { break-before: avoid; }
+.linhas.num div { position: relative; }
+.linhas.num span { position: absolute; left: 0; bottom: .8mm; font: 600 6.8pt var(--sans); color: var(--acc-d); }
+.linhas.num div { padding-left: 5mm; }
 
 .criterios { margin-top: 6mm; border-top: .5pt solid var(--line); padding-top: 3mm; break-inside: avoid; }
 .caixas { list-style: none; margin: 0; padding: 0; }
