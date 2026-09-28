@@ -12,11 +12,11 @@ No primeiro domingo de setembro, depois do almoço, Renata sentou no sofá com o
 
 O celular guardava setecentos e poucos áudios, quase todos com o nome que o aplicativo dá sozinho: gravação 212, gravação 213, gravação 214. Havia ainda o grupo de mensagens em que ela era a única participante, com mais uns oitenta registros, e o caderninho de capa verde que ficava na gaveta do consultório, com anotações a lápis de quando a bateria acabava. Três lugares, e em nenhum deles uma ordem que não fosse a da data.
 
-Às quatro da tarde, tinha ouvido mais de cem, pulando os do corredor pelo tamanho e demorando nos do carro, que eram longos. Encontrou a mulher que achava que o travesseiro tinha causado a hérnia, a pergunta de um adolescente sobre a mochila, o senhor da cadeira de rodas que ela tinha guardado "para quando já me conhecerem". Encontrou coisas boas que tinha esquecido que existiam. Não encontrou o paciente do repouso. A peça de terça, que ela pretendia gravar naquela tarde, não foi gravada.
+Às quatro da tarde, tinha ouvido mais de cem, pulando os do corredor pelo tamanho e demorando nos do carro, que eram longos. Encontrou a mulher que achava que o travesseiro tinha causado a hérnia, a pergunta de um adolescente sobre a mochila, o senhor da cadeira de rodas que ela tinha guardado "para quando já me conhecerem". Encontrou coisas boas que tinha esquecido que existiam. Não encontrou o paciente do repouso. A peça de terça, cujo assunto ela queria deixar escolhido naquela tarde, ficou sem assunto e não foi gravada.
+
+Na noite daquele domingo, percebeu que a captura estava funcionando melhor do que nunca. Havia mais de um ano, Renata gravava quase todo dia, em vinte segundos, sem julgar. O que faltava era o que vem depois de capturar. O caderno de campo tinha virado um arquivo que só se abria pela data, e procurar alguma coisa nele custava mais do que inventar uma peça do zero.
 
 Na semana seguinte, publicou uma peça em vez de duas. A regra que tinha anotado quando fez a conta do próprio ritmo continuava de pé: peça que não sai na semana não passa para a seguinte. Cumpriu a regra e não compensou. Mas passou a semana com a sensação incômoda de ter perdido um domingo inteiro procurando uma coisa que ela mesma tinha guardado, e de que o problema ia se repetir.
-
-À noite, percebeu que a captura estava funcionando melhor do que nunca. Havia mais de um ano, Renata gravava quase todo dia, em vinte segundos, sem julgar. O que faltava era o que vem depois de capturar. O caderno de campo tinha virado um arquivo que só se abria pela data, e procurar alguma coisa nela custava mais do que inventar uma peça do zero.
 
 ## O caderno que engorda
 
@@ -42,13 +42,13 @@ definicao: O registro da matéria-prima no instante em que ela aparece, sem julg
 porque: A distância entre notar alguma coisa e produzir a partir dela é onde a matéria-prima se perde. A captura encurta essa distância trocando memória por registro, desde que não carregue o trabalho dos outros dois momentos.
 ```
 
-Cada momento protege os outros. Se a captura começa a julgar, fica cara e para de acontecer nos dias corridos, que são justamente os mais ricos. Se a produção começa a procurar, gasta a energia que deveria ir para a peça. A seleção é o que impede as duas coisas, e era o que Renata não tinha. Ela capturava na segunda e produzia na terça, e entre uma coisa e outra havia setecentos arquivos com número.
+Cada momento protege os outros. Se a captura começa a julgar, fica cara e para de acontecer nos dias corridos, que são justamente os mais ricos. Se a produção começa a procurar, gasta a energia que deveria ir para a peça. A seleção é o que impede as duas coisas, e era o que Renata não tinha. Ela capturava na segunda e produzia na terça, e entre uma coisa e outra havia um arquivo inteiro de gravações com número.
 
 ## As quatro regras da captura
 
-A primeira regra é um lugar só. Renata tinha três, e cada um parecia fazer sentido na hora: o gravador quando estava no carro, o grupo de mensagens quando estava com pressa, o caderninho quando o celular morria. O resultado é que nenhum dos três era o caderno de campo. Dois lugares obrigam a lembrar em qual deles a coisa ficou, e é exatamente a memória que a captura existe para dispensar.
+A primeira regra é um lugar só. Renata tinha três, e cada um parecia fazer sentido na hora: o gravador quando estava no carro, o grupo de mensagens quando estava com pressa, o caderninho quando o celular morria. Nenhum dos três era o caderno de campo. Dois lugares obrigam a lembrar em qual deles a coisa ficou, e é exatamente a memória que a captura existe para dispensar.
 
-A segunda é o tempo. Uma captura precisa caber no intervalo entre um paciente que sai e outro que entra, porque é ali que a matéria-prima aparece. Se passar de meio minuto, ela não acontece no dia cheio. A terceira e a quarta andam juntas: não julgar e não estruturar. Nada de título, categoria ou rascunho. Uma frase crua, com as palavras de quem falou, basta para que a lembrança volte inteira na hora de selecionar.
+As outras três o capítulo 6 já deu: meio minuto no máximo, porque a captura precisa caber no intervalo entre um paciente que sai e outro que entra; nada de julgar; nada de estruturar, nem título, nem categoria, nem rascunho. Uma frase crua, com as palavras de quem falou, basta para que a lembrança volte inteira na hora de selecionar.
 
 Para quem pensa falando, a frase crua tem uma forma própria. Os melhores áudios de Renata começam com a frase do paciente, repetida do jeito que ele disse, e o comentário dela vem depois, quando vem. "Ele disse: se eu parar de andar, a dor para." Às vezes, o áudio termina ali. Na seleção, é aquela frase que traz de volta a sala, o jeito da pessoa e o que ela queria entender.
 
@@ -69,7 +69,7 @@ texto: Um caderno de campo cheio de categorias, etiquetas e cores parece mais s�
 
 ## Os gatilhos
 
-Lembrar de capturar no meio de um dia cheio não funciona. O que funciona é amarrar a captura a coisas que acontecem todo dia, de modo que o fim de uma coisa puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por quase tudo.
+Renata amarrou a captura a coisas que acontecem todo dia, de modo que o fim de uma puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por quase tudo.
 
 ```figura
 tipo: barras
@@ -79,15 +79,15 @@ menor_melhor: false
 series:
   - {rotulo: "Fim de atendimento, no corredor: 31", valor: 31, nota: "O mais frequente. Vinte segundos antes de chamar o próximo paciente."}
   - {rotulo: "Volta para casa, no carro: 17", valor: 17, nota: "Mais longos, e mais soltos."}
-  - {rotulo: "A segunda explicação: 9", valor: 9, nota: "Os mais raros e os que mais viraram peça."}
+  - {rotulo: "A segunda explicação: 9", valor: 9, nota: "Poucos, e os que mais davam peça."}
   - {rotulo: "Surpresa: 6", valor: 6}
   - {rotulo: "Incômodo: 2", valor: 2}
 legenda: Os números são da Renata, contados num único mês. O seu caderno vai mostrar outra distribuição, e é ela que decide os seus dois gatilhos.
 ```
 
-O corredor era o gatilho mais frequente: vinte segundos com o celular encostado na boca, antes de chamar o próximo nome. O carro vinha depois, com áudios mais longos e mais soltos. Dos nove áudios nascidos de uma segunda explicação, seis estavam marcados para virar peça. Quando ela repetia a mesma coisa a duas pessoas diferentes em poucas horas, havia ali uma dúvida que andava pela cidade e batia duas vezes à porta dela no mesmo dia.
+O corredor era o gatilho mais frequente: vinte segundos com o celular encostado na boca, antes de chamar o próximo nome. O carro vinha depois, com áudios mais longos e mais soltos. Ouvindo de novo os nove áudios nascidos de uma segunda explicação, achou seis que dariam peça. Quando ela repetia a mesma coisa a duas pessoas diferentes em poucas horas, havia ali uma dúvida que andava pela cidade e batia duas vezes à porta dela no mesmo dia.
 
-Renata ficou com dois gatilhos, o corredor e o carro, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar antes de qualquer outro registro. Os outros dois, a surpresa e o incômodo, continuam valendo quando aparecem. Não precisam ser vigiados. Os cinco servem para qualquer ofício que atende gente, e a tabela a seguir mostra o que capturar em cada um.
+Renata ficou com dois gatilhos, o corredor e o carro, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar antes de qualquer outro registro. Os outros dois, a surpresa e o incômodo, continuam valendo quando aparecem. Não precisam ser vigiados. Os cinco servem para qualquer ofício que atende gente.
 
 Tabela: Cinco gatilhos que existem na rotina
 
@@ -99,13 +99,13 @@ Tabela: Cinco gatilhos que existem na rotina
 | Surpresa | Quando um caso foge do que você esperava | O detalhe que não fechava |
 | Volta para casa | No trajeto, quando o dia assenta | O que ficou na cabeça sem motivo aparente |
 
-O modo de cada um muda a forma do gatilho, e pouco muda o momento. Quem pensa escrevendo tende a capturar melhor com uma linha no papel do que com a voz, e o fim de atendimento vira uma frase no canto da agenda. Quem pensa respondendo captura melhor as perguntas que recebe do que as ideias que tem. Quem pensa contando registra o começo da história, "teve uma paciente que", e deixa o resto para a seleção. O momento continua o mesmo: o fim de alguma coisa que ia acontecer de qualquer jeito.
+O modo de cada um muda a forma do gatilho. Quem pensa escrevendo tende a capturar melhor com uma linha no papel do que com a voz, e o fim de atendimento vira uma frase no canto da agenda. Quem pensa respondendo captura melhor as perguntas que recebe do que as ideias que tem. Quem pensa contando registra o começo da história, "teve uma paciente que", e deixa o resto para a seleção. O momento continua o mesmo: o fim de alguma coisa que ia acontecer de qualquer jeito.
 
 ## A seleção
 
-A seleção é o momento em que o julgamento, proibido na captura, finalmente trabalha. Renata a marcou para a sexta-feira, depois do último paciente, no carro ainda parado em frente ao consultório: dez minutos para ouvir os áudios da semana, e nenhum outro. Os setecentos antigos ficaram onde estavam. Tentar organizá-los de uma vez seria repetir o domingo perdido em escala maior.
+A seleção é o momento em que o julgamento, proibido na captura, finalmente trabalha. Renata a marcou para a sexta-feira, depois do último paciente, no carro ainda parado em frente ao consultório: dez minutos para ouvir os áudios da semana, e nenhum outro. Os antigos ficaram onde estavam. Tentar organizá-los de uma vez seria repetir o domingo perdido em escala maior.
 
-Na sexta, a semana acabou, e os áudios de segunda ainda são reconhecíveis: ela lembra da pessoa, da sala, do que veio antes. No domingo, a distância seria grande demais, e a seleção voltaria a ser uma escuta de arquivo. Dez minutos também não é um número ao acaso. É o tempo de ouvir quinze áudios curtos em velocidade acelerada e decidir sem pensar demais em nenhum.
+Na sexta, a semana acabou, e os áudios de segunda ainda são reconhecíveis: ela lembra da pessoa, da sala, do que veio antes. No domingo, a distância seria grande demais, e a seleção voltaria a ser uma escuta de arquivo. Dez minutos dão para ouvir quinze áudios curtos em velocidade acelerada e decidir sem pensar demais em nenhum.
 
 No quebra-sol, ao lado do enunciado, ela prendeu um papel com as perguntas que decidem.
 
@@ -119,22 +119,22 @@ itens:
   - Em que data isto pode sair? Um mês depois do último atendimento em que o assunto apareceu, no mínimo.
 ```
 
-A primeira pergunta separa o episódio do padrão, a segunda e a quarta são a regra de sigilo do capítulo 13, e a terceira puxa o repertório da Fase II. O que falha na segunda pode esperar meses, até que o caso se afaste o bastante da pessoa que o viveu.
+Quando o assunto já é um padrão, ouvido de muitas pessoas, a data se conta a partir do atendimento de onde sai a frase que vai na peça, e a peça usa as palavras que qualquer um deles diria. A primeira pergunta separa o episódio do padrão, a segunda e a quarta são a regra de sigilo do capítulo 13, e a terceira puxa o repertório da Fase II. O que falha na segunda pode esperar meses, até que o caso se afaste o bastante da pessoa que o viveu.
 
-Ela escolhe dois, porque o ritmo dela é de duas peças por semana. Os escolhidos ganham um nome novo, com a palavra "usar", o assunto em três palavras e a data a partir da qual podem sair. É a única estrutura que o sistema recebe, e ela só aparece na seleção. A produção de terça pega, nessa fila, o que já está liberado. Os outros continuam guardados, sem nome, e não são apagados. Um áudio que não serviu nesta semana pode servir quando o mesmo assunto aparecer de novo.
+Ela escolhe dois, porque o ritmo dela é de duas peças por semana. Os escolhidos ganham um nome novo, com a palavra "usar", o assunto em três palavras e a data a partir da qual podem sair. É a única estrutura que o sistema recebe, e ela só aparece na seleção. A produção de terça e de quinta pega, nessa fila, o que já está liberado. Os outros continuam guardados, sem nome, e não são apagados. Um áudio que não serviu nesta semana pode servir quando o mesmo assunto aparecer de novo.
 
-Os antigos entram por outra porta, e nas primeiras semanas foram eles que encheram a fila, porque já tinham passado da data. Quando a fila está curta, ela ouve cinco dos antigos, ao acaso, e escolhe o segundo entre eles. É uma visita curta ao arquivo, com hora para acabar. O senhor da cadeira de rodas continua lá, e ela passou por ele duas vezes sem mexer no nome.
+Os antigos entram por outra porta, e nas primeiras semanas foram eles que encheram a fila, porque já tinham passado da data. Quando a fila está curta, ela ouve cinco dos antigos, ao acaso, e tira deles o que falta para a semana. É uma visita curta ao arquivo, com hora para acabar. O senhor da cadeira de rodas continua lá, e ela passou por ele duas vezes sem mexer no nome.
 
 Na terça seguinte, Renata gravou a peça a partir de um áudio do corredor que a visita ao arquivo tinha trazido: um paciente dizendo que a dor sumia quando ele se distraía e voltava quando lembrava dela. O áudio tinha dezoito segundos e seis semanas. A peça saiu na primeira tentativa, porque o trabalho de decidir o assunto estava feito desde sexta.
 
-Nas semanas seguintes, a seleção de sexta passou a durar entre oito e doze minutos. Algumas semanas tinham onze áudios, outras dezenove. Em nenhuma ficou sem as duas escolhidas; em duas, precisou visitar o arquivo antigo. No domingo seguinte, o fone ficou na bolsa.
+Nas semanas seguintes, a seleção de sexta passou a durar entre oito e doze minutos. Algumas semanas tinham onze áudios, outras dezenove. Em nenhuma ficou sem as duas escolhidas. Depois do primeiro mês, quando as escolhidas das sextas começaram a vencer a data, a fila passou a se encher sozinha, e o arquivo antigo só foi preciso em duas semanas. Aos domingos, o fone ficava na bolsa.
 
 O paciente do repouso absoluto ela não encontrou nunca. Em outubro, um senhor de sessenta anos chegou ao consultório dizendo que o ortopedista tinha mandado andar, mas que ele achava mais seguro ficar deitado. Renata ouviu a mesma crença de julho, com outras palavras. No corredor, antes de chamar a paciente seguinte, gravou de novo, em vinte segundos. Na sexta, no carro, foi o primeiro da semana a ganhar nome: usar, repouso que piora. Ao lado, ela anotou a data de novembro.
 
 ```guardar
 - O caderno de campo tem três momentos com custos diferentes. A captura, todo dia, não decide nada; a seleção, uma vez por semana, decide tudo; a produção recebe a matéria-prima escolhida.
 - Um lugar só, menos de meio minuto, sem julgar e sem estruturar. Qualquer regra a mais encarece a captura, e ela para no primeiro dia cheio.
-- "Na seleção, só entra a captura da semana. O arquivo antigo é visitado aos poucos, com hora para acabar."
+- "A seleção olha só a captura da semana, escolhe o que o ritmo pede e anota a data em que cada escolhida pode sair. A produção pega só o que já está liberado."
 ```
 
 ```oficina
@@ -146,7 +146,7 @@ campos:
   - rotulo: "Onde as suas capturas estão hoje?"
     exemplo: "Marque todos os lugares em que existe alguma anotação desde o capítulo 6."
     grade:
-      colunas: ["Tem capturas"]
+      colunas: ["Tem capturas", "Leva mais de 30 s"]
       linhas: ["O caderno ou a nota do capítulo 6", "Áudios no celular", "Mensagens para si mesmo", "Papéis soltos, agenda, cartões", "Outro lugar"]
   - rotulo: "O lugar único que fica, e o que acontece com os outros"
     exemplo: "Uma cabeleireira: “Fica a nota fixa do celular. Os papéis do balcão, eu passo para lá hoje e jogo fora.”"
@@ -158,21 +158,21 @@ campos:
     exemplo: "Dez minutos, uma vez por semana. Uma engenheira agrônoma: “Sexta, 17h30, na caminhonete, antes de sair da última propriedade.”"
     linhas: 2
   - rotulo: "A primeira seleção: as capturas da última semana"
-    exemplo: "Uma por linha, só as primeiras palavras. Passe cada uma pelas quatro perguntas, circule as escolhidas e escreva ao lado a data em que podem sair."
+    exemplo: "Uma por linha, só as primeiras palavras. Se a semana tiver menos de cinco, complete com as do caderno desde o capítulo 6. Passe cada uma pelas quatro perguntas, circule as escolhidas e escreva ao lado a data em que podem sair."
     linhas: 10
     numerar: true
   - rotulo: "Por que as escolhidas passaram"
     exemplo: "Uma linha para cada: apareceu mais de uma vez, dá para contar sem identificar ninguém, você tem algo seu a dizer, e a data está anotada."
     linhas: 3
 criterios:
-  - O campo 02 tem um lugar só, e o destino dos outros está decidido.
+  - O campo 02 tem um lugar só, em que a captura cabe em meio minuto, e o destino dos outros está decidido.
   - Os gatilhos do campo 03 são momentos que já acontecem, com hora.
   - As escolhidas do campo 05 estão circuladas, e as outras continuam na lista.
 ```
 
 ```rede
 titulo: A frase que se repete
-intro: "Escolha uma captura aprovada cuja data já chegou, de preferência uma que tenha aparecido mais de uma vez. A peça conta o que você viu, sobre a sua área, e o que isso revela. O caderno e o jeito de anotar ficam fora dela."
+intro: "Escolha uma captura aprovada cuja data já chegou, de preferência uma que tenha aparecido mais de uma vez. Se nenhuma data chegou ainda, use uma captura que não veio de atendimento, como um incômodo com alguma coisa da sua área ou uma pergunta ouvida fora do trabalho. A peça conta o que você viu, sobre a sua área, e o que isso revela. O caderno e o jeito de anotar ficam fora dela."
 regras:
   - {regra: "Comece pelo que você viu, com as palavras de quem disse.", porque: "A frase crua da captura é o que dá à peça o tom de coisa vivida. Reescrita em linguagem técnica, ela vira texto de qualquer um."}
   - {regra: "Diga que se repete, sem inventar números e sem datar.", porque: "“Ouço isso com frequência” é verdade que a sua agenda confirma. “Muita gente pensa isso” não se confirma em lugar nenhum, e “esta semana” aponta para quem disse."}
@@ -210,7 +210,7 @@ faca_antes: true
     - Um aplicativo com etiquetas e pastas para cada assunto da área.
     - Um formato mais adequado ao modo oral dela.
   correta: 1
-  explicacao: A captura funcionava, com mais de oitocentos registros. Sem seleção, a decisão sobre o que produzir ficava para a hora de produzir e virava uma busca, mais cara do que inventar uma peça do zero.
+  explicacao: A captura funcionava, com perto de oitocentos registros. Sem seleção, a decisão sobre o que produzir ficava para a hora de produzir e virava uma busca, mais cara do que inventar uma peça do zero.
 - pergunta: Por que o aplicativo com etiquetas não funcionou para a Renata?
   opcoes:
     - Porque o aplicativo não aceitava gravações de áudio.
@@ -226,15 +226,15 @@ faca_antes: true
     - Porque a regra de sigilo proíbe usar registros com mais de um mês.
     - Para que o arquivo antigo possa ser apagado depois.
   correta: 0
-  explicacao: Tentar organizar o arquivo inteiro repetiria o domingo perdido em escala maior. Os antigos continuam guardados e entram aos poucos, quando a semana foi fraca, numa visita com hora para acabar.
+  explicacao: Tentar organizar o arquivo inteiro repetiria o domingo perdido em escala maior. Os antigos continuam guardados e entram aos poucos, quando a fila de liberados está curta, numa visita com hora para acabar.
 - pergunta: O que a contagem de agosto mostrou à Renata sobre o gatilho da segunda explicação?
   opcoes:
     - Que era o gatilho mais frequente do mês.
     - Que funcionava apenas no carro, na volta para casa.
     - Que produzia os áudios mais longos e mais soltos.
-    - Que era raro, mas era o que mais virava peça.
+    - Que era pouco frequente, mas era o que mais dava peça.
   correta: 3
-  explicacao: Foram nove áudios, e seis viraram peça. Explicar a mesma coisa a duas pessoas no mesmo dia é sinal de uma dúvida que circula, e por isso ela passou a gravar sempre que se ouve repetindo.
+  explicacao: Foram nove áudios, e seis davam peça. Explicar a mesma coisa a duas pessoas no mesmo dia é sinal de uma dúvida que circula, e por isso ela passou a gravar sempre que se ouve repetindo.
 ```
 
 ```aplicacao

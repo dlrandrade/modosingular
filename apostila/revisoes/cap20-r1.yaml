@@ -1,0 +1,74 @@
+capitulo: 20
+iteracao: 1
+notas: {metodo: 8.4, voz: 8.7, originalidade: 8.2, clareza: 8.8, ritmo: 8.9, concretude: 8.5,
+        coerencia: 7.6, aplicabilidade: 8.3, impresso: 9.0, honestidade: 8.8}
+bloqueadores:
+  - "Contradição com o método e problema ético na cena central: Caio publica às 7h52 uma peça sobre a decisão pendente da proprietária da obra em curso ('a proprietária tinha pedido na véspera que ele fosse trocado por um de alumínio'), antes de falar com ela, e ela 'Tinha visto a foto às oito da manhã e reconhecido a porta da cozinha pela maçaneta'. Isso viola a regra de sigilo pelo calendário que o cap. 19 acabou de tornar regra do sistema ('Um mês depois do último atendimento em que o assunto apareceu, no mínimo'), a lição cap03-r2 ('o assunto nunca é a decisão daquele cliente') e o próprio critério da oficina ('partiu de uma captura selecionada, e não de uma ideia nova'). Pior: o capítulo mostra o post funcionando como argumento para convencer a cliente, e premia isso ('Pediu que ele raspasse o batente'). A licença contratual citada não cobre o caso, porque a dona se reconheceu."
+  - "Erro de ofício no caso central: 'O de alumínio que viria no lugar dele empena no primeiro verão.' Batente de alumínio não empena com calor; o que empena é madeira. Um arquiteto de reforma leria isso como erro técnico (lição cap09-r1). Trocar por uma desvantagem real do alumínio barato (perfil oco de chapa fina, amassa na primeira pancada e não se conserta, só se troca; ou exige quebrar a alvenaria para chumbar de novo)."
+pontos_fortes:
+  - "A cena de abertura tem hora, lugar, material e gesto ('sentou no degrau da escada do prédio, com o capacete no colo, e escreveu cinco linhas no celular'), e o modo narrativo do Caio aparece já na estrutura das cinco linhas ('Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa')."
+  - "O conceito nasce de uma medição concreta, não de definição: 'quarenta minutos... decidindo o formato da semana' contra 'A peça em si... levou vinte'. A tese do PWA (decisão cansa mais que execução) desce ao caso sem perder precisão."
+  - "Boa correção dos números do PWA: nada de '112 peças' ou '14 meses' como dado; a tabela tira as durações de propósito e o parágrafo da Lúcia (72 contra 84 minutos) mostra que formato-base não é sinônimo de formato rápido, com números que batem com o cap. 8."
+  - "Checklist, oficina e rede estão amarrados campo a campo; a rede respeita a regra de ouro ('O assunto é o da captura que você escolheu, sobre a sua área') e o 'Evite' traz um item fino e útil ('Contar ao público que você adotou um formato novo')."
+problemas:
+  - criterio: metodo
+    trecho: "Publicou às sete e cinquenta e dois, com a licença que desde junho entra em todos os contratos dele, para fotos de detalhes da obra sem nada que identifique o apartamento ou o dono, e subiu."
+    por_que: "Ver bloqueador 1. A peça-modelo do capítulo sai da obra da semana, sobre uma decisão ainda aberta da cliente, no mesmo dia, sem passar pela seleção do cap. 19. A descrição do formato reforça o problema ('uma foto tirada na obra daquela semana'), o que faz do calendário de sigilo uma impossibilidade estrutural do formato do Caio. E o fecho ('escolhendo a obra da quinta') contradiz o que a seleção do cap. 19 manda fazer (escolher capturas já liberadas)."
+    correcao: "Separar a peça da obra em curso. A foto e as cinco linhas da quinta vêm de uma captura selecionada na quarta, de uma obra entregue há meses (o batente de outro apartamento, já raspado). Na obra do dia, Caio explica à proprietária de viva voz, e a cena final mostra a espera: ele anota 'batente de alumínio — liberar em dezembro' no caderno. Trocar 'uma foto tirada na obra daquela semana' por 'uma foto de obra, tirada no dia da captura e publicada depois da seleção'. Cortar a proprietária reconhecendo a maçaneta."
+  - criterio: concretude
+    trecho: "O de alumínio que viria no lugar dele empena no primeiro verão."
+    por_que: "Ver bloqueador 2: afirmação técnica falsa num livro para especialistas; a leitora engenheira ou arquiteta para de confiar no Caio ali."
+    correcao: "'O de alumínio que viria no lugar é de chapa fina: amassa na primeira pancada e não tem conserto, só troca.'"
+  - criterio: coerencia
+    trecho: "Vídeo numa tomada, com regravações: 40"
+    por_que: "O rótulo se contradiz (uma tomada, com regravações) e bate de frente com o cap. 3, em que o vídeo do granilite, numa tomada, levou 'quatro minutos' para gravar e publicar, e com o próprio cap. 20, que diz que o quinto formato funciona 'para quem aceita a primeira tomada, com o erro no meio, como Caio aceitou no vídeo do granilite'. O leitor não sabe se Caio regravava ou não."
+    correcao: "Mudar o rótulo para 'Vídeo gravado até sair certo: 40' e pôr uma frase na prosa: depois do granilite, os vídeos seguintes passaram a ser regravados, e o custo subiu de quatro minutos para quarenta. Assim a lição do quinto formato fica demonstrada pelo próprio Caio."
+  - criterio: aplicabilidade
+    trecho: "Os quatro testes do campo 02 estão marcados como aprovados. Se algum não passou, o formato do campo 01 mudou."
+    por_que: "O capítulo afirma que 'O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima', mas a oficina exige marcar hoje 'Repetição: aguento fazer cem vezes' como aprovado. Além disso, o teste do pior mês é marcado no campo 02, antes de a peça ser feita e o custo medido (campos 03 e 04). A ordem da oficina impede o leitor de responder com honestidade."
+    correcao: "Reordenar: 01 formato; 02 peça de hoje; 03 custo medido; 04 os quatro testes. Na grade, a linha da repetição ganha uma terceira coluna 'Confirmar na 4ª peça, em ___/___', espelhando o prazo de quatro semanas do Caio. Critério: 'Modo, pior mês e repertório aprovados; a repetição tem data de conferência marcada.'"
+  - criterio: aplicabilidade
+    trecho: "tempo_nota: incluída uma peça feita no formato"
+    por_que: "Trinta minutos incluindo a peça não é honesto num capítulo que mostra peças de 35 (Renata), 72 (Lúcia) e 90 minutos (psicopedagoga) como legítimas. Lição cap08-r1: o tempo da oficina é honesto."
+    correcao: "tempo: 20, tempo_nota: 'mais o tempo da peça, que é justamente o que você vai medir'."
+  - criterio: originalidade
+    trecho: "Por baixo da tinta, era peroba, madeira que não se compra mais nessa bitola. Raspado e encerado, dura mais que o prédio."
+    por_que: "A peroba que vale mais raspada do que trocada já é a imagem-marca do Caio nos caps. 3, 6 e 10 ('Repete há anos a frase do taco de peroba, que vale mais raspado do que arrancado'). A cena central do cap. 20 repete a mesma batida com outra peça de madeira, e ainda num 'apartamento de 1971 no Cambuí', quando o primeiro vídeo do cap. 3 era de 'um apartamento de 1972 no Cambuí'. O leitor vai achar que é a mesma obra ou a mesma história requentada (lição cap02-r1)."
+    correcao: "Trocar o achado por outro detalhe de reforma que não seja madeira raspada (ex.: uma bandeira de vidro canelado sobre a porta, um quadro de disjuntores de 1968 que ninguém deveria manter, um rodapé que esconde a umidade) e mudar o bairro ou o ano (ex.: Botafogo, 1964). Se o batente de peroba precisa existir por causa do cap. 25, basta citá-lo como uma das quintas, sem fazer dele a cena."
+  - criterio: coerencia
+    trecho: "Havia quatro meses que Caio publicava do mesmo jeito: uma foto tirada na obra daquela semana, cinco linhas escritas no degrau, no carro ou na fila da madeireira, sempre começando por"
+    por_que: "Contradiz 'Nas duas primeiras semanas, ele escreveu legendas de uma linha'. Se as dezessete quintas foram todas de cinco linhas, as duas de uma linha ficaram antes delas; mas a trigésima é contada 'da primeira quinta-feira, em junho', e o prazo de 'quatro quintas-feiras seguidas' não diz se incluiu as de uma linha. A linha do tempo não fecha."
+    correcao: "Fixar: primeira quinta com foto em junho (legenda de uma linha), terceira quinta já com cinco linhas; dizer 'Era a décima sétima quinta-feira seguida com uma foto; as cinco linhas vieram na terceira'. E ajustar 'sempre começando por' para 'desde a terceira, sempre começando por'."
+  - criterio: metodo
+    trecho: "Às vezes, a peça mais velha da casa é a mais nova que você vai ter."
+    por_que: "É a 'frase que a pessoa levaria', a linha do critério, e o próprio capítulo diz que 'quatro não comportavam o critério'. Mas é um aforismo, não uma régua que o cliente usa sozinho (lição cap02-r3). A peça-modelo falha no teste do repertório que o capítulo ensina."
+    correcao: "Quinta linha como régua: 'Antes de trocar uma peça velha, raspe um canto: se por baixo tem madeira maciça, o problema é só a tinta.' (ou equivalente com o detalhe novo, se a cena mudar)."
+  - criterio: clareza
+    trecho: "mas custava quarenta minutos com as regravações e caía no teste do pior mês"
+    por_que: "O leitor nunca sabe qual é o número do pior mês do Caio. Logo depois, a peça de 72 minutos da Lúcia passa no teste. Sem o número dele, 40 reprovar e 72 aprovar parece arbitrário, e o parágrafo da Lúcia vira uma contradição aparente em vez de uma lição."
+    correcao: "Dar o número do Caio uma vez: 'no mês de entrega de obra, sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia quarenta'."
+  - criterio: voz
+    trecho: "Um formato-base não precisa ser rápido. Precisa caber no número que você calculou, com folga."
+    por_que: "O lint aceita, mas a antítese virou a espinha do capítulo: 'Fixar o formato não deixa as peças iguais', 'O que decide é quantas vezes você grava de novo, mais do que a duração do vídeo', 'e nenhum deles é o tédio', 'Variar não é trocar de formato. É pegar...', 'tédio de quem faz, e não cansaço de quem lê', 'O segundo formato não é mais bonito'. Mais de uma por seção (lição cap01-r1)."
+    correcao: "Manter duas e afirmar as outras. Ex.: 'Um formato-base precisa caber no número que você calculou, com folga, e a Lúcia prova que isso pode ser setenta minutos.' / 'Variar é pegar a mesma matéria-prima e dar a ela uma segunda forma...' / 'Quantas vezes você grava de novo decide mais que a duração do vídeo' -> 'O custo está nas regravações.'"
+  - criterio: honestidade
+    trecho: "A vontade de mudar costuma aparecer perto da décima, e quase sempre é tédio de quem faz"
+    por_que: "Generalizações empíricas sem fonte: 'costuma ser lida', 'costuma custar também o repertório', 'costuma aparecer perto da décima' (duas vezes, box e gabarito), 'quase sempre'. Limite de 2 por capítulo (lição cap01-r4/cap02-r2). Na mesma linha, 'Quem acompanhava as quintas-feiras dele tinha visto, na melhor das hipóteses, metade delas' é apresentado como 'uma conta simples', mas nenhuma conta aparece."
+    correcao: "Box: 'Se a vontade de mudar aparecer perto da décima, desconfie: o cansaço é de quem faz, não de quem lê.' Gabarito: 'A vontade de mudar pode aparecer bem antes...'. Na prosa, dar a conta ao Caio ('das dezessete, a mulher que mais comentava tinha visto seis') ou chamar de suposição dele."
+  - criterio: clareza
+    trecho: "Por volta da décima quinta-feira, Caio ficou com vontade de mudar."
+    por_que: "Lido em voz alta, 'décima quinta-feira' soa como 'décima quinta' (15ª). O leitor hesita, e a regra das trinta depende exatamente do número dez."
+    correcao: "'Por volta da décima semana, Caio ficou com vontade de mudar.'"
+edicoes_de_linha:
+  - "'a trigésima cai no começo de fevereiro' -> 'a trigésima cai no fim de janeiro' (de 14/10, duas por semana, a 30ª é a de 23/01; a conta tem de fechar)"
+  - "'| Oral, narrativo | Nenhum |' -> '| Oral, narrativo | Nenhum dos quatro |'"
+  - "'Texto curto, escrito à mão' -> 'Texto curto, rascunhado à mão' (ninguém publica manuscrito)"
+  - "'Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu. A câmera continuou no armário.' -> cortar 'A câmera continuou no armário.' (a imagem já está em 'que continuava no armário do escritório', na mesma cena do sócio, e fecha o cap. 3)"
+  - "'Publicou às sete e cinquenta e dois, com a licença que desde junho entra em todos os contratos dele, para fotos de detalhes da obra sem nada que identifique o apartamento ou o dono, e subiu.' -> quebrar em duas frases (se a licença continuar na cena): 'Publicou às sete e cinquenta e dois e subiu. Desde junho, todos os contratos dele trazem uma licença para fotos de detalhe, sem nada que identifique o apartamento ou o dono.'"
+  - "'unidade: minutos por peça, medidos com relógio, incluindo regravações' -> 'unidade: minutos por peça, medidos com relógio'"
+  - "'Era a décima sétima quinta-feira seguida.' -> 'Era a décima sétima semana seguida.' (evita a mesma colisão de ordinal com 'quinta-feira')"
+diagramacao:
+  - "p015: Figura 20.1 repete no rótulo da série e no subtítulo a palavra 'regravações', e o subtítulo em sans negrito ('minutos por peça, medidos com relógio, incluindo regravações') compete com o título em itálico; reduzir o peso da unidade."
+  - "p018: na Figura 20.2 a nota 'O caderno de campo do capítulo 19. Nunca para.' quebra deixando 'para.' sozinho na segunda linha; encurtar a nota ('Caderno de campo, cap. 19. Nunca para.')."
+  - "p025: o checklist de aplicação ocupa só o terço superior e a p026 fica em branco; se a verificação da p024 for compactada (ou a nota de rodapé 'Respostas comentadas...' subir), avaliar se o checklist cabe na p024 e o capítulo fecha em 15 páginas. Brancos das p019 (antes da oficina), p020 (campo 03 indivisível) e p022 (esqueleto indivisível) são aceitos pelo projeto."
+veredito: "Capítulo bem escrito e com Caio vivo na página, mas reprovado: a cena central publica a decisão pendente de uma cliente no mesmo dia, contra o sigilo pelo calendário que o livro acabou de instituir, apoia-se num erro técnico (alumínio que empena) e repete a peroba raspada do cap. 3; a oficina pede aprovar hoje um teste que o próprio texto diz só se responder fazendo."
