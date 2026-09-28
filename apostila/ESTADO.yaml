@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 20:19
+# atualizado: 2026-09-28 20:21
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -703,8 +703,19 @@ capitulos:
       veredito: reprovado
     nota: 8.56
   22:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:20
+      revisao: apostila/revisoes/cap22-r1.yaml
+      media: 8.64
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.64
   23:
     status: rascunho
     iteracoes: []
@@ -767,6 +778,7 @@ figurantes:
   - 21
   - 29
   - 21
+  - 22
   dermatologista:
   - 3
   - 10
@@ -803,6 +815,7 @@ figurantes:
   - 7
   - 23
   - 30
+  - 22
   farmacêutica:
   - 3
   - 6
