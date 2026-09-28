@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 02:02
+# atualizado: 2026-09-28 02:03
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -297,7 +297,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.61
+    - iteracao: 2
+      data: 2026-09-28 02:03
+      revisao: apostila/revisoes/cap09-r2.yaml
+      media: 8.93
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.93
   10:
     status: rascunho
     iteracoes: []

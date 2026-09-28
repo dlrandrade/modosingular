@@ -1,0 +1,72 @@
+capitulo: 9
+iteracao: 2
+notas: {metodo: 9.0, voz: 8.8, originalidade: 9.0, clareza: 8.8, ritmo: 8.8, concretude: 9.0,
+        coerencia: 8.7, aplicabilidade: 9.2, impresso: 8.9, honestidade: 8.9}
+bloqueadores:
+  - 'Erro de fato no caso central (lição cap09-r1): "setenta anos de coluna, idade em que o exame quase sempre mostra alguma hérnia sem que seja ela a causa da dor". Em pessoas de setenta anos sem dor, a ressonância quase sempre mostra desgaste e abaulamento de disco; hérnia (protrusão) aparece em algo perto de quatro em cada dez, não "quase sempre". Um fisioterapeuta ou radiologista leitor nota o exagero, e ele sustenta justamente o argumento de desconfiar do laudo. Correção de uma linha: "idade em que o exame quase sempre mostra desgaste nos discos, e muitas vezes uma hérnia, sem que seja ela a causa da dor".'
+pontos_fortes:
+  - 'O bloqueador da r1 foi resolvido com ganho: o caso do ex-motorista agora fecha clinicamente ("uma lista de exercícios de arquear as costas para trás, que pioravam tudo"; "piorava em pé e andando e aliviava quando ele sentava"), e o carrinho continua sendo o detalhe que move a cena.'
+  - 'A cena de abertura em dois tempos segue exemplar: a lista que "Estava tudo certo, e nada ali era dela", o "estudante do quarto período", e o modo oral da Renata em ação no telefonema ("as mãos desenhando no ar a curva da coluna dele").'
+  - 'O fecho fecha o círculo com matéria nova: o conselho que dá errado sai da própria lista riscada ("Falou do alongamento de posterior de coxa, que estava na lista de onze linhas"), com detalhe de ofício exato e sem identificar paciente.'
+  - 'Oficina e rede bem amarradas: campo 01 faz o leitor repetir o erro da cena, a grade do campo 05 tem saída para quem não publica, o roteiro ganhou o contraste e serve aos campos 02 e 03 ("sua estimativa, se tiver"), e a nota do roteiro fixa "um sinal para observar ou uma pergunta para levar à consulta, nunca uma conduta".'
+problemas:
+  - criterio: concretude
+    trecho: "idade em que o exame quase sempre mostra alguma hérnia sem que seja ela a causa da dor"
+    por_que: "Ver bloqueador. Dado de imagem exagerado no parágrafo que define o repertório da Renata."
+    correcao: "idade em que o exame quase sempre mostra desgaste nos discos, e muitas vezes uma hérnia, sem que seja ela a causa da dor"
+  - criterio: clareza
+    trecho: "Havia um padrão, a dor da hérnia, que costuma piorar sentado"
+    por_que: "Contradição interna no mapa das camadas, que é o centro do capítulo. A figura diz que Padrão é o que \"Só o volume ensina\" e o texto que \"As três de baixo só existem em quem praticou\"; o gabarito 02 reforça: \"Nenhum dos três está nos livros.\" Mas o padrão que o texto atribui à Renata (hérnia piora sentado) é camada 1, está em qualquer livro-texto, e duas páginas depois o próprio texto admite que \"o sinal do carrinho está nos livros\". O leitor apressado sai sem saber se padrão é o que está no livro ou o que não está. A saída da r1 (repertório é reconhecer o sinal fora do lugar) é boa, mas não foi propagada para a análise por camadas nem para o gabarito."
+    correcao: "Trocar o padrão por um que só o volume dá, tirado do próprio caso: \"Havia um padrão, o de que esses pacientes quase nunca contam o carrinho quando ela pergunta pela dor, só quando ela pergunta como é fazer mercado; uma exceção, ...\". No gabarito 02: \"Nenhum dos três se aprende só nos livros.\" Na abertura da seção 2: \"As três de baixo só se formam em quem praticou.\""
+  - criterio: voz
+    trecho: "A lista era informação: o que a profissão sabe, organizado em tópicos"
+    por_que: "A cadência de pares opostos apontada na r1 diminuiu, mas a seção \"A regra e o dia em que ela falha\" ainda empilha quatro: \"A lista era informação... A história era repertório\", \"Quem estudou sabe a regra. Quem praticou por muitos anos sabe\", \"Os manuais descrevem o caso típico...; o repertório se forma nos casos que fogem do típico\" e, depois do conceito, \"A lista tinha saído de assuntos. A história saiu de um caso\". A lição cap01-r1 admite uma por seção. Seguem-se \"Reconhecer o sinal na prova é informação. Ouvi-lo ali... é repertório\" e \"Repertório é o que você viu... Opinião é o que você defende\" na mesma seção, \"não pede conhecimento; pede memória\" e \"e não na ordem de uma aula\" na última, mais o guardar 3 e a epígrafe. O lint não pega; lido em voz alta, soa a palestra."
+    correcao: "Na seção 2, manter só a do PWA (\"Quem estudou sabe a regra...\"). Primeiro parágrafo: \"O caderno e o telefonema mostraram a mesma pessoa, com a mesma formação, na mesma semana, em dois estados diferentes. No caderno estava o que a profissão sabe, organizado em tópicos, disponível nos livros-texto e em trinta segundos de busca; no telefonema, o que Renata sabe por ter atendido muitos pacientes, incluindo os que não se comportaram como o livro prometia.\" Cortar \"Os manuais descrevem o caso típico e registram alguns sinais de alerta;\" e começar a frase em \"O repertório se forma nos casos que fogem do típico...\". Pós-conceito: \"A história trouxe junto tudo o que a lista não tinha: ...\". Na seção 4: \"conte o caso na ordem em que ele aconteceu. Comece pelo que você viu primeiro...\" (sem \"e não na ordem de uma aula\")."
+  - criterio: coerencia
+    trecho: "Renata tinha razão em parte: o sinal do carrinho está nos livros"
+    por_que: "Referência solta. A frase anterior é uma generalização (\"Quem tem repertório tende a achar que todo colega sabe o mesmo\"), e em nenhum lugar o texto mostra Renata achando isso; a crença que justificava \"tinha razão\" foi cortada na revisão. O leitor procura a opinião da Renata que não existe."
+    correcao: "\"Renata, se alguém lhe perguntasse, diria que qualquer fisioterapeuta desconfiaria do carrinho, e teria razão em parte: o sinal está nos livros, e ...\" Ou abrir direto: \"O sinal do carrinho está nos livros, e qualquer fisioterapeuta o reconheceria numa prova.\" (cortando \"Quem tem repertório tende a achar...\", que também conta como generalização)."
+  - criterio: voz
+    trecho: "e é por aí que a maioria das pessoas deste livro vai começar"
+    por_que: "Apontado na r1 e não resolvido: ambíguo (personagens? leitores?), generaliza e é o narrador anunciando o percurso do livro."
+    correcao: "\"Mas dá para publicar muito repertório sem entrar em nenhuma polêmica, e é por ele que você pode começar.\" Ou terminar em \"sem entrar em nenhuma polêmica.\""
+  - criterio: honestidade
+    trecho: "a janela de ferro que todo mundo quer trocar"
+    por_que: "Generalizações sobre terceiros acima do limite de 2 (lição cap01-r4/cap02-r2): \"a exceção a uma regra que todo mundo repete\", \"a janela de ferro que todo mundo quer trocar\", \"A maior parte vive nas duas camadas de cima\", \"Quem tem repertório tende a achar que todo colega sabe o mesmo\", \"que todo paciente com dor lombar já ouviu recomendar\". Há também absolutos de autoridade: \"uma coisa que nenhum curso de direito do trabalho ensina\", \"que livro nenhum registra\"."
+    correcao: "\"a exceção a uma regra que a profissão repete\"; \"a janela de ferro que os clientes dele chegam querendo trocar\"; cortar \"Quem tem repertório tende a achar...\" (ver problema anterior); \"que quase todo paciente com dor lombar já ouviu recomendar\" pode ficar como observação da Renata (\"que os pacientes dela já chegam tendo ouvido recomendar\"); \"Otávio tem um exemplo da mesma espécie, colhido em vinte e cinco anos de pequenas empresas.\""
+  - criterio: concretude
+    trecho: "E Otávio tem um critério para decidir entre fazer acordo e ir a julgamento que livro nenhum registra, porque depende do que ele já viu aquele tipo de testemunha dizer diante de um juiz."
+    por_que: "É o único exemplo do parágrafo sem imagem: Lúcia tem o \"estava tudo bem até o carnaval\", Caio tem a janela de ferro, Otávio tem \"aquele tipo de testemunha\". Além disso, é a segunda aparição do Otávio no capítulo e encosta no território do cap. 10 (acordo recusado), reservado no plano."
+    correcao: "Dar-lhe um critério concreto e fora do tema acordo: \"E Otávio decide se leva uma testemunha pela primeira conversa com ela: quem conta o episódio duas vezes com as mesmas palavras, na mesma ordem, ensaiou, e ele prefere não levar.\" Ou cortar Otávio deste parágrafo, já que ele teve o exemplo da advertência."
+  - criterio: ritmo
+    trecho: "O volume ajuda a encontrar esse material."
+    por_que: "A seção \"Por que o óbvio não parece conteúdo\" virou depósito (lição cap01-r2): depois de responder ao título, recebe a distinção repertório/opinião e o parágrafo do volume, que o intertítulo não cobre. O fecho desse parágrafo (\"a frase que você se pega dizendo a vários clientes do mesmo jeito\") também antecipa o conceito do cap. 16, a explicação que você repete há anos. E a primeira frase da seção repete a imagem do cap. 1 com a mesma personagem: \"ela simplesmente sabe o que perguntar em seguida\" contra \"para ela, é simplesmente o que se pergunta\"."
+    correcao: "Mover o parágrafo do volume para abrir \"Extrair por provocação\" e trocar o fecho por \"o trabalho está em notá-lo\". No parágrafo do cap. 1, trocar \"ela simplesmente sabe o que perguntar em seguida\" por algo do caso novo: \"ela já está perguntando como é a caminhada até a padaria\"; e \"aquilo seria impossível de fazer sozinho\" por \"Quem está começando ainda teria de pensar em cada passo.\""
+  - criterio: coerencia
+    trecho: "A irmã não discutiu. Perguntou quantos casos parecidos ela já tinha atendido em catorze anos"
+    por_que: "Batida repetida entre capítulos (lição cap02-r1): no cap. 5 a irmã já desmonta a autoimagem da Renata (\"A irmã, que a conhece desde criança, riu.\"), e o cap. 19 volta a pôr a irmã como quem sugere o caminho. Três vezes a mesma função para a mesma figurante enfraquece a cena, que é a melhor deste capítulo."
+    correcao: "Manter o telefonema e trocar a interlocutora (\"uma amiga de infância, que ligou para combinar o aniversário de uma colega de escola\"), ou manter a irmã e deixá-la só perguntar: cortar \"disse o óbvio\" e a frase \"A irmã não discutiu.\", para que a descoberta seja da Renata, contando."
+  - criterio: aplicabilidade
+    trecho: "Oito perguntas que tiram repertório do lugar"
+    por_que: "A lista agora é numerada (bom), mas nada remete a ela: a oficina fixa três campos sem dizer que correspondem às perguntas 1, 2 e 3, e a prática de \"uma pergunta por semana\", que a cena final mostra (\"anotou no caderno a pergunta da semana seguinte\"), não chega ao leitor em nenhuma instrução. A lição cap09-r1 pediu a numeração justamente para permitir a remissão."
+    correcao: "No campo 03: \"(pergunta 2 da lista)\"; no campo 04: \"(pergunta 3)\". Na intro da rede ou no roteiro_nota: \"Depois desta peça, leve uma das oito perguntas por semana para o caderno de campo.\""
+  - criterio: metodo
+    trecho: "O assunto é um padrão da sua área, visto pela sua prática"
+    por_que: "A rede se chama \"O padrão que só o volume ensina\" e diz que o assunto é um padrão, mas aceita a resposta do campo 03, que é uma exceção (conselho que dá errado). O leitor que escolheu o 03 fica em dúvida se pode."
+    correcao: "\"O assunto é um padrão ou uma exceção da sua área, visto pela sua prática; você aparece pela observação, nunca como tema.\""
+edicoes_de_linha:
+  - '"Otávio aprendeu uma coisa que nenhum curso de direito do trabalho ensina." -> "Otávio tem um exemplo da mesma espécie, colhido em vinte e cinco anos de pequenas empresas." (e ajustar a frase seguinte para não repetir "vinte e cinco anos")'
+  - 'Gabarito 02: "Nenhum dos três está nos livros." -> "Nenhum dos três se aprende só nos livros."'
+  - 'Roteiro: "tem uma coisa que eu vejo o tempo todo e quase nunca ouço alguém comentar" -> "tem uma coisa que eu vejo com frequência e quase nunca ouço alguém comentar" ("o tempo todo" briga com a estimativa da linha seguinte)'
+  - 'Faça assim: "mas em quinze anos foi assim." -> "mas em quinze anos de prática foi o que eu vi." (lição cap02-r2: exemplo não termina em "assim")'
+  - '"Guardou o áudio para a terça, o primeiro dos dois dias do número dela" -> "Guardou o áudio para a terça, o primeiro dos dois dias que o número dela pedia"'
+  - 'Exemplo comum: "à pergunta “por que o meu filho ronca?”. “O ronco" -> "à pergunta “por que o meu filho ronca?” assim: “O ronco" (hoje o ponto entre duas aspas deixa a fala solta, p015)'
+  - 'Por quê do exemplo: "e só existe em quem ouviu centenas de mães" -> "e vem de quem ouviu centenas de mães" (o vídeo do sono é recomendação conhecida; o repertório é o critério de urgência)'
+  - '"a exceção a uma regra que todo mundo repete" -> "a exceção a uma regra que a profissão repete"'
+diagramacao:
+  - 'p016: cerca de oito linhas em branco no pé da página, porque o box "Oito perguntas" desce inteiro para a p017. Apontado na r1 e não resolvido; não é seção de página inteira nem esqueleto de escrita. Puxar o parágrafo "Na hora de responder" para antes do box (o texto funciona nessa ordem) ou permitir quebra do box entre as perguntas 4 e 5.'
+  - 'p013: cerca de seis linhas em branco no pé da página: o intertítulo "As cinco camadas" e o parágrafo de três linhas que o segue foram para a p014 junto com a figura. Encadear o intertítulo só ao parágrafo, não à figura, para que os dois fiquem na p013 e a figura abra a p014.'
+  - 'p012: cerca de cinco linhas em branco antes do intertítulo "A regra e o dia em que ela falha" (eram oito na r1). Melhorou; se a p013 for liberada como acima, conferir se o fluxo não cria novo branco.'
+  - 'p022: cerca de oito linhas em branco no pé, porque o roteiro de fala desce inteiro para a p023. Aceitável se o roteiro for tratado como indivisível; do contrário, liberar a quebra entre falas.'
+  - 'p015: o rótulo "NA PRÁTICA" e o título "A mesma pergunta, em duas camadas" quase se encostam (entrelinha menor que a dos demais boxes); abrir 2 a 3 pt entre eles.'
+veredito: "Revisão sólida, que resolveu o erro de ofício da r1 com ganho, mas ainda reprovada por um dado clínico exagerado (hérnia \"quase sempre\" aos setenta anos) e com uma contradição central por fechar (\"o sinal do carrinho está nos livros\" contra \"Nenhum dos três está nos livros\"); com isso, a cadência antitética da seção 2 e as pendências da r1 resolvidas, chega a 9."
