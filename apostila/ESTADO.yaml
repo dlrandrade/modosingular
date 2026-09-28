@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 01:38
+# atualizado: 2026-09-28 01:39
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -244,7 +244,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.41
+    - iteracao: 2
+      data: 2026-09-28 01:38
+      revisao: apostila/revisoes/cap07-r2.yaml
+      media: 8.77
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.77
   8:
     status: rascunho
     iteracoes: []
@@ -329,6 +338,7 @@ figurantes:
   dentista:
   - 2
   - 14
+  - 7
   veterinária:
   - 2
   - 10
@@ -356,6 +366,7 @@ figurantes:
   - 6
   pediatra:
   - 1
+  - 7
   professora de piano:
   - 1
   - 6
@@ -364,6 +375,7 @@ figurantes:
   - 9
   - 15
   - 17
+  - 7
   farmacêutica:
   - 3
   - 6
@@ -434,5 +446,3 @@ pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
   no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'
-- 'Cap. 7 (após r2): trocar a repetição ''Otávio enche o caderno preto de frases por extenso'' por remissão ao cap.
-  6 (''como o capítulo 6 já deixou ver'').'

@@ -73,7 +73,7 @@ body { margin: 0; }
 .texto > p:first-child, .texto h2 + p, .texto .bloco + p, .texto figure + p,
 .texto table + p, .texto ul + p, .texto ol + p, .texto blockquote + p,
 .prosa > p:first-child, .prosa h1 + p, .prosa h2 + p, .prosa .bloco + p, .prosa ul + p, .prosa ol + p,
-.prosa table + p, .texto .tabela + p, .prosa .tabela + p { text-indent: 0; }
+.prosa table + p, .texto .tabela + p, .prosa .tabela + p, .texto h3 + p, .prosa h3 + p { text-indent: 0; }
 .texto .abre { font: 600 8.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
 .texto .bloco p { text-indent: 0; }
 

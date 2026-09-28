@@ -303,7 +303,7 @@ def balanca(d):
 
 def matriz(d):
     cols, linhas = d["colunas"], d["linhas"]
-    L = 170
+    L = 112
     cw = (W - L) / len(cols)
     out, y = [], 8
     for j, c in enumerate(cols):
@@ -322,7 +322,7 @@ def matriz(d):
         out.append(_bolinha(lx + 8, y, 5, k))
         out.append(texto(lx + 18, y + 3.5, rot, 9, INK2)[0])
         lx += 26 + _larg(rot, 9) + 14
-    y = _legenda(out, y + 6, d)
+    y = _legenda(out, y + 14, d)
     return svg("".join(out), y + 6)
 
 
