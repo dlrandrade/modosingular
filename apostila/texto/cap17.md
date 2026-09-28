@@ -24,7 +24,7 @@ Desde que começou a publicar, havia mais de um ano, Lúcia corrigia crenças de
 
 Discordar do consenso chama atenção por um motivo simples. Quem repete o que todo mundo já diz não acrescenta nada ao que o leitor sabe, e por isso é esquecido depressa. Quem apresenta uma posição diferente, e bem fundamentada, cria um ponto de comparação: a pessoa passa a ter duas maneiras de ver a mesma coisa, e a lembrar de quem lhe mostrou a segunda. Pense na última opinião contrária que mudou alguma coisa no seu trabalho: você lembra de quem a disse. Das que só confirmavam o que você já pensava, não lembra de nenhuma.
 
-O mesmo motivo torna o contraponto a peça mais fácil de fazer errado. Divergir atrai olhares por si mesmo, com ou sem argumento, e a tentação é divergir pela atenção. O capítulo 10 chamou isso de polêmica gratuita. A diferença entre as duas está no que sustenta a divergência e no que ela deixa no lugar. Quem derruba a ideia de alguém tira dele um critério; se não oferece outro, a pessoa fica sem ter como seguir.
+O mesmo motivo torna o contraponto a peça mais fácil de fazer errado. Divergir atrai olhares por si mesmo, com ou sem argumento, e a tentação é divergir pela atenção. O capítulo 10 chamou isso de polêmica gratuita. A diferença entre a polêmica e o contraponto está no que sustenta a divergência e no que ela deixa no lugar. Quem derruba a ideia de alguém tira dele um critério; se não oferece outro, a pessoa fica sem ter como seguir.
 
 Há também um cuidado próprio de quem atende pessoas em sofrimento, e Lúcia o sentia com força. Quando a discordância é sobre o jeito como as pessoas nomeiam a própria dor, quem lê pode ser justamente alguém que se apoia naquele nome para atravessar um período difícil. Um contraponto sobre isso precisa ser escrito de modo que essa pessoa, ao ler, se sinta mais compreendida, e nunca corrigida.
 
@@ -36,7 +36,9 @@ porque: As pessoas lembram de quem lhes mostrou uma segunda forma de ver. Mas um
 
 ## As três alturas
 
-Há três alturas possíveis para um contraponto, e cada uma tem um custo diferente. A mais baixa discorda de uma prática: um procedimento, um hábito, um jeito de fazer que é comum na sua área. O risco é pequeno e o retorno é médio, e é o melhor lugar para o primeiro contraponto: uma prática se descreve com precisão, e quem a critica pode mostrar, com um caso da própria prática, o que ela deixa de fora. A do meio discorda de uma crença, uma ideia que quase ninguém questiona. O risco é maior e o retorno também, porque é ali que a posição de alguém fica mais nítida.
+Há três alturas possíveis para um contraponto, e cada uma tem um custo diferente. A mais baixa discorda de uma prática: um procedimento, um hábito, um jeito de fazer que é comum na sua área. O risco é pequeno e o retorno é médio, e é o melhor lugar para o primeiro contraponto: uma prática se descreve com precisão, e quem a critica pode mostrar, com um caso do próprio trabalho, o que ela deixa de fora. A do meio discorda de uma crença, uma ideia que quase ninguém questiona. O risco é maior e o retorno também, porque é ali que a posição de alguém fica mais nítida.
+
+Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta. Passou dois minutos explicando de onde a ideia vinha, já que ficar torto por horas dói mesmo, e terminou numa comparação que os pacientes passaram a repetir na maca: coluna gosta de visita, não de morador.
 
 ```figura
 tipo: balanca
@@ -60,17 +62,15 @@ degraus:
   - {rotulo: "Contra si mesmo", nota: "Algo que você defendia e mudou. Prova raciocínio e cria menos inimigos."}
 ```
 
-Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta. Passou dois minutos dizendo por que a ideia se espalhou, porque ficar torto por horas dói mesmo, e terminou numa comparação que os pacientes passaram a repetir na maca: coluna gosta de visita, não de morador.
-
 ## A estrutura que separa argumento de bronca
 
 Um contraponto fundamentado tem quatro passos. O primeiro é enunciar a posição contrária com justiça, na versão mais forte que ela tem. Quem enfraquece a ideia adversária para derrubá-la com facilidade cria um espantalho, e o leitor atento percebe. O segundo é reconhecer por que essa posição existe, já que toda crença muito aceita teve alguma razão para se espalhar. Mostrar que você conhece essa razão é o que separa o contraponto da arrogância.
 
-O terceiro passo é apresentar o que não se encaixa: o caso, o padrão ou o sinal da sua prática que a ideia comum não explica. É aqui que entra o repertório do capítulo 9. O quarto é propor o que colocar no lugar. Um contraponto que derruba um critério e não oferece outro deixa a pessoa insegura, sem saber o que fazer, e é com essa insegurança que ela vai associar você.
+O terceiro passo é apresentar o que não se encaixa: o caso, o padrão ou o sinal da sua prática que a ideia comum não explica. É aqui que entra o repertório do capítulo 9. O quarto é propor o que colocar no lugar. Um contraponto que derruba um critério e não oferece outro deixa a pessoa insegura, sem saber o que fazer,.
 
-Na segunda versão do texto, Lúcia seguiu os quatro passos. Começou reconhecendo o que a moda dos nomes tem de bom: muita gente procurou ajuda pela primeira vez porque encontrou uma palavra para o que sentia, e isso importa. Contou, sem identificar ninguém, o que observa na prática: o nome que chega cedo demais às vezes ocupa o lugar da história. Contou também que ela mesma fazia isso no começo. E terminou com uma troca simples, que qualquer pessoa pode fazer: em vez de dizer "tive uma crise de ansiedade", tentar dizer o que aconteceu, como "meu coração disparou na reunião e eu saí da sala". A descrição, escreveu, costuma dizer mais do que o nome.
+Na segunda versão do texto, Lúcia seguiu os quatro passos. Começou reconhecendo o que a moda dos nomes tem de bom: muita gente procurou ajuda pela primeira vez porque encontrou uma palavra para o que sentia, e isso importa. Contou, sem identificar ninguém, o que observa na prática: o nome que chega cedo demais às vezes ocupa o lugar da história. Contou também que ela mesma fazia isso no começo. O contraponto continuava sendo contra uma prática; a confissão do começo não mudava o alvo, era a prova de que ela conhecia aquela prática por dentro. E terminou com uma troca simples, que qualquer pessoa pode fazer: em vez de dizer "tive uma crise de ansiedade", tentar dizer o que aconteceu, como "meu coração disparou na reunião e eu saí da sala". A descrição, escreveu, costuma dizer mais do que o nome.
 
-A troca proposta tem a qualidade que todo contraponto precisa ter: a pessoa consegue fazê-la sozinha, hoje, sem terapia e sem ninguém. Funciona como uma ferramenta de observação, sem recomendar tratamento e sem criticar quem usa o nome, e ajuda quem lê a entender melhor o que sente e, se for o caso, a contar isso a um profissional com mais precisão. Lúcia percebeu que era também a frase que ela diz a quase todo paciente novo, com outras palavras, na segunda sessão.
+A troca proposta tem a qualidade que todo contraponto precisa ter: a pessoa consegue fazê-la sozinha, hoje, sem terapia e sem ninguém. Funciona como uma ferramenta de observação, sem recomendar tratamento e sem criticar quem usa o nome, e ajuda quem lê a entender melhor o que sente e, se for o caso, a contar isso a um profissional com mais precisão. Lúcia percebeu que era também a frase que ela diz a muitos pacientes novos, com outras palavras, na segunda sessão.
 
 ```exemplo
 titulo: Bronca e contraponto sobre o mesmo assunto
@@ -100,13 +100,7 @@ itens:
 
 Qualquer um desses sinais basta para segurar a peça, em geral por algumas semanas ou até uma reescrita, e raramente para sempre.
 
-```nota
-tipo: alerta
-titulo: O erro que anula tudo
-texto: Contraponto sem substituição é demolição. Quem lê fica sem saber o que fazer e associa você ao desconforto. Se ainda não tem o que colocar no lugar, ainda não é hora de publicar aquela discordância.
-```
-
-Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou. O texto começava pelo que o nome tem de bom, passava pelo que ela mesma fazia no começo, e terminava na troca entre o rótulo e a descrição. Uma colega que ela não conhecia comentou discordando, com educação, e trazendo um argumento que Lúcia achou bom: para algumas pessoas, o nome é justamente o que permite contar a história depois. Lúcia respondeu concordando em parte e mantendo o resto. Era a primeira vez que uma colega discordava dela em público, e ela percebeu, com alguma surpresa, que a conversa tinha deixado o texto melhor.
+Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou. O texto começava pelo que o nome tem de bom, passava pelo que ela mesma fazia no começo, e terminava na troca entre o rótulo e a descrição. Uma colega que ela não conhecia discordou nos comentários, com educação, e trouxe um argumento que Lúcia achou bom: para algumas pessoas, o nome é justamente o que permite contar a história depois. Lúcia respondeu concordando em parte e mantendo o resto. Era a primeira vez que uma colega discordava dela em público, e ela percebeu, com alguma surpresa, que a conversa tinha deixado o texto melhor.
 
 Responder a quem discorda faz parte da peça, e é onde o contraponto se confirma ou se desfaz. Lúcia levou uma hora para escrever quatro linhas. Começou pelo que o argumento da colega tinha de certo, com as palavras dela, disse onde a experiência do consultório apontava para outro lado e não tentou ter a última palavra. Quem lê os comentários de um contraponto também observa como cada um trata quem pensa diferente. Uma resposta atravessada desmente, em duas linhas, o texto inteiro.
 
@@ -134,7 +128,7 @@ campos:
     exemplo: "Uma dentista, sobre o orçamento fechado antes da avaliação completa: “Existe porque o paciente quer saber quanto vai gastar antes de começar, e é justo que queira.”"
     linhas: 2
   - rotulo: "O que a sua prática mostra que não se encaixa"
-    exemplo: "Um caso típico, um padrão, um sinal. Sem identificar ninguém."
+    exemplo: "Um caso típico, um padrão, um sinal. Sem identificar ninguém. O contador: “Quem abre MEI para economizar e cresce no segundo ano chega aqui com o limite estourado e imposto retroativo para pagar.”"
     linhas: 3
   - rotulo: "O que você propõe no lugar"
     exemplo: "Algo que a pessoa possa fazer amanhã. Uma oftalmologista: “Antes de trocar o grau, anote em que horas do dia a vista embaça.”"
@@ -218,8 +212,9 @@ roteiro_nota: Um contraponto por peça. Se ele é contra você mesmo, troque a p
 
 ```aplicacao
 itens:
-  - {rotulo: "Fui justo com a posição contrária", ajuda: "Quem a defende a reconheceria no campo 02.", pontos: 3}
+  - {rotulo: "Fui justo com a posição contrária", ajuda: "Quem a defende a reconheceria no campo 02.", pontos: 2}
   - {rotulo: "Reconheci por que a posição existe", ajuda: "Com uma razão que quem a defende aceitaria (campo 03).", pontos: 2}
-  - {rotulo: "Sustentei com a prática e propus o que pôr no lugar", ajuda: "Campos 04 e 05.", pontos: 3}
-  - {rotulo: "Fiz a checagem com honestidade", ajuda: "Publico só com a grade do campo 06 resolvida.", pontos: 2}
+  - {rotulo: "Sustentei com a minha prática", ajuda: "Um caso típico ou um padrão (campo 04).", pontos: 2}
+  - {rotulo: "Propus o que colocar no lugar", ajuda: "Sem o campo 05 preenchido, a peça não sai, qualquer que seja o total.", pontos: 3}
+  - {rotulo: "Fiz a checagem com honestidade", ajuda: "Publico só com a grade do campo 06 resolvida.", pontos: 1}
 ```
