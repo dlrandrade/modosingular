@@ -1,0 +1,84 @@
+capitulo: 9
+iteracao: 1
+notas: {metodo: 8.7, voz: 8.4, originalidade: 8.8, clareza: 8.8, ritmo: 8.6, concretude: 8.2,
+        coerencia: 8.3, aplicabilidade: 8.8, impresso: 8.9, honestidade: 8.7}
+bloqueadores:
+  - 'Erro de fato no caso central do capítulo: "Contou que a dor dele era pior sentado do que em pé, ao contrário do que a hérnia faria esperar". É o inverso. A dor da hérnia de disco costuma piorar sentado e em flexão; o quadro que alivia ao se inclinar para a frente no carrinho de supermercado é o da estenose do canal lombar, que piora em pé e andando e ALIVIA sentado. Do jeito que está, o paciente piora sentado (flexão) e melhora inclinado no carrinho (flexão), o que é contraditório. O erro se repete em "quando ouve que a dor piora sentado" (seção 3) e sustenta o padrão "a dor da hérnia que costuma piorar de um jeito e não do outro". Um fisioterapeuta leitor vê isso na primeira página. Corrigir sem tirar o carrinho (os caps. 12 e 13 dependem dele).'
+pontos_fortes:
+  - 'A abertura em dois tempos (a lista de onze linhas que "estava tudo certo, e nada ali era dela" e o telefonema com a irmã) mostra o conceito antes de nomeá-lo, com o modo oral da Renata em ação ("andando pela sala com o telefone no ombro e as mãos desenhando no ar a curva da coluna dele").'
+  - 'O exemplo comum-vs-singular da otorrinolaringologista é o melhor do capítulo: "que ela grave dez minutos do sono dele com o celular, de madrugada. O que me preocupa é a pausa". Padrão, sinal e critério numa resposta que o cliente usa sozinho.'
+  - 'O campo 01 da oficina ("Faça como a Renata fez, em tópicos. Depois olhe para a lista e marque com um X o que qualquer colega recém-formado também escreveria") faz o leitor viver o erro da cena antes de corrigi-lo. Recurso didático de primeira.'
+  - 'Honestidade bem cuidada no tratamento da estimativa: rede, verificação 04 e critério da oficina insistem no limite dito ("pela minha agenda", "Apresentar a sua observação como se fosse estudo científico"), e a "regra dos 200" do PWA foi desarmada em vez de vendida como dado.'
+problemas:
+  - criterio: concretude
+    trecho: "Contou que a dor dele era pior sentado do que em pé, ao contrário do que a hérnia faria esperar; que ele melhorava quando se inclinava para a frente no carrinho do supermercado"
+    por_que: "Ver bloqueador: o padrão postural está invertido e o caso fica fisiologicamente incoerente. A lição cap01-r1 exige detalhe de ofício exato; aqui o erro está no caso que o capítulo inteiro usa como prova."
+    correcao: "Contou que a dor dele piorava em pé e andando e aliviava quando ele sentava, o contrário do que ela esperava de uma hérnia; que ele só conseguia andar o supermercado inteiro inclinado para a frente, apoiado no carrinho; que foi esse detalhe, o carrinho, que a fez desconfiar de um estreitamento do canal e pedir que o médico olhasse de novo o exame. Na seção 3: 'quando ouve que a dor alivia sentado'. Na seção 2: 'um padrão, a dor da hérnia que costuma piorar sentado'. Bônus de verossimilhança: a 'lista de exercícios que pioravam tudo' pode ser de extensão (arquear as costas para trás), que é o que se costuma passar para hérnia e o que agrava a estenose."
+  - criterio: originalidade
+    trecho: "Essa segunda camada não aparece em nenhum manual"
+    por_que: "O 'sinal do carrinho de compras' é sinal clássico de estenose lombar, ensinado na graduação e presente nos livros-texto. O exemplo-mestre de repertório 'que nenhum manual descreve' está no manual, e o próprio texto quase admite: 'Renata passou anos convencida de que qualquer fisioterapeuta desconfiaria do carrinho de supermercado. Talvez alguns desconfiassem.' O leitor da área percebe e o conceito perde força."
+    correcao: "Transformar o problema em ganho: o repertório não é o sinal, é tê-lo ouvido numa frase solta do paciente ('só consigo fazer mercado apoiado no carrinho') quando o laudo dizia hérnia, e confiar mais nele do que no exame de um homem de setenta anos, idade em que a imagem quase sempre mostra alguma hérnia sem que seja ela a causa. Reescrever o parágrafo 'Há um segundo motivo' assim: 'O sinal do carrinho está nos livros, e qualquer fisioterapeuta o reconheceria numa prova. O que não está é o paciente que o menciona de passagem, falando de outra coisa, com um laudo de hérnia na pasta. Reconhecer o sinal na prova é informação; ouvi-lo ali é repertório.'"
+  - criterio: voz
+    trecho: "Quem estudou sabe a regra. Quem praticou por muitos anos sabe quando a regra falha"
+    por_que: "O capítulo inteiro anda por pares opostos, e a lição cap01-r1 limita a uma antítese explícita por seção. Só na seção 'A regra e o dia em que ela falha' há quatro: 'A lista era informação... A história era repertório', 'Quem estudou sabe a regra. Quem praticou...', 'A regra diz para documentar. O repertório dele diz...', 'Quando Renata escreveu a lista, pensou em assuntos. Quando falou do ex-motorista, pensou num caso'. Somam-se 'não pede conhecimento; pede memória', o guardar 3 e a epígrafe. O lint não pega porque a forma varia, mas o ouvido pega: vira cadência de palestra."
+    correcao: "Manter a do 'e quando não funciona?' (é a do PWA) e desmontar as outras. Ex.: 'Otávio aprendeu isso nas pequenas empresas que defende há vinte e cinco anos: a advertência escrita quase sempre existe; o que ele procura é a data em que foi redigida de fato.' e cortar 'A regra diz para documentar. O repertório dele diz...'. No parágrafo pós-conceito: 'A lista tinha saído de assuntos. A história saiu de um caso, e trouxe junto tudo o que a lista não tinha: ...'."
+  - criterio: coerencia
+    trecho: "Renata abriu o caderno onde anotava o número do capítulo anterior, duas peças por semana"
+    por_que: "Metaficção acidental: a personagem não sabe que vive num livro. Quebra o pacto da cena já na primeira frase."
+    correcao: "Renata abriu o caderno onde tinha anotado o seu número, duas peças por semana, e decidiu adiantar o trabalho."
+  - criterio: voz
+    trecho: "Convém separar repertório de opinião, porque os dois se misturam com facilidade e o próximo capítulo trata do segundo."
+    por_que: "Narrador que anuncia e que remete ao capítulo seguinte (lição cap01-r1). Há mais três sinais da mesma voz de curso: 'A diferença tem nome.', 'e o motivo é curioso', 'Há um segundo motivo, mais sutil.' O parágrafo ainda termina em 'é por aí que a maioria das pessoas deste livro vai começar', que é ambíguo (personagens? leitores?) e generaliza."
+    correcao: "Abrir direto: 'Repertório é o que você viu: o padrão, a exceção, o sinal que antecede o problema. Opinião é o que você defende a partir disso, inclusive quando custa um cliente, e fica para o capítulo 10.' Cortar 'A diferença tem nome.'; trocar 'e o motivo é curioso: quem as tem' por 'porque quem as tem'; trocar 'Há um segundo motivo, mais sutil.' por 'Pesa também outra coisa.' ou simplesmente abrir em 'Quem tem repertório...'."
+  - criterio: honestidade
+    trecho: "Renata respondeu o que quase todo especialista responderia"
+    por_que: "Generalizações sobre terceiros acima do limite de 2 (lição cap01-r4/cap02-r2): 'o que quase todo especialista responderia', 'A maior parte vive nas duas camadas de cima', 'Quem tem repertório tende a achar que todo colega sabe o mesmo', 'quem não tem repertório costuma ter opiniões frágeis', 'que todo mundo recomenda para dor lombar'. Há ainda uma densidade de absolutos ('qualquer' 12 vezes, 'todo mundo' 5, 'ninguém' 8) e a promessa 'uma autoridade que ninguém consegue copiar', repetida em 'O QUE NINGUÉM COPIA' e 'as camadas que ninguém copia', que o próprio texto relativiza depois ('Talvez alguns desconfiassem')."
+    correcao: "'Renata respondeu o que tinha aprendido a responder: aquilo era só um caso.' Cortar 'e quem não tem repertório costuma ter opiniões frágeis'. No conceito: 'é ele que sustenta uma autoridade difícil de copiar'. No guardar 2: 'são as camadas que só a prática dá'. Rótulo da figura: 'O QUE SÓ A PRÁTICA DÁ'. Reduzir 'qualquer' à metade."
+  - criterio: coerencia
+    trecho: "Otávio tem um exemplo que conta aos clientes novos."
+    por_que: "A explicação que Otávio repete a todo cliente novo sobre documento que não prova nada é a cena reservada do cap. 16 ('contrato assinado não é prova de nada'; lição cap04-r1). O cap. 16 já cita 'a da advertência que não serve se for escrita depois' como uma de doze explicações, então o conteúdo pode ficar, mas o enquadramento de discurso repetido a clientes não. Além disso, 'e o juiz percebe na hora' é afirmação forte demais, e a cena deixa no ar se Otávio junta aos autos um documento que sabe ser feito depois do fato."
+    correcao: "'Otávio aprendeu uma coisa que nenhum curso de direito do trabalho ensina. A regra é documentar por escrito a advertência ao funcionário, e nas pequenas empresas que ele defende há vinte e cinco anos ela quase sempre existe. O que ele procura é a data em que foi redigida de fato. Já recebeu advertências feitas na véspera da audiência, todas com a mesma caneta e a mesma letra, e sabe que a primeira pergunta do advogado do funcionário derruba o papel. Por isso não as junta ao processo.'"
+  - criterio: aplicabilidade
+    trecho: "Em mais ou menos {sua estimativa} dos casos que chegam até mim, {o padrão que só o volume ensina}."
+    por_que: "A rede manda escolher 'a resposta do campo 02 ou do 03', mas o roteiro só serve ao campo 02: não tem a parte 'O contraste', que o esqueleto tem, e quem escolheu o conselho que dá errado (campo 03, ex. da nutricionista) não encontra onde encaixá-lo. A lição cap02-r1 pede esqueleto e roteiro que sirvam a todos os exemplos do capítulo."
+    correcao: "Inserir depois da primeira fala do roteiro: 'O que se costuma dizer é {o conselho ou a regra comum}. Não bate com o que eu vejo.' e deixar a estimativa opcional para o campo 03 ('Em mais ou menos {sua estimativa, se tiver} dos casos...')."
+  - criterio: metodo
+    trecho: "Sair da camada da informação e chegar a padrões, exceções e critérios da sua prática, pelas perguntas certas."
+    por_que: "O objetivo promete critério, e a figura o chama de 'o que há de mais seu', mas nenhum campo pede um critério; o campo 04 pede o caso, não a decisão que ele gerou. As oito perguntas também ficam decorativas: a oficina fixa três delas em vez de pedir 'três das oito', como o PWA."
+    correcao: "Estender o rótulo do campo 04: 'O caso que mudou o seu jeito de trabalhar, e a decisão que você passou a tomar por causa dele, contado sem identificar ninguém'. O exemplo da enfermeira obstetra já entrega a decisão ('pergunto a toda gestante como está a visão'). Ou trocar 'critérios' por 'e, quando houver, critérios' no objetivo, remetendo ao cap. 18."
+  - criterio: concretude
+    trecho: "Falou de alongamento, que todo mundo recomenda para dor lombar, e dos pacientes em quem ela prefere esperar antes de alongar: os que pioram quando inclinam o corpo para trás."
+    por_que: "A cena final tem o mesmo problema de precisão: os alongamentos lombares comuns são em flexão, e quem piora em extensão é justamente quem costuma se beneficiar da flexão. A lógica 'esperar antes de alongar' quem piora ao inclinar para trás não fecha. E 'Não citou ninguém.' é ambíguo (colegas? pacientes?)."
+    correcao: "Aproveitar a lista riscada, que fecha o círculo com ganho novo: 'Falou do alongamento de posterior de coxa, que estava na lista de onze linhas e que todo paciente com dor lombar já ouviu recomendar, e dos pacientes em quem ele piora tudo: os que sentem a dor descer pela perna quando esticam o joelho com o tronco curvado. Não falou de nenhum paciente pelo nome.'"
+  - criterio: ritmo
+    trecho: "Renata precisa falar, e passou a levar uma das oito perguntas para o carro, no estacionamento da clínica, e responder em voz alta. Lúcia precisa de alguém perguntando"
+    por_que: "Segunda chamada do elenco no capítulo (a primeira é o parágrafo de Lúcia, Caio e Otávio na seção 2), agora em fila de quatro frases com a mesma forma: vira ficha, o que a lição cap01-r1 veta. E 'passou a' contradiz os caps. 7 e 8, em que Renata já grava no estacionamento; 'Gravou a resposta no carro, antes de ligar o motor' repete literalmente a imagem do cap. 8 ('três deles no carro, antes de ligar o motor')."
+    correcao: "Cortar Lúcia, Otávio e Caio deste parágrafo (os modos já apareceram nos caps. 7, 8 e na seção 2) e ficar com a Renata: 'Renata levou a pergunta para onde já gravava, o carro no estacionamento da clínica.' No penúltimo parágrafo, trocar 'antes de ligar o motor' por outro detalhe: 'com o crachá ainda no pescoço'."
+  - criterio: coerencia
+    trecho: "A irmã, que já tinha ouvido a história do caderno, disse o óbvio"
+    por_que: "Furo de quem sabia o quê, e quando (lição cap03-r3): a cena não mostra Renata contando a lista à irmã."
+    correcao: "'A irmã, a quem ela tinha contado da lista no começo da ligação, disse o óbvio:'"
+  - criterio: clareza
+    trecho: "Não há número mágico, e duzentas vezes ou quinhentas dá no mesmo"
+    por_que: "Responde a uma afirmação que o livro nunca fez (a 'regra dos 200' do PWA não aparece no texto). O leitor tropeça no 'duzentas'. O parágrafo inteiro soa como sobra de adaptação."
+    correcao: "'Se você fez uma coisa centenas de vezes, tem observações sobre ela que não estão escritas em lugar nenhum. A repetição produz padrão; o trabalho está em notá-lo.' Ou cortar o parágrafo e deixar a seção terminar em 'e isso ninguém tem igual'."
+  - criterio: aplicabilidade
+    trecho: "Respondi os campos 02, 03 e 04 com caso, sinal ou estimativa, e não com tópicos."
+    por_que: "O item 1 do checklist conta de novo os campos 02 e 03, já pontuados nos itens 2 e 3. Com 3 + 2 + 2 o leitor chega aos 7 sem ter a estimativa do campo 02, que é a matéria da rede. O ', e não com tópicos' é também uma antítese disfarçada."
+    correcao: "Item 1: 'Respondi o campo 04 com o caso inteiro, na ordem em que aconteceu' (3 pontos). Os itens 2 e 3 ficam como estão."
+edicoes_de_linha:
+  - 'subtítulo: "O que você viu, e a maioria dos seus colegas não viu" -> "O que você viu e a maioria dos seus colegas não viu"'
+  - '"A diferença tem nome. A lista era informação" -> "A lista era informação"'
+  - '"o que ela deixou de mandar ele fazer e por quê" -> "o que ela deixou de pedir que ele fizesse, e por quê"'
+  - '"O conhecimento estava lá o tempo inteiro. Faltava o caminho certo para chegar até ele." -> "O conhecimento não faltava; faltava a pergunta que o trouxesse." (ou cortar as duas frases)'
+  - '"O que um especialista sabe pode ser pensado em camadas, da mais pública à mais pessoal." -> "O que um especialista sabe se empilha em camadas, da mais pública à mais pessoal."'
+  - '"a diferença fica por conta das cores e do tom de voz" -> "a diferença fica por conta do tom de voz" ("com outras cores" já apareceu na primeira página)'
+  - '"Caio responde contando uma obra, e as perguntas viram histórias sem esforço." -> cortar (ver problema de ritmo)'
+  - '"Com pausa, não espere." -> "Com pausa, peça uma consulta antes da data marcada." (sinal e pergunta, nunca conduta, como diz a própria nota do roteiro)'
+diagramacao:
+  - 'p012: cerca de oito linhas em branco no pé da página, porque o intertítulo "A regra e o dia em que ela falha" foi para a p013. É evitável: liberar a quebra do primeiro parágrafo depois de duas linhas ou encurtar a cena.'
+  - 'p016: cerca de nove linhas em branco no pé da página, porque o box "Oito perguntas" não cabe e desce inteiro para a p017. É evitável: permitir que o box quebre ou puxar o parágrafo "Na hora de responder" para antes dele.'
+  - 'p017: as oito perguntas saem como um bloco corrido de interrogações, difícil de consultar durante a oficina. Compor como lista numerada de 1 a 8, para que oficina e rede possam remeter a "pergunta 2".'
+  - 'p014, figura 9.1: o rótulo "O QUE NINGUÉM COPIA" fica sob a camada Critério e parece valer só para ela, e Padrão tem o mesmo tom de Informação e Aplicação. A divisão 2 + 3 que a legenda afirma não se vê, muito menos em preto e branco. Agrupar as três de baixo com uma chave lateral ou um fio, com o rótulo ao lado da chave.'
+  - 'p019, campo 01: três linhas para uma lista em tópicos de cinco minutos (a da Renata teve onze itens). Subir para 5 linhas ou compor em duas colunas curtas.'
+veredito: "Capítulo bem construído, com cena forte e oficina engenhosa, mas o caso central tem um erro de ofício (o padrão postural da hérnia e da estenose está invertido) que um fisioterapeuta nota na primeira página e que bloqueia a aprovação; corrigido isso, falta uma passada de voz para desmontar as antíteses em série, os absolutos e o narrador que anuncia."

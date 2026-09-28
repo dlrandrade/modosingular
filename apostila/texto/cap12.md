@@ -61,7 +61,7 @@ Tabela: Os quatro enunciados, parte por parte
 | Parte | Renata | Otávio | Lúcia | Caio |
 |---|---|---|---|---|
 | Penso | Falando, com as mãos | Escrevendo, à mão primeiro | Respondendo a alguém | Contando uma obra |
-| Sustento | Duas peças por semana, a segunda só depois da primeira | Uma por semana, na sexta à tarde; janeiro manda | Uma por semana, terça às oito | Uma por semana, com áudios guardados para a semana de entrega |
+| Sustento | Duas peças por semana; a que falha não passa para a seguinte | Uma por semana, na sexta à tarde; janeiro manda | Uma por semana, terça às oito | Uma por semana, calculada no mês de entrega de obra |
 | Só eu tenho | A dor que contraria o diagnóstico, e o sinal que a denuncia | O documento feito depois do fato, e como ele se entrega | O paciente que volta em março dizendo que estava tudo bem até o carnaval | O que as paredes, os pisos e as janelas antigas escondem |
 | Defendo | Não vendo pacote antes de avaliar (perco quem compara preço) | Não faço acordo de fachada (perdi um cliente de nove anos) | Rótulo não é diagnóstico (alguns pacientes não voltam) | Ainda em aberto |
 | Falo | Frases curtas, comparações de coisas que dobram, "alarme" | Pior hipótese primeiro, "prova", "veja bem" | Pergunta antes de responder, nada que soe como diagnóstico | "Teve uma obra…", coisas com caráter, frases curtas |
@@ -87,7 +87,7 @@ Otávio usou a régua para recusar. Um grupo de empresários o convidou para uma
 
 Lúcia usou a régua para aceitar. Uma colega a convidou para gravar uma conversa sobre ansiedade no trabalho, em formato de entrevista, para o canal de uma associação de psicólogos. Um mês antes, ela teria recusado por reflexo, pelo mesmo motivo de sempre: expor-se. O enunciado apontou o contrário. Uma conversa em que alguém pergunta é o formato mais barato que existe para quem pensa respondendo, e o assunto estava inteiro na terceira linha dela. Pediu só uma condição, coerente com a quarta linha: nenhuma pergunta que exigisse dar nome ao sofrimento de alguém.
 
-Caio usou a régua para não comprar nada. Um fornecedor ofereceu, com desconto, um estabilizador novo, mais leve que o antigo. A tentação voltou por dois dias. Na terceira manhã, ele releu a segunda linha do enunciado, uma peça por semana com áudios guardados, e a primeira, pensar contando uma obra. Nenhuma das duas precisava de estabilizador. Respondeu ao fornecedor que ficaria para outra vez.
+Caio usou a régua para não comprar nada. Um fornecedor ofereceu, com desconto, um estabilizador novo, mais leve que o antigo. A tentação voltou por dois dias. Na terceira manhã, ele releu a segunda linha do enunciado, uma peça por semana, e a primeira, pensar contando uma obra. Nenhuma das duas precisava de estabilizador. Respondeu ao fornecedor que ficaria para outra vez.
 
 A régua funciona também ao contrário, na revisão. Quase toda peça ruim que você produzir nos próximos meses vai violar uma das cinco linhas, e o enunciado ajuda a dizer qual. Uma peça que ficou sem graça provavelmente falhou no repertório ou na posição. Uma que custou três noites falhou no modo ou no ritmo. Uma que ninguém reconheceu como sua falhou no léxico.
 

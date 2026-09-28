@@ -427,7 +427,7 @@ def linha(d, area=False):
     mx = max(max(s["pontos"]) for s in series) * 1.08 or 1
     out = []
     if d.get("unidade"):  # a unidade vai no alto, à esquerda, como título do eixo vertical
-        out.append(texto(L - 30, 12, d["unidade"], 9, INK2, estilo="italic")[0])
+        out.append(texto(0, 12, d["unidade"], 9, INK2, estilo="italic")[0])
         T, B = T + 16, B + 16
     for k in range(5):
         yy = B - (B - T) * k / 4
