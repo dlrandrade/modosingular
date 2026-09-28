@@ -8,9 +8,9 @@ ilustracao: engrenagem
 legenda_ilustracao: Não é uma máquina ao lado da outra. É a mesma máquina, com mais uma saída.
 ---
 
-Na terceira terça-feira de janeiro, às seis e dez da tarde, Otávio terminou o parecer de uma pequena rede de padarias de Jaboatão sobre o banco de horas dos confeiteiros. Assinou a última folha, conferiu as datas e, antes de fechar a pasta, virou a folha. No verso em branco, com a mesma caneta, escreveu um parágrafo. Levou cinco minutos. Depois fechou a pasta, pôs na pilha de saída e foi embora.
+Na terceira terça-feira de janeiro, às seis e dez da tarde, Otávio terminou o parecer de uma pequena rede de oficinas mecânicas de Jaboatão sobre o banco de horas dos mecânicos. Assinou a última folha, conferiu as datas e, antes de fechar a pasta, virou a folha. No verso em branco, com a mesma caneta, escreveu um parágrafo. Levou cinco minutos. Depois fechou a pasta, pôs na pilha de saída e foi embora.
 
-O parágrafo não falava das padarias. Dizia que o banco de horas é o acordo que mais protege uma pequena empresa e o que mais a expõe, porque só vale se houver controle mês a mês, assinado pelo funcionário. Sem o controle, um ano de horas compensadas vira um ano de horas extras não pagas, e a conta chega de uma vez, na rescisão. Terminava com a pergunta que ele faz a todo cliente: quem, na sua empresa, confere essa folha todo mês?
+O parágrafo não falava das oficinas. Dizia que o banco de horas é o acordo que mais protege uma pequena empresa e o que mais a expõe, porque só vale se houver controle mês a mês, assinado pelo funcionário. Sem o controle, um ano de horas compensadas vira um ano de horas extras não pagas, e a conta chega de uma vez, na rescisão. Terminava com a pergunta que ele faz a todo cliente: quem, na sua empresa, confere essa folha todo mês?
 
 Era o quarto parágrafo daquela semana. Janeiro sempre tinha sido o mês que derrubava tudo. As pequenas empresas que ele defende fazem em janeiro as demissões que adiaram no fim do ano, o telefone não para, e o escritório vive de audiências marcadas às pressas. Quando montou o próprio enunciado, meses antes, Otávio tinha escrito ao lado do ritmo, uma peça por semana, três palavras que já eram um aviso: janeiro manda.
 
@@ -22,7 +22,7 @@ O que mudou foi uma coisa que Otávio fazia havia vinte e cinco anos sem percebe
 
 A mudança de destinatário muda o tom, e ele percebeu isso no segundo parágrafo. A recomendação ao cliente dizia "recomendamos que a empresa implante controle mensal assinado". O verso dizia "quem tem uma pequena empresa e usa banco de horas precisa de uma folha por mês, assinada, e de alguém que a confira". A primeira frase era para quem já estava sentado diante dele. A segunda era para quem ainda não sabia que precisava estar.
 
-Na sexta, às cinco e meia, antes de sair, Otávio abriu a pasta de saída, releu os quatro versos da semana e escolheu o das padarias. Passou a limpo, conferiu que nada ali levava a um cliente e publicou às cinco e cinquenta. A sexta-feira continuava tendo uma tarefa, mas a tarefa tinha encolhido de duas horas para vinte minutos. O que antes começava do zero agora começava de quatro parágrafos prontos.
+Na sexta, às cinco e meia, antes de sair, Otávio abriu a pasta de saída, releu os quatro versos da semana e escolheu o das oficinas. Passou a limpo, conferiu que nada ali levava a um cliente e publicou às cinco e cinquenta. A sexta-feira continuava tendo uma tarefa, mas a tarefa tinha encolhido de duas horas para vinte minutos. O que antes começava do zero agora começava de quatro parágrafos prontos.
 
 ## Evento e consequência
 
@@ -81,7 +81,7 @@ Otávio tentou esse primeiro, na segunda semana de dezembro, para compensar a se
 
 Com o verso da folha e a sexta das cinco e meia, a semana do Otávio ficou assim. Nada nela exige um horário que ele já não tivesse. O caderno de campo continua recebendo as perguntas dos clientes, em vinte segundos, durante as reuniões. O parágrafo acontece no fim de cada parecer. A seleção e a publicação acontecem juntas, na sexta, porque os parágrafos já chegam escritos e a escolha leva poucos minutos.
 
-O passo de tirar o que identifica é o que Otávio faz com mais cuidado. O sigilo do advogado vale também para a lição, e um parágrafo sobre padarias, publicado três dias depois do parecer, poderia levar alguém de Jaboatão a adivinhar o cliente. Por isso ele escolhe, de preferência, um verso escrito na semana anterior, troca o setor quando o setor denuncia a empresa e nunca usa um número que só aquele caso teria. O parágrafo das padarias saiu falando de pequenas empresas.
+O passo de tirar o que identifica é o que Otávio faz com mais cuidado. O sigilo do advogado vale também para a lição, e um parágrafo sobre oficinas mecânicas, publicado três dias depois do parecer, poderia levar alguém de Jaboatão a adivinhar o cliente. Por isso ele escolhe, de preferência, um verso escrito na semana anterior, troca o setor quando o setor denuncia a empresa e nunca usa um número que só aquele caso teria. O parágrafo das oficinas saiu falando de pequenas empresas.
 
 Tabela: A semana modelo do Otávio
 

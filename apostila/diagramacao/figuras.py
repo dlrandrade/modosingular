@@ -247,12 +247,12 @@ def camadas(d):
     for i, c in enumerate(cam):
         base = i == n - 1
         if div is not None and i == div:
-            y += 16
+            y += 20
             out.append(f'<line x1="0" y1="{y:.1f}" x2="{W}" y2="{y:.1f}" stroke="{ACC_D}" stroke-width="1" stroke-dasharray="4 3"/>')
             ga, gb = d.get("grupos", ["", ""])
-            out.append(texto(W, y - 5, ga, 8.5, INK2, 700, "end", esp=0.8)[0])
-            out.append(texto(W, y + 13, gb, 8.5, ACC_D, 700, "end", esp=0.8)[0])
-            y += 24
+            out.append(texto(W, y - 8, "↑ " + ga, 8.5, INK2, 700, "end", esp=0.8)[0])
+            out.append(texto(W, y + 17, "↓ " + gb, 8.5, ACC_D, 700, "end", esp=0.8)[0])
+            y += 28
         w = 120 + 90 * i / max(n - 1, 1)
         x = 105 - w / 2
         if div is not None:
