@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 12:20
+# atualizado: 2026-09-28 12:25
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -407,7 +407,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.75
+    - iteracao: 3
+      data: 2026-09-28 12:25
+      revisao: apostila/revisoes/cap13-r3.yaml
+      media: 8.96
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.96
   14:
     status: reprovado
     iteracoes:
@@ -423,7 +432,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.26
+    - iteracao: 2
+      data: 2026-09-28 12:25
+      revisao: apostila/revisoes/cap14-r2.yaml
+      media: 8.75
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.75
   15:
     status: rascunho
     iteracoes: []
@@ -467,7 +485,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   29:
-    status: planejado
+    status: rascunho
     iteracoes: []
   30:
     status: planejado
@@ -500,6 +518,7 @@ figurantes:
   - 3
   - 10
   - 21
+  - 29
   dermatologista:
   - 3
   - 10
@@ -517,6 +536,7 @@ figurantes:
   - 6
   confeiteira:
   - 6
+  - 29
   pediatra:
   - 1
   - 7
