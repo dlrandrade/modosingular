@@ -1,0 +1,76 @@
+capitulo: 17
+iteracao: 2
+notas: {metodo: 8.8, voz: 9.0, originalidade: 9.0, clareza: 9.1, ritmo: 9.1, concretude: 9.3,
+        coerencia: 8.4, aplicabilidade: 8.7, impresso: 8.5, honestidade: 8.9}
+bloqueadores: []
+pontos_fortes:
+  - 'O bloqueador da r1 foi resolvido na cena, sem virar sermão: a irritação é datada ("tinha interrompido a terapia em março"), a resolução aparece em ação ("releu procurando o trecho que era para ela e encontrou um parágrafo inteiro, o que começava por “quem acha que já sabe o que tem”. Cortou.") e a espera tem medida ("guardou o texto por três semanas, até que a irritação não reconhecesse mais nenhuma frase"). O caso-modelo agora ensina o mesmo que a grade do campo 06 cobra.'
+  - 'O modo da Lúcia move a trama: a primeira versão, escrita sozinha, sai como bronca; a que presta nasce das duas perguntas da amiga, e a segunda delas ("se já tinha feito aquilo mesmo que agora criticava") leva Lúcia à terceira altura pela história dela, e não pela tabela. Fecha com a marca do elenco ("rótulo não é diagnóstico") e com o cap. 10 sem contradição.'
+  - 'A cena da resposta ao comentário é um ganho novo e raro em livro do gênero: "Lúcia levou uma hora para escrever quatro linhas" e a regra sai da cena ("Uma resposta atravessada desmente, em duas linhas, o texto inteiro"). O desfecho da quinta-feira, com a paciente que leu o texto e Lúcia que "não contou que o texto era dela", mostra o resultado e o cuidado de enquadre ao mesmo tempo.'
+  - 'O exemplo do personal trainer foi refeito como pedia a r1: o singular enuncia o melhor argumento do outro lado ("sem comida no estômago, o corpo usa mais gordura durante o exercício"), traz a observação da prática e devolve a alimentação a quem cuida dela. O esqueleto virou "passe a limpo" e os cinco sinais viraram lista numerada, à qual a grade e a questão 04 remetem.'
+problemas:
+  - criterio: coerencia
+    trecho: "Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou."
+    por_que: 'O cap. 22 remete a esta peça com outra data: "Abriu lado a lado o texto daquela semana, o contraponto que tinha publicado em agosto". Pelo cap. 17 o texto começou "numa segunda-feira de agosto" e saiu "quase um mês depois", em setembro. É o mesmo tipo de furo de linha do tempo que a lição cap08-r1 proíbe, e fica entre dois capítulos da mesma personagem.'
+    correcao: 'Manter setembro aqui (a cronologia interna fecha: primeira versão, a semana da pergunta, sexta, domingo, segunda, três semanas de espera) e corrigir o cap. 22: "o contraponto que tinha publicado em setembro". Registrar a data da peça na linha do tempo da Lúcia.'
+  - criterio: metodo
+    trecho: '- {rotulo: "Sustentei com repertório e propus uma substituição", ajuda: "Campos 04 e 05.", pontos: 3}'
+    por_que: 'O passo 2, a concessão, não é cobrado em lugar nenhum do fechamento. O PWA tem o critério "(2) Reconheci por que a crença existe — Fui generoso com quem a defende"; o checklist da apostila funde repertório e substituição num item só e não pontua o campo 03, e o "Confira antes de seguir" também não o menciona. É justamente o passo que o texto diz separar "o contraponto da arrogância" e o que a primeira regra da rede manda pôr no começo ("Comece pelo que o outro lado tem de certo"). Quem pula o campo 03 passa com 10 de 10.'
+    correcao: 'Separar os itens: "Reconheci por que a posição existe" (ajuda: "Campo 03, com uma razão que quem a defende aceitaria.", 2 pontos); "Sustentei com a minha prática" (campo 04, 2 pontos); "Propus o que colocar no lugar" (campo 05, 2 pontos); reduzir "Escolhi o que contestar e em que altura" para 1 ponto e manter "Fui justo" (3), fechando 10. Testar a soma e a condição de 7 pontos.'
+  - criterio: aplicabilidade
+    trecho: "Tem uma ideia muito comum na minha área: {a posição contrária, dita com justiça}."
+    por_que: 'Roteiro e esqueleto só servem às duas primeiras alturas. A terceira, que o capítulo chama de "a mais subestimada", que a Lúcia usa e que o campo 01 oferece ("prática, crença ou você mesmo"), não cabe em "Tem uma ideia muito comum na minha área" nem em "O que se costuma dizer". Lição cap02-r1: esqueleto e roteiro precisam servir a todos os exemplos que o próprio capítulo dá. O "Faça assim" tem a frase certa ("Eu também pensava assim, até perceber que…"), mas o esqueleto e o roteiro não a absorvem.'
+    correcao: 'Esqueleto, primeira parte: rotulo "O que se costuma dizer (ou o que você pensava)". Roteiro, primeira linha com variante: "Tem uma ideia muito comum na minha área, e eu mesmo já a defendi: {a posição contrária, dita com justiça}." Ou acrescentar ao roteiro_nota: "Se o contraponto é contra você mesmo, troque a primeira frase por: Durante anos eu pensei que {…}."'
+  - criterio: impresso
+    trecho: "p. 16: box Na prática com O comum no pé da página e O singular no alto da p. 17"
+    por_que: 'A comparação lado a lado (a peça didática central da seção) está partida entre duas páginas, e cerca de 40% da p. 16 fica em branco abaixo de "O comum". O leitor vira a página para ver o par. Na p. 13 acontece o mesmo com a figura 17.1: sobra quase metade da página abaixo do box Conceito porque a balança não coube. Nenhum dos dois brancos é dos aceitos pelo projeto (autodiagnóstico, oficina, esqueleto).'
+    correcao: 'p. 16: manter o exemplo inteiro (comum + singular + por quê) com break-inside: avoid e deixar o parágrafo "A troca proposta tem a qualidade…" correr depois dele, ou trocar a ordem desse parágrafo com o do terceiro passo para que a prosa preencha a p. 16. p. 13: permitir que o primeiro parágrafo de "As três alturas" suba antes da figura (figura flutuante para o topo da p. 14), ou mover o bloco figura de balança para depois do primeiro parágrafo da seção.'
+  - criterio: honestidade
+    trecho: 'Algo que você defendia e mudou. Prova raciocínio e não cria inimigo.'
+    por_que: 'A figura 17.2 mantém o absoluto que a r1 pediu para tirar da prosa, e agora contradiz o próprio texto ("é a que menos cria inimigos, porque o alvo principal é você no passado") e a questão 02 ("a que menos cria inimigos"). Somam-se duas generalizações sem fonte sobre terceiros: "A indignação pode ser o ponto de partida, e quase sempre é." (legenda da 17.1) e "Quem lê os comentários de um contraponto está observando menos quem tem razão e mais como cada um trata quem pensa diferente", além de "É a que menos aparece". Passa do limite de 2 (lição cap01-r4/cap02-r2).'
+    correcao: 'Figura 17.2, nota 3: "Algo que você defendia e mudou. Prova raciocínio e cria menos inimigos." Legenda 17.1: "A indignação pode ser o ponto de partida. O que segura a peça em pé é o que você viu na prática e o que propõe no lugar." Comentários: "Quem lê os comentários de um contraponto também observa como cada um trata quem pensa diferente."'
+  - criterio: coerencia
+    trecho: "Foi a primeira vez que alguém discordou dela em público"
+    por_que: 'Lúcia publica toda terça há mais de um ano corrigindo crenças ("Desde que começou a publicar, havia mais de um ano, Lúcia corrigia crenças de pacientes, uma por semana"), deu entrevista num canal (cap. 12) e o cap. 27 fala em "uns quinze ou vinte" que comentam. Que ninguém nunca tenha discordado dela é pouco verossímil e repete a batida "primeira vez" do mesmo capítulo ("Esta seria a primeira peça em que ela diria…").'
+    correcao: '"Era a primeira vez que uma colega discordava dela em público, e ela percebeu, com alguma surpresa, que a conversa tinha deixado o texto melhor." (ancora a novidade no que o capítulo promete: a discordância entre pares.)'
+  - criterio: aplicabilidade
+    trecho: 'Um professor de cursinho: “Crença: que resolver mil exercícios por semana garante a aprovação.”'
+    por_que: 'Dois problemas no exemplo que abre a oficina. Primeiro, ele modela o espantalho que o capítulo condena: ninguém sério defende que "mil exercícios" "garantem" aprovação; o leitor copia a caricatura. Segundo, o professor de cursinho já contestou o volume de prática no cap. 10 ("Simulado toda semana cansa mais do que ensina"), mesma imagem em outro capítulo (lição cap02-r1). No campo 03, o exemplo da dentista não diz que posição está justificando ("Porque a primeira consulta cara afasta o paciente, e o orçamento fechado dá segurança"): o leitor não sabe se a posição é a avaliação gratuita ou o orçamento fechado.'
+    correcao: 'Campo 01, outra profissão e uma posição que alguém sério defende: "Um corretor de seguros: “Prática: oferecer primeiro o seguro de menor mensalidade, para não assustar o cliente.”" Campo 03, dizer de que posição se trata: "Uma dentista, sobre o orçamento fechado antes da avaliação completa: “Existe porque o paciente quer saber quanto vai gastar antes de começar, e é justo que queira.”"'
+  - criterio: clareza
+    trecho: "Renata gravou o dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta."
+    por_que: 'O parágrafo vem solto depois da figura 17.2, e "o dela" não tem antecedente próximo: o último "contraponto" da prosa está três parágrafos antes, e o parágrafo imediatamente anterior é sobre a frase da Lúcia. O leitor apressado lê "o dela" como "o rótulo dela". O parágrafo também fecha a seção de modo lateral, sem voltar à Lúcia.'
+    correcao: '"Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta." Considerar movê-lo para antes da figura 17.2, logo depois do parágrafo sobre a crença, onde ilustra a altura do meio.'
+  - criterio: voz
+    trecho: "Nenhum deles estava inventando o desconforto. O que incomodava Lúcia era outra coisa:"
+    por_que: 'A cena de abertura tem duas antíteses, acima do limite de uma por seção (lição cap01-r1): esta ("não era X; era outra coisa") e "Mas sempre falando com quem chega ao consultório, e nunca com quem trabalha ao lado dela". Na primeira seção há ainda "se sinta mais compreendida, e nunca corrigida", que é a que vale manter.'
+    correcao: '"Nenhum deles estava inventando o desconforto. O que incomodava Lúcia era a ordem: o nome chegava antes da história…" e "Mas sempre falando com quem chega ao consultório. Nunca tinha discordado de uma coisa que colegas faziam e defendiam em público."'
+  - criterio: originalidade
+    trecho: "terminou numa frase que os pacientes passaram a repetir na maca: a melhor postura é a próxima."
+    por_que: '"A melhor postura é a próxima" é máxima corrente em ergonomia e fisioterapia, repetida em cartilhas e palestras; um fisioterapeuta leitor reconhece na hora. O texto não diz que Renata a inventou, mas a apresenta como o achado do contraponto dela, e o livro vinha dando a cada personagem frases de lavra própria ("a dor não é o inimigo, é o alarme").'
+    correcao: 'Marcar como citação assumida ("terminou numa frase que ouviu num congresso e que os pacientes passaram a repetir na maca: a melhor postura é a próxima") ou dar a ela uma formulação própria no modo oral, por analogia: "coluna gosta de visita, não de morador".'
+  - criterio: concretude
+    trecho: "uma paciente contou na sessão que tinha lido um texto sobre descrever em vez de nomear, sem saber de quem era"
+    por_que: 'O texto saiu no perfil da Lúcia, com o nome dela; falta dizer como a paciente o leu sem saber a autoria (lição cap03-r3: toda cena que mostra resultado mostra como a pessoa chegou a ele). Sem isso, o leitor desconfia da coincidência que fecha o capítulo.'
+    correcao: '"…que tinha lido um texto sobre descrever em vez de nomear, num print que uma amiga mandou sem o nome de quem escreveu, e que tinha tentado."'
+  - criterio: ritmo
+    trecho: "Qualquer um desses sinais basta para segurar a peça, quase sempre por algumas semanas ou até uma reescrita, e raramente para sempre."
+    por_que: '"Quase" aparece dez vezes no capítulo ("quase um mês", "quase desistiu" duas vezes, "quase desistência", "quase ninguém" três vezes, "quase sempre" duas vezes, "quase todo"). As três quase desistências são do plano e ficam; as demais gastam a palavra que marca a batida da cena.'
+    correcao: 'Cortar as que não são da cena: "…basta para segurar a peça, em geral por algumas semanas ou até uma reescrita, e raramente para sempre."; "a frase que ela diz a muitos pacientes novos"; na legenda da 17.1, ver a correção de honestidade; em "As três alturas", "uma ideia que poucos questionam" numa das ocorrências.'
+edicoes_de_linha:
+  - '"o contraponto que tinha publicado em agosto" (cap. 22) -> "o contraponto que tinha publicado em setembro"'
+  - '"Prova raciocínio e não cria inimigo." (fig. 17.2) -> "Prova raciocínio e cria menos inimigos."'
+  - '"A indignação pode ser o ponto de partida, e quase sempre é." -> "A indignação pode ser o ponto de partida."'
+  - '"Renata gravou o dela no mês anterior" -> "Renata gravou o contraponto dela no mês anterior"'
+  - '"Foi a primeira vez que alguém discordou dela em público" -> "Era a primeira vez que uma colega discordava dela em público"'
+  - '"O que incomodava Lúcia era outra coisa: o nome chegava" -> "O que incomodava Lúcia era a ordem: o nome chegava"'
+  - '"Mas sempre falando com quem chega ao consultório, e nunca com quem trabalha ao lado dela." -> "Mas sempre falando com quem chega ao consultório."'
+  - '"está observando menos quem tem razão e mais como cada um trata quem pensa diferente" -> "também observa como cada um trata quem pensa diferente"'
+  - '"sem saber de quem era, e que tinha tentado" -> "num print que uma amiga mandou sem o nome de quem escreveu, e que tinha tentado"'
+  - '"quase sempre por algumas semanas ou até uma reescrita" -> "em geral por algumas semanas ou até uma reescrita"'
+  - '"explicacao: Discordar de si mesmo prova raciocínio ativo" -> "explicacao: Discordar de si mesmo mostra que você pensa enquanto trabalha" (mesma formulação da prosa; "raciocínio ativo" é jargão)'
+diagramacao:
+  - 'p. 16-17: o box Na prática está partido: "O comum" no pé da p. 16, com cerca de 40% da página em branco abaixo, e "O singular" + "Por quê" no alto da p. 17. Manter o exemplo inteiro (break-inside: avoid no conjunto) e deixar a prosa preencher a p. 16, ou reordenar os parágrafos da seção.'
+  - 'p. 13: cerca de 40% em branco abaixo do box Conceito, porque a figura 17.1 (balança) foi inteira para a p. 14. Permitir que o texto de "As três alturas" suba e a figura vá para o topo da p. 14, ou mover o bloco figura para depois do primeiro parágrafo da seção.'
+  - 'p. 21-22: a rede ainda abre em página nova, deixando cerca de 20% livre no pé da p. 21 (a regra do projeto só exige página nova para a oficina). O branco da p. 22 antes do esqueleto é aceito; o da p. 21 não. Se a rede puder correr logo após o "Confira antes de seguir", as três regras sobem para a p. 21.'
+veredito: 'Capítulo forte, com a melhor cena da Lúcia até aqui e as correções da r1 bem absorvidas; fica abaixo do gate por um furo de data com o cap. 22, pela concessão (passo 2) que o checklist não cobra, por roteiro e esqueleto que não servem à terceira altura e por dois brancos evitáveis, tudo resolvível numa passada curta.'

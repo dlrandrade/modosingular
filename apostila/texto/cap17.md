@@ -12,13 +12,13 @@ Lúcia começou a escrever o texto numa segunda-feira de agosto e só o publicou
 
 O assunto vinha se acumulando no caderno de campo havia meses. Os pacientes chegavam cada vez mais com o nome pronto para o que sentiam. Uma dizia que tinha tido uma crise de pânico na fila do banco. Outro, que o chefe era narcisista. Uma terceira explicava a própria dificuldade de terminar tarefas com uma sigla que tinha aprendido num vídeo de um minuto. Nenhum deles estava inventando o desconforto.
 
-O que incomodava Lúcia era outra coisa: o nome chegava antes da história, e a história ficava do lado de fora. Quando ela perguntava o que exatamente tinha acontecido na fila do banco, a paciente não sabia responder. Sabia apenas que tinha sido uma crise.
+O que incomodava Lúcia era a ordem: o nome chegava antes da história, e a história ficava do lado de fora. Quando ela perguntava o que exatamente tinha acontecido na fila do banco, a paciente não sabia responder. Sabia apenas que tinha sido uma crise.
 
 Na primeira versão do texto, escrita num fim de noite, Lúcia disse tudo o que pensava. Falou da moda de rotular, dos vídeos que ensinam diagnóstico em sessenta segundos, das pessoas que transformam um dia ruim num transtorno. Releu na manhã seguinte e sentiu vergonha. O texto soava como bronca e, pior, dava a entender que o sofrimento daquelas pessoas não era real, e isso era o contrário do que ela pensava. Guardou o arquivo e decidiu que não ia publicar.
 
 Na quarta-feira, no café depois da reunião do grupo de estudos, Lúcia contou à amiga a história do texto abandonado. A amiga fez duas perguntas: o que ela colocaria no lugar do rótulo, e se já tinha feito aquilo mesmo que agora criticava. A segunda pergunta ficou com Lúcia a semana inteira.
 
-Desde que começou a publicar, havia mais de um ano, Lúcia corrigia crenças de pacientes, uma por semana. Mas sempre falando com quem chega ao consultório, e nunca com quem trabalha ao lado dela. Nunca tinha discordado de uma coisa que colegas faziam e defendiam em público. Achava que o lugar da psicóloga era o da escuta, e que discordar de colegas em público seria uma espécie de traição a esse lugar. Esta seria a primeira peça em que ela diria que uma prática de colegas que respeitava estava deixando alguma coisa de fora.
+Desde que começou a publicar, havia mais de um ano, Lúcia corrigia crenças de pacientes, uma por semana. Mas sempre falando com quem chega ao consultório. Nunca tinha discordado de uma coisa que colegas faziam e defendiam em público. Achava que o lugar da psicóloga era o da escuta, e que discordar de colegas em público seria uma espécie de traição a esse lugar. Esta seria a primeira peça em que ela diria que uma prática de colegas que respeitava estava deixando alguma coisa de fora.
 
 ## Por que discordar funciona
 
@@ -34,18 +34,18 @@ definicao: Uma discordância pública de uma prática, crença ou recomendação
 porque: As pessoas lembram de quem lhes mostrou uma segunda forma de ver. Mas um contraponto sem argumento e sem substituição deixa só desconforto, e quem lê associa você ao desconforto.
 ```
 
+## As três alturas
+
+Há três alturas possíveis para um contraponto, e cada uma tem um custo diferente. A mais baixa discorda de uma prática: um procedimento, um hábito, um jeito de fazer que é comum na sua área. O risco é pequeno e o retorno é médio, e é o melhor lugar para o primeiro contraponto: uma prática se descreve com precisão, e quem a critica pode mostrar, com um caso da própria prática, o que ela deixa de fora. A do meio discorda de uma crença, uma ideia que quase ninguém questiona. O risco é maior e o retorno também, porque é ali que a posição de alguém fica mais nítida.
+
 ```figura
 tipo: balanca
 titulo: A indignação começa a peça; o repertório a sustenta
 ilustrativo: true
 esquerda: {rotulo: "Indignação", peso: 30}
 direita: {rotulo: "Repertório e substituição", peso: 85}
-legenda: Esquema ilustrativo. A indignação pode ser o ponto de partida, e quase sempre é. O que segura a peça em pé é o que você viu na prática e o que propõe no lugar.
+legenda: Esquema ilustrativo. A indignação pode ser o ponto de partida. O que segura a peça em pé é o que você viu na prática e o que propõe no lugar.
 ```
-
-## As três alturas
-
-Há três alturas possíveis para um contraponto, e cada uma tem um custo diferente. A mais baixa discorda de uma prática: um procedimento, um hábito, um jeito de fazer que é comum na sua área. O risco é pequeno e o retorno é médio, e é o melhor lugar para o primeiro contraponto: uma prática se descreve com precisão, e quem a critica pode mostrar, com um caso da própria prática, o que ela deixa de fora. A do meio discorda de uma crença, uma ideia que quase ninguém questiona. O risco é maior e o retorno também, porque é ali que a posição de alguém fica mais nítida.
 
 A terceira altura é a mais subestimada. É discordar de si mesmo: dizer que você pensava uma coisa e mudou de ideia, e por quê. Ela prova que você pensa enquanto trabalha, afasta a suspeita de vaidade e é a que menos cria inimigos, porque o alvo principal é você no passado. É a que menos aparece, e dá para entender: exige admitir um erro em público.
 
@@ -57,10 +57,10 @@ titulo: Quanto mais alto o degrau, mais o contraponto fala de você
 degraus:
   - {rotulo: "Contra uma prática", nota: "Um hábito comum da área. Risco baixo; bom para começar."}
   - {rotulo: "Contra uma crença", nota: "Uma ideia que quase ninguém questiona. Risco maior; é onde a posição aparece."}
-  - {rotulo: "Contra si mesmo", nota: "Algo que você defendia e mudou. Prova raciocínio e não cria inimigo."}
+  - {rotulo: "Contra si mesmo", nota: "Algo que você defendia e mudou. Prova raciocínio e cria menos inimigos."}
 ```
 
-Renata gravou o dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta. Passou dois minutos dizendo por que a ideia se espalhou, porque ficar torto por horas dói mesmo, e terminou numa frase que os pacientes passaram a repetir na maca: a melhor postura é a próxima.
+Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta. Passou dois minutos dizendo por que a ideia se espalhou, porque ficar torto por horas dói mesmo, e terminou numa comparação que os pacientes passaram a repetir na maca: coluna gosta de visita, não de morador.
 
 ## A estrutura que separa argumento de bronca
 
@@ -98,7 +98,7 @@ itens:
   - A sua motivação verdadeira é irritação com uma pessoa específica.
 ```
 
-Qualquer um desses sinais basta para segurar a peça, quase sempre por algumas semanas ou até uma reescrita, e raramente para sempre.
+Qualquer um desses sinais basta para segurar a peça, em geral por algumas semanas ou até uma reescrita, e raramente para sempre.
 
 ```nota
 tipo: alerta
@@ -106,11 +106,11 @@ titulo: O erro que anula tudo
 texto: Contraponto sem substituição é demolição. Quem lê fica sem saber o que fazer e associa você ao desconforto. Se ainda não tem o que colocar no lugar, ainda não é hora de publicar aquela discordância.
 ```
 
-Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou. O texto começava pelo que o nome tem de bom, passava pelo que ela mesma fazia no começo, e terminava na troca entre o rótulo e a descrição. Uma colega que ela não conhecia comentou discordando, com educação, e trazendo um argumento que Lúcia achou bom: para algumas pessoas, o nome é justamente o que permite contar a história depois. Lúcia respondeu concordando em parte e mantendo o resto. Foi a primeira vez que alguém discordou dela em público, e ela percebeu, com alguma surpresa, que a conversa tinha deixado o texto melhor.
+Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou. O texto começava pelo que o nome tem de bom, passava pelo que ela mesma fazia no começo, e terminava na troca entre o rótulo e a descrição. Uma colega que ela não conhecia comentou discordando, com educação, e trazendo um argumento que Lúcia achou bom: para algumas pessoas, o nome é justamente o que permite contar a história depois. Lúcia respondeu concordando em parte e mantendo o resto. Era a primeira vez que uma colega discordava dela em público, e ela percebeu, com alguma surpresa, que a conversa tinha deixado o texto melhor.
 
-Responder a quem discorda faz parte da peça, e é onde o contraponto se confirma ou se desfaz. Lúcia levou uma hora para escrever quatro linhas. Começou pelo que o argumento da colega tinha de certo, com as palavras dela, disse onde a experiência do consultório apontava para outro lado e não tentou ter a última palavra. Quem lê os comentários de um contraponto está observando menos quem tem razão e mais como cada um trata quem pensa diferente. Uma resposta atravessada desmente, em duas linhas, o texto inteiro.
+Responder a quem discorda faz parte da peça, e é onde o contraponto se confirma ou se desfaz. Lúcia levou uma hora para escrever quatro linhas. Começou pelo que o argumento da colega tinha de certo, com as palavras dela, disse onde a experiência do consultório apontava para outro lado e não tentou ter a última palavra. Quem lê os comentários de um contraponto também observa como cada um trata quem pensa diferente. Uma resposta atravessada desmente, em duas linhas, o texto inteiro.
 
-Na quinta, uma paciente contou na sessão que tinha lido um texto sobre descrever em vez de nomear, sem saber de quem era, e que tinha tentado. Tinha escrito no celular, na noite anterior, o que acontecia com o corpo dela antes de uma reunião difícil, em vez de escrever que estava ansiosa. Leu a lista para Lúcia. Era a conversa mais produtiva que as duas tinham tido em semanas. Lúcia não contou que o texto era dela. Não fazia diferença, e contar mudaria o assunto da sessão.
+Na quinta, uma paciente contou na sessão que tinha lido um texto sobre descrever em vez de nomear, num print que uma amiga mandou sem o nome de quem escreveu, e que tinha tentado. Tinha escrito no celular, na noite anterior, o que acontecia com o corpo dela antes de uma reunião difícil, em vez de escrever que estava ansiosa. Leu a lista para Lúcia. Era a conversa mais produtiva que as duas tinham tido em semanas. Lúcia não contou que o texto era dela. Não fazia diferença, e contar mudaria o assunto da sessão.
 
 ```guardar
 - Quem só repete o consenso é esquecido. Quem mostra uma segunda forma de ver, com argumento, é lembrado.
@@ -125,13 +125,13 @@ tempo: 35
 entrega: Um contraponto nos quatro passos, com a altura escolhida e a checagem de quando não publicar.
 campos:
   - rotulo: "O que você contesta, e em que altura (prática, crença ou você mesmo)"
-    exemplo: "Um professor de cursinho: “Crença: que resolver mil exercícios por semana garante a aprovação.”"
+    exemplo: "Um corretor de seguros: “Prática: oferecer primeiro o seguro de menor mensalidade, para não assustar o cliente.”"
     linhas: 2
   - rotulo: "A posição contrária, na versão mais forte e justa que você consegue escrever"
     exemplo: "Um contador: “Abrir MEI é o jeito mais barato de formalizar quem está começando.” Se não consegue escrevê-la de um jeito que quem a defende assinaria, volte ao campo 01: escolha outra ideia ou estude melhor esta."
     linhas: 3
   - rotulo: "Por que essa posição existe"
-    exemplo: "Uma dentista: “Porque a primeira consulta cara afasta o paciente, e o orçamento fechado dá segurança.”"
+    exemplo: "Uma dentista, sobre o orçamento fechado antes da avaliação completa: “Existe porque o paciente quer saber quanto vai gastar antes de começar, e é justo que queira.”"
     linhas: 2
   - rotulo: "O que a sua prática mostra que não se encaixa"
     exemplo: "Um caso típico, um padrão, um sinal. Sem identificar ninguém."
@@ -166,7 +166,7 @@ evite:
   - Publicar no mesmo dia em que a irritação apareceu.
 esqueleto_rotulo: "Passe a limpo os campos 02 a 05, em frases de quem lê, com a grade do campo 06 resolvida"
 esqueleto:
-  - {rotulo: "O que se costuma dizer", texto: "Do campo 02, na versão mais forte.", linhas: 2}
+  - {rotulo: "O que se costuma dizer (ou o que você pensava)", texto: "Do campo 02, na versão mais forte.", linhas: 2}
   - {rotulo: "Por que faz sentido", texto: "Do campo 03.", linhas: 2}
   - {rotulo: "O que não se encaixa", texto: "Do campo 04.", linhas: 2}
   - {rotulo: "O que colocar no lugar", texto: "Do campo 05.", linhas: 2}
@@ -178,7 +178,7 @@ roteiro: |
   Só que o que eu vejo na prática é outra coisa: {o que não se encaixa, sem identificar ninguém}.
 
   Então, no lugar disso, eu sugiro {a alternativa}. Se você pensa diferente, vale a conversa.
-roteiro_nota: Um contraponto por peça. Em profissões com código de ética, critique a prática, nunca colegas, e não faça diagnóstico ou prescrição em público.
+roteiro_nota: Um contraponto por peça. Se ele é contra você mesmo, troque a primeira frase por “Durante anos eu pensei que {…}”. Em profissões com código de ética, critique a prática, nunca colegas, e não faça diagnóstico ou prescrição em público.
 ```
 
 ```verificacao
@@ -197,7 +197,7 @@ roteiro_nota: Um contraponto por peça. Em profissões com código de ética, cr
     - Contra si mesmo, contando o que você mudou.
     - Contra um concorrente que atende o mesmo público.
   correta: 2
-  explicacao: Discordar de si mesmo prova raciocínio ativo e afasta a suspeita de vaidade, e o alvo principal é você no passado. Lúcia chegou a ela ao lembrar do que fazia no começo.
+  explicacao: Discordar de si mesmo mostra que você pensa enquanto trabalha e afasta a suspeita de vaidade, e o alvo principal é você no passado. Lúcia chegou a ela ao lembrar do que fazia no começo.
 - pergunta: O que deve acontecer depois que um contraponto derruba um critério?
   opcoes:
     - Ele deve propor outro critério no lugar.
@@ -218,8 +218,8 @@ roteiro_nota: Um contraponto por peça. Em profissões com código de ética, cr
 
 ```aplicacao
 itens:
-  - {rotulo: "Escolhi o que contestar e em que altura", ajuda: "Prática, crença ou eu mesmo (campo 01).", pontos: 2}
   - {rotulo: "Fui justo com a posição contrária", ajuda: "Quem a defende a reconheceria no campo 02.", pontos: 3}
-  - {rotulo: "Sustentei com repertório e propus uma substituição", ajuda: "Campos 04 e 05.", pontos: 3}
+  - {rotulo: "Reconheci por que a posição existe", ajuda: "Com uma razão que quem a defende aceitaria (campo 03).", pontos: 2}
+  - {rotulo: "Sustentei com a prática e propus o que pôr no lugar", ajuda: "Campos 04 e 05.", pontos: 3}
   - {rotulo: "Fiz a checagem com honestidade", ajuda: "Publico só com a grade do campo 06 resolvida.", pontos: 2}
 ```
