@@ -14,11 +14,11 @@ Bianca era boa no que fazia, e fazia de boa-fé. Tinha aprendido na faculdade a 
 
 Em abril, o perfil publicava seis vezes por semana. Os áudios eram os mesmos dois, gravados no estacionamento, mas cada um virava um carrossel, uma frase de destaque sobre fundo azul e um vídeo curto com legenda animada. Os números subiram. Bianca mostrava a Renata, na sexta, um gráfico com o crescimento de seguidores, e Renata aprovava a semana seguinte num bloco só, com o polegar, entre um paciente e outro.
 
-No fim de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele tinha terminado o tratamento, e agora vinha para algumas sessões de manutenção, depois de uma viagem longa de carro. Na saída, com o casaco já no braço, comentou que tinha visto o perfil dela de novo. Disse, rindo, que no ano anterior tinha finalmente parado de avisar os colegas para não ligarem para o Instagram da fisioterapeuta. "Agora eu acho que voltaria a avisar."
+Em meados de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele tinha terminado o tratamento, e agora vinha para algumas sessões de manutenção, depois de uma viagem longa de carro. Na saída, com o casaco já no braço, comentou que tinha visto o perfil dela de novo. Disse, rindo, que no ano anterior tinha finalmente parado de avisar os colegas para não ligarem para o Instagram da fisioterapeuta. "Agora eu acho que voltaria a avisar."
 
 Renata riu com ele, e à noite abriu o perfil com calma pela primeira vez em semanas. Rolou as últimas trinta publicações. Encontrou dicas de postura numeradas, uma frase sobre autocuidado em letras grandes, um carrossel sobre o travesseiro certo que ela não lembrava de ter aprovado. Os áudios dela estavam lá dentro, em pedaços, mas as frases tinham mudado. "A dor não é o inimigo, é o alarme" tinha virado "Escute o seu corpo: a dor é um sinal", com ponto de exclamação no fim e um coração azul.
 
-Não havia nada de errado em nenhuma das peças, e era isso que mais incomodava. Estavam corretas, bem organizadas e bonitas. Mas não havia nelas a pergunta sobre as manhãs, nem o paciente do carrinho de supermercado, nem a desconfiança do exame que não combina com a queixa. Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
+Renata procurou uma frase para corrigir e não achou. O que faltava não cabia numa correção: a pergunta sobre as manhãs, o paciente do carrinho de supermercado, a desconfiança do exame que não combina com a queixa. Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
 
 A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abriu as mensagens das semanas anteriores e encontrou, em todas as sextas, a mesma pergunta da assistente, "posso agendar?", e a mesma resposta dela, "pode", enviada do corredor, com o próximo paciente já na maca. Nenhuma daquelas peças tinha saído sem a aprovação dela. Tinha aprovado tudo, e não tinha lido quase nada.
 
@@ -26,9 +26,9 @@ A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abr
 
 Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de quinze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
 
-Em algum momento, quem começa a dar certo precisa de mais volume, ou de ajuda para sustentá-lo. Diante disso, a pergunta útil é o que pode crescer e o que precisa continuar nas suas mãos. Há etapas da produção que são mecânicas, e ganham com mais gente e mais processo. Há outras que são o próprio conteúdo, e deixam de existir quando passam para outras mãos.
+Em algum momento, quem começa a dar certo precisa de mais volume, ou de ajuda para sustentá-lo, e aí a pergunta passa a ser o que pode crescer e o que precisa continuar nas suas mãos. Algumas etapas da produção são mecânicas e ganham com mais gente e mais processo; outras são o próprio conteúdo e deixam de existir quando passam para outras mãos.
 
-Na tabela a seguir, as quatro primeiras linhas são as que o livro inteiro ajudou você a encontrar: a ideia vem do caderno de campo, a opinião do capítulo 10, a fala do seu modo, o critério do capítulo 18. Enquanto essas quatro continuarem sendo suas, o resto pode crescer sem risco. No caso da Renata, as quatro tinham saído das mãos dela sem que ninguém decidisse isso. A ideia de cada peça passou a ser escolhida por Bianca, a partir de trechos dos áudios, e o critério foi o primeiro a cair na edição, porque era a parte mais difícil de caber numa arte.
+As quatro primeiras linhas da tabela a seguir você já encontrou: a ideia vem do caderno de campo, a opinião do capítulo 10, a fala do seu modo, o critério do capítulo 18. Enquanto essas quatro continuarem sendo suas, o resto pode crescer sem risco. No caso da Renata, as quatro tinham saído das mãos dela sem que ninguém decidisse isso. A ideia de cada peça passou a ser escolhida por Bianca, a partir de trechos dos áudios; a opinião virou conselho ("durma de lado", "escolha o travesseiro certo"); e o critério foi o primeiro a cair na edição, porque era a parte mais difícil de caber numa arte.
 
 Tabela: A linha que divide as etapas
 
@@ -46,7 +46,7 @@ Cortar e reescrever parecem vizinhos e fazem coisas opostas. Cortar é tirar do 
 
 ```conceito
 termo: Escala com rosto
-definicao: O crescimento do volume e do alcance sem perda da singularidade, obtido quando crescem as etapas mecânicas, como transcrever, formatar e distribuir, e ficam intocadas as etapas que são o próprio conteúdo: a ideia, a opinião, a fala e o critério.
+definicao: O crescimento do volume e do alcance sem perda da singularidade, obtido quando se amplia a parte mecânica, como transcrever, formatar e agendar, e ficam intocadas as etapas que são o próprio conteúdo: a ideia, a opinião, a fala e o critério.
 porque: A tendência natural do crescimento é padronizar tudo. Quando a padronização chega à voz, você ganha alcance no momento exato em que perde o motivo pelo qual as pessoas procuravam você.
 ```
 
@@ -56,12 +56,12 @@ A descaracterização é silenciosa porque cada peça, olhada sozinha, parece bo
 
 O segundo sinal é o mais confiável: aprovar sem ler direito. Quando a revisão vira uma formalidade feita no intervalo, com o polegar, a voz já saiu, porque ninguém mais está conferindo se ela está lá. O terceiro é consequência do segundo. Você não lembra o que publicou na semana. Renata não lembrava do carrossel do travesseiro, e não lembrava porque não o tinha pensado. Tinha apenas autorizado.
 
-Os três sinais aparecem também em quem trabalha sozinho. Um modelo de arte que decide o tamanho de cada frase, um aplicativo que sugere legendas prontas, uma inteligência artificial que reescreve a transcrição em tom de postagem: qualquer ajuda que troque palavras produz o mesmo efeito de uma assistente sem orientação. O Apêndice C traz um modelo de pedido que mantém a sua voz quando a ajuda é uma ferramenta. As quatro etapas que nunca passam adiante valem para gente e para programa.
+Os três sinais aparecem também em quem trabalha sozinho. Uma arte pronta que decide o tamanho de cada frase, um aplicativo que sugere legendas prontas, uma inteligência artificial que reescreve a transcrição em tom de postagem: qualquer ajuda que troque palavras produz o mesmo efeito de uma assistente sem orientação. O Apêndice C traz um modelo de pedido que mantém a sua voz quando a ajuda é uma ferramenta. As quatro etapas que nunca passam adiante valem para gente e para programa.
 
 ```nota
 tipo: alerta
-titulo: A culpa costuma cair no lugar errado
-texto: Volume não apaga uma voz. O que apaga é passar a voz para outras mãos. Como as duas coisas chegaram juntas no caso da Renata, a escala levou a culpa por um efeito que a delegação produziu, e a pessoa reduz o volume sem mudar o que de fato estava errado.
+titulo: A culpa cai no lugar errado
+texto: Volume não apaga uma voz. O que apaga é passar a voz para outras mãos. Como as duas coisas chegaram juntas no caso da Renata, a escala levou a culpa por um efeito que a delegação produziu, e o remédio óbvio, cortar o volume, deixaria intacto o que de fato estava errado.
 ```
 
 Renata quase cometeu esse erro. Na primeira noite, pensou em voltar às duas peças por semana e dispensar a ajuda de Bianca. Na manhã seguinte, pegou o carrossel do travesseiro e refez o caminho dele, do áudio à arte: a ideia tinha sido escolhida por outra pessoa, a frase tinha sido trocada, e a aprovação tinha sido dela, do corredor. Com as quatro etapas de volta nas mãos dela, seis peças por semana talvez continuassem possíveis.
@@ -85,18 +85,18 @@ nos:
 
 A revisão mudou de lugar e de forma. Deixou de ser uma aprovação em bloco, rolando a tela, e passou a ser uma leitura inteira, no computador da recepção, com o manual de voz ao lado: a cada frase, Renata conferia as cinco regras, e a primeira pergunta era sempre se diria aquilo daquele jeito a um paciente. Nas primeiras semanas, marcou muitas. "Escute o seu corpo" voltou a ser "a dor não é o inimigo, é o alarme", e ganhou de volta a continuação que ela sempre diz: alarme a gente investiga antes de desligar. O ponto de exclamação sumiu, e o coração azul também.
 
-O volume se ajustou pelo uso. Dos três formatos que Bianca tirava de cada áudio, dois continuaram: o texto transcrito e o vídeo com a própria voz de Renata e legenda. A frase de destaque sobre fundo azul saiu, porque nenhuma frase de Renata fazia sentido arrancada do raciocínio. O perfil passou de seis para quatro peças por semana. O tempo de Renata em cada peça caiu para uns quinze minutos: o áudio no começo e a leitura no fim, que são justamente os dois lugares em que a presença dela importa.
+O volume se ajustou pelo uso. Dos três formatos que Bianca tirava de cada áudio, dois continuaram: o carrossel, agora com as frases da transcrição e nenhuma outra, e o vídeo com a própria voz de Renata e legenda. A frase de destaque sobre fundo azul saiu, porque nenhuma frase de Renata fazia sentido arrancada do raciocínio. O perfil passou de seis para quatro peças por semana. O tempo de Renata em cada peça caiu para uns quinze minutos: o áudio no começo e a leitura no fim, os dois lugares em que a presença dela importa.
 
 Bianca também propôs uma regra. Além das quatro, uma quinta peça, curta, seria feita inteira por Renata toda semana, do áudio à publicação, sem nenhuma mão de fora. Serviria de controle. Se essa peça começasse a soar muito diferente das outras, era sinal de que a edição tinha ido longe demais outra vez. Nas primeiras semanas, a diferença era grande. Em junho, já quase não se percebia.
 
 ```figura
 tipo: linha
-titulo: O volume cresce; o que cai é a voz delegada
+titulo: Com a voz preservada, o volume não apaga a diferença
 ilustrativo: true
 unidade: diferença percebida entre você e os colegas
 labels: ["2/sem.", "4/sem.", "6/sem.", "10/sem."]
 series:
-  - {nome: "Com as quatro etapas preservadas", pontos: [70, 76, 79, 80], destaque: true}
+  - {nome: "Com as quatro etapas preservadas", pontos: [72, 74, 74, 75], destaque: true}
   - {nome: "Com a voz passada adiante", pontos: [58, 48, 36, 24]}
 legenda: Esquema ilustrativo, sem medição; mostra a lógica do capítulo, e não um dado.
 ```
@@ -107,7 +107,7 @@ Em junho, Marcos voltou para a última sessão de manutenção. Não falou do pe
 
 Se você ainda produz sozinho, a arquitetura serve do mesmo jeito, por outro motivo: é mais fácil decidir o que nunca passa adiante antes de ter alguém para quem passar. Renata desenhou a dela depois do estrago, em abril, com o perfil já parecendo de outra pessoa. Quem a desenha antes entra na primeira contratação, ou na primeira ferramenta, com a linha já traçada. Uma folha basta: as quatro etapas no alto, com o seu nome ao lado de cada uma, e embaixo as que podem passar, com espaço para o nome de quem um dia fizer.
 
-A ordem natural da ajuda começa pelo mais mecânico. Primeiro a transcrição, que consome tempo e não carrega nada de seu. Depois a formatação e a agenda. O corte vem por último, porque é o ponto em que mais facilmente se escorrega do corte para a reescrita, e exige que a pessoa conheça bem a sua voz. As quatro etapas do topo da tabela não entram nessa fila em nenhum momento.
+Se um dia passar alguma coisa adiante, comece pela transcrição; o corte vem por último, porque é onde se escorrega para a reescrita. As quatro etapas do topo da tabela não entram nessa fila em nenhum momento.
 
 ```guardar
 - Ideia, opinião, fala e critério nunca passam a outras mãos. Com essas quatro preservadas, o resto pode crescer.
@@ -125,7 +125,7 @@ campos:
     exemplo: "No seu modo: quem pensa escrevendo talvez não tenha transcrição; quem pensa falando talvez não tenha rascunho. Se é tudo você, escreva assim mesmo."
     linhas: 4
   - rotulo: "As quatro que são só suas: como cada uma acontece no seu modo, com o seu nome ao lado"
-    exemplo: "1. Ter a ideia; 2. ter a opinião; 3. falar ou rascunhar; 4. decidir o critério. Uma linha para cada, com o seu nome no fim."
+    exemplo: "Uma nutricionista que pensa respondendo: 1. A ideia sai das perguntas da semana, anotadas no caderno. Eu. 2. A opinião é a que eu daria à paciente que perguntou. Eu. 3. Respondo em voz alta, como na consulta. Eu. 4. O critério é o que eu observo antes de mudar um plano. Eu."
     linhas: 4
     numerar: true
   - rotulo: "As etapas que podem passar, quem faz hoje e quem pode fazer um dia (nome ou função)"
@@ -135,7 +135,7 @@ campos:
     exemplo: "Uma assistente, uma agência ou uma ferramenta vai propor, com boa intenção. Escreva a resposta agora, com calma."
     linhas: 2
   - rotulo: "O seu ponto de revisão: quando, onde e contra quais linhas do seu manual de voz (cap. 11)"
-    exemplo: "Um contador: “Quinta, antes de agendar, com o manual ao lado: eu diria esta frase a um cliente, na minha mesa, com esta palavra?”"
+    exemplo: "Um contador: “Quinta, antes de agendar, frase por frase, contra as regras 2 e 4 do meu manual: eu dou o número antes da opinião; eu nunca uso sigla sem abrir. E a pergunta: eu diria isto a um cliente, na minha mesa?”"
     linhas: 3
   - rotulo: "Os três sinais, hoje"
     exemplo: "Se você ainda não publica, marque a linha 1 como “não acontece” e responda às linhas 2 e 3 pensando nos últimos rascunhos que alguém, ou alguma ferramenta, mexeu por você."
@@ -156,7 +156,7 @@ regras:
   - {regra: "Fale da decisão, e não do seu processo de produção.", porque: "Quem lê não precisa saber quem transcreve as suas peças. Precisa saber o que, no atendimento, só você decide, e por quê."}
   - {regra: "Leia inteira antes de publicar.", porque: "O hábito que protege as outras peças começa nesta: frase por frase, com o seu manual de voz ao lado."}
 faca:
-  - "Uma dermatologista: “A decisão de biopsiar ou não uma pinta, eu não passo a ninguém.”"
+  - "Uma dermatologista: “Quem decide se uma pinta vai para biópsia sou eu, mesmo no retorno que outra colega da clínica poderia atender.”"
   - Dizer que partes do atendimento podem ter ajuda, sem constrangimento.
   - Guardar esta peça ao lado das outras da semana, para comparar.
 evite:
@@ -186,9 +186,9 @@ faca_antes: true
     - O número de peças, que triplicou em um mês.
     - A falta de tempo para gravar novos áudios no carro.
     - A passagem das etapas dela para outras mãos.
-    - O tipo de arte que a assistente escolheu para as peças.
+    - O horário em que as peças passaram a ser publicadas.
   correta: 2
-  explicacao: Os áudios eram os mesmos. A ideia de cada peça, o critério e a própria fala passaram a ser escolhidos e reescritos por outra pessoa, e a revisão virou uma aprovação em bloco.
+  explicacao: Os áudios eram os mesmos. A ideia, a opinião, o critério e a própria fala passaram a ser escolhidos ou reescritos por outra pessoa, e a revisão virou uma aprovação em bloco.
 - pergunta: Qual é o sinal mais confiável de que a descaracterização começou?
   opcoes:
     - Aprovar as peças da semana sem ler cada uma inteira.
