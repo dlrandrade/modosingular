@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 01:35
+# atualizado: 2026-09-28 01:38
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -199,7 +199,7 @@ capitulos:
       veredito: aprovado
     nota: 9.19
   6:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-27 20:53
@@ -220,7 +220,16 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.93
+    - iteracao: 3
+      data: 2026-09-28 01:36
+      revisao: apostila/revisoes/cap06-r3.yaml
+      media: 9.23
+      minimo: 9.0
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.23
   7:
     status: reprovado
     iteracoes:
@@ -264,7 +273,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   17:
-    status: planejado
+    status: rascunho
     iteracoes: []
   18:
     status: planejado
@@ -337,6 +346,7 @@ figurantes:
   - 4
   personal trainer:
   - 4
+  - 17
   corretor de seguros:
   - 4
   - 1
@@ -348,12 +358,15 @@ figurantes:
   - 1
   professora de piano:
   - 1
+  - 6
   nutricionista:
   - 1
   - 9
   - 15
+  - 17
   farmacêutica:
   - 3
+  - 6
   enfermeira de posto de saúde:
   - 5
   professora de alfabetização:
@@ -392,6 +405,7 @@ figurantes:
   - 10
   despachante:
   - 10
+  - 6
   professora de reforço escolar:
   - 11
   arquiteta paisagista:
@@ -420,3 +434,5 @@ pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
   no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'
+- 'Cap. 7 (após r2): trocar a repetição ''Otávio enche o caderno preto de frases por extenso'' por remissão ao cap.
+  6 (''como o capítulo 6 já deixou ver'').'
