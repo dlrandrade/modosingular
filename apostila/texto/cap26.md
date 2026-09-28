@@ -8,7 +8,7 @@ ilustracao: mapa
 legenda_ilustracao: Quem ainda não conhece você precisa de um caminho até a porta.
 ---
 
-Renata pegou a agenda dos três meses anteriores numa segunda-feira de setembro, à noite, e fez uma conta que vinha adiando desde o começo do ano: marcou, ao lado de cada paciente novo, como ele tinha chegado. Eram trinta e um: vinte e quatro indicados por médicos, a maioria pelos mesmos dois ortopedistas de sempre, cinco por outros pacientes e dois que disseram ter encontrado o perfil. Os dois, quando ela perguntou mais, contaram que tinham recebido o nome dela de alguém e só depois abriram o perfil para conferir.
+Renata pegou a agenda dos três meses anteriores numa segunda-feira de setembro, à noite, e fez uma conta que vinha adiando desde o começo do ano: marcou, ao lado de cada paciente novo, como ele tinha chegado. Eram trinta e três: vinte e seis indicados por médicos, a maioria pelos mesmos dois ortopedistas de sempre, cinco por outros pacientes e dois que disseram ter encontrado o perfil. Os dois, quando ela perguntou mais, contaram que tinham recebido o nome dela de alguém e só depois abriram o perfil para conferir.
 
 A conta a incomodou porque desmentia uma impressão. Desde o ano anterior, o perfil vinha crescendo, os pacientes chegavam citando áudios antigos, e ela tinha passado a achar que a presença estava trazendo gente nova. Estava confirmando gente que vinha de qualquer jeito. Marcos, lá no começo, tinha aberto o perfil quinze minutos antes da primeira consulta para conferir se valia a pena entrar; os pacientes do trimestre faziam a mesma coisa, mas agora encontravam uma fisioterapeuta que reconheciam.
 
@@ -91,7 +91,7 @@ A matéria-prima estava pronta havia anos. Fazia mais de quinze anos que pergunt
 
 Bianca, a assistente, continuou cuidando da transcrição, da arte e da agenda, do jeito que as duas tinham combinado em abril. Entrou uma marca a mais no fim de cada áudio. Depois de dizer qual era a ideia da peça, Renata passou a dizer também a camada: reconhecimento, critério, confiança ou ação. Bianca não decidia a camada, do mesmo jeito que não decidia o assunto. Mas passou a saber onde cada peça entrava, e o convite para marcar, que antes ia no fim de quase toda legenda, ficou para a peça de ação que Renata gravava a cada duas semanas.
 
-A primeira que gravou começava pela frase da meia: “Se você leva meia hora para calçar a meia de manhã, e melhora depois que anda um pouco, isso tem explicação, e ela vai além de ‘é da idade’.” Em seguida, contou por que aquela dor que melhora com o movimento merece ser investigada, e terminou com uma pergunta para a pessoa fazer ao próprio médico. Não mencionou a clínica, nem os tratamentos, nem a avaliação.
+A primeira que gravou começava pela frase da meia: “Se você leva meia hora para calçar a meia de manhã, e melhora depois que anda um pouco, isso tem explicação, e ela vai além de ‘é da idade’.” Em seguida, contou por que aquela dor que melhora com o movimento merece ser investigada, e terminou com uma pergunta para a pessoa fazer ao próprio médico. Não mencionou o consultório, nem os tratamentos, nem a avaliação.
 
 A ausência do convite foi deliberada. Uma peça de reconhecimento que termina em "agende" muda de natureza no último segundo: a pessoa, que estava aprendendo alguma coisa sobre o próprio corpo, descobre que estava lendo um anúncio. O que se ganharia, um ou outro agendamento, Renata achou pouco perto do que perdia: ser lembrada como a fisioterapeuta que explicou. O caminho até a agenda continua existindo, no endereço do perfil, para quem quiser. Deixou de ser empurrado em cada peça.
 
@@ -200,7 +200,7 @@ faca_antes: true
     - Que os áudios antigos já não eram citados pelos pacientes.
     - Que o perfil trazia mais pacientes do que as indicações.
   correta: 0
-  explicacao: De trinta e um pacientes novos em três meses, só dois disseram ter encontrado o perfil, e os dois tinham recebido o nome dela antes. O perfil confirmava; não começava nenhuma decisão.
+  explicacao: De trinta e três pacientes novos em três meses, só dois disseram ter encontrado o perfil, e os dois tinham recebido o nome dela antes. O perfil confirmava; não começava nenhuma decisão.
 - pergunta: Qual é a diferença entre vitrine e boca de funil?
   opcoes:
     - O cuidado com o desenho e com as cores.

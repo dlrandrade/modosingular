@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 22:00
+# atualizado: 2026-09-28 22:08
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -1236,6 +1236,9 @@ decisoes:
   abre pela posição, declaração vale 4 pontos no checklist, dermatologista no lugar da 3ª nutricionista seguida).
   Autodiagnóstico aceita ''rodadas'' (caixas de soma lado a lado); roteiro que começa por lacuna alinha a lacuna
   à margem.'
+- '2026-09-28: F4, coerência A (Renata e Otávio): 8 correções mínimas aplicadas (sigilo de 5 semanas no cap. 16,
+  cronologia dos caps. 21, 23 e 24, empresária do cap. 6 em outro ramo, frase do alarme no cap. 9, 33 pacientes
+  no cap. 26, ''consultório'' no lugar de ''clínica'' para Renata).'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de

@@ -103,7 +103,7 @@ O modo de cada um muda a forma do gatilho. Quem pensa escrevendo tende a captura
 
 ## A seleção
 
-A seleção é o momento em que o julgamento, proibido na captura, finalmente trabalha. Renata a marcou para a sexta-feira, depois do último paciente, no carro, ainda no estacionamento da clínica: dez minutos para ouvir os áudios da semana, e nenhum outro. Os antigos ficaram onde estavam. Tentar organizá-los de uma vez seria repetir o domingo perdido em escala maior.
+A seleção é o momento em que o julgamento, proibido na captura, finalmente trabalha. Renata a marcou para a sexta-feira, depois do último paciente, no carro, ainda no estacionamento do consultório: dez minutos para ouvir os áudios da semana, e nenhum outro. Os antigos ficaram onde estavam. Tentar organizá-los de uma vez seria repetir o domingo perdido em escala maior.
 
 Na sexta, a semana está fechada, e os áudios de segunda ainda são reconhecíveis: ela lembra da pessoa, da sala, do que veio antes. E o carro é onde está o enunciado e onde ela já grava. O domingo, ela tinha acabado de perder. Dez minutos dão para ouvir quinze áudios curtos em velocidade acelerada e decidir sem pensar demais em nenhum.
 

@@ -18,13 +18,13 @@ Em meados de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele 
 
 Renata riu com ele, e à noite abriu o perfil com calma pela primeira vez em semanas. Rolou as últimas trinta publicações. Encontrou dicas de postura numeradas, uma frase sobre autocuidado em letras grandes, um carrossel sobre o travesseiro certo que ela não lembrava de ter aprovado. Os áudios dela estavam lá dentro, em pedaços, mas as frases tinham mudado. "A dor não é o inimigo, é o alarme" tinha virado "Escute o seu corpo: a dor é um sinal", com ponto de exclamação no fim e um coração azul.
 
-Renata procurou uma frase para corrigir e não achou. O que faltava não cabia numa correção: a pergunta sobre as manhãs, o paciente do carrinho de supermercado, a desconfiança do exame que não combina com a queixa. Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
+Renata procurou uma frase para corrigir e não achou. O que faltava não cabia numa correção: a pergunta sobre as manhãs, o paciente do carrinho de supermercado, a desconfiança do exame que não combina com a queixa. Dois anos depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
 
 A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abriu as mensagens das semanas anteriores e encontrou, em todas as sextas, a mesma pergunta da assistente, "posso agendar?", e a mesma resposta dela, "pode", enviada do corredor, com o próximo paciente já na maca. Nenhuma daquelas peças tinha saído sem a aprovação dela. Tinha aprovado tudo, e não tinha lido quase nada.
 
 ## O que escala e o que não escala
 
-Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de quinze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
+Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de dezesseis anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
 
 Em algum momento, quem começa a dar certo precisa de mais volume, ou de ajuda para sustentá-lo, e aí a pergunta passa a ser o que pode crescer e o que precisa continuar nas suas mãos. Algumas etapas da produção são mecânicas e ganham com mais gente e mais processo; outras são o próprio conteúdo e deixam de existir quando passam para outras mãos.
 
