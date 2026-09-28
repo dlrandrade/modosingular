@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 20:27
+# atualizado: 2026-09-28 20:34
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -696,7 +696,17 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.97
+    - iteracao: 4
+      data: 2026-09-28 20:32
+      revisao: apostila/revisoes/cap20-r4.yaml
+      media: 9.03
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 9.03
+    alerta: '4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão.'
   21:
     status: reprovado
     iteracoes:
@@ -733,7 +743,16 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.64
+    - iteracao: 2
+      data: 2026-09-28 20:30
+      revisao: apostila/revisoes/cap22-r2.yaml
+      media: 8.86
+      minimo: 8.1
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.86
   23:
     status: rascunho
     iteracoes: []
@@ -786,6 +805,7 @@ figurantes:
   - 13
   - 15
   - 18
+  - 22
   oftalmologista:
   - 2
   - 5
@@ -793,16 +813,13 @@ figurantes:
   fonoaudióloga:
   - 3
   - 10
-  - 21
   - 29
-  - 21
-  - 22
   dermatologista:
   - 3
   - 10
-  - 22
   consultora de RH:
   - 4
+  - 22
   personal trainer:
   - 4
   - 17
@@ -834,7 +851,6 @@ figurantes:
   - 7
   - 23
   - 30
-  - 22
   farmacêutica:
   - 3
   - 6
@@ -942,5 +958,9 @@ decisoes:
   com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
 - '2026-09-28: Oficinas aceitam ''rotulos_linhas: [...]'' (linhas de escrita com rótulo à esquerda), para grades
   que pedem texto e não marcação.'
+- '2026-09-28: Cap. 20: o alerta da 4ª reprovação (reescrever do zero) foi dispensado. A r4 deu média 9,03, sem
+  critério abaixo de 8, e o único bloqueador era uma linha de sigilo (abertura ''A pergunta desta semana…''), introduzida
+  pela própria r3. O capítulo convergiu; reescrever jogaria fora o que já passou. Também foi tirado o break-inside:
+  avoid do bloco .regras da rede, para ela poder começar no pé de página; cada regra continua inteira.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)

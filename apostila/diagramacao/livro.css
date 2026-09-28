@@ -233,7 +233,7 @@ table.escala { width: 100%; table-layout: fixed; border-collapse: collapse; marg
 .faixas .faixa b { display: block; font: 600 9.6pt var(--serif); margin-bottom: .6mm; }
 
 /* ------------------------------------------------------------- do caderno para a rede */
-.regras { list-style: none; margin: 0 0 4mm; padding: 0; break-inside: avoid; }
+.regras { list-style: none; margin: 0 0 4mm; padding: 0; }
 .regras li { position: relative; padding-left: 8mm; margin: 0 0 3mm; break-inside: avoid; }
 .regras li .g { position: absolute; left: 0; top: -2pt; font: 400 17pt/1 var(--display); color: var(--acc); }
 .regras .regra { font: 600 10pt/13.4pt var(--serif); margin: 0; }
