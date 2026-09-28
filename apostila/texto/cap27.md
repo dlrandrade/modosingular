@@ -12,19 +12,19 @@ A mensagem chegou numa quinta-feira de outubro, às onze da noite, e Lúcia só 
 
 Vinha de um nome que ela não reconhecia, sem foto, de uma conta que não seguia ninguém da área e que nunca tinha curtido nenhuma das peças dela.
 
-Lúcia leu três vezes. Oito meses de leitura silenciosa, toda terça, e nenhum rastro. Nenhuma curtida, nenhuma resposta, nenhuma pergunta à amiga do grupo de estudos que pudesse ter vindo daquela pessoa. Se alguém tivesse perguntado a Lúcia, na véspera, quem acompanhava os textos dela, ela teria pensado nos nomes que comentavam, uns quinze ou vinte. Aquele não estaria entre eles.
+Lúcia leu três vezes. Sete meses de leitura silenciosa, toda terça, e nenhum rastro. Nenhuma curtida, nenhuma resposta, nenhuma pergunta à amiga do grupo de estudos que pudesse ter vindo daquela pessoa. Se alguém tivesse perguntado a Lúcia, na véspera, quem acompanhava os textos dela, ela teria pensado nos nomes que comentavam, uns quinze ou vinte. Aquele não estaria entre eles.
 
-A segunda coisa que ela notou foi pior. A pessoa não sabia como marcar. Tinha lido trinta textos e não tinha encontrado, em lugar nenhum do perfil, um telefone, um horário, uma instrução. O número que estava na descrição era o do consultório antigo, de quatro anos antes, desativado. Lúcia tinha passado oito meses construindo, sem saber, a confiança de uma pessoa que, na hora de atravessar, não achou a ponte.
+A segunda coisa que ela notou foi pior. A pessoa não sabia como marcar. Tinha lido trinta textos e não tinha encontrado, em lugar nenhum do perfil, um telefone, um horário, uma instrução. O número que estava na descrição era o do consultório antigo, de quatro anos antes, desativado. Lúcia tinha passado sete meses construindo, sem saber, a confiança de uma pessoa que, na hora de atravessar, não achou a ponte.
 
 E havia uma terceira, que a fez pensar antes de responder. Lúcia não atende por mensagem, e não queria que a primeira conversa com alguém que diz "acho que agora estou pronta" acontecesse numa caixa de texto, às onze da noite. Precisava responder de um jeito que abrisse o caminho sem começar ali mesmo um atendimento, e sem deixar a pessoa sozinha se, por acaso, a urgência fosse maior do que a frase dava a entender.
 
 Respondeu às oito e dez. Agradeceu a mensagem, disse que atendia adultos, deu o telefone da secretária do consultório e o horário em que ela atendia, explicou que a primeira conversa servia para as duas decidirem se o trabalho fazia sentido. E acrescentou uma linha que passou a pôr em todas as respostas desse tipo: se em algum momento a pessoa estivesse em crise ou pensando em se machucar, não devia esperar vaga com ninguém; devia procurar um serviço de urgência ou ligar para o 188. A pessoa agradeceu e ligou para a secretária na segunda.
 
-Lúcia pensou nela o fim de semana inteiro, e não pelo motivo que imaginava. Esperava sentir alguma satisfação, a de ver os textos trazendo alguém. Sentiu mais responsabilidade do que satisfação. Aquela pessoa tinha passado oito meses lendo, e chegava à primeira sessão sabendo muito sobre o jeito de Lúcia pensar e nada sobre ela como terapeuta. Na primeira conversa, Lúcia fez questão de separar as duas coisas: os textos falavam de muita gente; a sessão seria sobre uma pessoa só.
+Lúcia pensou nela o fim de semana inteiro, e não pelo motivo que imaginava. Esperava sentir alguma satisfação, a de ver os textos trazendo alguém. Sentiu mais responsabilidade do que satisfação. Aquela pessoa tinha passado sete meses lendo, e chegava à primeira sessão sabendo muito sobre o jeito de Lúcia pensar e nada sobre ela como terapeuta. Na primeira conversa, Lúcia fez questão de separar as duas coisas: os textos falavam de muita gente; a sessão seria sobre uma pessoa só.
 
 ## A distância que ninguém vê
 
-A pergunta que todo especialista faz depois de alguns meses publicando é sempre a mesma: como isso vira cliente? A resposta incomoda porque não é mecânica. Não há atalho. O que existe é uma sequência que acontece na cabeça de quem acompanha, em silêncio, e ela é bastante previsível. A leitora da quinta-feira passou por toda ela sem que Lúcia visse nenhum passo.
+Depois de alguns meses publicando, quase todo especialista se pergunta como aquilo vira cliente. A resposta incomoda porque não tem atalho: há uma sequência que acontece na cabeça de quem acompanha, em silêncio, e ela é bastante previsível. A leitora da quinta-feira passou por toda ela sem que Lúcia visse nenhum passo.
 
 ```figura
 tipo: escada
@@ -52,7 +52,7 @@ porque: Quando vários profissionais podem resolver o mesmo problema, a escolha 
 
 Lúcia fez uma conta depois daquela sexta. Dos nove pacientes novos que tinha recebido desde março, quatro disseram, na primeira sessão, que liam os textos dela. Ela foi procurar os nomes nas curtidas e nos comentários. Encontrou um. Os outros três tinham feito o mesmo caminho da leitora da quinta-feira: meses de leitura sem nenhum sinal, e depois uma ligação. Os números que ela olhava toda semana mediam os quinze ou vinte que comentavam. Os que procuravam eram outros.
 
-A conta tem uma consequência prática, que vale para qualquer área. Quem decide se continua publicando olhando para os comentários vai desistir cedo, porque os comentários vêm de uma parte pequena e barulhenta de quem lê. A parte que procura é silenciosa, e quase sempre maior. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. Os quatro pacientes silenciosos tinham chegado justamente nessas semanas.
+A conta tem uma consequência prática, que vale para qualquer área. Quem decide se continua publicando olhando para os comentários vai desistir cedo, porque os comentários vêm de uma parte pequena e barulhenta de quem lê. A parte que procura é silenciosa, e no caso da Lúcia era a maior. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. Os quatro pacientes silenciosos tinham chegado justamente nessas semanas.
 
 ## A mesma oferta, em distâncias diferentes
 
@@ -72,7 +72,7 @@ Tabela: O que cada distância pede
 | Familiar | Um caminho quando precisar | Casos, padrões e, de vez em quando, a porta aberta |
 | Procurado | Facilidade de contato | Um caminho que funcione |
 
-A última linha é a mais simples e a mais esquecida. Muita gente constrói familiaridade por meses e, na hora em que alguém decide atravessar, a travessia está quebrada: o telefone é antigo, o link não abre, ninguém sabe se deve mandar mensagem, ligar ou preencher alguma coisa. A confiança estava pronta. Faltou logística. Lúcia descobriu que o telefone da descrição era de quatro anos antes porque uma pessoa, depois de oito meses, precisou perguntar.
+A última linha é a mais simples e a mais esquecida. Dá para construir familiaridade por meses e, na hora em que alguém decide atravessar, a travessia está quebrada: o telefone é antigo, o link não abre, ninguém sabe se deve mandar mensagem, ligar ou preencher alguma coisa. A confiança estava pronta. Faltou logística. Lúcia descobriu que o telefone da descrição era de quatro anos antes porque uma pessoa, depois de sete meses, precisou perguntar.
 
 ```nota
 tipo: alerta
@@ -84,7 +84,7 @@ Na mesma manhã, Lúcia pediu à secretária que tentasse marcar uma consulta co
 
 ## A oferta que filtra
 
-O último metro resolve quem já decidiu. Resta a pergunta da oferta: se e quando dizer, numa peça, que você atende e como. Lúcia nunca tinha feito isso, por receio de soar como propaganda e por cuidado com o código de ética da psicologia, que proíbe promessa de resultado e publicidade sensacionalista. Informar o que ela faz e para quem, porém, é permitido, e útil. O problema nunca foi a oferta em si. Era o jeito de fazê-la.
+O último metro resolve quem já decidiu. Resta a pergunta da oferta: se e quando dizer, numa peça, que você atende e como. Lúcia nunca tinha feito isso, por receio de soar como propaganda e por cuidado com o código de ética da psicologia, que proíbe promessa de resultado e publicidade sensacionalista. Informar o que ela faz e para quem, porém, é permitido, e útil. O que ela precisava acertar era o jeito de fazê-la.
 
 ```compara
 esquerda:
@@ -113,9 +113,9 @@ O 188 por extenso não estava ali por formalidade. Uma peça que diz "eu atendo 
 
 Lúcia publicou a oferta numa terça às oito, no lugar da peça da semana, e decidiu que ela voltaria uma vez a cada dez peças, mais ou menos a cada dois meses e meio no ritmo dela. Na semana seguinte, voltou a responder à pergunta da amiga, como sempre. O tom não mudou de uma terça para a outra, e era isso que ela mais queria garantir: que a leitora da quinta-feira, se tivesse lido a oferta, reconhecesse nela a mesma pessoa dos trinta textos anteriores.
 
-Em dezembro, a leitora da quinta-feira estava na quinta sessão. Na primeira, tinha contado a Lúcia que quase escreveu em julho, e depois em setembro, e desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos. Lúcia não disse nada sobre isso na sessão. À noite, abriu o caderno de campo e anotou, sem nome, uma frase para a próxima vez que alguém lhe perguntasse como os textos viram pacientes: quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone.
+Na semana depois da oferta, a secretária recebeu três ligações de gente que citou os textos. Duas marcaram a primeira conversa. A terceira era de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante.
 
-Na semana depois da oferta, a secretária recebeu três ligações de gente que citou os textos. Duas marcaram a primeira conversa. A terceira era de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante, e voltou à pergunta da amiga.
+Em dezembro, a leitora da quinta-feira estava na quinta sessão. Na primeira, tinha contado a Lúcia que quase escreveu em julho, e depois em setembro, e desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos. Lúcia não disse nada sobre isso na sessão. À noite, abriu o caderno de campo e anotou, sem nome, uma frase para a próxima vez que alguém lhe perguntasse como os textos viram pacientes: quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone.
 
 ```guardar
 - A mesma oferta é interrupção para quem acabou de encontrar você e conveniência para quem já sabe como você pensa. O texto é igual; a distância não.
@@ -137,7 +137,7 @@ campos:
     exemplo: "Quanto tempo ela levou para descobrir como marcar? Precisou perguntar? O telefone, o link e o horário estão certos?"
     linhas: 3
   - rotulo: "Para quem você atende, e o que essas pessoas já tentaram"
-    exemplo: "Uma nutricionista: “Adultos que já fizeram três dietas e voltaram ao peso de antes.”"
+    exemplo: "Uma professora de inglês: “Adultos que já começaram três cursos e pararam no segundo mês.”"
     linhas: 3
   - rotulo: "Para quem você não é a pessoa certa, e para onde encaminha"
     exemplo: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência."
@@ -175,7 +175,7 @@ esqueleto:
   - {rotulo: "O processo", texto: "O que acontece na primeira conversa. Sem prazo, sem promessa.", linhas: 2}
   - {rotulo: "A porta", texto: "Como falar com você, de um jeito que funcione.", linhas: 2}
 roteiro: |
-  Vou ser direta sobre quem eu atendo, porque isso poupa o tempo de todo mundo.
+  Vou direto ao ponto sobre quem eu atendo, porque isso poupa o tempo de todo mundo.
 
   Se você {o perfil de quem você atende} e já tentou {o caminho comum}, esse é o tipo de caso com que eu trabalho.
 
@@ -194,7 +194,7 @@ faca_antes: true
     - Que os textos atraíam sobretudo leitores de outras cidades.
     - Que a leitora precisava de um atendimento por mensagem.
   correta: 1
-  explicacao: Oito meses de leitura, toda terça, sem nenhuma curtida ou comentário. Dos nove pacientes novos desde março, quatro liam os textos, e só um aparecia nas curtidas.
+  explicacao: Sete meses de leitura, toda terça, sem nenhuma curtida ou comentário. Dos nove pacientes novos desde março, quatro liam os textos, e só um aparecia nas curtidas.
 - pergunta: Por que a mesma oferta funciona de jeitos tão diferentes?
   opcoes:
     - Porque muda a distância entre quem lê e quem escreve.
