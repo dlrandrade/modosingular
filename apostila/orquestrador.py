@@ -312,7 +312,10 @@ def b_citacao(d, c):
 
 def b_nota(d, c):
     t = f'<p class="titulo">{esc(d["titulo"])}</p>' if d.get("titulo") else ""
-    return f'<div class="bloco nota {d.get("tipo", "")}">{t}<p>{md_inline(d["texto"])}</p></div>'
+    corpo = f'<p>{md_inline(d["texto"])}</p>' if d.get("texto") else ""
+    if d.get("itens"):  # lista numerada, para que oficina e rede possam remeter a "pergunta 2"
+        corpo += '<ol class="nota-lista">' + "".join(f"<li>{md_inline(x)}</li>" for x in d["itens"]) + "</ol>"
+    return f'<div class="bloco nota {d.get("tipo", "")}">{t}{corpo}</div>'
 
 
 def b_guardar(d, c):

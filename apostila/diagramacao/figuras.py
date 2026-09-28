@@ -243,11 +243,22 @@ def camadas(d):
     cam = d["camadas"]  # do topo para a base
     n = len(cam)
     out, y = [], 4
+    div = d.get("divisao")  # índice da primeira camada do grupo de baixo: traço e rótulos separam os dois grupos
     for i, c in enumerate(cam):
         base = i == n - 1
+        if div is not None and i == div:
+            y += 16
+            out.append(f'<line x1="0" y1="{y:.1f}" x2="{W}" y2="{y:.1f}" stroke="{ACC_D}" stroke-width="1" stroke-dasharray="4 3"/>')
+            ga, gb = d.get("grupos", ["", ""])
+            out.append(texto(W, y - 5, ga, 8.5, INK2, 700, "end", esp=0.8)[0])
+            out.append(texto(W, y + 13, gb, 8.5, ACC_D, 700, "end", esp=0.8)[0])
+            y += 24
         w = 120 + 90 * i / max(n - 1, 1)
         x = 105 - w / 2
-        cor = ACC if base else (ACC_L if i == n - 2 else SOFT)
+        if div is not None:
+            cor = ACC if base else (ACC_L if i >= div else SOFT)
+        else:
+            cor = ACC if base else (ACC_L if i == n - 2 else SOFT)
         out.append(f'<rect x="{x:.1f}" y="{y}" width="{w:.1f}" height="38" fill="{cor}"/>')
         out.append(texto(105, y + 24, c["rotulo"], 11, PAPER if base else INK, 600, "middle")[0])
         s, h = texto(232, y + 15, c.get("nota", ""), 9.8, INK2, largura=262)

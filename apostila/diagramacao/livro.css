@@ -120,6 +120,9 @@ strong { font-weight: 600; }
 .nota { border-left: 2pt solid var(--acc); padding: .6mm 0 .8mm 4.5mm; }
 .nota .titulo { font: 600 9.8pt/12.8pt var(--serif); margin: 0 0 1mm; }
 .nota p { margin: 0; text-align: left; hyphens: auto; }
+.nota ol.nota-lista { margin: 1mm 0 0; padding-left: 5.5mm; }
+.nota ol.nota-lista li { margin: 0 0 .7mm; text-align: left; hyphens: auto; }
+.nota ol.nota-lista li::marker { font: 600 8.6pt var(--sans); color: var(--acc-d); }
 .nota.alerta { border-left-color: var(--ink); }
 .nota.pratica { background: var(--soft); border-left: none; padding: 3mm 4mm; }
 

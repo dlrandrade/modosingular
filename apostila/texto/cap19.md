@@ -71,16 +71,6 @@ texto: Um caderno de campo cheio de categorias, etiquetas e cores parece mais s�
 
 Ninguém se lembra de capturar no meio de um dia cheio. O que funciona é amarrar a captura a coisas que acontecem todo dia, de modo que o fim de uma coisa puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por quase tudo.
 
-Tabela: Cinco gatilhos que existem na rotina
-
-| Gatilho | Quando acontece | O que capturar |
-|---|---|---|
-| Fim de atendimento | Nos segundos em que o próximo ainda não entrou | A pergunta que a pessoa fez, com as palavras dela |
-| A segunda explicação | Quando você diz a mesma coisa duas vezes no mesmo dia | A explicação, e a quem ela serviu |
-| Incômodo | Quando alguma coisa da sua área irrita você | A frase que você diria se pudesse |
-| Surpresa | Quando um caso foge do que você esperava | O detalhe que não fechava |
-| Volta para casa | No trajeto, quando o dia assenta | O que ficou na cabeça sem motivo aparente |
-
 ```figura
 tipo: barras
 titulo: De onde vieram as capturas de agosto da Renata
@@ -97,7 +87,17 @@ legenda: Os números são da Renata, contados num único mês. O seu caderno vai
 
 O corredor era o gatilho mais frequente: vinte segundos com o celular encostado na boca, antes de chamar o próximo nome. O carro vinha depois, com áudios mais longos e mais soltos. Mas a contagem mostrou outra coisa, que ela não esperava. Dos nove áudios nascidos de uma segunda explicação, seis tinham virado peça. Quando ela repetia a mesma coisa a duas pessoas diferentes em poucas horas, havia ali uma dúvida que andava pela cidade e batia duas vezes à porta dela no mesmo dia.
 
-Renata ficou com dois gatilhos, o corredor e o carro, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar antes de qualquer outro registro. Os outros dois gatilhos da tabela continuam valendo quando aparecem. Não precisam ser vigiados.
+Renata ficou com dois gatilhos, o corredor e o carro, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar antes de qualquer outro registro. Os outros dois, a surpresa e o incômodo, continuam valendo quando aparecem. Não precisam ser vigiados. Os cinco servem para qualquer ofício que atende gente, e a tabela a seguir mostra o que capturar em cada um.
+
+Tabela: Cinco gatilhos que existem na rotina
+
+| Gatilho | Quando acontece | O que capturar |
+|---|---|---|
+| Fim de atendimento | Nos segundos em que o próximo ainda não entrou | A pergunta que a pessoa fez, com as palavras dela |
+| A segunda explicação | Quando você diz a mesma coisa duas vezes no mesmo dia | A explicação, e a quem ela serviu |
+| Incômodo | Quando alguma coisa da sua área irrita você | A frase que você diria se pudesse |
+| Surpresa | Quando um caso foge do que você esperava | O detalhe que não fechava |
+| Volta para casa | No trajeto, quando o dia assenta | O que ficou na cabeça sem motivo aparente |
 
 O modo de cada um muda a forma do gatilho, e pouco muda o momento. Quem pensa escrevendo tende a capturar melhor com uma linha no papel do que com a voz, e o fim de atendimento vira uma frase no canto da agenda. Quem pensa respondendo captura melhor as perguntas que recebe do que as ideias que tem. Quem pensa contando registra o começo da história, "teve uma paciente que", e deixa o resto para a seleção. O momento continua o mesmo: o fim de alguma coisa que ia acontecer de qualquer jeito.
 
@@ -186,6 +186,7 @@ roteiro: |
 
   Se isso acontece com você, experimente {o gesto possível}. E, da próxima vez, pergunte a si mesmo: {a pergunta}.
 roteiro_nota: Uma observação por peça. Se a captura veio de um atendimento, confira de novo a regra de sigilo do capítulo 13 antes de gravar.
+faca_antes: true
 ```
 
 ```verificacao

@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 01:52
+# atualizado: 2026-09-28 01:57
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -286,8 +286,18 @@ capitulos:
       veredito: aprovado
     nota: 9.16
   9:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 01:53
+      revisao: apostila/revisoes/cap09-r1.yaml
+      media: 8.61
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.61
   10:
     status: rascunho
     iteracoes: []
@@ -316,7 +326,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   19:
-    status: planejado
+    status: rascunho
     iteracoes: []
   20:
     status: planejado
@@ -460,6 +470,12 @@ figurantes:
   - 16
   ortopedista:
   - 18
+  ortodontista:
+  - 19
+  cabeleireira:
+  - 19
+  técnico de segurança do trabalho:
+  - 19
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'
