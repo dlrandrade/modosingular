@@ -12,9 +12,9 @@ No primeiro domingo de setembro, depois do almoço, Renata sentou no sofá com o
 
 O celular guardava setecentos e poucos áudios, quase todos com o nome que o aplicativo dá sozinho: gravação 212, gravação 213, gravação 214. Havia ainda o grupo de mensagens em que ela era a única participante, com mais uns oitenta registros, e o caderninho de capa verde que ficava na gaveta do consultório, com anotações a lápis de quando a bateria acabava. Três lugares, e em nenhum deles uma ordem que não fosse a da data.
 
-Julho não tinha o áudio. Às quatro da tarde, tinha ouvido mais de cem, de junho a setembro, pulando os do corredor pelo tamanho e demorando nos do carro, que eram longos. Encontrou a mulher que achava que o travesseiro tinha causado a hérnia, a pergunta de um adolescente sobre a mochila, o senhor da cadeira de rodas que ela tinha guardado "para quando já me conhecerem". Encontrou coisas boas que tinha esquecido que existiam. Não encontrou o paciente do repouso. A peça de terça, cujo assunto ela queria deixar escolhido naquela tarde, ficou sem assunto e não foi gravada.
+Julho não tinha o áudio. Às quatro da tarde, tinha ouvido mais de cem, de junho a setembro, pulando os do corredor pelo tamanho e demorando nos do carro, que eram os mais longos, de quase um minuto. Encontrou a mulher que achava que o travesseiro tinha causado a hérnia, a pergunta de um adolescente sobre a mochila, o senhor da cadeira de rodas que ela tinha guardado "para quando já me conhecerem". Encontrou coisas boas que tinha esquecido que existiam. Não encontrou o paciente do repouso. A peça de terça, cujo assunto ela queria deixar escolhido naquela tarde, ficou sem assunto e não foi gravada.
 
-Na noite daquele domingo, percebeu que a captura estava funcionando melhor do que nunca. Havia mais de um ano, Renata gravava quase todo dia, em vinte segundos, sem julgar. O que faltava era o que vem depois de capturar. O caderno de campo tinha virado um arquivo que só se abria pela data, e procurar alguma coisa nele custava mais do que inventar uma peça do zero.
+Na noite daquele domingo, percebeu que a captura estava funcionando melhor do que nunca. Havia quase um ano, Renata gravava todo dia útil, em vinte segundos, sem julgar. O que faltava era o que vem depois de capturar. O caderno de campo tinha virado um arquivo que só se abria pela data, e procurar alguma coisa nele custava mais do que inventar uma peça do zero.
 
 Na semana seguinte, publicou uma peça em vez de duas. A regra que tinha anotado quando fez a conta do próprio ritmo continuava de pé: peça que não sai na semana não passa para a seguinte. Cumpriu a regra e não compensou. Mas passou a semana com a sensação incômoda de ter perdido um domingo inteiro procurando uma coisa que ela mesma tinha guardado, e de que o problema ia se repetir.
 
@@ -59,7 +59,7 @@ singular: O mesmo ortodontista, com as palavras de quem falou. "Segunda mãe hoj
 porque: A primeira é um título e perdeu tudo o que tinha de concreto: a mãe, a refeição, a crença sobre a noite. A segunda leva dez segundos a mais e guarda a cena, o número e o equívoco. Na seleção, é ela que diz se aquilo vale uma peça.
 ```
 
-A irmã de Renata, que trabalha com projetos numa empresa de software, sugeriu em abril um aplicativo de notas com etiquetas, cores e pastas por assunto. Renata tentou por duas semanas. Cada áudio passou a exigir uma etiqueta, e cada etiqueta, uma pequena decisão sobre o que aquilo era. No corredor, com o próximo paciente de pé na sala de espera, ela gravava e deixava para etiquetar depois. O depois nunca chegava, e em maio voltou ao gravador do celular, sem nem apagar o aplicativo, onde ficaram duas semanas de abril que ela nunca mais abriu.
+A irmã de Renata, que gerencia projetos numa empresa de software, sugeriu em abril um aplicativo de notas com etiquetas, cores e pastas por assunto. Renata tentou por duas semanas. Cada áudio passou a exigir uma etiqueta, e cada etiqueta, uma pequena decisão sobre o que aquilo era. No corredor, com o próximo paciente de pé na sala de espera, ela gravava e deixava para etiquetar depois. O depois nunca chegava, e em maio voltou ao gravador do celular, sem nem apagar o aplicativo, onde ficaram duas semanas de abril que ela nunca mais abriu, e que não entravam na conta dos três lugares.
 
 ```nota
 tipo: alerta
@@ -69,7 +69,7 @@ texto: Um caderno de campo cheio de categorias, etiquetas e cores parece mais s�
 
 ## Os gatilhos
 
-Renata amarrou a captura a coisas que acontecem todo dia, de modo que o fim de uma puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por três de cada quatro.
+Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por três de cada quatro.
 
 ```figura
 tipo: barras
@@ -78,7 +78,7 @@ unidade: áudios gravados no mês, por gatilho
 menor_melhor: false
 series:
   - {rotulo: "Fim de atendimento, no corredor: 31", valor: 31, nota: "O mais frequente. Vinte segundos antes de chamar o próximo paciente."}
-  - {rotulo: "Volta para casa, no carro: 17", valor: 17, nota: "Mais longos, e mais soltos."}
+  - {rotulo: "Volta para casa, no carro: 17", valor: 17, nota: "Na garagem, antes de descer do carro. Um pouco mais longos, e mais soltos."}
   - {rotulo: "A segunda explicação: 9", valor: 9, nota: "Poucos, e os que mais davam peça."}
   - {rotulo: "Surpresa: 6", valor: 6}
   - {rotulo: "Incômodo: 2", valor: 2}
@@ -87,7 +87,7 @@ legenda: Os números são da Renata, contados num único mês. O seu caderno vai
 
 O corredor era o gatilho mais frequente: vinte segundos com o celular encostado na boca, no fim do corredor, longe da recepção, e em voz baixa. Ouvindo de novo os nove áudios nascidos de uma segunda explicação, achou seis que dariam peça. Quando ela repetia a mesma coisa a duas pessoas diferentes em poucas horas, havia ali uma dúvida que andava pela cidade e batia duas vezes à porta dela no mesmo dia.
 
-Renata ficou com dois gatilhos, o corredor e o carro, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar ali mesmo, antes de chamar o próximo paciente. Os outros dois, a surpresa e o incômodo, continuam valendo quando aparecem. Não precisam ser vigiados. Os cinco servem para qualquer ofício que atende gente.
+Renata ficou com dois gatilhos, o corredor e o carro, e amarrou a captura a eles, de modo que o fim de um puxe o registro sem esforço de vontade, e acrescentou uma regra para o terceiro: sempre que se ouvir explicando alguma coisa pela segunda vez no dia, gravar ali mesmo, antes de chamar o próximo paciente. Os outros dois, a surpresa e o incômodo, continuam valendo quando aparecem, sem precisar de vigia. Os cinco servem para qualquer ofício que atende gente.
 
 Tabela: Cinco gatilhos que existem na rotina
 
@@ -99,13 +99,13 @@ Tabela: Cinco gatilhos que existem na rotina
 | Surpresa | Quando um caso foge do que você esperava | O detalhe que não fechava |
 | Volta para casa | No trajeto, quando o dia assenta | O que ficou na cabeça sem motivo aparente |
 
-O modo de cada um muda a forma do gatilho. Quem pensa escrevendo tende a capturar melhor com uma linha no papel do que com a voz, e o fim de atendimento vira uma frase no canto da agenda. Quem pensa respondendo captura melhor as perguntas que recebe do que as ideias que tem. Quem pensa contando registra o começo da história, "teve uma paciente que", e deixa o resto para a hora de produzir. O momento continua o mesmo: o fim de alguma coisa que ia acontecer de qualquer jeito.
+O modo de cada um muda a forma do gatilho. Quem pensa escrevendo tende a capturar melhor com uma linha no papel do que com a voz, e o fim de atendimento vira uma frase no canto da agenda. Quem pensa respondendo captura melhor as perguntas que recebe do que as ideias que tem. Quem pensa contando registra o começo da história, "teve uma paciente que", e deixa o resto para a hora de produzir. O momento continua o mesmo: alguma coisa que ia acontecer de qualquer jeito.
 
 ## A seleção
 
 A seleção é o momento em que o julgamento, proibido na captura, finalmente trabalha. Renata a marcou para a sexta-feira, depois do último paciente, no carro, ainda no estacionamento da clínica: dez minutos para ouvir os áudios da semana, e nenhum outro. Os antigos ficaram onde estavam. Tentar organizá-los de uma vez seria repetir o domingo perdido em escala maior.
 
-Na sexta, a semana terminou e os áudios de segunda ainda são reconhecíveis: ela lembra da pessoa, da sala, do que veio antes. E o carro é onde está o enunciado e onde ela já grava. O domingo, ela tinha acabado de perder. Dez minutos dão para ouvir quinze áudios curtos em velocidade acelerada e decidir sem pensar demais em nenhum.
+Na sexta, a semana está fechada, e os áudios de segunda ainda são reconhecíveis: ela lembra da pessoa, da sala, do que veio antes. E o carro é onde está o enunciado e onde ela já grava. O domingo, ela tinha acabado de perder. Dez minutos dão para ouvir quinze áudios curtos em velocidade acelerada e decidir sem pensar demais em nenhum.
 
 No quebra-sol, ao lado do enunciado, ela prendeu um papel com as perguntas que decidem.
 
@@ -121,7 +121,7 @@ itens:
 
 A primeira pergunta separa o episódio do padrão, e dá preferência sem eliminar: o que apareceu uma vez só fica guardado até aparecer de novo. A segunda e a quarta são o sigilo do capítulo 13; a terceira traz de volta o repertório e as opiniões da Fase II. Quando o assunto já é um padrão, a data se conta a partir do último atendimento de onde vem a frase que você vai usar, e a frase vai na forma em que qualquer um deles a diria. O que falha na segunda pode esperar meses, até que o caso se afaste o bastante da pessoa que o viveu.
 
-Ela escolhe dois, porque o ritmo dela é de duas peças por semana. As escolhidas ganham um nome novo, com a palavra "usar", o assunto em três palavras e a data a partir da qual podem sair. É a única estrutura que o sistema recebe, e ela só aparece na seleção. A produção de terça e de quinta pega, nessa fila, o que já está liberado. As outras continuam guardadas, sem nome, e não são apagadas. Um áudio que não serviu nesta semana pode servir quando o mesmo assunto aparecer de novo.
+Ela escolhe duas, porque o ritmo dela é de duas peças por semana. As escolhidas ganham um nome novo, com a palavra "usar", o assunto em três palavras e a data a partir da qual podem sair. É a única estrutura que o sistema recebe, e ela só aparece na seleção. A produção de terça e de quinta pega, nessa fila, o que já está liberado. As outras continuam guardadas, sem nome, e não são apagadas. Um áudio que não serviu nesta semana pode servir quando o mesmo assunto aparecer de novo.
 
 Os antigos entram por outra porta, e nas primeiras semanas foram eles que encheram a fila, porque já tinham passado da data. Quando a fila está curta, ela ouve cinco dos antigos, ao acaso, e tira deles o que falta para a semana. É uma visita curta ao arquivo, com hora para acabar. O senhor da cadeira de rodas continua lá, e ela passou por ele duas vezes sem mexer no nome.
 
@@ -141,7 +141,7 @@ O paciente do repouso absoluto ela não encontrou nunca. Em outubro, um senhor d
 titulo: O caderno em três momentos
 objetivo: Transformar o caderno de campo do capítulo 6 num sistema, com um lugar só, dois gatilhos amarrados à rotina e um momento fixo de seleção, e fazer a primeira seleção agora.
 tempo: 25
-entrega: O lugar único do seu caderno, os seus dois gatilhos, o horário da seleção e as duas capturas escolhidas da última semana.
+entrega: O lugar único do seu caderno, os seus dois gatilhos, o horário da seleção e as capturas escolhidas para a próxima semana, cada uma com a sua data.
 campos:
   - rotulo: "Onde as suas capturas estão hoje?"
     exemplo: "Marque todos os lugares em que existe alguma anotação desde o capítulo 6."
@@ -158,7 +158,7 @@ campos:
     exemplo: "Dez minutos, uma vez por semana. Uma engenheira agrônoma: “Sexta, 17h30, na caminhonete, antes de sair da última propriedade.”"
     linhas: 2
   - rotulo: "A primeira seleção: as capturas da última semana"
-    exemplo: "Uma por linha, só as primeiras palavras. Se a semana tiver menos de cinco, complete com as do caderno desde o capítulo 6. Passe cada uma pelas quatro perguntas, circule tantas quantas o seu ritmo do capítulo 8 pede e escreva ao lado a data em que cada uma pode sair."
+    exemplo: "Uma por linha, só as primeiras palavras. Se a semana tiver menos de cinco, complete com as do caderno desde o capítulo 6. Se o caderno está vazio, capture hoje, sem julgar, e faça a seleção amanhã. Passe cada uma pelas quatro perguntas, circule tantas quantas o seu ritmo do capítulo 8 pede e escreva ao lado a data em que cada uma pode sair."
     linhas: 10
     numerar: true
   - rotulo: "Por que as escolhidas passaram"
@@ -178,7 +178,7 @@ regras:
   - {regra: "Diga que se repete, sem inventar números e sem datar.", porque: "“Ouço isso com frequência” é verdade que a sua agenda confirma. “Muita gente pensa isso” não se confirma em lugar nenhum, e “esta semana” aponta para quem disse."}
   - {regra: "Termine no que a pessoa pode fazer.", porque: "Uma observação que só descreve fica curiosa. A que devolve um gesto possível fica útil, e é lembrada."}
 faca:
-  - "Um técnico de segurança do trabalho: “Volta e meia um encarregado me diz que o capacete atrapalha a ouvir o rádio.”"
+  - "Um técnico de segurança do trabalho: “Volta e meia um encarregado me diz que o protetor auricular atrapalha a ouvir o rádio.”"
   - Contar a crença com boa-fé, explicando de onde ela vem.
   - Fechar com uma pergunta que a pessoa pode fazer a si mesma na próxima vez.
 evite:
@@ -189,7 +189,7 @@ esqueleto:
   - {rotulo: "O que eu vi", texto: "A frase, do jeito que você a ouve.", linhas: 2}
   - {rotulo: "Por que se repete", texto: "De onde vem essa ideia, dita com boa-fé.", linhas: 3}
   - {rotulo: "O que revela", texto: "A dificuldade maior que essa cena mostra.", linhas: 2}
-  - {rotulo: "O que fazer", texto: "O gesto possível, ou a pergunta a se fazer.", linhas: 2}
+  - {rotulo: "O que fazer", texto: "O gesto possível e a pergunta a se fazer.", linhas: 2}
 roteiro: |
   Tem uma frase que eu ouço com frequência: {a frase, do jeito que você a ouve}.
 
