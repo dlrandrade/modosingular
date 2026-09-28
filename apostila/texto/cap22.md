@@ -18,6 +18,8 @@ O que tinha desaparecido era dela. A pergunta devolvida antes de responder, que 
 
 Havia uma ironia maior, que ela só viu quando releu os três lado a lado pela segunda vez. O que tornava bons os textos da psicóloga de São Paulo não era a frase de abertura nem o fecho. Era a ordem: uma cena, a crença que ela esconde, por que a crença faz sentido, onde ela falha, uma pergunta para a pessoa se fazer. Essa ordem, Lúcia não tinha copiado. Os textos de fevereiro continuavam começando pela pergunta da amiga, em abstrato, e dando voltas antes de chegar ao ponto. Ela tinha levado a pele e deixado o esqueleto.
 
+O mais difícil de admitir foi que os textos de fevereiro tinham sido mais lidos que os de antes. Tiveram mais comentários, e dois deles vieram de colegas que nunca tinham comentado nada dela. Era o tipo de sinal que convida a continuar. Lúcia percebeu que, se a amiga não tivesse feito a pergunta, provavelmente teria seguido por aquele caminho, satisfeita com os números e cada vez mais parecida com outra pessoa.
+
 O mecanismo era simples, e ela reconheceu nele uma coisa que via em pacientes. Lia o texto da outra às sete e quarenta, com o café, e escrevia às oito. O ritmo da última coisa lida ainda estava no ouvido quando ela abria o caderno. Ninguém escolhe copiar uma voz. A voz entra pelo ouvido de quem admira, e sai na primeira página escrita logo depois.
 
 ## As três camadas de uma peça alheia
@@ -25,6 +27,8 @@ O mecanismo era simples, e ela reconheceu nele uma coisa que via em pacientes. L
 Toda peça que você admira tem três camadas, e só uma delas pode ser levada. A de cima é a voz: o léxico, o bordão, o tom, o jeito de abrir e de fechar. É a digital de quem escreveu, e o capítulo 11 mostrou quanto tempo ela leva para se formar. A do meio é o conteúdo: os casos, os números, o repertório que a pessoa acumulou atendendo gente. Nenhuma das duas é sua, e as duas são as primeiras que o olho de quem admira percebe.
 
 A de baixo é a estrutura: a ordem em que as informações aparecem, o tipo de abertura, o ponto em que vem a virada, o que fica para o fim. A estrutura não pertence a ninguém. Uma reportagem que começa por uma pessoa e só depois chega ao número, um sermão que parte de uma história e termina num pedido, uma aula que abre com uma pergunta, tudo isso circula há muito tempo, e ninguém é dono de nenhuma dessas formas.
+
+Admirar alguém da própria área não é o problema. A psicóloga de São Paulo escrevia bem, e o que Lúcia via nela era competência de verdade: clareza, escolha de assunto, respeito por quem lê. O erro estava em onde a admiração tinha pousado. Ela olhava para aquilo que era da outra, a voz, e passava por cima do que qualquer pessoa poderia aprender, a ordem.
 
 ```figura
 tipo: camadas
@@ -68,6 +72,8 @@ O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e n�
 
 Quando o preenchimento trava, a trava é uma informação. Se o esqueleto pede um caso e nenhum aparece, é provável que você não tenha repertório sobre aquele assunto, e insistir produz a peça genérica que o livro inteiro tenta evitar. Nesse ponto, mude de assunto e guarde o esqueleto. Ele serve para outra semana, com outro tema, e é justamente isso que faz dele uma estrutura.
 
+Lúcia passou a guardar os cartões numa caixa de fichas, na gaveta do consultório, ao lado do caderno de campo. Em dois meses, tinha sete: o da cena e da crença, o de uma reportagem que começava pelo fim, o de uma crônica que alternava duas vozes, o de uma aula de rádio que respondia a três ouvintes com a mesma pergunta. Nenhum tinha uma palavra do original. Na terça às oito, quando a pergunta da amiga pedia uma forma diferente, ela abria a caixa antes de abrir o caderno.
+
 ```exemplo
 titulo: A mesma referência, usada de dois jeitos
 comum: Uma dermatologista vê um vídeo que abre com "ninguém contou isto sobre clareamento dental" e publica "ninguém contou isto sobre protetor solar". A abertura, o tom e o ritmo são os do vídeo. O conteúdo foi procurado para caber no molde e sai raso.
@@ -98,12 +104,20 @@ Tabela: Onde buscar estrutura, e o risco de cada fonte
 
 | Fonte | O que ela ensina | Risco de contaminação |
 |---|---|---|
-| Profissionais de outras áreas | Estrutura pura, sem conteúdo a levar | Muito baixo |
-| Crônica, reportagem, ensaio | A arquitetura de um argumento, a abertura por uma cena | Baixo |
-| Colegas da sua própria área | O que não fazer, e os assuntos que eles deixam de lado | Muito alto |
-| O seu próprio atendimento | A ordem em que você explica quando a pessoa entende de primeira | Nenhum |
+| Outras áreas | Estrutura pura, sem conteúdo a levar | Muito baixo |
+| Crônica e reportagem | A arquitetura de um argumento | Baixo |
+| Colegas da sua área | O que não fazer, e o que eles deixam de lado | Muito alto |
+| O seu atendimento | A ordem que funciona com gente de verdade | Nenhum |
 
 A última linha é a melhor fonte que existe. A ordem em que você explica alguma coisa no atendimento, quando o cliente entende de primeira, já é uma estrutura testada em gente de verdade, centenas de vezes. Otávio a usa nos quatro parágrafos sobre contratos, Renata no áudio do carro, Caio nas cinco linhas. A referência de fora serve para ver formas que você ainda não tentou. A de dentro serve sempre.
+
+Lúcia encontrou a sua na primeira sessão. Desde aquela conversa no grupo de estudos, em maio do ano anterior, ela sabia que a pergunta "o que você já tentou para não sentir isso?" desmontava a dúvida de quase qualquer paciente novo. Escreveu num cartão a ordem que aquela conversa costumava seguir: o que a pessoa sente, o que já tentou, o que as tentativas revelam, o que isso muda. Era um esqueleto testado havia anos, com gente de verdade, e ela nunca o tinha usado para escrever.
+
+## O que a admiração ensina
+
+Lúcia não deixou de ler a psicóloga de São Paulo. Continuou, às quintas, com o caderno de esqueletos por perto e sem nenhuma peça para escrever no dia seguinte. Em abril, notou que a outra tinha começado a abrir os textos de um jeito novo, com uma pergunta de leitor transcrita no alto. Anotou só isto num cartão: pergunta real no alto, resposta em três partes. Era, afinal, o jeito dela mesma de pensar, e ela precisou ver na outra para reconhecer.
+
+Na terça seguinte, a amiga mandou a pergunta da semana: por que é tão difícil pedir ajuda a quem a gente ama? Lúcia leu em voz alta, na sala ainda vazia, e respondeu primeiro com outra pergunta, como faz com os pacientes. O texto que saiu tinha a ordem do cartão da primeira sessão, as palavras dela e nenhum fecho emprestado.
 
 ```guardar
 - "Uma peça alheia tem três camadas: voz, conteúdo e estrutura. Só a estrutura se leva, e é a menos visível das três."
@@ -174,7 +188,7 @@ faca_antes: true
 ```verificacao
 - pergunta: O que Lúcia levou dos textos da psicóloga de São Paulo em fevereiro?
   opcoes:
-    - A estrutura, que organizava cada texto.
+    - A estrutura que organizava cada texto.
     - "A voz: abertura, palavras, frases e fecho."
     - Os casos que a outra contava nos textos.
     - O ritmo de publicação de uma peça por dia.
@@ -183,8 +197,8 @@ faca_antes: true
 - pergunta: Por que a estrutura pode ser usada e a voz não?
   opcoes:
     - Porque a estrutura é protegida por direito autoral.
-    - Porque a voz dá menos resultado nas redes.
-    - Porque a estrutura não pertence a ninguém.
+    - Porque a voz dá menos resultado nas redes sociais do que a estrutura.
+    - Porque a estrutura é de todos.
     - Porque a voz muda de uma peça para a outra.
   correta: 2
   explicacao: A ordem das partes, o tipo de abertura e o lugar da virada circulam há muito tempo. Voz e conteúdo são a digital e o repertório de quem escreveu.
@@ -199,9 +213,9 @@ faca_antes: true
 - pergunta: Por que buscar estrutura fora da sua área?
   opcoes:
     - Porque outras áreas publicam com mais qualidade.
-    - Porque os colegas percebem quando você os imita.
+    - Porque os colegas percebem quando você os imita de perto.
     - Porque o público prefere variedade de formatos.
-    - Porque longe do assunto só a estrutura atravessa.
+    - Porque de longe só atravessa a estrutura.
   correta: 3
   explicacao: Numa crônica ou num programa de rádio não há conteúdo da sua área para levar. Perto do seu assunto, a tentação de levar casos e palavras junto com a ordem é muito maior.
 ```

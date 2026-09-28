@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 06:35
+# atualizado: 2026-09-28 06:40
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -363,7 +363,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   22:
-    status: planejado
+    status: rascunho
     iteracoes: []
   23:
     status: planejado
@@ -419,6 +419,7 @@ figurantes:
   dermatologista:
   - 3
   - 10
+  - 22
   consultora de RH:
   - 4
   personal trainer:
@@ -527,3 +528,5 @@ pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'Cap. 6 (após revisão): acrescentar meia frase ao parágrafo do carro: ''O áudio do “acertar por fora” continuava
   no celular; não lhe ocorreu que aquilo fosse uma.'' (cap04-r3)'
+- 'QA final: o box Para guardar desce sozinho para a página seguinte mesmo com ~25% livres (cap10 p19, cap22 p19);
+  investigar paginação do .guardar no WeasyPrint antes do PDF final'
