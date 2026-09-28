@@ -817,5 +817,7 @@ decisoes:
   cabe inteiro no pé da página.'
 - '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e
   14 deixam de estar pendentes de ordem.'
+- '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal data cada captura de atendimento
+  com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)

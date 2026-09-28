@@ -18,11 +18,11 @@ Aquele janeiro não foi diferente. Nas três primeiras semanas, o escritório fe
 
 Até dezembro, a peça da semana tinha hora marcada. Sexta-feira, depois da última audiência, das três às cinco, ele se sentava com o caderno de campo e uma folha pautada, escolhia um assunto, escrevia à mão, riscava, passava a limpo e publicava. Funcionou em setembro, outubro e novembro. Em dezembro, duas sextas caíram: uma audiência de conciliação que avançou pela tarde e a confraternização do escritório. As duas peças não saíram, e janeiro ainda nem tinha começado.
 
-O que mudou foi uma coisa que Otávio fazia havia vinte e cinco anos sem perceber. Todo parecer dele termina numa seção de recomendações, em que ele diz ao cliente o que fazer dali em diante. Era, sempre, a lição do caso, escrita para uma pessoa. O parágrafo no verso da folha é a mesma lição escrita para um estranho, sem o nome, a cidade ou o setor da empresa. O trabalho de pensar já tinha sido feito. Faltavam cinco minutos para mudar o destinatário.
+O que mudou, na segunda quinzena de dezembro, foi uma coisa que Otávio fazia havia vinte e cinco anos sem perceber. Todo parecer dele termina numa seção de recomendações, em que ele diz ao cliente o que fazer dali em diante. Era, sempre, a lição do caso, escrita para uma pessoa. O parágrafo no verso da folha é a mesma lição escrita para um estranho, sem o nome, a cidade ou o setor da empresa. O trabalho de pensar já tinha sido feito. Faltavam cinco minutos para mudar o destinatário.
 
 A mudança de destinatário muda o tom, e ele percebeu isso no segundo parágrafo. A recomendação ao cliente dizia "recomendamos que a empresa implante controle mensal assinado". O verso dizia "quem tem uma pequena empresa e usa banco de horas precisa de uma folha por mês, assinada, e de alguém que a confira". A primeira frase era para quem já estava sentado diante dele. A segunda era para quem ainda não sabia que precisava estar.
 
-Na sexta, às cinco e meia, antes de sair, Otávio abriu a pasta de saída, releu os quatro versos da semana e escolheu o das oficinas. Passou a limpo, conferiu que nada ali levava a um cliente e publicou às cinco e cinquenta. A sexta-feira continuava tendo uma tarefa, mas a tarefa tinha encolhido de duas horas para vinte minutos. O que antes começava do zero agora começava de quatro parágrafos prontos.
+Na sexta, às cinco e meia, antes de sair, Otávio abriu a pasta de saída e deixou os quatro versos da semana onde estavam, cada um com a data do mês seguinte a lápis no canto. Pegou um dos primeiros que tinha escrito, em meados de dezembro, sobre a advertência escrita depois da demissão. Passou a limpo, conferiu que nada ali levava a um cliente e publicou às cinco e cinquenta. O das oficinas ficou para fevereiro. A sexta-feira continuava tendo uma tarefa, mas a tarefa tinha encolhido de duas horas para vinte minutos. O que antes começava do zero agora começava de quatro parágrafos prontos.
 
 ## Evento e consequência
 
@@ -67,7 +67,7 @@ O terceiro é a transição, o bloco curto entre o fim de uma coisa e o começo 
 
 O modo de cada um puxa para um encaixe. Quem pensa falando tende a render no deslocamento, porque a voz está livre e as mãos não são necessárias. Quem pensa escrevendo precisa de papel e de uma superfície, e a transição, sentado à mesa em que trabalhou, oferece as duas coisas. Quem pensa respondendo rende logo depois de uma conversa, enquanto a pergunta ainda ecoa. Quem pensa contando rende no lugar em que a história aconteceu, no intervalo, com a obra na frente.
 
-Antes de escolher o encaixe, vale procurar o seu verso do parecer. Quase todo ofício que atende gente tem um momento em que a lição do caso já é formulada para uma pessoa: a orientação que a fonoaudióloga escreve para o paciente levar para casa, o laudo, o orçamento que explica por que um item custa o que custa, o bilhete que o marceneiro deixa com o móvel entregue. Esse momento já existe e já dá trabalho. A peça pode nascer dele, com outro destinatário.
+Antes de escolher o encaixe, vale procurar o seu verso do parecer. Quase todo ofício que atende gente tem um momento em que a lição do caso já é formulada para uma pessoa: a orientação que o veterinário escreve para o tutor levar para casa, o laudo, o orçamento que explica por que um item custa o que custa, o bilhete que o marceneiro deixa com o móvel entregue. Esse momento já existe e já dá trabalho. A peça pode nascer dele, com outro destinatário.
 
 ```nota
 tipo: alerta
@@ -81,7 +81,7 @@ Otávio tentou esse primeiro, na segunda semana de dezembro, para compensar a se
 
 Com o verso da folha e a sexta das cinco e meia, a semana do Otávio ficou assim. Nada nela exige um horário que ele já não tivesse. O caderno de campo continua recebendo as perguntas dos clientes, em vinte segundos, durante as reuniões. O parágrafo acontece no fim de cada parecer. A seleção e a publicação acontecem juntas, na sexta, porque os parágrafos já chegam escritos e a escolha leva poucos minutos.
 
-O passo de tirar o que identifica é o que Otávio faz com mais cuidado. O sigilo do advogado vale também para a lição, e um parágrafo sobre oficinas mecânicas, publicado três dias depois do parecer, poderia levar alguém de Jaboatão a adivinhar o cliente. Por isso ele escolhe, de preferência, um verso escrito na semana anterior, troca o setor quando o setor denuncia a empresa e nunca usa um número que só aquele caso teria. O parágrafo das oficinas saiu falando de pequenas empresas.
+O passo de tirar o que identifica é o que Otávio faz com mais cuidado. O sigilo do advogado vale também para a lição, e um parágrafo sobre oficinas mecânicas, publicado três dias depois do parecer, poderia levar alguém de Jaboatão a adivinhar o cliente. Por isso nenhum verso sai antes de um mês do parecer que o originou: o da semana vai para a pasta com a data a lápis, e a sexta escolhe entre os que já passaram dela. Ele também troca o setor quando o setor denuncia a empresa e nunca usa um número que só aquele caso teria. O parágrafo das oficinas saiu em fevereiro, falando de pequenas empresas.
 
 Tabela: A semana modelo do Otávio
 
@@ -89,7 +89,7 @@ Tabela: A semana modelo do Otávio
 |---|---|---|
 | Durante as reuniões | Anotar no caderno de campo a pergunta do cliente, com as palavras dele | Vinte segundos cada |
 | No fim de cada parecer | Um parágrafo à mão, no verso da última folha, para um leitor que não é o cliente | Cinco minutos, três a cinco vezes |
-| Sexta, às cinco e meia | Reler os parágrafos, escolher um, tirar o que identifica e publicar | Vinte minutos |
+| Sexta, às cinco e meia | Datar os versos da semana, escolher um que já passou da data, tirar o que identifica e publicar | Vinte minutos |
 | Na semana inteira | Uma peça publicada e alguns parágrafos guardados | Cerca de quarenta minutos |
 
 O total ficou em cerca de quarenta minutos por semana, espalhados. O desenho antigo pedia duas horas, juntas, na sexta à tarde. A diferença de minutos é grande, mas a de formato é maior. Quarenta minutos em pedaços de cinco sempre existiram na semana do Otávio, inclusive em janeiro. Duas horas seguidas, com energia e sem interrupção, quase nunca existiram, e era isso que o desenho antigo pedia toda sexta.
@@ -105,7 +105,7 @@ series:
 legenda: Os números são do Otávio. O que decidiu a diferença foi menos a quantidade de minutos e mais o formato do tempo que cada desenho exigia.
 ```
 
-A semana do Otávio não serve para mais ninguém, e é por isso que ela funciona. A de Renata tem o corredor, o carro e a seleção de sexta no estacionamento. A de Caio tem o degrau da quinta de manhã e a meia hora de quarta à noite. A de Lúcia tem a terça às oito. Cada uma foi montada a partir do que já acontecia, e nenhuma delas pediu que a pessoa virasse outra para cumprir.
+A semana do Otávio não serve para mais ninguém, e é por isso que ela funciona: foi montada a partir do que já acontecia na dele, e não pediu que ele virasse outra pessoa para cumprir.
 
 No fim de janeiro, Helena passou pela sala dele numa sexta e perguntou quantas peças tinham saído no mês. Quatro, em quatro semanas, no mês que no ano anterior tinha parado tudo. Na pasta de saída havia ainda treze versos que não tinham sido escolhidos. Otávio os tirou dos pareceres antes de arquivar, grampeou num maço e escreveu na primeira folha, a lápis: estoque.
 
@@ -129,7 +129,7 @@ tempo_nota: e um encaixe testado no seu dia
 entrega: Os seus encaixes escolhidos, a semana modelo desenhada com o custo total, e o registro de um encaixe testado.
 campos:
   - rotulo: "O momento do seu trabalho que já produz a lição"
-    exemplo: "O equivalente ao verso do parecer. Uma fonoaudióloga: “A folha de exercícios que eu escrevo para o paciente levar para casa.” Um marceneiro: “O bilhete que eu deixo com a peça entregue.”"
+    exemplo: "O equivalente ao verso do parecer. Uma veterinária: “A orientação que eu escrevo para o tutor levar para casa.” Um marceneiro: “O bilhete que eu deixo com a peça entregue.”"
     linhas: 2
   - rotulo: "Os seus dois encaixes, com o momento exato em que acontecem"
     exemplo: "Intervalo, deslocamento ou transição. Escreva a hora e o lugar. Depois do jantar não vale."
@@ -152,10 +152,10 @@ criterios:
 
 ```rede
 titulo: A lição que o dia deixou
-intro: "Escolha a lição de um atendimento desta semana, escrita no encaixe que você testou. A peça é sobre a sua área: o que aquele tipo de situação ensina a quem não estava lá. Nenhum cliente pode ser reconhecido nela."
+intro: "Escolha uma lição escrita no seu encaixe há mais de um mês; a desta semana vai para a pasta, com a data em que pode sair. A peça é sobre a sua área: o que aquele tipo de situação ensina a quem não estava lá. Nenhum cliente pode ser reconhecido nela."
 regras:
   - {regra: "Escreva a lição para um estranho.", porque: "A recomendação ao cliente já existe. Tirar dela o nome, a cidade e o setor é o que a transforma numa peça que serve a outras pessoas."}
-  - {regra: "Deixe passar alguns dias.", porque: "Publicar no mesmo dia do atendimento facilita que o cliente se reconheça, ou que outros o reconheçam. A lição não perde nada com a espera."}
+  - {regra: "Deixe passar um mês.", porque: "Publicar perto do atendimento facilita que o cliente se reconheça pela data, ou que outros o reconheçam. A lição não perde nada com a espera, e o estoque cobre as semanas."}
   - {regra: "Termine na pergunta que a pessoa pode fazer.", porque: "Otávio fecha com a pergunta que faz a todo cliente. Quem lê leva uma coisa para conferir na própria vida, e não uma regra genérica."}
 faca:
   - "“Quem, na sua empresa, confere essa folha todo mês?”"
