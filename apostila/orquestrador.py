@@ -372,7 +372,7 @@ def b_oficina(d, c):
                    f'{dica}{espaco}</div>')
     crit = "".join(f"<li>{md_inline(x)}</li>" for x in d.get("criterios", []))
     return (f'<section class="oficina">{cab_secao(f"Oficina · Capítulo {c.n}", d["titulo"], d["objetivo"])}'
-            f'<div class="meta"><div class="tempo"><p class="rotulo">Tempo</p><p class="valor">{d["tempo"]} min</p></div>'
+            f'<div class="meta"><div class="tempo"><p class="rotulo">Tempo</p><p class="valor">{d["tempo"]} min</p>' + (f'<p class="tnota">{esc(d["tempo_nota"])}</p>' if d.get("tempo_nota") else '') + '</div>'
             f'<div><p class="rotulo">Ao final, você terá</p><p>{md_inline(d["entrega"])}</p></div></div>'
             f'{campos}<div class="criterios"><p class="rotulo">Confira antes de seguir</p><ul class="caixas">{crit}</ul></div></section>')
 

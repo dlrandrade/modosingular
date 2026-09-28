@@ -12,19 +12,21 @@ Na mesma semana de maio, em quatro cidades, quatro pessoas ouviram, com outras p
 
 Em Curitiba, a filha de uma paciente esperou Renata no corredor, no fim da sessão, e perguntou o que ela fazia de diferente, porque a mãe já tinha passado por tanta gente. Renata não sabia responder e começou a falar assim mesmo. Falou da primeira consulta, das perguntas sobre as manhãs, do jeito como observa alguém se levantar da cadeira. As mãos desenhavam no ar uma coluna, uma dor que sobe, um músculo que protege demais.
 
-No meio da explicação, ouviu a si mesma dizer uma frase que nunca tinha formulado: "Eu trato a dor como um alarme, e alarme a gente investiga antes de desligar." A filha anotou no celular. Renata foi para casa repetindo a frase, surpresa por tê-la encontrado ali, falando.
+No meio da explicação, ouviu a si mesma dizer uma frase que nunca tinha formulado: "Eu trato a dor como um alarme, e alarme a gente investiga antes de desligar." A filha anotou no celular. Renata foi para casa repetindo a frase e, sozinha no carro, continuou explicando em voz alta até achar a segunda.
 
-No Recife, um colega de faculdade, hoje professor, telefonou a Otávio convidando-o para uma conversa com os alunos sobre o que ele sabe hoje que nenhum professor ensinou. Otávio aceitou e, ao ouvir a pergunta, "o que você diria a eles?", respondeu com duas generalidades que ele mesmo achou fracas e pediu um tempo. Pergunta de cliente ele responde de pronto; uma ideia dele, sem ninguém perguntando nada de concreto, precisava de papel.
+No Recife, um colega de faculdade que hoje dá aula telefonou a Otávio e o convidou para conversar com os alunos sobre o que ele sabe hoje que nenhum professor ensinou. Otávio aceitou e, ao ouvir a pergunta, "o que você diria a eles?", respondeu com duas generalidades que ele mesmo achou fracas e pediu um tempo. Pergunta de cliente ele responde de pronto; uma ideia dele, sem ninguém perguntando nada de concreto, precisava de papel.
 
 Naquela noite e na seguinte, escreveu três páginas à mão. Na primeira, rodeou o assunto. Na segunda, contou duas audiências. No fim da terceira, apareceu, com a clareza de uma conclusão de parecer, a ideia que ele queria dizer: o advogado de uma pequena empresa passa mais tempo dizendo ao cliente o que não fazer do que defendendo o que já foi feito.
 
-Em Porto Alegre, num grupo de estudos de psicólogas, uma colega recém-formada perguntou a Lúcia o que ela faz, na primeira sessão, que os livros não ensinam. Lúcia respondeu durante vinte minutos, com exemplos, distinções finas e uma pergunta de volta, "o que o paciente já tentou para não sentir isso?", que desmontou a dúvida da colega. Dali saiu uma ideia que ela nunca tinha dito assim: na primeira sessão, a queixa importa menos do que o que a pessoa faz para fugir dela. A colega anotou. No dia seguinte, Lúcia tentou pôr aquilo no papel para guardar. A página ficou em branco por quase uma hora. Sem alguém do outro lado, a explicação não vinha.
+Em Porto Alegre, num grupo de estudos de psicólogas, uma colega recém-formada perguntou a Lúcia o que ela faz, na primeira sessão, que os livros não ensinam. Lúcia respondeu até o café esfriar, com exemplos, distinções finas e uma pergunta de volta, "o que o paciente já tentou para não sentir isso?", que desmontou a dúvida da colega. Dali saiu, formulada pela primeira vez, a ideia de que, na primeira sessão, a queixa importa menos do que o que a pessoa faz para fugir dela.
 
-Em Campinas, num almoço de domingo, o cunhado perguntou a Caio o que um arquiteto faz numa reforma que um bom engenheiro não faria. Caio começou do jeito de sempre: "Teve uma obra, um apartamento de 1968, na Vila Itapura…" Contou a história de uma cliente que queria pôr a cozinha inteira abaixo e dos azulejos portugueses que ele achou debaixo de três camadas de tinta, raspou um por um e deixou à vista na cozinha nova. Quando terminou, a resposta estava dada sem que ele a tivesse enunciado: o trabalho do arquiteto, numa reforma, é muitas vezes decidir o que não mexer. O cunhado entendeu pela história, e Caio também.
+No dia seguinte, Lúcia tentou gravar para si mesma um áudio com aquela ideia, no carro, antes de subir para o consultório. Recomeçou quatro vezes. À noite, tentou o papel, e a página ficou em branco por quase uma hora. Sem alguém do outro lado, a explicação não vinha.
+
+Em Campinas, na festa de aniversário do sobrinho, o cunhado perguntou a Caio o que um arquiteto faz numa reforma que um bom engenheiro não faria. Caio começou do jeito de sempre: "Teve uma obra, um apartamento de 1968, na Vila Itapura…" Contou a história de uma cliente que queria pôr a cozinha inteira abaixo e dos azulejos portugueses que ele achou debaixo de três camadas de tinta, raspou um por um e deixou à vista na cozinha nova. Quando terminou, a resposta estava dada sem que ele a tivesse enunciado: o trabalho do arquiteto, numa reforma, é muitas vezes decidir o que não mexer. O cunhado entendeu pela história, e Caio também.
 
 ## O mesmo talento, quatro caminhos
 
-Nenhum dos quatro tem mais talento do que os outros, e todos chegaram a uma resposta. Cada um chegou à sua ideia central por um caminho diferente: Renata falando, Otávio escrevendo, Lúcia respondendo, Caio contando. E cada um, se tentasse o caminho de outro, teria travado.
+Nenhum dos quatro tem mais talento do que os outros, e todos chegaram a uma resposta. Cada um achou a sua ideia central por um caminho diferente: Renata falando, Otávio escrevendo, Lúcia respondendo, Caio contando. E cada um, se tentasse o caminho de outro, teria travado.
 
 Essa diferença passa despercebida quando se trata o formato como uma escolha técnica: vídeo ou texto, carrossel ou áudio, qual dá mais alcance. A pergunta anterior é em que operação mental você organiza melhor o que sabe. A singularidade mora no tema de que você fala e também no modo de elaborar esse tema, e o modo vem antes do formato. É ele que decide se publicar vai parecer extensão do seu trabalho ou um segundo emprego.
 
@@ -74,10 +76,10 @@ linhas:
   - {rotulo: "Dialógico", celulas: [1, 1, 1, 2, 2, 0]}
   - {rotulo: "Narrativo", celulas: [2, 1, 2, 0, 1, 2]}
 ilustrativo: true
-legenda: As respostas são escritas ou gravadas, a perguntas do público. Uma leitura aproximada, para orientar os primeiros testes. O seu caderno de campo vai confirmar ou corrigir a sua linha.
+legenda: Na coluna Respostas, respostas escritas ou gravadas a perguntas do público. Uma leitura aproximada, para orientar os primeiros testes. O seu caderno de campo vai confirmar ou corrigir a sua linha.
 ```
 
-Renata escolheu o carrossel porque uma colega jurou que era o formato que "mais salvava". Para o modo oral, é o formato mais caro da tabela: exige traduzir fala em texto antes de começar. Para o dialógico, custa caro sempre que não há uma pergunta de partida, porque ele precisa inventar sozinho as perguntas que o fariam pensar. O resultado é o que Renata viveu: algumas semanas de esforço crescente e uma desistência que parece falta de disciplina.
+Renata escolheu o carrossel porque uma colega jurou que era o formato que "mais salvava". Para o modo oral, é, com o texto longo, o formato mais caro da tabela: exige traduzir fala em texto antes de começar. Para o dialógico, custa caro sempre que não há uma pergunta de partida, porque ele precisa inventar sozinho as perguntas que o fariam pensar. O resultado é o que Renata viveu: algumas semanas de esforço crescente e uma desistência que parece falta de disciplina.
 
 O mesmo acontece no sentido oposto. Otávio, que escreve com prazer, sofreria para gravar de improviso uma ideia que ainda não passou pelo papel. O áudio do "acertar por fora" saiu fácil porque respondia a uma pergunta que cliente faz toda semana; um vídeo sobre o que ele pensa, sem pergunta nenhuma, seria uma tradução do texto que ele tem na cabeça. Não há nada de errado com vídeo nem com carrossel. O que custa caro é o desencontro entre o modo e o formato.
 
@@ -87,7 +89,7 @@ O caderno de campo do capítulo 6 dá pistas antes de qualquer teste, mais pelo 
 
 Descobrir o seu modo não obriga você a publicar num único formato pelo resto da vida. O modo define onde você captura, isto é, a forma em que o pensamento nasce. O formato de publicação continua livre, e pode variar conforme a plataforma, o público e o assunto. A tradução entre os dois continua existindo, mas muda de lugar: sai do começo, onde é caríssima, e vai para o fim, onde vira uma etapa técnica, que pode sair das suas mãos.
 
-A tradução de formato, no fim do processo, pode ser feita por você, por um assistente ou por uma ferramenta. O Apêndice C traz um modelo de pedido para quem quiser usar uma inteligência artificial nessa etapa, sempre a partir da sua matéria-prima, e o capítulo 24 trata de quando e como delegá-la a uma pessoa. Em qualquer caso, a regra é a mesma: o que sai dela precisa continuar soando como você.
+Nessa posição, ela pode ser feita por você, por um assistente ou por uma ferramenta. O Apêndice C traz um modelo de pedido para quem quiser usar uma inteligência artificial nessa etapa, sempre a partir da sua matéria-prima, e o capítulo 24 trata de quando e como delegá-la a uma pessoa. Em qualquer caso, a regra é a mesma: o que sai dela precisa continuar soando como você.
 
 ```exemplo
 titulo: Uma pediatra de modo oral publicando carrossel sem sofrer
@@ -100,7 +102,7 @@ Cada um dos quatro personagens encontrou a sua rota ao longo das semanas seguint
 
 No caso da Renata, a mudança de lugar apareceu nos números da própria autópsia. A etapa que tinha recebido nota 10 no capítulo 5, escrever cada lâmina, deixou de ser o ponto de partida. Com o áudio gravado, ela passava a ter na mão uma explicação inteira, na ordem em que costuma dar aos pacientes, e o trabalho da noite virava cortar e ajustar. A nota de atrito dessa etapa, refeita duas semanas depois, caiu para 4. O tempo gasto continuou parecido, e sentar para começar ficou bem mais fácil.
 
-Ninguém tem um modo puro. Cada um dos quatro tem um dominante e um secundário próximo, que funciona como rota alternativa nos dias em que o principal não está disponível. Caio conta as histórias dele melhor em voz alta do que por escrito, e isso o aproxima do oral; Lúcia escreve bem, desde que a página comece por uma pergunta: o canal muda, o modo não. O teste a seguir ajuda a identificar os seus dois primeiros modos. Nenhum resultado de teste vale mais do que o caderno de campo das próximas semanas: é ele que confirma o seu modo, ou o corrige.
+Ninguém tem um modo puro. Cada um tem um dominante e um secundário próximo, que serve de rota alternativa nos dias em que o principal não está disponível: Caio conta as histórias dele melhor em voz alta do que por escrito, e isso o aproxima do oral. Canal e modo também não se confundem. Lúcia escreve bem, desde que a página comece por uma pergunta; o canal mudou, o modo continua o dela. Nenhum resultado de teste vale mais do que o caderno de campo das próximas semanas: é ele que confirma o seu modo, ou o corrige.
 
 ```nota
 tipo: tese
@@ -122,15 +124,15 @@ eixos: {O: "Oral", E: "Escrito", D: "Dialógico", N: "Narrativo"}
 itens:
   - {eixo: O, texto: "Eu explico melhor falando do que escrevendo, e sei disso."}
   - {eixo: E, texto: "Eu só entendo o que penso depois de ver escrito."}
-  - {eixo: D, texto: "Sozinho eu travo; com uma pergunta, desenvolvo por muito tempo."}
+  - {eixo: D, texto: "Sem pergunta, eu travo; com uma, desenvolvo por muito tempo."}
   - {eixo: N, texto: "Eu chego à ideia pelo caso: começo por “teve uma vez que…”."}
   - {eixo: O, texto: "Minhas melhores ideias aparecem no meio de uma explicação falada."}
   - {eixo: E, texto: "Antes de conversar sobre um assunto difícil, escrevo sobre ele."}
   - {eixo: D, texto: "Minhas melhores frases saem em conversa, e não quando me preparo."}
   - {eixo: N, texto: "Se tento começar pela conclusão, travo; pelo exemplo, flui."}
 faixas:
-  - {rotulo: "Todas baixas", titulo: "Perfil difuso", leitura: "Nenhuma soma passa de 6, ou as três maiores estão a 1 ponto ou menos umas das outras. Refaça o teste depois de uma semana de caderno de campo."}
-  - {rotulo: "Uma se destaca", titulo: "Modo dominante", leitura: "A maior soma supera as outras por 2 ou mais. Os formatos do eixo mais baixo tendem a custar mais para você; o quadro de atrito do capítulo 5 mostra quanto."}
+  - {rotulo: "Baixas ou próximas", titulo: "Perfil difuso", leitura: "Nenhuma soma passa de 6, ou as três maiores estão a 1 ponto ou menos. Use as duas maiores como hipótese, marque “provisório” no campo 01 e refaça o teste após uma semana de caderno."}
+  - {rotulo: "Uma se destaca", titulo: "Modo dominante", leitura: "A maior soma supera as outras por 2 ou mais. Os formatos que a figura 7.1 marca como “não combina” tendem a lhe custar mais."}
   - {rotulo: "Duas empatam", titulo: "Modo duplo", leitura: "As duas maiores estão empatadas ou a 1 ponto. Use como padrão a que o caderno de campo mais confirma; a outra é o plano B."}
 ```
 
@@ -164,7 +166,7 @@ criterios:
 ```rede
 titulo: A explicação no seu modo
 faca_antes: true
-intro: A peça é uma explicação sobre a sua área, produzida no seu modo dominante. As regras abaixo dizem como capturar conforme o modo; o esqueleto vale para todos.
+intro: A peça é uma explicação sobre a sua área, produzida no seu modo dominante. As regras abaixo dizem como capturar conforme o modo; o esqueleto vale para todos, com o ajuste de ordem indicado sob o roteiro.
 regras:
   - {regra: "Oral: capture sempre em áudio.", porque: "Escrever primeiro anula a sua vantagem e põe a tradução no começo, onde ela custa mais caro."}
   - {regra: "Escrito: escreva primeiro e, se precisar gravar, leia do seu jeito.", porque: "Forçar o improviso produz um vídeo pior que a sua média. Ler o próprio texto, no seu ritmo, preserva a sua clareza."}
@@ -191,7 +193,7 @@ roteiro: |
   A dúvida que sempre aparece aqui é {onde as pessoas se confundem}. E a resposta é {o esclarecimento}.
 
   Em uma frase: {o resumo}.
-roteiro_nota: Se o seu modo é narrativo, inverta a ordem e comece pelo exemplo. Se é dialógico, leia em voz alta uma pergunta real do seu caderno de campo antes de começar.
+roteiro_nota: Se o seu modo é narrativo, inverta a ordem e comece pelo exemplo. Se é dialógico, leia em voz alta uma pergunta real do seu caderno de campo antes de começar. Se é escrito, escreva o roteiro inteiro antes e leia no seu ritmo.
 ```
 
 ```verificacao
@@ -226,7 +228,7 @@ roteiro_nota: Se o seu modo é narrativo, inverta a ordem e comece pelo exemplo.
     - Escrito.
     - Narrativo.
   correta: 2
-  explicacao: É o sinal clássico do modo escrito, o do Otávio: a clareza vem depois do registro. Para essa pessoa, gravar vídeos de improviso é caríssimo.
+  explicacao: É o sinal clássico do modo escrito, o do Otávio: a clareza vem depois do registro. Para essa pessoa, gravar de improviso uma ideia que ainda não passou pelo papel sai caro.
 ```
 
 ```aplicacao

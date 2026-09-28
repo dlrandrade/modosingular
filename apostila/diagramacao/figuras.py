@@ -271,7 +271,11 @@ def espectro(d):
     for i, m in enumerate(sorted(d["marcas"], key=lambda m: m["pos"])):
         x = L + (R - L) * m["pos"] / 100
         cima = i % 2 == 0
-        out.append(f'<line x1="{x:.1f}" y1="{Y - 9}" x2="{x:.1f}" y2="{Y + 9}" stroke="{INK}" stroke-width="1.2"/>')
+        if m.get("destaque"):  # marca de referência (ex.: o piso): traço mais forte e etiqueta do lado oposto ao rótulo
+            out.append(f'<line x1="{x:.1f}" y1="{Y - 13}" x2="{x:.1f}" y2="{Y + 13}" stroke="{ACC_D}" stroke-width="2.6"/>')
+            out.append(texto(x, (Y + 26) if cima else (Y - 19), m["destaque"], 8.5, ACC_D, 700, "middle")[0])
+        else:
+            out.append(f'<line x1="{x:.1f}" y1="{Y - 9}" x2="{x:.1f}" y2="{Y + 9}" stroke="{INK}" stroke-width="1.2"/>')
         anc = "start" if x < 90 else ("end" if x > 410 else "middle")
         if cima:
             _, h = texto(x, 0, m["rotulo"], 10, INK, 600, anc, largura=120)

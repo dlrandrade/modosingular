@@ -190,6 +190,7 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .meta p { margin: 0; font-size: 9.2pt; line-height: 12.6pt; text-align: left; }
 .meta > div.tempo { flex: 0 0 24mm; }
 .meta .tempo p.valor { font: 400 17pt/1.1 var(--display); color: var(--acc-d); }
+.meta .tempo p.tnota { font: italic 400 7.4pt/1.25 var(--serif); color: var(--ink-2); margin-top: 1mm; }
 
 .campo { margin: 0 0 5mm; break-inside: avoid; }
 .campo .enunciado { font: 600 10pt/13.6pt var(--serif); margin: 0; break-after: avoid; }
