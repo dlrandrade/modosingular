@@ -357,3 +357,7 @@ table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
 .exemplo .painel { break-inside: avoid; }
 .exemplo > .rotulo, .exemplo > .titulo { break-after: avoid; }
 .exemplo .porque { break-before: avoid; break-inside: avoid; }
+
+/* Linhas de escrita com rótulo à esquerda (ex.: dias da semana). */
+.linhas.rot div { position: relative; padding-left: 18mm; }
+.linhas.rot span { position: absolute; left: 0; bottom: .8mm; font: 600 7pt var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); }

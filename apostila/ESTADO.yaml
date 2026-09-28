@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 20:24
+# atualizado: 2026-09-28 20:27
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -710,7 +710,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 8.56
+    - iteracao: 2
+      data: 2026-09-28 20:25
+      revisao: apostila/revisoes/cap21-r2.yaml
+      media: 8.86
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.86
   22:
     status: reprovado
     iteracoes:
@@ -817,6 +826,7 @@ figurantes:
   - 1
   - 6
   - 14
+  - 21
   nutricionista:
   - 1
   - 9
@@ -930,5 +940,7 @@ decisoes:
   14 deixam de estar pendentes de ordem.'
 - '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal data cada captura de atendimento
   com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
+- '2026-09-28: Oficinas aceitam ''rotulos_linhas: [...]'' (linhas de escrita com rótulo à esquerda), para grades
+  que pedem texto e não marcação.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
