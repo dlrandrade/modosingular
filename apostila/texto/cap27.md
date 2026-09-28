@@ -10,7 +10,7 @@ legenda_ilustracao: Os comentários são a ponta. Quem vai procurar você está 
 
 A mensagem chegou numa quinta-feira de outubro, às onze da noite, e Lúcia só a leu na sexta de manhã, antes do primeiro paciente. Era curta. "Oi, Lúcia. Leio os seus textos desde março, toda terça. Nunca comentei nada. Acho que agora estou pronta. Como faço para marcar?"
 
-Vinha de um nome que ela não reconhecia, sem foto, de uma conta que não seguia ninguém da área e que nunca tinha curtido nenhuma das peças dela.
+Vinha de um nome que ela não reconhecia, sem foto, de uma conta que não seguia ninguém da área.
 
 Lúcia leu três vezes. Sete meses de leitura silenciosa, toda terça, e nenhum rastro. Nenhuma curtida, nenhuma resposta, nenhuma mensagem. Se alguém tivesse perguntado a Lúcia, na véspera, quem acompanhava os textos dela, ela teria pensado nos nomes que comentavam, uns quinze ou vinte. Aquele não estaria entre eles.
 
@@ -24,7 +24,7 @@ Lúcia pensou nela o fim de semana inteiro, por um motivo que não esperava. Esp
 
 ## A distância que ninguém vê
 
-Depois de alguns meses publicando, quase todo especialista se pergunta como aquilo vira cliente. A resposta incomoda porque não tem atalho: há uma sequência que acontece na cabeça de quem acompanha, em silêncio. A leitora da quinta-feira passou por toda ela sem que Lúcia visse nenhum passo.
+Depois de alguns meses publicando, quase todo especialista se pergunta como aquilo vira cliente. A resposta incomoda porque não tem atalho: há uma sequência que acontece na cabeça de quem acompanha, em silêncio. A leitora de outubro passou por toda ela sem que Lúcia visse nenhum passo.
 
 ```figura
 tipo: escada
@@ -48,9 +48,9 @@ definicao: O processo pelo qual alguém que acompanha você passa a procurar voc
 porque: Quando vários profissionais podem resolver o mesmo problema, a escolha passa a ser feita por confiança, familiaridade e identidade. As três se constroem antes da oferta, e não durante.
 ```
 
-Nas semanas seguintes, mais duas pacientes novas disseram na primeira sessão que liam os textos dela. As duas tinham feito o mesmo caminho da leitora da quinta-feira: meses de leitura sem nenhum sinal, e depois uma ligação, para um número que uma achou na lista do convênio e a outra ganhou de uma amiga, já paciente.
+Nas semanas seguintes, mais duas pacientes novas disseram na primeira sessão que liam os textos dela. As duas tinham feito o mesmo caminho da leitora da quinta-feira. Contaram que liam havia meses e nunca tinham comentado nada, e depois ligaram para um número que uma achou na lista do convênio e a outra ganhou de uma amiga, já paciente.
 
-Quem decide se continua publicando olhando para os comentários corre o risco de desistir cedo. No caso da Lúcia, os comentários vinham de quinze ou vinte pessoas, e as que procuravam eram outras. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. A leitora da quinta-feira tinha começado a ler numa dessas semanas.
+Quem decide se continua publicando olhando para os comentários corre o risco de desistir cedo. No caso da Lúcia, os comentários vinham de quinze ou vinte pessoas, e as que procuravam eram outras. Lúcia tinha pensado duas vezes, naquele ano, em reduzir as terças para uma a cada quinze dias, nas semanas em que os textos quase não tinham resposta. A leitora de outubro tinha começado a ler numa dessas semanas.
 
 ## A mesma oferta, em distâncias diferentes
 
@@ -71,19 +71,19 @@ direita:
     - Aparece de vez em quando.
     - Diz para quem não serve.
     - Mantém o tom e o léxico de sempre.
-    - Descreve o processo, e nunca o resultado.
+    - Descreve o processo, nunca o resultado.
     - Vem depois do critério, como consequência.
 ```
 
 É por isso que copiar a chamada de outra pessoa é arriscado. Quem tem uma audiência grande e familiar pode escrever "tenho duas vagas" e ser lido como um aviso útil. Quem está começando, com leitores no segundo degrau, escreve a mesma frase e é lido como vendedor. A frase veio sem o contexto que a tornava aceitável, e o contexto é a única coisa que não se copia.
 
-Cada modo faz a oferta do seu jeito. Renata dedica um áudio inteiro, uma vez a cada dez peças, a dizer quem ela atende e quem não, com a mesma voz com que explica a dor. Caio reserva, de vez em quando, uma quinta-feira para contar como é a primeira visita a um apartamento velho e o que ele olha antes de aceitar a obra. Otávio escreve quatro parágrafos sobre o tipo de empresa que ele defende e o tipo que ele recusa. Nenhum dos três muda de tom. A oferta sai da mesma boca que explicou, e por isso é ouvida.
+Cada modo faz a oferta do seu jeito. Renata dedica a peça de ação, a menor camada do funil dela, a dizer quem ela atende e quem não, com a mesma voz com que explica a dor. Caio reserva, de vez em quando, uma quinta-feira para contar como é a primeira visita a um apartamento velho e o que ele olha antes de aceitar a obra. Otávio escreve quatro parágrafos sobre o tipo de empresa que ele defende e o tipo que ele recusa. Nenhum dos três muda de tom. A oferta sai da mesma boca que explicou, e por isso é ouvida.
 
 Tabela: O que cada distância pede
 
 | Degrau | O que a pessoa precisa | O que você publica |
 |---|---|---|
-| Desconhecido | Encontrar você por acaso | Reconhecimento do problema |
+| Desconhecido | Encontrar você por acaso | Reconhecimento do problema (cap. 26) |
 | Encontrado | Um motivo para voltar | Léxico marcante, posição clara |
 | Reconhecido | Entender como você pensa | Critério, contraponto, régua |
 | Familiar | Um caminho quando precisar | Casos, padrões e, de vez em quando, a porta aberta |
@@ -109,11 +109,11 @@ A parte mais importante era a segunda. Dizer para quem não serve é o que torna
 
 A linha do 188 não estava ali por formalidade. Uma peça que diz "eu atendo pessoas com ansiedade" vai ser lida, em algum momento, por alguém que está pior do que ansioso, numa noite em que esperar pela agenda de qualquer psicóloga é esperar demais. Para essa pessoa, a parte mais útil da oferta é justamente a que diz que não é ali, e onde é. Lúcia escreveu essa linha antes de todas as outras, e foi a única que não mudou em nenhuma revisão.
 
-Lúcia pediu à amiga do grupo que a pergunta daquela semana fosse uma que ninguém tinha feito em público, e que agora ela sabia que muita gente fazia calada: como alguém que lê você marca uma conversa? Respondeu numa terça às oito, como respondia a todas, e a resposta foi a oferta. Decidiu que ela voltaria uma vez a cada dez peças, pouco mais de dois meses no ritmo dela. Na semana seguinte, voltou a responder à pergunta da amiga, como sempre. O tom não mudou de uma terça para a outra, e era isso que ela mais queria garantir: que alguém como a leitora da quinta-feira reconhecesse na oferta a mesma pessoa dos trinta textos anteriores.
+Lúcia pediu à amiga do grupo que a pergunta daquela semana fosse uma que ninguém tinha feito em público, e que agora ela sabia que muita gente fazia calada: como alguém que lê você marca uma conversa? Respondeu numa terça às oito, como respondia a todas, e a resposta foi a oferta. Decidiu que ela voltaria uma vez a cada dez peças, pouco mais de dois meses no ritmo dela. Na semana seguinte, voltou a responder à pergunta da amiga, como sempre. O tom não mudou de uma terça para a outra, e era isso que ela mais queria garantir: que alguém como a leitora da quinta-feira reconhecesse na oferta a mesma pessoa dos textos anteriores.
 
-Na véspera, Lúcia tinha deixado uma cópia impressa com a secretária, para que ela soubesse o que dizer a quem ligasse citando o texto. Na semana depois da oferta, a secretária recebeu duas ligações de gente que citou os textos. Uma marcou a primeira conversa. A outra era a mãe de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante.
+Na véspera da oferta, Lúcia tinha deixado uma cópia impressa com a secretária, para que ela soubesse o que dizer a quem ligasse citando o texto. Na semana depois da oferta, a secretária recebeu duas ligações de gente que citou os textos. Uma marcou a primeira conversa. A outra era a mãe de um adolescente, e a secretária, seguindo a oferta, passou o contato de uma colega que atende jovens. Lúcia anotou a data da próxima oferta no caderno, dez terças adiante.
 
-Em dezembro, a leitora da quinta-feira estava na quinta sessão. Na primeira, tinha contado a Lúcia que quase escreveu em julho, e depois em setembro, e desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos. Lúcia não disse nada sobre isso na sessão. À noite, abriu o caderno de campo e anotou, sem nome, uma frase para a próxima vez que alguém lhe perguntasse como os textos viram pacientes: quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone.
+Em dezembro, a leitora da quinta-feira já tinha feito cinco sessões. Na primeira, tinha contado a Lúcia que quase escreveu em julho, e depois em setembro, e desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos. Lúcia não disse nada sobre isso na sessão. À noite, abriu o caderno de campo e anotou, sem nome, uma frase para a próxima vez que alguém lhe perguntasse como os textos viram pacientes: quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone.
 
 ```guardar
 - A mesma oferta é interrupção para quem acabou de encontrar você e conveniência para quem já sabe como você pensa. O texto é igual; a distância não.
@@ -129,7 +129,7 @@ tempo_nota: mais o teste no celular de outra pessoa
 entrega: O caminho de contato testado, a sua oferta em quatro partes e a frequência com que ela vai aparecer.
 campos:
   - rotulo: "Em que degrau está a maior parte de quem acompanha você, e como você sabe"
-    exemplo: "Pense nos seus últimos clientes novos: quantos citaram algo que você publicou? Se quase nenhum, a maioria ainda está entre o segundo e o terceiro degrau, e a tabela 27.1 diz o que falta publicar. Uma fonoaudióloga: “Leem, mas ninguém cita. Preciso de mais critério e menos dica.”"
+    exemplo: "Pense nos seus últimos clientes novos: quantos citaram algo que você publicou? Se quase nenhum, ou as peças ainda não levam ninguém ao quarto degrau, ou o último metro está quebrado, e o campo 02 separa as duas coisas. Se vários citam, há gente no quarto degrau, e a tabela 27.1 diz o que continuar publicando. Uma nutricionista: “Leem, mas ninguém cita. Preciso de mais critério e menos dica.”"
     linhas: 3
   - rotulo: "O teste do último metro, no celular de outra pessoa"
     exemplo: "Quanto tempo ela levou para descobrir como marcar? Precisou perguntar? O telefone, o link e o horário estão certos?"
@@ -138,13 +138,13 @@ campos:
     exemplo: "Uma professora de inglês: “Adultos que já começaram três cursos e pararam no segundo mês.”"
     linhas: 3
   - rotulo: "Para quem você não é a pessoa certa, e para onde encaminha"
-    exemplo: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência. Um cardiologista: “Arritmias que precisam de ablação; para essas, indico um eletrofisiologista.”"
+    exemplo: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência. Um cardiologista: “Arritmias que precisam de ablação; para essas, indico um eletrofisiologista. Dor no peito, falta de ar ou desmaio não esperam consulta: pronto-socorro ou 192.”"
     linhas: 3
   - rotulo: "Como funciona o primeiro passo, sem promessa, e como marcar"
     exemplo: "O que acontece na primeira conversa, o que se decide nela e o caminho que funciona. Uma engenheira agrônoma: “Na primeira visita, percorro a lavoura com você e digo se o problema é de solo ou de manejo.”"
     linhas: 3
   - rotulo: "Com que frequência a oferta vai aparecer"
-    exemplo: "Uma a cada dez peças é uma boa referência. Escreva o seu número e a próxima data."
+    exemplo: "Uma a cada dez peças é a referência deste livro, uma regra prática, e não um número de pesquisa. Escreva o seu número e a próxima data."
     linhas: 1
 criterios:
   - O teste do campo 02 foi feito no celular de outra pessoa.
@@ -193,7 +193,7 @@ faca_antes: true
     - Que os textos atraíam sobretudo leitores de outras cidades.
     - Que a leitora precisava de um atendimento por mensagem.
   correta: 1
-  explicacao: Sete meses de leitura, toda terça, sem nenhuma curtida ou comentário. Nas semanas seguintes, mais duas pacientes que liam os textos chegaram do mesmo jeito, sem aparecer nas curtidas.
+  explicacao: Sete meses de leitura, toda terça, sem nenhuma curtida ou comentário. Nas semanas seguintes, mais duas pacientes que liam os textos chegaram do mesmo jeito, e contaram que nunca tinham comentado nada.
 - pergunta: Por que a mesma oferta funciona de jeitos tão diferentes?
   opcoes:
     - Porque muda a distância entre quem lê e quem escreve.
