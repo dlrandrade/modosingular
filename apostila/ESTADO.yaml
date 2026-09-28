@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 12:56
+# atualizado: 2026-09-28 19:11
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -516,8 +516,19 @@ capitulos:
       veredito: reprovado
     nota: 8.66
   17:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 19:10
+      revisao: apostila/revisoes/cap17-r1.yaml
+      media: 8.61
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.61
   18:
     status: rascunho
     iteracoes: []
@@ -569,6 +580,7 @@ figurantes:
   - 3
   - 8
   - 5
+  - 17
   advogada de família:
   - 1
   - 15
@@ -576,6 +588,7 @@ figurantes:
   - 2
   - 14
   - 7
+  - 17
   veterinária:
   - 2
   - 10
@@ -584,6 +597,7 @@ figurantes:
   oftalmologista:
   - 2
   - 5
+  - 17
   fonoaudióloga:
   - 3
   - 10
@@ -667,6 +681,7 @@ figurantes:
   - 9
   professor de cursinho:
   - 10
+  - 17
   despachante:
   - 10
   - 6

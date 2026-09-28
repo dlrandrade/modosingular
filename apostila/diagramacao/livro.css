@@ -356,4 +356,4 @@ table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
 .bloco.exemplo { break-inside: auto; }
 .exemplo .painel { break-inside: avoid; }
 .exemplo > .rotulo, .exemplo > .titulo { break-after: avoid; }
-.exemplo .porque { break-before: avoid; }
+.exemplo .porque { break-before: avoid; break-inside: avoid; }
