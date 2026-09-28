@@ -432,7 +432,7 @@ def b_aplicacao(d, c):
         f'<td class="pts">{i["pontos"]}</td></tr>' for i in itens)
     prox = (f"Com {minimo} pontos ou mais, siga para o capítulo {c.n + 1}. Com menos, volte à oficina: "
             "é ela que prepara o próximo passo.") if c.n < 30 else \
-        f"Com {minimo} pontos ou mais, você fechou os trinta capítulos. Com menos, volte à oficina antes do plano de noventa dias."
+        f"Com {minimo} pontos ou mais, você fechou os trinta capítulos. Com menos, complete os campos que faltam antes do primeiro dia do plano."
     return (f'<div class="aplicacao"><p class="rotulo">Checklist de aplicação</p>'
             f'<table>{linhas_t}</table><div class="total"><p>{prox}</p>'
             f'<div class="caixa">Total<span></span>de {total}</div></div>'

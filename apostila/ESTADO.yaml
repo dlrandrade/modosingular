@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 21:43
+# atualizado: 2026-09-28 21:45
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -973,8 +973,19 @@ capitulos:
       veredito: reprovado
     nota: 8.96
   30:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:45
+      revisao: apostila/revisoes/cap30-r1.yaml
+      media: 8.54
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.54
 figurantes:
   cardiologista:
   - 1
