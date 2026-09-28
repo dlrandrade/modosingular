@@ -14,7 +14,7 @@ O plano tinha nome na praça, e Otávio o conhecia bem. O gerente entraria com u
 
 Otávio disse que não faria. Explicou, sem levantar a voz, que aquilo era uma ação simulada: o gerente estaria representado por alguém pago pelo outro lado, o juiz pode perceber e, quando percebe, o acordo cai, a empresa responde por má-fé e o problema que se queria evitar volta maior. Propôs o caminho correto, mais demorado e mais caro: rescisão completa, cada lado com o seu advogado, acordo discutido de verdade.
 
-Otávio começa qualquer conversa pela pior hipótese, e tinha visto essa acontecer. Um gerente que aceita o acordo combinado, dois anos depois, descobre com um advogado de verdade que deixou horas extras na mesa e procura a Justiça de novo. Uma audiência em que a juíza estranha a pressa das duas partes e pergunta ao trabalhador, diretamente, quem escolheu o advogado dele. Uma empresa que passa a responder por uma dívida maior do que a que tentou evitar, com o nome no cadastro de devedores trabalhistas e a certidão trabalhista positiva, justo a que o banco pede para renovar o capital de giro. Ele contou as três ao Seu Ednaldo, sem nomes, uma depois da outra.
+Otávio começa qualquer conversa pela pior hipótese, e daquela conhecia três versões, todas vistas de perto. Um gerente que aceita o acordo combinado, dois anos depois, descobre com um advogado de verdade que deixou horas extras na mesa e procura a Justiça de novo. Uma audiência em que a juíza estranha a pressa das duas partes e pergunta ao trabalhador, diretamente, quem escolheu o advogado dele. Uma empresa que passa a responder por uma dívida maior do que a que tentou evitar, com o nome no cadastro de devedores trabalhistas e a certidão trabalhista positiva, justo a que se pede em licitação e em muitos pedidos de crédito. Ele contou as três ao Seu Ednaldo, sem nomes, uma depois da outra.
 
 Seu Ednaldo ouviu até o fim. Do outro lado da linha, por uns segundos, só se ouvia o barulho do forno da loja. Depois veio a pergunta que Otávio esperava: "Você está do meu lado ou do dele?". Otávio respondeu que estava do lado da padaria, e por isso mesmo não faria.
 
@@ -24,11 +24,11 @@ Dez dias mais tarde, chegou por e-mail o aviso de rescisão do contrato de asses
 
 ## A frase que protege um lado só
 
-A frase da folha tinha uma propriedade que nenhuma das quinze publicações mensais da agência tivera: alguém podia discordar dela. Seu Ednaldo discordava, e o amigo dele também, e todos os empresários a quem o amigo tinha ensinado o truque. As publicações da agência, do tipo "Você sabia que o empregador deve recolher o FGTS até o dia 20?", eram corretas e impossíveis de contestar. Por isso mesmo não ficavam na memória.
+A frase da folha tinha uma propriedade que nenhuma das quinze publicações mensais da agência tivera: alguém podia discordar dela. Seu Ednaldo discordava dela, como o amigo dele e todos os empresários a quem o amigo tinha ensinado o truque. As publicações da agência, do tipo "Você sabia que o empregador deve recolher o FGTS até o dia 20?", eram corretas e impossíveis de contestar. Por isso mesmo não ficavam na memória.
 
 Há um tipo de frase que circula em toda área profissional e que não pode ser criticada. "É importante cuidar da saúde." "Cada caso é um caso." "O ideal é procurar um profissional de confiança." "Prevenir é o melhor caminho." Nenhuma está errada, e nenhuma acrescenta nada a quem lê. Ocupam espaço com palavras certas.
 
-Refugiar-se nelas é compreensível. A frase segura protege quem escreve: não expõe a um erro em público, não arrisca o olhar torto de um colega, não contraria o código de ética por descuido. Só que ela protege um lado só. Quem lê não sai com nada que o ajude a decidir, e tampouco com um motivo para lembrar de quem escreveu.
+Refugiar-se nelas é compreensível. A frase segura protege quem escreve: não expõe a um erro em público, não arrisca o olhar torto de um colega, não contraria o código de ética por descuido. Mas ela protege um lado só. Quem lê não sai com nada que o ajude a decidir, e tampouco com um motivo para lembrar de quem escreveu.
 
 Uma posição só ganha contorno quando existe alguém do outro lado. Esse alguém não precisa ser um inimigo; pode ser um colega respeitado, um cliente que pensa diferente, uma prática comum na sua área. O que importa é que a frase exclua alguma coisa, e que quem a lê saiba, depois de ler, onde você está.
 
@@ -42,11 +42,11 @@ porque: O que todo mundo aceita, ninguém guarda. É a possibilidade de discord�
 
 Para saber se uma frase é opinião ou constatação, pergunte o que ela custa. Se defendê-la não custa nenhum cliente, nenhum convite, nenhuma cara feia num congresso, é quase certo que se trata de uma constatação. Dizer que é importante cuidar da saúde não custa um centavo.
 
-A recusa da casadinha custou ao Otávio um contrato de nove anos, o custo mais visível. A lei proíbe a ação simulada, mas a casadinha tinha nome no corredor do fórum porque a banca que ficou com a conta faz, e não é a única, e o cliente sabia onde encontrar quem fizesse. Recusá-la, naquela praça, é uma posição. A frase da folha dizia o resto: defender o dono às vezes é contrariá-lo, coisa que o escritório que ficou com a conta não pensa. Há opiniões que custam o respeito de um grupo de colegas, outras que afastam um tipo de cliente, outras que deixam você fora de uma conversa em que todos concordam entre si. O preço varia, mas uma opinião de verdade sempre tem algum.
+A recusa da casadinha custou ao Otávio um contrato de nove anos, o custo mais visível. A lei proíbe a ação simulada, mas a prática tinha apelido no corredor do fórum, havia banca disposta a fazê-la, e o cliente sabia onde procurar. Naquela praça, recusá-la era uma posição. A frase da folha ia além: defender o dono às vezes é contrariá-lo. Há opiniões que custam o respeito de um grupo de colegas, outras que afastam um tipo de cliente, outras que deixam você fora de uma conversa em que todos concordam entre si. O preço varia, mas uma opinião de verdade sempre tem algum.
 
-Não ter posição também custa, e o custo não aparece na hora. Quem não diz o que defende acaba escolhido pelo que dá para comparar sem conhecer a pessoa: o preço, a distância, o horário livre. O Seu Ednaldo levou a conta para um escritório que fazia a casadinha, e esse escritório vai concorrer, daqui em diante, com todos os outros que também fazem. Otávio perdeu um cliente e ficou num grupo menor, o dos advogados que dizem não.
+Não ter posição também custa, e o custo não aparece na hora. Quem não diz o que defende acaba escolhido pelo que dá para comparar sem conhecer a pessoa: o preço, a distância, o horário livre. Seu Ednaldo levou a conta para um escritório que fazia a casadinha, e esse escritório vai concorrer, daqui em diante, com todos os outros que também fazem. Otávio perdeu um cliente e ficou num grupo menor, o dos advogados que dizem não.
 
-Os outros três personagens pagam os seus. Lúcia se recusa a dar um nome para o sofrimento do paciente na primeira sessão, mesmo quando ele chega pedindo um, e repete aos colegas a frase de sempre: rótulo não é diagnóstico. Alguns pacientes não voltam, porque queriam sair com uma palavra. Renata não vende pacote de dez sessões antes de avaliar, e perde para a clínica da esquina quem compara preço por pacote. Caio repete há anos a frase do taco de peroba, que vale mais raspado do que arrancado, mas nunca precisou defendê-la contra ninguém: até hoje, todo cliente que a ouviu concordou. Uma frase que nunca custou nada ainda não diz onde ele está.
+Lúcia e Renata pagam os seus. Lúcia se recusa a dar um nome para o sofrimento do paciente na primeira sessão, mesmo quando ele chega pedindo um, e repete aos colegas a frase de sempre: rótulo não é diagnóstico. Alguns pacientes não voltam, porque queriam sair com uma palavra. Renata não vende pacote de dez sessões antes de avaliar, e perde para a clínica da esquina quem compara preço por pacote. Caio ainda não pagou nenhum. Repete há anos a frase do taco de peroba, que vale mais raspado do que arrancado, mas nunca precisou defendê-la contra ninguém: até hoje, todo cliente que a ouviu concordou. Uma frase que nunca custou nada ainda não diz onde ele está.
 
 ```figura
 tipo: quadrante
@@ -60,14 +60,14 @@ pontos:
   - {x: 56, y: 36, rotulo: "Opinião morna"}
   - {x: 94, y: 12, rotulo: "Polêmica gratuita"}
   - {x: 80, y: 80, rotulo: "A sua posição", destaque: true}
-legenda: Esquema ilustrativo. A divergência sozinha leva à polêmica gratuita, que chama atenção e se esgota. A posição que vale diverge e continua de pé quando cobra o preço.
+legenda: A divergência sozinha leva à polêmica gratuita, que chama atenção e se esgota. A posição que vale diverge e continua de pé quando cobra o preço.
 ```
 
 No canto de baixo, à direita, está a divergência sem compromisso. Divergir só para chamar atenção produz visibilidade sem autoridade, e cansa depressa, a você e a quem lê. A polêmica gratuita mira uma coisa que ninguém de fato defende, ou uma pessoa. A posição de verdade é a favor de um jeito de trabalhar, e você a sustentaria mesmo se ninguém estivesse olhando. Otávio recusou a casadinha num telefonema, sem plateia.
 
 ## Onde as suas opiniões já estão
 
-Não é preciso inventar opiniões. Elas já existem, espalhadas pela rotina, e aparecem em quatro lugares. Dois deles surgiram no capítulo 3 como sinais de autoridade; aqui interessam por outro motivo, o preço que cobram.
+Não é preciso inventar opiniões. O repertório do capítulo anterior é o que você viu; a opinião é o que você defende a partir dele, e ela já aparece em quatro lugares da rotina. Dois deles, a recusa e a mudança de opinião, apareceram no capítulo 3 como sinais de autoridade; aqui contam pelo preço que cobram.
 
 Tabela: Onde procurar o que você já defende
 
@@ -75,12 +75,12 @@ Tabela: Onde procurar o que você já defende
 |---|---|---|
 | O que você recusa | O que você não faz, mesmo pagando bem? | Dermatologista: "Não aplico preenchimento em quem chega com a foto de uma atriz. Explico por quê e proponho outra conversa, sobre o rosto dela." |
 | Onde você discorda | Em que ponto você discorda da maioria dos colegas? | Professor de cursinho: "Simulado toda semana cansa mais do que ensina. Eu faço um por mês e corrijo com o aluno." |
-| O que irrita você | O que você vê na sua área e dá vontade de responder? | Corretora de imóveis: "Anúncio com a metragem da garagem somada à do apartamento. Quem compra descobre na escritura, com a vaga registrada à parte." |
+| O que irrita você | O que você vê na sua área e dá vontade de responder? | Designer de interiores: "Projeto em 3D com sofá que não passa pela porta do prédio. O cliente descobre no dia da entrega, com o caminhão na calçada." |
 | O que você mudou | Sobre o que você mudou de ideia, e por quê? | Veterinária: "Eu esperava o primeiro cio para castrar. Mudei depois de operar tumor de mama em cadela de oito anos, vezes demais." |
 
 Um sinal ajuda a achar as suas: o calor. As opiniões de verdade costumam aparecer quando a voz sobe um pouco, no almoço com colegas, na reunião em que o cliente insiste numa ideia, no áudio que você grava indignado e depois apaga. Se um assunto faz você falar mais depressa do que de costume, provavelmente há ali uma posição. O trabalho da oficina é escrevê-la a frio, com a razão e o custo ao lado.
 
-Otávio achou as dele sem muito esforço, porque o escritório vivia delas. A casadinha era uma recusa. A discordância era com colegas que orientam o pequeno empresário a demitir por justa causa sempre que possível, para economizar na rescisão; ele acha que a justa causa mal fundamentada é a que mais volta como condenação. A irritação era o "sempre fiz assim e nunca deu problema", frase que ouve toda semana e que, na experiência dele, é dita um pouco antes do primeiro problema; dizer isso ao cliente em voz alta já lhe custou mais de uma primeira reunião.
+Otávio achou as dele sem muito esforço, porque o escritório vivia delas. A casadinha era uma recusa. A discordância era com colegas que orientam o pequeno empresário a demitir por justa causa sempre que possível, para economizar na rescisão; ele acha que a justa causa mal fundamentada é a que mais volta como condenação, e dizer isso lhe custa o empresário que chega querendo ouvir que dá para economizar. A irritação era o "sempre fiz assim e nunca deu problema", frase que ouve toda semana e que, na experiência dele, é dita um pouco antes do primeiro problema; dizer isso ao cliente em voz alta já lhe custou mais de uma primeira reunião.
 
 ```compara
 esquerda:
@@ -95,7 +95,7 @@ direita:
   itens:
     - "“Se prometeram prazo fechado para o seu processo, desconfie. Eu explico a conta.”"
     - "“Advogado de empresa que nunca contraria o dono está defendendo o humor dele. Perco cliente por pensar assim.”"
-    - "“Justa causa sem prova é a rescisão mais cara que existe.”"
+    - "Engenheiro estrutural: “Laudo de vistoria feito sem abrir o forro é chute assinado. Cobro mais para abrir, e perco a obra para quem não abre.”"
     - Alguém discorda. Quem concorda guarda.
 ```
 
@@ -105,7 +105,7 @@ Ter posição não significa atacar pessoas. A regra é curta: critique a práti
 
 A indireta é o pior caminho. Quando alguém lê uma crítica e reconhece o colega de quem se fala, a crítica deixa de informar e passa a sujar quem a escreveu. Se você não consegue falar de uma ideia sem que ela aponte para uma pessoa identificável, escolha outro assunto ou espere até que a prática, e não o praticante, esteja no centro. Em profissões com código de ética, esse cuidado é regra: advogados, médicos, psicólogos e dentistas, entre outros, têm normas sobre como se fala de colegas em público, e algumas restringem até a crítica a técnicas usadas por outros profissionais. Antes de publicar uma posição contra uma prática da sua área, confira o que o seu código diz.
 
-Um segundo cuidado distingue a opinião pensada da reação. Antes de defender uma posição em público, escreva o melhor argumento contra ela, com justiça, como o defenderia alguém inteligente do outro lado. Otávio fez isso na mesma folha. O argumento contra a recusa era forte: o gerente também quer receber rápido, o acordo combinado evita anos de processo, e ninguém sai prejudicado se as contas estiverem certas. A resposta dele cabia em duas linhas. Se as contas estão certas, não há razão para esconder o advogado de cada lado; e quando o acordo cai, quem paga a conta é a empresa que o acordo deveria proteger.
+Um segundo cuidado distingue a opinião pensada da reação. Antes de defender uma posição em público, escreva o melhor argumento contra ela, com justiça, como o defenderia alguém inteligente do outro lado. Otávio fez isso na mesma folha. O argumento contra a recusa era forte: o gerente também quer receber rápido, o acordo combinado evita anos de processo, e ninguém sai prejudicado se as contas estiverem certas. A resposta dele cabia em duas linhas. Se as contas estão certas, não há razão para o gerente não ter um advogado escolhido por ele; e quando o acordo cai, quem paga a conta é a empresa que o acordo deveria proteger.
 
 ## A cliente que chegou por causa do não
 
@@ -126,11 +126,11 @@ Helena leu o quadro numa sexta-feira e fez a pergunta que a folha deixava no ar:
 ```oficina
 titulo: O seu manifesto de três linhas
 objetivo: Nomear as posições que dão contorno ao seu trabalho e assumir o custo de cada uma.
-tempo: 30
+tempo: 40
 entrega: Três opiniões escritas sem atacar ninguém, cada uma com o custo e o ganho nomeados, e o melhor argumento contra a mais forte delas.
 campos:
   - rotulo: "Opinião 1: o que você recusa, mesmo pagando bem, e por quê"
-    exemplo: "Um corretor de seguros: “Não vendo seguro de vida com o valor que o cliente pede quando a conta da família não fecha com ele. Perco a venda para quem vende o que pediram.”"
+    exemplo: "Um corretor de seguros: “Não vendo seguro de vida com o capital que o cliente pede quando esse valor não sustenta a família nem por um ano. Perco a venda para quem vende o que pediram.”"
     linhas: 3
   - rotulo: "Opinião 2: onde você discorda da maioria dos seus colegas, e por quê"
     exemplo: "Uma professora de piano: “A maioria dos colegas começa pelo método de leitura. Eu passo os três primeiros meses tocando de ouvido, porque a criança que só lê desiste antes do primeiro recital.” Escreva a prática, nunca o nome de quem a pratica."
@@ -138,11 +138,11 @@ campos:
   - rotulo: "Opinião 3: o que irrita você na sua área, o que você faria no lugar, e por quê"
     exemplo: "Uma fonoaudióloga: “Escola que manda a criança para avaliação só em novembro, quando o ano já foi. Nas escolas que me encaminham crianças, peço a triagem em março.”"
     linhas: 3
-  - rotulo: "O custo de cada uma: quem você perde, o que deixa de ganhar, com quem fica mal"
+  - rotulo: "O custo de cada uma: quem você perde, o que deixa de ganhar, com quem se indispõe"
     exemplo: "Uma linha para cada opinião, na ordem dos campos 01 a 03."
     linhas: 3
   - rotulo: "O caso típico que sustenta a sua opinião mais forte, sem nomes"
-    exemplo: "A situação que se repete na sua prática e em que a posição se mostrou certa."
+    exemplo: "A situação que se repete na sua prática e em que a posição se mostrou certa. Pode ser o caso que você escreveu no capítulo 9."
     linhas: 4
   - rotulo: "O ganho: quem procura você justamente por causa dessas posições"
     exemplo: "Pense em quem já indicou você com uma frase parecida com a do contador do Otávio."
@@ -158,7 +158,7 @@ criterios:
 
 ```rede
 titulo: A posição que custa
-intro: "Escolha uma das três opiniões e transforme em peça. O assunto é uma prática da sua área, e nunca a pessoa que a pratica nem o caso de um cliente."
+intro: "Transforme em peça a sua opinião mais forte, a mesma dos campos 05 e 07. O assunto é uma prática da sua área, e nunca a pessoa que a pratica nem o caso de um cliente."
 regras:
   - {regra: "Diga o custo em voz alta.", porque: "Dito como fato, sem heroísmo, o custo prova que você acredita no que diz. Sem ele, a frase soa como propaganda."}
   - {regra: "Dê a razão junto com a posição.", porque: "Posição sem razão é teimosia. Com a razão e um caso típico, vira critério, e critério as pessoas adotam."}
@@ -171,7 +171,7 @@ evite:
   - Indireta a um colega, a um concorrente ou a um cliente reconhecível.
   - Discordar de algo que ninguém de fato defende.
   - Amaciar a posição até ela caber em qualquer boca. Nesse ponto, ela deixou de existir.
-esqueleto_rotulo: "Passe a limpo, em frases de quem lê, uma das três opiniões com o que anotou nos campos 04, 05 e 07"
+esqueleto_rotulo: "Passe a limpo, em frases de quem lê, a sua opinião mais forte, com o que anotou nos campos 04, 05 e 07"
 esqueleto:
   - {rotulo: "A posição", texto: "Dita na primeira linha, sem preâmbulo.", linhas: 2}
   - {rotulo: "O custo", texto: "O que defender isso já custou ou pode custar a você.", linhas: 2}

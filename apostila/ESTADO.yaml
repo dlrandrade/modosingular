@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 06:46
+# atualizado: 2026-09-28 06:49
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -317,7 +317,7 @@ capitulos:
       veredito: aprovado
     nota: 9.1
   10:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 02:07
@@ -337,7 +337,16 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.79
+    - iteracao: 3
+      data: 2026-09-28 06:49
+      revisao: apostila/revisoes/cap10-r3.yaml
+      media: 9.04
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.04
   11:
     status: reprovado
     iteracoes:
@@ -388,7 +397,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   24:
-    status: planejado
+    status: rascunho
     iteracoes: []
   25:
     status: planejado
@@ -413,6 +422,7 @@ figurantes:
   - 1
   engenheiro estrutural:
   - 1
+  - 10
   contadora:
   - 1
   - 3
@@ -447,6 +457,7 @@ figurantes:
   corretor de seguros:
   - 4
   - 1
+  - 24
   mecânico de motos:
   - 6
   confeiteira:
@@ -516,6 +527,7 @@ figurantes:
   - 14
   designer de interiores:
   - 5
+  - 10
   veterinário:
   - 15
   farmacêutico:

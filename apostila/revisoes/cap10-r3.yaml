@@ -1,0 +1,73 @@
+capitulo: 10
+iteracao: 3
+notas: {metodo: 9.2, voz: 9.1, originalidade: 9.0, clareza: 9.1, ritmo: 8.9, concretude: 9.3,
+        coerencia: 8.8, aplicabilidade: 8.9, impresso: 8.6, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - 'A r2 foi absorvida quase inteira, e sem abrir novas contradições no ponto central: a recusa da casadinha agora é posição por um motivo dito ("Recusá-la, naquela praça, é uma posição"), a irritação do "sempre fiz assim" ganhou custo ("já lhe custou mais de uma primeira reunião"), a empresária virou dona de "três lojas de material de construção" (sem colisão com a lavanderia do cap. 4), a verificação 03 deixou de negar o caso típico ("sem o caso das padarias") e o Caio agora prepara o "Ainda em aberto" do cap. 12 ("nunca precisou defendê-la contra ninguém: até hoje, todo cliente que a ouviu concordou").'
+  - 'A cena de abertura segue a melhor da Fase II em detalhe de ofício e em silêncio: a juíza que "pergunta ao trabalhador, diretamente, quem escolheu o advogado dele", "só se ouvia o barulho do forno da loja", e a resposta que fecha sem sermão: "estava do lado da padaria, e por isso mesmo não faria". O modo do Otávio (pior hipótese, folha à mão) aparece na primeira cena, como pede a lição cap01-r2.'
+  - 'O desfecho é honesto e não vira prêmio: "Não era uma troca: a conta das lojas pagava menos de um terço da das padarias, e Otávio sabia que podia não ter vindo ninguém." E o fecho respeita o arco (agência suspensa até o cap. 24) terminando em consequência: "Mas já sabia o quê, e quanto custava."'
+  - 'A oficina ficou bem dimensionada e rastreável: custo, caso típico e contra-argumento em campos separados (04, 05, 07), critério verificável no papel ("um porquê que não depende de ninguém concordar com você"), checklist remetendo aos campos e o esqueleto em "passe a limpo" com 2 linhas por parte, como pede a lição cap02-r2.'
+problemas:
+  - criterio: coerencia
+    trecho: 'Os outros três personagens pagam os seus.'
+    por_que: 'A frase de abertura do parágrafo contradiz o fim do mesmo parágrafo. A correção da r2 trocou a frase do Caio ("nunca precisou defendê-la contra ninguém [...] Uma frase que nunca custou nada ainda não diz onde ele está") mas manteve o anúncio de que os três pagam. O leitor lê, a quatro linhas de distância, que o Caio paga e que o Caio nunca pagou. A r2 já tinha indicado a troca da primeira frase.'
+    correcao: '"Lúcia e Renata pagam os seus. [...] Caio ainda não pagou nenhum. Repete há anos a frase do taco de peroba, que vale mais raspado do que arrancado, mas nunca precisou defendê-la contra ninguém: [...]"'
+  - criterio: aplicabilidade
+    trecho: 'Escolha uma das três opiniões e transforme em peça.'
+    por_que: 'A rede e o esqueleto pedem "uma das três opiniões com o que anotou nos campos 04, 05 e 07", mas os campos 05 e 07 só existem para "a sua opinião mais forte". Quem escolher a opinião 2 ou 3 para a peça chega ao esqueleto sem caso típico e sem contra-argumento escritos, justamente as partes "A razão" e "O outro lado" (lição cap02-r1: o esqueleto precisa servir ao que a oficina produziu).'
+    correcao: 'Intro da rede: "Transforme em peça a sua opinião mais forte, a mesma dos campos 05 e 07. O assunto é uma prática da sua área, e nunca a pessoa que a pratica nem o caso de um cliente." esqueleto_rotulo: "Passe a limpo, em frases de quem lê, a sua opinião mais forte, com o que anotou nos campos 04, 05 e 07".'
+  - criterio: ritmo
+    trecho: 'A lei proíbe a ação simulada, mas a casadinha tinha nome no corredor do fórum porque a banca que ficou com a conta faz, e não é a única, e o cliente sabia onde encontrar quem fizesse.'
+    por_que: 'É a frase mais truncada do capítulo, lida em voz alta: tempos misturados ("tinha nome [...] porque [...] faz"), três orações encadeadas por "e", uma intercalada no meio. Na frase seguinte volta "o escritório que ficou com a conta", e no parágrafo seguinte "levou a conta para um escritório que fazia a casadinha": a mesma informação três vezes em oito linhas, com "conta" em dois sentidos (12 ocorrências na prosa). Além disso, "coisa que o escritório que ficou com a conta não pensa" é o narrador julgando o concorrente pelo que ele pensaria, uma pequena indireta no capítulo que ensina a não fazê-las, e algo que Otávio não tem como saber.'
+    correcao: '"A recusa da casadinha custou ao Otávio um contrato de nove anos, o custo mais visível. A lei proíbe a ação simulada, mas a prática tinha apelido no corredor do fórum, havia banca disposta a fazê-la, e o cliente sabia onde procurar. Naquela praça, recusá-la era uma posição. A frase da folha ia além: defender o dono às vezes é contrariá-lo. Há opiniões que custam [...]"'
+  - criterio: metodo
+    trecho: 'A justa causa sem prova. O “sempre fiz assim”. Três opiniões, todas com o custo anotado ao lado, nenhuma com nome de cliente.'
+    por_que: 'O capítulo aplica o teste do custo a duas das três opiniões do Otávio e esquece a terceira. A casadinha custou o contrato; o "sempre fiz assim" custou "mais de uma primeira reunião"; a justa causa ("ele acha que a justa causa mal fundamentada é a que mais volta como condenação") não tem custo nenhum no texto, e a cena afirma que todas têm. É o mesmo tipo de furo que a r2 apontou no "sempre fiz assim", agora deslocado. A justa causa ainda aparece três vezes (prosa, comparação e quadro), sem ganho novo na terceira (lição cap02-r1).'
+    correcao: 'No parágrafo do Otávio: "[...] ele acha que a justa causa mal fundamentada é a que mais volta como condenação, e dizer isso lhe custa o empresário que chega querendo ouvir que dá para economizar." Na comparação, trocar o item da justa causa (ver problema seguinte).'
+  - criterio: originalidade
+    trecho: '“Justa causa sem prova é a rescisão mais cara que existe.”'
+    por_que: 'A coluna "Posição com contorno" tem três itens, todos de advocacia, dois deles repetindo opiniões do Otávio que o leitor acabou de ler. A coluna da esquerda é genérica de saúde ("É importante procurar um bom profissional", "Prevenir é sempre o melhor caminho"). A comparação perde as duas coisas que deveria mostrar: que qualquer área tem as duas versões, e que a versão com contorno nasce da mesma frase morna. A estrutura_do_capitulo pede exemplos em profissões variadas.'
+    correcao: 'Manter "Se prometeram prazo fechado para o seu processo [...]" e o do advogado de empresa; trocar o terceiro por uma profissão ausente dos caps. 9 a 11 que responda ao "Prevenir é sempre o melhor caminho", por exemplo um engenheiro estrutural: "“Laudo de vistoria feito sem abrir o forro é chute assinado. Cobro mais para abrir, e perco a obra para quem não abre.”"'
+  - criterio: coerencia
+    trecho: 'Corretora de imóveis: "Anúncio com a metragem da garagem somada à do apartamento. Quem compra descobre na escritura, com a vaga registrada à parte."'
+    por_que: 'Apontado na r2 e não resolvido. O cap. 11, vizinho, abre com uma corretora em cena (a que "tentou suavizar" a frase do Caio), e o ESTADO.yaml já registra corretora de imóveis no cap. 2. Duas corretoras seguidas, uma como exemplo de opinião com contorno e outra como quem amacia o diagnóstico, confundem o leitor e contrariam a lição cap02-r2 (profissões de figurantes não se repetem em capítulos vizinhos). Corretora de imóveis também não está na lista de figurantes_permitidos.'
+    correcao: 'Trocar por uma profissão livre, por exemplo designer de interiores (só no cap. 5): "Designer de interiores: “Projeto em 3D com sofá que não passa pela porta do prédio. O cliente descobre no dia da entrega, com o caminhão na calçada.”" Se o engenheiro estrutural for para a comparação, não usá-lo também aqui.'
+  - criterio: clareza
+    trecho: 'Se as contas estão certas, não há razão para esconder o advogado de cada lado'
+    por_que: '"Esconder o advogado de cada lado" não diz o que o texto quer dizer. O problema da casadinha é que o gerente tem um advogado escolhido e pago pela empresa; nada está escondido "de cada lado". A resposta ao melhor argumento contrário é o ponto que a oficina manda imitar (campo 07), e precisa ser inequívoca.'
+    correcao: '"Se as contas estão certas, não há razão para o gerente não ter um advogado escolhido por ele; e quando o acordo cai, quem paga a conta é a empresa que o acordo deveria proteger."'
+  - criterio: clareza
+    trecho: 'Otávio começa qualquer conversa pela pior hipótese, e tinha visto essa acontecer.'
+    por_que: '"Essa" está no singular e aponta para uma hipótese, mas em seguida vêm três desfechos diferentes ("Ele contou as três ao Seu Ednaldo"). O leitor tropeça no referente logo no parágrafo que mostra o modo do personagem.'
+    correcao: '"Otávio começa qualquer conversa pela pior hipótese, e daquela conhecia três versões, todas vistas de perto."'
+  - criterio: aplicabilidade
+    trecho: 'Um corretor de seguros: “Não vendo seguro de vida com o valor que o cliente pede quando a conta da família não fecha com ele. Perco a venda para quem vende o que pediram.”'
+    por_que: '"Quando a conta da família não fecha com ele" é ambíguo (com o cliente? com o valor?). O exemplo abre a oficina e é o modelo de recusa que o leitor vai copiar; precisa entregar a régua inteira (lição cap02-r2).'
+    correcao: '"Um corretor de seguros: “Não vendo seguro de vida com o capital que o cliente pede quando esse valor não sustenta a família nem por um ano. Perco a venda para quem vende o que pediram.”"'
+  - criterio: honestidade
+    trecho: 'justo a que o banco pede para renovar o capital de giro'
+    por_que: 'A certidão negativa de débitos trabalhistas é exigida por lei em licitações; que "o banco" a peça para renovar capital de giro não é regra geral, e um advogado trabalhista pode estranhar a generalização no parágrafo que existe para mostrar domínio técnico (lições cap02-r2 e cap09-r1: na dúvida, formular pelo que é certo).'
+    correcao: '"com o nome no cadastro de devedores trabalhistas e a certidão trabalhista positiva, justo a que se pede em licitação e em muitos pedidos de crédito."'
+  - criterio: coerencia
+    trecho: 'Não é preciso inventar opiniões. Elas já existem, espalhadas pela rotina, e aparecem em quatro lugares.'
+    por_que: 'O cap. 9 termina a sua seção central com uma remissão explícita a este ("O que você defende a partir disso, inclusive quando custa um cliente, é opinião, e fica para o capítulo 10. Um alimenta o outro."). O cap. 10 não recolhe o fio: o leitor que acabou de extrair padrões e exceções não é informado de que é dali que a opinião sai, e a oficina não aproveita o que ele escreveu no cap. 9.'
+    correcao: 'Uma frase no início da seção: "Não é preciso inventar opiniões. O repertório do capítulo anterior é o que você viu; a opinião é o que você defende a partir dele, e ela já aparece em quatro lugares da rotina." No exemplo do campo 05, acrescentar: "Pode ser o caso que você escreveu no capítulo 9."'
+  - criterio: aplicabilidade
+    trecho: 'tempo: 30'
+    por_que: 'Sete campos, 23 linhas manuscritas, três opiniões a formular do zero e um contra-argumento a construir com justiça. Trinta minutos é otimista para o leitor que escreve à mão e pensa antes de escrever (lição cap08-r1: tempo honesto).'
+    correcao: 'tempo: 40, ou manter 30 com tempo_nota: "Trinta minutos se as opiniões já estiverem claras; o campo 07 costuma pedir mais."'
+edicoes_de_linha:
+  - 'O Seu Ednaldo levou a conta -> Seu Ednaldo levou a conta (sem artigo, como no resto do capítulo)'
+  - 'Só que ela protege um lado só. -> Mas ela protege um lado só.'
+  - 'Seu Ednaldo discordava, e o amigo dele também, e todos os empresários a quem o amigo tinha ensinado o truque. -> Seu Ednaldo discordava dela, como o amigo dele e todos os empresários a quem o amigo tinha ensinado o truque.'
+  - 'Dois deles surgiram no capítulo 3 como sinais de autoridade; aqui interessam por outro motivo, o preço que cobram. -> Dois deles, a recusa e a mudança de opinião, apareceram no capítulo 3 como sinais de autoridade; aqui contam pelo preço que cobram.'
+  - 'legenda: Esquema ilustrativo. A divergência sozinha leva -> legenda: A divergência sozinha leva (o selo da figura já diz "esquema ilustrativo")'
+  - 'O custo de cada uma: quem você perde, o que deixa de ganhar, com quem fica mal -> O custo de cada uma: quem você perde, o que deixa de ganhar, com quem se indispõe (evita o "mal" sozinho na segunda linha, p020)'
+diagramacao:
+  - 'p014: cerca de um quinto da página em branco depois de "ainda não diz onde ele está.", porque a Figura 10.1 foi inteira para a p015. Apontado na r1 e na r2 e não resolvido. Reduzir a altura do quadrante em 10 a 15% ou permitir que o parágrafo "No canto de baixo..." venha antes da figura.'
+  - 'p016: cerca de um quinto em branco depois de "primeira reunião.", porque a comparação desceu para a p017. Terceira vez. Permitir que o parágrafo do calor venha antes da Tabela 10.1 ou encurtar a comparação (três itens por coluna, sem o item-resumo).'
+  - 'p015, Figura 10.1: o eixo Y continua com um rótulo vertical na base ("Abandona quando custa") e outro horizontal no topo ("Sustenta mesmo pagando"); em "Polêmica gratuita" e "A sua posição" o ponto fica à direita do rótulo, nos outros à esquerda. Terceira vez apontado. A legenda também encosta nos rótulos do eixo X, com menos de uma linha de respiro.'
+  - 'p022: cerca de um quarto em branco no pé, porque o roteiro de fala foi inteiro para a p023. Somado aos 40% em branco da p021 (aceito, antes do esqueleto), são mais de meia página vazia na seção de rede. Permitir que Faça/Evite ou a nota do roteiro quebrem, ou reduzir o respiro do esqueleto.'
+  - 'p020: o rótulo do campo 04 quebra deixando "mal" sozinho na segunda linha (ver edição de linha).'
+veredito: 'Capítulo quase pronto: a r2 foi resolvida no essencial e a cena central segue excelente, mas restam uma contradição interna herdada (os "três personagens" que pagam, com o Caio que não paga), a rede que manda escolher qualquer opinião quando a oficina só preparou a mais forte, um parágrafo do teste do custo truncado e repetitivo, e os mesmos brancos e a mesma figura apontados duas vezes.'
