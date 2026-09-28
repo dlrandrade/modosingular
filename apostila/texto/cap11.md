@@ -8,13 +8,13 @@ ilustracao: impressao-digital
 legenda_ilustracao: Ninguém escolhe a própria digital. Basta parar de apagá-la.
 ---
 
-A visita era para dar uma opinião rápida. Um casal jovem tinha encontrado um apartamento de 1971 no Botafogo, em Campinas, a duas quadras da antiga estação de trem, com preço bom e três quartos, e queria saber se valia a pena antes de assinar a proposta. Caio chegou num sábado de manhã, cumprimentou a corretora, e começou como sempre começa: atravessou a sala contando os passos, de uma parede à outra, em silêncio.
+A visita era para dar uma opinião rápida. Um casal jovem tinha encontrado um apartamento de 1964 no Botafogo, em Campinas, a duas quadras da antiga estação de trem, com preço bom e três quartos, e queria saber se valia a pena antes de assinar a proposta. Caio chegou num sábado de manhã, cumprimentou a corretora e começou como sempre começa: atravessou a sala contando os passos, de uma parede à outra, em silêncio.
 
 No quarto dos fundos, parou diante de uma parede recém-pintada, de um branco que ainda cheirava a tinta. Encostou o polegar perto do rodapé e apertou. A tinta cedeu um pouco, como a casca de um bolo mal assado. Caio abriu a porta do armário embutido, olhou o canto de dentro, que ninguém tinha pintado, e mostrou à cliente a mancha escura subindo do chão. Então disse, sem levantar a voz: "Essa parede está mentindo para vocês."
 
-A cliente riu, meio sem graça, e pediu que ele explicasse. Caio explicou que a tinta nova servia para esconder uma infiltração antiga, provavelmente do banheiro da suíte, do outro lado da parede, e que o problema estava menos na mancha do que no cano que a alimentava. Disse quanto custava, por alto, abrir, trocar e fechar, em quanto tempo, e o que isso fazia com o preço justo do apartamento. Terminou com a frase que diz a todo cliente há anos, meio de brincadeira: "Toda parede tem uma história, e metade é mentira."
+A cliente riu, meio sem graça, e pediu que ele explicasse. Caio explicou que a tinta nova servia para esconder uma infiltração antiga, provavelmente do banheiro da suíte, do outro lado da parede, e que o problema estava menos na mancha do que no cano que a alimentava. Disse quanto custava, por alto, abrir, trocar e fechar, em quanto tempo, e o que isso fazia com o preço justo do apartamento. Terminou com a frase que o mestre de obras já sabe de cor, meio de brincadeira: "Toda parede tem uma história, e metade é mentira."
 
-A corretora, que acompanhava a visita encostada no batente, não gostou da frase e tentou suavizar: toda casa antiga tem alguma coisa, disse, e aquilo se resolvia com uma demão de impermeabilizante. Caio não discutiu. Pediu licença à corretora, tirou a chave do carro do bolso e raspou um palmo de tinta perto do rodapé e mostrou o reboco esfarelando por baixo, úmido ao toque. A cliente passou o dedo, cheirou, e a conversa sobre o impermeabilizante acabou ali.
+A corretora, que acompanhava a visita encostada no batente, não gostou da frase e tentou suavizar: toda casa antiga tem alguma coisa, disse, e aquilo se resolvia com uma demão de impermeabilizante. Caio não discutiu. Pediu licença à corretora, tirou a chave do carro do bolso e raspou um palmo de tinta junto ao chão. Por baixo, o reboco esfarelava, úmido ao toque. A cliente passou o dedo, cheirou, e a conversa sobre o impermeabilizante acabou ali.
 
 Duas semanas depois, o casal renegociou o valor com o vendedor e fechou o projeto de reforma com ele. Na primeira reunião, a cliente contou que tinha chegado em casa naquele sábado e dito ao marido, que não tinha ido à visita: "O arquiteto disse que a parede estava mentindo." O marido entendeu na hora. Não precisou de laudo, de foto ou de explicação técnica para saber que havia um problema e que alguém o tinha visto.
 
@@ -24,11 +24,11 @@ Não era a primeira vez que um cliente levava para casa as palavras dele; o dono
 
 A cliente não repetiu ao marido a informação técnica. Não disse "há indícios de vazamento na tubulação embutida da parede hidráulica". Repetiu a frase do Caio, com as palavras dele, porque era a frase que carregava tudo: o problema, a desconfiança, o tom de quem já viu aquilo muitas vezes. E a frase viajou de um sábado para um jantar, de uma pessoa para outra, sem perder nada no caminho.
 
-Caio só percebeu o que tinha acontecido quando comparou aquela frase com o que tinha publicado na mesma semana. Depois do vídeo do piso de granilite, gravado numa tomada só, tinha escrito, com cuidado, a legenda de uma foto de obra: "É fundamental realizar uma vistoria técnica criteriosa antes da aquisição de imóveis antigos." A frase estava certa. Qualquer arquiteto do país poderia tê-la escrito, e nenhum cliente a repetiria em casa.
+Naquela noite, depois da reunião, Caio abriu o próprio perfil e releu a legenda que tinha publicado na semana da visita. Depois do vídeo do piso de granilite, gravado numa tomada só, tinha escrito, com cuidado, a legenda de uma foto de obra: "É fundamental realizar uma vistoria técnica criteriosa antes da aquisição de imóveis antigos." A frase estava certa. Qualquer arquiteto do país poderia tê-la escrito, e nenhum cliente a repetiria em casa.
 
 Caio não inventou esse desvio. No consultório, na obra, na reunião, a gente fala do próprio jeito, com as próprias comparações, com as expressões da própria cidade. Na hora de escrever uma legenda, troca tudo por um vocabulário que parece mais adequado para a internet, mais sério, mais neutro. E apaga, sem perceber, justamente a parte que faria alguém reconhecer quem escreveu.
 
-Os motivos se entendem. A escola ensinou que texto escrito é mais formal que a fala, e a faculdade acrescentou o hábito de escrever para a banca. Há também o medo de parecer pouco sério, maior em quem atende com cuidado e não quer ser confundido com quem faz piada na internet. E há a imitação involuntária: de tanto ver legendas parecidas, a pessoa acaba achando que aquele é o jeito certo de escrever uma legenda. O resultado é um texto que ninguém reprovaria e ninguém repetiria.
+Os motivos se entendem. A escola ensinou que texto escrito é mais formal que a fala, e a faculdade acrescentou o hábito de escrever para a banca. Há também o medo de parecer pouco sério, que pesa em quem atende com cuidado e não quer ser confundido com quem faz piada na internet. E há a imitação involuntária: de tanto ver legendas parecidas, a pessoa acaba achando que aquele é o jeito certo de escrever uma legenda. O resultado é um texto que ninguém reprovaria e ninguém repetiria.
 
 ```conceito
 termo: Léxico próprio
@@ -46,12 +46,12 @@ Tabela: As quatro partes de uma voz reconhecível
 
 | Parte | O que é | Como encontrar em você |
 |---|---|---|
-| Palavras-âncora | Termos e expressões que você usa e os colegas não usam | Nas transcrições das suas explicações, circule o que se repete |
+| Palavras-âncora | Termos e expressões que você usa e os colegas não usam | Nas suas explicações reais (transcrições, e-mails, respostas), circule o que se repete |
 | Campo das comparações | O lugar de onde você tira as suas analogias | Você compara com futebol, cozinha, trânsito, música, obra? |
-| Estrutura de frase | Curta e seca, ou longa e cheia de ramos | Conte as palavras das suas últimas cinco frases faladas |
+| Estrutura de frase | Curta e seca, ou longa e cheia de ramos | Conte as palavras de cinco frases seguidas de uma explicação sua |
 | Ponto de entrada | Por onde você começa a explicar | Pelo erro comum, por uma história, por uma pergunta, pela conclusão? |
 
-O léxico do Caio, montado a partir de três áudios que ele mandou a clientes, cabia numa ficha. As palavras-âncora eram "mentira", "história" e "honesto", aplicadas a coisas: parede honesta, piso honesto, janela que conta a história do prédio. As comparações vinham de gente, e não de engenharia. A estrutura era de frases curtas, quase sempre seguidas de uma pausa. E o ponto de entrada era sempre o mesmo, a ponto de o mestre de obras imitá-lo no canteiro: "Teve uma obra…".
+O léxico do Caio, montado a partir de três áudios que ele mandou a clientes, cabia numa ficha. As palavras-âncora eram "mentira", "história" e "honesto", aplicadas a coisas: parede honesta, piso honesto, janela que conta a história do prédio. As comparações vinham de gente. A estrutura era de frases curtas, quase sempre seguidas de uma pausa. E o ponto de entrada era sempre o mesmo, a ponto de o mestre de obras imitá-lo no canteiro: "Teve uma obra…".
 
 ```figura
 tipo: ficha
@@ -63,7 +63,7 @@ linhas:
   - {rotulo: "Estrutura", valor: "Frases curtas, com pausa depois da afirmação. Nunca mais de uma ideia por frase."}
   - {rotulo: "Ponto de entrada", valor: "Quando explica, começa por uma obra: “Teve uma obra…”. A conclusão vem no fim."}
   - {rotulo: "Nunca diz (e escrevia)", valor: "“É fundamental”, “aquisição”, “solução”, “ambiente clean”: nenhuma aparece nos áudios; todas apareciam nas legendas."}
-legenda: A ficha do Caio foi montada a partir de três áudios reais que ele mandou a clientes, transcritos sem nenhuma correção. A sua sai do mesmo jeito, na oficina.
+legenda: A ficha do Caio foi montada a partir de três áudios reais que ele mandou a clientes, transcritos sem nenhuma correção. A sua sai do mesmo jeito, na oficina, a partir de três explicações reais no seu modo.
 ```
 
 Os outros três personagens também têm fichas, e nenhuma se parece com a dele. Renata fala com as mãos e compara a coluna a coisas que dobram ou não dobram: a mangueira de jardim que enverga inteira, o cabo de vassoura que quebra no ponto fraco; a palavra-âncora dela é "alarme". Otávio começa pela pior hipótese e usa a palavra "prova" com a precisão de quem vive dela. Lúcia responde a uma pergunta com outra pergunta antes de responder, e evita, com um cuidado que virou marca, qualquer palavra que soe como diagnóstico.
@@ -83,7 +83,7 @@ itens:
   - O jeito próprio de discordar sem agredir, que some quando o texto tenta soar objetivo.
 ```
 
-Na legenda da vistoria criteriosa, Caio tinha perdido quatro das cinco de uma vez: a parede que mente, o jeito de Campinas de dizer as coisas, o bordão e a pausa antes de dar a má notícia. A quinta ele nunca tinha levado para uma legenda, porque nunca tinha discordado de ninguém em público.
+Na legenda da vistoria criteriosa, Caio tinha perdido quatro das cinco de uma vez: a parede que mente, o "não mexe no que está quieto" que ele diz em toda obra de Campinas, o bordão e a pausa antes de dar a má notícia. A quinta ele nunca tinha levado para uma legenda, porque nunca tinha discordado de ninguém em público.
 
 O bordão é a perda mais fácil de justificar. Você já disse aquela frase tantas vezes que ela parece desgastada, quase um tique. Mas quem a ouve pela primeira vez não sabe disso, e quem a ouve pela décima começa a associá-la a você. "Toda parede tem uma história, e metade é mentira" cansou o Caio muito antes de cansar qualquer cliente dele. Uma frase que você repete há anos é, para quem ainda não conhece você, a coisa mais reconhecível que você tem.
 
@@ -106,11 +106,11 @@ Caio fez em uma tarde. Escolheu três áudios que tinha mandado a clientes nas �
 
 A etapa final é transformar a ficha em regras. Cinco bastam, escritas como descrição do que você já faz: eu começo por uma obra; eu uso frases curtas; eu comparo coisas com gente; eu digo o preço quando falo de problema; eu nunca escrevo "é fundamental". Essas cinco linhas viram um manual de voz, a régua com que você revisa qualquer texto que leve o seu nome antes de publicar.
 
-O modo de cada um muda a dificuldade do exercício. Para Renata, que pensa falando, foi fácil: ela já gravava áudios no estacionamento da clínica, e bastou transcrever três. Otávio, que pensa escrevendo, teve o trabalho inverso. Os textos dele já eram dele, mas os e-mails a clientes, escritos às pressas, tinham um léxico mais vivo que os pareceres, e foi neles que encontrou a ficha. Lúcia pediu à amiga do grupo de estudos que lesse três respostas que ela tinha dado por áudio no grupo e sublinhasse o que soava como Lúcia.
+O modo de cada um muda a dificuldade do exercício. Para Renata, que pensa falando, foi fácil: bastou escolher três dos áudios que já tinha no celular e transcrevê-los. Otávio, que pensa escrevendo, teve o trabalho inverso. Os pareceres já eram dele, mas os e-mails a clientes, escritos às pressas, tinham um léxico mais vivo que os pareceres, e foi neles que encontrou a ficha. Lúcia pediu à amiga do grupo de estudos que lesse três respostas que ela tinha dado por áudio no grupo e sublinhasse o que soava como Lúcia.
 
 O manual serve também para quem ajuda você a produzir. Otávio, com a agência suspensa desde o capítulo 4, releu a ficha dele e entendeu o que tinha faltado aos quinze posts por mês: uma folha que dissesse a quem escreve no nome dele como ele escreve. Sem ela, qualquer agência volta ao "Você sabia?", que é o vocabulário de ninguém.
 
-Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte. Apagou a vistoria técnica criteriosa e escreveu o que diria ao casal do Botafogo: "Teve uma obra em que a parede mais bonita do apartamento era a que mais mentia. Tinta nova por cima de infiltração velha. Antes de comprar, abra os armários." Três pessoas comentaram contando a própria parede mentirosa. Uma delas, que Caio não conhecia, escreveu que tinha ido abrir os armários do apartamento que estava para comprar.
+Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte. Apagou a vistoria técnica criteriosa e escreveu o que diria ao casal do Botafogo: "Teve uma obra em que a parede mais bonita do apartamento era a que mais mentia. Tinta nova por cima de infiltração velha. Antes de comprar, abra os armários." Três pessoas comentaram contando a própria parede mentirosa. Uma delas, que Caio não conhecia, contou que tinha ido abrir os armários do apartamento que estava para comprar.
 
 Caio guardou a ficha de léxico na mesma pasta dos projetos em andamento, junto com as plantas, e passou a relê-la antes de escrever qualquer legenda. Leva menos de um minuto. Na maior parte das vezes, encontra uma "solução" para apagar, e no lugar dela escreve o que diria ao cliente, de pé, diante da parede.
 
@@ -124,7 +124,7 @@ Caio guardou a ficha de léxico na mesma pasta dos projetos em andamento, junto 
 titulo: O seu manual de voz
 objetivo: Tirar das suas próprias explicações o léxico que torna você reconhecível, e escrevê-lo como regras que protegem a sua voz.
 tempo: 60
-tempo_nota: conta reunir e transcrever; pode ser feito na véspera
+tempo_nota: com transcrição automática ou textos já escritos; se transcrever à mão, faça na véspera
 entrega: Trechos de três explicações transcritas sem correção, a sua ficha de léxico e cinco regras de voz.
 campos:
   - rotulo: "Reúna três explicações reais, no seu modo, e copie aqui os trechos mais seus, sem corrigir"
@@ -153,7 +153,7 @@ titulo: A comparação que sempre funciona
 intro: "Escolha uma comparação do campo 03 e construa uma peça em torno dela, sobre um assunto da sua área. É a comparação que você usa no atendimento e acha simples demais para publicar."
 regras:
   - {regra: "Produza no seu modo, edite depois.", porque: "Grave se você pensa falando; escreva rápido, à mão ou no e-mail, se pensa escrevendo; responda a uma pergunta se pensa respondendo. O que apaga a voz é corrigir enquanto produz. Limpe depois, só o que atrapalha o entendimento."}
-  - {regra: "Mantenha uma marca sua por peça.", porque: "Uma expressão da sua cidade, um bordão, uma comparação sua. É o que faz a peça soar como pessoa, e não como departamento."}
+  - {regra: "Mantenha uma marca sua por peça.", porque: "Uma expressão da sua cidade, um bordão, uma comparação sua. É o que faz a peça soar como alguém que você conhece."}
   - {regra: "Leia em voz alta antes de publicar.", porque: "Onde você tropeça lendo, não é assim que você fala. Reescreva só aquele trecho."}
 faca:
   - A sua comparação esquisita, aquela que sempre faz a ficha cair no atendimento.
@@ -177,7 +177,7 @@ roteiro: |
 
   Uso essa comparação há anos porque é com ela que a pessoa entende. Então, no seu caso, {o que isso significa na prática}.
 
-  {E feche do jeito que você fecha quando a pessoa entende.}
+  {feche do jeito que você fecha quando a pessoa entende}
 roteiro_nota: Uma comparação por peça. Se ela simplifica algo de saúde, direito ou finanças, diga onde a comparação para de valer.
 ```
 
