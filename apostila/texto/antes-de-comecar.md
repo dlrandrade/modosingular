@@ -1,6 +1,6 @@
 # Antes de começar
 
-Este livro foi escrito para quem já é bom no que faz. Se você atende, diagnostica, projeta, defende, ensina ou aconselha, e as pessoas que passam pela sua sala saem convencidas de que encontraram a pessoa certa, você está no lugar certo. O problema que ele resolve é específico: a distância entre essa pessoa que os seus clientes conhecem e aquela que aparece para quem ainda não te conhece.
+Este livro foi escrito para quem já é bom no que faz. Se você atende, diagnostica, projeta, defende, ensina ou aconselha, e as pessoas que passam pela sua sala saem convencidas de que encontraram a pessoa certa, você está no lugar certo. O problema que ele resolve é específico: a distância entre essa pessoa que os seus clientes conhecem e aquela que aparece para quem ainda não conhece você.
 
 Ele não vai ensinar você a virar criador de conteúdo, nem a imitar quem já é. Vai ajudar você a descobrir como pensa, a enxergar o material que a sua rotina produz sem que você perceba e a transformar esse material, com um método, em presença pública. O que você publicar ao longo do caminho será sempre sobre a sua área: a coluna, o contrato, o balanço, a obra, a ansiedade, o dente. O método é a ferramenta. O assunto é seu.
 
@@ -46,6 +46,6 @@ Os quatro são personagens compostos, feitos de traços de muitos especialistas 
 
 **Sobre números.** Alguns esquemas deste livro usam barras e curvas para mostrar uma ideia. Quando os tamanhos são ilustrativos, a figura traz o selo *esquema ilustrativo*. Eles mostram uma relação, e não uma medida. Os números que valem são os que você vai levantar sobre a sua própria prática.
 
-**Sobre resultados.** Ninguém pode prometer quantos clientes a sua presença vai trazer, e este livro não promete. O que ele oferece é um método para que aquilo que você já é chegue a quem ainda não te conhece, de um jeito que você consiga sustentar. O resto depende do seu mercado, do seu ritmo e do tempo.
+**Sobre resultados.** Ninguém pode prometer quantos clientes a sua presença vai trazer, e este livro não promete. O que ele oferece é um método para que aquilo que você já é chegue a quem ainda não conhece você, de um jeito que você consiga sustentar. O resto depende do seu mercado, do seu ritmo e do tempo.
 
 Quando estiver pronto, vire a página. O primeiro capítulo começa num consultório em Curitiba.

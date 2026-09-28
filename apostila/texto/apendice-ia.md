@@ -2,11 +2,12 @@
 
 Em algum momento você vai pensar em pedir ajuda a uma inteligência artificial para organizar um texto, cortar um roteiro ou transformar um áudio em legenda. Pode fazer isso, com uma condição: a IA entra só depois que a matéria-prima já existe, e só para dar forma. Ela não escolhe o assunto, não inventa o caso e, principalmente, não decide a sua opinião. É a mesma regra que o capítulo 4 aplica a agências, e pelo mesmo motivo: o que diferencia você é justamente a parte que não se transfere.
 
-Três cuidados valem para qualquer ferramenta:
+Quatro cuidados valem para qualquer ferramenta:
 
 - **Entregue matéria-prima, e não tema.** Um pedido como "escreva sobre ansiedade" produz o texto médio da internet. Uma transcrição de três minutos da sua fala produz um texto seu, mais arrumado.
 - **Revise com uma única pergunta: "eu falaria assim?"** Tudo o que não passar nessa pergunta sai, por mais bem escrito que esteja.
 - **Guarde para você a última frase.** É nela que mora a opinião. Escreva à mão, depois digite.
+- **Nunca cole o que identifica alguém.** Nome, data, cidade, setor ou detalhe de cliente e paciente não entram no pedido. Use só capturas já liberadas no calendário do capítulo 19: uma ferramenta externa é um terceiro, e o sigilo vale também diante dela.
 
 O modelo abaixo foi pensado para ser copiado e completado. As partes entre chaves são suas.
 
@@ -21,7 +22,10 @@ O assunto é a MINHA área: o que eu faço, o que eu vejo, o que eu resolvo.
 TÉCNICA QUE EU VOU USAR (é a forma do raciocínio, NÃO o assunto)
 {o conceito do capítulo, com a definição do box}
 
-MINHA MATÉRIA-PRIMA (o conteúdo tem de sair daqui)
+MEU MANUAL DE VOZ (siga à risca)
+{as cinco regras do seu manual, do capítulo 11}
+
+MINHA MATÉRIA-PRIMA (o conteúdo tem de sair daqui, sem nada que identifique alguém)
 {o que você escreveu na oficina, ou a transcrição de um áudio de dois minutos}
 
 O QUE EU QUERO
