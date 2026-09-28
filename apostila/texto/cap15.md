@@ -12,15 +12,15 @@ Renata gravou o primeiro rascunho no carro, numa noite de chuva, sem dificuldade
 
 O áudio saiu emocionado e comprido. Ao transcrever, percebeu que tinha usado as palavras "complexo", "desafiador" e "gratificante" em menos de um minuto. Percebeu também outra coisa, mais incômoda: ninguém que a ouvisse teria o problema daquele senhor. A maioria dos pacientes que ela atende chega andando, com uma dor que vai e volta há meses, e nenhuma cirurgia no histórico. Aquela história provava que Renata era capaz de resolver o raro. Nenhum dos pacientes que ela queria atender se achava raro.
 
-Guardou o áudio e foi atrás de um caso que parecesse sem graça. Encontrou-o na margem de uma ficha de avaliação de mais de um ano antes, a lápis: uma linha de quatro palavras e uma seta, "dor às segundas → sábado". Era de uma paciente de quarenta e poucos anos, que tinha chegado com uma lombalgia comum, sem nada nos exames, e que melhorou em cinco semanas sem nenhum milagre.
+Guardou o áudio e foi atrás de um caso que parecesse sem graça. Encontrou-o na margem de uma ficha de avaliação de mais de um ano antes, a lápis: uma linha de quatro palavras e uma seta, "dor às segundas → sábado". Era de uma paciente de quarenta e poucos anos, que tinha chegado com uma lombalgia comum, sem nada nos exames, e que melhorou em cinco semanas, sem milagre.
 
-A paciente sentia dor todas as semanas, mas a dor era pior na segunda e na terça e quase sumia na sexta. Tinha feito alongamento, trocado o colchão, comprado uma cadeira nova para o escritório. Na terceira sessão, Renata perguntou o que ela fazia no sábado. A resposta veio sem nenhuma importância: a faxina do apartamento que ela aluga por temporada, quatro horas de joelhos e curvada entre a saída de um hóspede e a chegada do outro, lavando o banheiro e a varanda. Renata deixou os exercícios como estavam e foi ao sábado: o rodo de cabo comprido no lugar do pano de joelhos, a faxina dividida entre sábado e domingo, e uma pausa a cada hora. Na quinta semana, a segunda-feira passou a ser um dia comum.
+A paciente sentia dor todas as semanas, mas a dor era pior na segunda e na terça e quase sumia na sexta. Tinha feito alongamento, trocado o colchão, comprado uma cadeira nova para o escritório. Na terceira sessão, Renata perguntou o que ela fazia no sábado. Ela respondeu como quem fala de nada: a faxina do apartamento que ela aluga por temporada, quatro horas de joelhos e curvada entre a saída de um hóspede e a chegada do outro, lavando o banheiro e a varanda. Renata deixou os exercícios como estavam e foi ao sábado: o rodo de cabo comprido no lugar do pano de joelhos, o banheiro antes e a varanda depois de um intervalo, e uma pausa a cada hora. Na quinta semana, a segunda-feira passou a ser um dia comum.
 
 Renata pôs as duas histórias lado a lado e sentiu a tentação de voltar à primeira. Não havia cadeira de rodas, nem cirurgia, nem choro na escada. Havia uma mulher que lavava de joelhos o banheiro de um apartamento de temporada e uma fisioterapeuta que perguntou o que ela fazia no sábado. Mas o primeiro rascunho já tinha mostrado o que a primeira provava, e a segunda, por ser tão comum, falava com quase todo mundo que ela queria atender.
 
 ## O argumento e o caso
 
-Renata poderia escrever "eu investigo a rotina do paciente antes de mudar o tratamento". É verdade, e é uma afirmação sobre ela. Pede que o leitor acredite, e o leitor que ainda não a conhece não tem motivo para acreditar. Quando ela conta o caso das segundas, não afirma nada. Descreve o que aconteceu, e quem lê conclui que ela investiga a rotina. Uma conclusão a que a pessoa chegou sozinha vira dela, e ninguém discute a própria conclusão.
+Renata poderia escrever "eu investigo a rotina do paciente antes de mudar o tratamento". É verdade, e é uma afirmação sobre ela. Pede que o leitor acredite, e o leitor que ainda não a conhece não tem motivo para acreditar. Quando ela conta o caso das segundas, não afirma nada. Descreve o que aconteceu, e quem lê conclui que ela investiga a rotina.
 
 Otávio conhece bem essa diferença, porque ela é a base do ofício dele. Num processo, o advogado que afirma que a empresa agiu de boa-fé convence pouco. O que convence é a sequência de fatos, o ponto batido, a escala, a testemunha que viu, que leva o juiz a concluir que houve boa-fé. Um bom caso publicado funciona como uma boa prova numa audiência: ninguém precisa dizer o que ele mostra. Caio faz o mesmo sem dar nome ao método, como na parede que mentia do capítulo 11: começa em "teve uma obra" e termina num critério.
 
@@ -30,7 +30,7 @@ definicao: Um episódio real, sem nada que identifique alguém, escolhido porque
 porque: A afirmação gera defesa, e a narrativa gera reconhecimento. Quando alguém chega sozinho a uma conclusão, ela passa a ser dele.
 ```
 
-O que o caso prova, no sentido mais estrito, é que o critério dela funciona: a dor lombar com dia marcado costuma ter a causa dois ou três dias antes, num esforço que na hora não doeu. É um critério que a pessoa pode testar em si mesma, e é por isso que convence.
+O que o caso prova é que o critério dela funciona: quando a dor lombar tem dia marcado, ela procura dois ou três dias antes, num esforço que na hora não doeu. É um critério que a pessoa pode testar em si mesma, e é por isso que convence.
 
 ## O caso certo não é o mais bonito
 
@@ -52,17 +52,17 @@ pontos:
 legenda: Esquema ilustrativo. Sem os adjetivos, o caso do senhor da cadeira de rodas mostra um critério que serve a poucos, e fica no alto, à esquerda. O da paciente das segundas mora no alto, à direita.
 ```
 
-O caso comum tem ainda uma vantagem que o espetacular não tem: ele se repete. Renata tinha visto a dor das segundas em dezenas de pacientes, com versões diferentes do sábado: o jogo de futebol, a obra em casa, o neto no colo o dia inteiro. A paciente de quarenta e poucos anos era um exemplo de um padrão, e o padrão é o que torna o caso útil a quem lê; a lição do senhor da cadeira de rodas não se transfere.
+O caso comum tem ainda uma vantagem que o espetacular não tem: ele se repete. Renata tinha visto a dor das segundas em dezenas de pacientes, com versões diferentes do sábado: o jogo de futebol, a obra em casa, o neto no colo o dia inteiro. A paciente de quarenta e poucos anos era um exemplo de um padrão, e o padrão é o que torna o caso útil a quem lê.
 
-Para Renata, os casos comuns não pareciam casos, e por isso ela teve de procurá-los de propósito. O caderno de campo é o primeiro lugar, sobretudo as anotações que parecem sem importância. O inventário de perguntas do capítulo 14 é o segundo: por trás de cada pergunta recorrente existe um caso típico que a responde. "Por que a minha dor piora na segunda?" é uma pergunta; a paciente do sábado é a resposta contada como história.
+Para Renata, os casos comuns não pareciam casos, e por isso ela teve de procurá-los de propósito. O caderno de campo é o primeiro lugar, e as fichas antigas, com as anotações na margem, fazem o mesmo papel para quem ainda não tinha caderno. O inventário de perguntas do capítulo 14 é o segundo: por trás de cada pergunta recorrente existe um caso típico que a responde. "Por que a minha dor piora na segunda?" é uma pergunta; a paciente do sábado é a resposta contada como história.
 
-Os casos extraordinários não ficam para sempre na gaveta. Eles têm lugar depois que o especialista é conhecido pelo trabalho comum. Contado cedo demais, o milagre parece propaganda. Depois de meses de raciocínio acompanhado em público, parece consequência.
+Os casos extraordinários não ficam para sempre na gaveta. Eles têm lugar depois que o especialista é conhecido pelo trabalho comum. Contado depois de meses de raciocínio acompanhado em público, o milagre deixa de parecer propaganda.
 
 ## Os quatro tempos
 
 Um caso-prova tem quatro tempos, e cada um tem uma função. Sem o detalhe, a peça vira anedota; sem o porquê, vira propaganda; sem o critério, vira uma história bonita que ninguém consegue usar.
 
-No áudio novo, Renata contou a virada na ordem em que ela aconteceu. A paciente tinha feito tudo o que qualquer um faria: alongamento, colchão, cadeira nova. Contar isso primeiro faz quem ouve reconhecer a própria tentativa; se a história começasse pelo sábado, a lição pareceria óbvia. Então vem o detalhe que não fechava: a dor com dia marcado, que nem a paciente, nem o colchão, nem a cadeira tinham explicado. Esse tempo, o mais curto, pesa mais que os outros, porque resolver é o que se espera de qualquer profissional, e perceber o que ninguém, nem a própria paciente, tinha levado a sério é a parte do trabalho que não se copia.
+No áudio novo, Renata contou a virada na ordem em que ela aconteceu. A paciente tinha feito tudo o que qualquer um faria: alongamento, colchão, cadeira nova. Contar isso primeiro faz quem ouve reconhecer a própria tentativa; se a história começasse pelo sábado, a lição pareceria óbvia. Então vem o detalhe que não fechava: a dor com dia marcado, que nem a paciente, nem o colchão, nem a cadeira tinham explicado. Esse tempo, o mais curto, pesa mais que os outros: resolver é o que se espera de qualquer profissional, e perceber o que ninguém, nem a própria paciente, tinha levado a sério é a parte do trabalho que não se copia.
 
 A decisão vem em seguida, e mais importante do que ela é o motivo. Mexer no sábado é o enredo. O porquê, a dor que seguia a sobrecarga, e não a falta de alongamento, é o que ensina alguma coisa.
 
@@ -80,7 +80,7 @@ degraus:
 
 ## O teste do coadjuvante
 
-Para saber se um caso é prova ou vaidade, imagine quem lê, no fim da peça, e pergunte o que ele sente. Se sente admiração por você, o caso foi de vaidade, ainda que verdadeiro e bem escrito. Se sente que aprendeu a enxergar alguma coisa, foi um caso-prova. A admiração raramente faz alguém procurar um profissional; a sensação de ter entendido o próprio problema faz.
+Para saber se um caso é prova ou vaidade, imagine quem lê, no fim da peça, e pergunte o que ele sente. Se sente admiração por você, o caso foi de vaidade, ainda que verdadeiro e bem escrito. Se sente que aprendeu a enxergar alguma coisa, foi um caso-prova, e é essa sensação de ter entendido o próprio problema que leva alguém a procurar um profissional.
 
 O mesmo teste pega um erro comum na narração: transformar o cliente em coadjuvante emocionado. O choro no último degrau da escada, a gratidão da família, o abraço na despedida. São momentos reais e bonitos, e dizem pouco sobre o problema. Na peça, o protagonista é o problema, e o raciocínio que o resolveu. O cliente aparece como alguém com quem o leitor se identifica.
 
@@ -97,11 +97,11 @@ Os adjetivos denunciam a vaidade antes de qualquer teste. "Complexo", "delicado"
 
 Um caso-prova tem um limite: não promete resultado. Ele mostra um critério em funcionamento e o que aconteceu naquela situação. Não garante que vai acontecer de novo, nem com quem lê. Nas profissões regulamentadas, os códigos de ética vedam a promessa de resultado, e vários deles impõem regras próprias ao antes e depois. Confira as do seu conselho. Um caso bem contado respeita esse limite sem esforço, porque o assunto dele é o critério, e não o desfecho.
 
-O sigilo vale para o caso-prova como valeu para a tradução do capítulo 13. A paciente das segundas não tem nome, idade exata, profissão nem bairro na peça que Renata gravou. O caso tinha mais de um ano, e a peça não diz quando aconteceu. A faxina de joelhos ficou, porque era o que ensinava; o apartamento de temporada, o banheiro e a varanda sumiram, porque identificavam demais. O padrão fez o resto: qualquer pessoa com dor de segunda-feira se reconheceria, e nenhuma se veria exposta.
+O sigilo vale para o caso-prova como valeu para a tradução do capítulo 13. A paciente das segundas não tem nome, idade exata, profissão nem bairro na peça que Renata gravou. O caso tinha mais de um ano, e a peça não diz quando aconteceu. A faxina de joelhos ficou, porque era o que ensinava; o apartamento de temporada, o banheiro e a varanda sumiram, porque identificavam demais. O padrão fez o resto: a peça descreve dezenas de pacientes, e por isso não descreve nenhuma.
 
 Se o caso fosse das últimas semanas, Renata teria anotado a data na ficha e esperado. A pressa em publicar o que acabou de acontecer é compreensível, porque o caso ainda está vivo na memória, mas é essa proximidade que torna a pessoa reconhecível para si mesma e para quem convive com ela. O caso-prova não perde nada com a espera: o critério que ele mostra vale tanto hoje quanto daqui a um ano.
 
-Renata gravou a versão das segundas na terça seguinte, no carro, em dois minutos e meio. Começou pela dor que piorava no começo da semana e terminou na pergunta sobre o fim de semana anterior. Não disse nenhum adjetivo sobre o próprio trabalho. Publicou na quarta. Na sexta, no consultório, um paciente que chegava toda semana com dor de segunda-feira perguntou, antes de deitar na maca, se o futebol de sábado contava.
+Renata gravou a versão das segundas na terça seguinte, no carro, em dois minutos e meio. Começou pela dor que piorava no começo da semana e terminou na pergunta sobre o fim de semana anterior. Não disse nenhum adjetivo sobre o próprio trabalho. Publicou na quarta. Na sexta, no consultório, um paciente que tinha ouvido a peça no caminho perguntou, antes de deitar na maca, se o futebol de sábado contava.
 
 O áudio do senhor da cadeira de rodas continua guardado no celular, com uma anotação no nome do arquivo: "para quando já me conhecerem". Renata não o apagou. Sabe que, um dia, com a autorização dele e um público que já acompanha o raciocínio dela, ele vai ter lugar. Até lá, prefere os casos de segunda-feira.
 
@@ -121,7 +121,7 @@ campos:
     exemplo: "Anote os dois em uma linha cada. Use o segundo; o primeiro serve para você enxergar a diferença."
     linhas: 3
   - rotulo: "A situação como qualquer um leria"
-    exemplo: "O que parecia óbvio, e o que a pessoa já tinha tentado."
+    exemplo: "O que parecia óbvio, e o que a pessoa já tinha tentado. A advogada: “Ela chegou certa de que era calote e queria entrar com a execução; já tinha cobrado o ex por mensagem três vezes.”"
     linhas: 3
   - rotulo: "O detalhe que não fechava"
     exemplo: "Uma advogada de família: “Ela dizia que o ex não pagava a pensão, e os atrasos caíam sempre no mês das férias escolares.”"
@@ -130,11 +130,11 @@ campos:
     exemplo: "O que você fez de diferente, e qual régua usou. A advogada: “Em vez de entrar logo com a cobrança, pedi os extratos de dois anos e marquei os meses dos atrasos, porque atraso com mês marcado costuma ter um motivo, e o motivo decide o caminho.”"
     linhas: 3
   - rotulo: "O que ensina a quem não é você"
-    exemplo: "O critério, numa frase que sobreviva fora da história. A advogada: “Se os atrasos têm mês marcado, leve à consulta a lista dos meses: é ela que mostra se o caminho é cobrar ou rever o acordo.”"
+    exemplo: "O critério, numa frase que sobreviva fora da história. A advogada: “Se os atrasos têm mês marcado, leve à consulta a lista dos meses: é por ela que se decide se o caminho é cobrar ou rever o acordo.”"
     linhas: 2
-  - rotulo: "Os adjetivos sobre o seu trabalho que você cortou"
-    exemplo: "Complexo, delicado, desafiador, de excelência, gratificante…"
-    linhas: 1
+  - rotulo: "Os adjetivos que você cortou, e o que quem lê passa a enxergar"
+    exemplo: "A advogada: “Complexo, delicado, gratificante… / Quem lê passa a olhar para os meses dos atrasos, e não só para o valor.”"
+    linhas: 2
   - rotulo: "Checagem de sigilo"
     grade:
       colunas: ["Conferido"]
@@ -160,7 +160,7 @@ evite:
   - "“Mais um caso de sucesso” e variações."
   - A gratidão do cliente como prova de competência.
   - Terminar com um convite para contratar você.
-esqueleto_rotulo: "Passe a limpo os campos 02 a 05, sem o que o campo 07 cortou"
+esqueleto_rotulo: "Passe a limpo os campos 02 a 05, já sem nada que identifique alguém"
 esqueleto:
   - {rotulo: "A situação óbvia", texto: "Do campo 02, com o que já tinha sido tentado.", linhas: 2}
   - {rotulo: "O detalhe", texto: "Do campo 03. Bem específico.", linhas: 2}
@@ -190,7 +190,7 @@ roteiro_nota: Um caso por peça, sem nada que identifique alguém. Em saúde e d
   opcoes:
     - Porque o caso tinha acontecido havia poucas semanas.
     - Porque o senhor tinha pedido que a história não fosse contada.
-    - Porque ele provava que ela resolvia o raro.
+    - Porque ele só provava que ela resolvia o raro.
     - Porque o desfecho não tinha sido tão bom quanto parecia na época.
   correta: 2
   explicacao: O caso comum, bem contado, prova que você entende o problema que as pessoas têm. O extraordinário impressiona, mas não se transfere a quem lê.
@@ -216,6 +216,6 @@ roteiro_nota: Um caso por peça, sem nada que identifique alguém. Em saúde e d
 itens:
   - {rotulo: "Escolhi um caso comum", ajuda: "Comparei com o mais bonito e fiquei com o que se repete (campo 01).", pontos: 3}
   - {rotulo: "Escrevi os quatro tempos", ajuda: "Situação, detalhe, decisão e critério (campos 02 a 05).", pontos: 3}
-  - {rotulo: "Passei no teste do coadjuvante", ajuda: "Cortei os adjetivos sobre mim (campo 06); quem lê aprende a enxergar.", pontos: 2}
+  - {rotulo: "Passei no teste do coadjuvante", ajuda: "Cortei os adjetivos e escrevi o que quem lê passa a enxergar (campo 06).", pontos: 2}
   - {rotulo: "Conferi o sigilo", ajuda: "As três linhas do campo 07 estão marcadas. Sem este item, a peça não sai, qualquer que seja o total.", pontos: 2}
 ```
