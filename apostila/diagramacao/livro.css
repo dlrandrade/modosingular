@@ -154,11 +154,11 @@ strong { font-weight: 600; }
 .compara .rotulo { margin-bottom: 2mm; }
 .compara .neg .rotulo { color: var(--ink-3); }
 
-.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3.4mm 0 1mm; margin-top: 8mm; }
-.guardar .rotulo { margin-bottom: 3.4mm; }
+.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3mm 0 .6mm; margin-top: 5mm; }
+.guardar .rotulo { margin-bottom: 2.6mm; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
-.guardar li { position: relative; padding-left: 8mm; margin: 0 0 2.6mm;
-  font-size: 10pt; line-height: 14pt; text-align: left; hyphens: auto; }
+.guardar li { position: relative; padding-left: 8mm; margin: 0 0 2mm;
+  font-size: 9.8pt; line-height: 13.2pt; text-align: left; hyphens: auto; }
 .guardar li .g { position: absolute; left: 0; top: -1.5pt; font: 400 16pt/1 var(--display); color: var(--acc); }
 
 /* ------------------------------------------------------------- figuras e tabelas */
