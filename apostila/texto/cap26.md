@@ -12,7 +12,7 @@ Numa segunda-feira de setembro, Renata fez uma conta que vinha adiando desde o c
 
 A conta a incomodou porque desmentia uma impressão. Desde o ano anterior, o perfil vinha crescendo, os pacientes chegavam citando áudios antigos, e ela tinha passado a achar que a presença estava trazendo gente nova. Estava confirmando gente que vinha de qualquer jeito. Marcos, lá no começo, tinha aberto o perfil quinze minutos antes da primeira consulta para conferir se valia a pena entrar; os pacientes do trimestre faziam a mesma coisa, mas agora encontravam uma fisioterapeuta que reconheciam. O perfil tinha deixado de atrapalhar. Ainda não trazia pessoa alguma.
 
-Naquela noite, rolou o próprio perfil de cima a baixo, olhando para ele como alguém que nunca tivesse ouvido falar dela. As três publicações fixadas no alto eram as mesmas havia um ano: uma foto da sala de atendimento, uma lista dos tratamentos oferecidos e um depoimento de paciente, autorizado por escrito. Abaixo delas, as peças de abril e maio ainda terminavam, quase todas, com a mesma linha que Bianca tinha posto em abril e que continuava lá: agende a sua avaliação.
+Naquela noite, rolou o próprio perfil de cima a baixo, olhando para ele como alguém que nunca tivesse ouvido falar dela. As três publicações fixadas no alto eram as mesmas havia um ano: uma foto da sala de atendimento, uma lista dos tratamentos oferecidos e um depoimento de paciente, autorizado por escrito. Abaixo delas, as peças mais recentes ainda terminavam, quase todas, com a mesma linha que Bianca punha na legenda desde abril, fora do texto que Renata lia frase por frase: agende a sua avaliação.
 
 Renata se fez a pergunta que a conta sugeria. Uma pessoa com dor nas costas havia dois anos, que nunca ouviu o nome dela e acha que dor lombar é coisa da idade, encontraria alguma coisa ali que fizesse sentido para ela? Encontraria uma sala, uma lista, um depoimento e um convite para agendar. Tudo aquilo servia para quem tinha decidido procurar uma fisioterapeuta e queria saber se era aquela. Para quem ainda não sabia que o problema tinha solução, o perfil era uma porta fechada com uma placa bonita.
 
@@ -32,7 +32,7 @@ Tabela: Duas funções, dois desenhos
 | O que faz | Confirma uma decisão tomada | Começa uma decisão |
 | Depende de | Indicação prévia | Nada; funciona sozinha |
 
-O perfil da Renata era uma vitrine, e, desde o capítulo 1, uma vitrine muito melhor do que a de antes. Isso não é pouco: a vitrine protege a indicação, e a indicação continua sendo a maior fonte de pacientes de quase todo profissional que atende gente. O limite dela é que depende inteira de alguém ter mandado a pessoa. Quem não foi indicado, e é a maior parte das pessoas com dor nas costas em Curitiba, nunca chega até ela.
+O perfil da Renata era uma vitrine, e, desde os primeiros áudios, uma vitrine muito melhor do que a de antes. Isso não é pouco: a vitrine protege a indicação, e a indicação continua sendo a maior fonte de pacientes de quase todo profissional que atende gente. O limite dela é que depende inteira de alguém ter mandado a pessoa. Quem não foi indicado, e é a maior parte das pessoas com dor nas costas em Curitiba, nunca chega até ela.
 
 Há um jeito rápido de saber qual das duas funções o seu perfil cumpre hoje. Olhe as últimas dez peças e pergunte, de cada uma, se ela faria sentido para alguém que nunca ouviu o seu nome e ainda não sabe que tem o problema. Se menos da metade passar, você tem uma vitrine. Renata fez a pergunta e contou duas.
 
@@ -56,7 +56,7 @@ etapas:
   - {rotulo: "Ação: quero falar com ela", nota: "A menor camada. Um endereço e um jeito de marcar bastam."}
 ```
 
-A auditoria das últimas dez peças mostrou o funil da Renata de cabeça para baixo. Seis terminavam em ação, o convite para agendar. Duas eram de confiança, casos contados sem identificar pacientes. Uma era de critério. Uma, apenas, era de reconhecimento: um áudio de março sobre a dor que acorda antes da pessoa. Era, não por acaso, a peça que os dois pacientes do trimestre tinham citado. Mesmo sem ter trazido gente de fora, era a única que falava com alguém que ainda não sabia o nome dela.
+A auditoria das últimas dez peças mostrou o funil da Renata de cabeça para baixo. Seis terminavam em ação, o convite para agendar. Duas eram de confiança, casos contados sem identificar pacientes. Uma era de critério. Uma, apenas, era de reconhecimento: um áudio de agosto sobre a dor que acorda antes da pessoa. Era, não por acaso, a peça que os dois pacientes do trimestre tinham citado. Mesmo sem ter trazido gente de fora, era a única que falava com alguém que ainda não sabia o nome dela.
 
 ```figura
 tipo: barras
@@ -84,15 +84,15 @@ texto: Publicar quase só a última camada, o convite para marcar, faz o perfil 
 
 A camada de reconhecimento pede um cuidado que Renata demorou a entender. Quem sente dor não procura pelo nome técnico. Procura pelo que sente: "dor nas costas que piora de manhã", "travei ao pegar a sacola", "dói mais quando fico em pé parado". A peça de reconhecimento começa pela experiência, dita como o paciente a diria, e só depois dá nome a ela. Começar pelo termo técnico é falar com colegas.
 
-Renata tinha uma vantagem que não sabia que tinha. Fazia catorze anos que perguntava a todo paciente como eram as manhãs, e o caderno de campo estava cheio das respostas, com as palavras de cada um. "Acordo mais velho do que fui dormir." "Levo meia hora para conseguir calçar a meia." "Melhora depois do café, quando já andei um pouco." Cada uma dessas frases era o começo de uma peça de reconhecimento, e nenhuma delas precisava ser inventada.
+Renata tinha uma vantagem que não sabia que tinha. Fazia mais de quinze anos que perguntava a todo paciente como eram as manhãs, e o caderno de campo estava cheio das respostas, com as palavras de cada um. "Acordo mais velho do que fui dormir." "Levo meia hora para conseguir calçar a meia." "Melhora depois do café, quando já andei um pouco." Cada uma dessas frases era o começo de uma peça de reconhecimento, e nenhuma delas precisava ser inventada. Renata usava só as que já tinham passado da data da seleção e que tinha ouvido de mais de um paciente, com pequenas variações, para que nenhuma apontasse para alguém.
 
-Bianca, a assistente, continuou cuidando da transcrição, da arte e da agenda, do jeito que as duas tinham combinado em abril. O que mudou foi uma marca a mais no fim de cada áudio. Depois de dizer qual era a ideia da peça, Renata passou a dizer também a camada: reconhecimento, critério, confiança. Bianca não decidia a camada, do mesmo jeito que não decidia o assunto. Mas passou a saber onde cada peça entrava, e a guardar a última linha do perfil, a do endereço, para uma peça de ação por mês.
+Bianca, a assistente, continuou cuidando da transcrição, da arte e da agenda, do jeito que as duas tinham combinado em abril. O que mudou foi uma marca a mais no fim de cada áudio. Depois de dizer qual era a ideia da peça, Renata passou a dizer também a camada: reconhecimento, critério, confiança. Bianca não decidia a camada, do mesmo jeito que não decidia o assunto. Mas passou a saber onde cada peça entrava, e a guardar o convite para marcar, que antes ia no fim de quase toda legenda, para uma peça de ação por mês.
 
 A primeira que gravou começava pela frase da meia. Se você leva meia hora para conseguir calçar a meia de manhã, e melhora depois que anda um pouco, isso tem uma explicação, e ela é diferente da que costumam dar. Em seguida, contou por que aquela dor que melhora com o movimento merece ser investigada, e terminou com uma pergunta para a pessoa fazer ao próprio médico. Não mencionou a clínica, nem os tratamentos, nem a avaliação.
 
 A ausência do convite foi deliberada. Uma peça de reconhecimento que termina em "agende" muda de natureza no último segundo: a pessoa, que estava aprendendo alguma coisa sobre o próprio corpo, descobre que estava lendo um anúncio. O ganho de curto prazo, um ou outro agendamento, custa o de longo, que é ser lembrada como a fisioterapeuta que explicou. O caminho até a agenda continua existindo, no endereço do perfil, para quem quiser. Deixou de ser empurrado em cada peça.
 
-Nas áreas da saúde, a camada de reconhecimento pede ainda outro limite. Nomear uma experiência não é diagnosticar quem lê. Renata passou a encerrar as peças desse tipo com uma frase que devolvia a decisão a quem pode tomá-la: descrever um sinal é uma coisa; saber se ele vale para você depende de alguém que examine. Os conselhos profissionais da saúde proíbem promessa de resultado e diagnóstico a distância, e a peça de reconhecimento fica do lado certo dessa linha quando entrega uma pergunta, e não uma conclusão.
+Nas áreas da saúde, a camada de reconhecimento pede ainda outro limite. Nomear uma experiência não é diagnosticar quem lê. Renata passou a encerrar as peças desse tipo com uma frase que devolvia a decisão a quem pode tomá-la: descrever um sinal é uma coisa; saber se ele vale para você depende de alguém que examine. Os códigos de ética da saúde proíbem, na publicidade, promessa de resultado e qualquer coisa que funcione como diagnóstico de quem lê, e a peça de reconhecimento fica do lado certo dessa linha quando entrega uma pergunta, e não uma conclusão.
 
 ## O rosto no funil
 
@@ -110,9 +110,9 @@ No fim de setembro, Renata trocou as três publicações fixadas no alto do perf
 
 O depoimento saiu do alto e não saiu do perfil. Continuava útil para quem chegava indicado e queria confirmar, que é a função da vitrine, e a vitrine não tinha deixado de existir. Tinha descido um andar. O que mudou foi a ordem: a primeira coisa que o perfil dizia a um estranho deixou de ser "venha" e passou a ser "isso que você sente tem explicação".
 
-Em novembro, numa quarta-feira, uma paciente nova chegou sem indicação. Tinha quarenta e poucos anos, trabalhava em pé numa farmácia e contou, antes de sentar, que tinha ouvido um áudio sobre a meia e pensado que alguém tinha descrito as manhãs dela. Não sabia que aquilo tinha explicação. Renata perguntou como eram as manhãs, e a paciente riu, porque era a pergunta do áudio. Na agenda do trimestre seguinte, ao lado do nome dela, Renata escreveu: perfil, sem indicação.
+Em novembro, numa quarta-feira, uma paciente nova chegou sem indicação. Tinha quarenta e poucos anos, trabalhava em pé numa farmácia e contou, antes de sentar, que tinha ouvido um áudio sobre a meia e pensado que alguém tinha descrito as manhãs dela. Não sabia que aquilo tinha explicação. Renata perguntou como eram as manhãs, e a paciente riu, porque era a pergunta do áudio. Na agenda, ao lado do nome dela, Renata escreveu: perfil, sem indicação.
 
-No fim do ano, refez a conta. De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, um ano antes, teriam continuado com dor, achando que era coisa da idade, sem nunca ouvir o nome dela.
+No fim do ano, refez a conta. De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, um ano antes, provavelmente teriam continuado achando que a dor era coisa da idade, sem nunca ouvir o nome dela.
 
 ```guardar
 - A vitrine confirma quem já foi indicado. A porta de entrada começa a decisão de quem ainda não conhece você, e não depende de ninguém.

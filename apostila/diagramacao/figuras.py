@@ -268,7 +268,7 @@ def camadas(d):
     if d.get("rotulo_base"):
         out.append(texto(105, y + 12, d["rotulo_base"], 9, ACC_D, 600, "middle", esp=1)[0])
         y += 26
-    y = _legenda(out, y, d)
+    y = _legenda(out, y + 6, d)
     return svg("".join(out), y + 2)
 
 

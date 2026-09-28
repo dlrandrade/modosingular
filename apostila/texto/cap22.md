@@ -14,9 +14,9 @@ A partir da segunda terça de fevereiro, os textos dela mudaram. A amiga do grup
 
 A amiga respondeu ao terceiro com uma pergunta curta. "Gostei. Mas quem escreveu?" Lúcia riu da brincadeira e, meia hora depois, parou de achar graça. Abriu lado a lado o texto daquela semana, o contraponto que tinha publicado em setembro e um texto da psicóloga de São Paulo. O de fevereiro se parecia muito mais com o terceiro do que com o segundo, e a semelhança estava inteira na superfície: a abertura, as palavras, o tamanho das frases, o fecho.
 
-O que tinha desaparecido era dela. A pergunta devolvida antes de responder, que é o jeito como ela pensa e como atende. As distinções finas, feitas com calma, entre uma coisa e outra que parecem iguais. A frase que os pacientes já tinham ouvido tantas vezes, que rótulo não é diagnóstico. Nenhuma das três aparecia nos textos de fevereiro. Em cinco semanas de leitura diária, ela tinha trocado a própria voz pela de outra pessoa sem perceber que estava trocando. O manual de voz do ano anterior estava na mesma gaveta; ela tinha parado de relê-lo em janeiro, quando as terças passaram a parecer fáceis.
+O que tinha desaparecido era dela. A pergunta devolvida antes de responder, que é o jeito como ela pensa e como atende. As distinções finas, feitas com calma, entre uma coisa e outra que parecem iguais. A frase que os pacientes já tinham ouvido tantas vezes, que rótulo não é diagnóstico. Nenhuma das três aparecia nos textos de fevereiro. Em pouco mais de um mês de leitura diária, ela tinha trocado a própria voz pela de outra pessoa sem perceber que estava trocando. O manual de voz do ano anterior estava na mesma gaveta; ela tinha parado de relê-lo em janeiro, quando as terças passaram a parecer fáceis.
 
-Havia uma ironia maior, que ela só viu na segunda leitura dos três textos lado a lado. O que tornava bons os textos da psicóloga de São Paulo estava na ordem, mais do que na frase de abertura ou no fecho: uma cena, a crença que ela esconde, por que a crença faz sentido, onde ela falha, uma pergunta para a pessoa se fazer. Essa ordem, Lúcia não tinha copiado. Depois da frase emprestada, os textos de fevereiro seguiam a ordem de sempre da Lúcia, a pergunta da amiga posta em abstrato, e chegavam ao ponto só no fim. Ela tinha levado a pele e deixado o esqueleto.
+Havia uma ironia maior, que ela só viu na segunda leitura dos três textos lado a lado. O que tornava bons os textos da psicóloga de São Paulo estava na ordem, mais do que na frase de abertura ou no fecho: uma cena, a crença que ela esconde, por que a crença faz sentido, onde ela falha, uma pergunta para a pessoa se fazer. Essa ordem, Lúcia não tinha copiado. Depois da frase emprestada, os textos de fevereiro não tinham ordem nenhuma: punham a pergunta da amiga em abstrato e só chegavam ao ponto no fim. Ela tinha levado a pele e deixado o esqueleto.
 
 O mais difícil de admitir foi que os textos de fevereiro tinham sido mais lidos que os de antes. Tiveram mais comentários, e dois deles vieram de colegas que nunca tinham comentado nada dela. Era o tipo de sinal que convida a continuar. Lúcia percebeu que, se a amiga não tivesse feito a pergunta, provavelmente teria seguido por aquele caminho, satisfeita com os números e cada vez mais parecida com outra pessoa.
 
@@ -28,9 +28,9 @@ Toda peça que você admira tem três camadas, e só uma delas pode ser levada. 
 
 A de baixo é a estrutura: a ordem em que as informações aparecem, o tipo de abertura, o ponto em que vem a virada, o que fica para o fim. A estrutura não pertence a ninguém. Uma reportagem que começa por uma pessoa e só depois chega ao número, um sermão que parte de uma história e termina num pedido, uma aula que abre com uma pergunta, tudo isso circula há muito tempo.
 
-Admirar uma colega da própria área faz parte do ofício. A psicóloga de São Paulo escrevia bem, e o que Lúcia via nela era competência de verdade: clareza, escolha de assunto, respeito por quem lê. O erro estava em onde a admiração tinha pousado.
+Admirar uma colega da própria área faz parte do ofício. Ela escrevia bem, e o que Lúcia via nela era competência de verdade: clareza, escolha de assunto, respeito por quem lê. O erro estava em onde a admiração tinha pousado.
 
-Há um motivo para as pessoas levarem a camada errada. Quando um texto funciona, quem lê sente o efeito da estrutura, a surpresa da virada, a clareza da ordem, mas atribui o efeito à voz, que é o que aparece. Lúcia achava que gostava das frases curtas da psicóloga de São Paulo. Gostava, na verdade, de chegar ao fim de cada texto com uma pergunta para fazer a si mesma, e isso vinha da ordem.
+Há um motivo para as pessoas levarem a camada errada. Quando um texto funciona, quem lê sente o efeito da estrutura, a surpresa da virada, a clareza da ordem, mas atribui o efeito à voz, que é o que aparece. Lúcia achava que gostava daquelas frases curtas. Gostava, na verdade, de chegar ao fim de cada texto com uma pergunta para fazer a si mesma, e isso vinha da ordem.
 
 ```figura
 tipo: camadas
@@ -50,7 +50,7 @@ definicao: O uso consciente do que funciona no trabalho de outras pessoas, levan
 porque: Olhar para fora é inevitável e útil. O problema começa quando se traz de fora aquilo que só poderia vir de dentro.
 ```
 
-A recusa total, do outro lado, também sai cara. Uma colega do grupo de estudos, com medo de virar cópia, parou de ler o que os outros publicam e passou a redescobrir sozinha, peça por peça, o que já se sabe há muito tempo sobre como uma ideia chega a alguém. O risco está no que se leva quando se olha, e na hora em que se olha.
+O erro oposto, a recusa total, também sai caro. Uma colega do grupo de estudos, com medo de virar cópia, parou de ler o que os outros publicam e passou a redescobrir sozinha, peça por peça, o que já se sabe há muito tempo sobre como uma ideia chega a alguém. O risco está no que se leva quando se olha, e na hora em que se olha.
 
 ## Engenharia reversa
 
@@ -68,7 +68,7 @@ itens:
   - Preencha o esqueleto com o seu repertório, do capítulo 9. Se o esqueleto pede um caso, é o seu caso; se pede um número, é o seu número.
 ```
 
-O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e em nada se parecia com os de fevereiro. Começava por uma cena de consultório composta de várias, sem ninguém que se pudesse reconhecer, passava pela crença, explicava de onde ela vinha, mostrava onde falhava e terminava numa pergunta. No meio, Lúcia fez o que faz em qualquer sessão: devolveu uma pergunta antes de responder. A amiga do grupo de estudos respondeu com duas palavras. "Agora sim."
+O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e em nada se parecia com os de fevereiro. Começava por uma cena de consultório composta de várias, sem ninguém que se pudesse reconhecer, passava pela crença, explicava de onde ela vinha, mostrava onde falhava e terminava numa pergunta. No meio, Lúcia fez o que faz em qualquer sessão: devolveu uma pergunta antes de responder. "Quando você evita falar do que dói, o que você espera que aconteça com ele?" A amiga do grupo de estudos respondeu com duas palavras. "Agora sim."
 
 Quando o preenchimento trava, a trava é uma informação. Se o esqueleto pede um caso e nenhum aparece, você não tem repertório sobre aquele assunto, e insistir produz a peça genérica que o livro inteiro tenta evitar. Nesse ponto, mude de assunto e guarde o esqueleto. Ele serve para outra semana, com outro tema, e é justamente isso que faz dele uma estrutura.
 
@@ -100,7 +100,7 @@ Dos três textos de fevereiro, um não passava na quarta pergunta. Nem respondia
 
 ## Onde buscar a estrutura
 
-O primeiro cartão tinha saído da fonte mais arriscada, e só deu certo porque ela fechou o celular antes de escrever. Os seguintes vieram de longe. A fonte da referência também pesa. Quanto mais perto do seu assunto, maior a chance de levar o conteúdo junto com a estrutura. Quanto mais longe, mais pura a estrutura chega, porque não há nada mais a levar. Lúcia tirou a psicóloga de São Paulo do café da manhã e passou a ler, às quintas, um cronista de jornal de Porto Alegre e as respostas de um programa de rádio em que os ouvintes mandam perguntas. As duas coisas conversavam com o modo dela, e nenhuma falava de psicologia.
+O primeiro cartão tinha saído da fonte mais arriscada, e só deu certo porque ela fechou o celular antes de escrever. Os seguintes vieram de longe, e não por acaso: a fonte da referência também pesa. Quanto mais perto do seu assunto, maior a chance de levar o conteúdo junto com a estrutura. Quanto mais longe, menos conteúdo há para levar junto. A voz atravessa qualquer distância, como mostra a veterinária do mecânico; contra ela, o que protege é fechar a peça. Lúcia tirou os textos dela do café da manhã e passou a ler, às quintas, um cronista de jornal de Porto Alegre e as respostas de um programa de rádio em que os ouvintes mandam perguntas. As duas coisas conversavam com o modo dela, e nenhuma falava de psicologia.
 
 Tabela: Onde buscar estrutura, e o risco de cada fonte
 
@@ -109,17 +109,17 @@ Tabela: Onde buscar estrutura, e o risco de cada fonte
 | Outras áreas | Estrutura pura, sem conteúdo a levar | Muito baixo |
 | Crônica e reportagem | A arquitetura de um argumento | Baixo |
 | Colegas da sua área | O que não fazer, e o que eles deixam de lado | Muito alto |
-| O seu atendimento | A ordem que funciona com gente de verdade | Nenhum |
+| O seu atendimento | A ordem que já funcionou com os seus clientes | Nenhum |
 
-A última linha é a melhor fonte que existe. A ordem em que você explica alguma coisa no atendimento, quando o cliente entende de primeira, já é uma estrutura testada centenas de vezes. Otávio a usa nos quatro parágrafos sobre contratos, Renata no áudio do carro, Caio nas cinco linhas. A referência de fora serve para ver formas que você ainda não tentou. A de dentro serve sempre.
+A última linha é a melhor fonte que existe. A ordem em que você explica alguma coisa no atendimento, quando o cliente entende de primeira, já é uma estrutura testada em cada cliente que a ouviu. Otávio a usa nos quatro parágrafos sobre contratos, Renata no áudio do carro, Caio nas cinco linhas. A referência de fora serve para ver formas que você ainda não tentou. A de dentro serve sempre.
 
 Lúcia encontrou a sua na primeira sessão com cada paciente novo. Fazia quase dois anos que tinha dito em voz alta, no grupo de estudos, o que fazia ali: perguntar "o que você já tentou para não sentir isso?". Escreveu num cartão a ordem que essas primeiras sessões costumam seguir: o que a pessoa sente, o que já tentou, o que as tentativas revelam, o que isso muda. Era um esqueleto testado havia anos, e ela nunca o tinha usado para escrever.
 
 ## O que a admiração ensina
 
-Lúcia não deixou de ler a psicóloga de São Paulo. Continuou, às quintas, como leitora, sem cartão e sem a caixa de fichas por perto. Em abril, leu um texto dela sobre cansaço no trabalho e sentiu falta de uma distinção: a outra tratava cansaço e tédio como a mesma coisa, e Lúcia, no consultório, via os dois pedirem conversas diferentes. Anotou a diferença no caderno de campo. Lida de igual para igual, a outra tinha deixado nela uma posição.
+Lúcia não deixou de lê-la. Continuou, às quintas, como leitora, sem cartão e sem a caixa de fichas por perto. Em abril, leu um texto dela sobre cansaço no trabalho e sentiu falta de uma distinção: a outra tratava cansaço e tédio como a mesma coisa, e Lúcia, no consultório, via os dois pedirem conversas diferentes. Anotou a diferença no caderno de campo. Lida de igual para igual, a outra tinha deixado nela uma posição.
 
-Na terça seguinte, a amiga mandou a pergunta da semana: por que é tão difícil pedir ajuda a quem a gente ama? Lúcia leu em voz alta, na sala ainda vazia, e respondeu primeiro com outra pergunta, como faz com os pacientes. O texto que saiu tinha a ordem do cartão da primeira sessão, as palavras dela e nenhum fecho emprestado.
+Na segunda seguinte, à noite, a amiga mandou a pergunta da semana: por que é tão difícil pedir ajuda a quem a gente ama? Na terça, Lúcia leu a pergunta em voz alta, na sala ainda vazia, e respondeu primeiro com outra pergunta, como faz com os pacientes. O texto que saiu tinha a ordem do cartão da primeira sessão, as palavras dela e nenhum fecho emprestado.
 
 ```guardar
 - "Uma peça alheia tem três camadas: voz, conteúdo e estrutura. Só a estrutura se leva, e é a menos visível das três."
@@ -152,15 +152,15 @@ campos:
 criterios:
   - O esqueleto do campo 02 não tem nenhuma palavra da peça original.
   - A peça do campo 04 foi escrita com a referência fechada.
-  - As cinco respostas do campo 05 são sim; se a 4 for não, a peça não sai.
+  - "As cinco respostas do campo 05 são sim: um não em 1, 3 ou 5 pede reescrita daquela parte; um não na 4 tira a peça."
 ```
 
 ```rede
 titulo: A estrutura emprestada, o assunto seu
 intro: "Publique a peça da oficina. O assunto é uma crença, um caso ou um padrão da sua área; da referência, só veio a ordem."
 regras:
-  - {regra: "Busque a estrutura fora da sua área.", porque: "A estrutura atravessa áreas; o conteúdo não. Longe do seu assunto, você fica com o mecanismo e sem a tentação de levar o resto."}
-  - {regra: "Na próxima, experimente a ordem do seu próprio atendimento.", porque: "A sequência em que você explica quando a pessoa entende de primeira foi testada centenas de vezes em gente de verdade."}
+  - {regra: "Busque a estrutura fora da sua área.", porque: "A estrutura atravessa áreas; o conteúdo não. Longe do seu assunto, não há casos nem números para levar; a voz você deixa para trás fechando a peça."}
+  - {regra: "Na próxima, experimente a ordem do seu próprio atendimento.", porque: "A sequência em que você explica quando a pessoa entende de primeira foi testada em cada pessoa que entendeu de primeira."}
   - {regra: "Se travar ao preencher, mude de assunto.", porque: "A trava diz que você não tem repertório sobre aquilo. Forçar produz exatamente a peça genérica que você quer evitar."}
 faca:
   - Guardar em fichas, ou num caderno, os esqueletos que funcionaram com você, sem o conteúdo de cada um.
@@ -183,8 +183,8 @@ roteiro: |
 
   Ela faz sentido, porque {de onde ela vem}. Mas falha quando {o que a sua prática mostra}.
 
-  Da próxima vez, antes de {o gesto de sempre}, se pergunte: {a pergunta}.
-roteiro_nota: Este roteiro é um esqueleto possível, o da cena e da crença. Se a estrutura que você extraiu for outra, use a sua na mesma ordem em que a anotou.
+  Na próxima vez que {o gesto de sempre}, repare em {o sinal que a sua prática mostra}.
+roteiro_nota: "Este roteiro é um esqueleto possível, o da cena e da crença. Outra ordem possível, a do exemplo da oficina: 'Todo mundo repara em {o que todo mundo vê}. Quase ninguém repara em {o que você vê no mesmo momento}. E é isso que decide {o resultado}. Da próxima vez, observe {o que observar}.' Se a estrutura que você extraiu for outra, use a sua na mesma ordem em que a anotou."
 faca_antes: true
 ```
 
@@ -218,7 +218,7 @@ faca_antes: true
     - Porque outras áreas publicam com mais qualidade.
     - Porque os colegas da sua área publicam menos.
     - Porque o público prefere variedade de formatos.
-    - Porque de longe só atravessa a estrutura.
+    - Porque de longe não há conteúdo da sua área para levar.
   correta: 3
   explicacao: Numa crônica ou num programa de rádio não há conteúdo da sua área para levar. Perto do seu assunto, a tentação de levar casos e palavras junto com a ordem é muito maior.
 ```
@@ -227,6 +227,6 @@ faca_antes: true
 itens:
   - {rotulo: "Extraí só a estrutura", ajuda: "O esqueleto não tem nenhuma palavra da peça original (campo 02).", pontos: 3}
   - {rotulo: "Fechei a referência antes de escrever", ajuda: "A peça foi escrita sem a original à vista (campo 04).", pontos: 2}
-  - {rotulo: "Preenchi com repertório meu", ajuda: "Caso, crença e limite vêm da minha prática (campo 03).", pontos: 3}
+  - {rotulo: "Preenchi com repertório meu", ajuda: "Tudo o que preenche o esqueleto (caso, padrão, crença, número) vem da minha prática (campo 03).", pontos: 3}
   - {rotulo: "Passei no teste da contaminação", ajuda: "Sim nas cinco perguntas (campo 05).", pontos: 2}
 ```

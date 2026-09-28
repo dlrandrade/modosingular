@@ -24,7 +24,7 @@ A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abr
 
 ## O que escala e o que não escala
 
-Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de catorze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
+Cada decisão daqueles dois meses tinha sido razoável. Contratar ajuda, porque a agenda cresceu. Aproveitar melhor cada áudio, porque gravar custava tempo. Aprovar em bloco, porque a semana estava cheia. Nenhuma delas, sozinha, apagava a Renata. Somadas, fizeram com que o conhecimento vivo de quinze anos de consultório aparecesse no perfil como uma coleção de frases corretas, organizadas e sem dono.
 
 Em algum momento, quem começa a dar certo precisa de mais volume, ou de ajuda para sustentá-lo. Diante disso, a pergunta útil é o que pode crescer e o que precisa continuar nas suas mãos. Há etapas da produção que são mecânicas, e ganham com mais gente e mais processo. Há outras que são o próprio conteúdo, e deixam de existir quando passam para outras mãos.
 

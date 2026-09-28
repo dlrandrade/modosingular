@@ -141,7 +141,7 @@ strong { font-weight: 600; }
 .exemplo .singular .rotulo { color: var(--acc-d); }
 .exemplo .porque { margin: 2.4mm 0 0; font-size: 9.6pt; line-height: 13.6pt; color: var(--ink-2); text-align: left; }
 .exemplo .porque b { font-weight: 600; color: var(--ink); }
-.exemplo > .titulo { font: 600 9.8pt var(--serif); margin: 0 0 2mm; }
+.exemplo > .titulo { font: 600 9.8pt var(--serif); margin: 1.2mm 0 2mm; }
 
 .compara { display: flex; gap: 4mm; }
 .compara .lado { flex: 1; padding: 2.6mm 3.4mm 2.8mm; }
