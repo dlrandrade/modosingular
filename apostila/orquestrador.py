@@ -358,6 +358,10 @@ def b_autodiagnostico(d, c):
         somas = ('<div class="somas">' + "".join(
             f'<div><span class="txt">{esc(nome)} ({letra})</span><span class="caixa"></span></div>'
             for letra, nome in eixos.items()) + '</div>')
+    elif d.get("rodadas"):  # ["Soma de hoje", "Soma no dia 30"]: uma caixa por rodada
+        somas = ('<div class="somas">' + "".join(
+            f'<div><span class="txt">{esc(r)}</span><span class="caixa"></span></div>'
+            for r in d["rodadas"]) + '</div>')
     else:
         somas = '<p class="soma"><span class="txt">Soma dos números circulados</span><span class="caixa"></span></p>'
     nota = f'<p class="nota-escala">{md_inline(d["nota"])}</p>' if d.get("nota") else ""

@@ -1,0 +1,74 @@
+capitulo: 30
+iteracao: 2
+notas: {metodo: 9.2, voz: 8.9, originalidade: 8.9, clareza: 9.1, ritmo: 8.9, concretude: 8.7,
+        coerencia: 8.2, aplicabilidade: 8.8, impresso: 8.7, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - "A r1 foi resolvida quase por inteiro. A cronologia agora fecha ('bem mais de um ano de áudios', 'mais de dois anos'), a última imagem do Caio respeita o sigilo pelo calendário ('guardar a foto na pasta das que só saem depois da entrega'), a máxima falsa do Otávio saiu, o autodiagnóstico remete cada linha a um capítulo e o roteiro termina em 'Isso serve a quem…'."
+  - "O desfecho coletivo não promete nada: 'Nenhum deles tem uma peça com milhões de visualizações, e nenhum deixou de depender, em alguma medida, das indicações de sempre.' É o fecho certo para um livro que passou trinta capítulos desconfiando de resultado."
+  - "Imagens próprias e de ofício na última seção: Renata 'com as mãos no volante e sem poder desenhar a coluna no ar' é o modo dela visto pelo avesso; as fotos do sobrinho deixadas 'como a marca de altura das crianças no batente de uma porta' medem a distância sem celebrá-la."
+  - "A figura 30.1 vira instrumento de papel ('Marque a lápis, na linha, onde você estava…'), e a nota da linha 6 amarra o livro ao medo nomeado no capítulo 1. A tradução do problema manda o leitor de volta à própria autópsia do cap. 5, e não a uma lista abstrata."
+problemas:
+  - criterio: coerencia
+    trecho: "a câmera que continuava no armário do escritório foi vendida em dezembro, junto com o estabilizador e a luz que tinham sobrado"
+    por_que: "Nenhuma luz tinha sobrado. O cap. 20 diz 'Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos', e o cap. 29 repete 'depois de vender as luzes'. O kit do cap. 3 era câmera, estabilizador, duas luzes e microfone de lapela. (A correção da r1 introduziu o erro.)"
+    correcao: "'…foi vendida em dezembro, junto com o estabilizador e o microfone de lapela.'"
+  - criterio: coerencia
+    trecho: "Nenhuma obra contada do começo ao fim, nenhum \"teve uma obra\", nenhuma parede mentindo para o dono."
+    por_que: "Contradiz o cap. 3: 'O primeiro vídeo acompanhava a obra de um apartamento de 1972 no Cambuí, do primeiro golpe de marreta à entrega das chaves.' Contradiz também a oração anterior ('não encontrou ali nada de si, a não ser a obra'). O que faltava no vídeo era a voz de quem conta, e não a obra do começo ao fim."
+    correcao: "'A obra ia do primeiro golpe de marreta à entrega das chaves, e ninguém a contava: nenhum \"teve uma obra\", nenhuma parede mentindo para o dono.'"
+  - criterio: coerencia
+    trecho: "Renata rolou o próprio perfil até o fim, como tinha feito numa noite de março"
+    por_que: "No cap. 23 a noite da rolagem é em abril: 'Em meados de abril, Marcos voltou ao consultório… e à noite abriu o perfil com calma'. Em março Bianca só tinha sido contratada. O eco foi assumido, o que é bom, mas com a data errada. E o mesmo período reaparece na linha seguinte como 'carrosséis de abril'."
+    correcao: "'…como tinha feito numa noite de abril, mas desta vez de manhã e sem pressa.' Na frase seguinte: 'pelos carrosséis daquela primavera em que quase deixou de se reconhecer'."
+  - criterio: aplicabilidade
+    trecho: "Publique a declaração do campo 02 no seu próximo dia de publicação, no lugar da peça da semana."
+    por_que: "Choca com o campo 04 da oficina ('A próxima peça: dia, hora e a captura que você vai usar', com o exemplo do mecânico e a corrente) e com o fecho da prosa ('A próxima peça… tem… uma captura do caderno de campo esperando'). O leitor sai com duas 'próximas peças' e não sabe qual vai no dia marcado. A rede também não diz em que formato a declaração sai, e o plano de noventa dias proíbe 'nenhum formato novo' logo em seguida."
+    correcao: "Rede, intro: 'Publique a declaração do campo 02 no dia e na hora marcados no campo 04, no seu formato-base e no seu modo, no lugar da peça da semana.' Campo 04: 'A declaração vai ao ar: dia e hora. E a peça seguinte: a captura que você vai usar'. Ajustar o critério e o item 4 do checklist ('Dia e hora da declaração e a captura da peça seguinte (campo 04)')."
+  - criterio: coerencia
+    trecho: "Uma só: outro modo de abrir, outra extensão, outro canal."
+    por_que: "'Outro canal' não é variação do formato-base. É a troca de plataforma que o alerta do cap. 29 manda desconfiar ('outro formato, outra plataforma, outro assunto. Pode ser o vale falando'). O cap. 20 define a variação como 'pegar a mesma matéria-prima e dar a ela uma segunda forma… sem trocar de formato'. No último capítulo, o leitor recebe permissão para o movimento que o penúltimo tratou como sintoma."
+    correcao: "'Uma só: outro modo de abrir, outra extensão, ou o mesmo caso contado uma segunda vez em outra forma, como o capítulo 20 descreveu.'"
+  - criterio: coerencia
+    trecho: "Otávio vai escrever a última frase de um parecer e, embaixo dela, os cinco minutos de verso."
+    por_que: "No cap. 21 o parágrafo fica no verso da última folha ('virou a folha. No verso em branco…'), e não embaixo da última frase. 'Os cinco minutos de verso' também é compressão que só se entende com o cap. 21 aberto."
+    correcao: "'Otávio vai escrever a última frase de um parecer, virar a folha e, no verso, gastar os cinco minutos de sempre com um parágrafo para quem não é o cliente.'"
+  - criterio: coerencia
+    trecho: "Pela primeira vez em mais de quinze anos de consultório, havia também uma segunda porta para chegar até ela"
+    por_que: "A segunda porta já existia antes de janeiro. No cap. 23, em março, chegavam 'pacientes novos… citando áudios antigos'. No cap. 26, em novembro, chega a paciente 'sem indicação' e Renata anota na agenda 'perfil, sem indicação', a mesma anotação que aqui aparece como novidade. Como está, a cena repete a imagem do cap. 26 e ainda sugere que a porta abriu agora."
+    correcao: "Assumir a continuidade e trazer um ganho novo: 'Ao lado de dois nomes da semana, e já não era a primeira vez, estava escrito na letra dela: perfil, sem indicação.' Cortar 'Pela primeira vez em…' e terminar em 'havia também uma segunda porta, e quem entrava por ela já tinha ouvido a voz de quem ia atender.'"
+  - criterio: voz
+    trecho: "Nenhum dos quatro ficou conhecido fora da própria cidade e da própria área. Nenhum deles tem uma peça com milhões de visualizações, e nenhum deixou de depender"
+    por_que: "A primeira seção inteira anda em negativas em série e na fórmula 'continuou X, mudou Y'. Na mesma coluna estão 'Nenhuma obra contada…, nenhum \"teve uma obra\", nenhuma parede', depois 'Nenhum dos quatro… Nenhum deles… nenhum deixou', e em seguida 'Nenhuma das cinco queixas' e 'Nenhum dos quatro precisa mais'. O intertítulo ('O que mudou, e o que continuou igual') anuncia a fórmula, e o texto a cumpre três vezes: 'O tempo dele não mudou', 'Os rótulos continuavam chegando… O que mudou foi', 'continuavam mandando'. Lido em voz alta, o tique pesa."
+    correcao: "Manter a tríade de negativas só no balanço dos quatro, que é o lugar dela. No Caio, usar a reescrita afirmativa do problema 2. Na abertura de 'O que o problema era', trocar 'Nenhuma das cinco queixas era falsa.' por 'As cinco queixas descreviam coisas que aconteceram.' Em 'A página', trocar 'Nenhum dos quatro precisa mais de um capítulo por dia.' por 'Os quatro já dispensam um capítulo por dia.' Renomear a seção como 'Um ano depois' ou 'Os quatro, em janeiro'."
+  - criterio: concretude
+    trecho: "Os noventa dias seguintes têm três partes. Nos primeiros trinta, repetição pura"
+    por_que: "É a seção mais operacional do capítulo e a única sem caso nem personagem: quatro parágrafos e um alerta em abstrato. A regra da voz manda descer a uma cena em até dois parágrafos. 'O critério é o que aconteceu nas semanas ruins' fica opaco justamente por falta desse exemplo."
+    correcao: "Um parágrafo curto com uma figurante que não seja nutricionista nem mecânico, por exemplo uma dentista que publica às quartas: nos dias 1 a 30, a mesma peça de sempre; nos 31 a 60, a pergunta do clareamento no nível estrutural; no dia 61, a semana do feriado em que ela quase não publicou decide se entra a variação. E explicitar: 'O critério para acrescentar é o que aconteceu nas semanas ruins: se nelas saiu ao menos a peça mínima, o hábito está firme.'"
+  - criterio: aplicabilidade
+    trecho: "No fim do primeiro, refaça o diagnóstico deste capítulo e compare as duas somas, linha por linha."
+    por_que: "Somas não se comparam linha por linha. E, no papel, o diagnóstico tem uma só coluna de círculos (p. 19): refazê-lo na mesma página apaga a primeira resposta, se não houver instrução."
+    correcao: "'No fim do primeiro, refaça o diagnóstico deste capítulo com uma caneta de outra cor, na mesma página, e compare linha por linha: a linha que não subiu é o trabalho do segundo bloco.'"
+  - criterio: aplicabilidade
+    trecho: "- A falta de autoria na presença pública."
+    por_que: "Na verificação, a correta das questões 1 e 2 é a opção mais curta, e visivelmente mais curta ('Mudar formato, assunto e ritmo ao mesmo tempo.' contra três opções de oito a dez palavras). A lição cap01-r1 pede opções de comprimento parecido."
+    correcao: "Q1: 'A falta de autoria: a presença não pertencia a quem ela representava.' Q2: 'Mudar formato, assunto e ritmo ao mesmo tempo, logo depois do fim.' Ou encurtar os distratores."
+  - criterio: ritmo
+    trecho: "Se você abriu este livro pensando que precisava postar mais, e se o método funcionou, você já não descreve o problema assim, porque, ao longo das cinco fases, cada queixa se mostrou a superfície de outra coisa."
+    por_que: "Parágrafo de uma frase, com quatro orações encadeadas por vírgula, abrindo a seção de tese. Logo depois, 'Nenhuma das cinco queixas' remete a uma tabela que o leitor ainda não viu (ela vem depois do parágrafo)."
+    correcao: "'Se você abriu este livro pensando que precisava postar mais, e o método funcionou, já não descreve o problema assim. Ao longo das cinco fases, cada queixa se mostrou a superfície de outra coisa; a tabela a seguir põe as cinco lado a lado.' E juntar o parágrafo seguinte a este."
+edicoes_de_linha:
+  - "O que o problema era -> O que era o problema (a ordem atual soa traduzida)"
+  - "e é justamente aí que mora o risco -> e o risco está justamente aí (clichê de 'aí mora o perigo')"
+  - "em muitas semanas os cinco minutos no fim de cada parecer eram tudo o que o perfil recebia dele -> …eram quase tudo o que o perfil recebia dele (o cap. 24 soma as fotos da sexta e um minuto de revisão por peça)"
+  - "um formato novo, um posicionamento mais amplo, um ritmo mais ambicioso -> um formato novo, um assunto mais amplo, um ritmo mais ambicioso (o alerta, o campo 05 e a Q2 falam em 'assunto')"
+  - "Um caso composto, um número do seu consultório ou um padrão -> Um caso composto, um número da sua prática ou um padrão (o público inclui advogado, arquiteto, contador)"
+  - "e ele raramente atrapalha quem explica bem -> e quem explica bem raramente precisa ir além do que ele permite (evita minimizar o código)"
+  - "Na faixa 21–31: A linha mais baixa é por onde o sistema vai falhar no primeiro mês difícil. -> A linha mais baixa é o próximo trabalho; o mapa da faixa ao lado diz a que capítulo voltar. (as linhas 1 e 6 não medem o sistema)"
+  - "com um texto de onze linhas -> com um texto curto (as 'onze linhas' já são do cap. 6, do cap. 9, do texto da Lúcia no cap. 13 e da lista de Helena no cap. 28, e aqui convivem com os 'onze fins de semana')"
+diagramacao:
+  - "p. 14, tabela 30.1: não resolvido desde a r1. A primeira coluna ainda parte os nomes das fases ('I · O / Diagnóstico', 'II · A / Descoberta', 'III · A / Tradução'), enquanto 'IV · O Sistema' e 'V · O Território' cabem numa linha. Alargar a coluna 1 (~26%) ou usar só 'I Diagnóstico'."
+  - "p. 17: cerca de 20% em branco no pé, e o último parágrafo da prosa quebra em 'Falta' e deixa só duas linhas ('apenas acontecer… sua voz.') no alto da p. 18, antes do Para guardar. As duas linhas cabiam na p. 17. Parece que o 'manter junto' do bloco guardar está puxando o fim do parágrafo. Soltar a regra ou deixar o guardar começar sozinho na p. 18."
+  - "p. 16: cerca de 17% em branco no pé porque o alerta 'O erro mais provável do dia seguinte' foi inteiro para a p. 17. É aceitável, mas some se o parágrafo concreto sugerido para 'Os próximos noventa dias' entrar."
+  - "p. 19: com a instrução de refazer o diagnóstico no fim do primeiro bloco, a página pede uma indicação visual para a segunda rodada (por exemplo, 'soma de hoje' e 'soma no dia 30' lado a lado)."
+veredito: "Muito perto de fechar o livro. A r1 foi bem absorvida, mas as correções trouxeram três deslizes de continuidade (a luz vendida, o mês da rolagem, a obra 'não contada'), e o campo 04 briga com a rede sobre qual é a próxima peça. Falta uma passada de coerência e uma cena no plano de noventa dias."
