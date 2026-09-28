@@ -27,7 +27,7 @@ Era a décima sétima semana seguida com uma foto; as cinco linhas tinham vindo 
 
 As cinco linhas tinham a ordem de uma história de obra. A primeira dizia qual obra e o que ia acontecer com a peça da foto; a segunda, o que ele tinha encontrado; a terceira, o que decidiu; a quarta, o que custaria o outro caminho. A quinta era a frase que a pessoa levaria, e quase sempre era a mesma que ele dizia ao cliente na obra, com as mesmas palavras. Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa.
 
-Antes disso, a decisão era o que mais custava. Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: vídeos com o celular num cavalete, regravados até sair certo; a legenda de três frases da parede que mentia; um texto de três parágrafos sobre janelas de ferro. Cada formato tinha funcionado uma vez. O problema aparecia na quarta-feira à noite, quando ele se sentava para decidir qual seria o da semana, e a decisão levava tanto tempo quanto a peça, e vinha primeiro, quando a cabeça já estava gasta.
+Antes disso, a decisão era o que mais custava. Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: vídeos com o celular num cavalete, regravados até sair certo; a legenda de três frases da parede que mentia; um texto de três parágrafos sobre janelas de ferro; o texto curto contado antes ao sócio, que dependia de o sócio estar no escritório na quinta de manhã. Cada um tinha dado uma boa peça, e nenhum, duas seguidas. O problema aparecia na quarta-feira à noite, quando ele se sentava para decidir qual seria o da semana. A decisão levava tanto tempo quanto a peça e vinha primeiro, com a cabeça já gasta.
 
 ## Decidir cansa mais do que fazer
 
@@ -49,11 +49,13 @@ porque: Um formato fixo elimina a decisão que mais se repete. Sem ela, o esfor�
 
 Um formato só serve de base se passar em quatro testes ao mesmo tempo. O primeiro é o do modo: ele nasce do jeito como você pensa, que o capítulo 7 ajudou a descobrir? O segundo é o do pior mês: cabe no número que você calculou no capítulo 8, com o custo medido por relógio? O terceiro é o do repertório: comporta um detalhe, uma exceção ou um critério, ou só cabe informação rasa? O quarto é o da repetição: você aguenta fazê-lo cem vezes sem passar a odiá-lo?
 
-Caio aplicou os quatro aos formatos que tinha tentado. O vídeo do granilite tinha custado quatro minutos, numa tomada só; os seguintes ele passou a regravar até sair certo, e o custo subiu para quarenta. Na obra, a tomada única dependia de um corredor vazio, da licença do dono e de a furadeira parar, e nas semanas de entrega nada disso acontecia. Passava no modo, porque ele conta bem em voz alta, mas no mês de entrega de obra sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia quarenta. O texto de três parágrafos passava no repertório e não passava no modo: escrever sem uma obra na frente o fazia rodear o assunto, e o rodeio custava cinquenta minutos. A foto com cinco linhas passou nos quatro, por um motivo que ele não tinha previsto. A foto era a obra na frente dele, e as cinco linhas eram o começo de uma história que ele sabia contar.
+Caio aplicou os quatro aos formatos que tinha tentado. A gravação do granilite tinha levado quatro minutos, numa tomada só, depois de meia hora pensando no carro no que diria; os seguintes ele passou a regravar até sair certo, e o custo subiu para quarenta. Na obra, a tomada única dependia de um corredor vazio, da licença do dono e de a furadeira parar, e nas semanas de entrega nada disso acontecia. Passava no modo, porque ele conta bem em voz alta, mas no mês de entrega de obra sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia quarenta.
 
-Na foto, o primeiro teste a reprovar foi o terceiro. Nas duas primeiras semanas, com a obra do Taquaral em entrega, ele voltou às legendas de uma linha que escrevia antes da ficha de léxico: "mais uma cozinha entregando", "o antes e o depois do Taquaral". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram na terceira, quando ele se lembrou da legenda da parede que mentia e percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
+O texto de três parágrafos passava no repertório e não passava no modo: escrever sem uma obra na frente o fazia rodear o assunto, e o rodeio custava cinquenta minutos. A foto com cinco linhas passou nos quatro, por um motivo que ele não tinha previsto. A foto era a obra na frente dele, e as cinco linhas eram o começo de uma história que ele sabia contar.
 
-O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas com as cinco linhas, sem julgar, e só então a pergunta. Na sexta semana, relendo as quatro em sequência, não sentiu vontade de mudar nenhuma delas. Lidas juntas, as quatro abriam com a mesma frase e fechavam com uma régua, e a moldura igual fazia cada obra parecer mais diferente das outras, e não menos.
+Na foto, o primeiro teste a reprovar foi o terceiro. Nas duas primeiras semanas, com a obra do Taquaral em entrega, ele voltou às legendas de uma linha que escrevia antes da ficha de léxico, sobre fotos antigas já liberadas: "mais um taco recuperado", "cozinha de 1970, antes e depois". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram na terceira, quando ele se lembrou da legenda da parede que mentia e percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
+
+O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas com as cinco linhas, sem julgar, e só então a pergunta. Na sexta semana, relendo as quatro em sequência, não sentiu vontade de mudar nenhuma delas. Lidas juntas, as quatro abriam com a mesma frase e fechavam com uma régua. A moldura igual fazia cada obra parecer mais diferente das outras.
 
 ```figura
 tipo: barras
@@ -63,7 +65,7 @@ series:
   - {rotulo: "Vídeo gravado até sair certo: 40", valor: 40, nota: "Passa no modo. Cai no pior mês."}
   - {rotulo: "Texto de três parágrafos: 50", valor: 50, nota: "Passa no repertório. Cai no modo, e por isso também no pior mês: sem a obra na frente, ele rodeia o assunto."}
   - {rotulo: "Foto da obra e cinco linhas: 12 a 15", valor: 14, nota: "Passa nos quatro testes."}
-legenda: Os números do vídeo e do texto são de abril e maio, anotados no caderno; os das cinco linhas, de julho a setembro. Os seus saem da cronometragem do capítulo 8.
+legenda: Os números do vídeo e do texto são de abril a junho, anotados no caderno; os das cinco linhas, de julho a setembro. Os seus saem da cronometragem do capítulo 8.
 ```
 
 ```nota
@@ -72,13 +74,13 @@ titulo: O formato rápido demais
 texto: Um formato que custa quase nada pode custar também o repertório. A frase solta, a foto sem contexto, o vídeo de quinze segundos passam nos testes do modo, do pior mês e da repetição, e falham no terceiro. O resultado é uma presença constante que não diz nada de seu.
 ```
 
-A palavra "mínimo" costuma ser lida como "o mais rápido possível", e é aí que o terceiro teste reprova. O mínimo que interessa é outro: a menor peça que ainda leva você dentro dela. Para o Caio, cinco linhas eram o mínimo porque quatro não comportavam o critério. Para outra pessoa, o mínimo pode ser um texto de doze linhas ou um áudio de três minutos, desde que caiba no pior mês e não perca o que é dela.
+É fácil ler "mínimo" como "o mais rápido possível", e é aí que o terceiro teste reprova. O mínimo que interessa é outro: a menor peça que ainda leva você dentro dela. Para o Caio, cinco linhas eram o mínimo porque quatro não comportavam o critério. Para outra pessoa, o mínimo pode ser um texto de doze linhas ou um áudio de três minutos, desde que caiba no pior mês e não perca o que é dela.
 
 ## Um formato por modo
 
-Cada modo tem formatos que tendem a passar nos quatro testes. Os personagens do livro encontraram os seus sem chamá-los assim, e a tabela reúne o que cada um usa, ao lado de um quinto formato que serve a mais de um modo. As durações ficam de fora de propósito: dependem da pessoa, e a única medida que vale é a sua, feita com relógio.
+Cada modo tem formatos que tendem a passar nos quatro testes. Renata, Otávio, Lúcia e Caio chegaram aos seus sem dar nome a eles. Um quinto formato serve a mais de um modo. As durações ficam de fora de propósito: dependem da pessoa, e a única medida que vale é a sua, feita com relógio.
 
-Os números dos personagens mostram por quê. A peça da Lúcia custava setenta e dois minutos quando ela cronometrou em janeiro, cinco vezes o custo da do Caio, e mesmo assim passa no teste do pior mês, porque ela tem oitenta e quatro minutos úteis por semana e publica uma. A da Renata custa uns trinta e cinco, e ela publica duas. Um formato-base precisa caber no número que você calculou, com folga, e a Lúcia mostra que isso pode passar de uma hora.
+Os números dos personagens mostram por quê. A peça da Lúcia custava setenta e dois minutos quando ela cronometrou em janeiro, cinco vezes o custo da do Caio, e mesmo assim passa no teste do pior mês, porque ela tem oitenta e quatro minutos úteis por semana e publica uma. A da Renata custa uns trinta e cinco, e ela publica duas. Um formato-base precisa caber no número que você calculou no capítulo 8, que já desconta a margem, e a Lúcia mostra que isso pode passar de uma hora.
 
 Tabela: Cinco formatos-base, por modo
 
@@ -94,9 +96,9 @@ O quinto formato é o que mais tenta, porque parece o mais natural para quem fal
 
 ```exemplo
 titulo: Um formato-base mal escolhido e um bem escolhido
-comum: Uma psicopedagoga que pensa falando escolhe um carrossel de dez lâminas, com arte própria. Mede o custo: noventa minutos. Na quarta semana, depois de uma reunião de pais que se estendeu, não publica. Na semana seguinte, também não.
+comum: Uma psicopedagoga que pensa falando escolhe um texto longo, com três intertítulos, escrito no computador depois do jantar. Mede o custo: noventa minutos. Na quarta semana, depois de uma reunião de pais que se estendeu, não publica. Na semana seguinte, também não.
 singular: A mesma psicopedagoga escolhe um áudio de três minutos, gravado no fim da tarde, respondendo a uma dúvida que os pais repetem na escola, e publicado como texto. Mede o custo: vinte minutos. Mantém duas peças por semana no semestre inteiro.
-porque: O segundo formato não é mais bonito. Ele nasce no modo dela, cabe no pior mês e comporta o repertório. O primeiro exigia que ela virasse designer antes de começar, e ela parou no primeiro imprevisto.
+porque: O segundo formato não é mais bonito. Ele nasce no modo dela, cabe no pior mês e comporta o repertório. O primeiro exigia que ela escrevesse a frio, fora do modo dela, e parou no primeiro imprevisto.
 ```
 
 ## A variação vem depois
@@ -130,7 +132,7 @@ Na obra da Vila Industrial, naquela manhã, Caio encontrou atrás da porta da á
 
 Naquela noite, Caio fez uma conta que vinha adiando. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada mudaria. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu.
 
-As quartas-feiras à noite ficaram livres. Caio passou a usar dez minutos delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
+Desde julho, as quartas-feiras à noite estavam livres. Caio usava dez minutos delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
 
 ```guardar
 - "O formato-base elimina a decisão que mais se repete. Sem ela, o esforço da semana vai para o assunto."
@@ -169,13 +171,13 @@ criterios:
 
 ```rede
 titulo: A primeira do formato-base
-intro: "Publique a peça da oficina. O assunto é o da captura que você escolheu, sobre a sua área; o formato é o que você vai repetir, e não precisa ser anunciado a ninguém."
+intro: "Publique a peça da oficina. O assunto é o da captura que você escolheu, sobre a sua área; o formato é o que você vai repetir."
 regras:
   - {regra: "Abra sempre do mesmo jeito.", porque: "A primeira frase é a decisão mais cara de cada peça. Fixá-la poupa essa decisão e, com o tempo, dá a quem lê um sinal de que é você antes da segunda linha."}
   - {regra: "Uma ideia por peça.", porque: "Duas ideias dividem a atenção de quem lê e gastam duas capturas do seu estoque de uma vez."}
   - {regra: "Termine quando a ideia acabar.", porque: "O formato mínimo não tem espaço para o resumo nem para o convite. A última frase é a do critério."}
 faca:
-  - "Uma cardiologista: “Uma pergunta que ouço no consultório:”, toda semana, com a mesma foto do estetoscópio sobre a mesa."
+  - "Uma cardiologista que abre toda semana com “Uma pergunta que ouço no consultório”, sobre a mesma foto do estetoscópio na mesa."
   - Manter a mesma duração aproximada de uma peça para a outra.
   - Publicar a peça mediana no dia marcado, em vez de guardá-la para melhorar.
 evite:
@@ -185,7 +187,7 @@ evite:
 esqueleto:
   - {rotulo: "A abertura", texto: "A sua frase de sempre.", linhas: 1}
   - {rotulo: "A ideia", texto: "Uma só, numa frase.", linhas: 2}
-  - {rotulo: "O detalhe", texto: "O que a sua prática viu e sustenta a ideia.", linhas: 3}
+  - {rotulo: "O detalhe", texto: "O que você viu na prática e que sustenta a ideia.", linhas: 3}
   - {rotulo: "O critério", texto: "A régua que a pessoa leva. É a última frase.", linhas: 2}
 roteiro: |
   {A sua abertura de sempre}.
@@ -200,12 +202,12 @@ faca_antes: true
 ```
 
 ```verificacao
-- pergunta: O que mais pesava na semana do Caio antes do formato-base?
+- pergunta: O que a medição de uma quarta de junho mostrou ao Caio?
   opcoes:
-    - O tempo de gravar e editar cada vídeo.
-    - A decisão de qual formato usar a cada semana.
-    - A falta de assuntos no caderno de campo.
-    - O custo do equipamento que ele tinha comprado.
+    - Que a peça em vídeo levava o dobro do tempo da decisão.
+    - Que decidir o formato custava tanto quanto a peça.
+    - Que faltavam assuntos no caderno de campo naquela semana.
+    - Que o equipamento que ele tinha comprado atrasava cada gravação.
   correta: 1
   explicacao: Numa quarta de junho, ele passou quarenta minutos decidindo o formato, tanto quanto levou a peça, e no fim do dia, com a cabeça gasta. O assunto a seleção resolvia; a decisão do formato voltava inteira toda semana.
 - pergunta: Por que a primeira versão da foto, com legenda de uma linha, não serviu?
@@ -215,7 +217,7 @@ faca_antes: true
     - Porque falhava no teste do repertório.
     - Porque não aguentaria cem repetições.
   correta: 2
-  explicacao: “Mais uma cozinha entregando” custava dois minutos e não dizia nada que outro arquiteto não pudesse dizer. A foto mostrava a obra; eram as cinco linhas que mostravam o arquiteto.
+  explicacao: “Mais um taco recuperado” custava dois minutos e não dizia nada que outro arquiteto não pudesse dizer. A foto mostrava a obra; eram as cinco linhas que mostravam o arquiteto.
 - pergunta: O que a regra das trinta pede?
   opcoes:
     - Não trocar o formato-base antes de trinta repetições.
@@ -223,7 +225,7 @@ faca_antes: true
     - Capturar trinta registros por semana no caderno.
     - Limitar cada vídeo a trinta segundos de duração.
   correta: 0
-  explicacao: A vontade de mudar aparece bem antes de quem lê ter visto a série. Para o público, ela ainda está começando, e a repetição é o que começa a produzir reconhecimento.
+  explicacao: A vontade de mudar aparece bem antes de quem lê ter visto a série. Para o público, ela ainda está começando, e a repetição é o que dá a quem lê a chance de reconhecer quem escreve.
 - pergunta: Como a variação entra no sistema, depois das trinta?
   opcoes:
     - No lugar do formato-base, que já cumpriu o papel dele.

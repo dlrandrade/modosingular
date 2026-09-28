@@ -8,7 +8,7 @@ ilustracao: lente
 legenda_ilustracao: O instrumento mais visível nem sempre mede o que importa.
 ---
 
-Em junho, uma peça do escritório do Otávio passou de mil curtidas. Era um texto curto sobre feriados: se o empregador pode exigir que alguém trabalhe no dia de São João, e quanto deve pagar por isso. Uma página de humor do Recife compartilhou, com uma piada sobre quadrilha, e em três dias a peça tinha sido vista por mais gente do que todas as outras do ano somadas. Sílvia, da agência, mandou os números numa planilha, com três pontos de exclamação no assunto do e-mail.
+Em junho, uma peça do escritório do Otávio passou de mil curtidas. Era um texto curto sobre feriados: se o empregador pode exigir que alguém trabalhe no São João, nas cidades em que ele é feriado, e quanto deve pagar por isso. Uma página de humor do Recife compartilhou, com uma piada sobre quadrilha, e em três dias a peça tinha sido vista por mais gente do que todas as outras do ano somadas. Sílvia, da agência, mandou os números numa planilha, com três pontos de exclamação no assunto do e-mail.
 
 Na mesma semana, uma peça de abril, sobre advertências escritas na véspera da audiência, completava dois meses com doze curtidas. Era um dos versos dos pareceres, passado a limpo por Sílvia sem nenhuma troca de palavra, e tinha passado despercebido. Otávio só voltou a pensar nela por causa de uma conversa com Helena, na sexta. Helena tinha começado a perguntar, a todo cliente novo, na primeira ligação, como tinha chegado ao escritório. Em junho, três empresários tinham respondido a mesma coisa.
 
@@ -18,7 +18,7 @@ A primeira reação de Otávio aos números do São João tinha sido de satisfa�
 
 A peça do São João não trouxe ninguém. Trouxe mil e poucas curtidas, duzentos comentários sobre quadrilha e uma dúzia de mensagens de empregados querendo saber se tinham direito a folga, que Otávio não atende, porque defende empresas. Sílvia, animada, propôs uma série sobre feriados para o segundo semestre. Otávio pediu uma semana para pensar e passou a semana olhando para os números de outro jeito.
 
-As mensagens dos empregados o incomodaram mais do que a falta de clientes. Eram pessoas com dúvidas reais, algumas aflitas, e ele não podia orientá-las: defende as empresas, e aconselhar o outro lado seria um conflito que o código de ética da advocacia não admite. Respondeu a todas do mesmo jeito, indicando a defensoria e o sindicato de cada categoria. A peça tinha trazido ao escritório exatamente o público que ele não podia atender.
+As mensagens dos empregados o incomodaram mais do que a falta de clientes. Eram pessoas com dúvidas reais, algumas aflitas, e ele não podia orientá-las: defende as empresas, e aconselhar empregados, sem saber se do outro lado estava um cliente do escritório, podia pô-lo em conflito com quem ele defende. Respondeu a todas do mesmo jeito, indicando o sindicato de cada categoria e o atendimento gratuito das faculdades de direito. A peça tinha trazido ao escritório exatamente o público que ele não podia atender.
 
 ## O que o número mostra
 
@@ -145,7 +145,7 @@ criterios:
 
 ```rede
 titulo: O número que engana na sua área
-intro: "Toda área tem um indicador pelo qual os clientes a avaliam, e quase sempre ele engana. A peça fala desse indicador, na sua área, e do que você olha no lugar dele. O assunto é o seu trabalho, e não as suas métricas de publicação."
+intro: "Toda área tem um indicador pelo qual os clientes a avaliam, e muitas vezes ele engana. A peça fala desse indicador, na sua área, e do que você olha no lugar dele. O assunto é o seu trabalho, e não as suas métricas de publicação."
 regras:
   - {regra: "Comece pelo número que todos usam.", porque: "Quem lê reconhece o critério com que já avalia profissionais da sua área, e presta atenção quando alguém o questiona com respeito."}
   - {regra: "Mostre o que ele deixa de fora.", porque: "O valor da peça está no que o número comum não enxerga, e que você enxerga por atender muitos casos."}
@@ -164,7 +164,7 @@ esqueleto:
   - {rotulo: "O que você olha", texto: "O indicador que diz mais, na sua prática.", linhas: 2}
   - {rotulo: "Como conferir", texto: "Como a pessoa verifica isso sozinha.", linhas: 2}
 roteiro: |
-  Quase todo mundo avalia {o que você faz} pelo mesmo número: {o indicador comum}.
+  {A sua abertura de sempre}. Quase todo mundo avalia {o que você faz} pelo mesmo número: {o indicador comum}.
 
   Faz sentido, porque {por que ele parece bom}. Mas ele engana, porque {o que ele deixa de fora}.
 

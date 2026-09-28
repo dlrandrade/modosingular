@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 20:41
+# atualizado: 2026-09-28 20:44
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -666,7 +666,7 @@ capitulos:
       veredito: aprovado
     nota: 9.04
   20:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 19:42
@@ -705,8 +705,16 @@ capitulos:
       bloqueadores: 1
       lint_erros: 0
       veredito: reprovado
-    nota: 9.03
-    alerta: '4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão.'
+    - iteracao: 5
+      data: 2026-09-28 20:42
+      revisao: apostila/revisoes/cap20-r5.yaml
+      media: 9.07
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.07
   21:
     status: reprovado
     iteracoes:
@@ -948,6 +956,7 @@ figurantes:
   - 17
   professora de inglês:
   - 19
+  - 27
   enfermeira:
   - 21
   costureira:
@@ -983,6 +992,10 @@ decisoes:
   critério abaixo de 8, e o único bloqueador era uma linha de sigilo (abertura ''A pergunta desta semana…''), introduzida
   pela própria r3. O capítulo convergiu; reescrever jogaria fora o que já passou. Também foi tirado o break-inside:
   avoid do bloco .regras da rede, para ela poder começar no pé de página; cada regra continua inteira.'
+- '2026-09-28: CSS: ''.rotulo + .esqueleto'' deixou de ter break-after: avoid (prendia o esqueleto da rede ao roteiro
+  seguinte e empurrava os dois para a página seguinte, com até 60% de branco). Vale para todos os capítulos; cap20
+  perdeu duas páginas. Cap. 20 aprovado na r5 (9,07), com correções de linha aplicadas depois (legendas do Taquaral
+  trocadas por fotos antigas já liberadas, texto do cap. 18 na lista de formatos, psicopedagoga sem carrossel).'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de
