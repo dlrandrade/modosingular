@@ -16,7 +16,7 @@ Sílvia leu as cinco regras em silêncio. Eu começo pela pior hipótese. Eu uso
 
 Na última, ela riu, reconhecendo o bordão da própria agência, e Otávio riu com ela. Não havia ressentimento na folha. Havia, pela primeira vez, uma instrução.
 
-A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos já liberados, os parágrafos que escreve à mão atrás da última folha de cada parecer e que só saem depois da data anotada a lápis no canto, e mandaria as fotos para Sílvia. Os da semana continuavam na pasta, esperando a vez. Ele marcaria qual deles seria publicado e, em cada um, sublinharia a última frase, a pergunta. A agência digitaria sem trocar nenhuma palavra, conferiria com as regras e agendaria para terça, com o texto sobre fundo branco. A arte e a triagem dos comentários viriam depois, se nenhuma palavra voltasse trocada. Mais nada.
+A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos já liberados, os parágrafos que escreve à mão atrás da última folha de cada parecer e que só saem depois da data anotada a lápis no canto, e mandaria as fotos para Sílvia. Os da semana continuavam na pasta, esperando a vez. Antes das fotos, marcaria qual deles seria publicado e sublinharia a última frase de cada um, a pergunta. A agência digitaria sem trocar nenhuma palavra, conferiria com as regras e agendaria para terça, com o texto sobre fundo branco. A arte e a triagem dos comentários viriam depois, se nenhuma palavra voltasse trocada. Mais nada.
 
 Sílvia fez uma pergunta que Otávio esperava, e que merece ser feita por qualquer agência: e as datas? E o calendário? E o que o perfil publica nas semanas em que ele não mandar nada? Otávio respondeu com a folha de fluxo. Nenhuma peça sai sem um texto dele correspondente. Na semana em que ele não mandar, o perfil não publica. Não haveria bandeirinha de São João, nem arte do Dia do Trabalhador, nem nenhuma frase escrita para preencher um espaço.
 
@@ -24,11 +24,11 @@ A decisão de voltar tinha uma razão concreta. Desde janeiro, o maço de versos
 
 ## O erro era a ordem
 
-No capítulo 4, a agência fazia bem o trabalho que lhe tinham pedido, e o trabalho era impossível: inventar, a partir de uma reunião de uma hora, a voz de alguém que ainda não a conhecia. A mesma agência, com as mesmas pessoas, produzia peças genéricas dois anos antes e passou a produzir peças do Otávio em abril, e a diferença não estava nela.
+Dois anos antes, a agência tinha recebido uma tarefa impossível: inventar a voz de alguém que ainda não a conhecia. Com as mesmas pessoas, passou a produzir peças do Otávio em abril, e a diferença não estava nela.
 
-Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. Tudo o que levou na pasta saiu daí, e nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil exatamente porque deixou de ter de adivinhar.
+Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. O manual saiu daí, e o resto da pasta, de um ano e meio escrevendo toda semana. Nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil exatamente porque deixou de ter de adivinhar.
 
-Helena foi a mais desconfiada. Tinha visto o perfil do escritório passar anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu o que havia na pasta antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
+Helena desconfiou. Tinha visto o perfil do escritório passar anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu o que havia na pasta antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
 
 ```conceito
 termo: Delegação madura
@@ -36,12 +36,12 @@ definicao: A contratação de apoio feita depois que você descobriu a própria 
 porque: O mesmo profissional, contratado no momento errado, produz conteúdo genérico; contratado no momento certo, multiplica o alcance sem apagar ninguém. O que muda de um caso para o outro é o que você leva à primeira reunião.
 ```
 
-Há quatro condições para delegar, e Otávio tinha as quatro. O primeiro é ter publicado ao menos trinta peças no seu formato-base, com um padrão que se reconhece. O segundo é ter um manual de voz escrito que outra pessoa consiga seguir. O terceiro é que a etapa que mais consome o seu tempo seja mecânica, como digitar, formatar ou agendar. O quarto é conseguir apontar uma frase e dizer "esta não é minha", explicando por quê.
+Há quatro condições para delegar, e Otávio tinha as quatro. A primeira é ter publicado ao menos trinta peças no seu formato-base (capítulo 20), com um padrão que se reconhece. A segunda é ter um manual de voz escrito que outra pessoa consiga seguir. A terceira é que a etapa que mais consome o seu tempo seja mecânica, como digitar, formatar ou agendar. A quarta é conseguir apontar uma frase e dizer "esta não é minha", explicando por quê.
 
 ```nota
 tipo: alerta
 titulo: Se alguma condição faltar
-texto: Não contrate ainda. Contratar antes das quatro condições não acelera nada: só passa a outra pessoa a tarefa de adivinhar quem você é, e ela vai adivinhar pela média do seu mercado. A urgência, que foi o motivo do Otávio no capítulo 4, é o pior deles.
+texto: Não contrate ainda. Contratar antes das quatro condições não acelera nada: só passa a outra pessoa a tarefa de adivinhar quem você é, e ela vai adivinhar pela média do seu mercado. Dos motivos para contratar, a urgência, que foi a do Otávio no capítulo 4, é o pior.
 ```
 
 A quarta condição é a que mais pesa, e é a que Otávio não tinha dois anos antes. Naquela época, ele aprovava por falta de objeção. Agora conseguia apontar a frase e o motivo: a abertura pelo lado bom, o "é importante", a exclamação, o fecho que manda procurar um advogado em vez de perguntar alguma coisa ao leitor.
@@ -66,7 +66,7 @@ direita:
   itens:
     - "“A partir do material do cliente.”"
     - "“Digitação sem trocar palavras.”"
-    - "“Arte, legenda e agendamento.”"
+    - "“Arte, legenda tirada do texto, agenda.”"
     - "“Triagem; dúvida técnica vai a ele.”"
     - Você decide. Eles executam.
 ```
@@ -87,11 +87,9 @@ itens:
 
 ## Revisar sem virar gargalo
 
-O primeiro texto que voltou da agência tinha uma frase trocada. Era o verso sobre o banco de horas, e a pergunta final, sublinhada à mão, dizia: quem, na sua empresa, confere essa folha todo mês? A versão digitada terminava assim: "Conte sempre com uma assessoria jurídica especializada." Sílvia tinha achado que faltava uma chamada. Otávio desfez a troca, e Sílvia não se ofendeu. Pediu que a regra entrasse também no manual, como sétima linha: a última frase é sempre dele, e nunca muda. A folha de fluxo ficava com Otávio; o manual ficava na mesa dela.
+O primeiro texto que voltou da agência tinha uma frase trocada. Era o verso sobre o banco de horas, e a pergunta final, sublinhada à mão, dizia: quem, na sua empresa, confere essa folha todo mês? A versão digitada terminava assim: "Controle é proteção." Sílvia tinha achado que a pergunta deixava o texto em aberto e fechou com uma frase de efeito. Otávio desfez a troca, e Sílvia não se ofendeu. Pediu que a regra entrasse também no manual, como sétima linha: a última frase é sempre dele, e nunca muda. A folha de fluxo ficava com Otávio; o manual ficava na mesa dela.
 
-Delegar tem ainda outro risco, além da perda de voz: você virar o gargalo. A equipe entrega na segunda, o material espera a sua aprovação até quinta, e a semana seguinte começa atrasada. Otávio evitou isso com uma revisão curta, feita sempre na mesma ordem. Na primeira semana, levava uns quatro minutos por peça. Cada vez que encontrava uma frase fora do lugar, em vez de só corrigir, acrescentava uma linha ao manual.
-
-Quando a triagem de comentários passou para a agência, no segundo mês, seguiu a mesma lógica. A agência responde ao que é logística, como o endereço do escritório ou o horário de atendimento, e encaminha a Otávio tudo o que é dúvida de direito. Ele responde por escrito, do jeito dele, e a resposta volta para o perfil com as palavras dele. Uma dúvida técnica respondida por outra pessoa seria, afinal, uma opinião jurídica emitida em nome de quem não a leu.
+Delegar tem ainda outro risco, além da perda de voz: você virar o gargalo. A equipe entrega na segunda, o material espera a sua aprovação até quinta, e a semana seguinte começa atrasada. Otávio evitou isso com uma revisão curta, feita sempre na mesma ordem. Na primeira semana, levava uns quatro minutos por peça. Cada vez que encontrava uma frase fora do lugar, em vez de só corrigir, acrescentava uma linha ao manual. A oitava veio da legenda da terceira semana, que repetia a pergunta final com outras palavras; a nona, de uma hashtag que ele nunca usaria. As duas diziam o mesmo: a legenda é a primeira frase do texto, sem acréscimo.
 
 Tabela: A revisão de um minuto
 
@@ -102,7 +100,9 @@ Tabela: A revisão de um minuto
 | A última frase | Dez segundos | É a que eu escrevi, sem nenhuma troca? |
 | O resto | Vinte segundos | Há alguma palavra aqui que eu não uso? |
 
-Na quarta semana, a revisão caiu para pouco mais de um minuto, e continuou ali. O manual tinha passado de seis para nove linhas. A revisão curta é o sinal de que o documento está bom. Quando ela passa de dois minutos por peça, semana após semana, o problema está na instrução, e não na equipe. Um minuto basta quando ninguém corta nem reescreve, como no caso do Otávio. Se a sua ajuda corta o áudio, a revisão continua sendo a leitura inteira do capítulo 23, e o que encurta com o manual é o número de marcas. Melhorar o manual resolve de uma vez o que corrigir peça por peça resolve só naquela peça.
+Na quarta semana, a revisão caiu para pouco mais de um minuto, e continuou ali. O manual tinha passado de seis para nove linhas. A revisão curta é o sinal de que o documento está bom. Quando ela passa de dois minutos por peça, semana após semana, o problema está na instrução, e não na equipe.
+
+Um minuto basta quando ninguém corta nem reescreve, como no caso do Otávio. Se a sua ajuda corta o áudio, a revisão continua sendo a leitura inteira do capítulo 23, e o que encurta com o manual é o número de marcas. Melhorar o manual resolve de uma vez o que corrigir peça por peça resolve só naquela peça.
 
 ```figura
 tipo: barras
@@ -118,18 +118,20 @@ legenda: Os números são do Otávio. Cada frase fora do lugar virou uma linha n
 
 ## Começar pequeno
 
-Otávio não entregou tudo de uma vez, como tinha dito a Sílvia. No primeiro mês, a agência só digitava e agendava, com a arte mais simples possível, o texto sobre fundo branco. Só depois de quatro semanas sem nenhuma troca de palavra ele passou a arte e a triagem de comentários. Delegar uma etapa por vez tem uma vantagem que só aparece quando algo dá errado: se a voz se perde, você sabe em qual passagem ela se perdeu.
+Como tinha combinado com Sílvia, Otávio não entregou tudo de uma vez. No primeiro mês, a agência só digitava e agendava, com a arte mais simples possível, o texto sobre fundo branco. Só depois de quatro semanas seguidas sem nenhuma troca de palavra, no fim do segundo mês, ele passou a arte e a triagem de comentários. Delegar uma etapa por vez tem uma vantagem que só aparece quando algo dá errado: se a voz se perde, você sabe em qual passagem ela se perdeu.
 
-O mesmo vale para quem ainda trabalha sozinho e pensa em usar ajuda, seja uma pessoa, seja uma ferramenta. A ordem é a do capítulo 23, da etapa mais mecânica para a menos. O que este capítulo acrescenta é o prazo: observe um mês, e só passe a etapa seguinte depois de quatro semanas sem nenhuma troca. Se uma frase voltar trocada, corrija o manual antes de passar qualquer outra coisa. A pressa em delegar tudo de uma vez é a mesma pressa que, no capítulo 4, levou à agência antes da voz.
+A triagem seguiu a mesma lógica. A agência responde ao que é logística, como o endereço do escritório ou o horário de atendimento, e encaminha a Otávio tudo o que é dúvida de direito. Ele responde por escrito, do jeito dele, e a resposta volta para o perfil com as palavras dele. Uma dúvida técnica respondida por outra pessoa seria, afinal, uma opinião jurídica que ele não deu, assinada com o nome dele.
 
-Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro, que Otávio passou para Sílvia inteiro, com a instrução de usá-los na ordem em que ele numerou e de pular qualquer um cuja data a lápis ainda não tivesse chegado. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
+O mesmo vale para quem ainda trabalha sozinho e pensa em usar ajuda, seja uma pessoa, seja uma ferramenta. A ordem é a do capítulo 23, da etapa mais mecânica para a menos, com um prazo: observe um mês, e só passe a etapa seguinte depois de quatro semanas sem nenhuma troca. Se uma frase voltar trocada, corrija o manual antes de passar qualquer outra coisa. A pressa em delegar tudo de uma vez é a mesma que, dois anos antes, levou Otávio à agência antes da voz.
 
-No fim de maio, a empresária das três lojas de material de construção, a que tinha chegado ao escritório depois do telefonema de Seu Ednaldo, cliente havia um ano, mandou ao escritório o link de uma das peças, com uma pergunta: a folha do banco de horas dela estava certa? Tinha lido na terça e conferido na quarta. Otávio respondeu que marcaria uma conversa. Era o tipo de mensagem que as artes azuis nunca tinham produzido: uma cliente que leu, foi conferir e voltou com uma pergunta da própria empresa. Antes de fechar o e-mail, ele sublinhou, na folha de fluxo que guardava na mesa, a frase que tinha escrito ali em abril: a última frase é minha.
+Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro. Otávio separou os que já tinham passado da data a lápis, fotografou o verso de cada um, numerou as fotos e mandou todas a Sílvia de uma vez, com a instrução de usá-las na ordem. Só a foto do verso saía do escritório. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
+
+No fim de maio, uma cliente mandou ao escritório o link de uma das peças. Era a empresária das três lojas de material de construção, que tinha chegado havia um ano pelo contador das padarias de Seu Ednaldo. Perguntava se a folha do banco de horas dela estava certa. Tinha lido na terça e conferido na quarta. Otávio respondeu que marcaria uma conversa. Era o tipo de mensagem que as artes azuis nunca tinham produzido: uma cliente que leu, foi conferir e voltou com uma pergunta da própria empresa. Antes de fechar o e-mail, ele sublinhou, na folha de fluxo que guardava na mesa, a frase que tinha escrito ali em abril: a última frase é minha.
 
 ```guardar
 - O erro nunca foi contratar ajuda. Foi a ordem. Contratar antes de conhecer a própria voz passa a outra pessoa a tarefa de adivinhar quem você é.
 - "O contrato começa sempre pelo seu material: nenhuma peça sai sem um texto ou um áudio seu correspondente."
-- Se a revisão demora mais de dois minutos por peça, o problema está no manual, e não na equipe.
+- Quando a ajuda só digita e formata, uma revisão acima de dois minutos por peça aponta para o manual, e não para a equipe.
 ```
 
 ```oficina
@@ -143,7 +145,7 @@ campos:
       colunas: ["Tenho", "Ainda não"]
       linhas: ["Trinta peças no formato-base", "Manual de voz que outra pessoa consegue seguir", "A etapa que mais me consome é mecânica", "Sei apontar uma frase que não é minha, e dizer por quê"]
   - rotulo: "O escopo que você contrataria, por escrito"
-    exemplo: "Comece sempre por “a partir do material enviado por mim…”. Sem as palavras criação, pauta ou planejamento. Uma paisagista: “A partir das fotos e áudios enviados por mim: transcrição sem troca de palavras, legenda e agendamento.”"
+    exemplo: "Comece sempre por “a partir do material enviado por mim…”. Sem as palavras criação, pauta ou planejamento. Uma paisagista: “A partir das fotos e áudios enviados por mim: transcrição sem troca de palavras, legendas do vídeo e agendamento.”"
     linhas: 4
   - rotulo: "O que nunca passa adiante, escrito como instrução a outra pessoa"
     exemplo: "Uma designer de interiores: “A escolha do projeto, a opinião sobre ele e a última frase são minhas. Sem foto e texto meus, não há peça.”"
@@ -151,9 +153,9 @@ campos:
   - rotulo: "O fluxo do material: o que você manda, quanto, quando e por onde"
     exemplo: "Um corretor de seguros: “Dois áudios por semana, até quinta à noite, pelo mesmo grupo. Se não houver áudio, não há peça.”"
     linhas: 3
-  - rotulo: "O manual e o corpus: a linha que o seu código de ética exige no manual e as dez peças que você entregaria"
-    exemplo: "Na linha 1, a regra de ética. Nas outras, o título ou a data das peças, as que mais soam como você."
-    linhas: 3
+  - rotulo: "O manual e o corpus: a regra de ética (ou, se a sua profissão não tem código de publicidade, a regra que você nunca quebra) e as peças que você entregaria"
+    exemplo: "Na linha 1, a regra. Nas outras, as datas das peças que mais soam como você; se ainda não tem dez, as que tem e o mês em que terá as dez."
+    linhas: 5
     numerar: true
   - rotulo: "A sua revisão, na ordem"
     exemplo: "Abertura, frase central, última frase, o resto, uma pergunta para cada. Se a sua ajuda corta o material, a revisão é a leitura inteira do capítulo 23."
@@ -162,38 +164,38 @@ criterios:
   - O escopo do campo 02 não tem as palavras criação, pauta ou planejamento.
   - O campo 03 está escrito como instrução a outra pessoa, e não como anotação sua.
   - O fluxo do campo 04 tem frequência e canal definidos.
-  - O manual do campo 05 tem uma linha sobre o que o seu código proíbe.
+  - O manual do campo 05 tem uma linha com a regra de ética ou a regra que você nunca quebra.
 ```
 
 ```rede
-titulo: A pergunta que o cliente deveria fazer
-intro: "Escreva ou grave a peça da semana no seu modo, como se fosse o primeiro material enviado a quem vai ajudar você. O assunto é a sua área; a última frase é a que você sempre escreve, do jeito que o seu manual diz, e ela é sua."
+titulo: Como escolher alguém da minha área
+intro: "Escreva ou grave, no seu modo, uma peça que ensine quem lê a escolher um profissional da sua área, com critérios que um leigo consegue conferir sozinho. É o primeiro material que você mandaria a quem vai ajudar você, e a última frase é sua."
 regras:
+  - {regra: "Dê critérios que o leigo confere sozinho.", porque: "Quem ainda não conhece a sua área não sabe avaliar técnica. Sabe conferir se o profissional pergunta, explica e registra."}
+  - {regra: "Seja honesto no convite.", porque: "Se os critérios valem, valem para os colegas também. Dizer isso é o que torna a peça confiável."}
   - {regra: "Mande o material, e não a ideia do material.", porque: "Um áudio ou um texto seu já carrega a voz. Uma sugestão de tema obriga outra pessoa a escrever por você."}
-  - {regra: "Sublinhe a última frase.", porque: "É onde mora a posição. Quem ajuda pode formatar tudo, menos ela."}
-  - {regra: "Revise na ordem, sempre a mesma.", porque: "Uma revisão com ordem fixa cabe num minuto e passa sempre pelos mesmos lugares. A revisão solta da primeira semana do Otávio levou quatro minutos e deixou passar a última frase."}
 faca:
-  - "“Esta é a minha peça da semana. Sua parte começa na digitação.”"
+  - "Otávio: “Antes de contratar um advogado para a sua empresa, veja se ele pede os controles de ponto na primeira conversa.”"
+  - Sublinhar a última frase antes de mandar o material.
   - "“Se alguma coisa não couber no manual, me pergunte antes.”"
-  - "Otávio: “Quem, na sua empresa, confere essa folha todo mês?”"
 evite:
   - "“Faz do jeito que achar melhor, você é que entende de redes.”"
-  - Entregar a última frase para a equipe “melhorar”.
-  - Contratar por urgência, antes das quatro condições.
+  - Critérios que só um colega consegue avaliar.
+  - Falar mal de colegas ou comparar-se com eles.
 esqueleto:
-  - {rotulo: "A situação", texto: "Depois da sua abertura de sempre, o que acontece na sua área, dito como você diz.", linhas: 2}
-  - {rotulo: "O risco", texto: "O que dá errado, e por quê.", linhas: 3}
-  - {rotulo: "O que fazer", texto: "A recomendação, sem promessa de resultado.", linhas: 2}
-  - {rotulo: "A última frase", texto: "O seu fecho de sempre (uma pergunta, uma consequência, uma regra). Sublinhe.", linhas: 2}
+  - {rotulo: "A escolha", texto: "Depois da sua abertura de sempre, a decisão que a pessoa tem pela frente.", linhas: 2}
+  - {rotulo: "Três critérios", texto: "O que ela pode conferir sozinha, sem entender da sua técnica.", linhas: 4}
+  - {rotulo: "O sinal de alerta", texto: "O que deveria fazê-la desconfiar.", linhas: 2}
+  - {rotulo: "A última frase", texto: "O convite honesto, no seu fecho de sempre. Sublinhe.", linhas: 2}
 roteiro: |
-  {A sua abertura de sempre}. {O que acontece na sua área}.
+  {A sua abertura de sempre}. Se você vai escolher {o tipo de profissional}, olhe três coisas.
 
-  O risco está em {o que dá errado, e por quê}.
+  Primeiro, {o primeiro critério}. Depois, {o segundo}. E por fim, {o terceiro}.
 
-  O que eu recomendo é {a recomendação, sem promessa}.
+  Desconfie de quem {o sinal de alerta}.
 
-  {O seu fecho de sempre, sublinhado}.
-roteiro_nota: Em áreas regulamentadas, nada de promessa de resultado nem de chamada para contratar. A pergunta final faz o papel que a chamada faria, sem ferir o código.
+  Se passar nos três, você está bem servido, comigo ou não. {O seu fecho de sempre, sublinhado}.
+roteiro_nota: Nenhuma promessa de resultado. Confira no seu código se a chamada para contratar é permitida; na advocacia não é, e o convite honesto, sem pedido, faz o papel que a chamada faria.
 faca_antes: true
 ```
 
@@ -202,7 +204,7 @@ faca_antes: true
   opcoes:
     - Porque trocou a equipe por outra mais experiente.
     - Porque o número de publicações subiu para trinta por mês.
-    - "Porque recebeu voz, manual e escopo definidos."
+    - "Porque recebeu manual, amostra de voz e escopo definidos."
     - Porque as peças passaram a ser em vídeo.
   correta: 2
   explicacao: A agência era a mesma. Dois anos antes, tinha de adivinhar a voz de alguém que não a conhecia. Em abril, recebeu um manual, uma amostra de voz, a lista do que não era dela e um fluxo de material.
@@ -214,7 +216,7 @@ faca_antes: true
     - O cliente revisa o calendário de pautas do trimestre.
   correta: 0
   explicacao: Sem texto ou áudio seu, não há o que formatar. A equipe deixa de ter como preencher uma semana vazia com a média do mercado.
-- pergunta: A revisão está levando cinco minutos por peça. Qual é o diagnóstico?
+- pergunta: A sua ajuda só digita e formata o que você manda, e a revisão está levando cinco minutos por peça. Qual é o diagnóstico?
   opcoes:
     - A equipe é fraca e precisa ser trocada.
     - O volume de peças está alto demais para revisar.
@@ -229,7 +231,7 @@ faca_antes: true
     - Ter um manual de voz que outra pessoa consegue seguir.
     - Conseguir apontar uma frase que não é sua.
   correta: 1
-  explicacao: A urgência foi o motivo do Otávio no capítulo 4, e é o pior. Contratar por falta de tempo, antes de conhecer a própria voz, é o erro do capítulo 4.
+  explicacao: A urgência foi o motivo do Otávio no capítulo 4, e é o pior. Contratar por falta de tempo, antes de conhecer a própria voz, repete aquele erro.
 ```
 
 ```aplicacao
