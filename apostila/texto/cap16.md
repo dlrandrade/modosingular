@@ -8,13 +8,13 @@ ilustracao: colheita
 legenda_ilustracao: Maduro há muito tempo. Nunca colhido.
 ---
 
-A cliente nova chegou ao escritório numa segunda-feira de manhã com uma pasta azul debaixo do braço. Era dona de duas academias em Boa Viagem, com onze instrutores, e tinha acabado de receber a notificação de uma ação trabalhista. Um instrutor que tinha saído em março pedia vínculo de emprego, horas extras e férias. Ela abriu a pasta sobre a mesa, com a calma de quem traz a solução junto com o problema, e mostrou o contrato de prestação de serviços, assinado, com firma reconhecida em cartório. "Ele era autônomo. Está tudo aqui."
+A cliente nova chegou ao escritório numa segunda-feira de manhã com uma pasta azul debaixo do braço. Era dona de duas academias em Boa Viagem, com onze instrutores, e tinha acabado de receber a notificação de uma ação trabalhista. Um instrutor que tinha saído em março pedia o reconhecimento do vínculo de emprego, horas extras e férias. Ela abriu a pasta sobre a mesa, com a calma de quem traz a solução junto com o problema, e mostrou o contrato de prestação de serviços, assinado, com firma reconhecida em cartório. "Ele era autônomo. Está tudo aqui."
 
 Otávio olhou o contrato por alguns segundos, fechou a pasta com cuidado e disse a frase que diz a todo cliente novo, há quase vinte anos: "Contrato assinado não é prova de nada."
 
 A cliente franziu a testa, como todos franzem. Otávio já contava com isso, e sabia também o que vinha em seguida, e em que ordem.
 
-Perguntou quem definia o horário do instrutor. Quem dava as broncas quando ele chegava atrasado. Se ele usava a camiseta da academia, se podia mandar outra pessoa no lugar dele num dia de folga, se era a academia que distribuía os alunos e cobrava deles. A cada resposta, a cliente ia percebendo sozinha o que ele queria mostrar. No fim, Otávio explicou que a Justiça do Trabalho olha primeiro para como o trabalho aconteceu de fato, e só depois para o que está no papel. Quando os dois não combinam, em regra vale o que aconteceu.
+Perguntou quem definia o horário do instrutor. Quem dava as broncas quando ele chegava atrasado. Se ele usava a camiseta da academia, se podia mandar outra pessoa no lugar dele num dia em que não pudesse ir, se era a academia que distribuía os alunos e cobrava deles. A cada resposta, a cliente ia percebendo sozinha o que ele queria mostrar. No fim, Otávio explicou que a Justiça do Trabalho olha primeiro para como o trabalho aconteceu de fato, e só depois para o que está no papel. Quando os dois não combinam, em regra vale o que aconteceu.
 
 Os advogados chamam isso de primazia da realidade, e o nome técnico não ajuda o cliente a entender. O que ajuda é a sequência de perguntas. Quem define o horário, quem dá a bronca, quem escolhe os alunos, quem pode mandar outra pessoa no lugar. Cada pergunta procura um sinal de subordinação ou de pessoalidade, os traços que, somados, fazem de alguém um empregado, esteja o contrato escrito como estiver. A cliente não precisava saber o nome do princípio. Precisava ver, com os fatos da academia dela, por que o papel com firma reconhecida não resolvia nada.
 
@@ -40,7 +40,7 @@ nos:
   - {rotulo: "Hoje, refinada e invisível", nota: "Sai automática. E, por sair automática, você deixou de vê-la."}
 ```
 
-É um ajuste fino feito com clientes reais. Cada cliente que se perdeu mostrou onde a explicação precisava mudar; cada um que entendeu mostrou o que manter. Uma equipe de comunicação não consegue reproduzir esse processo numa reunião de pauta, porque ele exige anos de testes que só a prática oferece.
+Esse encurtamento é um ajuste fino feito com clientes reais. Cada cliente que se perdeu mostrou onde a explicação precisava mudar; cada um que entendeu mostrou o que manter. Uma equipe de comunicação não consegue reproduzir esse processo numa reunião de pauta, porque ele exige anos de testes que só a prática oferece.
 
 ```conceito
 termo: Explicação madura
@@ -52,13 +52,13 @@ A pergunta recorrente diz o assunto; a explicação madura é a resposta que já
 
 ## Por que ela nunca foi publicada
 
-Otávio nunca publicou a explicação do contrato, e não por falta de vontade. São quatro razões.
+Otávio nunca publicou a explicação do contrato, e não por falta de vontade.
 
-A primeira é que ela ficou automática, e o automático parece banal. Otávio achava a explicação tão óbvia que não conseguia imaginar alguém interessado nela, embora visse, toda semana, a cara de surpresa dos clientes ao ouvi-la. A segunda é supor que todo colega explica do mesmo jeito. A versão do Otávio tem as perguntas dele, na ordem dele, ajustadas por clientes que só ele atendeu.
+Ela ficou automática, e o automático parece banal. Otávio achava a explicação tão óbvia que não conseguia imaginar alguém interessado nela, embora visse, toda semana, a cara de surpresa dos clientes ao ouvi-la. Também supunha que todo colega explicasse do mesmo jeito. A versão do Otávio tem as perguntas dele, na ordem dele, ajustadas por clientes que só ele atendeu.
 
-A terceira razão é achar que o assunto já está na internet. Está, em dezenas de textos sobre o princípio da primazia da realidade. Otávio leu alguns: estavam corretos e escritos para advogados. A explicação que funciona com a dona de academia não está em lugar nenhum. A quarta é a mais difícil de ver: explicar é o que ele faz o dia inteiro, e ninguém publica o próprio expediente. Otávio nunca tinha pensado em publicar o que faz na primeira reunião, pela mesma razão que um cozinheiro não pensa em fotografar o arroz.
+Achava, ainda, que o assunto já estava na internet. Está, em dezenas de textos sobre o princípio da primazia da realidade. Otávio leu alguns: estavam corretos e escritos para advogados. A explicação que funciona com a dona de academia não está em lugar nenhum. E havia a razão mais difícil de ver: explicar é o que ele faz o dia inteiro, e ninguém publica o próprio expediente. Otávio nunca tinha pensado em publicar o que faz na primeira reunião, pela mesma razão que um cozinheiro não pensa em fotografar o arroz.
 
-Há ainda um receio próprio das áreas técnicas: o de que a explicação simples pareça simplória aos colegas, ou imprecisa. O receio tem fundamento, e a resposta é tratar a precisão como parte da explicação. A versão do Otávio diz, no último parágrafo, que cada caso depende dos fatos e que a análise é sempre individual. Ele diz isso a todo cliente, porque é verdade, e porque é o que leva o cliente a procurar um advogado em vez de confiar só no texto.
+Há ainda um receio próprio das áreas técnicas: o de que a explicação simples pareça simplória aos colegas, ou imprecisa. O receio tem fundamento, e a resposta é tratar a precisão como parte da explicação. A versão do Otávio diz, no último parágrafo, que cada caso depende dos fatos e que a análise é sempre individual. Ele diz isso a todo cliente, porque é verdade. No texto publicado, a mesma frase lembra a quem lê que o caso dele pede análise própria, e que o texto não substitui a consulta.
 
 ## Como reconhecer as suas
 
@@ -92,11 +92,11 @@ legenda: Contagem do Otávio, no arquivo de e-mails do escritório. É o caso de
 
 Publicar uma explicação madura pede três coisas: registrá-la como ela é, cortar o que pertence àquela conversa e não melhorar o resto.
 
-O registro depende do modo. Para Renata, que pensa falando, é dizer a explicação ao paciente e, no carro, refazê-la em voz alta enquanto ainda está quente. Transcrita sem limpar, uma delas ficou assim: "Olha, a sua coluna é… pensa numa mangueira de jardim, tá? Ela enverga inteira. Enverga inteira. Agora, se você dobra sempre no mesmo ponto…" A repetição fica, porque é ali que o paciente entende.
+O registro depende do modo. Para Renata, que pensa falando, é dizer a explicação ao paciente e, no carro, refazê-la em voz alta enquanto ainda está quente. Transcrita com a pausa e tudo, a da mangueira, que ela usa há anos, ficou assim: "Olha, a sua coluna é… pensa numa mangueira de jardim, tá? Ela enverga inteira. Enverga inteira. Agora, se você dobra sempre no mesmo ponto…" A repetição fica, porque é ali que o paciente entende.
 
-Transcrita, a fala parece pior do que soou. As repetições que no carro passavam despercebidas ficam visíveis, e a vontade é limpar. Limpe o que atrapalha a leitura, como um "é… é" que não diz nada, e deixe a repetição que marca o ponto, a pergunta ao ouvinte e a comparação no lugar em que ela apareceu. Quem lê vai ouvir a voz de quem fala, e é isso que faz o texto ser dela.
+Transcrita, a fala parece pior do que soou. As repetições que na fala passavam despercebidas ficam visíveis, e a vontade é limpar. Limpe o que atrapalha a leitura, como um "é… é" que não diz nada, e deixe a repetição que marca o ponto, a pergunta ao ouvinte e a comparação no lugar em que ela apareceu. Quem lê vai ouvir a voz de quem fala, e é isso que faz o texto ser seu.
 
-Para Otávio, que pensa escrevendo, a explicação já estava registrada: bastava abrir um e-mail em que já a tinha dado. Lúcia pede à amiga do grupo de estudos que lhe faça a pergunta que desencadeia a explicação. Caio conta a obra para o sócio e grava.
+Para Otávio, que pensa escrevendo, a explicação já estava registrada: bastava abrir um e-mail em que a tinha dado. Lúcia pede à amiga do grupo de estudos que lhe faça a pergunta que desencadeia a explicação. Caio conta a obra para o sócio e grava.
 
 Gravar a conversa real também serve, mas pede licença e cuidado. A licença é de quem está na conversa, e o cuidado é com o que ela revela: mesmo cortando o nome, uma gravação feita no atendimento pode carregar detalhes que identificam alguém.
 
@@ -117,13 +117,13 @@ titulo: O primeiro parágrafo, como saiu e como ficaria "profissional"
 rotulo_comum: A versão melhorada
 rotulo_singular: A versão testada
 comum: A sugestão que Otávio recusou. "Nos termos do artigo 3º da CLT, é fundamental que o empregador compreenda que o contrato de prestação de serviços não afasta, por si só, o reconhecimento do vínculo empregatício quando presentes os requisitos legais."
-singular: O e-mail, depois do corte. "Contrato assinado não é prova de nada. Sei que parece estranho, então vamos pelos fatos. Quem define o horário? Quem chama a atenção quando a pessoa chega atrasada? Ela usa o uniforme da empresa? Pode mandar outra pessoa no lugar num dia de folga?"
+singular: O e-mail, depois do corte. "Contrato assinado não é prova de nada. Sei que parece estranho, então vamos pelos fatos. Quem define o horário? Quem chama a atenção quando a pessoa chega atrasada? Ela usa o uniforme da empresa? Pode mandar outra pessoa no lugar quando não puder ir?"
 porque: A primeira está correta e fala com quem já sabe. A segunda faz as perguntas que o leitor responde sobre a própria empresa, e a conclusão chega antes do artigo de lei.
 ```
 
 Na sexta marcada, à tarde, Otávio publicou o texto no perfil do escritório. Tinha quatro parágrafos, a frase de abertura, as perguntas sobre horário, bronca e uniforme, e um fecho de uma linha. Não tinha arte nem título em caixa-alta.
 
-Na mesma tarde, abriu a pasta de e-mails enviados procurando outras explicações que se repetissem. Encontrou doze. A de por que o banco de horas precisa de controle mensal, a do funcionário que pede para sair e depois quer a multa, a da advertência que não serve se for escrita depois. Todas tinham passado pelo mesmo processo, de páginas a parágrafos, sem que ele percebesse. Anotou os doze assuntos no caderno preto, na página seguinte à das perguntas recorrentes, e escreveu no alto, com a letra de sempre: prontas.
+Na mesma tarde, abriu a pasta de e-mails enviados procurando outras explicações que se repetissem. Encontrou doze. A do recibo que junta tudo numa verba só e não quita nada, a do funcionário que pede para sair e depois quer a multa, a da advertência que não serve se for escrita depois. Todas tinham passado pelo mesmo processo, de páginas a parágrafos, sem que ele percebesse. Anotou os doze assuntos no caderno preto, na página seguinte à das perguntas recorrentes, e escreveu no alto, com a letra de sempre: prontas.
 
 ```guardar
 - A explicação que você repete há anos foi lapidada, conversa a conversa, com quem precisava entender. Nenhuma reunião de pauta produz isso.
@@ -145,7 +145,7 @@ campos:
     exemplo: "Escolha a que você mais repete, e não a mais nobre."
     linhas: 2
   - rotulo: "A explicação, exatamente como saiu"
-    exemplo: "Transcreva o miolo, da frase de abertura até a comparação; o resto pode ficar no áudio ou no e-mail impresso, grampeado aqui. Mantenha as perguntas, as comparações e o jeito de começar. Deixe as repetições e os “olha”; corte só o que é de uma pessoa."
+    exemplo: "Transcreva o miolo, da frase de abertura até a comparação; o resto pode ficar no áudio ou no e-mail impresso, grampeado aqui. Mantenha as perguntas, as comparações e o jeito de começar. Deixe as repetições que marcam o ponto e os “olha”; tire só o “é… é” que não diz nada e o que é de uma pessoa."
     linhas: 14
   - rotulo: "A comparação ou a pergunta fixa que apareceu, e de onde ela veio"
     exemplo: "Um engenheiro estrutural, quando o cliente quer tirar um pilar: “A viga é uma régua apoiada em dois livros. Tire um livro e veja.” Veio de uma obra em que o cliente não acreditava no cálculo."
@@ -158,7 +158,7 @@ campos:
     linhas: 2
 criterios:
   - A explicação do campo 03 mantém as marcas do seu jeito de falar ou de escrever.
-  - Você cortou apenas o que era contexto de uma pessoa específica.
+  - Você tirou só o que era de uma pessoa específica e as hesitações vazias.
   - A comparação ou a pergunta fixa do campo 04 ficou exatamente como saiu.
 ```
 
@@ -180,7 +180,7 @@ evite:
 esqueleto_rotulo: "Confira a explicação do campo 03 antes de publicar"
 esqueleto:
   - {rotulo: "A abertura", texto: "É a mesma do campo 03?", linhas: 1}
-  - {rotulo: "A comparação", texto: "Está no mesmo ponto em que aparece na conversa real (campo 04)?", linhas: 1}
+  - {rotulo: "A comparação", texto: "Está no mesmo ponto em que aparece no campo 03?", linhas: 1}
   - {rotulo: "O que saiu", texto: "Só o que está no campo 05?", linhas: 1}
   - {rotulo: "O fecho", texto: "Escreva aqui como você termina quando a pessoa entendeu.", linhas: 2}
 roteiro: |
@@ -190,7 +190,7 @@ roteiro: |
 
   {a comparação ou a pergunta fixa, no ponto em que ela aparece na vida real}
 
-  {o fecho curto que você usa quando a pessoa entendeu}.
+  {o fecho curto que você usa quando a pessoa entendeu}
 roteiro_nota: Uma explicação por peça. Tire o que é de uma pessoa específica e deixe o resto como sai; em saúde e direito, lembre que a explicação orienta e não substitui a análise de cada caso.
 ```
 

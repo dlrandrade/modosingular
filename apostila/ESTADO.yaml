@@ -1,3 +1,5 @@
+# ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
+# atualizado: 2026-09-28 19:37
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -519,7 +521,7 @@ capitulos:
       veredito: aprovado
     nota: 9.09
   16:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 12:50
@@ -548,9 +550,18 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.96
+    - iteracao: 4
+      data: 2026-09-28 19:37
+      revisao: apostila/revisoes/cap16-r4.yaml
+      media: 9.12
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.12
   17:
-    status: aprovado_pendente_ordem
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 19:10
@@ -707,6 +718,7 @@ figurantes:
   confeiteira:
   - 6
   - 29
+  - 16
   pediatra:
   - 1
   - 7
@@ -802,33 +814,29 @@ figurantes:
   professora de inglês:
   - 19
 decisoes:
-- '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter;
-  revisão cega por agente independente; gate >= 9.0 sem critério < 8.0'
-- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço
-  de escrita). ''Faça/Evite'' passa para depois do esqueleto, para eliminar brancos.'
-- '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois
-  da aprovação (cena da cardiologista virou cena de reconhecimento; faixas do autodiagnóstico
-  completas); serão reconferidas na revisão de coerência da Fase I.'
-- '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável
-  (span nowrap/inline-block/word joiner) faz o WeasyPrint engolir o espaço anterior
-  em linha justificada. Quebra no hífen é aceita.'
-- '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto);
-  ''tradução'' sem qualificação é o conceito da Fase III (experiência→peça, cap. 13).'
-- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com
-  break-before: avoid: quando não cabe, leva junto as últimas linhas do texto, em
-  vez de ficar sozinho na página.'
-- '2026-09-28: Caps. 13 (r4, 9,22) e 14 (r3, 9,01) passaram; correções de linha das
-  revisões aplicadas depois da aprovação. Oficinas aceitam ''numerar: true'' em campos
-  de linhas. Cap. 30 redigido: todos os 30 capítulos têm rascunho.'
-- '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página;
-  cap10 leva duas linhas do texto para a p19, com ~20% livres na p18 (o box não cabe
-  por poucos mm). Aceito.'
-- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular''
-  (CSS); só quebra quando o comum cabe inteiro no pé da página.'
-- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois
-  da aprovação. Caps. 13 e 14 deixam de estar pendentes de ordem.'
-- '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal
-  data cada captura de atendimento com a liberação (um mês após o último atendimento
-  sobre o assunto); a produção pega só o que já está liberado.'
+- '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
+  gate >= 9.0 sem critério < 8.0'
+- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite''
+  passa para depois do esqueleto, para eliminar brancos.'
+- '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois da aprovação (cena da cardiologista
+  virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência
+  da Fase I.'
+- '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável (span nowrap/inline-block/word
+  joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
+- '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto); ''tradução'' sem qualificação
+  é o conceito da Fase III (experiência→peça, cap. 13).'
+- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com break-before: avoid: quando não
+  cabe, leva junto as últimas linhas do texto, em vez de ficar sozinho na página.'
+- '2026-09-28: Caps. 13 (r4, 9,22) e 14 (r3, 9,01) passaram; correções de linha das revisões aplicadas depois da
+  aprovação. Oficinas aceitam ''numerar: true'' em campos de linhas. Cap. 30 redigido: todos os 30 capítulos têm
+  rascunho.'
+- '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página; cap10 leva duas linhas do texto
+  para a p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
+- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum
+  cabe inteiro no pé da página.'
+- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e
+  14 deixam de estar pendentes de ordem.'
+- '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal data cada captura de atendimento
+  com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
