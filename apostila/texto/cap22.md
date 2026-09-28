@@ -54,7 +54,7 @@ A recusa total, do outro lado, também sai cara. Há quem, com medo de virar có
 
 ## Engenharia reversa
 
-Lúcia refez o caminho com método, numa quinta à noite, longe da terça das oito. Escolheu o texto da psicóloga de São Paulo que mais a tinha feito pensar, e não o que tinha tido mais comentários. Leu uma vez. Depois, num cartão, escreveu o esqueleto em linhas genéricas, sem nenhuma palavra do original: uma cena comum da semana; a crença que a cena esconde; por que a crença faz sentido para quem a tem; onde ela falha; uma pergunta para levar.
+Lúcia refez o caminho com método, numa quinta à noite, longe da terça das oito. Escolheu o texto da psicóloga de São Paulo que mais a tinha feito pensar, e não o que tinha tido mais comentários. Leu uma vez. Depois, num cartão, escreveu o esqueleto em linhas genéricas, sem nenhuma palavra do original: uma cena comum, composta de várias; a crença que a cena esconde; por que a crença faz sentido para quem a tem; onde ela falha; uma pergunta para levar.
 
 Em seguida, fechou o aplicativo e guardou o celular na bolsa. Com o cartão na mesa e o caderno de campo aberto, procurou no próprio repertório o que caberia naquela ordem. Encontrou uma crença que ouvia toda semana e que nunca tinha visto nos textos da outra: a de que falar do problema faz o problema crescer. A cena era dela, a crença vinha dos pacientes dela, a razão e o limite eram o que ela tinha aprendido atendendo. Só a ordem tinha vindo de fora.
 
@@ -68,7 +68,7 @@ itens:
   - Preencha o esqueleto com o seu repertório, do capítulo 9. Se o esqueleto pede um caso, é o seu caso; se pede um número, é o seu número.
 ```
 
-O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e não se parecia com nenhum dos de fevereiro. Começava por uma cena de consultório descrita sem ninguém dentro, passava pela crença, explicava de onde ela vinha, mostrava onde falhava e terminava numa pergunta. No meio, Lúcia fez o que faz em qualquer sessão: devolveu uma pergunta antes de responder. A amiga do grupo de estudos respondeu com duas palavras. "Agora sim."
+O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e não se parecia com nenhum dos de fevereiro. Começava por uma cena de consultório composta de várias, sem ninguém dentro, passava pela crença, explicava de onde ela vinha, mostrava onde falhava e terminava numa pergunta. No meio, Lúcia fez o que faz em qualquer sessão: devolveu uma pergunta antes de responder. A amiga do grupo de estudos respondeu com duas palavras. "Agora sim."
 
 Quando o preenchimento trava, a trava é uma informação. Se o esqueleto pede um caso e nenhum aparece, é provável que você não tenha repertório sobre aquele assunto, e insistir produz a peça genérica que o livro inteiro tenta evitar. Nesse ponto, mude de assunto e guarde o esqueleto. Ele serve para outra semana, com outro tema, e é justamente isso que faz dele uma estrutura.
 
@@ -136,7 +136,7 @@ campos:
     exemplo: "De preferência de outra área. Descreva o efeito que ela teve em você, sem copiar nenhuma frase."
     linhas: 2
   - rotulo: "O esqueleto, em linhas genéricas"
-    exemplo: "O cartão da Lúcia: uma cena comum da semana; a crença que ela esconde; por que a crença faz sentido; onde ela falha; uma pergunta para levar."
+    exemplo: "O cartão da Lúcia: uma cena comum, composta de várias; a crença que ela esconde; por que a crença faz sentido; onde ela falha; uma pergunta para levar."
     linhas: 5
   - rotulo: "O seu repertório que cabe nesse esqueleto"
     exemplo: "Que caso, padrão ou crença da sua prática preenche essa ordem? Se nada aparecer, guarde o esqueleto e escolha outro assunto."
