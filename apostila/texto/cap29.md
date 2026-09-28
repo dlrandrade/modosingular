@@ -14,13 +14,13 @@ Durante quatro semanas, Caio passou os dias entre as três obras, ao telefone co
 
 Um ano e meio antes, aquela quinta teria sido o fim da sequência. Caio teria pulado a semana, depois a seguinte, e em novembro teria descoberto que fazia um mês que não publicava nada e que voltar parecia mais difícil do que começar. Dessa vez, abriu a última página do caderno de campo, onde tinha escrito, em julho, com a cabeça descansada, quatro linhas sob o título "mês ruim". A primeira dizia: reduza, não pare.
 
-Publicou naquela quinta a menor peça da vida dele. Uma foto da laje molhada de Barão Geraldo, tirada ali mesmo, e uma linha: laje que não secou não se cobre, nem que a obra atrase um mês. Levou três minutos, incluindo a foto. Não pediu desculpas, não explicou a correria, não prometeu voltar ao normal. Na semana seguinte, fez igual, com uma foto do caixilho quebrado da serralheria e outra linha.
+Publicou naquela quinta a menor peça da vida dele. Uma foto do arquivo, de uma laje de outra obra, entregue em março e com a autorização do dono assinada, e uma linha: laje que não secou não se cobre, nem que a obra atrase um mês. Levou três minutos, incluindo a escolha da foto. Não pediu desculpas, não explicou a correria, não prometeu voltar ao normal. Na semana seguinte, fez igual, com a foto antiga de um caixilho de ferro recuperado e outra linha.
 
 ## O vale
 
 Este é o penúltimo capítulo, e há uma coisa que os trinta dias do livro não conseguem testar: o que acontece no quarto mês. No quarto mês, não há mais novidade. Não há a estrutura de um capítulo por dia, com oficina e checklist, nem a sensação de estar começando alguma coisa. E os resultados, na maior parte dos casos, ainda não apareceram, porque eles não aparecem no quarto mês.
 
-Entre o segundo e o quinto mês, mais ou menos, o esforço já é real e o retorno ainda não aparece. Essa é a forma normal da curva, e o capítulo 25 mostrou por quê: o que traz clientes é o efeito do conjunto, e o conjunto leva tempo para existir. Mas esse período parece exatamente igual a um fracasso. Nele, a decisão de parar parece mais sensata do que em qualquer outro momento, e é nele que mais gente para.
+Entre o segundo e o quinto mês, mais ou menos, o esforço já é real e o retorno ainda não aparece. Essa é a forma normal da curva, e o capítulo 25 mostrou por quê: o que traz clientes é o efeito do conjunto, e o conjunto leva tempo para existir. Mas esse período parece exatamente igual a um fracasso. Nele, a decisão de parar parece mais sensata do que em qualquer outro momento.
 
 Parte do engano vem de olhar os números errados. No vale, os números que aparecem primeiro na tela, as curtidas e os seguidores, quase não se mexem, e são eles que a gente confere de manhã. Os números do painel do capítulo 28 se mexem antes, mas devagar e sem barulho: um salvamento a mais numa peça de março, uma pergunta que chega com uma palavra que você usou, alguém que encaminha uma peça antiga para a irmã. Quem mede o vale pelos números barulhentos conclui que nada está acontecendo. Quem mede pelos silenciosos vê pouca coisa, mas vê que alguma coisa está.
 
@@ -47,7 +47,7 @@ porque: O efeito acumulado que traz clientes costuma aparecer depois de meses. Q
 
 ## Por que as pessoas param
 
-Quando alguém para, quase nunca é por falta de tempo, embora seja o motivo que se diz. Por baixo, as causas são poucas e reconhecíveis, e cada uma tem um remédio que o livro apresentou em algum capítulo. Vale saber qual delas é a sua antes que ela apareça, porque ela sempre aparece disfarçada de bom senso.
+Quando alguém para, o motivo que se diz costuma ser falta de tempo. Por baixo, as causas são poucas e reconhecíveis, e cada uma tem um remédio que o livro apresentou em algum capítulo. Vale saber qual delas é a sua antes que ela apareça, porque ela sempre aparece disfarçada de bom senso.
 
 Tabela: As quatro causas mais comuns de parar, e o antídoto de cada uma
 
@@ -66,7 +66,7 @@ titulo: A peça mínima
 texto: Defina, num mês bom, a menor peça que você consegue publicar num dia impossível: cinco minutos, no máximo, sem edição. Uma foto e uma linha. Um áudio de noventa segundos sobre uma captura. Uma pergunta respondida em três frases. Nas semanas em que o formato-base não couber, é ela que sai. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém.
 ```
 
-A peça mínima de Caio era uma foto da obra do dia e uma frase, a que ele diria ao cliente se tivesse um minuto. Ele não a tirou do formato-base encolhido por pressa. Pensou nela como outra peça, feita para existir num dia em que as cinco linhas não cabiam. Tinha a voz dele, porque a frase era dele, e tinha a obra, porque a foto era da obra. Não tinha a história inteira, e não precisava ter. Mantinha a quinta-feira ocupada até que as cinco linhas voltassem a caber.
+A peça mínima de Caio era uma foto do arquivo de obras entregues e uma frase, a que ele diria ao cliente se tivesse um minuto. Ele não a tirou do formato-base encolhido por pressa. Pensou nela como outra peça, feita para existir num dia em que as cinco linhas não cabiam. Tinha a voz dele, porque a frase era dele, e tinha a obra, porque a foto era de uma obra dele. Não tinha a história inteira, e não precisava ter. Mantinha a quinta-feira ocupada até que as cinco linhas voltassem a caber.
 
 As outras duas causas aparecem mais tarde, quando a produção está estável e começa a parecer repetitiva para quem faz. O tédio do formato é quase sempre um problema de quem escreve, e não de quem lê. Caio, em março, achou que já tinha falado demais de umidade; contou e viu que eram quatro peças em nove meses, espalhadas, e que um leitor que chegasse naquela semana teria visto, com sorte, uma delas. A comparação é mais silenciosa. Chega quando alguém da mesma área aparece com números maiores, e ela se trata do mesmo jeito que o vale: olhando o seu painel, uma vez por mês, e mais nada.
 
@@ -88,11 +88,11 @@ Um protocolo que funciona tem uma característica que se percebe na leitura: cad
 
 Também não importa por que o mês é ruim. O de Caio foi de obra atrasada; o seu pode ser de doença na família, de mudança de casa, de um cliente grande que consome todas as horas, ou apenas de uma tristeza sem motivo claro. O protocolo não pergunta a causa, e isso é parte do que o torna útil: você não precisa justificar para si mesmo que o mês está difícil para ter o direito de usar as quatro linhas. Basta perceber que a peça da semana não vai sair do jeito de sempre.
 
-A segunda linha, a do estoque, foi a que salvou as outras duas quintas de outubro. Caio abriu o caderno de campo num domingo à tarde, o único descanso do mês, e em vinte minutos escolheu duas anotações de agosto que ainda não tinham virado nada: um síndico que achava que podia proibir a troca de piso, e um cliente que queria esconder o quadro de luz atrás de um armário. As duas viraram cinco linhas sem que ele precisasse pensar em assunto. O caderno fez, no mês ruim, o trabalho que ele não tinha energia para fazer.
+A segunda linha, a do estoque, foi a que salvou as outras duas quintas de outubro. Caio abriu o caderno de campo num domingo à tarde, o único descanso do mês, e em vinte minutos escolheu duas anotações de agosto que ainda não tinham virado nada: um piso de granilite que o dono queria cobrir com vinílico, e um cliente que queria esconder o quadro de luz atrás de um armário. As duas viraram cinco linhas sem que ele precisasse pensar em assunto. O caderno fez, no mês ruim, o trabalho que ele não tinha energia para fazer.
 
 A quarta linha foi a mais difícil de cumprir. Na segunda semana de outubro, Caio chegou a escrever uma legenda que começava por "sumido por aqui por causa da correria das obras". Apagou. Um anúncio de ausência transforma uma semana fraca num acontecimento, e acontecimento pede um retorno à altura, que nunca vem na hora certa. Sem anúncio, a semana fraca continua sendo uma semana fraca, e passa. Quem lê raramente percebe uma quinta-feira mais curta. Percebe um aviso de que você sumiu.
 
-A terceira linha pede desapego do acabamento. Uma foto torta, uma frase sem revisão, uma laje molhada sem tratamento de cor: nada disso teria passado pelo Caio de três anos antes, que editava seis vídeos em onze fins de semana. O Caio de outubro publicou as quatro peças do mês em menos tempo do que aquele levava para escolher a trilha de um vídeo. O perfil ficou mais simples por um mês e continuou sendo dele.
+A terceira linha pede desapego do acabamento. Uma foto torta, uma frase sem revisão, uma laje molhada sem tratamento de cor: nada disso teria passado pelo Caio dos vídeos cinematográficos, que editava seis vídeos em onze fins de semana. O Caio de outubro publicou as quatro peças do mês em menos tempo do que aquele levava para escolher a trilha de um vídeo. O perfil ficou mais simples por um mês e continuou sendo dele.
 
 ```nota
 tipo: alerta
@@ -106,7 +106,7 @@ Em novembro, as três obras voltaram a andar, uma de cada vez, e a quinta-feira 
 
 Quando abriu o painel do mês, encontrou uma coisa que não esperava. As peças de outubro tinham tido pouco alcance, como era de se prever, mas as mensagens com dúvida real não tinham caído: chegaram cinco, quase todas sobre peças antigas, uma delas de janeiro, sobre o rodapé que descola. O conjunto tinha trabalhado no mês em que ele não pôde trabalhar muito. Foi a primeira vez que Caio viu, num número, o efeito do conjunto de que trata o capítulo 25.
 
-Depois do vale, a dinâmica se inverte, e é isso que torna o segundo ano mais leve que o primeiro. Alguém chega citando uma peça; a produção deixa de ser aposta e vira caminho; as dúvidas dos novos clientes entram no caderno como matéria-prima; o custo de cada peça cai, porque o hábito está instalado. A presença passa a trabalhar sozinha e deixa de depender de motivação. Isso não vem de disciplina. Vem do fato de que cada parte do sistema, dos capítulos 19 a 24, foi desenhada para custar pouco.
+Depois do vale, a dinâmica se inverte, e é isso que torna o segundo ano mais leve que o primeiro. Alguém chega citando uma peça; a produção deixa de ser aposta e vira caminho; as dúvidas dos novos clientes entram no caderno como matéria-prima; o custo de cada peça cai, porque o hábito está instalado. A presença passa a trabalhar sozinha e deixa de depender de motivação. A leveza vem do fato de que cada parte do sistema, dos capítulos 19 a 24, foi desenhada para custar pouco.
 
 Isso não quer dizer que o vale não volte. Ele costuma voltar menor, em outros momentos: quando a área muda, quando você troca de plataforma, quando uma fase da vida pede outra rotina. O protocolo vale para todos eles. Por isso vale relê-lo uma vez por ano, num mês bom, e ajustar as linhas que envelheceram. A peça mínima de hoje talvez não seja a mesma daqui a um ano, e o estoque precisa ter sido alimentado para existir quando for preciso.
 
