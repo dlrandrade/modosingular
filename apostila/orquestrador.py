@@ -217,6 +217,8 @@ def lint(n: int, silencioso=False) -> dict:
             listas = [d if isinstance(d, list) else d.get("itens", [])]
         elif m.group(1) == "compara":
             listas = [d["esquerda"]["itens"], d["direita"]["itens"]]
+        elif m.group(1) == "nota" and isinstance(d, dict):
+            listas = [d.get("itens", [])]
         elif m.group(1) == "rede":
             listas = [d.get("faca", []), d.get("evite", [])]
         elif m.group(1) == "oficina":
