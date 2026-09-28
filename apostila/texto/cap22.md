@@ -8,7 +8,7 @@ ilustracao: espelho
 legenda_ilustracao: Olhar para o outro é útil. Virar o outro, não.
 ---
 
-Em dezembro, numa noite sem sono, Lúcia descobriu os textos de uma psicóloga de São Paulo que muita gente da área lia. Eram curtos, claros e bem-feitos. Começavam quase sempre por uma cena comum, o fim de uma tarde de domingo, a mensagem que a pessoa lê e não responde, e dali chegavam a uma crença que a cena escondia. Lúcia leu vinte naquela noite. Em janeiro, lia um por dia, no celular, com o café, antes de sair para o consultório.
+Em dezembro, numa noite sem sono, Lúcia descobriu os textos de uma psicóloga de São Paulo que muita gente da área lia. Eram curtos, claros e bem-feitos. Começavam quase sempre por uma cena comum, a fila do mercado na véspera de feriado, a mensagem que a pessoa lê e não responde, e dali chegavam a uma crença que a cena escondia. Lúcia leu vinte naquela noite. Em janeiro, lia um por dia, no celular, com o café, antes de sair para o consultório.
 
 Em fevereiro, os textos dela mudaram. A amiga do grupo de estudos continuava mandando a pergunta da semana, e Lúcia continuava respondendo na terça às oito. Mas as respostas passaram a abrir com uma frase que não era dela, "deixa eu contar uma coisa que quase ninguém conta", e a andar em frases de uma linha, uma embaixo da outra. Apareceram palavras que ela nunca usava no consultório, como "acolher" e "validar". Os três textos daquele mês terminavam do mesmo jeito: "você não está sozinha".
 
@@ -96,7 +96,7 @@ itens:
   - A abertura e o fecho são meus, ou são o bordão de alguém?
 ```
 
-Dos três textos de fevereiro, um não passava na quarta pergunta. Falava de autocuidado aos domingos, um tema que Lúcia nunca tinha trabalhado com nenhum paciente e sobre o qual não tinha nada de seu a dizer. Tinha escrito porque a outra escrevia. Esse é o risco maior da cópia: além de apagar a voz, ela compromete você com posições que você não sustentaria numa conversa. Lúcia tirou o texto do ar e anotou no caderno o motivo, para se lembrar.
+Dos três textos de fevereiro, um não passava na quarta pergunta. Falava de autocuidado nas férias, um tema que Lúcia nunca tinha trabalhado com nenhum paciente e sobre o qual não tinha nada de seu a dizer. Tinha escrito porque a outra escrevia. Esse é o risco maior da cópia: além de apagar a voz, ela compromete você com posições que você não sustentaria numa conversa. Lúcia tirou o texto do ar e anotou no caderno o motivo, para se lembrar.
 
 A fonte da referência também pesa. Quanto mais perto do seu assunto, maior a chance de levar o conteúdo junto com a estrutura. Quanto mais longe, mais pura a estrutura chega, porque não há nada mais a levar. Lúcia deixou de ler a psicóloga de São Paulo no café da manhã e passou a ler, às quintas, um cronista de jornal de Porto Alegre e as respostas de um programa de rádio em que os ouvintes mandam perguntas. As duas coisas conversavam com o modo dela, e nenhuma falava de psicologia.
 
@@ -209,7 +209,7 @@ faca_antes: true
     - O tema já foi tratado por algum colega da minha área?
     - A abertura chama tanta atenção quanto a da referência?
   correta: 0
-  explicacao: Se a resposta é não, você preencheu um molde com um assunto que não é seu, como Lúcia no texto sobre autocuidado aos domingos, e se comprometeu com uma posição que não sustentaria.
+  explicacao: Se a resposta é não, você preencheu um molde com um assunto que não é seu, como Lúcia no texto sobre autocuidado nas férias, e se comprometeu com uma posição que não sustentaria.
 - pergunta: Por que buscar estrutura fora da sua área?
   opcoes:
     - Porque outras áreas publicam com mais qualidade.

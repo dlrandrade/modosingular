@@ -37,7 +37,7 @@ series:
 legenda: Esquema ilustrativo, sem medição. Nos primeiros meses, o esforço cresce e o retorno quase não aparece; é o período em que parar parece a decisão mais racional. O momento exato da virada muda de pessoa para pessoa.
 ```
 
-Caio atravessou o vale dele no segundo semestre do ano anterior, sem saber que era um vale. Publicava toda quinta desde junho, e até novembro nenhum cliente tinha chegado citando nada. Na décima semana, teve vontade de mudar de formato; na décima segunda, de parar. O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro, e a mulher das janelas, com a folha dobrada, apareceu em agosto. Quem para no quarto mês não desiste de uma coisa que não funcionava. Desiste pouco antes do ponto em que ela começaria a funcionar.
+Caio atravessou o vale dele no segundo semestre do ano anterior, sem saber que era um vale. Publicava toda quinta desde junho, e até novembro nenhum cliente tinha chegado citando nada. Por volta da décima quinta semana, teve vontade de mudar de formato; na vigésima, de parar. O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro, e a mulher das janelas, com a folha dobrada, apareceu em agosto. Quem para no quarto mês não desiste de uma coisa que não funcionava. Desiste pouco antes do ponto em que ela começaria a funcionar.
 
 ```conceito
 termo: Sustentação

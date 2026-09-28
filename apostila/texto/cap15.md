@@ -97,7 +97,7 @@ Os adjetivos denunciam a vaidade antes de qualquer teste. "Complexo", "delicado"
 
 Há ainda um limite que nenhum caso atravessa: ele não promete resultado. O caso-prova mostra um critério em funcionamento e o que aconteceu naquela situação. Não garante que vai acontecer de novo, nem com quem lê. Nas profissões regulamentadas, os códigos de ética vedam a promessa de resultado e, em várias delas, a exibição de antes e depois. Um caso bem contado respeita esse limite sem esforço, porque o assunto dele é o critério, e não o desfecho.
 
-O sigilo vale para o caso-prova como valeu para a tradução do capítulo 13. A paciente das segundas não tem nome, idade exata, profissão nem bairro na peça que Renata gravou. O sábado da faxina virou "o sábado", e a casa da mãe sumiu, porque identificava demais. O padrão, que Renata já tinha visto em muitos pacientes, fez o resto: qualquer pessoa com dor de segunda-feira se reconheceria, e nenhuma se veria exposta.
+O sigilo vale para o caso-prova como valeu para a tradução do capítulo 13. A paciente das segundas não tem nome, idade exata, profissão nem bairro na peça que Renata gravou. O sábado da faxina virou "o sábado", e o banheiro e o quintal sumiram, porque identificavam demais. O padrão, que Renata já tinha visto em muitos pacientes, fez o resto: qualquer pessoa com dor de segunda-feira se reconheceria, e nenhuma se veria exposta.
 
 Renata gravou a versão das segundas na terça seguinte, no carro, em dois minutos e meio. Começou pela dor que piorava no começo da semana e terminou na pergunta sobre a véspera. Não disse nenhum adjetivo sobre o próprio trabalho. Na sexta, uma paciente nova marcou avaliação e, na primeira consulta, antes de qualquer pergunta, contou o que fazia aos sábados.
 
