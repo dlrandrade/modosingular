@@ -24,15 +24,15 @@ Naquela noite, Caio abriu o caderno de campo e percebeu que não era a primeira 
 
 ## O que o cliente consegue julgar
 
-Há uma coisa que quase nenhum cliente de arquiteto consegue fazer: avaliar se o arquiteto é tecnicamente bom. Ele não tem repertório para isso. Não sabe se a laje aguenta, se o traço da argamassa está certo, se existia uma solução melhor para a cozinha. Está comprando um serviço que não sabe julgar.
+Há uma coisa que o cliente de um arquiteto não consegue fazer: avaliar se o arquiteto é tecnicamente bom. Ele não tem repertório para isso. Não sabe se a laje aguenta, se o traço da argamassa está certo, se existia uma solução melhor para a cozinha. Está comprando um serviço que não sabe julgar.
 
-O que ele consegue avaliar muito bem é o raciocínio. Quando Caio explica por que recusa obras que escondem problemas, o leitor não precisa entender de impermeabilização para perceber que a decisão foi pensada. Reconhece o bom raciocínio quando o vê, e reconhece também a falta dele. É por isso que mostrar como você decide costuma convencer mais do que mostrar o que você sabe.
+O que ele consegue avaliar muito bem é o raciocínio. Quando Caio explica por que recusa obras que escondem problemas, quem ouve não precisa entender de impermeabilização para perceber que a decisão foi pensada. Reconhece o bom raciocínio quando o vê, e reconhece também a falta dele. É por isso que mostrar como você decide costuma convencer mais do que mostrar o que você sabe.
 
-Pense no que um cliente conta a um amigo depois de uma boa consulta. Raramente repete a técnica; não saberia. Conta a decisão: "ele me explicou por que não ia operar ainda", "ela me disse que o processo não valia o desgaste". Publicar a régua é pôr por escrito, antes da primeira conversa, aquilo que o cliente satisfeito contaria depois.
+Pense no que um cliente conta a um amigo depois de uma boa consulta. Não repete a técnica; não saberia. Conta a decisão: "ele me explicou por que não ia operar ainda", "ela me disse que o processo não valia o desgaste". Publicar a régua é pôr por escrito, antes da primeira conversa, aquilo que o cliente satisfeito contaria depois.
 
 ```conceito
 termo: Critério
-definicao: A régua que você usa para escolher entre duas opções defensáveis. É a camada mais funda do repertório, a que o capítulo 9 pôs na base: dois profissionais com a mesma informação decidem diferente porque têm critérios diferentes.
+definicao: A régua que você usa para escolher entre duas opções defensáveis: a sua, a de quem decide, diferente do enunciado do capítulo 12. É a camada mais funda do repertório, a que o capítulo 9 pôs na base: dois profissionais com a mesma informação decidem diferente porque têm critérios diferentes.
 porque: O cliente não consegue avaliar a sua técnica, mas consegue avaliar o seu raciocínio. O critério é a prova de competência que um leigo sabe ler.
 ```
 
@@ -53,7 +53,7 @@ Tabela: Quatro tipos de critério que se podem publicar
 | De parada | Quando você decide que já basta | Contraria o próprio interesse, e por isso é crível |
 | De encaminhamento | Quando o caso não é seu e vai para outro | Prova honestidade no ato |
 
-Os quatro personagens têm critérios dos quatro tipos, sem chamá-los assim. O de Caio, nesta semana, é de entrada. O de Otávio é de escolha: quando a empresa tem o controle de ponto documentado, ele defende até a sentença; quando não tem, propõe acordo na primeira audiência, mesmo que o dono queira brigar. O de Renata é de encaminhamento: quando a dor contraria o laudo, ela manda o paciente de volta ao médico antes de começar, mesmo que isso lhe custe o paciente; com Marcos, no capítulo 1, foi o reumatologista. O de Lúcia é de parada, e é o mais raro dos quatro: ela propõe encerrar a terapia quando percebe que o paciente já consegue fazer sozinho o que vinha fazer ali, mesmo quando ele gostaria de continuar.
+Os quatro personagens têm critérios dos quatro tipos, sem chamá-los assim. O de Caio, nesta semana, é de entrada. Otávio decide pela prova, e a régua dele é de escolha: quando a jornada está documentada, ele defende até a sentença; quando a empresa era obrigada a ter o ponto e não tem, propõe acordo na primeira audiência, mesmo que o dono queira brigar, porque começa pela pior hipótese. O de Renata é de encaminhamento: quando a dor contraria o laudo, ela manda o paciente de volta ao médico antes de começar, mesmo que isso lhe custe o paciente; com o ex-motorista do capítulo 9, um detalhe do supermercado valeu mais que o laudo de hérnia. O de Lúcia é de parada: ela propõe encerrar a terapia quando percebe que o paciente já consegue fazer sozinho o que vinha fazer ali, mesmo quando ele gostaria de continuar.
 
 Quase ninguém publica a régua de parada. Dizer "aqui eu paro" parece deixar dinheiro na mesa, e é justamente essa aparência que o torna crível. Quem lê entende que aquele profissional coloca alguma coisa acima do próprio faturamento.
 
@@ -65,9 +65,9 @@ Um critério publicado tem quatro partes. A primeira é a bifurcação: dizer qu
 
 A terceira parte é a régua propriamente dita, escrita como uma condição que se pode verificar: "eu escolho A quando acontece tal coisa". Preferências vagas, como "depende de cada caso" ou "avalio individualmente", não são régua; são a ausência dela dita com educação. A quarta parte é a mais difícil: dizer onde a sua régua já errou. Um critério cujo limite você conhece é um critério que foi usado de verdade. Um critério sem limite conhecido provavelmente nunca foi testado.
 
-Caio escreveu as quatro partes no caderno. A bifurcação: numa reforma de prédio antigo com prazo curto, depois de resolvido o que é segurança, há quem feche o que viu e deixe o aviso por conta do dono, e há quem abra antes de fechar. Os dois caminhos são defensáveis; num imóvel de temporada, adiar a infiltração e os canos pode levar anos para cobrar, e o dono assume esse risco. Caio conhece colegas bons que fazem o primeiro. O custo do primeiro é o problema que volta, sempre no pior momento e para alguém que não sabia dele. O custo do segundo é o prazo e o orçamento, que nas obras dele crescem e às vezes fazem o cliente desistir.
+Caio escreveu as quatro partes no caderno. A bifurcação: numa reforma de prédio antigo com prazo curto, depois de resolvido o que é segurança, há quem feche o que viu e deixe o aviso por conta do dono, e há quem abra antes de fechar. Os dois caminhos são defensáveis; num imóvel de temporada, adiar a infiltração e os canos pode levar anos para cobrar, e o dono assume esse risco. Caio conhece colegas bons que fazem o primeiro. O custo do primeiro é o problema que volta, no pior momento e para alguém que não sabia dele. O custo do segundo é o prazo e o orçamento, que nas obras dele crescem e às vezes fazem o cliente desistir.
 
-A régua dele cabia numa frase: se ninguém que vai usar o espaço depois vai saber do problema que eu vi, eu abro antes de fechar, ou não faço a obra. E, ao escrever, entendeu de onde vinha a terceira pergunta. Três anos antes, Caio tinha recusado uma obra rápida de uma senhora que precisava vender o apartamento às pressas por um motivo de família. Aplicou a régua sem perguntar quem ia saber. Só depois soube que ela pretendia informar o comprador de tudo, e que só precisava do imóvel apresentável. Desde então, antes de recusar, pergunta quem vai saber do que ficou por fazer.
+A régua dele cabia numa frase: se ninguém que vai usar o espaço depois vai saber do problema que eu vi, eu abro antes de fechar, ou não faço a obra. E, ao escrever, entendeu de onde vinha a terceira pergunta. Três anos antes, Caio tinha recusado uma obra rápida de uma senhora que precisava vender o apartamento às pressas por um motivo de família. Aplicou a régua sem perguntar quem ia saber. Semanas depois, pelo corretor, soube que ela pretendia informar o comprador de tudo, e que só precisava do imóvel apresentável. Desde então, antes de recusar, pergunta quem vai saber do que ficou por fazer.
 
 ```exemplo
 titulo: Conhecimento e critério sobre o mesmo assunto
@@ -87,19 +87,19 @@ etapas:
   - {rotulo: "A pessoa lê o seu critério", nota: "Sem conhecer você, sem indicação."}
   - {rotulo: "Reconhece um bom raciocínio", nota: "Avalia o raciocínio."}
   - {rotulo: "Reconhece-se ou se afasta", nota: "Os dois resultados são bons: o filtro acontece antes da primeira conversa."}
-  - {rotulo: "Chega concordando com a régua", nota: "A objeção mais comum já foi respondida."}
+  - {rotulo: "Chega concordando com a régua", nota: "A objeção já foi respondida."}
   - {rotulo: "Aceita a condução do trabalho", nota: "Escolheu você pela régua."}
 ```
 
-O investidor dos três apartamentos, se tivesse lido a régua do Caio antes de mandar a mensagem, provavelmente teria procurado outro escritório desde o começo, e os dois teriam poupado uma visita e uma semana de conversa. Quem chega concordando com a régua, por outro lado, aceita o prazo maior sem discussão, porque entendeu antes da primeira reunião por que ele existe.
+O investidor dos três apartamentos, se tivesse lido a régua do Caio antes de mandar a mensagem, provavelmente teria procurado outro escritório desde o começo, e os dois teriam poupado uma visita e uma semana de conversa. Quem chega concordando com a régua já sabe, antes da primeira reunião, por que o prazo é maior.
 
 A régua se publica sem quem a motivou. Caio não contou a história do investidor, nem o endereço do prédio, nem o número de apartamentos. O investidor não se reconheceria na peça; quem estivesse pensando em fazer o mesmo, sim.
 
-O outro cuidado é não transformar a régua em acusação. O escritório que aceitou os três apartamentos trocou o quadro e a fiação, como Caio faria, e escolheu o outro caminho para o resto; talvez tenha uma régua diferente, talvez tenha encontrado uma solução que Caio não viu. Um critério publicado diz o que você faz e por quê. Quando passa a dizer o que os outros fazem de errado, vira ataque, e deixa de ser critério.
+A régua também não se publica como acusação. O escritório que aceitou os três apartamentos deve ter trocado o quadro e a fiação, que o investidor já tinha aceitado, e escolheu o outro caminho para o resto; talvez tenha uma régua diferente, talvez tenha encontrado uma solução que Caio não viu. Um critério publicado diz o que você faz e por quê. Quando passa a dizer o que os outros fazem de errado, vira ataque, e deixa de ser critério.
 
-Numa quinta de maio, antes de ter decidido qualquer formato, Caio contou a obra do cano em voz alta ao sócio, anotou o que tinha dito e publicou como um texto curto. Começou por uma obra em que tinha aberto uma parede para trocar um cano que ninguém veria, disse os dois caminhos e a régua, e terminou no limite dela, contado sem a senhora: uma vez recusou uma obra sem perguntar quem ia saber do que ficava por fazer.
+Numa quinta de maio, antes de ter decidido qualquer formato, Caio contou em voz alta ao sócio uma obra antiga, anotou o que tinha dito e publicou como um texto curto. Começou por uma obra em que tinha aberto uma parede para trocar um cano que ninguém veria, disse os dois caminhos e a régua, e terminou no limite dela, contado sem a senhora: uma vez recusou uma obra sem perguntar quem ia saber do que ficava por fazer.
 
-Na semana seguinte, visitou com um casal, indicado por um cliente antigo, um apartamento de 1958 no Bosque. O marido perguntou o que Caio abriria primeiro. Ele apontou a parede da cozinha, onde a tinta descascava num desenho que conhecia bem, e disse que não sabia o que havia atrás dela. Explicou que só fecharia o orçamento depois de abrir. O casal não pediu desconto nem prazo menor. Pediu que ele avisasse, antes de fechar qualquer parede, o que tinha encontrado.
+Na semana seguinte, foi ver com um casal, indicado por um cliente antigo, um apartamento de 1958 no Bosque. O marido perguntou o que Caio abriria primeiro. Ele apontou a parede da cozinha, onde a tinta descascava num desenho que conhecia bem, e disse que não sabia o que havia atrás dela. Explicou que só fecharia o orçamento depois de abrir. O marido quis saber quanto tempo levava abrir, e se dava para morar lá enquanto isso. Caio respondeu com a obra de sempre, a do cano que ninguém veria.
 
 ```guardar
 - O cliente não consegue avaliar a sua técnica, mas consegue avaliar o seu raciocínio. O critério é a prova de competência que um leigo sabe ler.
@@ -141,7 +141,7 @@ intro: "Publique a régua da oficina. O assunto é uma decisão típica da sua �
 regras:
   - {regra: "Diga que há dois caminhos defensáveis.", porque: "Sem a bifurcação, quem lê acha que você está descrevendo o óbvio, e o critério desaparece."}
   - {regra: "Fale do custo de cada caminho.", porque: "Todo caminho oferece alguma coisa. O que ajuda alguém a decidir é saber o que cada um cobra."}
-  - {regra: "Publique o que você recusa.", porque: "A recusa é a régua mais fácil de ler: mostra o que você não faz, mesmo quando pagaria bem."}
+  - {regra: "Diga o que a sua régua faz você deixar de fazer.", porque: "Toda régua tem um lado que você recusa, mesmo quando pagaria bem: o trabalho que não aceita, o caminho que não escolhe, o atendimento que não prolonga, o caso que manda para outro. É a parte mais fácil de ler."}
 faca:
   - "“Quando o cliente chega com tal quadro, há dois caminhos, e os dois são defensáveis.”"
   - "“Eu escolho este quando acontece tal coisa.”"
