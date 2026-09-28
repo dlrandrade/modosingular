@@ -10,13 +10,17 @@ legenda_ilustracao: Pode crescer o quanto quiser. Não pode apagar o desenho.
 
 Em março, Renata contratou uma assistente. A agenda tinha crescido desde o fim do ano, com pacientes novos que chegavam citando áudios antigos, e as duas peças por semana, que ela gravava no carro, passaram a disputar tempo com a lista de espera. Bianca estudava publicidade, trabalhava à tarde na recepção e aceitou cuidar também do perfil por algumas horas a mais. Pegaria os áudios de Renata, passaria a texto, faria as artes e publicaria. A proposta dela, na primeira semana, foi aproveitar melhor o material: de cada áudio, sairiam três peças.
 
+Bianca era boa no que fazia, e fazia de boa-fé. Tinha aprendido na faculdade a tirar o máximo de cada material, a organizar informação em tópicos, a escrever frases que cabem numa imagem. Não conhecia o consultório por dentro, não sabia por que Renata perguntava sobre as manhãs e nunca tinha visto um paciente sair aliviado por entender a própria dor. Fez com os áudios o que sabia fazer com qualquer conteúdo, e ninguém lhe disse que aqueles áudios pediam outra coisa.
+
 Em abril, o perfil publicava seis vezes por semana. Os áudios eram os mesmos dois, gravados no estacionamento, mas cada um virava um carrossel, uma frase de destaque sobre fundo azul e um vídeo curto com legenda animada. Os números subiram. Bianca mostrava a Renata, na sexta, um gráfico com o crescimento de seguidores, e Renata aprovava a semana seguinte num bloco só, rolando a tela do celular entre um paciente e outro.
 
 No fim de abril, Marcos voltou ao consultório. Fazia mais de um ano que ele tinha terminado o tratamento, e agora vinha para duas sessões de manutenção, depois de uma viagem longa de carro. Na saída, com o casaco já no braço, comentou que tinha visto o perfil dela de novo. Disse, rindo, que no ano anterior tinha finalmente parado de avisar os colegas para não ligarem para o Instagram da fisioterapeuta. "Agora eu acho que voltaria a avisar."
 
-Renata riu com ele, e à noite abriu o perfil com calma pela primeira vez em semanas. Rolou as últimas trinta publicações. Encontrou dicas de postura numeradas, uma frase sobre autocuidado em letras grandes, um carrossel sobre o travesseiro certo que ela não lembrava de ter aprovado. Os áudios dela estavam lá dentro, em pedaços, mas as frases tinham mudado. "A dor não é o inimigo, é o alarme" tinha virado "Escute o seu corpo: a dor é um sinal!", com ponto de exclamação e um coração azul.
+Renata riu com ele, e à noite abriu o perfil com calma pela primeira vez em semanas. Rolou as últimas trinta publicações. Encontrou dicas de postura numeradas, uma frase sobre autocuidado em letras grandes, um carrossel sobre o travesseiro certo que ela não lembrava de ter aprovado. Os áudios dela estavam lá dentro, em pedaços, mas as frases tinham mudado. "A dor não é o inimigo, é o alarme" tinha virado "Escute o seu corpo: a dor é um sinal", com ponto de exclamação no fim e um coração azul.
 
 Não havia nada de errado em nenhuma das peças, e era isso que mais incomodava. Estavam corretas, bem organizadas e bonitas. Mas não havia nelas a pergunta sobre as manhãs, nem o paciente do carrinho de supermercado, nem a desconfiança do exame que não combina com a queixa. Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de novo diante de um perfil que parecia de outra pessoa. Dessa vez, feito a partir da voz dela.
+
+A primeira reação foi culpar Bianca, e durou até a hora de dormir. Renata abriu as mensagens das semanas anteriores e encontrou, em todas as sextas, a mesma pergunta da assistente, "posso agendar?", e a mesma resposta dela, "pode", enviada entre um paciente e outro. Nenhuma daquelas peças tinha saído sem a aprovação dela. Tinha aprovado tudo, e não tinha lido quase nada.
 
 ## O que escala e o que não escala
 
@@ -38,6 +42,8 @@ Tabela: A linha que divide as etapas
 
 As quatro primeiras linhas são as que o livro inteiro ajudou você a encontrar: a ideia vem do caderno de campo, a opinião do capítulo 10, a fala do seu modo, o critério do capítulo 18. Enquanto essas quatro continuarem sendo suas, o resto pode crescer sem risco. No caso da Renata, as quatro tinham saído das mãos dela sem que ninguém decidisse isso. A ideia de cada peça passou a ser escolhida por Bianca, a partir de trechos dos áudios, e o critério foi o primeiro a cair na edição, porque era a parte mais difícil de caber numa arte.
 
+Cortar e reescrever parecem vizinhos e fazem coisas opostas. Cortar é tirar do áudio o "então", o "né", a frase que começou e não terminou, a repetição que na fala ajuda e no texto cansa. As palavras que ficam continuam sendo de quem falou. Reescrever é trocar "a dor é um alarme" por "escute o seu corpo", porque a segunda frase parece mais profissional a quem não conhece o consultório. O corte cabe a qualquer pessoa cuidadosa. A reescrita, feita por outra pessoa, é onde a voz se perde.
+
 ```conceito
 termo: Escala com rosto
 definicao: O crescimento do volume e do alcance sem perda da singularidade, obtido quando crescem as etapas mecânicas, como transcrever, formatar e distribuir, e ficam intocadas as etapas que são o próprio conteúdo: a ideia, a opinião, a fala e o critério.
@@ -50,17 +56,21 @@ A descaracterização é silenciosa porque cada peça, olhada sozinha, parece bo
 
 O segundo sinal é o mais confiável: aprovar sem ler direito. Quando a revisão vira uma formalidade feita entre dois pacientes, rolando a tela, a voz já saiu, porque ninguém mais está conferindo se ela está lá. O terceiro é consequência do segundo. Você não lembra o que publicou na semana. Renata não lembrava do carrossel do travesseiro, e não lembrava porque não o tinha pensado. Tinha apenas autorizado.
 
+Os três sinais aparecem também em quem trabalha sozinho. Um modelo de arte que decide o tamanho de cada frase, um aplicativo que sugere legendas prontas, uma inteligência artificial que reescreve o áudio em tom de postagem: qualquer ajuda que troque palavras produz o mesmo efeito de uma assistente sem orientação. O Apêndice C traz um modelo de pedido que mantém a sua voz quando a ajuda é uma ferramenta. As quatro etapas que nunca passam adiante valem para gente e para programa.
+
 ```nota
 tipo: alerta
 titulo: A culpa costuma cair no lugar errado
 texto: Volume não apaga uma voz. O que apaga é passar a voz para outras mãos. Como as duas coisas acontecem juntas, quase sempre na mesma primavera, a escala leva a culpa por um efeito que a delegação produziu, e a pessoa reduz o volume sem mudar o que de fato estava errado.
 ```
 
-Renata quase cometeu esse erro. Na primeira noite, pensou em voltar às duas peças por semana e dispensar a ajuda de Bianca. Na manhã seguinte, fez uma conta diferente. O problema não era o número de peças. Era que três das quatro etapas que só ela podia fazer tinham passado para outra pessoa, e a quarta, a fala, tinha virado apenas insumo, cortada até perder o sentido. Com as quatro de volta nas mãos dela, seis peças por semana talvez continuassem possíveis.
+Renata quase cometeu esse erro. Na primeira noite, pensou em voltar às duas peças por semana e dispensar a ajuda de Bianca. Na manhã seguinte, fez uma conta diferente. O problema estava menos no número de peças do que no caminho de cada uma: três das quatro etapas que só ela podia fazer tinham passado para outra pessoa, e a quarta, a fala, tinha virado apenas insumo, cortada até perder o sentido. Com as quatro de volta nas mãos dela, seis peças por semana talvez continuassem possíveis.
 
 ## A arquitetura que protege o rosto
 
 Na segunda-feira seguinte, as duas se sentaram na recepção depois do último paciente e redesenharam o caminho de cada peça. Renata continuaria gravando no carro, do jeito de sempre, mas cada áudio passaria a terminar com uma frase dita por ela: "a ideia desta peça é". Bianca não escolheria mais o assunto. Transcreveria o áudio inteiro, cortaria as repetições e as hesitações, e não trocaria nenhuma palavra.
+
+Bianca recebeu a mudança com mais alívio do que Renata esperava. Escolher, em cada áudio, o que merecia virar peça tinha sido a parte mais difícil do trabalho dela, porque ela nunca sabia o que era importante e o que era detalhe. Agora a escolha vinha pronta, dita no fim do áudio, e o trabalho dela passou a ser o que ela fazia bem: deixar a peça limpa, legível e publicada no horário.
 
 ```figura
 tipo: fluxo
@@ -75,7 +85,7 @@ nos:
 
 A revisão mudou de lugar e de forma. Deixou de ser uma aprovação em bloco, rolando a tela, e passou a ser uma leitura inteira, no computador da recepção, com uma caneta imaginária: a cada frase, Renata se perguntava se diria aquilo daquele jeito a um paciente. Nas primeiras semanas, marcou muitas. "Escute o seu corpo" voltou a ser "a dor é um alarme, e alarme a gente investiga antes de desligar". O ponto de exclamação sumiu, e o coração azul também.
 
-O volume se ajustou sozinho. Dos três formatos que Bianca tirava de cada áudio, dois continuaram: o texto transcrito e o vídeo com a própria voz de Renata e legenda. A frase de destaque sobre fundo azul saiu, porque nenhuma frase de Renata fazia sentido arrancada do raciocínio. O perfil passou a publicar quatro vezes por semana, e não seis. O tempo de Renata em cada peça caiu para uns quinze minutos: o áudio no começo e a leitura no fim, que são justamente os dois lugares em que a presença dela importa.
+O volume se ajustou sozinho. Dos três formatos que Bianca tirava de cada áudio, dois continuaram: o texto transcrito e o vídeo com a própria voz de Renata e legenda. A frase de destaque sobre fundo azul saiu, porque nenhuma frase de Renata fazia sentido arrancada do raciocínio. O perfil passou de seis para quatro peças por semana. O tempo de Renata em cada peça caiu para uns quinze minutos: o áudio no começo e a leitura no fim, que são justamente os dois lugares em que a presença dela importa.
 
 Bianca também propôs uma regra, e foi a mais útil de todas. Uma peça por semana seria feita inteira por Renata, do áudio à publicação, sem nenhuma mão de fora. Serviria de controle. Se essa peça começasse a soar muito diferente das outras, era sinal de que a edição tinha ido longe demais outra vez. Nas primeiras semanas, a diferença era grande. Em junho, já quase não se percebia.
 
@@ -88,10 +98,16 @@ labels: ["2/sem.", "4/sem.", "6/sem.", "10/sem."]
 series:
   - {nome: "Com as quatro etapas preservadas", pontos: [70, 76, 79, 80], destaque: true}
   - {nome: "Com a voz passada adiante", pontos: [68, 55, 38, 24]}
-legenda: Esquema ilustrativo, sem medição. Mostra a lógica do capítulo, e não um dado. O volume não derruba a diferença; o que derruba é o que acontece com a voz enquanto o volume sobe.
+legenda: Esquema ilustrativo, sem medição. Mostra a lógica do capítulo; não é um dado. O volume não derruba a diferença; o que derruba é o que acontece com a voz enquanto o volume sobe.
 ```
 
 Em junho, Marcos voltou para a última sessão de manutenção. Não falou do perfil, e Renata não perguntou. Na semana seguinte, um paciente novo chegou dizendo que tinha escolhido a fisioterapeuta depois de ouvir um vídeo sobre a pergunta que ela faz a todo mundo, a das manhãs. Contou que a mulher dele tinha dor de manhã havia anos e que nenhum médico tinha perguntado aquilo. Renata perguntou, antes de qualquer coisa, como eram as manhãs dele.
+
+## Antes de precisar
+
+A maior parte de quem lê este livro ainda produz sozinho, e talvez continue assim. A arquitetura serve do mesmo jeito, por outro motivo: é mais fácil decidir o que nunca passa adiante antes de ter alguém para quem passar. Renata desenhou a dela depois do estrago, em abril, com o perfil já parecendo de outra pessoa. Quem a desenha antes entra na primeira contratação, ou na primeira ferramenta, com a linha já traçada.
+
+A ordem natural da ajuda começa pelo mais mecânico. Primeiro a transcrição, que consome tempo e não carrega nada de seu. Depois a formatação e a agenda. O corte vem por último, porque é o ponto em que mais facilmente se escorrega do corte para a reescrita, e exige que a pessoa conheça bem a sua voz. As quatro etapas do topo da tabela não entram nessa fila em nenhum momento.
 
 ```guardar
 - Ideia, opinião, fala e critério nunca passam a outras mãos. Com essas quatro preservadas, o resto pode crescer.
