@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-27 21:00
+# atualizado: 2026-09-28 01:35
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -261,7 +261,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   16:
-    status: planejado
+    status: rascunho
     iteracoes: []
   17:
     status: planejado
@@ -402,6 +402,8 @@ figurantes:
   - 5
   veterinário:
   - 15
+  farmacêutico:
+  - 16
 decisoes:
 - '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
   gate >= 9.0 sem critério < 8.0'

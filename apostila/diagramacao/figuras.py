@@ -389,6 +389,9 @@ def orbita(d):
 def barras(d):
     series = d["series"]
     out, y = [], 6
+    if d.get("unidade"):  # a unidade abre o gráfico, separada da legenda
+        out.append(texto(0, y + 8, d["unidade"], 9, INK2, 600, esp=0.3)[0])
+        y += 20
     mx = max(s["valor"] for s in series) or 1
     if d.get("destaque") is not None:
         melhor = d["destaque"]
@@ -409,9 +412,6 @@ def barras(d):
             out.append(rn)
             y += h2 + 2
         y += 10
-    if d.get("unidade"):
-        out.append(texto(0, y + 6, d["unidade"], 9, INK2, estilo="italic")[0])
-        y += 14
     y = _legenda(out, y, d)
     return svg("".join(out), y + 2)
 
