@@ -10,15 +10,15 @@ legenda_ilustracao: A ferramenta certa, na ordem certa. Fora de ordem, ela não 
 
 Em abril, dois anos depois de suspender as publicações da agência, Otávio marcou uma reunião na mesma sala de vidro. Levou uma pasta de papel pardo, dessas de elástico, e a pôs na mesa antes de sentar. A responsável pela conta, uma jornalista chamada Sílvia, abriu o computador e começou pelo que sabia fazer: tinha preparado um calendário de maio a julho, com quinze publicações por mês e as datas comemorativas marcadas em amarelo. A primeira era o Dia do Trabalhador.
 
-Otávio agradeceu e pediu que ela fechasse o calendário. Abriu a pasta e tirou quatro coisas, uma de cada vez. Uma folha com cinco regras, escrita à mão e depois digitada, com o título "Como eu escrevo". Um maço com dez dos textos que ele tinha publicado desde setembro, no perfil do escritório, impressos e grampeados. Uma folha com quatro linhas curtas, sob o título "O que não é de vocês". E uma folha de fluxo, que dizia o que ele mandaria, quando e por onde.
+Otávio agradeceu e pediu que ela fechasse o calendário. Abriu a pasta e tirou quatro coisas, uma de cada vez. Uma folha com cinco regras, escrita à mão e depois digitada, com o título "Como eu escrevo". Um maço com dez das trinta e poucas peças escritas à mão que ele tinha publicado desde setembro, no perfil do escritório, impressos e grampeados. Uma folha com quatro linhas curtas, sob o título "O que não é de vocês". E uma folha de fluxo, que dizia o que ele mandaria, quando e por onde.
 
 Sílvia leu as cinco regras em silêncio. Eu começo pela pior hipótese. Eu uso a palavra prova com precisão, e nunca como enfeite. Eu escrevo em quatro parágrafos ou menos. Eu termino com uma pergunta que o empresário pode fazer a si mesmo. Eu nunca escrevo "você sabia?".
 
 Na última, ela riu, reconhecendo o bordão da própria agência, e Otávio riu com ela. Não havia ressentimento na folha. Havia, pela primeira vez, uma instrução.
 
-A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos já liberados, os parágrafos que escreve à mão atrás da última folha de cada parecer e que só saem depois da data anotada a lápis no canto, e mandaria as fotos para Sílvia. Os da semana continuavam na pasta, esperando a vez. Antes das fotos, marcaria qual deles seria publicado e sublinharia a última frase de cada um, a pergunta. A agência digitaria sem trocar nenhuma palavra, conferiria com as regras e agendaria para terça, com o texto sobre fundo branco. A arte e a triagem dos comentários viriam depois, se nenhuma palavra voltasse trocada. Mais nada.
+A proposta era pequena e precisa. Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos já liberados, os parágrafos que escreve à mão atrás da última folha de cada parecer e que só saem depois da data anotada a lápis no canto. Antes da foto, conferiria, como sempre, que nada neles leva a um cliente, e mandaria as fotos para Sílvia. Os da semana continuavam na pasta, esperando a vez. Antes das fotos, marcaria qual deles seria publicado e sublinharia a última frase de cada um, a pergunta. A agência digitaria sem trocar nenhuma palavra, poria uma legenda curta, conferiria com as regras e agendaria para terça, com o texto sobre fundo branco. A arte e a triagem dos comentários viriam depois, se nenhuma palavra voltasse trocada. Mais nada.
 
-Sílvia fez uma pergunta que Otávio esperava, e que merece ser feita por qualquer agência: e as datas? E o calendário? E o que o perfil publica nas semanas em que ele não mandar nada? Otávio respondeu com a folha de fluxo. Nenhuma peça sai sem um texto dele correspondente. Na semana em que ele não mandar, o perfil não publica. Não haveria bandeirinha de São João, nem arte do Dia do Trabalhador, nem nenhuma frase escrita para preencher um espaço.
+Sílvia fez a pergunta que Otávio esperava, a que qualquer agência séria faria: e as datas? E o calendário? E o que o perfil publica nas semanas em que ele não mandar nada? Otávio respondeu com a folha de fluxo. Nenhuma peça sai sem um texto dele correspondente. Na semana em que ele não mandar, o perfil não publica. Não haveria bandeirinha de São João, nem arte do Dia do Trabalhador, nem nenhuma frase escrita para preencher um espaço.
 
 A decisão de voltar tinha uma razão concreta. Desde janeiro, o maço de versos não escolhidos crescia mais depressa do que Otávio conseguia publicar, e a sexta das cinco e meia, com a digitação e a arte, já pedia vinte minutos que ele preferia gastar só com a escolha. Ele queria publicar duas vezes por semana sem gastar um minuto a mais. Para isso, precisava de alguém que fizesse o que não carregava nada dele: digitar, agendar e, mais tarde, montar a arte.
 
@@ -26,7 +26,7 @@ A decisão de voltar tinha uma razão concreta. Desde janeiro, o maço de versos
 
 Dois anos antes, a agência tinha recebido uma tarefa impossível: inventar a voz de alguém que ainda não a conhecia. Com as mesmas pessoas, passou a produzir peças do Otávio em abril, e a diferença não estava nela.
 
-Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. O manual saiu daí, e o resto da pasta, de um ano e meio escrevendo toda semana. Nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil exatamente porque deixou de ter de adivinhar.
+Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. O manual saiu daí, e o resto da pasta, de um ano e meio escrevendo toda semana. Nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil porque deixou de ter de adivinhar.
 
 Helena desconfiou. Tinha visto o perfil do escritório passar anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu o que havia na pasta antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
 
@@ -48,7 +48,7 @@ A quarta condição é a que mais pesa, e é a que Otávio não tinha dois anos 
 
 ## O escopo que protege
 
-O contrato antigo tinha uma linha de escopo: produção de quinze publicações mensais para o perfil do escritório, com aprovação do cliente. Parece razoável e entrega à agência a decisão mais importante, a do que dizer. Quem contrata publicações contrata também a escolha dos assuntos, das opiniões e das frases, e passa a apenas aprovar. O contrato novo começa por outra frase: a partir do material escrito enviado pelo cliente.
+O contrato antigo tinha uma linha de escopo: produção de quinze publicações mensais para o perfil do escritório, com aprovação do cliente. Parece razoável, e entrega à agência a decisão mais importante: a do que dizer. Quem contrata publicações contrata também a escolha dos assuntos, das opiniões e das frases, e passa a apenas aprovar. O contrato novo começa por outra frase: a partir do material escrito enviado pelo cliente.
 
 A cláusula que Otávio pôs na folha de fluxo resolve a maior parte dos problemas antes que eles apareçam. Se nenhuma peça sai sem um texto dele correspondente, a produção genérica deixa de ser possível. A agência não tem como preencher uma semana vazia com uma data comemorativa, porque não há o que formatar. O perfil do escritório fica em silêncio nessas semanas, e Otávio preferiu esse silêncio ao antigo barulho.
 
@@ -71,9 +71,9 @@ direita:
     - Você decide. Eles executam.
 ```
 
-O contrato novo também custava menos. Sem pauta, sem calendário, sem redação, o trabalho da agência encolheu para digitação e agenda, e mais tarde arte e triagem de comentários, e o preço acompanhou. Sílvia comentou, meio a sério, que era o primeiro cliente que pedia para pagar menos e receber mais. Otávio corrigiu: pagava por aquilo que outra pessoa podia fazer melhor do que ele, e deixava de pagar por aquilo que ninguém podia fazer por ele.
+O contrato novo também custava menos. Sem pauta, sem calendário, sem redação, o trabalho da agência encolheu para digitação e agenda; arte e triagem viriam mais tarde. O preço acompanhou. Sílvia comentou, meio a sério, que era o primeiro cliente que pedia para pagar menos e receber mais. Otávio corrigiu: pagava por aquilo que outra pessoa podia fazer melhor do que ele, e deixava de pagar por aquilo que ninguém podia fazer por ele.
 
-Há um cuidado a mais para quem é de uma profissão regulamentada. As regras de publicidade da advocacia, como as da medicina, da psicologia e de outras áreas, proíbem promessa de resultado, captação indevida de clientela e menção a casos identificáveis. A agência atende empresas de todo tipo e não tem obrigação de conhecê-las. Otávio acrescentou ao manual uma sexta linha, só para Sílvia: nenhuma frase que prometa resultado, nenhum nome de cliente, nenhuma chamada para contratar.
+Há um cuidado a mais para quem é de uma profissão regulamentada. As regras de publicidade da advocacia, como as da medicina, da psicologia e de outras áreas, proíbem promessa de resultado e captação indevida de clientela, e limitam a exposição de casos de clientes. A agência atende empresas de todo tipo e não tem obrigação de conhecê-las. Otávio acrescentou ao manual uma sexta linha, só para Sílvia: nenhuma frase que prometa resultado, nenhum nome de cliente, nenhuma chamada para contratar.
 
 ```nota
 tipo: pratica
@@ -87,7 +87,7 @@ itens:
 
 ## Revisar sem virar gargalo
 
-O primeiro texto que voltou da agência tinha uma frase trocada. Era o verso sobre o banco de horas, e a pergunta final, sublinhada à mão, dizia: quem, na sua empresa, confere essa folha todo mês? A versão digitada terminava assim: "Controle é proteção." Sílvia tinha achado que a pergunta deixava o texto em aberto e fechou com uma frase de efeito. Otávio desfez a troca, e Sílvia não se ofendeu. Pediu que a regra entrasse também no manual, como sétima linha: a última frase é sempre dele, e nunca muda. A folha de fluxo ficava com Otávio; o manual ficava na mesa dela.
+O primeiro texto que voltou da agência tinha uma frase trocada. Era o verso sobre o banco de horas, e a pergunta final, sublinhada à mão, dizia: quem, na sua empresa, confere essa folha todo mês? A versão digitada terminava assim: "A sua empresa confere a folha de ponto todo mês?" Sílvia tinha achado a pergunta mais direta assim. Tinha tirado o quem, que era o que obrigava o empresário a dizer um nome. Otávio desfez a troca, e Sílvia não se ofendeu. Pediu que a regra entrasse no manual, como sétima linha: a última frase é sempre dele, palavra por palavra.
 
 Delegar tem ainda outro risco, além da perda de voz: você virar o gargalo. A equipe entrega na segunda, o material espera a sua aprovação até quinta, e a semana seguinte começa atrasada. Otávio evitou isso com uma revisão curta, feita sempre na mesma ordem. Na primeira semana, levava uns quatro minutos por peça. Cada vez que encontrava uma frase fora do lugar, em vez de só corrigir, acrescentava uma linha ao manual. A oitava veio da legenda da terceira semana, que repetia a pergunta final com outras palavras; a nona, de uma hashtag que ele nunca usaria. As duas diziam o mesmo: a legenda é a primeira frase do texto, sem acréscimo.
 
@@ -111,20 +111,20 @@ unidade: minutos por peça, medidos por ele
 menor_melhor: true
 series:
   - {rotulo: "Primeira semana: 4 minutos", valor: 4, nota: "O manual tinha seis linhas. A última frase voltou trocada."}
-  - {rotulo: "Terceira semana: 2 minutos", valor: 2, nota: "Sete linhas. Nenhuma troca na pergunta final."}
+  - {rotulo: "Terceira semana: 2 minutos", valor: 2, nota: "Sete linhas. A pergunta final voltou intacta; a legenda, não."}
   - {rotulo: "Quarta semana em diante: pouco mais de 1 minuto", valor: 1.2, nota: "Nove linhas. A revisão virou conferência."}
 legenda: Os números são do Otávio. Cada frase fora do lugar virou uma linha nova no manual, e cada linha nova encurtou a revisão seguinte.
 ```
 
 ## Começar pequeno
 
-Como tinha combinado com Sílvia, Otávio não entregou tudo de uma vez. No primeiro mês, a agência só digitava e agendava, com a arte mais simples possível, o texto sobre fundo branco. Só depois de quatro semanas seguidas sem nenhuma troca de palavra, no fim do segundo mês, ele passou a arte e a triagem de comentários. Delegar uma etapa por vez tem uma vantagem que só aparece quando algo dá errado: se a voz se perde, você sabe em qual passagem ela se perdeu.
+Como tinha combinado com Sílvia, Otávio não entregou tudo de uma vez. No primeiro mês, a agência só digitava e agendava, com a arte mais simples possível, o texto sobre fundo branco. Só depois de quatro semanas seguidas sem nenhuma troca de palavra, no fim do segundo mês, ele passou a arte e a triagem de comentários. Delegar uma etapa por vez só mostra a sua vantagem quando algo dá errado: se a voz se perde, você sabe em qual passagem ela se perdeu.
 
 A triagem seguiu a mesma lógica. A agência responde ao que é logística, como o endereço do escritório ou o horário de atendimento, e encaminha a Otávio tudo o que é dúvida de direito. Ele responde por escrito, do jeito dele, e a resposta volta para o perfil com as palavras dele. Uma dúvida técnica respondida por outra pessoa seria, afinal, uma opinião jurídica que ele não deu, assinada com o nome dele.
 
 O mesmo vale para quem ainda trabalha sozinho e pensa em usar ajuda, seja uma pessoa, seja uma ferramenta. A ordem é a do capítulo 23, da etapa mais mecânica para a menos, com um prazo: observe um mês, e só passe a etapa seguinte depois de quatro semanas sem nenhuma troca. Se uma frase voltar trocada, corrija o manual antes de passar qualquer outra coisa. A pressa em delegar tudo de uma vez é a mesma que, dois anos antes, levou Otávio à agência antes da voz.
 
-Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro. Otávio separou os que já tinham passado da data a lápis, fotografou o verso de cada um, numerou as fotos e mandou todas a Sílvia de uma vez, com a instrução de usá-las na ordem. Só a foto do verso saía do escritório. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
+Em maio, o perfil do escritório publicava duas vezes por semana. A segunda peça vinha do maço de versos guardados em janeiro. Otávio separou os que já tinham passado da data a lápis, releu cada um procurando o que pudesse levar a um cliente, fotografou o verso de cada um, numerou as fotos e mandou todas a Sílvia de uma vez, com a instrução de usá-las na ordem. Só a foto do verso saía do escritório. O tempo dele por semana continuou o mesmo: cinco minutos no fim de cada parecer, as fotos da sexta e um minuto de revisão por peça. Todo o resto, agora, era trabalho de outra pessoa.
 
 No fim de maio, uma cliente mandou ao escritório o link de uma das peças. Era a empresária das três lojas de material de construção, que tinha chegado havia um ano pelo contador das padarias de Seu Ednaldo. Perguntava se a folha do banco de horas dela estava certa. Tinha lido na terça e conferido na quarta. Otávio respondeu que marcaria uma conversa. Era o tipo de mensagem que as artes azuis nunca tinham produzido: uma cliente que leu, foi conferir e voltou com uma pergunta da própria empresa. Antes de fechar o e-mail, ele sublinhou, na folha de fluxo que guardava na mesa, a frase que tinha escrito ali em abril: a última frase é minha.
 
@@ -145,7 +145,7 @@ campos:
       colunas: ["Tenho", "Ainda não"]
       linhas: ["Trinta peças no formato-base", "Manual de voz que outra pessoa consegue seguir", "A etapa que mais me consome é mecânica", "Sei apontar uma frase que não é minha, e dizer por quê"]
   - rotulo: "O escopo que você contrataria, por escrito"
-    exemplo: "Comece sempre por “a partir do material enviado por mim…”. Sem as palavras criação, pauta ou planejamento. Uma paisagista: “A partir das fotos e áudios enviados por mim: transcrição sem troca de palavras, legendas do vídeo e agendamento.”"
+    exemplo: "Comece sempre por “a partir do material enviado por mim…”. Sem as palavras criação, pauta ou planejamento. Uma professora de piano: “A partir dos vídeos e áudios enviados por mim: transcrição sem troca de palavras, legendas do vídeo e agendamento.”"
     linhas: 4
   - rotulo: "O que nunca passa adiante, escrito como instrução a outra pessoa"
     exemplo: "Uma designer de interiores: “A escolha do projeto, a opinião sobre ele e a última frase são minhas. Sem foto e texto meus, não há peça.”"
@@ -169,17 +169,17 @@ criterios:
 
 ```rede
 titulo: Como escolher alguém da minha área
-intro: "Escreva ou grave, no seu modo, uma peça que ensine quem lê a escolher um profissional da sua área, com critérios que um leigo consegue conferir sozinho. É o primeiro material que você mandaria a quem vai ajudar você, e a última frase é sua."
+intro: "Escreva ou grave, no seu modo, uma peça que ensine quem lê a escolher um profissional da sua área, com critérios que um leigo consegue conferir sozinho. Se um dia tiver ajuda, é o primeiro material que você mandaria; a última frase é sua."
 regras:
   - {regra: "Dê critérios que o leigo confere sozinho.", porque: "Quem ainda não conhece a sua área não sabe avaliar técnica. Sabe conferir se o profissional pergunta, explica e registra."}
   - {regra: "Seja honesto no convite.", porque: "Se os critérios valem, valem para os colegas também. Dizer isso é o que torna a peça confiável."}
-  - {regra: "Mande o material, e não a ideia do material.", porque: "Um áudio ou um texto seu já carrega a voz. Uma sugestão de tema obriga outra pessoa a escrever por você."}
+  - {regra: "Dê um sinal de alerta concreto.", porque: "Um critério diz o que procurar; o alerta diz quando sair, e é o que o leigo lembra na hora de decidir."}
 faca:
   - "Otávio: “Antes de contratar um advogado para a sua empresa, veja se ele pede os controles de ponto na primeira conversa.”"
-  - Sublinhar a última frase antes de mandar o material.
-  - "“Se alguma coisa não couber no manual, me pergunte antes.”"
+  - "Uma pediatra: “Veja se ela examina a criança antes de falar de remédio.”"
+  - "Um mecânico de motos: “Desconfie de orçamento fechado antes de abrir o motor.”"
 evite:
-  - "“Faz do jeito que achar melhor, você é que entende de redes.”"
+  - Critérios que dependem de preço ou de título.
   - Critérios que só um colega consegue avaliar.
   - Falar mal de colegas ou comparar-se com eles.
 esqueleto:
@@ -195,7 +195,7 @@ roteiro: |
   Desconfie de quem {o sinal de alerta}.
 
   Se passar nos três, você está bem servido, comigo ou não. {O seu fecho de sempre, sublinhado}.
-roteiro_nota: Nenhuma promessa de resultado. Confira no seu código se a chamada para contratar é permitida; na advocacia não é, e o convite honesto, sem pedido, faz o papel que a chamada faria.
+roteiro_nota: Nenhuma promessa de resultado. Confira no seu código se a chamada para contratar é permitida; na advocacia não é. O convite honesto não pede nada, e por isso cabe em qualquer código.
 faca_antes: true
 ```
 
