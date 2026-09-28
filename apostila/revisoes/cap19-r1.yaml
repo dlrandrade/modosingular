@@ -1,0 +1,72 @@
+capitulo: 19
+iteracao: 1
+notas: {metodo: 8.3, voz: 8.7, originalidade: 8.8, clareza: 8.8, ritmo: 8.9, concretude: 9.2,
+        coerencia: 7.6, aplicabilidade: 8.2, impresso: 8.8, honestidade: 8.8}
+bloqueadores:
+  - "Contradição com o método do cap. 13 no sistema que o capítulo ensina. O cap. 13 fixou: 'Desloque também a data da publicação: nunca antes de um mês depois do último atendimento em que o assunto apareceu', e o cap. 15 repetiu no caso da Renata: 'Se o caso fosse das últimas semanas, Renata teria anotado a data na ficha e esperado.' O cap. 19 desenha o contrário. A seleção de sexta olha 'os áudios da semana, e nenhum outro', o gatilho principal é o fim de atendimento, e a cena-modelo produz a peça dias depois: 'Na terça seguinte, Renata gravou a peça a partir de um áudio do corredor: um paciente dizendo que a dor sumia quando ele se distraía'. A contagem de agosto faz o mesmo: 'Dos nove áudios nascidos de uma segunda explicação, seis tinham virado peça' já na segunda semana de setembro. A oficina (campo 05, 'as capturas da última semana') e a rede ('Escolha uma das capturas que a seleção aprovou') levam o leitor a publicar em dias o que ouviu num atendimento. A 'roteiro_nota' remete ao cap. 13, mas o fluxo inteiro o desmente. A própria seleção pergunta só 'Consigo contar sem que ninguém seja reconhecido?', que é a operação de despersonalizar, sem a regra do calendário."
+pontos_fortes:
+  - "A abertura é das melhores do livro: cena concreta, com objeto e custo. 'gravação 212, gravação 213, gravação 214', 'o caderninho de capa verde que ficava na gaveta do consultório, com anotações a lápis de quando a bateria acabava', e a reviravolta sem sublinhado: 'A captura estava funcionando melhor do que nunca.' O problema do capítulo (falta a seleção) nasce do caso antes de ganhar nome."
+  - "O capítulo acrescenta ao PWA algo que a fonte não resolve: o estoque sem seleção vira 'o problema da tela vazia com outra cara, a de um arquivo grande demais'. A regra de ouro está bem cuidada na rede, trocando as diretrizes da fonte ('Mostre o sistema feio', 'Publique o estoque') por uma peça sobre a área do leitor: 'O caderno e o jeito de anotar ficam fora dela.'"
+  - "Os modos entram no lugar certo e com detalhe de ofício: 'Os melhores áudios de Renata começam com a frase do paciente, repetida do jeito que ele disse' e o parágrafo sobre os outros três modos ('Quem pensa contando registra o começo da história, \"teve uma paciente que\"'). O exemplo do ortodontista (elástico tirado para comer, 'uma noite sem não faz diferença') é tecnicamente certo e mostra bem a captura crua."
+  - "Os callbacks funcionam sem pesar: o senhor da cadeira de rodas do cap. 15 ('ela passou por ele duas vezes sem mexer no nome'), a regra do ritmo do cap. 12 ('peça que não sai na semana não passa para a seguinte') e a crença do repouso que volta em outubro, com outras palavras."
+problemas:
+  - criterio: metodo
+    trecho: "Renata a marcou para a sexta-feira, depois do último paciente, no carro ainda parado em frente ao consultório: dez minutos para ouvir os áudios da semana, e nenhum outro."
+    por_que: "É o bloqueador. Um sistema que seleciona só a captura da semana e produz na semana seguinte obriga quem atende gente (o público inteiro do livro) a descumprir o deslocamento de um mês do cap. 13. O leitor cuidadoso vai notar a contradição logo no capítulo que 'sistematiza' o caderno."
+    correcao: "Mantenha a seleção semanal só sobre a captura da semana, mas separe decidir de liberar. Quem passa pelas perguntas ganha nome e data: 'usar, repouso que piora, a partir de 12/11', o dia em que completa um mês do último atendimento sobre o assunto. A produção pega na fila o que já foi liberado. Acrescente uma quarta pergunta numerada ('Já passou um mês do último atendimento em que isso apareceu?') ou reescreva a segunda para incluir a data. Refaça a cena da terça: a peça sai de um áudio marcado cinco semanas antes ('O áudio tinha dezoito segundos e seis semanas'). Na contagem de agosto, troque 'seis tinham virado peça' por 'seis estavam marcados para virar peça'. Ajuste o campo 05 da oficina ('circule e escreva ao lado a data em que pode sair') e a intro da rede ('uma captura aprovada cuja data já chegou')."
+  - criterio: aplicabilidade
+    trecho: "Para escolher, ela usa três perguntas. Isto apareceu mais de uma vez? Consigo contar sem que ninguém seja reconhecido? Tenho alguma coisa a dizer sobre isso que um colega diria de outro jeito?"
+    por_que: "A oficina manda 'passe cada uma pelas três perguntas', e o campo 06 as parafraseia. Mas elas estão enterradas no meio de um parágrafo de prosa na p. 18, e a lição cap09-r1 exige que listas consultadas pela oficina saiam numeradas num box. A terceira ainda é ambígua: 'que um colega diria de outro jeito' pode ser lido como 'algo que um colega também diria'."
+    correcao: "Transforme as perguntas num bloco nota numerado ('As perguntas da seleção'): 1. Isto apareceu mais de uma vez? 2. Consigo contar sem que ninguém seja reconhecido, e já passou um mês do atendimento? 3. O que eu diria sobre isso é diferente do que um bom colega diria? No campo 05, remeta a 'as perguntas 1 a 3 da p. 18'."
+  - criterio: coerencia
+    trecho: "Três lugares, e em nenhum deles uma ordem que não fosse a da data."
+    por_que: "Há um furo de enredo. O áudio perdido é 'de algum dia de julho', e o texto conta que a irmã 'sugeriu em julho um aplicativo de notas com etiquetas', que Renata usou 'por duas semanas' antes de, 'em agosto', voltar ao gravador. Nessas semanas ela 'gravava e deixava para etiquetar depois' no aplicativo. Logo havia um quarto lugar, justamente onde o áudio de julho pode estar, e Renata não procura ali. A lição cap03-r3 pede cenas sem furo (quem sabia o quê, e quando)."
+    correcao: "Mova o aplicativo para antes: 'sugeriu em abril' e 'em maio voltou ao gravador'. Ou incorpore o furo como mais um sintoma: 'Quatro lugares, se contasse o aplicativo das etiquetas, que ela nem lembrou de abrir.' No segundo caso, ajuste a regra 'Renata tinha três' na seção das quatro regras."
+  - criterio: coerencia
+    trecho: "O celular guardava trezentos e quarenta áudios"
+    por_que: "As contas da personagem não fecham (lição cap01-r1). O texto diz que 'Havia mais de um ano, Renata gravava quase todo dia'. Só em agosto a figura 19.2 soma 65 áudios (31+17+9+6+2), e o próprio capítulo calcula que três por dia útil 'em um ano passam de setecentas'. Com mais de um ano de captura, 340 áudios é metade do ritmo de agosto. No mesmo sentido, 'Às quatro da tarde, tinha ouvido uns quarenta áudios em velocidade acelerada' dá cerca de quatro minutos por áudio. Isso não combina com áudios de vinte segundos nem com 'o tempo de ouvir quinze áudios curtos' em dez minutos."
+    correcao: "Suba para 'setecentos e poucos áudios' (a verificação passa a 'mais de oitocentos registros') ou encurte o tempo: 'Havia oito meses...'. Na busca de domingo: 'tinha ouvido mais de cem, pulando os do corredor pelo tamanho e demorando nos do carro, que eram longos'."
+  - criterio: voz
+    trecho: "O domingo perdido tinha uma ironia que ela percebeu à noite."
+    por_que: "É o narrador anunciando o efeito em vez de deixar o fato agir. O tique se repete no capítulo: 'A conta mostra por que o caderno engorda.', 'O momento escolhido tem uma razão.', 'Mas a contagem mostrou outra coisa, que ela não esperava.' Somados ao fecho em aforismo, dão ao texto um tom de aula que a cena de abertura não tem."
+    correcao: "Corte as frases de anúncio e comece pelo fato. 'À noite, percebeu que a captura estava funcionando melhor do que nunca.' 'Três capturas por dia útil dão quinze por semana...' 'Na sexta, a semana acabou...' 'Dos nove áudios nascidos de uma segunda explicação, seis...'"
+  - criterio: voz
+    trecho: "O que é recorrente volta, e o caderno de campo existe para que, da segunda vez, ele fique."
+    por_que: "O fecho é uma moral, e a regra (cap01-r1, cap12-r1) pede que a prosa termine em cena ou consequência prática. 'Os domingos voltaram a ser domingos.', dois parágrafos antes, é uma frase feita que gasta a mesma batida."
+    correcao: "Termine na ação, o que também resolve o bloqueador: 'Na sexta, no carro, foi o primeiro da semana a ganhar nome: usar, repouso que piora. Ao lado, ela anotou a data de novembro.' Troque 'Os domingos voltaram a ser domingos.' por um detalhe: 'No domingo seguinte, o fone ficou na bolsa.'"
+  - criterio: coerencia
+    trecho: "titulo: A observação da semana"
+    por_que: "O título da peça contradiz a regra 2 da própria rede ('sem datar') e a roteiro_nota ('nunca datada (\"esta semana\", \"hoje\")'). O 'evite' repete o tique: 'Transformar uma observação da semana numa regra para todos'. Com o bloqueador, o título reforça a leitura errada de que a captura da semana vai direto para a rede."
+    correcao: "'A frase que se repete'. No evite: 'Transformar uma observação sua numa regra para todos.'"
+  - criterio: aplicabilidade
+    trecho: "Liste todas, cruas. Depois passe cada uma pelas três perguntas e circule as escolhidas, tantas quantas o seu ritmo pede."
+    por_que: "O campo tem 6 linhas (p. 21). Uma semana de caderno, pelo próprio capítulo, dá de onze a dezenove capturas, e 'todas, cruas' não cabem à mão. O campo 04 traz instrução no lugar de exemplo ('Dez minutos, uma vez por semana, com a cabeça de quem terminou o dia.'). O exemplo do campo 03 ('Fim de atendimento, entre as aulas das 18h e das 19h') não tem profissão e mistura atendimento com aula. A oficina também perdeu o teste de atrito da fonte ('Quanto tempo levou cada captura?'), única verificação de que a regra dos 30 segundos está sendo cumprida."
+    correcao: "Campo 05: 'Liste as da semana em uma linha cada, só as primeiras palavras', com 10 linhas numeradas (numerar: true). Campo 04: 'Uma engenheira agrônoma: \"Sexta, 17h30, na caminhonete, antes de sair da última propriedade.\"' Campo 03: 'Uma professora de inglês: \"Fim de aula, entre a turma das 18h e a das 19h; volta para casa, no ônibus.\"' Acrescente ao campo 01 uma coluna 'Leva mais de 30 s?' ou uma linha curta: 'A captura mais demorada desta semana levou quanto?'"
+  - criterio: clareza
+    trecho: "Mas ela deixou uma pergunta em aberto, e o caderno cheio da Renata é a resposta que chega quando ninguém a responde"
+    por_que: "A lógica se enrola: o caderno cheio não é 'a resposta', é a consequência de a pergunta ficar sem resposta. É a frase que apresenta o problema do capítulo, e o leitor apressado tropeça nela."
+    correcao: "'Mas deixou uma pergunta em aberto, e o caderno cheio da Renata mostra o que acontece quando ninguém a responde: entre o registro de vinte segundos e a peça pronta, quem decide o que vai virar peça?'"
+  - criterio: originalidade
+    trecho: "Para escolher, ela usa três perguntas."
+    por_que: "O capítulo anterior terminou a cena de abertura com o mesmo recurso: 'Depois escreveu as três perguntas que fazia a si mesmo, em silêncio, antes de aceitar qualquer obra.' Duas trincas de perguntas em capítulos seguidos soam como fórmula. 'uma gaveta sem fundo' também é imagem gasta perto de um texto que tem 'trezentos e quarenta arquivos com número'."
+    correcao: "Mantenha as perguntas, mas apresente-as pelo gesto da Renata: 'No quebra-sol, ao lado do enunciado, prendeu um papel com três perguntas'. Ou reduza a duas mais a data. Troque 'uma gaveta sem fundo' por 'um arquivo que só se abria pela data'."
+  - criterio: aplicabilidade
+    trecho: "Porque cada etiqueta exigia uma decisão."
+    por_que: "Na verificação, a correta é a opção mais curta nas questões 02 e 03 ('Para não virar outra busca no arquivo.'). A lição cap01-r1 pede opções de comprimento parecido."
+    correcao: "Q02 c: 'Porque cada etiqueta pedia uma decisão que não cabia no corredor.' Q03 a: 'Para que a seleção não vire outra busca no arquivo inteiro.'"
+edicoes_de_linha:
+  - "casos que precisam de tempo para poderem ser contados -> casos que precisam de tempo até poderem ser contados"
+  - "É a única estrutura que o sistema recebe, e ela chega na seleção, e não na captura. -> É a única estrutura que o sistema recebe, e ela só aparece na seleção. (tira um ', e não' de um capítulo que está no limite)"
+  - "Na seleção, é aquela frase, e não o comentário, que traz de volta a sala -> Na seleção, é aquela frase que traz de volta a sala"
+  - "Tenho alguma coisa a dizer sobre isso que um colega diria de outro jeito? -> O que eu diria sobre isso é diferente do que um bom colega diria?"
+  - "O caderno de campo tinha virado uma gaveta sem fundo -> O caderno de campo tinha virado um arquivo que só se abria pela data"
+  - "Os domingos voltaram a ser domingos. -> No domingo seguinte, o fone ficou na bolsa."
+  - "Em nenhuma delas Renata ficou sem as duas escolhidas, e em duas precisou visitar o arquivo antigo. -> Em nenhuma ficou sem as duas escolhidas; em duas, precisou visitar o arquivo antigo."
+  - "legenda_ilustracao: Guardar ainda não é produzir. Mas, sem guardar, não há o que produzir. -> manter; é a única antítese de abertura e funciona"
+diagramacao:
+  - "p. 13: a figura 19.1 (ciclo) espreme os rótulos em colunas estreitas. 'Capturar: todo dia, em / segundos' quebra no meio da expressão, e o nó 3 sai alinhado à direita em sete linhas curtas ('Com a / matéria-prima / escolhida.'). Alargue a área de texto dos nós ou encurte as notas ('Com a matéria-prima já escolhida.')."
+  - "p. 13: cerca de 18% da página fica em branco abaixo da figura, porque o box Conceito vai inteiro para a p. 14. É evitável: pôr o box antes da figura, logo após o parágrafo 'A conta mostra...', ou deixar a figura subir."
+  - "p. 21: cerca de 20% em branco depois do 'Confira antes de seguir', porque a rede abre em página nova. Não é autodiagnóstico, oficina nem esqueleto. Se a rede não precisa abrir página, deixe as regras subirem. Com 10 linhas no campo 05, o branco se resolve sozinho."
+  - "p. 22: cerca de 35% em branco antes do esqueleto indivisível (aceito pelo projeto). p. 19: cerca de 60% em branco antes da oficina (aceito)."
+  - "p. 25: o checklist ocupa só o terço superior da página. Aceitável no fechamento, mas, se a verificação (p. 24) ganhar a nota com as perguntas numeradas, confira se as duas cabem juntas."
+veredito: "Capítulo com a melhor cena de abertura da fase e uma contribuição real ao método (a seleção semanal), mas o sistema que ele ensina contradiz a regra de calendário do sigilo do cap. 13, e há furos de enredo e de contas que precisam ser fechados antes da aprovação."

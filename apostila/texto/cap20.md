@@ -42,7 +42,7 @@ Caio aplicou os quatro aos formatos que tinha tentado. O vídeo numa tomada pass
 
 O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas, sem julgar, e só então a pergunta. Na quarta semana, relendo as quatro peças em sequência, não sentiu vontade de mudar nenhuma delas. Sentiu, pela primeira vez, que as quatro juntas pareciam escritas pela mesma pessoa, e essa pessoa era ele.
 
-O teste que mais reprova é o terceiro, e Caio o viu reprovar a primeira versão da foto. Nas duas primeiras semanas, ele escreveu legendas de uma linha: "mais uma cozinha entregando", "o antes e o depois do Taquaral". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram depois, quando ele percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
+O teste que reprovou primeiro, no caso do Caio, foi o terceiro, e ele o viu reprovar a primeira versão da foto. Nas duas primeiras semanas, ele escreveu legendas de uma linha: "mais uma cozinha entregando", "o antes e o depois do Taquaral". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram depois, quando ele percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
 
 ```figura
 tipo: barras
@@ -61,7 +61,7 @@ titulo: O formato rápido demais
 texto: Um formato que custa quase nada costuma custar também o repertório. A frase solta, a foto sem contexto, o vídeo de quinze segundos passam nos testes do modo, do pior mês e da repetição, e falham no terceiro. O resultado é uma presença constante que não diz nada de seu.
 ```
 
-A palavra "mínimo" costuma ser lida como "o mais rápido possível", e é por isso que o terceiro teste reprova tanto. O mínimo que interessa é outro: a menor peça que ainda leva você dentro dela. Para o Caio, cinco linhas eram o mínimo porque quatro não comportavam o critério. Para outra pessoa, o mínimo pode ser um texto de doze linhas ou um áudio de três minutos, desde que caiba no pior mês e não perca o que é dela.
+A palavra "mínimo" costuma ser lida como "o mais rápido possível", e é aí que o terceiro teste reprova. O mínimo que interessa é outro: a menor peça que ainda leva você dentro dela. Para o Caio, cinco linhas eram o mínimo porque quatro não comportavam o critério. Para outra pessoa, o mínimo pode ser um texto de doze linhas ou um áudio de três minutos, desde que caiba no pior mês e não perca o que é dela.
 
 ## Um formato por modo
 
@@ -84,7 +84,7 @@ O quinto formato é o que mais tenta, porque parece o mais natural para quem fal
 ```exemplo
 titulo: Um formato-base mal escolhido e um bem escolhido
 comum: Uma psicopedagoga que pensa falando escolhe um carrossel de dez lâminas, com arte própria. Mede o custo: noventa minutos. Na quarta semana, depois de uma reunião de pais que se estendeu, não publica. Na quinta, também não.
-singular: A mesma psicopedagoga escolhe um áudio de três minutos, gravado no fim da tarde, respondendo a uma dúvida que ouviu dos pais naquela semana, e publicado como texto. Mede o custo: vinte minutos. Mantém duas peças por semana no semestre inteiro.
+singular: A mesma psicopedagoga escolhe um áudio de três minutos, gravado no fim da tarde, respondendo a uma dúvida que os pais repetem na escola, e publicado como texto. Mede o custo: vinte minutos. Mantém duas peças por semana no semestre inteiro.
 porque: O segundo formato não é mais bonito. Ele nasce no modo dela, cabe no pior mês e comporta o repertório. O primeiro exigia que ela virasse designer antes de começar, e parou no primeiro imprevisto.
 ```
 
@@ -119,11 +119,11 @@ Na obra do Cambuí, a proprietária ouviu a explicação sobre a peroba com o ce
 
 Naquela noite, Caio fez o que vinha adiando desde julho. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada muda. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu. A câmera continuou no armário.
 
-As quartas-feiras à noite ficaram livres. Caio passou a usar meia hora delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
+As quartas-feiras à noite ficaram livres. Caio passou a usar dez minutos delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
 
 ```guardar
 - O formato-base elimina a decisão que mais se repete. Sem ela, o esforço da semana vai para o assunto.
-- "Um formato-base passa em quatro testes ao mesmo tempo: modo, pior mês, repertório e repetição. O do repertório é o que mais reprova."
+- "Um formato-base passa em quatro testes ao mesmo tempo: modo, pior mês, repertório e repetição. O do repertório é o que o formato rápido demais não passa."
 - Não troque de formato antes de trinta repetições. A vontade de mudar perto da décima é tédio de quem faz.
 ```
 
@@ -164,7 +164,7 @@ regras:
   - {regra: "Uma ideia por peça.", porque: "Duas ideias dividem a atenção de quem lê e gastam duas capturas do seu estoque de uma vez."}
   - {regra: "Termine quando a ideia acabar.", porque: "O formato mínimo não tem espaço para o resumo nem para o convite. A última frase é a do critério."}
 faca:
-  - "Caio: “Teve uma obra em que…”, toda quinta, com a foto daquela semana."
+  - "Uma designer de interiores: “Nesta sala, o que eu mudaria primeiro é…”, toda semana, com a foto de um cômodo sem ninguém."
   - Manter a mesma duração aproximada de uma peça para a outra.
   - Publicar a peça mediana no dia marcado, em vez de guardá-la para melhorar.
 evite:
