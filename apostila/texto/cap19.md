@@ -24,7 +24,7 @@ O capítulo 6 separou capturar de produzir, e essa separação continua valendo.
 
 O sistema precisa de três momentos, cada um com o seu custo e com a sua cabeça. Capturar, todo dia, em segundos, sem decidir nada. Selecionar, uma vez por semana, em dez minutos, quando se decide tudo o que a captura deixou para depois. Produzir, no ritmo do capítulo 8, com a matéria-prima já escolhida. Nenhum dos três pode fazer o trabalho dos outros dois.
 
-A conta mostra por que o caderno engorda. Três capturas por dia útil dão quinze por semana, e o ritmo de duas peças usa duas delas. As outras treze não são desperdício: guardam assuntos que ainda não amadureceram, crenças que vão voltar, casos que precisam de tempo para poderem ser contados sem que ninguém se reconheça. Mas, sem um momento para escolher as duas, as quinze se misturam às da semana anterior, e em um ano são setecentas.
+A conta mostra por que o caderno engorda. Três capturas por dia útil dão quinze por semana, e o ritmo de duas peças usa duas delas. As outras treze não são desperdício: guardam assuntos que ainda não amadureceram, crenças que vão voltar, casos que precisam de tempo para poderem ser contados sem que ninguém se reconheça. Mas, sem um momento para escolher as duas, as quinze se misturam às da semana anterior, e em um ano passam de setecentas.
 
 ```figura
 tipo: fluxo
@@ -69,7 +69,7 @@ texto: Um caderno de campo cheio de categorias, etiquetas e cores parece mais s�
 
 ## Os gatilhos
 
-Ninguém se lembra de capturar no meio de um dia cheio. O que funciona é amarrar a captura a coisas que acontecem todo dia, de modo que o fim de uma coisa puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por quase tudo.
+Lembrar de capturar no meio de um dia cheio não funciona. O que funciona é amarrar a captura a coisas que acontecem todo dia, de modo que o fim de uma coisa puxe o registro sem esforço de vontade. Renata descobriu os seus gatilhos olhando para trás. Na segunda semana de setembro, contou em que momento do dia tinha gravado cada áudio de agosto, e dois momentos respondiam por quase tudo.
 
 ```figura
 tipo: barras
@@ -162,10 +162,10 @@ titulo: A observação da semana
 intro: "Escolha uma das capturas que a seleção aprovou, de preferência uma que tenha aparecido mais de uma vez. A peça conta o que você viu, sobre a sua área, e o que isso revela. O caderno e o jeito de anotar ficam fora dela."
 regras:
   - {regra: "Comece pelo que você viu, com as palavras de quem disse.", porque: "A frase crua da captura é o que dá à peça o tom de coisa vivida. Reescrita em linguagem técnica, ela vira texto de qualquer um."}
-  - {regra: "Diga que se repetiu, sem inventar números.", porque: "“É a terceira vez este mês” é verificável na sua agenda. “Muita gente pensa isso” não é verificável em lugar nenhum."}
+  - {regra: "Diga que se repete, sem inventar números e sem datar.", porque: "“Ouço isso com frequência” é verdade que a sua agenda confirma. “Muita gente pensa isso” não se confirma em lugar nenhum, e “esta semana” aponta para quem disse."}
   - {regra: "Termine no que a pessoa pode fazer.", porque: "Uma observação que só descreve fica curiosa. A que devolve um gesto possível fica útil, e é lembrada."}
 faca:
-  - "Um técnico de segurança do trabalho: “Esta semana, dois encarregados me disseram que o capacete atrapalha a ouvir o rádio.”"
+  - "Um técnico de segurança do trabalho: “Volta e meia um encarregado me diz que o capacete atrapalha a ouvir o rádio.”"
   - Contar a crença com boa-fé, explicando de onde ela vem.
   - Fechar com uma pergunta que a pessoa pode fazer a si mesma na próxima vez.
 evite:
@@ -178,14 +178,14 @@ esqueleto:
   - {rotulo: "O que revela", texto: "A dificuldade maior que essa cena mostra.", linhas: 2}
   - {rotulo: "O que fazer", texto: "O gesto possível, ou a pergunta a se fazer.", linhas: 2}
 roteiro: |
-  Esta semana, {quantas vezes} alguém me disse a mesma coisa: {a frase crua, com as palavras de quem disse}.
+  Tem uma frase que eu ouço com frequência: {a frase crua, com as palavras de quem disse}.
 
   Faz sentido pensar assim, porque {de onde vem a crença}.
 
   O que essa frase mostra é {a dificuldade maior que ela revela}.
 
   Se isso acontece com você, experimente {o gesto possível}. E, da próxima vez, pergunte a si mesmo: {a pergunta}.
-roteiro_nota: Uma observação por peça. Se a captura veio de um atendimento, confira de novo a regra de sigilo do capítulo 13 antes de gravar.
+roteiro_nota: Uma observação por peça, nunca datada (“esta semana”, “hoje”). Se a captura veio de um atendimento, confira de novo a regra de sigilo do capítulo 13 antes de gravar.
 faca_antes: true
 ```
 
