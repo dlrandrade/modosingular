@@ -106,7 +106,7 @@ Em novembro, as três obras voltaram a andar, uma de cada vez, e a seleção vol
 
 Quando abriu o painel do mês, encontrou uma coisa que não esperava. As peças de outubro tinham tido pouco alcance, como era de se prever, mas as mensagens com dúvida real não tinham caído: chegaram cinco, quase todas sobre peças antigas, uma delas de janeiro, sobre o taco que estufa perto da janela. O conjunto tinha trabalhado no mês em que ele só pôde publicar o mínimo.
 
-Para o Caio, o segundo ano estava sendo mais leve que o primeiro, e não por disciplina. Gente tinha chegado citando peças; as dúvidas dos clientes novos entravam no caderno; as cinco linhas custavam menos do que em junho. Quando isso acontece, a produção deixa de ser aposta. A leveza vem de cada parte do sistema, dos capítulos 19 a 24, ter sido desenhada para custar pouco.
+Para o Caio, o segundo ano estava sendo mais leve que o primeiro, e não por disciplina. Gente tinha chegado citando peças; as dúvidas dos clientes novos entravam no caderno; as cinco linhas custavam menos do que em julho. Quando isso acontece, a produção deixa de ser aposta. A leveza vem de cada parte do sistema, dos capítulos 19 a 24, ter sido desenhada para custar pouco.
 
 Isso não quer dizer que o vale não volte. Ele pode voltar, em outros momentos: quando a área muda, quando você troca de plataforma, quando uma fase da vida pede outra rotina. O protocolo serve para todos eles. Releia-o uma vez por ano, num mês bom, e ajuste as linhas que envelheceram. A peça mínima de hoje talvez não seja a mesma daqui a um ano, e o estoque precisa ter sido alimentado para existir quando for preciso.
 

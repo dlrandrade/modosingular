@@ -16,7 +16,7 @@ Na visita, explicou como explica há oito anos: dependia do que a parede fazia a
 
 O marido ainda perguntou, já na porta, se o síndico podia proibir a obra. Caio explicou que o síndico não escolhe o projeto, mas recebe o plano da reforma, com o nome de quem responde por ela, e pode barrar a obra enquanto esse plano não chegar. Era outra resposta que ele dava toda semana, na porta, em geral logo depois da primeira. O casal anotou no celular, cada um no seu. A mulher disse que ninguém tinha falado nisso na hora da compra.
 
-À noite, Caio abriu o caderno de campo que mantinha havia alguns meses, onde anotava as perguntas de clientes com as palavras deles. Contou quantas vezes aparecia a mesma frase, com pequenas variações: "Dá para derrubar essa parede?", "Essa parede pode sair?", "Se eu tirar essa parede, o prédio cai?". Em três meses, trinta e uma vezes. Mais de duas por semana.
+À noite, Caio abriu o caderno de campo que mantinha havia alguns meses, onde anotava as perguntas de clientes com as palavras deles. Contou quantas vezes aparecia a mesma frase, com pequenas variações: "Dá para derrubar essa parede?", "Essa parede pode sair?", "Se eu tirar essa parede, o prédio cai?". Em três meses, vinte e nove vezes. Mais de duas por semana.
 
 Olhou para o número por um tempo. Tinha passado oito anos respondendo a mesma pergunta, uma pessoa de cada vez, em pé no meio de salas vazias, e nunca tinha pensado nela como assunto. Parecia básica demais. Qualquer arquiteto sabia a resposta. Achava que não merecia uma peça.
 
@@ -34,7 +34,7 @@ porque: Ela chega com a demanda comprovada. Você não precisa adivinhar o que i
 
 E quem a responde é o primeiro a subestimá-la. Caio achava a pergunta da parede básica porque, para ele, a resposta era trivial: ele a tinha formulado há anos, refinado a cada obra, e sabia de cor onde o cliente ia se confundir. A facilidade de responder parecia sinal de pouco valor, mas era o sinal de que a resposta estava madura, testada centenas de vezes, numa versão clara de uma explicação que ele mesmo, no primeiro ano de escritório, dava de forma atrapalhada.
 
-Caio levava uns dez minutos para responder à pergunta da parede com calma, em cada visita. Trinta e uma vezes em três meses dão pouco mais de cinco horas. Em oito anos, algo perto de cento e sessenta horas dedicadas à mesma explicação, dada a uma pessoa por vez. Uma peça bem feita sobre o assunto levaria uma hora para ser preparada e poderia chegar a quem ainda vai fazer a pergunta, antes da primeira visita.
+Caio levava uns dez minutos para responder à pergunta da parede com calma, em cada visita. Vinte e nove vezes em três meses dão quase cinco horas. Em oito anos, algo perto de cento e cinquenta e cinco horas dedicadas à mesma explicação, dada a uma pessoa por vez. Uma peça bem feita sobre o assunto levaria uma hora para ser preparada e poderia chegar a quem ainda vai fazer a pergunta, antes da primeira visita.
 
 ```figura
 tipo: gap
@@ -108,7 +108,7 @@ No Recife, Otávio fez o próprio inventário sem sair da caixa de entrada. As p
 
 O inventário resolve também a cena que o capítulo 6 descreveu: o horário reservado, o celular aberto e nenhuma ideia. Com um inventário, a hora reservada começa com o caderno aberto, a pergunta da semana escolhida e uma única decisão: em que nível respondê-la. É uma decisão de dois minutos.
 
-Na segunda seguinte, com a planta do prédio já conferida com o síndico, Caio mandou ao casal do Taquaral o orçamento com duas opções: a parede inteira fora, como na pasta, e uma abertura larga com bancada, que ele recomendava, com três linhas explicando por quê. Não escondeu a posição, e não recusou a primeira opção, que era legítima. Na mesma noite, abriu o caderno na página das dezenove perguntas e marcou a primeira para o fim do mês, depois que o casal decidisse: dá para derrubar essa parede? Ao lado, anotou o nível: crítico. Para aquela quinta, ficou a do taco. O casal ainda não tinha respondido.
+Na segunda seguinte, com a planta do prédio já conferida com o síndico, Caio mandou ao casal do Taquaral o orçamento com duas opções: a parede inteira fora, como na pasta, e uma abertura larga com bancada, que ele recomendava, com três linhas explicando por quê. Não escondeu a posição, e não recusou a primeira opção, que era legítima. Na mesma noite, abriu o caderno na página das dezenove perguntas e marcou a primeira para dali a seis semanas, bem depois de o casal decidir: dá para derrubar essa parede? Ao lado, anotou o nível: crítico. Para aquela quinta, ficou a do taco. O casal ainda não tinha respondido.
 
 ```guardar
 - A pergunta que você responde toda semana é a única pauta que chega com a demanda comprovada.

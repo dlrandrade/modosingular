@@ -293,7 +293,7 @@ elenco:
         F1 o silêncio também comunica ->
         F2 ritmo do pior mês (dezembro/férias de pacientes) ->
         F3 tradução com sigilo; contraponto sobre excesso de rótulos ->
-        F4 para de copiar a estrutura de uma psicóloga famosa; referência sem cópia ->
+        F4 para de copiar a voz de uma psicóloga famosa e leva só a estrutura; referência sem cópia ->
         F5 a oferta sem quebrar vínculo, dentro do código de ética.
     caio:
       nome: "Caio Tavares"
@@ -435,9 +435,9 @@ capitulos:
   22: {titulo: "Referência sem cópia", foco: lucia, cena: "Lúcia percebe que estava copiando a voz de uma psicóloga famosa, não a estrutura.", figuras: [camadas-referencia], nota: "Engenharia reversa e teste da contaminação."}
   23: {titulo: "Escala sem descaracterização", foco: renata, cena: "Renata contrata uma assistente, triplica a produção e não se reconhece no próprio perfil.", figuras: [fluxo-arquitetura, linha-paradoxo], nota: "Escala com rosto."}
   24: {titulo: "Quando e como delegar", foco: otavio, cena: "Otávio volta à agência — agora com áudios, um manual de voz e a última frase guardada para ele.", figuras: [tabela-escopo], nota: "Fecha o arco iniciado no cap. 4."}
-  25: {titulo: "Presença como patrimônio", foco: caio, cena: "Uma cliente chega com um texto que Caio publicou catorze meses antes.", figuras: [linha-patrimonio, funil-biblioteca], nota: "Parar de medir post como campanha."}
+  25: {titulo: "Presença como patrimônio", foco: caio, cena: "Uma cliente chega com um texto que Caio publicou dezesseis meses antes.", figuras: [linha-patrimonio, funil-biblioteca], nota: "Parar de medir post como campanha."}
   26: {titulo: "Boca de funil com rosto", foco: renata, cena: "O perfil da Renata reorganizado: de vitrine a porta de entrada.", figuras: [funil-tres-camadas, barras-proporcao], nota: "As três camadas do funil."}
-  27: {titulo: "Da audiência ao cliente", foco: lucia, cena: "A mensagem de uma leitora que acompanhava Lúcia havia oito meses: 'acho que agora estou pronta'.", figuras: [escada-cinco-estagios], nota: "A oferta sem quebrar o vínculo; ética profissional."}
+  27: {titulo: "Da audiência ao cliente", foco: lucia, cena: "A mensagem de uma leitora que acompanhava Lúcia havia sete meses: 'acho que agora estou pronta'.", figuras: [escada-cinco-estagios], nota: "A oferta sem quebrar o vínculo; ética profissional."}
   28: {titulo: "As métricas que importam", foco: otavio, cena: "Otávio ignora um post com mil curtidas e investiga um com doze, que trouxe três consultas.", figuras: [camadas-painel, linha-analise], nota: "O painel de quatro números."}
   29: {titulo: "Sustentar por doze meses", foco: caio, cena: "O mês em que três obras atrasaram ao mesmo tempo e Caio publicou do jeito mínimo.", figuras: [linha-novidade, fluxo-protocolo], nota: "O protocolo do mês difícil."}
   30: {titulo: "Ocupar o território", foco: todos, cena: "Um ano depois: onde estão os quatro. E a página em branco para o leitor.", figuras: [espectro-autoria], nota: "Autodiagnóstico final. Declaração de território. Plano de 90 dias."}

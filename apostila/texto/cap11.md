@@ -110,7 +110,7 @@ O modo de cada um muda a dificuldade do exercício. Para Renata, que pensa falan
 
 O manual serve também para quem ajuda você a produzir. Otávio, com a agência suspensa desde o capítulo 4, releu a ficha dele e entendeu o que tinha faltado aos quinze posts por mês: uma folha que dissesse a quem escreve no nome dele como ele escreve. Sem ela, qualquer agência volta ao "Você sabia?", que é o vocabulário de ninguém.
 
-Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte. Apagou a vistoria técnica criteriosa e escreveu o que diria ao casal do Botafogo: "Teve uma obra em que a parede mais bonita do apartamento era a que mais mentia. Tinta nova por cima de infiltração velha. Antes de comprar, abra os armários." Três pessoas comentaram contando a própria parede mentirosa. Uma delas, que Caio não conhecia, contou que tinha ido abrir os armários do apartamento que estava para comprar.
+Seis semanas depois, sobre a foto de outra obra, antiga e já liberada, Caio escreveu uma legenda nova. Apagou a vistoria técnica criteriosa e escreveu o que diria ao casal do Botafogo: "Teve uma obra em que a parede mais bonita do apartamento era a que mais mentia. Tinta nova por cima de infiltração velha. Antes de comprar, abra os armários." Três pessoas comentaram contando a própria parede mentirosa. Uma delas, que Caio não conhecia, contou que tinha ido abrir os armários do apartamento que estava para comprar.
 
 Caio guardou a ficha de léxico na mesma pasta dos projetos em andamento, junto com as plantas, e passou a relê-la antes de escrever qualquer legenda. Leva menos de um minuto. Na maior parte das vezes, encontra uma "solução" para apagar, e no lugar dela escreve o que diria ao cliente, de pé, diante da parede.
 
