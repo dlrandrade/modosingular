@@ -1,0 +1,81 @@
+capitulo: 15
+iteracao: 2
+notas: {metodo: 8.9, voz: 9.1, originalidade: 9.0, clareza: 8.7, ritmo: 9.0, concretude: 9.3,
+        coerencia: 8.5, aplicabilidade: 8.8, impresso: 8.7, honestidade: 8.9}
+bloqueadores: []
+pontos_fortes:
+  - 'Os dois bloqueadores da r1 foram resolvidos. O critério já não aponta para a véspera ("nos dois ou três dias anteriores", e a peça termina "na pergunta sobre o fim de semana anterior"). O caso-modelo mostra a espera: "Achou-o na margem de uma ficha de avaliação de mais de um ano antes", "O caso tinha mais de um ano, e a peça não diz quando aconteceu" e "Se o caso fosse das últimas semanas, Renata teria anotado a data na ficha e esperado". A oficina ganhou o campo 07 em grade, e o checklist remete a ele.'
+  - 'O tempo 3 agora é detalhe de ofício exato e visual: "o rodo de cabo comprido no lugar do pano de joelhos, o banheiro num sábado e o quintal no outro, e uma pausa a cada hora". Com "de joelhos e curvada, lavando o banheiro e o quintal", é o melhor caso comum que o livro tem até aqui.'
+  - 'A seção dos quatro tempos deixou de ser legenda estendida. O parágrafo "se a história começasse pelo sábado, a lição pareceria óbvia" ensina a ordem pelo caso, e "a dor com dia marcado, que nem a paciente, nem o colchão, nem a cadeira tinham explicado" é uma boa frase de virada.'
+  - 'A oficina leva a nutricionista até o fim (detalhe, decisão, critério), e o esqueleto virou "passe a limpo" de 2 linhas por parte. A ponte com o cap. 14 é orgânica: "“Por que a minha dor piora na segunda?” é uma pergunta; a paciente do sábado é a resposta contada como história."'
+problemas:
+  - criterio: clareza
+    trecho: "se a sua dor chega dias depois do esforço, procure o que você fez nos dois ou três dias anteriores"
+    por_que: 'Para fugir da véspera, a correção deixou o critério central circular. Para saber que "a dor chega dias depois do esforço", a pessoa já tem de ter ligado a dor ao esforço, e é justamente essa ligação que a paciente não fazia (ela trocou colchão e cadeira). O sinal que ela tinha à mão era o ritmo: "pior na segunda e na terça e quase sumia na sexta". A mesma circularidade está na p. 13 ("se a dor chega dias depois do esforço, sem aparecer durante ele, vale procurar o que aconteceu nos dois ou três dias anteriores"). O capítulo diz que este tempo "é o único que precisa sobreviver fora da história", e a frase que sobrevive não funciona para quem lê.'
+    correcao: 'Partir do que a pessoa observa. P. 16: "se a sua dor piora sem motivo aparente, e sempre nos mesmos dias, procure o que você fez dois ou três dias antes, mesmo que na hora não tenha doído nada." P. 13: "se a dor aparece dias depois, e não durante o esforço, a causa costuma estar dois ou três dias para trás, e não na véspera." Conferir que a peça da Renata ("terminou na pergunta sobre o fim de semana anterior") continua coerente.'
+  - criterio: coerencia
+    trecho: "Sem os adjetivos, o caso do senhor da cadeira de rodas desce para o canto de baixo, à esquerda"
+    por_que: 'A legenda (aplicada da r1) põe o caso do senhor em "Vaidade", e a prosa confirma: "percebeu que o caso do senhor ficava sem assunto". O fecho, porém, reserva esse mesmo caso para depois: "com a autorização dele e um público que já acompanha o raciocínio dela, ele vai ter lugar", e a seção 2 diz que "os casos extraordinários" têm lugar "depois que o especialista é conhecido". Pela figura, quem tem lugar depois é o quadrante "Impressiona e não aproxima" (raro com critério). Um caso de vaidade não vira publicável com o tempo. O leitor fica sem saber se o caso do senhor tem ou não um critério.'
+    correcao: 'Escolher uma leitura e sustentá-la nos três lugares. A melhor: o caso do senhor tem um critério, só que ele serve a poucos. Legenda: "Esquema ilustrativo. Sem os adjetivos, o caso do senhor da cadeira de rodas mostra um critério que serve a poucos: fica no alto, à esquerda. O da paciente das segundas mora no alto, à direita." P. 17: "Renata cortou os três adjetivos do primeiro áudio e, ao cortar, viu o que sobrava do caso do senhor: um critério que servia a ele e a quase mais ninguém." O fecho fica como está.'
+  - criterio: aplicabilidade
+    trecho: "Chegou até mim, há algum tempo, alguém com {o problema, como qualquer um o leria}."
+    por_que: 'O roteiro de fala abre com o profissional ("até mim"), contrariando a regra 1 da mesma página ("Comece pela situação, nunca por você.") e o exemplo que ela dá ("“Ela chegou achando que era X” põe o problema"). É a fórmula que o leitor vai repetir em voz alta, e ela ensina o oposto da regra.'
+    correcao: '"Há algum tempo, uma pessoa chegou achando que era {o diagnóstico óbvio, como qualquer um o leria}. Já tinha tentado {o que a pessoa já tinha feito}."'
+  - criterio: aplicabilidade
+    trecho: '{rotulo: "Conferi o sigilo", ajuda: "As três linhas do campo 07 estão marcadas.", pontos: 2}'
+    por_que: 'O sigilo vale 2 dos 10 pontos, e a condição é "Com 7 pontos ou mais, siga para o capítulo 16". Quem não fez a checagem soma 8 e segue com uma peça sobre paciente ou cliente que a rede manda publicar ("Publique o caso da oficina"). Na fonte o sigilo pesa 3. Aqui é o único item que é condição ética, e não de qualidade.'
+    correcao: 'Tornar o item eliminatório. Por exemplo, na ajuda: "As três linhas do campo 07 estão marcadas. Sem este item, a peça não sai, qualquer que seja o total." Ou redistribuir para 3/3/1/3, de modo que sem o sigilo o total não chegue a 7 com folga. A mesma frase pode abrir a intro da rede: "Publique o caso da oficina depois da checagem do campo 07."'
+  - criterio: concretude
+    trecho: "O tutor chegou achando que era alergia de pele, o cachorro se coçava o dia inteiro, e já tinha trocado de ração duas vezes. Um detalhe não fechava: ele só coçava as patas, e só depois de passear."
+    por_que: 'Dois deslizes de ofício (lição cap09-r1). O desfecho implícito (grama recém-tratada) é uma dermatite de contato, que também é "alergia de pele": a virada verdadeira é entre alergia alimentar (a troca de ração) e contato. E cachorro com pata irritada lambe e morde a pata, mais do que coça. "Se coçava o dia inteiro" também briga com "só depois de passear", sem marcar que a primeira é a leitura do tutor.'
+    correcao: '"O tutor chegou achando que era alergia à ração: o cachorro se coçava, segundo ele, o dia inteiro, e já tinha trocado de ração duas vezes. Um detalhe não fechava: ele lambia e mordia só as patas, e só depois de passear."'
+  - criterio: honestidade
+    trecho: "Porque o paciente não tinha autorizado a publicação."
+    por_que: 'O distrator (a) da questão 2 é verdade parcial pelo próprio texto: o fecho diz que o caso terá lugar "com a autorização dele", ou seja, a autorização ainda não existe. A lição cap01-r1 exige distratores inequivocamente falsos. Um leitor atento marca (a) e tem razão em protestar contra o gabarito.'
+    correcao: 'Trocar por uma alternativa que o texto desmente: "Porque o caso tinha acontecido havia poucas semanas." ou "Porque o senhor tinha voltado a sentir dor meses depois."'
+  - criterio: coerencia
+    trecho: "Na sexta, uma paciente antiga respondeu ao áudio com uma linha: tinha ido olhar o próprio fim de semana."
+    por_que: 'É a mesma batida do cap. 11, na peça do Caio: "Uma delas, que Caio não conhecia, contou que tinha ido abrir os armários do apartamento que estava para comprar." O leitor que ia verificar a própria vida volta com a mesma forma (lição cap02-r1: nenhuma imagem ou cena se repete entre capítulos). Além disso, a frase não diz onde o áudio saiu nem como a paciente antiga chegou a ele (lição cap03-r3), e "respondeu ao áudio" soa como mensagem privada, não como peça publicada.'
+    correcao: 'Dizer onde saiu e trocar o efeito por outro, mais próprio da Renata. Por exemplo: "Publicou na quarta. Na sexta, no consultório, um paciente de segunda-feira perguntou, antes de deitar na maca, se o futebol de sábado contava." (retoma a lista de "versões diferentes do sábado" e a marca da Renata de perguntar pela rotina). Ou encerrar a cena na gravação, sem efeito nenhum.'
+  - criterio: coerencia
+    trecho: "perceber o que os outros deixaram passar é a parte do trabalho que ninguém copia"
+    por_que: 'No caso da Renata não há outros profissionais: a paciente "Tinha feito alongamento, trocado o colchão, comprado uma cadeira nova", por conta própria, e chegou "sem nada nos exames". A frase, herdada da fonte, fala de um caso que não é este. A questão 3 repete a ideia ("que os outros deixaram passar").'
+    correcao: '"e perceber o que ninguém, nem a própria paciente, tinha levado a sério é a parte do trabalho que ninguém copia." Na questão 3, opção (a): "No detalhe que você notou e que ninguém tinha valorizado."'
+  - criterio: clareza
+    trecho: "Existe ainda a diferença entre contar um caso e afirmar uma coisa."
+    por_que: 'A seção "O argumento e o caso" abre com uma diferença (admiração x reconhecimento: "A do senhor da cadeira de rodas pede admiração. A da paciente das segundas pede que a pessoa olhe para o próprio calendário") que é o assunto da seção seguinte, e só depois, com "Existe ainda", chega à que dá título à seção e ao conceito da fonte. A tese do capítulo entra como apêndice. A primeira frase também tropeça: "fica menos na qualidade do trabalho do que no que cada uma pede a quem ouve".'
+    correcao: 'Inverter: abrir a seção pela afirmação x caso ("Renata poderia escrever “eu investigo a rotina do paciente antes de mudar o tratamento”. É verdade, e é uma afirmação sobre ela.") e levar o par admiração x calendário para a abertura de "O caso certo não é o mais bonito", onde ele prepara o quadrante.'
+  - criterio: clareza
+    trecho: "Pular qualquer um deles transforma a peça em outra coisa: um desabafo, uma anedota, uma propaganda disfarçada."
+    por_que: 'A tríade promete uma correspondência (qual tempo faltando gera qual defeito) que o texto nunca entrega. O leitor apressado não sabe se o desabafo vem de pular a situação ou o critério. Frase de efeito no lugar de régua.'
+    correcao: 'Mapear ou cortar: "Sem o detalhe, a peça vira anedota; sem o porquê, vira propaganda; sem o critério, vira uma história bonita que ninguém consegue usar."'
+  - criterio: voz
+    trecho: "Renata olhou para as duas histórias lado a lado e achou a segunda sem graça."
+    por_que: 'Dois parágrafos antes, ela "foi atrás de um caso que parecesse sem graça"; achar sem graça o que se procurou sem graça não é descoberta, e o parágrafo dá a mesma batida duas vezes. Na mesma linha de narrador que anuncia: "A palavra “prova” tem um sentido preciso aqui." e "Isso não significa que os casos extraordinários devam ficar para sempre na gaveta." (lição cap01-r1).'
+    correcao: '"Renata pôs as duas histórias lado a lado e sentiu a tentação de voltar à primeira." / "O que o caso prova, no sentido mais estrito, é que o critério dela funciona: [...]" / "Os casos extraordinários não ficam para sempre na gaveta."'
+  - criterio: honestidade
+    trecho: "Era a história que ela contava em todo jantar de família e em todo congresso"
+    por_que: 'Num capítulo que termina com sigilo e autorização, a personagem abre contando o caso identificável de um paciente "em todo jantar de família". O congresso é contexto profissional; o jantar, não. Um leitor da saúde nota a contradição com o zelo que o próprio capítulo ensina.'
+    correcao: '"Era a história que ela contava em todo congresso e a toda turma de estagiários".'
+  - criterio: honestidade
+    trecho: "numa ferramenta que qualquer pessoa pode usar amanhã de manhã, com ou sem fisioterapeuta"
+    por_que: '"Com ou sem fisioterapeuta" sugere que o critério dispensa o profissional, justo numa dor lombar, contra a nota do próprio roteiro ("o critério orienta o que observar e o que perguntar, e nunca substitui uma avaliação").'
+    correcao: '"numa ferramenta que qualquer pessoa pode usar amanhã de manhã, e levar pronta para a próxima consulta."'
+  - criterio: originalidade
+    trecho: "Uma nutricionista: “Ela dizia que comia pouco o dia todo, e o cansaço vinha sempre às quatro da tarde.”"
+    por_que: 'A nutricionista é a figurante mais gasta do livro (ESTADO.yaml › figurantes: caps. 1, 7, 9, 17, 23, 30) e volta no cap. 17, a dois capítulos (lição cap02-r2). O veterinário do exemplo não está registrado em figurantes para o cap. 15.'
+    correcao: 'Trocar por uma profissão pouco usada e registrar, por exemplo a advogada de família (só no cap. 1): "Ela dizia que o ex não pagava a pensão, e os atrasos caíam sempre no mês das férias escolares." Ou manter a nutricionista e registrar os dois figurantes em ESTADO.yaml.'
+edicoes_de_linha:
+  - 'Um caso não atravessa um limite: ele não promete resultado. -> Um caso-prova tem um limite: não promete resultado. (a original lê como "um caso qualquer não atravessa limites")'
+  - 'No áudio, Renata contaria a virada na ordem em que ela aconteceu. -> Na versão que gravaria, Renata contou a virada na ordem em que ela aconteceu.'
+  - 'Achou-o na margem de uma ficha de avaliação -> Encontrou na margem de uma ficha de avaliação'
+  - 'Na peça, o protagonista é o problema, e o que o resolveu. -> Na peça, o protagonista é o problema, e o raciocínio que o resolveu. ("o que o resolveu" é ambíguo)'
+  - 'e quem lê chega sozinho à conclusão de que ela investiga a rotina -> e quem lê conclui que ela investiga a rotina ("sozinho/sozinha" ainda aparece 7 vezes na prosa, mais no box e no Para guardar)'
+  - 'que leva o juiz a concluir sozinho que houve boa-fé -> que leva o juiz a concluir que houve boa-fé'
+  - 'esqueleto_rotulo: "Passe a limpo os campos 02 a 05, cortando o que a checagem do sigilo tirou" -> "Passe a limpo os campos 02 a 05, sem o que o campo 07 cortou" (o rótulo quebra em duas linhas com "TIROU" sozinho na p. 22)'
+diagramacao:
+  - 'p. 16: cerca de 30% da página em branco depois de "O teste do coadjuvante", porque o box "Na prática" (veterinário) desceu inteiro para a p. 17. Branco evitável, já apontado na r1. Deixar o box quebrar entre "O comum" e "O singular", ou mover o parágrafo "Os adjetivos denunciam a vaidade..." para antes do box.'
+  - 'p. 21: dois terços da página em branco depois das três regras. Com o esqueleto reduzido a 8 linhas, ele (cerca de metade da p. 22) caberia na p. 21. Aparentemente o bloco esqueleto + Faça/Evite é tratado como indivisível. Separar o Faça/Evite do esqueleto para que o esqueleto suba.'
+  - 'p. 22: o rótulo do esqueleto em versalete quebra em duas linhas e deixa "TIROU" sozinho. Encurtar (ver edições de linha).'
+  - 'p. 14, figura 15.1: os rótulos do eixo vertical são assimétricos ("Mostra o seu critério" na horizontal, acima; "Não mostra critério" girado 90°, embaixo). Pôr os dois na mesma orientação.'
+veredito: "Os bloqueadores da r1 caíram e o caso da faxina está entre os melhores do livro, mas o critério que deveria sobreviver fora da história ficou circular, o destino do caso do senhor contradiz o quadrante, e o roteiro e o checklist ainda contrariam as próprias regras (começar por você; sigilo opcional). Com essas quatro correções, o capítulo chega a 9."

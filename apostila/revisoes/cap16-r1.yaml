@@ -1,0 +1,86 @@
+capitulo: 16
+iteracao: 1
+notas: {metodo: 8.8, voz: 8.6, originalidade: 8.8, clareza: 8.6, ritmo: 8.9, concretude: 9.0,
+        coerencia: 8.2, aplicabilidade: 8.3, impresso: 8.9, honestidade: 8.7}
+bloqueadores:
+  - 'Erro técnico no caso central (lição cap09-r1): "Otávio respondeu que, como prova de vínculo, não valia". O contrato de prestação de serviços nunca foi apresentado como prova de vínculo; a cliente queria que ele provasse o contrário. O que ele não prova é que NÃO havia vínculo. Um advogado trabalhista leria a frase como inversão. Corrigir para "como prova de que não havia vínculo, não valia".'
+  - 'Contradição com o método de sigilo no calendário (lição cap13-r1: "o caso-modelo do livro mostra a espera"). A lista do corte ("O nome da academia, os onze instrutores, Boa Viagem, o mês da saída do instrutor") mostra que o e-mail publicado vem do atendimento da segunda-feira, e o texto sai "Numa quinta-feira", sem marca de tempo. O leitor entende que foi na mesma semana. É preciso mostrar a espera (semanas) e deixar claro de qual e-mail saiu o texto.'
+pontos_fortes:
+  - 'Cena de abertura precisa e de ofício verdadeiro: a pasta azul, a firma reconhecida, as perguntas na ordem ("quem dá a bronca", "se podia mandar outra pessoa no lugar dele"). O leitor vê a explicação madura funcionando antes de ela ganhar nome.'
+  - 'Adaptação do método aos quatro modos sem trair o PWA: Otávio copia o e-mail, Renata grava ou refaz no carro, Lúcia pede à amiga que pergunte, Caio conta ao sócio. A alternativa do "refazê-la em voz alta sozinho" resolve o sigilo com elegância.'
+  - 'A tentação de melhorar vira cena, com Helena sugerindo "citar o artigo da lei" e trocar a frase. É a melhor dramatização do alerta do PWA que o capítulo poderia ter.'
+  - 'Imagens próprias e fecho em ação: "um cozinheiro não pensa em fotografar o arroz"; o caderno preto com a palavra "prontas" no alto.'
+problemas:
+  - criterio: coerencia
+    trecho: "Numa quinta-feira, Otávio publicou o texto no perfil do escritório"
+    por_que: 'O ritmo do Otávio foi fixado no cap. 12 ("Uma por semana, na sexta à tarde; medida pelo janeiro") e o cap. 21 é inteiro sobre "a sexta das cinco e meia". A primeira publicação dele no livro sair numa quinta desmente o ritmo que o próprio leitor viu ser calculado. Soma-se à ausência de espera (bloqueador 2) e à origem ambígua do texto: o método diz "bastava abrir o e-mail mais recente sobre o assunto", mas a cena da academia foi uma conversa oral; o leitor não sabe se Otávio mandou e-mail à cliente depois.'
+    correcao: 'Reescrever o parágrafo: "Três semanas depois, numa sexta à tarde, Otávio publicou o texto no perfil do escritório…". No parágrafo do corte, deixar claro que o e-mail escolhido foi o que ele mandou à dona das academias depois da reunião (ou trocar a lista do corte para detalhes de outro e-mail, de outro cliente).'
+  - criterio: clareza
+    trecho: "Este trata das respostas que você dá sem que ninguém pergunte, porque sabe que vão precisar delas."
+    por_que: 'A fronteira com o cap. 14 é contradita pelo próprio capítulo. Lúcia dá a explicação dela "quase sempre respondendo a uma pergunta"; a frase de abertura do Otávio nasceu quando um cliente "perguntou se então o contrato não valia nada"; e as doze explicações que ele encontra estão na "pasta de e-mails enviados", ou seja, são as respostas às perguntas que ele inventariou no cap. 14 a partir do campo de assunto. Um leitor apressado não consegue explicar a diferença entre pergunta recorrente e explicação madura. Além disso, "O capítulo 14 tratou… Este trata…" é voz de curso.'
+    correcao: 'Trocar o critério da distinção. A diferença está no grau de acabamento, não em haver ou não pergunta: "A pergunta recorrente diz o assunto; a explicação madura é a resposta que já passou por centenas de ouvintes e chegou à forma final. Toda explicação madura responde a alguma pergunta, feita ou não; nem toda pergunta recorrente já tem uma resposta madura." Tirar a moldura "O capítulo 14 tratou… Este trata…".'
+  - criterio: aplicabilidade
+    trecho: "A explicação, exatamente como saiu (…) linhas: 9"
+    por_que: 'A explicação do Otávio tem cerca de 190 palavras por escrito e leva "quatro minutos" falada, o que dá de 500 a 600 palavras transcritas. Nove linhas manuscritas comportam umas 100 palavras (p. 20). Transcrever à mão um áudio de quatro minutos também não cabe em 25 minutos junto com os outros quatro campos. E, para quem pensa falando, o registro "da próxima vez que ela acontecer de verdade" pode não acontecer na sessão da oficina. Falta tempo_nota (lição cap08-r1) e o espaço não cabe o que se pede (lição cap04-r1).'
+    correcao: 'Campo 03 com página inteira (18 a 20 linhas) ou instrução realista: "Transcreva o miolo, da frase de abertura até a comparação; o resto pode ficar no áudio ou no e-mail impresso, grampeado aqui". Acrescentar tempo_nota: "25 minutos se você registrar refazendo a explicação em voz alta agora; se preferir gravar um atendimento real, a oficina fecha depois dele".'
+  - criterio: aplicabilidade
+    trecho: "“Vou explicar isso do mesmo jeito que explico no escritório.”"
+    por_que: 'O primeiro item do Faça contradiz o terceiro ("Abrir pela frase ou pela pergunta com que você abre na vida real") e o esqueleto ("Exatamente como você abre no atendimento"). O roteiro repete o erro ao abrir com "Vou explicar isso do mesmo jeito que eu explico para {quem você atende}", um anúncio que ninguém faz no atendimento. E "no escritório" não serve para a psicóloga nem para a fisioterapeuta. O próprio Otávio, no texto que publica, abre pela frase, e não pelo anúncio.'
+    correcao: 'Trocar o item do Faça por: "Começar pela frase de sempre, mesmo que fora da conversa ela pareça brusca." No roteiro, cortar a primeira linha e abrir direto em "{a frase ou a pergunta com que você sempre abre}". Se quiser manter o sinal de informalidade, pôr no fecho: "{o fecho curto}. É assim que eu explico para quem está na minha frente."'
+  - criterio: metodo
+    trecho: "A comparação ou a pergunta fixa ficou exatamente como saiu."
+    por_que: 'O PWA tem campo e critério próprios para a analogia fixa ("Identifiquei a analogia fixa que uso"). A oficina deixou de ter onde a pessoa identifica a comparação ou a pergunta, mas continua cobrando isso no "Confira antes de seguir" e no esqueleto. O critério não é verificável no papel (lição cap03-r3), e a peça central do conceito ("qual comparação funciona") fica sem exercício.'
+    correcao: 'Acrescentar campo de 2 linhas entre 03 e 04: "A comparação ou a pergunta fixa que apareceu, e de onde ela vem", com exemplo de outra profissão (ex.: um engenheiro estrutural: "a viga é uma régua apoiada em dois livros; tire um livro e veja"). Pode ocupar as linhas economizadas no campo 05.'
+  - criterio: concretude
+    trecho: "Tinha quatro parágrafos, a frase de abertura, as perguntas sobre horário, bronca e camiseta, e um fecho de uma linha."
+    por_que: 'Num capítulo cuja tese é "a versão que parece mal escrita funciona melhor", o leitor nunca vê uma linha dessa versão, nem a versão "profissionalizada" que a estragaria. O capítulo descreve o texto do Otávio sem mostrá-lo e não usa o bloco exemplo comum-vs-singular que a estrutura permite. A diferença entre a transcrição e a reescrita fica abstrata justamente onde precisava ser vista.'
+    correcao: 'Incluir um bloco exemplo com o primeiro parágrafo do e-mail do Otávio contra a versão que Helena propôs (artigo 3º citado, "é fundamental que o empregador…"). Ou, para variar a profissão, usar um figurante fora dos capítulos vizinhos (oftalmologista, cardiologista). O porque deve apontar a pergunta que virou afirmação.'
+  - criterio: coerencia
+    trecho: "No dia seguinte, um contador que atende pequenas empresas em Olinda mandou mensagem pedindo licença para encaminhar o texto a todos os clientes dele."
+    por_que: 'Repete a batida do fecho do cap. 10: o contador, com clientes em Olinda, que espalha a palavra do Otávio de boca em boca. A mesma imagem-chave não se repete entre capítulos (lição cap02-r1). A recompensa imediata no dia seguinte à primeira publicação também empurra o capítulo para o terreno do resultado prometido.'
+    correcao: 'Trocar por um ganho que venha do método, sem plateia: por exemplo, a cliente das academias, semanas depois, encaminha o texto ao outro sócio dela com a frase "é isso que ele me explicou". Ou simplesmente cortar o retorno e fechar direto na busca pelas doze explicações, que já é um ganho novo.'
+  - criterio: voz
+    trecho: "A segunda é a suposição de que todo colega explica do mesmo jeito. Não explica: a versão do Otávio é dele"
+    por_que: 'A seção "Por que ela nunca foi publicada" acumula três antíteses explícitas: "Não explica: a versão do Otávio é dele", "tratar a precisão como parte da explicação, e não como enfeite" e "Não é uma ressalva de rodapé. Faz parte do que ele diz". A lição cap01-r1 limita a uma por seção. Na mesma seção, "explicar é o trabalho dele, e o trabalho não parece assunto" repete quase literalmente o cap. 6 ("tudo isso é parte do trabalho, e o trabalho não parece assunto").'
+    correcao: 'Manter uma só. Ex.: "A segunda é supor que todo colega explica do mesmo jeito. A versão do Otávio tem as perguntas dele, na ordem dele." / "…é tratar a precisão como parte da explicação." / "A versão do Otávio diz, no último parágrafo, que cada caso depende dos fatos, porque é verdade e porque…". Reformular a quarta razão para não ecoar o cap. 6: "explicar é o que ele faz o dia inteiro, e ninguém publica o próprio expediente."'
+  - criterio: honestidade
+    trecho: "e ela é melhor do que muitas outras justamente porque foi testada mais vezes"
+    por_que: 'É uma comparação sem base (o narrador não sabe quantas vezes os colegas testaram as suas) e soa como elogio ao personagem à custa da classe. No mesmo capítulo: "As razões são as mesmas para quase todo mundo", "quase todos corretos e quase todos incompreensíveis", "o que quase ninguém consegue" e, na legenda da fig. 16.2, "Mas o sentido costuma ser esse". São cinco generalizações sobre terceiros, e o limite é 2 (lição cap01-r4/cap02-r2).'
+    correcao: 'Cortar a comparação: "…a versão do Otávio tem as perguntas dele, na ordem dele, ajustadas por clientes que só ele atendeu." Transformar a da internet em observação do personagem: "Otávio leu alguns: estavam corretos e escritos para advogados." Cortar "Mas o sentido costuma ser esse…" da legenda e "para quase todo mundo" da abertura da seção.'
+  - criterio: coerencia
+    trecho: 'Cada pergunta é um dos traços que, somados, fazem de alguém um empregado'
+    por_que: 'Tecnicamente frouxo para leitor advogado. Horário e bronca apontam para a mesma coisa (subordinação); a camiseta é indício, não traço; "atendia só os alunos que a academia mandava" sugere exclusividade, que desde 2017 (art. 442-B da CLT) não caracteriza vínculo por si só. Há ainda um descompasso de linha do tempo: o texto diz que a frase de abertura surgiu "uns cinco anos depois da primeira reunião" (c. 2007), mas a fig. 16.2 só a menciona em "Hoje", e a nota de 2012 não a cita.'
+    correcao: '"Cada pergunta procura um sinal de subordinação ou de pessoalidade, os traços que, somados, fazem de alguém um empregado." Trocar "se atendia só os alunos que a academia mandava" por "se era a academia que distribuía os alunos e cobrava deles". Na fig. 16.2, nota de 2012: "Os artigos de lei saíram; entraram a frase de abertura e as perguntas sobre horário e uniforme."'
+  - criterio: ritmo
+    trecho: "Otávio lembrava da primeira vez que tinha dado a explicação do contrato, no segundo ano de escritório."
+    por_que: 'O parágrafo tem 7 frases, e o limite é 6 (lição cap01-r2). Fecha numa sequência de verbos em fila ("Percebeu… Descobriu… Encontrou…") que soa como resumo. "que choca e prende" é fórmula de marketing.'
+    correcao: 'Cortar "Encontrou a frase de abertura, que choca e prende." (o parágrafo seguinte já conta como ela apareceu) e fundir "Com o tempo, foi cortando." com a frase seguinte: "Com o tempo, foi cortando: percebeu que citar a lei não ajudava ninguém e que o esquema atrapalhava."'
+  - criterio: clareza
+    trecho: "Uma explicação está madura quando você a dá sem pensar na ordem; quando ela tem uma comparação ou uma pergunta fixa, que você usa sempre; quando você sabe, antes de começar, em que ponto a pessoa vai interromper; e quando você já cortou coisas que antes dizia e que não faziam falta."
+    por_que: 'É uma lista de consulta (cai na questão 3 da verificação e serve para escolher o item do campo 01) disfarçada de período com quatro "quando". A lição cap09-r1 pede que listas que o leitor vai consultar saiam numeradas, para a oficina remeter a elas.'
+    correcao: 'Transformar em bloco nota com os cinco sinais numerados e fazer o exemplo do campo 01 remeter a ele: "Marque ao lado de cada uma quantos dos cinco sinais ela tem."'
+  - criterio: voz
+    trecho: "Os outros personagens têm as suas."
+    por_que: 'Chamada do elenco em fila, uma frase por personagem, duas vezes no capítulo (aqui e no parágrafo do registro: "Lúcia pede à amiga… Caio conta a obra para o sócio e grava."). O cap. 15 usa o mesmo recurso ("Caio faz o mesmo… Lúcia faz com…"), e o tique fica visível na leitura seguida. A palavra "quase" aparece nove vezes na prosa ("quase pronta", "quase todo mundo", "quase todos" duas vezes, "quase sempre" duas vezes, "quase todo paciente", "quase ninguém", "quase sempre significa").'
+    correcao: 'Manter a chamada só no parágrafo do registro, onde ela ensina algo (o modo muda o registro), e dar ao parágrafo das explicações dos outros uma única imagem mais longa, de um só personagem, por exemplo Caio contando a do orçamento que dobra. Cortar ao menos metade dos "quase".'
+  - criterio: aplicabilidade
+    trecho: "Porque costuma ser curta e se grava em poucos minutos, sem preparo."
+    por_que: 'O distrator da questão 1 é meio verdadeiro segundo o próprio capítulo, que diz "Maturidade produz encurtamento", "a explicação inteira leva quatro minutos" e manda registrar sem ensaiar. A lição cap01-r1 pede distratores inequivocamente falsos.'
+    correcao: '"Porque pode ser publicada sem cortar nada da conversa original." (falso pelo passo do corte).'
+edicoes_de_linha:
+  - '"Otávio lembrava da primeira vez" -> "Otávio se lembrava da primeira vez"'
+  - '"esperou ela descer o elevador" -> "esperou o elevador fechar"'
+  - '"Encontrou a frase de abertura, que choca e prende." -> (cortar; ver problema de ritmo)'
+  - '"O método para publicar uma explicação madura é o mais simples do livro, e o mais difícil de seguir." -> "O método para publicar uma explicação madura cabe em três passos, e o último é o que custa."'
+  - '"As razões são as mesmas para quase todo mundo, e nenhuma é falta de vontade." -> "São quatro razões, e nenhuma é falta de vontade."'
+  - '"O terceiro passo é o que quase ninguém consegue: não melhorar." -> "O terceiro passo é o mais difícil: não melhorar."'
+  - '"A lei saiu. Entraram as perguntas sobre horário e uniforme." (fig. 16.2) -> "Os artigos de lei saíram. Entraram as perguntas sobre horário e uniforme." ("a lei saiu" lê-se como "a lei foi publicada")'
+  - '"titulo: A mesma explicação, ao longo dos anos" -> "titulo: Em vinte anos, a explicação ficou seis vezes menor" (título que afirma, princípio de figuras)'
+  - '"Deixar mais profissional quase sempre significa" -> "Deixar mais profissional costuma significar" ou "Deixar mais profissional significa, na prática,"'
+  - '"um trabalho de desenho feito com gente de verdade" -> "um trabalho de projeto feito com gente de verdade" ("desenho" soa como tradução de "design")'
+diagramacao:
+  - 'p. 21: a seção de rede abre com as três regras e deixa cerca de 55% da página em branco, porque o esqueleto (indivisível) vai para a p. 22. Somado aos ~20% livres no pé da p. 20, são duas páginas seguidas com branco grande. É aceito pelo projeto (esqueleto indivisível), mas, se a regra de quebra permitir, a intro e as regras da rede podem começar no pé da p. 20.'
+  - 'p. 16: o título da fig. 16.2, "A mesma explicação, ao longo dos anos", é rótulo, não afirmação, e a nota "A lei saiu" é ambígua no papel (ver edições de linha).'
+  - 'p. 15: os sinais de maturidade estão em prosa corrida, com quatro "quando" em sequência. No papel, uma lista numerada seria encontrada de relance ao voltar do campo 01 da oficina.'
+  - 'p. 18: cerca de 65% em branco depois do Para guardar, antes da oficina. Aceito pelo projeto, sem ação.'
+veredito: "Capítulo com a melhor cena de abertura da Fase III e boa adaptação do método aos modos, reprovado por um erro técnico no caso central e pela publicação sem espera do sigilo; corrigidos esses pontos, o calendário da sexta, a fronteira com o cap. 14 e o espaço do campo 03, fica perto de 9."
