@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 07:02
+# atualizado: 2026-09-28 12:20
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -464,7 +464,7 @@ capitulos:
     status: rascunho
     iteracoes: []
   28:
-    status: planejado
+    status: rascunho
     iteracoes: []
   29:
     status: planejado
@@ -565,6 +565,7 @@ figurantes:
   - 21
   técnico de ar-condicionado:
   - 9
+  - 28
   enfermeira obstetra:
   - 9
   otorrinolaringologista:
