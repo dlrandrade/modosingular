@@ -8,34 +8,34 @@ ilustracao: engrenagem
 legenda_ilustracao: Uma peça padrão, repetida, move o resto do sistema.
 ---
 
-Às sete e quarenta da segunda quinta-feira de outubro, Caio sentou no degrau da escada de um prédio de 1964 no Botafogo, com o capacete no colo, e abriu no celular a foto que tinha escolhido na seleção da véspera. Era de junho, de uma obra entregue em agosto: uma bandeira de vidro canelado em cima da porta de uma cozinha, com o caixilho descascado. Escreveu cinco linhas, publicou às sete e cinquenta e dois e subiu para a obra do dia, que não tinha nada a ver com a peça. O dono daquela cozinha tinha assinado, na entrega, a autorização para a foto e para contar a história sem o endereço.
+Às sete e quarenta da segunda quinta-feira de outubro, Caio sentou no degrau da escada de um prédio de 1968 na Vila Industrial, com o capacete no colo, e abriu no celular a foto que tinha escolhido na seleção da véspera. Era de junho, de uma obra entregue em agosto: uma bandeira de vidro canelado em cima da porta de uma cozinha, com o caixilho descascado. Escreveu cinco linhas, publicou às sete e cinquenta e dois e subiu para a obra do dia, que não tinha nada a ver com a peça.
 
-As cinco linhas diziam o que ele tinha dito ao dono daquela cozinha, meses antes. Não havia nelas nada que o dono não tivesse ouvido na obra, e nada que o identificasse: nem a rua, nem o andar, nem o rosto de ninguém na foto.
+As cinco linhas diziam o que ele tinha dito ao dono daquela cozinha, meses antes. Não havia nelas nada que o dono não tivesse ouvido na obra, e nada que o identificasse: nem a rua, nem o andar, nem o rosto de ninguém na foto. E o dono tinha assinado, na entrega, a autorização para a foto e para contar a história sem o endereço.
 
 ```nota
 tipo: pratica
 titulo: As cinco linhas daquela quinta
 itens:
-  - Teve uma obra em que a bandeira de vidro em cima da porta da cozinha ia para o lixo, porque o projeto antigo previa a porta até o teto.
+  - Teve uma obra em que a bandeira de vidro em cima da porta da cozinha ia para o lixo, porque a primeira versão do projeto previa a porta até o teto.
   - O caixilho era de ferro, inteiro, e só pedia lixa e fundo anticorrosivo.
   - Deixamos a bandeira e trocamos só a porta.
   - A porta até o teto teria custado a luz do corredor, que entrava por ali havia cinquenta anos.
   - Antes de tirar uma peça velha, pergunte o que ela deixa passar.
 ```
 
-Era a décima sétima semana seguida com uma foto; as cinco linhas tinham vindo na terceira. Havia quatro meses que Caio publicava do mesmo jeito: uma foto de obra, tirada no dia da captura e publicada depois da seleção, e cinco linhas escritas no degrau, no carro ou na fila da madeireira, desde a terceira sempre começando por "teve uma obra". Nenhuma das dezessete tinha levado mais de quinze minutos, contando a foto. Nenhuma tinha exigido que ele decidisse, na véspera, o que ia fazer.
+Era a décima sétima semana seguida com uma foto; as cinco linhas tinham vindo na terceira. Havia quatro meses que Caio publicava do mesmo jeito: uma foto de obra, tirada no dia da captura e publicada depois da seleção, e cinco linhas escritas no degrau, no carro ou na fila da madeireira, desde a terceira sempre começando por "teve uma obra". Nenhuma das dezessete tinha levado mais de quinze minutos, contando a foto. Nenhuma tinha exigido que ele decidisse, na véspera, em que formato ia sair.
 
-As cinco linhas tinham uma ordem, e a ordem era a de uma história de obra. A primeira dizia onde ele estava e o que ia acontecer com a peça da foto. A segunda, o que ele tinha encontrado. A terceira, o que decidiu. A quarta, o que custaria o outro caminho. A quinta era a frase que a pessoa levaria, e quase sempre era a mesma que ele dizia ao cliente na obra, com as mesmas palavras. Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa.
+As cinco linhas tinham a ordem de uma história de obra. A primeira dizia qual obra e o que ia acontecer com a peça da foto; a segunda, o que ele tinha encontrado; a terceira, o que decidiu; a quarta, o que custaria o outro caminho. A quinta era a frase que a pessoa levaria, e quase sempre era a mesma que ele dizia ao cliente na obra, com as mesmas palavras. Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa.
 
-Antes disso, a decisão era o que mais custava. Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: vídeos com o celular num cavalete, regravados até sair certo; a legenda longa de uma foto, depois da ficha de léxico; um texto de três parágrafos sobre janelas de ferro. Cada formato tinha funcionado uma vez. O problema aparecia na quarta-feira à noite, quando ele se sentava para decidir qual seria o da semana, e a decisão levava mais tempo do que a peça.
+Antes disso, a decisão era o que mais custava. Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: vídeos com o celular num cavalete, regravados até sair certo; a legenda de três frases da parede que mentia; um texto de três parágrafos sobre janelas de ferro. Cada formato tinha funcionado uma vez. O problema aparecia na quarta-feira à noite, quando ele se sentava para decidir qual seria o da semana, e a decisão levava tanto tempo quanto a peça, e vinha primeiro, quando a cabeça já estava gasta.
 
 ## Decidir cansa mais do que fazer
 
 Quem publica sem um formato fixo toma duas decisões por peça. A primeira é o assunto, que o caderno de campo e a seleção do capítulo 19 já resolvem. A segunda é o formato, e essa volta todas as semanas, inteira, como se fosse a primeira vez. Vídeo ou texto, curto ou longo, com foto ou sem. Cada opção tem argumentos, e é justamente isso que torna a escolha cansativa: nenhuma está errada, e todas pedem que você imagine a peça pronta antes de começar.
 
-Caio mediu isso sem querer. Numa quarta de junho, anotou no caderno o tempo que tinha passado decidindo o formato da semana: quarenta minutos, entre abrir o computador, rever os vídeos antigos, começar um texto, desistir e voltar para o vídeo. A peça em si, um vídeo regravado três vezes, levou outros quarenta. A decisão pesava tanto quanto a peça, e vinha no fim do dia, com a cabeça gasta pela obra.
+Caio mediu isso uma vez. Numa quarta de junho, anotou no caderno o tempo que tinha passado decidindo o formato da semana: quarenta minutos, entre abrir o computador, rever os vídeos antigos, começar um texto, desistir e voltar para o vídeo. A peça em si, um vídeo regravado três vezes, levou outros quarenta. A decisão pesava tanto quanto a peça, e vinha no fim do dia, com a cabeça gasta pela obra.
 
-Fixar o formato não deixa as peças iguais. O que muda de uma quinta para a outra é o assunto: um batente, uma parede que mente, um piso de taco que ninguém queria, um síndico que precisava ser avisado. Quem lê sente a variedade no que ele conta, e a moldura igual ajuda a encontrar o que é novo. Uma coluna de jornal funciona assim há mais de um século: o mesmo lugar, o mesmo tamanho, o mesmo dia, e um assunto diferente a cada vez.
+Fixar o formato não deixa as peças iguais. O que muda de uma quinta para a outra é o assunto: um batente, uma parede que mente, um piso de taco que ninguém queria, um síndico que precisava ser avisado. Quem lê sente a variedade no que ele conta, e a moldura igual ajuda a encontrar o que é novo.
 
 ```conceito
 termo: Formato mínimo viável
@@ -51,9 +51,9 @@ Um formato só serve de base se passar em quatro testes ao mesmo tempo. O primei
 
 Caio aplicou os quatro aos formatos que tinha tentado. O vídeo do granilite tinha custado quatro minutos, numa tomada só; os seguintes ele passou a regravar até sair certo, e o custo subiu para quarenta. Passava no modo, porque ele conta bem em voz alta, mas no mês de entrega de obra sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia quarenta. O texto de três parágrafos passava no repertório e não passava no modo: escrever sem uma obra na frente o fazia rodear o assunto. A foto com cinco linhas passou nos quatro, e passou pelo motivo que ele menos esperava. A foto era a obra na frente dele, e as cinco linhas eram o começo de uma história que ele sabia contar.
 
-O teste que reprovou primeiro, no caso do Caio, foi o terceiro, e ele o viu reprovar a primeira versão da foto. Nas duas primeiras semanas, ele escreveu legendas de uma linha: "mais uma cozinha entregando", "o antes e o depois do Taquaral". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram na terceira, quando ele percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
+O teste que reprovou primeiro, no caso do Caio, foi o terceiro, e ele o viu reprovar a primeira versão da foto. Nas duas primeiras semanas, com a obra do Taquaral em entrega, ele voltou às legendas de uma linha que escrevia antes da ficha de léxico: "mais uma cozinha entregando", "o antes e o depois do Taquaral". Custavam dois minutos e não diziam nada que outro arquiteto não pudesse dizer. As cinco linhas vieram na terceira, quando ele se lembrou da legenda da parede que mentia e percebeu que a foto sozinha mostrava a obra, e quem mostrava o arquiteto eram as frases.
 
-O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas com as cinco linhas, sem julgar, e só então a pergunta. Na sexta semana, relendo as quatro em sequência, não sentiu vontade de mudar nenhuma delas, e encontrou quatro vezes a mesma frase de abertura, que ele não tinha planejado repetir.
+O quarto teste só se responde fazendo. Ninguém sabe, antes da décima peça, se vai aguentar a centésima. Caio resolveu isso com um prazo: quatro quintas-feiras seguidas com as cinco linhas, sem julgar, e só então a pergunta. Na sexta semana, relendo as quatro em sequência, não sentiu vontade de mudar nenhuma delas, e encontrou quatro vezes a mesma frase de abertura, “teve uma obra”, a primeira regra da ficha, que ele nunca tinha repetido de propósito.
 
 ```figura
 tipo: barras
@@ -101,9 +101,9 @@ porque: O segundo formato não é mais bonito. Ele nasce no modo dela, cabe no p
 
 ## A variação vem depois
 
-Por volta da décima semana, Caio ficou com vontade de mudar. As cinco linhas pareciam repetitivas, sempre "teve uma obra", sempre uma foto meio torta tirada com o capacete no braço. O sócio sugeriu que ele experimentasse um vídeo com antes e depois, com música, "que está funcionando para todo mundo". Caio chegou a abrir a câmera, que continuava no armário do escritório.
+Por volta da décima semana, Caio ficou com vontade de mudar. As cinco linhas pareciam repetitivas, sempre "teve uma obra", sempre uma foto meio torta tirada com o capacete no braço. O sócio sugeriu que ele experimentasse um vídeo com antes e depois, com música, "que está funcionando para todo mundo". Caio chegou a tirar do armário do escritório a câmera, que continuava lá.
 
-Antes de ligar, fez uma conta simples. A leitora que mais comentava tinha deixado comentário em seis das dez quintas; nas outras quatro, nada. Para essa pessoa, a série estava começando. A repetição que cansava o Caio ainda era novidade para quem lia, e o que ele sentia como monotonia era, do outro lado, o começo do reconhecimento: a foto torta e o "teve uma obra" já anunciavam quem estava falando antes da segunda linha. Fechou a câmera sem ligar.
+Antes de ligar, fez uma conta simples. A leitora que mais comentava tinha deixado comentário em seis das dez quintas. Se a mais fiel tinha passado por seis, quem aparecia de vez em quando tinha visto duas ou três: para essa gente, a série mal tinha começado. A repetição que cansava o Caio ainda era novidade para quem lia, e o que ele sentia como monotonia era, do outro lado, o começo do reconhecimento: a foto torta e o "teve uma obra" já anunciavam quem estava falando antes da segunda linha. Guardou-a sem ligar.
 
 Há dois motivos legítimos para mudar um formato-base. Se o pior mês mudou, porque a agenda dobrou ou uma obra grande ocupou o ano, o formato pode deixar de caber e precisa ser refeito. Se um teste que parecia aprovado falha na prática, porque o formato não comporta o repertório que você quer mostrar, ele também precisa mudar. A diferença está na causa: um teste que falhou é informação.
 
@@ -126,14 +126,14 @@ camadas:
 legenda: O sistema cresce de baixo para cima. Uma camada nova só entra quando a de baixo se sustenta sozinha.
 ```
 
-Na obra do Botafogo, naquela manhã, Caio encontrou atrás da porta da área de serviço um quadro de luz de 1968, ainda com fusíveis de rosca. Mostrou ao dono, explicou por que o quadro precisava sair e tirou uma foto. No caderno, ao lado da anotação, escreveu: quadro de 1968, liberar em dezembro. Era matéria-prima de uma quinta que ainda não tinha data.
+Na obra da Vila Industrial, naquela manhã, Caio encontrou atrás da porta da área de serviço um quadro de luz de 1968, ainda com fusíveis de rosca. Mostrou ao dono, explicou por que o quadro precisava sair e tirou uma foto. No caderno, ao lado da anotação, escreveu: quadro de 1968, liberar em dezembro. Era matéria-prima de uma quinta que ainda não tinha data.
 
-Naquela noite, Caio fez uma conta que vinha adiando. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada muda. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu.
+Naquela noite, Caio fez uma conta que vinha adiando. Anotou no caderno a data da primeira quinta-feira, em junho, e contou as semanas até a trigésima. Deu a segunda semana de janeiro. Até lá, nada mudaria. Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos, pelo preço que conseguiu.
 
 As quartas-feiras à noite ficaram livres. Caio passou a usar dez minutos delas para a seleção do caderno de campo, relendo as anotações da semana e escolhendo a obra da quinta. O resto da noite voltou a ser dele.
 
 ```guardar
-- O formato-base elimina a decisão que mais se repete. Sem ela, o esforço da semana vai para o assunto.
+- "O formato-base elimina a decisão que mais se repete. Sem ela, o esforço da semana vai para o assunto."
 - "Um formato-base passa em quatro testes ao mesmo tempo: modo, pior mês, repertório e repetição. O do repertório é o que o formato rápido demais não passa."
 - "Não troque de formato antes de trinta repetições. Se a vontade de mudar aparecer perto da décima, desconfie: é cansaço de quem faz."
 ```
@@ -156,8 +156,8 @@ campos:
     linhas: 1
   - rotulo: "Os quatro testes"
     grade:
-      colunas: ["Passa", "Não passa", "Só a repetição: conferir na 4ª peça"]
-      linhas: ["Modo: nasce do jeito como eu penso (cap. 7)", "Pior mês: cabe no meu número (cap. 8)", "Repertório: comporta detalhe, exceção ou critério", "Repetição: aguento fazer cem vezes"]
+      colunas: ["Passa", "Não passa"]
+      linhas: ["Modo: nasce do jeito como eu penso (cap. 7)", "Pior mês: cabe no meu número (cap. 8)", "Repertório: comporta detalhe, exceção ou critério", "Repetição: aguento fazer cem vezes (conferir na 4ª peça, em ___/___)"]
   - rotulo: "A data da primeira peça, da quarta e da trigésima"
     exemplo: "Uma massoterapeuta: “Primeira, terça, 14 de outubro; a quarta, sexta, 24 de outubro. Com duas por semana, a trigésima cai no fim de janeiro.”"
     linhas: 3
@@ -175,7 +175,7 @@ regras:
   - {regra: "Uma ideia por peça.", porque: "Duas ideias dividem a atenção de quem lê e gastam duas capturas do seu estoque de uma vez."}
   - {regra: "Termine quando a ideia acabar.", porque: "O formato mínimo não tem espaço para o resumo nem para o convite. A última frase é a do critério."}
 faca:
-  - "Uma cardiologista: “A pergunta que eu mais ouço no consultório é…”, toda semana, com a mesma foto do estetoscópio sobre a mesa."
+  - "Uma cardiologista: “A pergunta desta semana no consultório foi…”, toda semana, com a mesma foto do estetoscópio sobre a mesa."
   - Manter a mesma duração aproximada de uma peça para a outra.
   - Publicar a peça mediana no dia marcado, em vez de guardá-la para melhorar.
 evite:
@@ -207,7 +207,7 @@ faca_antes: true
     - A falta de assuntos no caderno de campo.
     - O custo do equipamento que ele tinha comprado.
   correta: 1
-  explicacao: Numa quarta de junho, ele passou quarenta minutos decidindo o formato e vinte fazendo a peça. O assunto a seleção resolvia; a decisão do formato voltava inteira toda semana.
+  explicacao: Numa quarta de junho, ele passou quarenta minutos decidindo o formato, tanto quanto levou a peça, e no fim do dia, com a cabeça gasta. O assunto a seleção resolvia; a decisão do formato voltava inteira toda semana.
 - pergunta: Por que a primeira versão da foto, com legenda de uma linha, não serviu?
   opcoes:
     - Porque levava tempo demais para ser escrita.
