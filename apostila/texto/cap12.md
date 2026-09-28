@@ -18,7 +18,7 @@ Os outros três chegaram ao enunciado pelo mesmo caminho por onde chegam a tudo.
 
 Nos capítulos 7 a 11, cada personagem descobriu cinco coisas sobre si: o modo em que pensa, o ritmo que aguenta o pior mês, o repertório que só o volume de prática dá, as opiniões que defende mesmo quando custam e as palavras que o tornam reconhecível.
 
-Isoladas, cada uma é uma observação útil. Juntas, formam uma configuração, e é a configuração que resolve o problema com que o livro começou. A assimetria do capítulo 1 existia porque a autoridade de cada um não tinha caminho para chegar a quem ainda não os conhecia. A linguagem criativa é esse caminho, descrito com precisão suficiente para ser usado.
+Isoladas, cada uma é uma observação útil. Juntas, formam uma configuração, e é a configuração que resolve o problema com que o livro começou. A assimetria do capítulo 1 existia porque a autoridade de cada um não tinha caminho para chegar a quem ainda não o conhecia. A linguagem criativa é esse caminho, descrito com precisão suficiente para ser usado.
 
 ```figura
 tipo: orbita
@@ -30,7 +30,7 @@ legenda: Cada parte foi o assunto de um capítulo desta fase, e cada uma vira um
 
 Duas pessoas podem ter o mesmo modo e produzir presenças que não se parecem em nada. Renata e um ortopedista que também pensa falando teriam repertórios diferentes, posições diferentes, ritmos diferentes; ele explica com o laudo na mão, ela com as mãos no ar. A coincidência de uma parte não diz quase nada. A de todas as cinco eu nunca vi.
 
-É por isso que copiar alguém que você admira quase nunca funciona, mesmo quando o formato copiado é bom. O formato é a parte visível de uma configuração que não aparece. O vídeo que parece fácil para um médico que você acompanha há anos é barato para ele porque combina com o modo, o ritmo e o léxico dele. Para você, o mesmo formato pode custar o triplo, e o custo aparece no fim do primeiro mês, como apareceu para a Renata no vigésimo terceiro dia.
+É por isso que copiar alguém que você admira quase nunca funciona, mesmo quando o formato copiado é bom. O formato é a parte visível de uma configuração que não aparece. O vídeo que parece fácil para um médico que você acompanha há anos é barato para ele porque combina com o modo, o ritmo e o léxico dele. Para você, o mesmo formato pode custar muito mais, e o custo aparece no fim do primeiro mês, como apareceu para a Renata no vigésimo terceiro dia.
 
 ```conceito
 termo: Linguagem criativa
@@ -50,7 +50,7 @@ titulo: A estrutura do enunciado
 texto: "Eu penso [modo]. Consigo sustentar [ritmo, com dia e hora]. O que só eu tenho é [repertório: um padrão, uma exceção ou um critério]. Eu defendo [posição], mesmo custando [custo]. E eu falo [léxico: frase, comparação e ponto de entrada]."
 ```
 
-Os enunciados dos quatro personagens, lado a lado, mostram o que a estrutura produz. Lidos na vertical, cada um tem coerência interna: o modo de Otávio, escrever à mão, combina com um ritmo de sexta à tarde, com um repertório de documentos e com um léxico de prova. Lidos na horizontal, nenhuma linha de um caberia no outro. O ritmo de Renata é o maior dos quatro porque o julho dela ainda deixa cinco blocos de vinte minutos, e o áudio no carro cabe neles; o de Lúcia depende de alguém do outro lado, e por isso tem dia e hora amarrados à pergunta da semana. O repertório de cada um vem do tipo de caso que atende, e a posição, do tipo de pressão que sofre.
+Os enunciados dos quatro personagens, lado a lado, mostram o que a estrutura produz. Lidos na vertical, cada um tem coerência interna: o modo de Otávio, escrever à mão, combina com um ritmo de sexta à tarde, com um repertório de documentos e com um léxico de prova. Lidos na horizontal, nenhuma linha de um caberia no outro. O ritmo de Renata é o maior dos quatro porque o julho dela ainda deixa cinco blocos de vinte minutos, três deles no carro, onde o áudio cabe; o de Lúcia depende de alguém do outro lado, e por isso tem dia e hora amarrados à pergunta da semana. O repertório de cada um vem do tipo de caso que atende, e a posição, do tipo de pressão que sofre.
 
 Tabela: Os quatro enunciados, parte por parte
 
@@ -67,7 +67,7 @@ A última coluna, a do Caio, tem a linha da posição em aberto. As outras quatr
 ```exemplo
 titulo: Uma apresentação e um enunciado
 comum: Uma consultora de RH, no campo de apresentação do perfil. "Apaixonada por pessoas e por transformar culturas organizacionais. Palestras, mentorias e treinamentos."
-singular: A mesma consultora, no enunciado que guarda na mesa de trabalho. "Eu penso escrevendo: antes de uma entrevista de desligamento, escrevo à mão as três perguntas que vou fazer. Consigo sustentar uma peça por semana, às segundas antes das oito, mesmo em dezembro, que é o mês das demissões. O que só eu tenho são quinze anos ouvindo por que as pessoas pedem demissão no terceiro mês, e o que o gestor não viu. Eu defendo a entrevista de saída feita por quem não é o chefe, mesmo perdendo o cliente que quer um relatório rápido. E eu falo em frases compridas, que voltam atrás para trocar a palavra, comparando equipe com time de várzea."
+singular: A mesma consultora, no enunciado que guarda na mesa de trabalho. "Eu penso respondendo: as minhas melhores ideias saem quando um gestor me pergunta por que perdeu alguém. Consigo sustentar uma peça por semana, às segundas antes das oito, mesmo em março, quando chegam as avaliações do ano. O que só eu tenho são quinze anos ouvindo por que as pessoas pedem demissão no terceiro mês, e o que o gestor não viu. Eu defendo a entrevista de saída feita por quem não é o chefe, mesmo perdendo o cliente que quer um relatório rápido. E eu falo em frases compridas, que voltam atrás para trocar a palavra, comparando equipe com cozinha de restaurante: o problema aparece no prato, mas nasce na passagem."
 porque: A primeira descreve e serve para preencher um campo. A segunda decide: com ela, a consultora sabe sozinha se aceita um convite, se um formato serve, se um assunto é dela.
 ```
 
@@ -79,7 +79,7 @@ O enunciado vale pelo uso. Ele responde, em poucos segundos, a cinco perguntas q
 tipo: pratica
 titulo: As cinco perguntas da régua
 itens:
-  - Este formato respeita o meu modo? Se não, dá para capturar no meu modo e publicar nele?
+  - Este formato respeita o meu modo? Se não, dá para capturar no meu modo e publicar nesse formato?
   - Esta frequência cabe no meu pior mês?
   - Este assunto usa o meu repertório, ou é informação que qualquer um tem?
   - Esta peça defende alguma coisa, ou é uma constatação?
@@ -88,19 +88,19 @@ itens:
 
 Renata prendeu o enunciado no quebra-sol do carro, onde grava, e usou a régua na semana seguinte. O convite do jornal do bairro, que circula nas padarias do Batel, chegou numa terça: escrever todo mês sobre dor nas costas. O enunciado respondeu antes dela: a coluna cabia, desde que nascesse falada. Em vez de escrever, propôs gravar uma conversa de dez minutos por mês com o editor, que a transcreveria e publicaria como entrevista. A página saiu no modo dela, e ela não teve de pagar a tradução de formato, da fala para o texto; quem pagou foi o editor.
 
-Otávio usou a régua para recusar. Uma associação de pequenos empresários do Recife o convidou para comentar a reforma trabalhista em geral numa transmissão ao vivo, à noite, sem roteiro. Responderam a primeira linha, porque ele pensa escrevendo e o improviso diante de uma câmera é o que mais lhe custa, e a terceira: a reforma em geral é informação pública, e o que só ele tem é o documento feito depois do fato. Propôs responder por escrito a perguntas sobre advertências e recibos. A associação aceitou e publicou as respostas dele na newsletter; a transmissão ao vivo aconteceu sem ele.
+Otávio usou a régua para recusar. Uma associação de pequenos empresários do Recife o convidou para comentar a reforma trabalhista em geral numa transmissão ao vivo, à noite, sem roteiro. Duas linhas responderam: a primeira, porque ele pensa escrevendo e o improviso diante de uma câmera é o que mais lhe custa, e a terceira: a reforma em geral é informação pública, e o que só ele tem é o documento feito depois do fato. Propôs responder por escrito a perguntas sobre advertências e recibos. A associação aceitou e publicou as respostas dele na newsletter; a transmissão ao vivo aconteceu sem ele.
 
-Lúcia usou a régua para aceitar. Uma colega a convidou para gravar uma conversa sobre ansiedade no trabalho, em formato de entrevista, para o canal que ela mantém com duas psicólogas do grupo de estudos. Um mês antes, ela teria recusado por reflexo: texto ela já publicava, mas a própria voz, gravada, num canal aberto, ainda lhe parecia exposição demais. O enunciado apontou o contrário. Uma conversa em que alguém pergunta é o formato em que ela pensa melhor, e o assunto cabia na terceira linha dela: o paciente que volta em março. Pediu só uma condição, coerente com a quarta linha: nenhuma pergunta que exigisse dar nome ao sofrimento de alguém.
+Lúcia usou a régua para aceitar. Uma colega a convidou para gravar uma conversa sobre ansiedade no trabalho, em formato de entrevista, para o canal que a colega mantém com duas psicólogas do grupo de estudos. Um mês antes, ela teria recusado por reflexo: texto ela já publicava, mas a própria voz, gravada, num canal aberto, ainda lhe parecia exposição demais. O enunciado apontou o contrário. Uma conversa em que alguém pergunta é o formato em que ela pensa melhor, e o assunto cabia na terceira linha dela: o paciente que volta em março. Pediu só uma condição, coerente com a quarta linha: nenhuma pergunta que exigisse dar nome ao sofrimento de alguém.
 
-O estabilizador veio por mensagem de um fornecedor: novo, com desconto, mais leve que o antigo. A tentação voltou por dois dias. Na terceira manhã, ele releu a segunda linha do enunciado, uma peça por semana, e a primeira, pensar contando uma obra. Nenhuma das duas precisava de estabilizador. Respondeu ao fornecedor que ficaria para outra vez.
+O estabilizador veio por mensagem de um fornecedor ao escritório do Caio: novo, com desconto, mais leve que o dele. A tentação voltou por dois dias. Na terceira manhã, Caio releu a segunda linha do enunciado, uma peça por semana, e a primeira, pensar contando uma obra. Nenhuma das duas precisava de estabilizador. Respondeu ao fornecedor que ficaria para outra vez.
 
-Nos quatro casos, o enunciado decidiu depressa. A demora do Caio foi a de deixar de querer o estabilizador, e não a de saber se precisava dele. Sem o enunciado, cada convite teria virado uma semana de dúvida: aceitar para não perder a chance, recusar por medo, pedir a opinião de alguém que conhece as redes e não conhece a pessoa. Com ele, a pergunta deixou de ser se aquilo era bom em geral e passou a ser se aquilo cabia naquela combinação. A segunda pergunta tem resposta. A primeira quase nunca tem.
+Nos quatro casos, o enunciado decidiu depressa. A demora do Caio foi a de deixar de querer o estabilizador; saber se precisava dele levou um minuto. Sem o enunciado, cada convite e cada compra teriam virado uma semana de dúvida: aceitar para não perder a chance, recusar por medo, pedir a opinião de alguém que conhece as redes e não conhece a pessoa. Com ele, a pergunta deixou de ser se aquilo era bom em geral e passou a ser se aquilo cabia naquela combinação. A segunda pergunta tem resposta. A primeira quase nunca tem.
 
-A régua funciona também ao contrário, na revisão. Uma peça ruim costuma violar uma das cinco linhas, e o enunciado ajuda a dizer qual. Uma peça que ficou sem graça provavelmente falhou no repertório ou na posição. Uma que custou três noites falhou no modo ou no ritmo: Otávio descobriu isso com um texto sobre banco de horas que levou três sextas, porque tinha começado a digitar direto, sem a folha pautada. Uma que ninguém reconheceu como sua falhou no léxico.
+A régua funciona também ao contrário, na revisão. Uma peça ruim costuma violar uma das cinco linhas, e o enunciado ajuda a dizer qual. Uma peça que ficou sem graça provavelmente falhou no repertório ou na posição. Uma que custou três vezes o tempo previsto falhou no modo ou no ritmo: Otávio descobriu isso com um texto sobre banco de horas que levou três sextas, porque tinha começado a digitar direto, sem a folha pautada. Uma que ninguém reconheceu como sua falhou no léxico.
 
-Às vezes o enunciado parece brigar consigo mesmo. Uma posição forte pede um formato mais longo do que o ritmo permite, ou o repertório pede uma explicação técnica que o léxico não acomoda. Na maior parte dos casos, a briga se resolve dando prioridade às duas primeiras linhas, modo e ritmo, porque são elas que decidem se a peça vai existir. Uma posição dita em três minutos, no seu modo, vale mais do que a mesma posição num texto longo que nunca sai da gaveta. Lúcia passou por isso com a linha do rótulo: a posição pedia um texto comprido, e o ritmo dela era de uma peça curta por semana. Resolveu dividindo a posição em duas perguntas, uma em cada semana.
+Às vezes o enunciado parece brigar consigo mesmo. Um repertório rico pede um formato mais longo do que o ritmo permite, ou o repertório pede uma explicação técnica que o léxico não acomoda. Na maior parte dos casos, a briga se resolve dando prioridade às duas primeiras linhas, modo e ritmo, porque são elas que decidem se a peça vai existir. Uma posição dita em três minutos, no seu modo, vale mais do que a mesma posição num texto longo que nunca sai da gaveta. Lúcia passou por isso com a linha do repertório: o paciente que volta em março pedia um texto comprido, com o antes e o depois do carnaval, e o ritmo dela era de uma peça curta por semana. Resolveu dividindo o caso em duas perguntas, uma em cada semana.
 
-Feito para durar meses, o enunciado não deve ser revisto toda semana. Revisá-lo a cada sete dias é uma forma de não usá-lo, porque a régua que muda o tempo todo deixa de medir. Releia-o quando algo grande mudar na sua prática, como uma nova área de atuação, uma mudança de cidade ou uma fase muito diferente da vida, e nas outras semanas apenas consulte.
+Feito para durar meses, o enunciado não deve ser reescrito toda semana. Reescrevê-lo a cada sete dias é uma forma de não usá-lo, porque a régua que muda o tempo todo deixa de medir. Reescreva-o quando algo grande mudar na sua prática, como uma nova área de atuação, uma mudança de cidade ou uma fase muito diferente da vida. Nas outras semanas, apenas consulte.
 
 ## A linha em branco
 
@@ -108,9 +108,9 @@ Caio fez bem em não preencher a linha vazia com qualquer coisa. Sabia o que pen
 
 Uma linha em branco não impede o enunciado de funcionar. As outras quatro já decidem boa parte das dúvidas, e a da posição aparece quando a prática a revelar. Até lá, fica escrito a lápis, na margem: "em aberto".
 
-A tabela tem quatro enunciados. O quinto é o seu, e os campos 01 a 05 da oficina seguem a ordem das linhas da tabela, para que você o escreva como uma quinta coluna. Se a sua se parecer demais com a de algum personagem, volte à linha mais parecida e procure o detalhe da sua prática que só você tem: um caso, uma cidade, a pergunta que você faz e ninguém mais faz.
+A tabela tem quatro enunciados e espaço, ao lado, para mais um. Se a sua se parecer demais com a de algum personagem, volte à linha mais parecida e procure o detalhe da sua prática que só você tem: um caso, uma cidade, a pergunta que você faz e ninguém mais faz.
 
-Caio prendeu a folha passada a limpo na parede sobre a prancheta, com a linha da posição escrita a lápis. Nas semanas seguintes, olhou para ela duas vezes, as duas antes de decidir alguma coisa. Na segunda, percebeu que já não precisava ler as quatro linhas preenchidas; sabia de cor. Só a vazia continuava pedindo atenção, e ele passou a escutar de outro jeito as conversas de obra em que alguém lhe pedia para fazer uma coisa que ele não faria.
+Caio prendeu a folha passada a limpo na parede sobre a prancheta, com a linha da posição escrita a lápis. Nas semanas seguintes, olhou para ela duas vezes, as duas antes de decidir alguma coisa. Na segunda vez, percebeu que já não precisava ler as quatro linhas preenchidas; sabia de cor. Só a vazia continuava pedindo atenção, e ele passou a escutar de outro jeito as conversas de obra em que alguém lhe pedia para fazer uma coisa que ele não faria.
 
 ```guardar
 - A sua linguagem é a combinação de modo, ritmo, repertório, posição e léxico. Uma parte sozinha não diz quase nada.
@@ -180,14 +180,14 @@ roteiro: |
 
   Não é opinião solta. Depois de {tempo de prática}, foi isso que eu vi fazer a diferença entre {o que resolve} e {o que só remedia}.
 
-  Se você procura {a expectativa que você não atende}, provavelmente não sou a pessoa certa. Se não, é daqui que eu parto.
+  Se você procura {a expectativa que você não atende}, provavelmente não sou a pessoa certa. De um jeito ou de outro, é daqui que eu parto.
 roteiro_nota: Duas ou três posições, uma evidência para cada. Em áreas com código de ética, posições sobre práticas, nunca sobre colegas.
 ```
 
 ```verificacao
 - pergunta: Por que copiar o formato de alguém que você admira raramente funciona?
   opcoes:
-    - Porque as plataformas reduzem o alcance de conteúdo parecido.
+    - Porque formatos copiados não podem ser publicados sem autorização.
     - Porque o público percebe a cópia logo nas primeiras peças.
     - Porque o formato depende de uma combinação que é da outra pessoa.
     - Porque todo formato conhecido já saturou na sua área.
@@ -200,7 +200,7 @@ roteiro_nota: Duas ou três posições, uma evidência para cada. Em áreas com 
     - Para servir de briefing a uma agência de publicidade.
     - Para escolher cores e fontes das publicações.
   correta: 0
-  explicacao: Uma apresentação descreve; o enunciado decide. Renata o usou para trocar um texto mensal por uma entrevista gravada, e Otávio para recusar uma transmissão ao vivo sobre um assunto que não era dele.
+  explicacao: Uma apresentação descreve; o enunciado decide. Renata o usou para trocar um texto mensal por uma entrevista gravada, e Otávio para recusar uma transmissão ao vivo sobre informação que qualquer colega explica, e responder por escrito ao que só ele sabe.
 - pergunta: O que Caio fez com a linha da posição, que ele ainda não tinha?
   opcoes:
     - Copiou a posição de um arquiteto que admirava.

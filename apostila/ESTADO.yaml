@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 12:53
+# atualizado: 2026-09-28 12:56
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -370,7 +370,7 @@ capitulos:
       veredito: aprovado
     nota: 9.04
   12:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 06:50
@@ -393,9 +393,18 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.73
+    - iteracao: 3
+      data: 2026-09-28 12:55
+      revisao: apostila/revisoes/cap12-r3.yaml
+      media: 9.0
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.0
   13:
-    status: aprovado_pendente_ordem
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 06:55
@@ -437,7 +446,7 @@ capitulos:
     nota: 9.22
     alerta: '4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão.'
   14:
-    status: aprovado_pendente_ordem
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 07:02
@@ -709,5 +718,7 @@ decisoes:
   para a p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
 - '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum
   cabe inteiro no pé da página.'
+- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e
+  14 deixam de estar pendentes de ordem.'
 pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
