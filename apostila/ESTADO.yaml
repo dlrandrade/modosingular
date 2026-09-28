@@ -386,8 +386,19 @@ capitulos:
       veredito: reprovado
     nota: 8.33
   13:
-    status: rascunho
-    iteracoes: []
+    status: reprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 06:55
+      revisao: apostila/revisoes/cap13-r1.yaml
+      media: 8.48
+      minimo: 7.9
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    nota: 8.48
   14:
     status: rascunho
     iteracoes: []

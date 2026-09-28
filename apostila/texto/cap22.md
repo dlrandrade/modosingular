@@ -72,7 +72,7 @@ O texto que saiu daquela quinta foi publicado na terça seguinte, às oito, e n�
 
 Quando o preenchimento trava, a trava é uma informação. Se o esqueleto pede um caso e nenhum aparece, é provável que você não tenha repertório sobre aquele assunto, e insistir produz a peça genérica que o livro inteiro tenta evitar. Nesse ponto, mude de assunto e guarde o esqueleto. Ele serve para outra semana, com outro tema, e é justamente isso que faz dele uma estrutura.
 
-Lúcia passou a guardar os cartões numa caixa de fichas, na gaveta do consultório, ao lado do caderno de campo. Em dois meses, tinha sete: o da cena e da crença, o de uma reportagem que começava pelo fim, o de uma crônica que alternava duas vozes, o de uma aula de rádio que respondia a três ouvintes com a mesma pergunta. Nenhum tinha uma palavra do original. Na terça às oito, quando a pergunta da amiga pedia uma forma diferente, ela abria a caixa antes de abrir o caderno.
+Lúcia passou a guardar os cartões numa caixa de fichas, na gaveta do consultório. Em dois meses, tinha sete: o da cena e da crença, o de uma reportagem que começava pelo fim, o de uma crônica que alternava duas vozes, o de uma aula de rádio que respondia a três ouvintes com a mesma pergunta. Nenhum tinha uma palavra do original. Na terça às oito, quando a pergunta da amiga pedia uma forma diferente, ela abria a caixa antes de abrir o caderno.
 
 ```exemplo
 titulo: A mesma referência, usada de dois jeitos
