@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 21:07
+# atualizado: 2026-09-28 21:10
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -842,7 +842,7 @@ capitulos:
       veredito: aprovado
     nota: 9.11
   25:
-    status: reprovado
+    status: aprovado
     iteracoes:
     - iteracao: 1
       data: 2026-09-28 21:03
@@ -853,7 +853,16 @@ capitulos:
       bloqueadores: 0
       lint_erros: 0
       veredito: reprovado
-    nota: 8.84
+    - iteracao: 2
+      data: 2026-09-28 21:09
+      revisao: apostila/revisoes/cap25-r2.yaml
+      media: 9.14
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.14
   26:
     status: rascunho
     iteracoes: []
@@ -1077,3 +1086,9 @@ pendencias:
 - Nome do autor para capa e folha de rosto (projeto.autor)
 - 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de branco antes
   de box indivisível).'
+- 'Cap. 26: trocar a entrada da releitura da Renata (''como alguém que nunca tivesse ouvido falar dela''), que repete a imagem
+  do cap. 25 (Caio lê a própria peça como de outra pessoa). Cap. 29: a batida ''o tédio é de quem faz, não de quem lê'' repete
+  os caps. 20 e 25.'
+imagens:
+  ler a própria peça impressa como de outra pessoa: 25
+  Renata rola o perfil à noite e descobre o problema: 23

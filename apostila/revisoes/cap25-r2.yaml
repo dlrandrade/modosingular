@@ -1,0 +1,78 @@
+capitulo: 25
+iteracao: 2
+notas: {metodo: 9.3, voz: 9.1, originalidade: 9.2, clareza: 9.4, ritmo: 9.0, concretude: 9.3,
+        coerencia: 8.8, aplicabilidade: 9.1, impresso: 8.8, honestidade: 9.2}
+bloqueadores: []
+pontos_fortes:
+  - "Quase tudo o que a r1 apontou foi resolvido. Saiu a lógica falsa das 'dezesseis peças'. O corretor agora 'tinha indicado um serralheiro'. 'Era o exemplo mais nítido' não briga mais com o cliente de fevereiro do cap. 29. Os exemplos da oficina estão em três profissões fora do elenco (advogada de família, oftalmologista, personal trainer). O tempo_nota está honesto, o esqueleto lembra a liberação do cap. 19, e 'O inventário' e 'Voltar ao mesmo assunto' ganharam intertítulo próprio."
+  - "A cena de abertura continua a melhor da Fase V. A folha 'dobrada em quatro', a pergunta 'a lápis' no pé, o texto com 'treze curtidas' e o ganho novo no fecho ('onde a regra parava') fazem o conceito nascer da cena. A linha do tempo agora fecha com os caps. 20 e 29 (texto de abril do ano anterior, quintas desde junho, a serralheria do Cambuí em outubro)."
+  - "As quatro propriedades são demonstradas no mesmo caso, uma por parágrafo, e a quarta ganha um detalhe mensurável ('tinha poupado uns quarenta minutos de explicação'). O inventário dá um número que dói: 'nenhuma sobre banheiros, que entravam em metade das obras dele'."
+  - "Formulações próprias e secas: 'quem a leu e não curtiu porque não curte nada', 'conferir, com cuidado, o placar do jogo errado', 'Formatos que somem não acumulam', 'e trabalham do jeito que podem'. Lint limpo: zero travessão, zero 'não é X, é Y', zero frase-soco."
+problemas:
+  - criterio: coerencia
+    trecho: "Descobriu que tinha escrito onze vezes sobre paredes, sete sobre pisos, quatro sobre janelas e nenhuma sobre banheiros"
+    por_que: "O cap. 29 diz que 'Caio, em março, achou que já tinha falado demais de umidade; contou e viu que eram quatro peças em nove meses'. Isso cria dois choques. Primeiro, em agosto a umidade teria pelo menos quatro peças, tantas quanto as janelas, e o texto afirma que 'Os três assuntos com mais peças' eram paredes, pisos e janelas. Segundo, em março Caio já contava peças por assunto, e aqui a contagem por assunto é 'o que nunca tinha feito'. Um leitor atento que chega ao cap. 29 encontra a costura."
+    correcao: "Ponha a umidade dentro de paredes: 'Descobriu que tinha escrito onze vezes sobre paredes, contando as de umidade, sete sobre pisos…'. Troque 'o que nunca tinha feito' por 'o que nunca tinha feito com o acervo inteiro'. Se preferir mexer no cap. 29, troque lá 'umidade' por 'paredes úmidas'."
+  - criterio: originalidade
+    trecho: "Caio enjoava da terceira peça sobre paredes muito antes de qualquer leitor."
+    por_que: "É a terceira vez que o livro dá ao Caio a mesma batida: o cansaço é de quem faz, não de quem lê. No cap. 20: 'A repetição que cansava o Caio ainda era novidade para quem lia'. No cap. 29: 'O tédio do formato é quase sempre um problema de quem escreve'. Aqui ela ainda se repete dentro do capítulo, na regra 3 da rede ('Você enjoa na terceira vez; quem lê encontra a primeira na décima'). Pela lição cap02-r1, a imagem não pode se repetir entre capítulos."
+    correcao: "Corte a frase do Caio na prosa. O parágrafo fica de pé com a prova que só este capítulo tem: 'A mulher das janelas tinha lido vinte e um textos numa noite sem reclamar de nenhuma repetição; o que ela notou foi a coerência.' A regra 3 da rede, que vem do PWA, fica. Registre para o cap. 29 que a variante 'umidade' repete o cap. 20."
+  - criterio: aplicabilidade
+    trecho: "{regra: \"Escreva para daqui a dois anos.\", porque: \"Uma peça presa a uma data ou a uma moda morre com ela."
+    por_que: "A lição cap11-r1/cap12-r1 diz que 'regras de produção dizem no seu modo, nunca grave ou escreva para todos'. A regra 1 é um imperativo 'Escreva' para qualquer leitor, e a intro corrige só em parte ('escreva ou grave'). Para a Renata, que pensa falando, a regra fala com outra pessoa."
+    correcao: "Regra 1: 'Faça a peça para daqui a dois anos.' Intro: '…e faça, no seu modo, uma peça que ainda faça sentido daqui a dois anos.' Ou 'Pense a peça para quem a encontra daqui a dois anos.'"
+  - criterio: aplicabilidade
+    trecho: "Uma advogada de família: guarda, nove; pensão, seis; divórcio consensual, dois; inventário, nenhuma."
+    por_que: "Numa oficina chamada 'O inventário do seu acervo', com uma seção de prosa chamada 'O inventário', o exemplo usa 'inventário' no sentido jurídico e na posição de lacuna. O leitor apressado lê 'inventário, nenhuma' como instrução sobre o próprio exercício. É ruído evitável justo no campo que ensina o formato."
+    correcao: "'…divórcio consensual, dois; união estável, nenhuma.' (ou 'partilha de bens, nenhuma')."
+  - criterio: coerencia
+    trecho: "Onze peças sobre paredes e nenhuma sobre banheiros, que eram metade das obras."
+    por_que: "A r1 fez a prosa passar a dizer 'que entravam em metade das obras dele', mas o gabarito ficou com a formulação antiga. A alternativa correta da questão 4 ('Que metade das obras dele não aparecia em nenhuma peça') também diz mais do que o texto. As obras com banheiro podiam aparecer por outras peças, sobre as paredes ou os pisos delas. O que faltava era um assunto que estava em metade das obras."
+    correcao: "Alternativa d: 'Que um assunto presente em metade das obras não tinha nenhuma peça.' Explicação: 'Onze peças sobre paredes e nenhuma sobre banheiros, que entravam em metade das obras. Quem procurasse o problema dos banheiros não encontraria nada dele.'"
+  - criterio: ritmo
+    trecho: "A mulher das janelas pôde ler vinte e uma seguidas porque havia muito mais do que isso para escolher."
+    por_que: "A leitura noturna dos vinte e um textos aparece cinco vezes: 'leu mais uns vinte textos', 'Leu vinte e um, numa noite', 'pôde ler vinte e uma seguidas', 'Vinte e um textos seguidos', 'tinha lido vinte e um textos numa noite'. Pela lição cap02-r1, a terceira ocorrência tem de trazer ganho novo. As das linhas 83 e 116 trazem ganho (coerência, ausência de queixa de repetição). A da linha 66 só fecha o parágrafo com uma tautologia, depois da correção da r1."
+    correcao: "Feche o parágrafo em 'e a única coisa que se vê é o número pequeno de cada uma.' Ou dê a ele um fato novo: 'Quando a mulher das janelas abriu o perfil, havia mais de sessenta quintas para escolher.'"
+  - criterio: ritmo
+    trecho: "Os seis vídeos cinematográficos do primeiro ano continuam publicados, e entraram no inventário na página das obras. Fazem parte do acervo, como a peça das janelas, e trabalham do jeito que podem."
+    por_que: "O último parágrafo da prosa junta dois assuntos, o critério trimestral e os vídeos, e o fecho chega colado à pergunta 'Alguém chegou citando uma peça?'. 'Na página das obras' não se entende (que página? o caderno tem páginas por assunto: paredes, pisos, janelas, banheiros). 'Do primeiro ano' também confunde, porque o mesmo parágrafo e a abertura de 'A unidade errada' usam 'primeiro ano' para o ano das quintas, e os vídeos são de antes (cap. 3)."
+    correcao: "Separe em parágrafo próprio e precise: 'Os seis vídeos cinematográficos, de antes das quintas, continuam publicados. No inventário, entraram cada um na página do assunto que mostravam. Fazem parte do acervo, como a peça das janelas, e trabalham do jeito que podem.'"
+  - criterio: voz
+    trecho: "os stories e as enquetes, que desaparecem depois de um dia"
+    por_que: "É anglicismo de plataforma, contra a regra de registro, e prende o livro a um recurso de uma rede específica. O resto do capítulo fala de 'peça', 'perfil' e 'formato' sem nomear produto."
+    correcao: "'os vídeos curtos e as enquetes que somem depois de um dia'."
+  - criterio: coerencia
+    trecho: "Caio não se lembrava do texto. Leu como se fosse de outra pessoa."
+    por_que: "O cap. 26, logo em seguida, abre com a mesma imagem com outra personagem: Renata pede as peças impressas e 'leu as folhas… como alguém que nunca tivesse ouvido falar dela'. São duas cenas vizinhas de ler o próprio conteúdo impresso como se fosse de outra pessoa. Aqui a imagem nasce da cena e é a primeira. O ajuste cabe no cap. 26."
+    correcao: "Mantenha aqui. Registre em ESTADO.yaml › imagens ('ler a própria peça impressa como de outra pessoa', cap. 25) e peça ao cap. 26 outra entrada na releitura da Renata."
+  - criterio: honestidade
+    trecho: "porque a maior parte das peças de quase qualquer especialista tem desempenho modesto quando olhada sozinha"
+    por_que: "É a última generalização sem fonte sobre terceiros que sobrou, herdada do PWA ('a maioria das peças… tem desempenho modesto'). O argumento não precisa dela: o caso do próprio Caio já mostra o placar modesto."
+    correcao: "'A cada semana havia um veredito, e quase todos eram modestos, como são os de qualquer peça olhada sozinha.' Ou apenas: 'e quase todos eram modestos. A conclusão que se forma…'."
+  - criterio: concretude
+    trecho: "Na primeira reunião de projeto, perguntou se podia contar à sobrinha que tinha dado certo."
+    por_que: "Na primeira reunião de projeto nada tinha 'dado certo' ainda. As janelas só seriam entregues depois de outubro (cap. 29: 'a serralheria… adiou a entrega em vinte dias'). O leitor atento pergunta o que deu certo."
+    correcao: "'…perguntou se podia contar à sobrinha que tinha encontrado o autor.' ou '…que as janelas iam ficar.'"
+  - criterio: voz
+    trecho: "Se você está com {o problema, nas palavras de quem o tem}, vale ouvir isto até o fim."
+    por_que: "A troca da r1 tirou o 'isto é para você', mas 'vale ouvir isto até o fim' continua sendo gancho de retenção de vídeo curto, a voz de palco de que o público desconfia. E 'ouvir' prende o roteiro ao áudio num capítulo que pede peças para todos os modos."
+    correcao: "'{A sua abertura de sempre}. Tem uma coisa sobre {o problema, nas palavras de quem o tem} que eu repito há anos.' Assim a abertura também puxa o assunto-âncora."
+edicoes_de_linha:
+  - "A mulher das janelas não leu uma peça. Leu vinte e um, numa noite -> A mulher das janelas não leu uma peça. Leu vinte e uma, numa noite (concorda com 'peça')"
+  - "legenda da figura 25.1: Toda semana, você vê a primeira linha, que sobe devagar. -> Toda semana, você vê a linha tracejada, que sobe devagar. (no papel, 'primeira' não diz qual)"
+  - "desistiu dos textos longos e passou para a foto com cinco linhas -> desistiu dos textos de três parágrafos e passou para a foto com cinco linhas (é o nome do cap. 20; três parágrafos não são 'longos' para o leitor)"
+  - "Teve dezenove curtidas. Ele não olhou o número na sexta. -> Teve dezenove curtidas, que ele só viu semanas depois. (senão o narrador sabe o que o personagem não olhou)"
+  - "Caio calculou depois que tinha poupado uns quarenta minutos de explicação -> Caio calculou depois que tinha poupado uns três quartos de hora de explicação (quarenta minutos já são os números de decisão e de vídeo do Caio no cap. 20)"
+  - "O acervo mostrava as preferências dele, e escondia metade do trabalho. -> O acervo mostrava as preferências dele e escondia metade do trabalho. (a vírgula antes de 'e' puxa a antítese disfarçada)"
+  - "unidade: sem escala; mostra a lógica, e não uma medição -> unidade: sem escala; mostra só a lógica (a legenda já diz 'sem medição'; um ', e não' a menos nos boxes)"
+  - "nota: \"Porque encontrou raciocínio, e não anúncio.\" -> nota: \"Porque encontrou raciocínio.\""
+  - "Quem procura usa as próprias palavras, e não as da sua área. -> Quem procura usa as próprias palavras, que raramente são as da sua área."
+  - "reler tudo, como o Caio, leva uma noite -> reler tudo, como o Caio, leva uma noite ou mais e pode ficar para depois (o Caio leu dois anos de peças)"
+diagramacao:
+  - "p16: cerca de 35% de branco no pé, depois do parágrafo 'A peça das janelas chegou à mulher por um link'. O funil 25.2 foi inteiro para a p17. O branco é evitável: deixe o primeiro parágrafo de 'O inventário' subir antes da figura, ou encolha o funil (as notas cabem numa linha cada)."
+  - "p18: cerca de 30% de branco no pé, com o último parágrafo da prosa partido ('Os seis vídeos cinematográficos do primeiro ano continuam' / 'publicados, e entraram…'). As duas linhas finais e o 'Para guardar' foram para a p19, que fica com uns 65% de branco antes da oficina (esse é aceito). O da p18 não é: o 'Para guardar' parece preso às linhas de cima e arrasta o fim do parágrafo. Solte o keep-with-previous do box guardar. Ou, se for acatado o parágrafo próprio dos vídeos, confira de novo a quebra."
+  - "p13: cerca de 15% de branco depois do box Conceito. O 'compara' foi inteiro para a p14. É tolerável, mas os itens do compara cabem em fonte um ponto menor, ou o box pode ceder uma linha."
+  - "p20: o tempo_nota sai em itálico de uns 7 pt, espremido em sete linhas na coluna estreita do 'TEMPO'. Para leitor de 30 a 60 anos é a letra menor do capítulo, e é uma instrução que o leitor precisa ler. Leve a nota para a linha de baixo, em largura total, no corpo das notas de campo."
+  - "p14: o eixo da figura 25.1 espaça igualmente 'mês 1, mês 3, mês 6, mês 12, mês 18', mas os intervalos são de 2, 3, 6 e 6 meses. A curvatura da linha dourada vem em parte da escala. Mesmo com o selo de esquema ilustrativo, use intervalos regulares (mês 3, 6, 9, 12, 15, 18) ou posicione os pontos proporcionalmente."
+  - "p22: cerca de 35% de branco antes do esqueleto, que é indivisível e foi para a p23. É aceito pelo projeto. O capítulo ocupa 15 páginas (p11 a p25), dentro do alvo. Abertura, tabela 25.1, funil 25.2, oficina, rede, verificação e checklist estão legíveis em preto e branco, e as linhas de escrita são suficientes."
+veredito: "O capítulo subiu de patamar e está a um passo da aprovação. Faltam costurar o inventário com a umidade do cap. 29, tirar a terceira ocorrência do 'enjoa antes do leitor', trocar o 'Escreva' da regra 1 e o 'inventário' do exemplo, e corrigir dois brancos evitáveis (p16 e p18)."
