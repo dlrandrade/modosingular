@@ -12,9 +12,9 @@ Em outubro, três obras do Caio atrasaram na mesma semana, por três motivos que
 
 Durante quatro semanas, Caio passou os dias entre as três obras, ao telefone com fornecedores, clientes e um síndico que não atendia depois das cinco. Chegava em casa depois das nove. Nas quartas à noite, que ele tinha reservado para a seleção do caderno de campo, dormia no sofá antes de abrir o caderno. Na primeira quinta daquele mês, às sete e quarenta, sentou no mesmo tipo de degrau em que, um ano antes, escrevia as cinco linhas sem esforço, e percebeu que não tinha foto nem assunto.
 
-Um ano e meio antes, quando ainda trocava de formato toda semana, uma quinta assim teria sido o fim de mais um. Caio teria pulado a semana, depois a seguinte, e em novembro teria descoberto que fazia um mês que não publicava nada e que voltar parecia mais difícil do que começar. Dessa vez, abriu a última página do caderno de campo, onde tinha escrito, em julho, com a cabeça descansada, quatro linhas sob o título "mês ruim". A primeira dizia: reduza, não pare.
+Um ano e meio antes, quando ainda trocava de formato toda semana, uma quinta assim teria sido o fim de mais um formato. Caio teria pulado a semana, depois a seguinte, e em novembro teria descoberto que fazia um mês que não publicava nada e que voltar parecia mais difícil do que começar. Dessa vez, abriu a última página do caderno de campo, onde tinha escrito, em julho, com a cabeça descansada, quatro linhas sob o título "mês ruim". A primeira dizia: reduza, não pare.
 
-Publicou naquela quinta a menor peça da vida dele. Uma foto do arquivo, de uma laje de outra obra, entregue em março e com a autorização do dono assinada, e uma linha: laje úmida não recebe manta, nem que a obra atrase um mês. Levou três minutos, incluindo a escolha da foto. Não pediu desculpas, não explicou a correria, não prometeu voltar ao normal. Na semana seguinte, fez igual, com a foto antiga de um caixilho de ferro recuperado e outra linha.
+Publicou naquela quinta a menor peça da vida dele. Uma foto do arquivo, de uma laje de outra obra, entregue em março e com a autorização do dono assinada, e uma linha que tinha ficado anotada no caderno desde aquela obra: laje úmida não recebe manta, nem que a obra atrase um mês. Levou três minutos, incluindo a escolha da foto. Não pediu desculpas, não explicou a correria, não prometeu voltar ao normal. Na semana seguinte, fez igual, com a foto antiga de uma bandeira de vidro canelado e outra linha.
 
 ## O vale
 
@@ -22,7 +22,7 @@ Este é o penúltimo capítulo, e há uma coisa que os trinta dias do livro não
 
 Por volta do segundo mês, o esforço já é real e o retorno ainda não aparece. Quanto isso dura depende da área: onde o cliente decide devagar, o vale se estende. Essa é a forma normal da curva, e o capítulo 25 mostrou por quê: o que traz clientes é o efeito do conjunto, e o conjunto leva tempo para existir. Mas esse período se confunde com um fracasso, e nele a decisão de parar parece mais sensata do que em qualquer outro momento.
 
-Parte do engano vem de olhar os números errados. No vale, os números que aparecem primeiro na tela, as curtidas e os seguidores, quase não se mexem, e são eles que se conferem de manhã. Os números do painel do capítulo 28 se mexem antes, mas devagar e sem barulho: um salvamento a mais numa peça de março, uma pergunta que chega com uma palavra que você usou, alguém que encaminha uma peça antiga para a irmã. Quem mede o vale pelos números barulhentos conclui que nada está acontecendo. Quem mede pelos silenciosos vê pouca coisa, mas vê que alguma coisa está.
+Parte do engano vem de olhar os números errados. No vale, os números que aparecem primeiro na tela, as curtidas e os seguidores, quase não se mexem, e são os que você confere de manhã. Os números do painel do capítulo 28 se mexem antes, mas devagar e sem barulho: um salvamento a mais numa peça de março, uma pergunta que chega com uma palavra que você usou, alguém que encaminha uma peça antiga para a irmã. Quem mede o vale pelos números barulhentos conclui que nada está acontecendo. Quem mede pelos silenciosos vê pouca coisa, mas vê que alguma coisa está.
 
 ```figura
 tipo: linha
@@ -34,15 +34,15 @@ x: [1, 3, 5, 7, 9, 12]
 series:
   - {nome: "O esforço acumulado", pontos: [18, 46, 68, 80, 90, 100]}
   - {nome: "O retorno que se vê", pontos: [6, 10, 20, 46, 76, 118], destaque: true}
-legenda: Esquema ilustrativo, sem medição. Nos primeiros meses, o esforço cresce e o retorno quase não aparece; é o período em que parar parece a decisão mais racional. O momento exato da virada muda de pessoa para pessoa.
+legenda: Nos primeiros meses, o esforço cresce e o retorno quase não aparece; é o período em que parar parece a decisão mais racional. O momento exato da virada muda de pessoa para pessoa.
 ```
 
-Caio atravessou o vale dele no segundo semestre do ano anterior, sem saber que era um vale. Reforma é decisão lenta: entre ler um texto e chamar um arquiteto, uma pessoa pode levar meses, às vezes o tempo de comprar o apartamento. Publicava toda quinta desde junho, e até novembro nenhum cliente tinha chegado citando nada. Por volta da décima semana, teve vontade de mudar de formato; na vigésima, depois de vender as luzes, de parar. O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro, e a mulher das janelas, com a folha dobrada, apareceu em agosto. Quem para no quarto mês desiste antes do ponto em que a coisa começaria a funcionar.
+Caio atravessou o vale dele no segundo semestre do ano anterior, sem saber que era um vale. Reforma é decisão lenta: entre ler um texto e chamar um arquiteto, uma pessoa pode levar meses, às vezes o tempo de comprar o apartamento. Publicava toda quinta desde junho, e até novembro nenhum cliente tinha chegado citando nada. Por volta da décima semana, teve vontade de mudar de formato; na vigésima, depois de vender as luzes, de parar. O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro, e a mulher das janelas, com a folha dobrada, apareceu em agosto. Se tivesse parado no quarto mês, Caio teria desistido cinco meses antes do primeiro cliente.
 
 ```conceito
 termo: Sustentação
 definicao: A capacidade de manter a produção nos períodos sem entusiasmo, sem resultado visível e sem nenhum reforço de fora, que são a maior parte de um ano.
-porque: O efeito acumulado que traz clientes costuma aparecer depois de meses. Quem depende de motivação para publicar para justamente antes dele.
+porque: O efeito acumulado que traz clientes, quando vem, costuma aparecer depois de meses. Quem depende de motivação para publicar tende a parar antes de saber.
 ```
 
 ## Por que as pessoas param
@@ -63,12 +63,12 @@ A primeira causa se trata com os números certos, como a seção anterior mostro
 ```nota
 tipo: pratica
 titulo: A peça mínima
-texto: Defina, num mês bom, a menor peça que você consegue publicar num dia impossível: cinco minutos, no máximo, sem edição. Uma foto e uma linha. Um áudio de noventa segundos sobre uma captura. Uma pergunta respondida em três frases. Nas semanas em que o formato-base não couber, é ela que sai. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém. Ela não se confunde com o silêncio que o capítulo 24 aceita: aquele impede que alguém preencha a semana com o que não é seu; a peça mínima é sua, só menor.
+texto: Defina, num mês bom, a menor peça que você consegue publicar num dia impossível: cinco minutos, no máximo, sem edição. Uma foto e uma linha. Um áudio de noventa segundos sobre uma captura. Uma pergunta respondida em três frases. Nas semanas em que o formato-base não couber, é ela que sai. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém. O silêncio que o capítulo 24 aceita tem outra função: impede que alguém preencha a semana com o que não é seu. A peça mínima é sua, só menor.
 ```
 
-A peça mínima de Caio era uma foto do arquivo de obras entregues e uma frase, a que ele diria ao cliente se tivesse um minuto. Não era a legenda de uma linha que o capítulo 20 reprovou: a frase tinha a régua dele dentro, e a foto era de uma obra dele. O pior mês do capítulo 8 é o que se pode prever; outubro não estava em conta nenhuma. Faltou a quarta-feira da seleção, e sem ela não havia assunto. A peça mínima existe para esse mês, e só para ele, e segurou a quinta-feira até que as cinco linhas voltassem a caber.
+A peça mínima de Caio era uma foto do arquivo de obras entregues e uma frase, a que ele diria ao cliente se tivesse um minuto, com a régua dele dentro; por isso passava no teste que o capítulo 20 aplicou às legendas de uma linha. O pior mês do capítulo 8 é o que se pode prever; outubro não estava em conta nenhuma. Faltou a quarta-feira da seleção, e sem ela não havia assunto. A peça mínima existe para esse mês, e só para ele, e segurou a quinta-feira até que as cinco linhas voltassem a caber.
 
-As outras duas causas aparecem mais tarde, quando a produção está estável e começa a parecer repetitiva para quem faz. O tédio do formato o capítulo 20 já resolveu com uma conta: quem lê viu uma parte pequena das suas peças. A comparação é mais silenciosa. Chega quando alguém da mesma área aparece com números maiores, e ela se trata do mesmo jeito que o vale: olhando o seu painel, uma vez por mês, e mais nada.
+As outras duas causas aparecem mais tarde, quando a produção está estável e começa a parecer repetitiva para quem faz. O capítulo 20 já resolveu o tédio do formato com uma conta: quem lê viu uma parte pequena das suas peças. A comparação é mais silenciosa. Para o Caio, chegou numa tarde de agosto, com o perfil de um escritório de interiores de São Paulo que publicava todo dia e tinha trinta vezes os seguidores dele; fechou o aplicativo antes de terminar de rolar. Ela chega quando alguém da mesma área aparece com números maiores, e ela se trata do mesmo jeito que o vale: olhando o seu painel, uma vez por mês, e mais nada.
 
 ## O protocolo do mês difícil
 
@@ -90,30 +90,30 @@ O de Caio foi de obra atrasada; o seu pode ser de mudança de casa, de um sócio
 
 A segunda linha, a do estoque, foi a que salvou as outras duas quintas de outubro. Caio abriu o caderno de campo num domingo à tarde, o único descanso do mês, e em vinte minutos escolheu duas anotações de agosto que ainda não tinham virado nada: um piso de granilite que o dono queria cobrir com vinílico, e um cliente que queria esconder o quadro de luz atrás de um armário. As duas viraram cinco linhas, com fotos de obras já entregues, sem que ele precisasse pensar em assunto. O caderno fez, no mês ruim, o trabalho que ele não tinha energia para fazer.
 
-A terceira linha pede desapego do acabamento. Uma foto torta, uma frase sem revisão, uma foto de arquivo sem tratamento de cor: nada disso teria passado pelo Caio dos vídeos cinematográficos, que editava seis vídeos em onze fins de semana. O Caio de outubro publicou as quatro peças do mês em menos tempo do que aquele gastava na edição de um único vídeo. O perfil ficou mais simples por um mês e continuou sendo dele.
+A terceira linha pede desapego do acabamento. Uma foto torta, uma frase sem revisão, uma foto de arquivo sem tratamento de cor: nada disso teria passado pelo Caio dos vídeos cinematográficos, que levou onze fins de semana para editar seis. O Caio de outubro publicou as quatro peças do mês em menos tempo do que aquele gastava na edição de um único vídeo. O perfil ficou mais simples por um mês e continuou sendo dele.
 
-A quarta linha foi a mais difícil de cumprir. Na segunda semana de outubro, Caio chegou a escrever uma legenda que começava por "sumido por aqui por causa da correria das obras". Apagou. Um anúncio de ausência transforma uma semana fraca num acontecimento, e acontecimento pede um retorno à altura, que nunca vem na hora certa. Sem anúncio, a semana fraca continua sendo uma semana fraca, e passa. O capítulo 8 já tinha avisado: volta anunciada pesa mais.
+A quarta linha foi a mais difícil de cumprir. Na segunda semana de outubro, Caio chegou a escrever uma legenda que começava por "peças mais curtas por aqui até as obras voltarem a andar". Apagou. Um anúncio de ausência transforma uma semana fraca num acontecimento, e acontecimento pede um retorno à altura, que nunca vem na hora certa. Sem anúncio, a semana fraca continua sendo uma semana fraca, e passa. O capítulo 8 já tinha avisado: volta anunciada pesa mais.
 
 ```nota
 tipo: alerta
 titulo: A troca de rumo no terceiro mês
-texto: A vontade de mudar tudo costuma aparecer no vale, e com argumentos bons: outro formato, outra plataforma, outro assunto. Pode ser o vale falando. Antes de mudar, confira os números do seu painel e releia a sua causa mais provável de parar. Se nada de concreto mudou, mantenha o rumo mais um mês.
+texto: A vontade de mudar tudo costuma aparecer no vale, e com argumentos bons: outro formato, outra plataforma, outro assunto. Pode ser o vale falando. Antes de mudar, confira os números do seu painel e releia a sua causa mais provável de parar. Se o painel não piorou e a vontade de mudar tem a cara da sua causa de sempre, mantenha o rumo mais um mês.
 ```
 
 ## Depois do vale
 
-Em novembro, as três obras voltaram a andar, uma de cada vez, e a quinta-feira voltou às cinco linhas. Caio contou as peças de outubro: quatro, todas publicadas no dia, duas mínimas e duas do estoque. Nenhuma delas foi das melhores do ano, e nenhum cliente mandou mensagem sobre elas. Mas a sequência, que passava de setenta quintas, não tinha quebrado, e a primeira peça de novembro não precisou recomeçar nada.
+Em novembro, as três obras voltaram a andar, uma de cada vez, e a seleção voltou para a quarta-feira à noite. Caio contou as peças de outubro: quatro, todas publicadas no dia, duas mínimas e duas do estoque. Nenhuma delas foi das melhores do ano, e nenhum cliente mandou mensagem sobre elas. Mas a sequência, que passava de setenta quintas, não tinha quebrado, e a primeira peça de novembro não precisou recomeçar nada.
 
 Quando abriu o painel do mês, encontrou uma coisa que não esperava. As peças de outubro tinham tido pouco alcance, como era de se prever, mas as mensagens com dúvida real não tinham caído: chegaram cinco, quase todas sobre peças antigas, uma delas de janeiro, sobre o taco que estufa perto da janela. O conjunto tinha trabalhado no mês em que ele só pôde publicar o mínimo.
 
 Para o Caio, o segundo ano estava sendo mais leve que o primeiro, e não por disciplina. Gente tinha chegado citando peças; as dúvidas dos clientes novos entravam no caderno; as cinco linhas custavam menos do que em junho. Quando isso acontece, a produção deixa de ser aposta. A leveza vem de cada parte do sistema, dos capítulos 19 a 24, ter sido desenhada para custar pouco.
 
-Isso não quer dizer que o vale não volte. Ele costuma voltar menor, em outros momentos: quando a área muda, quando você troca de plataforma, quando uma fase da vida pede outra rotina. O protocolo serve para todos eles. Releia-o uma vez por ano, num mês bom, e ajuste as linhas que envelheceram. A peça mínima de hoje talvez não seja a mesma daqui a um ano, e o estoque precisa ter sido alimentado para existir quando for preciso.
+Isso não quer dizer que o vale não volte. Ele pode voltar, em outros momentos: quando a área muda, quando você troca de plataforma, quando uma fase da vida pede outra rotina. O protocolo serve para todos eles. Releia-o uma vez por ano, num mês bom, e ajuste as linhas que envelheceram. A peça mínima de hoje talvez não seja a mesma daqui a um ano, e o estoque precisa ter sido alimentado para existir quando for preciso.
 
 Em dezembro, o caderno de campo acabou. Antes da primeira anotação no caderno novo, Caio copiou as quatro linhas na última página dele, onde em outubro as tinha encontrado, e acrescentou uma quinta, que não estava em julho: o mês ruim passa, e a quinta-feira seguinte continua sendo quinta-feira.
 
 ```guardar
-- Nos primeiros meses, o esforço é real e o retorno ainda não aparece, e essa forma normal da curva parece fracasso.
+- "Nos primeiros meses, o esforço é real e o retorno ainda não aparece: é a forma normal da curva, e ela se parece com fracasso."
 - "A sequência não quebra na primeira semana ruim, e sim na segunda; a peça mínima impede que uma vire duas."
 - "Escreva o protocolo do mês difícil num mês bom: reduza, volte ao estoque, use a versão mais barata, não anuncie nada."
 ```
@@ -131,14 +131,14 @@ campos:
     grade:
       colunas: ["É a minha"]
       linhas: ["Nenhum retorno à vista", "Uma semana perdida que vira duas", "Tédio do formato", "Comparação com outras pessoas"]
-  - rotulo: "Por que essa causa (quando ela já apareceu para você?) e o antídoto, como uma ação"
+  - rotulo: "Quando essa causa já apareceu para você, e o antídoto, como uma ação"
     exemplo: "O que exatamente você faz quando sentir isso. Uma confeiteira: “Abro o painel do mês e leio as mensagens com dúvida, em vez de olhar as curtidas.”"
     linhas: 4
   - rotulo: "O seu protocolo, em quatro linhas"
     exemplo: "Uma professora de piano: “1. Reduzo de duas peças para uma, e de uma para o áudio de noventa segundos. 2. Volto ao estoque no domingo à tarde, na página das dúvidas dos pais. 3. Gravo sem regravar. 4. Não anuncio nada.”"
     linhas: 4
   - rotulo: "Uma frase para você ler no quarto mês"
-    exemplo: "Específica sobre a curva, e não motivacional. O que você precisa lembrar quando achar que não está funcionando?"
+    exemplo: "Específica sobre a curva, e não motivacional. Uma nutricionista: “Se o painel tem dúvidas reais, o conjunto está trabalhando, mesmo que ninguém tenha marcado consulta citando uma peça.”"
     linhas: 3
 criterios:
   - A peça mínima do campo 01 cabe em cinco minutos num dia ruim.
@@ -154,7 +154,7 @@ regras:
   - {regra: "Mostre o sinal de que está no caminho.", porque: "Um sinal pequeno e verificável, antes do resultado, é o que ajuda a pessoa a não desistir na hora errada."}
   - {regra: "Não prometa o resultado.", porque: "Dizer que o vale é normal é diferente de garantir o fim dele. Em áreas regulamentadas, a diferença é também uma regra."}
 faca:
-  - "Uma fonoaudióloga: “Por volta do terceiro mês, muitos pais acham que o filho parou de avançar. Repare se ele entende mais palavras do que fala: isso costuma ser consolidação. Se nem isso mudou em um mês, a gente reavalia.”"
+  - "Uma fonoaudióloga: “Por volta do terceiro mês, muitos pais acham que o filho parou de avançar. Repare se ele entende hoje pedidos que não entendia no começo, ou se tenta mais palavras, mesmo erradas: isso costuma ser consolidação. Se nem isso mudou em um mês, a gente reavalia.”"
   - Dizer o que a pessoa pode observar, e não só o que ela deve esperar.
   - Contar um caso composto de alguém que atravessou o vale.
 evite:
@@ -186,12 +186,12 @@ faca_antes: true
     - A fase em que o público se cansa de ver peças muito parecidas entre si.
     - A perda de seguidores que vem depois de uma peça com opinião forte.
   correta: 1
-  explicacao: É a forma normal da curva, e parece exatamente um fracasso. Quem para ali costuma parar pouco antes do ponto em que o conjunto começaria a trabalhar.
+  explicacao: É a forma normal da curva, e parece exatamente um fracasso. Quem para ali para antes de saber se o conjunto começaria a trabalhar.
 - pergunta: Por que a peça mínima impede a quebra da sequência?
   opcoes:
     - Porque é mais curta e, por isso, tende a ser mais lida e compartilhada pelo público.
     - Porque substitui de uma vez por todas o formato-base, que custa caro demais.
-    - Porque evita a primeira semana vazia, e a sequência quebra na segunda.
+    - Porque evita a primeira semana vazia, que é a que puxa a segunda.
     - Porque as plataformas premiam quem publica toda semana, qualquer que seja a peça.
   correta: 2
   explicacao: Uma semana ruim sem peça faz a seguinte parecer exigir explicação ou recomeço, e o recomeço vai sendo adiado. A peça mínima mantém a semana ocupada, sem zerar.

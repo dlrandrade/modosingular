@@ -1,0 +1,62 @@
+capitulo: 29
+iteracao: 3
+notas: {metodo: 9.3, voz: 9.1, originalidade: 9.0, clareza: 9.1, ritmo: 9.1, concretude: 9.2,
+        coerencia: 8.7, aplicabilidade: 9.2, impresso: 9.0, honestidade: 8.9}
+bloqueadores: []
+pontos_fortes:
+  - "As correções da r2 entraram todas e sem resíduo visível: a doença saiu da lista e virou exceção declarada ('Há meses de outra natureza, como um luto ou uma doença, sua ou de alguém próximo. Nesses, parar é legítimo'); a janela do vale agora depende da área, com o motivo de ofício do Caio ('Reforma é decisão lenta: entre ler um texto e chamar um arquiteto, uma pessoa pode levar meses'); o fecho troca a folha presa na parede pelo caderno que acaba em dezembro, gesto novo no livro e que ecoa a abertura; a peça mínima se distingue do silêncio do cap. 24 e da legenda reprovada no cap. 20."
+  - "Cena de abertura com detalhe de ofício exato e variado (serralheria que quebra máquina, laje do terraço que precisa estar seca para a impermeabilização, síndico que exige o RRT), e uma peça mínima que é ao mesmo tempo gesto de protocolo e critério de arquiteto: 'laje úmida não recebe manta, nem que a obra atrase um mês'."
+  - "A distinção entre números barulhentos e silenciosos ('Quem mede o vale pelos números barulhentos conclui que nada está acontecendo. Quem mede pelos silenciosos vê pouca coisa, mas vê que alguma coisa está.') e o teste do protocolo ('cada linha pode ser cumprida por alguém cansado') são formulações próprias, memoráveis e imediatamente utilizáveis."
+  - "A rede cumpre a regra de ouro com inteligência: transpõe o vale para o processo do cliente, dá saída a quem atende numa visita só ('procure o vale no que o cliente faz depois dela') e proíbe expressamente 'Falar do seu próprio vale como produtor de conteúdo'."
+problemas:
+  - criterio: coerencia
+    trecho: "e uma linha: laje úmida não recebe manta, nem que a obra atrase um mês"
+    por_que: "A foto é de arquivo, mas o assunto sai da obra em curso e na semana dela: é a laje de Barão Geraldo, atrasada pela chuva naquele mesmo outubro. O livro fixou que 'peça que parte de um atendimento nunca sai na semana dele' (cap. 13) e, no cap. 30, mostra o Caio guardando fotos 'na pasta das que só saem depois da entrega'. Pior, para o cliente de Barão Geraldo, que está esperando, a frase publicada na semana do atraso soa como recado público sobre a obra dele. O leitor que copia o modelo aprende a transformar o problema do cliente da semana em peça."
+    correcao: "Fazer a linha vir do caderno, da obra entregue: 'Uma foto do arquivo, de uma laje de outra obra, entregue em março e com a autorização do dono assinada, e uma linha que tinha ficado anotada no caderno desde aquela obra: laje úmida não recebe manta, nem que a obra atrase um mês.' Se possível, trocar também a segunda peça ('um caixilho de ferro recuperado'), que coincide com as janelas da cliente do Cambuí, atrasadas na mesma semana, por outro assunto do arquivo (um batente, uma bandeira de vidro)."
+  - criterio: honestidade
+    trecho: "Quem para no quarto mês desiste antes do ponto em que a coisa começaria a funcionar."
+    por_que: "É a promessa que a própria rede proíbe ao leitor ('Dizer que o vale é normal é diferente de garantir o fim dele'): afirma, para qualquer pessoa, que depois do quarto mês a coisa funcionaria. O mesmo resíduo sobrevive em dois lugares que a correção da r2 não alcançou: o conceito ('Quem depende de motivação para publicar para justamente antes dele') e o gabarito da questão 01 ('Quem para ali costuma parar pouco antes do ponto em que o conjunto começaria a trabalhar'), que ainda diz 'pouco antes', justamente o que a r2 mostrou ser falso para o Caio (faltavam cinco meses). Somam-se 'E os resultados, quase sempre, ainda não apareceram' e 'Ele costuma voltar menor', afirmados sem base."
+    correcao: "P. 40: ancorar no Caio: 'Se tivesse parado no quarto mês, Caio teria desistido cinco meses antes do primeiro cliente.' Conceito, porque: 'O efeito acumulado que traz clientes, quando vem, costuma aparecer depois de meses. Quem depende de motivação para publicar tende a parar antes de saber.' Gabarito 01: 'É a forma normal da curva, e parece exatamente um fracasso. Quem para ali para antes de saber se o conjunto começaria a trabalhar.' P. 111: 'Ele pode voltar, em outros momentos'."
+  - criterio: coerencia
+    trecho: "Caio chegou a escrever uma legenda que começava por"
+    por_que: "A legenda começa por 'sumido por aqui por causa da correria das obras', mas na segunda semana de outubro o Caio não tinha sumido: publicara a peça mínima na primeira quinta e, segundo a abertura, 'Na semana seguinte, fez igual'. A tentação mostrada não corresponde à situação, e a lição da quarta linha fica apoiada num anúncio que ele não teria motivo para fazer."
+    correcao: "Trocar a legenda por um anúncio de redução, que é a tentação real de quem está publicando menos: 'Caio chegou a escrever uma legenda que começava por “peças mais curtas por aqui até as obras voltarem a andar”. Apagou.' O resto do parágrafo continua valendo (anúncio transforma a semana fraca em acontecimento)."
+  - criterio: coerencia
+    trecho: "Em novembro, as três obras voltaram a andar, uma de cada vez, e a quinta-feira voltou às cinco linhas."
+    por_que: "As cinco linhas já tinham voltado em outubro: as duas peças do estoque, na terceira e na quarta quinta, 'viraram cinco linhas'. O parágrafo da p. 69 diz o mesmo ('segurou a quinta-feira até que as cinco linhas voltassem a caber'). O que volta em novembro é a rotina da quarta-feira, não o formato."
+    correcao: "'Em novembro, as três obras voltaram a andar, uma de cada vez, e a seleção voltou para a quarta-feira à noite.'"
+  - criterio: concretude
+    trecho: "Repare se ele entende mais palavras do que fala: isso costuma ser consolidação."
+    por_que: "Detalhe de ofício que uma fonoaudióloga não assinaria: em criança com atraso de fala, entender mais do que fala é a condição de partida, não sinal de avanço. O exemplo, que é o modelo da regra 2 ('Mostre o sinal de que está no caminho'), entrega um sinal que não mede mudança nenhuma (lição cap09-r1)."
+    correcao: "'Uma fonoaudióloga: “Por volta do terceiro mês, muitos pais acham que o filho parou de avançar. Repare se ele entende hoje pedidos que não entendia no começo, ou se tenta mais palavras, mesmo erradas: isso costuma ser consolidação. Se nem isso mudou em um mês, a gente reavalia.”'"
+  - criterio: voz
+    trecho: "Não era a legenda de uma linha que o capítulo 20 reprovou: a frase tinha a régua dele dentro"
+    por_que: "Na seção 'Por que as pessoas param' as antíteses se acumulam acima do teto de uma por seção (lição cap01-r1): 'A sequência não quebra na primeira semana vazia. Quebra na segunda'; 'Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém'; 'Ela não se confunde com o silêncio que o capítulo 24 aceita'; e esta. Cada uma se justifica sozinha; juntas, dão ao trecho a cadência de texto de curso."
+    correcao: "Manter a da sequência (é a tese da seção) e desarmar as outras. P. 69: 'A peça mínima de Caio era uma foto do arquivo de obras entregues e uma frase, a que ele diria ao cliente se tivesse um minuto, com a régua dele dentro; por isso passava no teste que o capítulo 20 aplicou às legendas de uma linha.' Nota: 'O silêncio que o capítulo 24 aceita tem outra função: impede que alguém preencha a semana com o que não é seu. A peça mínima é sua, só menor.'"
+  - criterio: concretude
+    trecho: "A comparação é mais silenciosa. Chega quando alguém da mesma área aparece com números maiores"
+    por_que: "Das quatro causas, é a única sem cena, caso ou detalhe: duas frases genéricas. A r1 já sugeria usar o espaço liberado para dar a ela uma imagem. Para o leitor-alvo (especialista de 30 a 60 anos que desconfia de 'marketing de palco'), é a causa mais provável, e fica sem exemplo."
+    correcao: "Uma frase de ofício do Caio, sem nomear ninguém: 'Para o Caio, chegou numa tarde de agosto, com o perfil de um escritório de interiores de São Paulo que publicava todo dia e tinha trinta vezes os seguidores dele; fechou o aplicativo antes de terminar de rolar.' Depois, o remédio já escrito."
+  - criterio: aplicabilidade
+    trecho: "Específica sobre a curva, e não motivacional. O que você precisa lembrar quando achar que não está funcionando?"
+    por_que: "O campo 05 é o único da oficina sem exemplo de profissão, e o critério correspondente ('fala da curva, e não de força de vontade') é o menos óbvio de cumprir: o leitor sabe o que evitar, mas não vê o que escrever."
+    correcao: "'Específica sobre a curva, e não motivacional. Uma nutricionista: “Se o painel tem dúvidas reais, o conjunto está trabalhando, mesmo que ninguém tenha marcado consulta citando uma peça.”'"
+  - criterio: clareza
+    trecho: "Se nada de concreto mudou, mantenha o rumo mais um mês."
+    por_que: "Ambíguo: 'nada de concreto mudou' pode ser lido como 'os números não se mexeram', o que, no vale, é justamente o que acontece, e o leitor pode concluir o oposto do que a nota quer."
+    correcao: "'Se o painel não piorou e a vontade de mudar tem a cara da sua causa de sempre, mantenha o rumo mais um mês.'"
+edicoes_de_linha:
+  - "uma quinta assim teria sido o fim de mais um. -> uma quinta assim teria sido o fim de mais um formato. (o referente de 'mais um' fica longe demais)"
+  - "e são eles que se conferem de manhã -> e são os que você confere de manhã (o 'se' passivo endurece a frase; o tratamento do livro é 'você')"
+  - "O tédio do formato o capítulo 20 já resolveu com uma conta -> O capítulo 20 já resolveu o tédio do formato com uma conta (a topicalização trava a leitura em voz alta)"
+  - "nada disso teria passado pelo Caio dos vídeos cinematográficos, que editava seis vídeos em onze fins de semana -> nada disso teria passado pelo Caio dos vídeos cinematográficos, que levou onze fins de semana para editar seis"
+  - "Guardar 1: Nos primeiros meses, o esforço é real e o retorno ainda não aparece, e essa forma normal da curva parece fracasso. -> Nos primeiros meses, o esforço é real e o retorno ainda não aparece: é a forma normal da curva, e ela se parece com fracasso."
+  - "Verificação 02, opção c: Porque evita a primeira semana vazia, e a sequência quebra na segunda. -> Porque evita a primeira semana vazia, que é a que puxa a segunda. (na forma atual, a correta parece contradizer a si mesma)"
+  - "Figura 29.1: a ressalva continua tripla (selo 'esquema ilustrativo', unidade 'sem escala' e legenda 'Esquema ilustrativo, sem medição.'), item da r2 não resolvido -> cortar 'Esquema ilustrativo, sem medição.' da legenda e manter selo e 'sem escala'."
+  - "Campo 03: Por que essa causa (quando ela já apareceu para você?) e o antídoto, como uma ação -> Quando essa causa já apareceu para você, e o antídoto, como uma ação (tira a pergunta entre parênteses do rótulo)"
+diagramacao:
+  - "p. 14: cerca de 40% da página em branco depois do parágrafo de abertura de 'Por que as pessoas param'; a tabela 29.1 foi inteira para a p. 15. Branco evitável: deixar o parágrafo 'A primeira causa se trata…' vir antes da tabela (ele não depende dela) ou permitir que a tabela comece na p. 14 com o cabeçalho repetido."
+  - "p. 13: cerca de quatro linhas em branco no pé, depois da figura 29.1; o parágrafo 'Caio atravessou o vale dele…' poderia começar ali e quebrar."
+  - "p. 17: cerca de quatro linhas em branco no pé; a nota 'A troca de rumo no terceiro mês' (indivisível) vai para a p. 18. Aceitável, mas testar se as três primeiras linhas de 'Depois do vale' não caberiam antes da nota trocando a ordem."
+  - "p. 25: o checklist fica sozinho, com cerca de 60% da página em branco, seguido de verso em branco (p. 26). Aceitável como fim de capítulo; registrar só para o QA do livro."
+veredito: "Capítulo no limiar da aprovação, com cena, protocolo e rede de nível alto e as correções da r2 bem absorvidas; faltam a linha do Caio que sai da obra em curso na semana dela, a promessa residual de que o vale termina (prosa, conceito e gabarito) e três pequenas incoerências de enredo (o 'sumido' que não sumiu, as cinco linhas que já tinham voltado, o sinal da fonoaudióloga)."
