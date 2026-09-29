@@ -14,7 +14,7 @@ O parágrafo não falava das oficinas. Era, com outras palavras, a resposta que 
 
 Era o terceiro parágrafo daquela semana. Janeiro sempre tinha sido o mês que derrubava tudo. As rescisões adiadas das festas chegam juntas, e o escritório passa o mês preparando as defesas que vão vencer todas no dia 21, quando os prazos voltam a correr. Quando montou o próprio enunciado, meses antes, Otávio tinha escrito ao lado do ritmo, uma peça por semana, duas palavras que já eram um aviso: janeiro manda.
 
-Nas três primeiras semanas daquele janeiro, Otávio assinou dezessete pareceres, quase todos sobre rescisões que os clientes tinham adiado para depois das festas. Houve dias em que ele almoçou no carro, entre uma empresa e outra. Em nenhum desses dias ele teria encontrado duas horas para escrever uma peça. Em todos eles, terminou pelo menos um parecer.
+Nas três primeiras semanas daquele janeiro, Otávio assinou vinte e dois pareceres, quase todos sobre rescisões que os clientes tinham adiado para depois das festas. Houve dias em que ele almoçou no carro, entre uma empresa e outra. Em nenhum desses dias ele teria encontrado duas horas para escrever uma peça. Em todos eles, terminou pelo menos um parecer.
 
 Até dezembro, a peça da semana tinha hora marcada. Sexta-feira, depois da última audiência, das três às cinco, ele se sentava com o caderno de campo e uma folha pautada, escolhia um assunto, escrevia à mão, riscava, passava a limpo e publicava. Funcionou em setembro, outubro e novembro. Em dezembro, duas sextas caíram: uma audiência de conciliação que avançou pela tarde e a confraternização do escritório. As duas peças não saíram, e janeiro ainda nem tinha começado.
 
@@ -105,13 +105,13 @@ series:
 legenda: Os números são do Otávio. O que decidiu a diferença foi menos a quantidade de minutos e mais o formato do tempo que cada desenho exigia.
 ```
 
-No fim de janeiro, Helena passou pela sala dele numa sexta e perguntou quantas peças tinham saído no mês. Quatro, em quatro semanas, no mês que, no ano anterior, tinha derrubado tudo. Na pasta dos versos havia ainda dezenove que não tinham sido escolhidos. Otávio grampeou os versos num maço e escreveu na primeira folha, a lápis: estoque.
+No fim de janeiro, Helena passou pela sala dele numa sexta e perguntou quantas peças tinham saído no mês. Quatro, em quatro semanas, no mês que, no ano anterior, tinha derrubado tudo. Na pasta dos versos havia ainda vinte e sete que não tinham sido escolhidos. Otávio grampeou os versos num maço e escreveu na primeira folha, a lápis: estoque.
 
 ## O que sobra
 
 Nem todo parecer deixa um verso. Alguns casos repetem uma lição que ele já escreveu três vezes, e outros são tão particulares que nenhuma generalização os salva sem expor o cliente. Nesses, Otávio fecha a pasta sem virar a folha e sem se cobrar por isso. O ritual não exige um parágrafo por parecer. Exige que a pergunta seja feita ao fim de cada um: isto ensina alguma coisa a quem não é o cliente?
 
-O maço de dezenove versos teve um uso que ele não tinha previsto. Helena o leu numa tarde de fevereiro e separou as folhas em dois montes. Oito dos dezenove falavam, de um jeito ou de outro, de controle de horário: banco de horas, ponto britânico, hora extra que ninguém anotou. Era o assunto que mais tinha aparecido nos pareceres de janeiro, e Otávio não tinha percebido enquanto os escrevia. Helena escreveu na folha de cima dos oito, a lápis: controle de horário.
+O maço de vinte e sete versos teve um uso que ele não tinha previsto. Helena o leu numa tarde de fevereiro e separou as folhas em dois montes. Oito dos vinte e sete falavam, de um jeito ou de outro, de controle de horário: banco de horas, ponto britânico, hora extra que ninguém anotou. Era o assunto que mais tinha aparecido nos pareceres de janeiro, e Otávio não tinha percebido enquanto os escrevia. Helena escreveu na folha de cima dos oito, a lápis: controle de horário.
 
 ```guardar
 - A peça como evento disputa tempo com o trabalho e perde. A peça como consequência se prende a algo que ia acontecer de qualquer jeito.

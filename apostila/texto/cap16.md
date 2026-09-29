@@ -8,7 +8,7 @@ ilustracao: colheita
 legenda_ilustracao: Maduro há muito tempo. Nunca colhido.
 ---
 
-A cliente nova chegou ao escritório numa segunda-feira de manhã com uma pasta azul debaixo do braço. Era dona de duas academias em Boa Viagem, com onze instrutores, e tinha acabado de receber a notificação de uma ação trabalhista. Um instrutor que tinha saído em março pedia o reconhecimento do vínculo de emprego, horas extras e férias. Ela abriu a pasta sobre a mesa, com a calma de quem traz a solução junto com o problema, e mostrou o contrato de prestação de serviços, assinado, com firma reconhecida em cartório. "Ele era autônomo. Está tudo aqui."
+A cliente nova chegou ao escritório numa segunda-feira de manhã com uma pasta azul debaixo do braço. Era dona de duas academias em Boa Viagem, com nove instrutores, e tinha acabado de receber a notificação de uma ação trabalhista. Um instrutor que tinha saído em março pedia o reconhecimento do vínculo de emprego, horas extras e férias. Ela abriu a pasta sobre a mesa, com a calma de quem traz a solução junto com o problema, e mostrou o contrato de prestação de serviços, assinado, com firma reconhecida em cartório. "Ele era autônomo. Está tudo aqui."
 
 Otávio olhou o contrato por alguns segundos, fechou a pasta com cuidado e disse a frase que diz a todo cliente novo, há quase vinte anos: "Contrato assinado não é prova de nada."
 

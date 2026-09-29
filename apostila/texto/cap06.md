@@ -130,7 +130,7 @@ unidade: anotações acumuladas no caderno
 legenda: Esquema ilustrativo de um estoque que cresce com vinte segundos de cada vez. Com algumas semanas de caderno, o problema pode deixar de ser falta de ideia.
 ```
 
-Naquela noite, somadas a terça reconstruída e a quarta, o caderno do Otávio tinha onze linhas. Três semanas depois, tinha trinta e poucas. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a de um dono de padaria que resumia um mal-entendido inteiro, “se ele assinou, não reclama depois”, e a pergunta do estagiário sobre os recibos, que nenhum advogado experiente teria coragem de fazer.
+Naquela noite, somadas a terça reconstruída e a quarta, o caderno do Otávio tinha dez linhas. Três semanas depois, tinha trinta e poucas. Algumas eram inúteis, e ele sabia disso. Outras eram tão boas que ele se perguntou como tinha passado anos sem registrá-las: a de um dono de padaria que resumia um mal-entendido inteiro, “se ele assinou, não reclama depois”, e a pergunta do estagiário sobre os recibos, que nenhum advogado experiente teria coragem de fazer.
 
 Numa tarde de sexta, depois da última audiência, mostrou duas páginas do caderno a Helena. Ela leu em silêncio e devolveu com uma frase: "Isso aqui dá para o ano inteiro." Otávio desconfiou do entusiasmo, como desconfia de quase tudo, mas voltou a guardar o caderno no bolso com um cuidado novo. Helena começou o dela na semana seguinte, num caderno igual, que pediu a ele que comprasse.
 

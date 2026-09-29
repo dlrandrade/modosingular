@@ -38,7 +38,7 @@ degraus:
 legenda: Cada degrau acontece na cabeça de quem lê. Os números mostram quantos viram; nenhum mostra quem já chegou ao quarto.
 ```
 
-Os três primeiros degraus estão na figura; é o quarto que importa. Nele, a pessoa sabe como você pensa e consegue adivinhar o que você diria sobre um assunto novo, e é ali que a preferência se forma. A pessoa familiar lê, concorda ou discorda em pensamento, e vai embora sem deixar rastro. Não curte porque não curte nada, não comenta porque não é do temperamento dela, não responde porque não tem pergunta. Quando a necessidade aparece, no quinto degrau, ela não pesquisa opções. Já tem uma.
+Os três primeiros degraus dispensam explicação; é o quarto que importa. Nele, a pessoa sabe como você pensa e consegue adivinhar o que você diria sobre um assunto novo, e é ali que a preferência se forma. A pessoa familiar lê, concorda ou discorda em pensamento, e vai embora sem deixar rastro. Não curte porque não curte nada, não comenta porque não é do temperamento dela, não responde porque não tem pergunta. Quando a necessidade aparece, no quinto degrau, ela não pesquisa opções. Já tem uma.
 
 O quarto degrau aparece em outro lugar: nas primeiras frases de quem chega. "Leio os seus textos." "Aquele texto sobre o domingo." "Você falou uma vez de pedir ajuda." Lúcia passou a ouvir essas frases de outro jeito: não como elogio, mas como o rastro que o perfil não mostrava.
 

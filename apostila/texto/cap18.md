@@ -32,7 +32,7 @@ Pense no que um cliente conta a um amigo depois de uma boa consulta. Não repete
 
 ```conceito
 termo: Critério
-definicao: A régua que você usa para escolher entre duas opções defensáveis: a sua, a de quem decide, diferente do enunciado do capítulo 12. É a camada mais funda do repertório, a que o capítulo 9 pôs na base: dois profissionais com a mesma informação decidem diferente porque têm critérios diferentes.
+definicao: A régua que você usa para escolher entre duas opções defensáveis: a sua, a de quem decide, o seu, o de quem decide, e não o que a peça devolve a quem lê (capítulos 13 e 15). É a camada mais funda do repertório, a que o capítulo 9 pôs na base: dois profissionais com a mesma informação decidem diferente porque têm critérios diferentes.
 porque: O cliente não consegue avaliar a sua técnica, mas consegue avaliar o seu raciocínio. O critério é a prova de competência que um leigo sabe ler.
 ```
 

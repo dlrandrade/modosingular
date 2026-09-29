@@ -117,7 +117,7 @@ Em novembro, numa quarta-feira, uma paciente nova chegou sem indicação. Tinha 
 
 Depois da avaliação, Renata reconheceu o padrão do Marcos e encaminhou a paciente a um reumatologista antes de começar o tratamento. Ela voltou três semanas depois, com o diagnóstico e o pedido médico. O Marcos tinha chegado apesar do perfil; ela tinha chegado por causa dele. Na agenda, ao lado do nome dela, Renata escreveu: perfil, sem indicação.
 
-No fim do ano, refez a conta. De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, sem a troca de setembro, talvez nunca ouvissem o nome dela.
+No fim do ano, refez a conta. De trinta e seis pacientes novos no trimestre, quatro tinham chegado pelo perfil sem que ninguém os mandasse. Era pouco perto das indicações, que continuavam sendo a maior parte, e Renata não esperava outra coisa. Mas eram quatro pessoas que, sem a troca de setembro, talvez nunca ouvissem o nome dela.
 
 ```guardar
 - A vitrine confirma quem já foi indicado. A boca de funil começa a decisão de quem ainda não conhece você, sem depender de ninguém.

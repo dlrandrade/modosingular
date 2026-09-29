@@ -1,6 +1,6 @@
 # D. Calendário dos trinta dias
 
-Anote aqui a data em que concluiu cada capítulo, o tempo real que a oficina levou e os pontos do checklist. Em poucas semanas, esta página vira o retrato mais honesto do seu ritmo, e é com ela que você vai calibrar o capítulo 8.
+Anote aqui a data em que concluiu cada capítulo, o tempo real que a oficina levou e os pontos do checklist. Em poucas semanas, esta página vira o retrato mais honesto do seu ritmo.
 
 Lembre os dois limites: não mais de cinco capítulos no mesmo dia, e nunca menos de sete dias para o livro inteiro.
 

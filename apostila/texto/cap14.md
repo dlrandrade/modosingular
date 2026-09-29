@@ -104,7 +104,7 @@ series:
 legenda: Esquema ilustrativo, feito só com aritmética. Catorze perguntas com três níveis e cinco com dois dão 52 peças, um ano a uma peça por semana. Se o caderno acrescenta uma pergunta nova a cada duas semanas, e cada uma rende ao menos uma peça, o estoque cai pela metade da velocidade.
 ```
 
-No Recife, Otávio fez o próprio inventário sem sair da caixa de entrada. As perguntas estavam no campo de assunto dos e-mails, escritas pelos próprios clientes, com a pontuação de quem tem pressa: "Posso descontar o uniforme?", "Atestado de um dia conta?". Achou catorze no último semestre e completou dezessete na semana seguinte. Pôs no topo a de um síndico que queria saber se podia demitir o porteiro na volta de uma cirurgia, porque era a que ele mais tinha respondido em pé, no corredor do fórum, entre uma audiência e outra.
+No Recife, Otávio fez o próprio inventário sem sair da caixa de entrada. As perguntas estavam no campo de assunto dos e-mails, escritas pelos próprios clientes, com a pontuação de quem tem pressa: "Posso descontar o uniforme?", "Atestado de um dia conta?". Achou nove no último semestre e completou treze na semana seguinte. Pôs no topo a de um síndico que queria saber se podia demitir o porteiro na volta de uma cirurgia, porque era a que ele mais tinha respondido em pé, no corredor do fórum, entre uma audiência e outra.
 
 O inventário resolve também a cena que o capítulo 6 descreveu: o horário reservado, o celular aberto e nenhuma ideia. Com um inventário, a hora reservada começa com o caderno aberto, a pergunta da semana escolhida e uma única decisão: em que nível respondê-la. É uma decisão de dois minutos.
 
@@ -136,7 +136,7 @@ campos:
     exemplo: "O que na informação disponível, na experiência das pessoas ou no seu mercado gera essa pergunta. Uma farmacêutica: “posso partir o comprimido?” nasce de receitas com doses que a farmácia não tem."
     linhas: 4
   - rotulo: "Nível 3: o que a pergunta deixa de fora, e qual seria a pergunta certa"
-    exemplo: "Uma corretora de seguros: em vez de “quanto custa o seguro do carro?”, “o que o meu seguro não cobre?”"
+    exemplo: "Uma arquiteta paisagista: em vez de “quanto custa o seguro do carro?”, “o que o meu seguro não cobre?”"
     linhas: 4
   - rotulo: "Nesta resposta, há algo que você desaconselha? Anote numa frase"
     exemplo: "É ali que as posições costumam aparecer. Uma professora de piano: “Desaconselho teclado de 61 teclas para quem vai estudar a sério, mesmo sabendo que é o que cabe no orçamento de muitas famílias.”"

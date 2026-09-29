@@ -38,6 +38,7 @@ Tabela: A linha que divide as etapas
 | Ter a opinião | Nunca | Opinião delegada é opinião de outra pessoa |
 | Falar ou rascunhar | Nunca | O seu modo é parte do conteúdo |
 | Decidir o critério | Nunca | A régua é o que o cliente procura |
+| Revisar a versão final | Nunca | Só você sabe se falaria assim |
 | Transcrever | Sim | É uma operação mecânica |
 | Cortar e ordenar | Sim, sem trocar palavras | É técnica, e se aprende |
 | Formatar e agendar | Sim | É acabamento e logística |
@@ -87,7 +88,7 @@ A revisão mudou de lugar e de forma. Deixou de ser uma aprovação em bloco, ro
 
 O volume se ajustou pelo uso. Dos três formatos que Bianca tirava de cada áudio, dois continuaram: o carrossel, agora com as frases da transcrição e nenhuma outra, e o vídeo com a própria voz de Renata e legenda. A frase de destaque sobre fundo azul saiu, porque nenhuma frase de Renata fazia sentido arrancada do raciocínio. O perfil passou de seis para quatro peças por semana. O tempo de Renata em cada peça caiu para uns quinze minutos: o áudio no começo e a leitura no fim, os dois lugares em que a presença dela importa.
 
-Bianca também propôs uma regra. Além das quatro, uma quinta peça, curta, seria feita inteira por Renata toda semana, do áudio à publicação, sem nenhuma mão de fora. Serviria de controle. Se essa peça começasse a soar muito diferente das outras, era sinal de que a edição tinha ido longe demais outra vez. Nas primeiras semanas, a diferença era grande. Em junho, já quase não se percebia.
+Bianca também propôs uma regra. Uma das quatro, curta, seria feita inteira por Renata toda semana, do áudio à publicação, sem nenhuma mão de fora. Serviria de controle. Se essa peça começasse a soar muito diferente das outras, era sinal de que a edição tinha ido longe demais outra vez. Nas primeiras semanas, a diferença era grande. Em junho, já quase não se percebia.
 
 ```figura
 tipo: linha

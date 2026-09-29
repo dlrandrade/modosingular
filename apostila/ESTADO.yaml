@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-29 08:35
+# atualizado: 2026-09-29 09:01
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -1244,6 +1244,13 @@ decisoes:
   20 explica a conta do enunciado; cap. 29 ''julho''. Plano do ORQUESTRADOR alinhado ao texto (16 meses no cap.
   25, 7 meses no cap. 27, arco da Lúcia: copiava a voz, leva a estrutura).'
 - '2026-09-29: Autor na capa e na folha de rosto: Daniel Luzz (informado pelo dono).'
+- '2026-09-29: F4, coerência C (livro inteiro): 33 itens (1 alta, 15 médias, 17 baixas), 32 aplicados: linguagem
+  = modo no cap. 5 e teste renomeado no cap. 7; régua do cap. 11 virou ''guia''; captura, peça mínima, inventário,
+  corpus, calendário da seleção esclarecidos; números de personagens diferentes descolidos (onze linhas, dezenove,
+  dezessete, onze funcionários, sete de dez); regras do apêndice de IA alinhadas aos caps. 4, 23 e 24; ritmo de
+  estudo em 40 min a 1h30; figurantes trocados nos caps. 14, 29 e 8. Não aplicado: renomear ''régua'' dentro do
+  cap. 12 (seção e figura das cinco perguntas), para não reabrir capítulo aprovado; o cap. 18 já distingue o critério
+  do profissional do que a peça devolve.'
 pendencias:
 - 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de
   branco antes de box indivisível).'

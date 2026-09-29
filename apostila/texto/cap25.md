@@ -90,7 +90,7 @@ Quando alguém constrói, peça por peça, um acervo público do que pensa, expl
 
 A peça das janelas chegou à mulher por um link. Quando Caio passou a perguntar como as pessoas o tinham encontrado, o link mandado por alguém apareceu mais vezes do que a busca: quem leu se lembra da peça quando uma pessoa próxima tem o problema, e manda. Isso tem uma consequência para quem escreve. A peça precisa fazer sentido sozinha, fora da semana em que foi publicada, sem depender de "como eu disse ontem" ou de uma data. A sobrinha pôde mandar o texto porque ele se explicava sem ela.
 
-## O inventário
+## O levantamento
 
 Para que a biblioteca funcione, ela precisa ser mais do que um fluxo de peças em ordem de data. Caio fez, na semana seguinte, o que nunca tinha feito com o acervo inteiro: releu tudo o que tinha publicado em dois anos, com um caderno ao lado, e anotou cada peça pelo assunto, deixando a data de lado. Descobriu que tinha escrito onze vezes sobre paredes, contando as de umidade, sete sobre pisos, quatro sobre janelas e nenhuma sobre banheiros, que entravam em metade das obras dele.
 
@@ -115,7 +115,7 @@ Caio escolheu, a partir do caderno, quatro assuntos-âncora: paredes, pisos, jan
 
 A vontade de não voltar a um tema, porque "já falei disso", é o erro simétrico ao da peça isolada. A mulher das janelas tinha lido vinte e um textos numa noite sem reclamar de nenhuma repetição; o que ela notou foi a coerência. A repetição dos mesmos assuntos, por ângulos diferentes, faz alguém associar um nome a um problema.
 
-Em setembro, Caio publicou a primeira peça sobre banheiros: um ralo de 1974 que ele tinha mandado manter, porque o caimento do piso era perfeito e refazer custaria mais do que trocar a grelha. Teve dezenove curtidas, que ele só viu semanas depois. Anotou no caderno, na página dos banheiros, e passou para a quinta seguinte.
+Em setembro, Caio publicou a primeira peça sobre banheiros: um ralo de 1974 que ele tinha mandado manter, porque o caimento do piso era perfeito e refazer custaria mais do que trocar a grelha. Teve dezoito curtidas, que ele só viu semanas depois. Anotou no caderno, na página dos banheiros, e passou para a quinta seguinte.
 
 No mesmo caderno, escreveu o critério novo, que substituía o placar das sextas: a cada três meses, reler o acervo por assunto e perguntar duas coisas. Algum assunto-âncora ficou sem peça nova no trimestre? Alguém chegou citando uma peça?
 
@@ -128,7 +128,7 @@ Os seis vídeos cinematográficos, de antes das quintas, continuam publicados. N
 ```
 
 ```oficina
-titulo: O inventário do seu acervo
+titulo: O levantamento do seu acervo
 objetivo: Trocar a unidade de medida e organizar o que você já produziu como acervo.
 tempo: 30
 tempo_nota: percorrendo o perfil; reler tudo leva uma noite ou mais
@@ -172,7 +172,7 @@ evite:
   - Apagar peças antigas por achar que melhorou desde então.
 esqueleto:
   - {rotulo: "O problema", texto: "Dito com as palavras de quem o tem.", linhas: 2}
-  - {rotulo: "O caso", texto: "Uma situação da sua prática que mostra o problema, sem ninguém identificável e já liberada no calendário do capítulo 19.", linhas: 3}
+  - {rotulo: "O caso", texto: "Uma situação da sua prática que mostra o problema, sem ninguém identificável e já liberada pela seleção do capítulo 19.", linhas: 3}
   - {rotulo: "O critério", texto: "O que você decide, e por quê.", linhas: 2}
   - {rotulo: "O que vale sempre", texto: "A frase que ainda será verdade daqui a dois anos.", linhas: 2}
 roteiro: |

@@ -48,7 +48,7 @@ Cada momento protege os outros. Se a captura começa a julgar, fica cara e para 
 
 A primeira regra é um lugar só. Renata tinha três, e cada um parecia fazer sentido na hora: o gravador para quase tudo, o grupo de mensagens quando queria mandar a si mesma uma foto ou um link, o caderninho quando o celular morria. Dois lugares obrigam a lembrar em qual deles a coisa ficou, e é exatamente a memória que a captura existe para dispensar.
 
-As outras três o capítulo 6 já deu: vinte segundos por captura, meio minuto no limite, porque a captura precisa caber no intervalo entre um paciente que sai e outro que entra; nada de julgar; nada de estruturar, nem título, nem categoria, nem rascunho. Uma frase crua, com as palavras de quem falou, basta para que a lembrança volte inteira na hora de selecionar.
+As outras três o capítulo 6 já deu: vinte segundos por captura (o limite deste capítulo é meio minuto), porque a captura precisa caber no intervalo entre um paciente que sai e outro que entra; nada de julgar; nada de estruturar, nem título, nem categoria, nem rascunho. Uma frase crua, com as palavras de quem falou, basta para que a lembrança volte inteira na hora de selecionar.
 
 Para quem pensa falando, a frase crua tem uma forma própria. Os melhores áudios de Renata começam com a frase do paciente, repetida do jeito que ele disse, e o comentário dela vem depois, quando vem. "Ele disse: se eu parar de andar, a dor para." Às vezes, o áudio termina ali. Na seleção, é aquela frase que traz de volta a sala, o jeito da pessoa e o que ela queria entender.
 
@@ -127,7 +127,7 @@ Os antigos entram por outra porta, e nas primeiras semanas foram eles que encher
 
 Na terça seguinte, Renata gravou a peça a partir de um áudio do corredor que a visita ao arquivo tinha trazido: um paciente dizendo que a dor sumia quando ele se distraía e voltava quando lembrava dela. O áudio tinha dezoito segundos e seis semanas. A peça saiu na primeira tentativa, porque o trabalho de decidir o assunto estava feito desde sexta.
 
-Nas semanas seguintes, a seleção de sexta passou a durar entre oito e doze minutos. Algumas semanas tinham onze áudios, outras dezenove. Em nenhuma ficou sem as duas escolhidas. Depois do primeiro mês, quando as escolhidas das sextas começaram a vencer a data, a fila passou a se encher sozinha, e o arquivo antigo só foi preciso em duas semanas. Aos domingos, o fone ficava na bolsa.
+Nas semanas seguintes, a seleção de sexta passou a durar entre oito e doze minutos. Algumas semanas tinham onze áudios, outras dezesseis. Em nenhuma ficou sem as duas escolhidas. Depois do primeiro mês, quando as escolhidas das sextas começaram a vencer a data, a fila passou a se encher sozinha, e o arquivo antigo só foi preciso em duas semanas. Aos domingos, o fone ficava na bolsa.
 
 O paciente do repouso absoluto ela não encontrou nunca. Em outubro, um senhor de sessenta anos chegou ao consultório dizendo que o ortopedista tinha mandado andar, mas que ele achava mais seguro ficar deitado. Renata ouviu a mesma crença de julho, com outras palavras. No corredor, antes de chamar a paciente seguinte, gravou de novo, em vinte segundos. Na sexta, no carro, foi o primeiro da semana a ganhar nome: usar, repouso que piora. Ao lado, ela anotou a data de novembro.
 

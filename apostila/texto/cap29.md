@@ -63,7 +63,7 @@ A primeira causa se trata com os números certos, como a seção anterior mostro
 ```nota
 tipo: pratica
 titulo: A peça mínima
-texto: Defina, num mês bom, a menor peça que você consegue publicar num dia impossível: cinco minutos, no máximo, sem edição. Uma foto e uma linha. Um áudio de noventa segundos sobre uma captura. Uma pergunta respondida em três frases. Nas semanas em que o formato-base não couber, é ela que sai. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém. O silêncio que o capítulo 24 aceita tem outra função: impede que alguém preencha a semana com o que não é seu. A peça mínima é sua, só menor.
+texto: Defina, num mês bom, uma peça ainda menor que o formato-base, a que você consegue publicar num dia impossível: cinco minutos, no máximo, sem edição. Uma foto e uma linha. Um áudio de noventa segundos sobre uma captura. Uma pergunta respondida em três frases. Nas semanas em que o formato-base não couber, é ela que sai. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém. O silêncio que o capítulo 24 aceita tem outra função: impede que alguém preencha a semana com o que não é seu. A peça mínima é sua, só menor.
 ```
 
 A peça mínima de Caio era uma foto do arquivo de obras entregues e uma frase, a que ele diria ao cliente se tivesse um minuto, com a régua dele dentro; por isso passava no teste que o capítulo 20 aplicou às legendas de uma linha. O pior mês do capítulo 8 é o que se pode prever; outubro não estava em conta nenhuma. Faltou a quarta-feira da seleção, e sem ela não havia assunto. A peça mínima existe para esse mês, e só para ele, e segurou a quinta-feira até que as cinco linhas voltassem a caber.
@@ -138,7 +138,7 @@ campos:
     exemplo: "Uma professora de piano: “1. Reduzo de duas peças para uma, e de uma para o áudio de noventa segundos. 2. Volto ao estoque no domingo à tarde, na página das dúvidas dos pais. 3. Gravo sem regravar. 4. Não anuncio nada.”"
     linhas: 4
   - rotulo: "Uma frase para você ler no quarto mês"
-    exemplo: "Específica sobre a curva, e não motivacional. Uma nutricionista: “Se o painel tem dúvidas reais, o conjunto está trabalhando, mesmo que ninguém tenha marcado consulta citando uma peça.”"
+    exemplo: "Específica sobre a curva, e não motivacional. Uma massoterapeuta: “Se o painel tem dúvidas reais, o conjunto está trabalhando, mesmo que ninguém tenha marcado consulta citando uma peça.”"
     linhas: 3
 criterios:
   - A peça mínima do campo 01 cabe em cinco minutos num dia ruim.

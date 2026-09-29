@@ -35,7 +35,7 @@ unidade: minutos de trabalho por peça, medidos pela Lúcia
 series:
   - {rotulo: "Partindo de uma crença anotada: 55 min", valor: 55, nota: "O detalhe já existe. O trabalho é converter."}
   - {rotulo: "Criada do zero: 180 min, sem terminar", valor: 180, nota: "Três horas, e o texto não ficou pronto. Inventar contexto e exemplo custa mais, e sai genérico."}
-legenda: Os números são da Lúcia, e não uma regra. O seu caderno de cronometragem, do capítulo 8, mostra os seus.
+legenda: Os números são da Lúcia, e não uma regra. A sua cronometragem do capítulo 8 mostra os seus.
 ```
 
 ```conceito
@@ -121,7 +121,7 @@ Otávio faz a mesma operação no ofício dele. Transforma a demissão mal docum
 
 Com as quatro operações prontas, Lúcia copiou para o caderno de campo só as duas últimas respostas, o padrão e a pergunta, e deixou a folha no caderno de sessão, trancado na gaveta. Depois, esperou. A paciente das cinco da tarde tinha falado do domingo naquela semana; um texto sobre o domingo cinco dias depois seria um recado, por mais limpo que estivesse, e ela se reconheceria não pelos detalhes, que tinham saído, mas pela data. A regra do deslocamento vale também para o calendário.
 
-No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Lúcia anotou a data e esperou mais quatro semanas; agora eram duas pessoas que não podiam receber o texto como recado. Publicou na última terça de julho, às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha onze linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
+No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto com outras palavras. Lúcia anotou a data e esperou mais quatro semanas; agora eram duas pessoas que não podiam receber o texto como recado. Publicou na última terça de julho, às oito. Começava por "juntei aqui o que ouvi de algumas pessoas, em anos diferentes". Tinha oito linhas, uma pergunta no fim e nenhum detalhe de ninguém. Recebeu mais respostas do que qualquer texto anterior, quase todas com a mesma frase, em versões diferentes: "achei que era só comigo".
 
 Uma delas vinha de alguém que tinha lido o texto num domingo, no fim da tarde, e que pela primeira vez tinha conseguido dizer o que antecipava: o fim do único dia em que ninguém lhe pedia nada. Lúcia guardou a resposta no caderno de campo, sem nome, como matéria para uma próxima tradução. O cheiro do ferro continuava no caderno trancado, onde pertencia.
 

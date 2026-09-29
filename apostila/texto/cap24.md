@@ -26,7 +26,7 @@ A decisão de voltar tinha uma razão concreta. Desde janeiro, o maço de versos
 
 Dois anos antes, a agência tinha recebido uma tarefa impossível: inventar a voz de alguém que ainda não a conhecia. Com as mesmas pessoas, passou a produzir peças do Otávio em abril, e a diferença não estava nela.
 
-Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. O manual saiu daí, e o resto da pasta, de um ano e meio escrevendo toda semana. Nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil porque deixou de ter de adivinhar.
+Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. O manual saiu daí, e o resto da pasta, de sete meses escrevendo toda semana. Nada daquilo uma agência consegue descobrir sozinha. A agência voltou a ser útil porque deixou de ter de adivinhar.
 
 Helena desconfiou. Tinha visto o perfil do escritório passar anos com artes azuis e perguntas sobre FGTS, e não queria ver aquilo de novo. Leu o que havia na pasta antes da reunião e fez uma única pergunta: quem escolhe o que vai ser publicado? Quando Otávio respondeu que seria sempre ele, a partir do que já tinha escrito, ela devolveu a pasta sem mais comentários. Era a pergunta certa, e a resposta era a que separava os dois contratos.
 
@@ -138,7 +138,7 @@ No fim de maio, uma cliente mandou ao escritório o link de uma das peças. Era 
 titulo: O pacote de delegação
 objetivo: Preparar o material que permite contratar ajuda sem risco de apagamento, mesmo que você só vá contratar daqui a um ano.
 tempo: 35
-entrega: A leitura honesta das quatro condições, o escopo escrito, a lista do que nunca passa adiante, o fluxo do material, o manual com o corpus e a sua revisão.
+entrega: A leitura honesta das quatro condições, o escopo escrito, a lista do que nunca passa adiante, o fluxo do material, o manual com a amostra de voz e a sua revisão.
 campos:
   - rotulo: "As quatro condições para delegar: onde você está"
     grade:
@@ -153,7 +153,7 @@ campos:
   - rotulo: "O fluxo do material: o que você manda, quanto, quando e por onde"
     exemplo: "Um corretor de seguros: “Dois áudios por semana, até quinta à noite, pelo mesmo grupo. Se não houver áudio, não há peça.”"
     linhas: 3
-  - rotulo: "O manual e o corpus: a regra de ética (ou, se a sua profissão não tem código de publicidade, a regra que você nunca quebra) e as peças que você entregaria"
+  - rotulo: "O manual e a amostra de voz: a regra de ética (ou, se a sua profissão não tem código de publicidade, a regra que você nunca quebra) e as peças que você entregaria"
     exemplo: "Na linha 1, a regra. Nas outras, as datas das peças que mais soam como você; se ainda não tem dez, as que tem e o mês em que terá as dez."
     linhas: 5
     numerar: true

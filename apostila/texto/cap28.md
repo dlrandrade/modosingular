@@ -50,7 +50,7 @@ Tabela: O que cada número diz
 | Mensagens com dúvida real | Confiança para se expor | Sim |
 | Clientes que citaram uma peça | A ligação entre publicar e trabalhar | Sim, é a que fecha a conta |
 
-Otávio pediu a Sílvia os números que o e-mail não trazia. A peça das advertências tinha doze curtidas, e também quarenta e um salvamentos e dezenove envios por mensagem, a maior proporção de envios do ano. A do São João tinha mil e cem curtidas, oito salvamentos e seis envios. Depois das citações, o envio por mensagem passou a ser o sinal que ele mais respeita. Quando alguém manda uma peça a uma pessoa específica, põe a própria reputação em jogo para recomendar você. O contador que mandou o link ao segundo empresário tinha feito isso.
+Otávio pediu a Sílvia os números que o e-mail não trazia. A peça das advertências tinha doze curtidas, e também quarenta e um salvamentos e dezoito envios por mensagem, a maior proporção de envios do ano. A do São João tinha mil e cem curtidas, oito salvamentos e seis envios. Depois das citações, o envio por mensagem passou a ser o sinal que ele mais respeita. Quando alguém manda uma peça a uma pessoa específica, põe a própria reputação em jogo para recomendar você. O contador que mandou o link ao segundo empresário tinha feito isso.
 
 ```nota
 tipo: alerta
@@ -75,7 +75,7 @@ legenda: A base, as citações, é o número que importa. Os dois do meio anteci
 
 O primeiro número só existe se alguém fizer uma pergunta, e é a pergunta que Helena passou a fazer no começo de junho: como o senhor chegou até nós? Leva dez segundos na primeira ligação e é o único dado que junta o que se publica ao que se fatura. No escritório do Otávio, a resposta vai para uma lista simples, com três colunas: o nome da empresa, a resposta com as palavras do cliente e, quando houver, a peça citada. Helena fez da pergunta um hábito da primeira ligação, e da resposta uma coluna.
 
-O segundo número Otávio já conhecia: quarenta e um salvamentos e dezenove envios na peça das advertências. O terceiro pede um critério para contar. Otávio separou, em junho, as mensagens que tinham chegado ao perfil: quinze de empregados, sobre o São João, e quatro de donos de pequenas empresas com dúvidas de verdade, sobre recibos, horários e uma demissão que ainda não tinha acontecido. Só as quatro entraram no painel. Uma mensagem com dúvida real é aquela em que alguém do seu público se expõe um pouco, contando um problema que tem. É o sinal de que a confiança está se formando antes da primeira ligação.
+O segundo número Otávio já conhecia: quarenta e um salvamentos e dezoito envios na peça das advertências. O terceiro pede um critério para contar. Otávio separou, em junho, as mensagens que tinham chegado ao perfil: quinze de empregados, sobre o São João, e quatro de donos de pequenas empresas com dúvidas de verdade, sobre recibos, horários e uma demissão que ainda não tinha acontecido. Só as quatro entraram no painel. Uma mensagem com dúvida real é aquela em que alguém do seu público se expõe um pouco, contando um problema que tem. É o sinal de que a confiança está se formando antes da primeira ligação.
 
 O quarto número entrou no painel com uma função limitada. O alcance das peças de reconhecimento diz se ainda entra gente nova, gente que nunca tinha visto o escritório. Ele não serve para decidir o que publicar. Serve só para perceber, a tempo, se o perfil está falando apenas com quem já o conhece. É o que a plataforma mais oferece e o que menos decide; por isso fica no topo do painel, e não na base.
 
@@ -106,7 +106,7 @@ Tirar os números da planilha não os tirou da tela. As curtidas continuavam emb
 
 A conversa sobre a série de feriados foi a mais difícil. Sílvia tinha razão num ponto: a peça do São João tinha alcançado muita gente, e alcance não é ruim. Otávio concordou e fez uma proposta: uma peça sobre feriado por ano, escrita do lado de quem ele defende.
 
-Em setembro, a lista de Helena tinha onze linhas. Sete citavam alguma peça, e cinco dessas eram versos sobre documentos: advertências, recibos, controle de horário. Nenhuma citava a do São João. Otávio tirou uma cópia da lista e prendeu no quadro de cortiça, ao lado da folha da noite do telefonema com Seu Ednaldo. Era a primeira vez que um número sobre o que publicava se parecia com o trabalho que ele fazia.
+Em setembro, a lista de Helena tinha dezoito linhas. Sete citavam alguma peça, e cinco dessas eram versos sobre documentos: advertências, recibos, controle de horário. Nenhuma citava a do São João. Otávio tirou uma cópia da lista e prendeu no quadro de cortiça, ao lado da folha da noite do telefonema com Seu Ednaldo. Era a primeira vez que um número sobre o que publicava se parecia com o trabalho que ele fazia.
 
 A peça de feriado do ano seguinte já estava anotada no caderno, com data para maio: o que a pequena empresa precisa ter no papel antes do São João para não pagar em dobro depois. Sílvia leu o rascunho e disse que a peça não ia viralizar. Otávio concordou, e acrescentou que, se três donos de empresa a guardassem e ligassem, ela teria feito mais do que a outra.
 
@@ -191,7 +191,7 @@ faca_antes: true
     - Porque tinha mais comentários do que as outras peças do mês.
     - Porque foi publicada no horário de maior audiência da semana.
   correta: 0
-  explicacao: Curtir é um gesto público, e contratar um advogado trabalhista é uma decisão privada. A peça teve quarenta e um salvamentos e dezenove envios por mensagem, e três empresários a citaram.
+  explicacao: Curtir é um gesto público, e contratar um advogado trabalhista é uma decisão privada. A peça teve quarenta e um salvamentos e dezoito envios por mensagem, e três empresários a citaram.
 - pergunta: Qual é o único número que liga o que você publica ao trabalho que chega?
   opcoes:
     - O alcance das peças de reconhecimento do problema.

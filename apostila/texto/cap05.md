@@ -32,7 +32,7 @@ definicao: O desgaste emocional e operacional de sustentar uma forma de comunica
 porque: Enquanto você tratar o problema como preguiça, vai tentar resolvê-lo com calendário e culpa, e nenhum dos dois resolve incompatibilidade.
 ```
 
-Linguagem, aqui, é o jeito como você transforma o que pensa em algo que outra pessoa recebe: falando, escrevendo, contando, respondendo. O formato, seja carrossel, vídeo ou texto, é a parte visível dela, e é nele que o atrito aparece primeiro.
+Linguagem, aqui, é só o modo, o jeito como você transforma o que pensa em algo que outra pessoa recebe: falando, escrevendo, contando, respondendo. O formato, seja carrossel, vídeo ou texto, é a parte visível dela, e é nele que o atrito aparece primeiro.
 
 ## Quanto custa uma peça
 

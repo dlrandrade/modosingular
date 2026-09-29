@@ -47,7 +47,7 @@ Tudo o que a fase II revelou cabe numa frase com cinco partes. A frase não é u
 ```nota
 tipo: pratica
 titulo: A estrutura do enunciado
-texto: "Eu penso [modo]. Consigo sustentar [ritmo, com dia e hora]. O que só eu tenho é [repertório: um padrão, uma exceção ou um critério]. Eu defendo [posição], mesmo custando [custo]. E eu falo [léxico: frase, comparação e ponto de entrada]."
+texto: "Eu penso [modo]. Consigo sustentar [ritmo, com dia e hora]. O que só eu tenho é [repertório: um padrão, uma exceção ou um critério]. Eu defendo [posição], mesmo custando [custo]. E eu falo [léxico: palavras-âncora, comparação, frase e ponto de entrada]."
 ```
 
 Os enunciados dos quatro personagens, lado a lado, mostram o que a estrutura produz. Lidos na vertical, cada um tem coerência interna: o modo de Otávio, escrever à mão, combina com um ritmo de sexta à tarde, com um repertório de documentos e com um léxico de prova. Lidos na horizontal, nenhuma linha de um caberia no outro. O ritmo de Renata é o maior dos quatro porque o julho dela ainda deixa cinco blocos de vinte minutos, três deles no carro, onde o áudio cabe; o de Lúcia depende de alguém do outro lado, e por isso tem dia e hora amarrados à pergunta da semana. O repertório de cada um vem do tipo de caso que atende, e a posição, do tipo de pressão que sofre.
@@ -108,7 +108,7 @@ Caio fez bem em não preencher a linha vazia com qualquer coisa. Sabia o que pen
 
 Uma linha em branco não impede o enunciado de funcionar. As outras quatro já decidem boa parte das dúvidas, e a da posição aparece quando a prática a revelar. Até lá, fica escrito a lápis, na margem: "em aberto".
 
-A tabela tem quatro enunciados e espaço, ao lado, para mais um. Se a sua se parecer demais com a de algum personagem, volte à linha mais parecida e procure o detalhe da sua prática que só você tem: um caso, uma cidade, a pergunta que você faz e ninguém mais faz.
+A tabela tem quatro enunciados; o quinto é o seu, e vai na oficina. Se a sua se parecer demais com a de algum personagem, volte à linha mais parecida e procure o detalhe da sua prática que só você tem: um caso, uma cidade, a pergunta que você faz e ninguém mais faz.
 
 Caio prendeu a folha passada a limpo na parede sobre a prancheta, com a linha da posição escrita a lápis. Nas semanas seguintes, olhou para ela duas vezes, as duas antes de decidir alguma coisa. Na segunda vez, percebeu que já não precisava ler as quatro linhas preenchidas; sabia de cor. Só a vazia continuava pedindo atenção, e ele passou a escutar de outro jeito as conversas de obra em que alguém lhe pedia para fazer uma coisa que ele não faria.
 
@@ -137,7 +137,7 @@ campos:
     exemplo: "A mais forte das três opiniões do seu manifesto do cap. 10, com o custo que você anotou lá. Se nenhuma tinha custo real, escreva “em aberto”."
     linhas: 3
   - rotulo: "E eu falo…"
-    exemplo: "Estrutura de frase, campo das comparações e ponto de entrada (cap. 11)."
+    exemplo: "Palavras-âncora, campo das comparações, estrutura de frase e ponto de entrada (cap. 11)."
     linhas: 2
   - rotulo: "O teste do colega: alguma linha caberia em outro profissional da sua área? Qual, e como torná-la sua?"
     linhas: 3

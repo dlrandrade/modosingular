@@ -8,7 +8,7 @@ ilustracao: espelho
 legenda_ilustracao: Marcos viu o reflexo antes de ver a pessoa.
 ---
 
-Marcos chegou ao consultório da Renata com dois anos de dor lombar e uma pasta de exames debaixo do braço. Antes dela, tinha passado por um clínico geral, dois ortopedistas e uma quiropraxista. Cada um explicou a dor de um jeito, e nenhuma explicação durou mais de três semanas. Ele não esperava grande coisa da quinta tentativa. Só foi porque a mulher insistiu, depois de ouvir o nome da Renata de uma colega de trabalho.
+Marcos chegou ao consultório da Renata, em Curitiba, com dois anos de dor lombar e uma pasta de exames debaixo do braço. Antes dela, tinha passado por um clínico geral, dois ortopedistas e uma quiropraxista. Cada um explicou a dor de um jeito, e nenhuma explicação durou mais de três semanas. Ele não esperava grande coisa da quinta tentativa. Só foi porque a mulher insistiu, depois de ouvir o nome da Renata de uma colega de trabalho.
 
 Renata deixou a pasta de exames fechada sobre a mesa; primeiro queria ouvir. Fez a pergunta que faz a todo paciente com dor nas costas, "e de manhã, como é?", e depois outra, e mais outra, até chegar a um detalhe que ninguém tinha investigado: a dor era pior ao acordar e ia cedendo à medida que ele se mexia. Pediu que ele se curvasse para a frente, mediu com uma fita quanto a lombar se abria no movimento e desenhou no ar, com as mãos, uma coluna que amanhece travada e vai soltando ao longo do dia. Disse, sem pressa, que antes de qualquer exercício ele precisava passar por um reumatologista, porque aquele padrão merecia ser investigado primeiro. Marcos não entendeu todos os termos. Entendeu o desenho, e isso bastou para saber que estava diante de alguém que sabia o que estava fazendo.
 
@@ -163,7 +163,7 @@ campos:
     exemplo: "Uma advogada de família: 1. O divórcio que não virou processo depois de uma conversa de duas horas. 2. Antes de falar de partilha, pergunto quem vai buscar as crianças na escola na segunda-feira. 3. Não entro com ação de alienação parental só com a versão de quem me procura, e explico por quê na primeira reunião."
     linhas: 6
   - rotulo: "A conta da Renata, feita por você: dos últimos dez clientes novos, quantos chegaram indicados? Por quem?"
-    exemplo: "Uma nutricionista: “Sete de dez. Cinco deles pela mesma médica.” Use nomes ou iniciais."
+    exemplo: "Uma nutricionista: “Seis de dez. Quatro deles pela mesma médica.” Use nomes ou iniciais."
     linhas: 3
   - rotulo: "Quanto essa distância custou nos últimos doze meses?"
     exemplo: "Uma psicopedagoga: “Em março, o convite para falar sobre concentração nas tarefas de casa, na associação de pais da escola do meu filho, foi para uma colega que eu só conhecia de vídeos. Três famílias da escola passaram a levar os filhos a ela.” Seja específico: um nome, um mês, um valor aproximado."

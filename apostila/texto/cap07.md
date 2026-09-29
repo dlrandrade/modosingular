@@ -87,7 +87,7 @@ O caderno de campo do capítulo 6 dá pistas antes de qualquer teste, mais pelo 
 
 ## Capturar no seu modo, publicar onde fizer sentido
 
-Descobrir o seu modo não obriga você a publicar num único formato pelo resto da vida. O modo define onde você captura, isto é, a forma em que o pensamento nasce. O formato de publicação continua livre, e pode variar conforme a plataforma, o público e o assunto. A tradução entre os dois continua existindo, mas muda de lugar: sai do começo, onde é caríssima, e vai para o fim, onde vira uma etapa técnica, que pode sair das suas mãos.
+Descobrir o seu modo não obriga você a publicar num único formato pelo resto da vida. O modo define onde você captura, isto é, a forma em que o pensamento nasce (aqui, capturar é dar a primeira forma à ideia, num áudio de quatro minutos ou numa folha à mão; a captura de vinte segundos dos capítulos 6 e 19 é só o registro da matéria-prima). O formato de publicação continua livre, e pode variar conforme a plataforma, o público e o assunto. A tradução entre os dois continua existindo, mas muda de lugar: sai do começo, onde é caríssima, e vai para o fim, onde vira uma etapa técnica, que pode sair das suas mãos.
 
 Nessa posição, ela pode ser feita por você, por um assistente ou por uma ferramenta. O Apêndice C traz um modelo de pedido para quem quiser usar uma inteligência artificial nessa etapa, sempre a partir da sua matéria-prima, e o capítulo 24 trata de quando e como delegá-la a uma pessoa. Em qualquer caso, a regra é a mesma: o que sai dela precisa continuar soando como você.
 
@@ -117,7 +117,7 @@ texto: Capture sempre no seu modo. Publique no formato que fizer sentido. A trad
 ```
 
 ```autodiagnostico
-titulo: O teste da linguagem criativa
+titulo: O teste do seu modo
 instrucao: Pense na sua vida como ela é, dentro e fora do trabalho, e circule um número por linha. Some os dois números de cada eixo (O, E, D, N), anote as somas nas caixas e leia as faixas na ordem, parando na primeira que descreve o seu caso.
 escala: ["Nada a ver comigo", "Pouco", "Mais ou menos", "Bastante", "É exatamente assim"]
 eixos: {O: "Oral", E: "Escrito", D: "Dialógico", N: "Narrativo"}

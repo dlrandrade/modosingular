@@ -79,11 +79,11 @@ Você termina este livro com mais energia e mais ideias do que tinha no primeiro
 
 Os noventa dias seguintes têm três partes. Nos primeiros trinta, repetição pura: o formato-base, no ritmo que você assumiu no capítulo 8, com o caderno de campo aberto todos os dias e nenhum formato novo. É quando o hábito se instala, pela repetição. Do trigésimo primeiro ao sexagésimo, profundidade: o mesmo formato, agora atravessando o inventário de perguntas do capítulo 14 nos três níveis, e é quando o repertório começa a aparecer peça a peça.
 
-Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme. Uma só: outro modo de abrir, outra extensão, ou o mesmo caso contado uma segunda vez em outra forma, como o capítulo 20 descreveu. Se o hábito ainda oscila, se você ainda perde semanas sem perceber, não acrescente nada, e repita o bloco anterior. O critério para acrescentar é o que aconteceu nas semanas ruins: se nelas saiu ao menos a peça mínima, o hábito está firme.
+Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme e o formato-base já tiver passado da trigésima repetição (capítulo 20). Uma só: outro modo de abrir, outra extensão, ou o mesmo caso contado uma segunda vez em outra forma, como o capítulo 20 descreveu. Se o hábito ainda oscila, se você ainda perde semanas sem perceber, não acrescente nada, e repita o bloco anterior. O critério para acrescentar é o que aconteceu nas semanas ruins: se nelas saiu ao menos a peça mínima, o hábito está firme.
 
 Uma dentista que publica às quartas passaria os primeiros trinta dias com a mesma peça de sempre, a dúvida da semana respondida em noventa segundos. Do dia 31 ao 60, a pergunta do clareamento, que ela ouve toda semana, respondida no nível estrutural: por que o dente escurece, e o que o clareamento não alcança. No dia 61, antes de acrescentar qualquer coisa, ela olharia para a semana do feriado de junho, em que quase não publicou. Se naquela quarta saiu ao menos a peça mínima, a variação entra. Se não saiu nada, o terceiro bloco repete o segundo.
 
-Anote no calendário, hoje, as três datas: o fim do primeiro bloco, o do segundo e o do terceiro. No fim do primeiro, refaça o diagnóstico deste capítulo com uma caneta de outra cor, na mesma página, e compare linha por linha: a linha que não subiu é o trabalho do segundo bloco. Se um mês difícil cair no meio dos noventa dias, e é provável que caia, use o protocolo do capítulo 29 e conte a semana mínima como semana cumprida. O plano admite semanas fracas, desde que a sequência não se quebre.
+Anote no calendário, hoje, as três datas: o fim do primeiro bloco, o do segundo e o do terceiro. No fim do primeiro, refaça o diagnóstico deste capítulo com uma caneta de outra cor, na mesma página, e compare linha por linha: a linha que não subiu é o trabalho do segundo bloco. Se um mês difícil cair no meio dos noventa dias, e é provável que caia, use o protocolo do capítulo 29 e conte a semana da peça mínima como semana cumprida. O plano admite semanas fracas, desde que a sequência não se quebre.
 
 ```nota
 tipo: alerta
@@ -134,7 +134,7 @@ objetivo: Fechar o livro com o que ele pediu desde o começo: dizer em público 
 tempo: 40
 entrega: O inventário do que ficou pronto, a declaração escrita para publicar, o plano de noventa dias, a data da próxima peça e o que você não vai mudar.
 campos:
-  - rotulo: "O inventário: o que ficou pronto e o que ficou em branco"
+  - rotulo: "O balanço: o que ficou pronto e o que ficou em branco"
     grade:
       colunas: ["Pronto", "Em branco"]
       linhas: ["A frase da assimetria (cap. 1)", "O mapa de modo (cap. 7)", "O número que você assume (cap. 8)", "O manifesto de três linhas (cap. 10)", "O manual de voz (cap. 11)", "O enunciado (cap. 12)", "O inventário de perguntas (cap. 14)", "O caderno de campo (cap. 19)", "O formato-base (cap. 20)", "A semana modelo (cap. 21)", "A arquitetura de escala (cap. 23)", "O painel de quatro números (cap. 28)", "O protocolo do mês difícil (cap. 29)"]

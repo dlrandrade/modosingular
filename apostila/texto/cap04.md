@@ -87,7 +87,7 @@ Os quatro sinais não aparecem só em quem contrata agência. Quem produz sozinh
 
 ## A ordem que funciona
 
-Otávio pediu à agência dois meses sem publicações. Não deu muitas explicações, e a agência aceitou com o alívio de quem também já não sabia o que postar. Ele ainda não sabia o que queria no lugar daquilo; sabia só que não queria mais aprovar o que não diria. A agência pode voltar a ter um papel, e melhor do que o de antes, mas só depois que ele souber qual é a própria voz. Até lá, qualquer arranjo novo repetiria o erro com outra roupa.
+Otávio pediu à agência uma pausa nas publicações. Não deu muitas explicações, e a agência aceitou com o alívio de quem também já não sabia o que postar. Ele ainda não sabia o que queria no lugar daquilo; sabia só que não queria mais aprovar o que não diria. A agência pode voltar a ter um papel, e melhor do que o de antes, mas só depois que ele souber qual é a própria voz. Até lá, qualquer arranjo novo repetiria o erro com outra roupa.
 
 ```figura
 tipo: fluxo

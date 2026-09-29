@@ -104,7 +104,7 @@ O léxico não se descobre pensando nele. Quem tenta descrever o próprio jeito 
 
 Caio fez em uma tarde. Escolheu três áudios que tinha mandado a clientes nas últimas semanas, sobre assuntos diferentes, e transcreveu cada um deles palavra por palavra, sem corrigir nada. Deixou os "então", as frases que começavam e mudavam de rumo, as repetições. Depois leu as três transcrições com uma caneta na mão e circulou o que aparecia em mais de uma. A ficha saiu dali, e o que mais o surpreendeu foi a lista do que ele nunca diz. Em três áudios, nenhuma vez tinha usado a palavra "solução", que aparecia em quase toda legenda que escrevia.
 
-A etapa final é transformar a ficha em regras. Cinco bastam, escritas como descrição do que você já faz: eu começo por uma obra; eu uso frases curtas; eu comparo coisas com gente; eu digo o preço quando falo de problema; eu nunca escrevo "é fundamental". Essas cinco linhas viram um manual de voz, a régua com que você revisa qualquer texto que leve o seu nome antes de publicar.
+A etapa final é transformar a ficha em regras. Cinco bastam, escritas como descrição do que você já faz: eu começo por uma obra; eu uso frases curtas; eu comparo coisas com gente; eu digo o preço quando falo de problema; eu nunca escrevo "é fundamental". Essas cinco linhas viram um manual de voz, o guia com que você revisa qualquer texto que leve o seu nome antes de publicar.
 
 O modo de cada um muda a dificuldade do exercício. Para Renata, que pensa falando, foi fácil: bastou escolher três dos áudios que já tinha no celular e transcrevê-los. Otávio, que pensa escrevendo, teve o trabalho inverso. Os pareceres já eram dele, mas os e-mails a clientes, escritos às pressas, tinham um léxico mais vivo que os pareceres, e foi neles que encontrou a ficha. Lúcia pediu à amiga do grupo de estudos que lesse três respostas que ela tinha dado por áudio no grupo e sublinhasse o que soava como Lúcia.
 
@@ -213,7 +213,7 @@ roteiro_nota: Uma comparação por peça. Se ela simplifica algo de saúde, dire
     - Para revisar textos e orientar quem ajuda você a produzir.
     - Para decidir em quais plataformas vale publicar.
   correta: 2
-  explicacao: As cinco regras são a régua para revisar qualquer texto com o seu nome, inclusive os que você escreve com pressa, e a instrução para quem escreve com você.
+  explicacao: As cinco regras são o guia para revisar qualquer texto com o seu nome, inclusive os que você escreve com pressa, e a instrução para quem escreve com você.
 ```
 
 ```aplicacao

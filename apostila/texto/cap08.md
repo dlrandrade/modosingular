@@ -145,7 +145,7 @@ campos:
     exemplo: "A conta da Lúcia: 120 × 0,7 = 84; 84 ÷ 72 = 1,2. Uma peça por semana. Arredonde para baixo. Se der menos de 1, volte ao campo 01 e troque a etapa mais cara antes de procurar mais horas."
     linhas: 2
   - rotulo: "O dia e a hora fixos em que a peça acontece"
-    exemplo: "Uma engenheira agrônoma: “Domingo à noite, depois que as crianças dormem. Na safra, a semana não tem outra hora.”"
+    exemplo: "Uma engenheira agrônoma: “Quinta, sete da manhã, na caminhonete, antes da primeira propriedade. Na safra, a semana não tem outra hora.”"
     linhas: 2
   - rotulo: "O que você faz na semana em que falhar"
     exemplo: "Volto na semana seguinte, no mesmo dia, sem pedir desculpas e sem compensar com duas peças."
