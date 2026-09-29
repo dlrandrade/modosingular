@@ -1,10 +1,13 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-29 09:01
+# atualizado: 2026-09-29 09:04
 fases_do_projeto:
   F0: concluida
   F1: concluida
   F2: concluida
   F3: em_andamento
+  F4: concluida
+  F5: concluida
+  F6: concluida
 capitulos:
   1:
     status: aprovado
@@ -1251,9 +1254,12 @@ decisoes:
   estudo em 40 min a 1h30; figurantes trocados nos caps. 14, 29 e 8. Não aplicado: renomear ''régua'' dentro do
   cap. 12 (seção e figura das cinco perguntas), para não reabrir capítulo aprovado; o cap. 18 já distingue o critério
   do profissional do que a peça devolve.'
-pendencias:
-- 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de
-  branco antes de box indivisível).'
+- '2026-09-29: F5: QA de página em branco no pé feito por varredura automática (487 páginas). Os 33 casos restantes
+  são ou fim de seção antes de campo de escrita/esqueleto/roteiro indivisível (regra do projeto: campo nunca quebra)
+  ou página anterior a abertura de fase/apêndice; aceitos. Ideia de deixar boxes ''nota'' quebrarem não adotada:
+  mexeria em todos os capítulos aprovados. F4, F5 e F6 concluídas; PDFs finais de leitura e de gráfica (sangria
+  3 mm e marcas de corte) gerados.'
+pendencias: []
 imagens:
   ler a própria peça impressa como de outra pessoa: 25
   Renata rola o perfil à noite e descobre o problema: 23
