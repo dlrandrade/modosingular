@@ -35,12 +35,12 @@
 @page :left {
   margin-left: 20mm; margin-right: 22mm;
   @top-left { content: "Modo Singular"; font: 500 6.6pt var(--sans); letter-spacing: .16em;
-              text-transform: uppercase; color: var(--ink-3); vertical-align: bottom; padding-bottom: 4mm; }
+              text-transform: uppercase; color: var(--ink-3); vertical-align: bottom; padding-bottom: 9mm; }
   @bottom-left { content: counter(page); font: 500 7.6pt var(--sans); color: var(--ink-2); vertical-align: top; padding-top: 5mm; }
 }
 @page :right {
   @top-right { content: string(cabeca); font: 500 6.6pt var(--sans); letter-spacing: .16em;
-               text-transform: uppercase; color: var(--ink-3); vertical-align: bottom; padding-bottom: 4mm; }
+               text-transform: uppercase; color: var(--ink-3); vertical-align: bottom; padding-bottom: 9mm; }
   @bottom-right { content: counter(page); font: 500 7.6pt var(--sans); color: var(--ink-2); vertical-align: top; padding-top: 5mm; }
 }
 @page limpa { @top-left { content: none } @top-right { content: none }
@@ -59,7 +59,7 @@ html { font-family: var(--serif); font-size: 10.8pt; line-height: 15.4pt; color:
 .escala th.ex, .escala td.ex { width: 6.5mm; text-align: center; font: 600 7pt var(--sans); color: var(--acc-d); }
 .escala th.ex { font: 600 5.2pt/7pt var(--sans); }
 .somas { display: flex; gap: 3mm; margin: 0 0 3mm; }
-.somas > div { flex: 1; border-top: 1pt solid var(--ink); padding-top: 1.4mm; }
+.somas > div { flex: 1; border-top: 1pt solid var(--ink); padding-top: 2.4mm; }
 .somas .txt { display: block; font: 600 6.6pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 1mm; }
 .somas .caixa { display: block; height: 8mm; border: .8pt solid var(--ink); }
 .nota-escala { font: italic 8.8pt/12pt var(--serif); color: var(--ink-2); margin: -1mm 0 3mm; text-align: left; }
@@ -110,7 +110,7 @@ strong { font-weight: 600; }
 .rotulo { font: 600 6.6pt var(--sans); letter-spacing: .18em; text-transform: uppercase;
   color: var(--acc-d); margin: 0 0 1.6mm; text-indent: 0; }
 
-.conceito { border-top: 1.4pt solid var(--acc); border-bottom: .5pt solid var(--line); padding: 3.2mm 0 3.6mm; }
+.conceito { border-top: 1.4pt solid var(--acc); border-bottom: .5pt solid var(--line); padding: 5mm 0 5.5mm; margin: 9mm 0; }
 .conceito .termo { font: 400 17pt/19pt var(--display); margin: 0 0 1.8mm; }
 .conceito .def { margin: 0; text-align: left; hyphens: auto; }
 .conceito .porque { margin: 2mm 0 0; font-style: italic; color: var(--ink-2); text-align: left; hyphens: auto; }
@@ -154,7 +154,7 @@ strong { font-weight: 600; }
 .compara .rotulo { margin-bottom: 2mm; }
 .compara .neg .rotulo { color: var(--ink-3); }
 
-.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 3mm 0 .6mm; margin-top: 5mm; break-before: avoid; }
+.guardar { border-top: .5pt solid var(--line); border-bottom: .5pt solid var(--line); padding: 5mm 0 2.6mm; margin-top: 9mm; margin-bottom: 9mm; break-before: avoid; }
 .guardar .rotulo { margin-bottom: 2.6mm; }
 .guardar ol { list-style: none; padding: 0; margin: 0; }
 .guardar li { position: relative; padding-left: 8mm; margin: 0 0 2mm;
@@ -162,17 +162,17 @@ strong { font-weight: 600; }
 .guardar li .g { position: absolute; left: 0; top: -1.5pt; font: 400 16pt/1 var(--display); color: var(--acc); }
 
 /* ------------------------------------------------------------- figuras e tabelas */
-figure.fig { margin: 6mm 0 5.5mm; break-inside: avoid; }
-figure.fig .cab { border-top: .5pt solid var(--ink); padding-top: 1.6mm; margin-bottom: 3mm; }
+figure.fig { margin: 9mm 0 8mm; break-inside: avoid; }
+figure.fig .cab { border-top: .5pt solid var(--ink); padding-top: 3.4mm; margin-bottom: 4.5mm; }
 figure.fig .num { font: 600 6.6pt var(--sans); letter-spacing: .16em; text-transform: uppercase; color: var(--acc-d); }
 figure.fig .selo { font: 500 6.2pt var(--sans); letter-spacing: .12em; text-transform: uppercase;
   color: var(--ink-3); float: right; border: .5pt solid var(--line); padding: .3mm 1.4mm; }
 figure.fig .titulo-fig { font: italic 400 10.4pt/13.5pt var(--serif); margin: .8mm 0 0; color: var(--ink); text-indent: 0; }
 figure.fig svg { display: block; width: 100%; height: auto; }
 
-table { width: 100%; border-collapse: collapse; margin: 5mm 0; break-inside: avoid; font: 400 7.9pt/10.8pt var(--sans); }
+table { width: 100%; border-collapse: collapse; margin: 8mm 0; break-inside: avoid; font: 400 7.9pt/10.8pt var(--sans); }
 table caption { break-after: avoid; caption-side: top; text-align: left; font: italic 400 10.2pt/13pt var(--serif);
-  padding: 1.6mm 0 2mm; border-top: .5pt solid var(--ink); }
+  padding: 3.4mm 0 3mm; border-top: .5pt solid var(--ink); }
 table caption .num { display: block; font: 600 6.6pt var(--sans); font-style: normal; letter-spacing: .16em;
   text-transform: uppercase; color: var(--acc-d); margin-bottom: .6mm; }
 th { font: 600 6.8pt var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2);
@@ -182,9 +182,9 @@ td:first-child { font-weight: 600; color: var(--ink); }
 
 /* ------------------------------------------------------------- seções de caderno */
 .oficina { break-before: page; }
-.autodiag { break-inside: avoid; margin-top: 10mm; }
-.rede, .fechamento { margin-top: 11mm; }
-.cab-secao { border-top: 2pt solid var(--ink); padding-top: 2mm; margin-bottom: 5mm; break-after: avoid; }
+.autodiag { break-inside: avoid; margin-top: 13mm; }
+.rede, .fechamento { margin-top: 14mm; }
+.cab-secao { border-top: 2pt solid var(--ink); padding-top: 4mm; margin-bottom: 8mm; break-after: avoid; }
 .cab-secao h2 { font: 400 20pt/22pt var(--display); margin: 1mm 0 0; hyphens: manual; }
 .cab-secao .sub { font: italic 10pt/14pt var(--serif); color: var(--ink-2); margin: 1.6mm 0 0; }
 .meta { display: flex; gap: 3mm; margin: 0 0 5mm; }
@@ -207,7 +207,7 @@ td:first-child { font-weight: 600; color: var(--ink); }
 .linhas.num span { position: absolute; left: 0; bottom: .8mm; font: 600 6.8pt var(--sans); color: var(--acc-d); }
 .linhas.num div { padding-left: 5mm; }
 
-.criterios { margin-top: 6mm; border-top: .5pt solid var(--line); padding-top: 3mm; break-inside: avoid; }
+.criterios { margin-top: 10mm; border-top: .5pt solid var(--line); padding-top: 5mm; break-inside: avoid; }
 .caixas { list-style: none; margin: 0; padding: 0; }
 .caixas li { position: relative; padding-left: 6.5mm; margin: 0 0 1.8mm; font-size: 9.4pt; line-height: 13pt; text-align: left; }
 .caixas li::before { content: ""; position: absolute; left: 0; top: 1.4pt; width: 3.2mm; height: 3.2mm; border: .7pt solid var(--ink-2); }
@@ -227,7 +227,7 @@ table.escala { width: 100%; table-layout: fixed; border-collapse: collapse; marg
 .soma .txt { font: 600 7.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); margin-right: 3mm; }
 .soma .caixa { display: inline-block; width: 16mm; height: 8mm; border: .8pt solid var(--ink); vertical-align: middle; }
 .faixas { display: flex; gap: 3.5mm; }
-.faixas .faixa { flex: 1; border-top: 1.2pt solid var(--acc); padding: 1.8mm 0 0; }
+.faixas .faixa { flex: 1; border-top: 1.2pt solid var(--acc); padding: 3.4mm 0 0; }
 .faixas .intervalo { font: 400 15pt/1 var(--display); color: var(--acc-d); margin-bottom: 1mm; }
 .faixas .faixa p { margin: 0; font-size: 8.3pt; line-height: 10.9pt; text-align: left; }
 .faixas .faixa b { display: block; font: 600 9.6pt var(--serif); margin-bottom: .6mm; }
@@ -281,7 +281,7 @@ p.rotulo { break-after: avoid; }
 .aplicacao td b { font-weight: 600; display: block; font-size: 9.4pt; }
 .aplicacao td .aj { color: var(--ink-2); font-style: italic; }
 .aplicacao td.pts { width: 12mm; text-align: right; font: 400 14pt/1 var(--display); color: var(--acc-d); }
-.total { display: flex; justify-content: space-between; align-items: center; margin: 3mm 0 0; padding: 3mm 0 0; border-top: 1pt solid var(--ink); }
+.total { display: flex; justify-content: space-between; align-items: center; margin: 6mm 0 0; padding: 5mm 0 0; border-top: 1pt solid var(--ink); }
 .total p { margin: 0; font-size: 9.4pt; line-height: 13pt; max-width: 88mm; text-align: left; }
 .total .caixa { font: 600 7.4pt var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); white-space: nowrap; }
 .total .caixa span { display: inline-block; width: 12mm; height: 7mm; border: .8pt solid var(--ink); vertical-align: middle; margin: 0 1.5mm; }
@@ -300,7 +300,7 @@ p.rotulo { break-after: avoid; }
 .sumario { page: limpa; break-before: right; }
 .sumario h2 { font: 400 28pt/1 var(--display); margin: 0 0 8mm; }
 .sumario .fase { font: 600 6.8pt var(--sans); letter-spacing: .18em; text-transform: uppercase; color: var(--acc-d);
-  margin: 5mm 0 1.6mm; border-top: .5pt solid var(--line); padding-top: 2mm; }
+  margin: 8mm 0 2.4mm; border-top: .5pt solid var(--line); padding-top: 3.4mm; }
 .sumario a { display: block; color: var(--ink); text-decoration: none; font-size: 10pt; line-height: 16pt; }
 .sumario a .n { display: inline-block; width: 8mm; font: 400 11.5pt var(--display); color: var(--acc-d); }
 .sumario a::after { content: target-counter(attr(href), page); float: right; font: 500 8pt/16pt var(--sans); color: var(--ink-2); }
@@ -321,7 +321,7 @@ p.rotulo { break-after: avoid; }
 .apendice .intro { font-style: italic; color: var(--ink-2); margin: 0 0 7mm; }
 .gab { break-inside: avoid; margin: 0 0 3.2mm; font-size: 8.8pt; line-height: 12.2pt; text-align: left; }
 .gab-cap { font: 600 7pt var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--acc-d);
-  margin: 6mm 0 2mm; border-top: .5pt solid var(--line); padding-top: 2mm; break-after: avoid; }
+  margin: 9mm 0 3mm; border-top: .5pt solid var(--line); padding-top: 3.4mm; break-after: avoid; }
 .gab b { font-weight: 600; }
 .gab .resp { font: 600 7.6pt var(--sans); color: var(--acc-d); }
 .glossario dt { font: 400 13pt/16pt var(--display); margin-top: 3.6mm; break-after: avoid; }
@@ -344,9 +344,9 @@ table.escala tr:has(.nlin) td:first-child { padding-left: 5mm; text-indent: -5mm
 table.escala td .nlin { display: inline-block; width: 5mm; text-indent: 0; font: 600 7.6pt var(--sans); color: var(--acc); }
 
 /* tabela de prosa: legenda e corpo inseparáveis */
-.tabela { break-inside: avoid; margin: 5mm 0; }
+.tabela { break-inside: avoid; margin: 8mm 0; }
 .tabela table { margin: 0; }
-.tabela .tab-leg { text-indent: 0; margin: 0; padding: 1.6mm 0 2mm; border-top: .5pt solid var(--ink); text-align: left; font: italic 400 10.2pt/13pt var(--serif); }
+.tabela .tab-leg { text-indent: 0; margin: 0; padding: 3.4mm 0 3mm; border-top: .5pt solid var(--ink); text-align: left; font: italic 400 10.2pt/13pt var(--serif); }
 .tabela .tab-leg .num { display: block; font: 600 6.6pt var(--sans); font-style: normal; letter-spacing: .16em; text-transform: uppercase; color: var(--acc-d); margin-bottom: .6mm; }
 table.grade.curta td:first-child { white-space: nowrap; padding-right: 4mm; }
 .compara .lado > p, .compara .lado .rotulo { hyphens: manual; }
@@ -373,3 +373,8 @@ table.grade.longa tbody tr:nth-child(-n+3) { break-before: avoid; }
 .rede .cab-secao { break-inside: avoid; }
 .rede .regras li:first-child { break-before: avoid; }
 .roteiro p.ini > .lacuna:first-child { margin-left: -.6mm; }
+
+/* autodiagnóstico: a página inteira precisa caber numa folha; respiro menor por dentro */
+.autodiag .cab-secao { padding-top: 3mm; margin-bottom: 5mm; }
+.autodiag .somas > div { padding-top: 1.8mm; }
+.autodiag .faixas .faixa { padding-top: 2.4mm; }

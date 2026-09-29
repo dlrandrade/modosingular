@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-29 09:04
+# atualizado: 2026-09-29 12:45
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -1259,6 +1259,10 @@ decisoes:
   ou página anterior a abertura de fase/apêndice; aceitos. Ideia de deixar boxes ''nota'' quebrarem não adotada:
   mexeria em todos os capítulos aprovados. F4, F5 e F6 concluídas; PDFs finais de leitura e de gráfica (sangria
   3 mm e marcas de corte) gerados.'
+- '2026-09-29: Diagramação: mais respiro. Cabeçalho corrente a 9 mm do texto (era 4 mm), nos dois lados; linhas
+  de ponta a ponta (conceito, guardar, figura, tabela, cabeçalho de seção, critérios, total, faixas, sumário, gabarito)
+  com espaço maior antes e depois (8–14 mm fora, 3,4–5 mm dentro). Autodiagnóstico mantém respiro menor por dentro
+  para caber numa folha. O livro passou de 487 para 501 páginas.'
 pendencias: []
 imagens:
   ler a própria peça impressa como de outra pessoa: 25
