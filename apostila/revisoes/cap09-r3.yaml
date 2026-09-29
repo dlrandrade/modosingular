@@ -1,0 +1,69 @@
+capitulo: 9
+iteracao: 3
+notas: {metodo: 9.0, voz: 9.1, originalidade: 9.2, clareza: 9.1, ritmo: 9.0, concretude: 9.2,
+        coerencia: 8.9, aplicabilidade: 9.1, impresso: 8.9, honestidade: 9.4}
+bloqueadores: []
+pontos_fortes:
+  - 'Os dois bloqueadores anteriores foram resolvidos, e com ganho. O caso do ex-motorista fecha clinicamente ("piorava em pé e andando e aliviava quando ele sentava"; "exercícios de arquear as costas para trás, que pioravam tudo"), e o dado de imagem ficou correto ("quase sempre mostra desgaste nos discos, e muitas vezes uma hérnia").'
+  - 'A contradição central da r2 virou o melhor achado do capítulo. O padrão agora é repertório de verdade, e não livro-texto: "esses pacientes quase nunca contam o carrinho quando ela pergunta pela dor, e contam quando ela pergunta como é fazer mercado". O parágrafo "Reconhecer o sinal na prova é informação. Ouvi-lo ali, e confiar mais nele do que no laudo, é repertório" define o conceito melhor que o box.'
+  - 'A instrução "conte o caso na ordem em que ele aconteceu. Comece pelo que você viu primeiro [...] qual foi a primeira coisa que eu reparei?" é técnica de extração que o leitor usa amanhã, e o campo 01 da oficina ("Faça como a Renata fez, em tópicos") faz o leitor repetir o erro da cena antes de corrigi-lo.'
+  - 'O exemplo da otorrinolaringologista ("O que me preocupa é a pausa [...] Com pausa, peça uma consulta antes da data marcada") e o fecho que tira o conselho errado da própria lista riscada ("o alongamento de posterior de coxa, que estava na lista de onze linhas") seguem exemplares em detalhe de ofício e ética.'
+problemas:
+  - criterio: coerencia
+    trecho: 'A irmã, a quem ela tinha contado da lista no começo da ligação, riu: "Isso aí não estava na sua lista."'
+    por_que: 'A batida se repete entre capítulos (lição cap02-r1). No cap. 5, a mesma irmã já desmonta a autoimagem da Renata com o mesmo gesto: "A irmã, que a conhece desde criança, riu." No cap. 19 ela volta como quem sugere o caminho. A r2 apontou a função repetida; a correção manteve a risada, que é justamente o eco literal. A figurante faz três vezes a mesma coisa em quinze capítulos.'
+    correcao: 'Tirar a risada e deixar a irmã só constatar: "A irmã, a quem ela tinha contado da lista no começo da ligação, ficou um instante calada e disse: “Isso aí não estava na sua lista.”" Ou simplesmente: "“Isso aí não estava na sua lista”, disse a irmã, a quem ela tinha contado da lista no começo da ligação."'
+  - criterio: metodo
+    trecho: "Se eu pudesse avisar uma coisa a quem está começando, o que seria?"
+    por_que: 'A adaptação trocou duas das oito perguntas do PWA e, numa delas, perdeu a que mais extrai repertório: "Qual é a pergunta que eu faço e que meus colegas não fazem?". Essa pergunta é a marca da própria Renata ("e de manhã, como é?"), é o que a otorrinolaringologista faz no exemplo ("eu peço uma coisa antes de qualquer exame") e é o gesto que a seção 3 descreve ("ela já está perguntando como é a caminhada até a padaria"). A pergunta 8 que entrou no lugar tende a produzir conselho genérico de camada Aplicação ("estude muito", "ouça o cliente"). Trocar a recusa, que é do cap. 10, foi acertado; perder a pergunta foi um custo.'
+    correcao: 'Trocar a pergunta 8 por: "Qual pergunta eu faço a todo cliente e raramente ouço um colega fazer?". A lista continua com oito itens e os campos 03 e 04 continuam remetendo às perguntas 2 e 3.'
+  - criterio: aplicabilidade
+    trecho: "“O que se costuma dizer é isto. Na minha prática, o que eu vejo é aquilo, e acho que a diferença vem daqui.”"
+    por_que: 'O "Faça assim" entrega a fôrma, não o exemplo. "Isto", "aquilo" e "daqui" são lacunas disfarçadas, e a lição cap02-r2 veta o exemplo que termina em "assim" ou "isto". A terceira fala ("apostaria neste.") tem o mesmo problema. O leitor já recebe a fôrma no esqueleto e no roteiro; o "Faça assim" deveria mostrar a fôrma preenchida numa profissão.'
+    correcao: 'Preencher em profissões diferentes das da oficina. Ex.: "“O que se costuma dizer é que o carro deve ir à revisão a cada dez mil quilômetros. Nos carros que eu atendo, quem roda pouco e só na cidade precisa trocar o óleo antes, e acho que é o anda e para que desgasta.”" e "“Se eu tivesse que apostar num sinal só, apostaria no cheiro de queimado depois de descer a serra.”"'
+  - criterio: coerencia
+    trecho: "que foi esse detalhe, o carrinho, que a fez desconfiar de um estreitamento do canal e pedir que o médico olhasse de novo o exame. Contou o que mudou no tratamento"
+    por_que: 'O caso mostra o resultado sem mostrar como se chegou a ele (lição cap03-r3). O texto nunca diz se o médico reviu o exame e confirmou a estenose. Mesmo assim, a seção 2 trata o episódio como acerto ("decidiu que um detalhe do supermercado valia mais que o laudo"), e o parágrafo das três peças fala de "a dor que contraria o diagnóstico". Um fisioterapeuta leitor vai perguntar quem confirmou. Sem esse elo, o critério da Renata parece palpite que deu certo, não julgamento que o médico validou.'
+    correcao: 'Meia frase depois de "olhasse de novo o exame": "; que o médico pediu uma ressonância nova e encontrou o canal estreitado entre duas vértebras" (ou "reviu a ressonância e concordou"). O resto fica como está.'
+  - criterio: voz
+    trecho: "O primeiro é informação. O segundo, repertório."
+    por_que: 'A cadência de pares opostos baixou muito desde a r1, mas duas seções ainda passam do limite de uma antítese explícita (lição cap01-r1). Em "A regra e o dia em que ela falha" estão "O primeiro é informação. O segundo, repertório." e, logo depois, "Quem estudou sabe a regra. Quem praticou por muitos anos sabe [...]". Em "Por que o óbvio não parece conteúdo" estão "Reconhecer o sinal na prova é informação. Ouvi-lo ali [...] é repertório." e "Repertório é o que você viu [...]. Opinião é o que você defende [...]". Lido em voz alta, o par em espelho ainda soa a palestra.'
+    correcao: 'Seção 2: manter a nomeação e desfazer o espelho seguinte: "Quem praticou por muitos anos sabe, além da regra, quando ela falha, com que frequência, por quais sinais isso se anuncia e o que fazer no lugar." Seção 3: manter o par do sinal, que é o centro do capítulo, e dissolver o da opinião: "O que você defende a partir disso, inclusive quando custa um cliente, é opinião, e fica para o capítulo 10."'
+  - criterio: ritmo
+    trecho: "O modo de cada um decide onde a pergunta deve ser respondida. Renata levou a dela para onde gravava, o carro no estacionamento da clínica."
+    por_que: 'Há um salto de cronologia. O parágrafo narra no passado que Renata levou a pergunta ao carro, mas só no parágrafo seguinte ela reabre o caderno ("Na semana seguinte") e escolhe a pergunta. O leitor lê o desfecho antes da cena. Em seguida vêm três frases em anáfora ("Quem pensa escrevendo... Quem pensa respondendo... Quem pensa contando..."), que dão ao parágrafo cara de ficha.'
+    correcao: '"O modo de cada um decide onde a pergunta deve ser respondida. Para Renata, é o carro no estacionamento da clínica, onde ela já grava. Quem pensa escrevendo pode responder à mão, no caderno, sem se preocupar com a ordem; quem pensa respondendo rende mais se outra pessoa ler a pergunta em voz alta. E quem pensa contando pode começar sempre pela mesma frase, “teve um cliente”, e deixar a pergunta guiar a história."'
+  - criterio: clareza
+    trecho: "Discorde do consenso com o caso, nunca com a promessa."
+    por_que: 'Qual promessa? O porquê não explica ("Mostre o que você vê e deixe a decisão individual para a consulta"), e o leitor apressado não consegue repetir a regra. A ideia, discordar mostrando o que se viu sem prometer resultado nem prescrever conduta, é boa e está escondida.'
+    correcao: '"Discorde do consenso mostrando o caso, sem prometer resultado." Porquê: "Se a sua observação contraria o que se costuma dizer, esse é o valor dela. Mostre o que você vê e deixe a decisão de cada pessoa para a consulta."'
+  - criterio: ritmo
+    trecho: "a janela de ferro que os clientes dele chegam querendo trocar, depois de regulada e vedada, segura o vento, nas obras dele, melhor do que a de alumínio barata que viria no lugar dela."
+    por_que: 'São quatro intercalações numa frase só: sujeito, oração relativa, particípio, predicado, a ressalva "nas obras dele" e a comparação. Lida em voz alta, ela se perde antes do verbo. Não combina com o Caio, que "pensa contando" e deveria ter a frase mais fluida do parágrafo.'
+    correcao: '"Caio conhece uma exceção ao que se diz sobre apartamentos antigos. Os clientes chegam querendo trocar a janela de ferro; nas obras dele, depois de regulada e vedada, ela segura o vento melhor que a de alumínio barata que viria no lugar."'
+  - criterio: clareza
+    trecho: "idade em que o exame quase sempre mostra desgaste nos discos, e muitas vezes uma hérnia, sem que seja ela a causa da dor."
+    por_que: 'O fato agora está certo, mas a frase acumula seis segmentos ("com um laudo [...] e setenta anos de coluna, idade em que [...], e muitas vezes [...], sem que seja ela [...]"), e o "ela" fica ambíguo entre a hérnia e o desgaste. É a frase que sustenta a tese do capítulo; precisa ser a mais limpa.'
+    correcao: '"[...] com um laudo de hérnia na pasta e setenta anos de coluna. Nessa idade, o exame quase sempre mostra desgaste nos discos, e muitas vezes uma hérnia que não é a causa da dor."'
+  - criterio: aplicabilidade
+    trecho: 'O caso que mudou o seu jeito de trabalhar, e a decisão que você passou a tomar por causa dele, contado sem identificar ninguém (pergunta 3)'
+    por_que: 'O campo 04 vale 3 pontos no checklist ("Contei um caso inteiro [...] na ordem em que aconteceu, e a decisão que veio dele") e a prosa pede que o caso seja contado do primeiro detalhe à conclusão. Tudo isso tem quatro linhas, cerca de quarenta palavras à mão. O próprio exemplo da enfermeira ocupa duas. O leitor que seguir a instrução da seção 4 não cabe no campo.'
+    correcao: 'Subir o campo 04 para 6 linhas (a p020 tem folga no pé) ou dividi-lo em dois: "O caso, na ordem em que aconteceu" (4 linhas) e "A decisão que você passou a tomar" (2 linhas).'
+  - criterio: originalidade
+    trecho: "Parecem pequenas demais, pessoais demais ou óbvias demais para merecer um texto"
+    por_que: 'A ideia repete, sem remissão, a "armadilha do óbvio" do cap. 6 (Otávio não reconhece as próprias ideias "porque, para ele, são óbvias"), e a seção 3 já retoma o cap. 1. É a mesma ideia pela terceira vez no livro, com tríade retórica.'
+    correcao: '"As três camadas de baixo aparecem pouco, porque quem as tem cai na armadilha do capítulo 6: acha tudo aquilo óbvio demais para merecer um texto, e deixa na conversa de corredor, onde se perde no dia seguinte."'
+edicoes_de_linha:
+  - '"O repertório sofre disso mais que tudo." -> "O repertório é o que mais sofre com isso."'
+  - '"Pesa também outra coisa. Renata, se alguém lhe perguntasse," -> "Renata, se alguém lhe perguntasse," (resto de narrador que anuncia)'
+  - '"e nos clientes dele ela quase sempre existe" -> "e entre os clientes dele ela quase sempre existe"'
+  - '"E Otávio decide se leva uma testemunha pela primeira conversa com ela:" -> "E Otávio decide já na primeira conversa se leva uma testemunha à audiência:"'
+  - 'Roteiro: "Em mais ou menos {sua estimativa, se tiver} dos casos que chegam até mim" -> "Nos casos que chegam até mim, em mais ou menos {quantos de cada dez, se tiver a estimativa}," (a estimativa do próprio capítulo, "sete em cada dez", não cabe em "sete em cada dez dos casos")'
+  - 'Oficina, grade do campo 05: rótulos "Peça 1" a "Peça 5" -> "1" a "5" (servem também a quem classifica explicações a clientes)'
+diagramacao:
+  - 'p013: cerca de oito linhas em branco no pé. O intertítulo "As cinco camadas" e o parágrafo de três linhas que o segue desceram para a p014 junto com a figura. Apontado na r2 e não resolvido: encadear o intertítulo ao parágrafo, não à figura.'
+  - 'p012: cerca de cinco linhas em branco antes do intertítulo "A regra e o dia em que ela falha", que abre a p013. Cabem ali o intertítulo e três linhas do primeiro parágrafo; conferir as regras de órfã e keep-with-next do h2.'
+  - 'p015: o rótulo "NA PRÁTICA" e o título "A mesma pergunta, em duas camadas" continuam quase encostados, com entrelinha menor que a dos outros boxes. Apontado na r2; abrir 2 a 3 pt.'
+  - 'p014, figura 9.1: os dois rótulos de grupo ("NOS LIVROS E NOS CURSOS" / "O QUE SÓ A PRÁTICA DÁ") ficam empilhados, alinhados à direita e colados ao fio tracejado, e se leem como um título de duas linhas. Afastar cada rótulo do fio (um acima, outro abaixo, com 4 a 6 pt de respiro) ou levá-los para a margem esquerda, alinhados ao topo de cada grupo.'
+  - 'p016: cerca de três linhas em branco no pé, porque o box "Oito perguntas" abre a p017. Melhorou muito desde a r2 (eram oito); aceitável.'
+veredito: "Sem bloqueadores, com o caso central agora exato e a contradição das camadas resolvida com ganho. O capítulo está no patamar de aprovação e precisa só de uma passada de linha: a risada da irmã repetida do cap. 5, a pergunta do PWA que se perdeu, o \"Faça assim\" com lacunas disfarçadas e o elo que falta entre a suspeita da Renata e a confirmação do médico."

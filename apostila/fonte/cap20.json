@@ -1,0 +1,325 @@
+{
+ "n": 20,
+ "fase": 4,
+ "tema": "O formato mínimo viável",
+ "subtitulo": "A menor unidade publicável que ainda carrega você",
+ "frase": "O formato certo não é o que rende mais. É o que você consegue repetir sem negociar consigo mesmo.",
+ "conceito": {
+  "termo": "Formato mínimo viável (FMV)",
+  "definicao": "A menor peça de conteúdo que ainda transmite o seu repertório, respeita o seu modo e cabe no seu pior dia. É o formato-base do sistema: tudo o mais é variação ou ampliação dele.",
+  "porqueImporta": "Porque um sistema com um formato-padrão elimina a decisão. E decisão repetida é o que mais consome energia num processo diário — mais do que a execução em si."
+ },
+ "ilustracao": {
+  "motivo": "engrenagem",
+  "legenda": "Uma peça padrão, repetida. É assim que máquina funciona."
+ },
+ "leituraMin": 7,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Se toda vez que você vai produzir precisa decidir o formato, você está gastando energia antes de começar."
+  },
+  {
+   "t": "p",
+   "text": "É a mesma lógica de quem usa sempre a mesma roupa para trabalhar: não é falta de imaginação, é economia de decisão. Você reserva o esforço mental para o que importa — o conteúdo — em vez de gastá-lo escolhendo o invólucro."
+  },
+  {
+   "t": "h",
+   "text": "Como encontrar o seu FMV"
+  },
+  {
+   "t": "p",
+   "text": "O seu FMV precisa passar em quatro testes ao mesmo tempo. Falhar em um só já o desqualifica."
+  },
+  {
+   "t": "checklist",
+   "titulo": "Os quatro testes do FMV",
+   "items": [
+    "Teste do modo: ele nasce no seu modo criativo (oral, escrito, dialógico ou narrativo)?",
+    "Teste do pior dia: você consegue fazer numa terça terrível, cansado, sem tempo?",
+    "Teste do repertório: ele comporta detalhe, exceção ou critério — ou só cabe informação rasa?",
+    "Teste da repetição: você aguenta fazer isso cem vezes sem enjoar?"
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O teste que mais reprova",
+   "texto": "O terceiro. Muita gente escolhe um FMV rápido demais — story de 15 segundos, frase solta no feed — e descobre que ele não comporta o repertório. O resultado é presença constante e indiferenciada: você aparece muito e não diz nada que seja só seu."
+  },
+  {
+   "t": "h",
+   "text": "Cinco FMVs que funcionam, por modo"
+  },
+  {
+   "t": "table",
+   "caption": "Formatos-base testados",
+   "head": [
+    "FMV",
+    "Modo",
+    "Duração real",
+    "O que comporta"
+   ],
+   "rows": [
+    [
+     "Áudio de 3 min transcrito",
+     "Oral",
+     "6–10 min",
+     "Repertório completo, critério, caso"
+    ],
+    [
+     "Texto de 5 parágrafos",
+     "Escrito",
+     "20–25 min",
+     "Argumento estruturado, contraponto"
+    ],
+    [
+     "Resposta a uma pergunta",
+     "Dialógico",
+     "8–12 min",
+     "Pergunta recorrente nos três níveis"
+    ],
+    [
+     "Caso em quatro tempos",
+     "Narrativo",
+     "15–20 min",
+     "Caso-prova, critério embutido"
+    ],
+    [
+     "Vídeo de 60s, uma tomada",
+     "Oral / Narrativo",
+     "5–8 min",
+     "Uma ideia com um detalhe específico"
+    ]
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "FMV mal escolhido e bem escolhido",
+   "ruim": "FMV: carrossel de 10 slides com design próprio. Custo real: 95 minutos. Sobrevive ao pior dia? Não. Resultado: 4 peças no primeiro mês, 0 no segundo.",
+   "bom": "FMV: áudio de 3 minutos gravado no carro, transcrito por app, publicado como texto e como reels com legenda. Custo real: 9 minutos. Sobrevive ao pior dia? Sim. Resultado: 8 peças por mês, sustentadas há 14 meses.",
+   "porque": "O segundo não é melhor esteticamente — é melhor estruturalmente. E 112 peças publicadas superam qualquer comparação de acabamento com 4."
+  },
+  {
+   "t": "h",
+   "text": "A variação vem depois, não antes"
+  },
+  {
+   "t": "p",
+   "text": "Depois de trinta ou quarenta repetições do seu FMV, a variação passa a custar pouco: você já tem a matéria-prima, já tem o hábito, já tem o repertório organizado."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "camadas",
+    "titulo": "A ordem de expansão do sistema",
+    "camadas": [
+     {
+      "rotulo": "Formatos novos e experimentação",
+      "nota": "Só depois do mês 6."
+     },
+     {
+      "rotulo": "Variações do FMV",
+      "nota": "O mesmo insumo em outro formato. Mês 3 a 6."
+     },
+     {
+      "rotulo": "Repetição do FMV",
+      "nota": "Os primeiros 3 meses. Só isso."
+     },
+     {
+      "rotulo": "Captura diária",
+      "nota": "A base. Nunca para."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "A regra dos 30",
+   "texto": "Não mude de formato antes de trinta repetições. A vontade de trocar aparece por volta da décima e quase sempre é tédio disfarçado de estratégia — o seu público ainda não viu nem a metade."
+  }
+ ],
+ "insights": [
+  "Decisão repetida consome mais energia do que execução. Um formato-padrão elimina a decisão.",
+  "O teste que mais reprova FMVs é o do repertório: formatos rápidos demais produzem presença constante e indiferenciada.",
+  "A vontade de trocar de formato aparece por volta da décima repetição e quase sempre é tédio disfarçado de estratégia."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Meu FMV passou nos quatro testes",
+   "ajuda": "Modo, pior dia, repertório e repetição.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Cronometrei o custo real dele",
+   "ajuda": "Medido, não estimado.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Produzi uma peça no meu FMV hoje",
+   "ajuda": "Testei na prática.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Assumi as 30 repetições antes de trocar",
+   "ajuda": "Registrei o compromisso.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que ter um formato-padrão economiza mais do que parece?",
+   "opcoes": [
+    "Porque permite negociar preço com editores.",
+    "Porque elimina a decisão, e decisão repetida consome mais energia do que a execução.",
+    "Porque o algoritmo premia consistência de formato.",
+    "Porque reduz o custo de equipamento."
+   ],
+   "correta": 1,
+   "explicacao": "É a lógica de usar sempre a mesma roupa para trabalhar: reserva-se o esforço mental para o conteúdo, não para o invólucro."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual dos quatro testes do FMV mais reprova formatos escolhidos por impulso?",
+   "opcoes": [
+    "O teste do modo.",
+    "O teste do pior dia.",
+    "O teste do repertório.",
+    "O teste da repetição."
+   ],
+   "correta": 2,
+   "explicacao": "Formatos muito curtos passam nos outros três e falham nesse — geram presença constante e indiferenciada."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é a 'regra dos 30'?",
+   "opcoes": [
+    "Publicar 30 peças por mês.",
+    "Não mudar de formato antes de 30 repetições dele.",
+    "Capturar 30 ideias por semana.",
+    "Manter vídeos com no máximo 30 segundos."
+   ],
+   "correta": 1,
+   "explicacao": "A vontade de trocar surge por volta da décima repetição — mas o seu público ainda não viu nem a metade."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Definir e testar o seu FMV",
+  "objetivo": "Escolher o formato-base que você vai repetir 30 vezes, e provar hoje que ele cabe no seu pior dia.",
+  "tempoMin": 30,
+  "entrega": "Um FMV definido, aprovado nos quatro testes, e uma peça real produzida nele.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "áudio",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "fmv",
+    "rotulo": "O meu formato mínimo viável",
+    "placeholder": "Descreva em uma frase. Ex.: 'áudio de 3 min no carro, transcrito, publicado como texto + reels legendado'.",
+    "linhas": 2
+   },
+   {
+    "id": "testes",
+    "rotulo": "Os quatro testes",
+    "placeholder": "Modo: __\nPior dia: __\nRepertório: __\nRepetição (100x): __",
+    "linhas": 4
+   },
+   {
+    "id": "custo",
+    "rotulo": "Custo real cronometrado",
+    "placeholder": "Do primeiro pensamento ao publicado. Meça de verdade.",
+    "linhas": 1
+   },
+   {
+    "id": "peca",
+    "rotulo": "A peça que você produziu hoje nesse formato",
+    "placeholder": "Cole aqui o texto/roteiro. Use uma captura do capítulo 19 como matéria-prima.",
+    "linhas": 8
+   },
+   {
+    "id": "compromisso",
+    "rotulo": "Compromisso das 30 repetições",
+    "placeholder": "'Vou repetir este formato 30 vezes antes de trocar.' Assine com a data.",
+    "linhas": 1
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O custo cronometrado cabe no seu pior dia — se não cabe, o FMV está errado.",
+   "A peça usou uma captura do banco, não uma ideia nova.",
+   "Você conseguiria fazer isso mais 29 vezes sem odiar o processo."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes do formato-base",
+  "regras": [
+   {
+    "regra": "Padronize a abertura",
+    "porque": "Abertura padrão elimina a decisão mais cara de todas — a primeira frase — e treina o público a te reconhecer."
+   },
+   {
+    "regra": "Uma ideia por peça",
+    "porque": "Duas ideias diluem as duas e queimam duas capturas de estoque."
+   },
+   {
+    "regra": "Publique mesmo quando não estiver ótimo",
+    "porque": "A peça mediana publicada supera a excelente adiada. Sempre."
+   }
+  ],
+  "facaAssim": [
+   "Ter uma frase de abertura recorrente que já é sua.",
+   "Manter a mesma duração aproximada em todas as peças.",
+   "Encerrar do mesmo jeito, criando previsibilidade."
+  ],
+  "eviteAssim": [
+   "Trocar de formato porque uma peça performou mal.",
+   "Aumentar o escopo do FMV com o tempo — ele deve permanecer mínimo.",
+   "Juntar duas capturas numa peça só para 'aproveitar'."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Abertura padrão",
+    "texto": "A mesma estrutura sempre. Elimina a decisão mais cara."
+   },
+   {
+    "rotulo": "Corpo",
+    "texto": "Uma ideia, com um elemento de repertório."
+   },
+   {
+    "rotulo": "Critério",
+    "texto": "O que a pessoa leva. Presente em toda peça."
+   },
+   {
+    "rotulo": "Fechamento padrão",
+    "texto": "Previsível. Previsibilidade é reconhecimento."
+   }
+  ]
+ },
+ "roteiro": "Vou ser curto hoje, porque o dia foi cheio.\n\nUma ideia só: {a ideia, em uma frase}\n\n{o detalhe da sua prática que sustenta essa ideia}\n\nSe você levar só isso daqui, já vale.",
+ "estrutura": [
+  {
+   "rotulo": "A ideia",
+   "texto": "Uma só, em uma frase. Sem segunda ideia junto."
+  },
+  {
+   "rotulo": "O detalhe",
+   "texto": "O dado da sua prática que sustenta a ideia."
+  },
+  {
+   "rotulo": "O critério",
+   "texto": "A régua que a pessoa leva."
+  },
+  {
+   "rotulo": "O fecho",
+   "texto": "Curto. Termine quando a ideia acabar."
+  }
+ ]
+}

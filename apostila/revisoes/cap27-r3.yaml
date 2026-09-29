@@ -1,0 +1,61 @@
+capitulo: 27
+iteracao: 3
+notas: {metodo: 9.2, voz: 9.2, originalidade: 9.0, clareza: 9.1, ritmo: 9.1, concretude: 9.4,
+        coerencia: 8.7, aplicabilidade: 9.1, impresso: 9.2, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - 'A r3 resolveu praticamente tudo o que a r2 apontou. "Perguntar a cada cliente" saiu, e o parágrafo do quarto degrau agora fecha em cena ("não como elogio, mas como o rastro que o perfil não mostrava"). A oferta nasce de uma pergunta genérica ("como alguém que lê você marca uma conversa?"), e não da mensagem de uma paciente. O campo 01 devolve o diagnóstico do degrau, com item no checklist. As três ligações viraram duas, e a mãe do adolescente é encaminhada "seguindo a oferta". O contador virou cardiologista, e a mãe em Santa Cruz do Sul, coerente com o cap. 8, faz o teste. A legenda da escada ficou verdadeira ("Os números mostram quantos viram; nenhum mostra quem já chegou ao quarto") e a descrição do perfil ganhou o CRP.'
+  - 'A ética continua sendo o melhor gesto de ofício da Fase V, e sem sermão: a linha do 188 que "passou a pôr em todas as respostas desse tipo", "Sentiu mais responsabilidade do que satisfação" e "Lúcia escreveu essa linha antes de todas as outras, e foi a única que não mudou em nenhuma revisão". O detalhe do CRP ("que o código exige em qualquer divulgação") confere com o art. 20, a, do Código de Ética do Psicólogo, e o 188 é o número correto do CVV.'
+  - 'O último metro tem uma das melhores imagens do livro: a mãe que "tinha procurado um número no alto da página, onde fica o de toda loja que ela conhece, e só achou uma frase bonita e o endereço antigo". O fecho de dezembro amarra as duas metades do capítulo, o silêncio e a logística, sem moral: "quase sempre em silêncio, e às vezes quase não viram, por falta de um telefone".'
+  - 'O impresso melhorou de verdade. A abertura com o iceberg é inédita no livro e ilustra a tese, o compara saiu do pé da p016, a rede abre no alto da p021 e o lint está limpo (zero travessão, zero frase-soco). A tabela 27.1 conversa com as camadas do cap. 26 ("Reconhecimento do problema"; "Critério, contraponto, régua").'
+problemas:
+  - criterio: coerencia
+    trecho: "Renata dedica um áudio inteiro, uma vez a cada dez peças, a dizer quem ela atende e quem não, com a mesma voz com que explica a dor."
+    por_que: 'A r2 pediu para avisar o cap. 26, e ele não foi alinhado. Lá, Bianca continua a "guardar o convite para marcar, que antes ia no fim de quase toda legenda, para uma peça de ação a cada duas semanas". No ritmo da Renata, de duas peças por semana, isso dá uma a cada quatro. O leitor que lê os dois capítulos em dias seguidos encontra duas frequências para a mesma personagem. O próprio 26 também se contradiz, já que a referência dele ("de cada dez peças… uma de ação") é de uma a cada dez.'
+    correcao: 'Corrigir no cap. 26: "…para uma peça de ação a cada cinco semanas, mais ou menos, uma em cada dez." Se o 26 não puder mudar agora, tirar a frequência daqui para o 27 não depender dele: "Renata dedica a peça de ação, a menor camada do funil dela, a dizer quem ela atende e quem não, com a mesma voz com que explica a dor."'
+  - criterio: aplicabilidade
+    trecho: "Seja específico. Em saúde e psicologia, inclua o que fazer numa urgência. Um cardiologista: “Arritmias que precisam de ablação; para essas, indico um eletrofisiologista.”"
+    por_que: 'O exemplo desobedece à própria instrução que vem antes dele. Um cardiologista é justamente da saúde, e a frase não diz o que fazer numa urgência. O leitor da área da saúde vai copiar o modelo, e o modelo deixa de fora a parte que o capítulo inteiro diz ser a mais importante ("a parte mais útil da oferta é justamente a que diz que não é ali, e onde é").'
+    correcao: '"Um cardiologista: “Arritmias que precisam de ablação; para essas, indico um eletrofisiologista. Dor no peito, falta de ar ou desmaio não esperam consulta: pronto-socorro ou 192.”" (192 é o SAMU.)'
+  - criterio: metodo
+    trecho: "Se quase nenhum, a maioria ainda está entre o segundo e o terceiro degrau, e a tabela 27.1 diz o que falta publicar."
+    por_que: 'A inferência contradiz a tese e o caso central do próprio capítulo. A leitora da quinta-feira estava no quarto degrau havia meses, e não chegou porque o último metro estava quebrado ("desistiu nas duas vezes porque não sabia se a psicóloga dos textos aceitava pacientes novos"). Poucos clientes citando peças pode significar pouca familiaridade ou uma porta quebrada, e o capítulo existe para separar as duas coisas. Do jeito que está, o campo 01 manda o leitor publicar mais critério quando o problema pode ser um telefone antigo.'
+    correcao: '"Se quase nenhum, ou as peças ainda não levam ninguém ao quarto degrau, ou o último metro está quebrado, e o campo 02 separa as duas coisas. Se vários citam, há gente no quarto degrau, e a tabela 27.1 diz o que continuar publicando."'
+  - criterio: coerencia
+    trecho: "(cap. 28) Lúcia, no capítulo anterior, chegou à mesma pergunta por outro caminho, e descobriu que quem procura quase nunca aparece nas curtidas."
+    por_que: 'A remissão do 28 aponta para o que a r2 mandou tirar do 27. A Lúcia não chega mais à pergunta de Helena ("como o senhor chegou até nós?"). Agora ela só passa a "ouvir essas frases de outro jeito". Com a revisão, a remissão ficou meio falsa. O conserto é no 28, mas afeta a coerência deste capítulo.'
+    correcao: 'No cap. 28: "Lúcia, no capítulo anterior, descobriu por outro caminho que quem procura quase nunca aparece nas curtidas: ouvindo o que os pacientes novos diziam nas primeiras frases."'
+  - criterio: concretude
+    trecho: "As duas tinham feito o mesmo caminho da leitora da quinta-feira: meses de leitura sem nenhum sinal, e depois uma ligação"
+    por_que: 'Como a r2 cortou a busca nas curtidas, o texto não mostra mais como Lúcia sabe que as duas não deixaram "nenhum sinal" (lição cap03-r3: quem sabia o quê, e quando). O gabarito repete a afirmação ("sem aparecer nas curtidas"). A solução é a informação vir das próprias pacientes, o que combina com o modo de quem ouve.'
+    correcao: '"As duas tinham feito o mesmo caminho da leitora da quinta-feira. Contaram que liam havia meses e nunca tinham comentado nada, e depois ligaram para um número que uma achou na lista do convênio e a outra ganhou de uma amiga, já paciente." No gabarito da questão 01: "…chegaram do mesmo jeito, e contaram que nunca tinham comentado nada."'
+  - criterio: originalidade
+    trecho: "de uma conta que não seguia ninguém da área e que nunca tinha curtido nenhuma das peças dela."
+    por_que: 'A batida de quem chega sem nunca ter curtido abre também o 28 ("Nenhum dos três tinha curtido a peça"; "Os três que ligaram não tinham curtido"), e o 25 e o 26 fecham com quem chega citando uma peça. O conceito é do 27 (o insight do PWA está aqui), então quem deve reduzir é o 28. Mesmo assim, aqui a informação aparece duas vezes em dois parágrafos seguidos ("Nenhuma curtida, nenhuma resposta, nenhuma mensagem"), o que gasta a batida à toa.'
+    correcao: 'Cortar a segunda metade da frase do parágrafo 2: "Vinha de um nome que ela não reconhecia, sem foto, de uma conta que não seguia ninguém da área." A constatação fica só no parágrafo seguinte, onde tem mais força. No cap. 28, trocar "Nenhum dos três tinha curtido a peça" por um dado que o 27 não usa (por exemplo, dois dos três tinham salvado a peça, e o terceiro a recebeu por mensagem).'
+  - criterio: honestidade
+    trecho: "Uma a cada dez peças é uma boa referência. Escreva o seu número e a próxima data."
+    por_que: 'O número vem do PWA e é uma regra prática, mas aqui aparece com a autoridade de um parâmetro. O cap. 26 faz isso direito com a proporção dele ("nenhum estudo conhecido fixa esses números"). O leitor exigente vai querer saber de onde saiu o dez.'
+    correcao: '"Uma a cada dez peças é a referência deste livro, uma regra prática, e não um número de pesquisa. Escreva o seu número e a próxima data."'
+  - criterio: clareza
+    trecho: "Na véspera, Lúcia tinha deixado uma cópia impressa com a secretária"
+    por_que: 'O parágrafo anterior termina na semana seguinte à oferta ("Na semana seguinte, voltou a responder à pergunta da amiga"). "Na véspera" fica sem referente imediato, e o leitor precisa voltar para descobrir véspera de quê.'
+    correcao: '"Na véspera da oferta, Lúcia tinha deixado uma cópia impressa com a secretária…"'
+  - criterio: ritmo
+    trecho: "Em dezembro, a leitora da quinta-feira estava na quinta sessão."
+    por_que: '"Quinta-feira… quinta sessão" é um eco que se ouve em voz alta, justamente na frase que abre o fecho.'
+    correcao: '"Em dezembro, a leitora da quinta-feira já tinha feito cinco sessões."'
+  - criterio: voz
+    trecho: "A leitora da quinta-feira passou por toda ela sem que Lúcia visse nenhum passo."
+    por_que: 'O epíteto "a leitora da quinta-feira" aparece cinco vezes na prosa. Funciona como etiqueta, mas na quarta e na quinta vez já soa como fórmula. Um autor variaria.'
+    correcao: 'Manter o epíteto na primeira ocorrência, no contraste das duas pacientes e no fecho. Nas outras, usar "ela" ou "a leitora de outubro", por exemplo: "A leitora de outubro tinha começado a ler numa dessas semanas."'
+edicoes_de_linha:
+  - '"Descreve o processo, e nunca o resultado." -> "Descreve o processo, nunca o resultado." (a mesma regra aparece idêntica na rede, conforme a lição cap03-r1, e o capítulo fica com uma antítese ", e não" a menos)'
+  - '"que alguém como a leitora da quinta-feira reconhecesse na oferta a mesma pessoa dos trinta textos anteriores" -> "que alguém como a leitora da quinta-feira reconhecesse na oferta a mesma pessoa dos textos anteriores" (em novembro já eram mais de trinta, e "alguém como" não leu exatamente trinta)'
+  - '"| Desconhecido | Encontrar você por acaso | Reconhecimento do problema |" -> "| Desconhecido | Encontrar você por acaso | Reconhecimento do problema (cap. 26) |" (a remissão amarra a tabela às camadas do capítulo anterior)'
+  - '"Uma fonoaudióloga: “Leem, mas ninguém cita." -> trocar a profissão (a fonoaudióloga está no cap. 29 e no 21). Exemplo: "Uma nutricionista: “Leem, mas ninguém cita."'
+diagramacao:
+  - 'p020: branco de cerca de 30% depois do "Confira antes de seguir", porque a rede foi forçada para a p021. É consequência aceitável da correção da r2 (a rede não quebra mais no meio da intro), e fica só registrado.'
+  - 'p013 e p014: brancos pequenos (~6-8%) no pé, antes do parágrafo "O quarto degrau aparece…" e do box compara, que não se dividem. São aceitáveis e não pedem ação.'
+  - 'p021: branco de ~30% antes do esqueleto indivisível (p022). É aceito pelo projeto.'
+veredito: "Aprovável. A r3 fechou os problemas estruturais da r2 e o capítulo chega a 9 com folga pequena. Faltam ajustes de linha e de vizinhança: o exemplo do cardiologista sem a linha de urgência, a inferência do campo 01, a frequência da Renata que ainda contradiz o 26 e a remissão do 28, que precisa acompanhar o que o 27 virou."

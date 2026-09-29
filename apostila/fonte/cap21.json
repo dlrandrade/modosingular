@@ -1,0 +1,347 @@
+{
+ "n": 21,
+ "fase": 4,
+ "tema": "O ritual incorporado",
+ "subtitulo": "Conteúdo deixa de ser evento e passa a ser consequência",
+ "frase": "Enquanto criar for uma atividade separada da sua vida profissional, todo esforço vai ser pesado.",
+ "conceito": {
+  "termo": "Incorporação",
+  "definicao": "O estado em que a produção de conteúdo deixa de ser uma tarefa adicional na agenda e passa a acontecer dentro do fluxo do trabalho que já existe — como consequência do atendimento, não como um segundo turno depois dele.",
+  "porqueImporta": "Porque tarefa adicional compete por tempo com o trabalho que paga as contas, e sempre perde. Consequência não compete: ela acontece junto."
+ },
+ "ilustracao": {
+  "motivo": "engrenagem",
+  "legenda": "Não é uma máquina ao lado da outra. É a mesma máquina, com mais uma saída."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Se produzir conteúdo significa parar o trabalho, montar cenário, escolher roupa, preparar pauta, gravar uma sequência, revisar e então voltar para a vida real, existe uma separação estrutural entre ser especialista e comunicar."
+  },
+  {
+   "t": "p",
+   "text": "E enquanto essa separação existir, a comunicação vai perder. Sempre. Porque ela está competindo com o trabalho que paga as contas, e nenhuma pessoa sensata escolhe o conteúdo quando a agenda aperta."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A reorganização proposta",
+   "texto": "Conteúdo deixa de ser evento e passa a ser consequência. Consequência do atendimento, da observação, das dúvidas que surgem, das conversas, das objeções, da experiência acumulada e da própria forma como você interpreta o seu mercado."
+  },
+  {
+   "t": "h",
+   "text": "O que separa evento de consequência"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Conteúdo como evento",
+    "tom": "neg",
+    "items": [
+     "Tem hora marcada separada do trabalho.",
+     "Exige preparação: cenário, roupa, pauta.",
+     "Compete com atendimento por tempo.",
+     "Quando a agenda aperta, é o primeiro a cair.",
+     "Gera culpa quando não acontece."
+    ]
+   },
+   "direita": {
+    "titulo": "Conteúdo como consequência",
+    "tom": "pos",
+    "items": [
+     "Acontece dentro do fluxo que já existe.",
+     "Usa o que já está acontecendo como insumo.",
+     "Não compete: se alimenta do trabalho.",
+     "Quando a agenda aperta, há MAIS matéria-prima.",
+     "Gera acúmulo mesmo em semanas ruins."
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare na quarta linha. Essa é a inversão que muda tudo: no modelo de evento, semana cheia significa zero conteúdo. No modelo de consequência, semana cheia significa mais captura."
+  },
+  {
+   "t": "h",
+   "text": "Os três encaixes que funcionam"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "O encaixe de intervalo",
+     "texto": "Entre um atendimento e outro. Trinta segundos de captura, ou um áudio de dois minutos enquanto o próximo entra. Não requer nenhum bloco novo na agenda."
+    },
+    {
+     "titulo": "O encaixe de deslocamento",
+     "texto": "No carro, no trajeto, na fila. Tempo que já é seu e já está morto. Áudio funciona perfeitamente aqui; é o encaixe mais subestimado."
+    },
+    {
+     "titulo": "O encaixe de transição",
+     "texto": "Um bloco fixo de 20 minutos entre o fim do atendimento e a saída. Não é tempo extra: é a última coisa do turno, não a primeira da noite."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O encaixe que não funciona",
+   "texto": "Depois do jantar, em casa. Parece o horário mais livre e é o pior de todos: você já gastou a energia de decisão do dia, o contexto de trabalho sumiu, e a família compete. Todo especialista tenta esse encaixe primeiro e quase nenhum sustenta."
+  },
+  {
+   "t": "h",
+   "text": "A semana modelo"
+  },
+  {
+   "t": "table",
+   "caption": "Como fica uma semana com o sistema incorporado",
+   "head": [
+    "Quando",
+    "O quê",
+    "Custo"
+   ],
+   "rows": [
+    [
+     "Todo dia, nos intervalos",
+     "Capturar 2–3 itens",
+     "90 segundos/dia"
+    ],
+    [
+     "Domingo, 20h",
+     "Selecionar 2 do estoque",
+     "10 minutos"
+    ],
+    [
+     "Terça, fim do turno",
+     "Produzir peça 1 no FMV",
+     "12 minutos"
+    ],
+    [
+     "Quinta, fim do turno",
+     "Produzir peça 2 no FMV",
+     "12 minutos"
+    ],
+    [
+     "TOTAL SEMANAL",
+     "2 peças publicadas",
+     "~42 minutos"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Quarenta e dois minutos por semana. Menos do que a maioria das pessoas gasta rolando o feed em dois dias."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Onde o tempo realmente vai",
+    "unidade": "minutos por semana",
+    "series": [
+     {
+      "rotulo": "Sistema incorporado",
+      "valor": 42,
+      "nota": "Dentro do fluxo. Sobrevive à semana cheia."
+     },
+     {
+      "rotulo": "Modelo de evento (quando acontece)",
+      "valor": 190,
+      "nota": "Bloco separado. Cai na primeira semana difícil."
+     },
+     {
+      "rotulo": "Tempo médio no feed alheio",
+      "valor": 380,
+      "nota": "O tempo existe. Ele só está alocado em outro lugar."
+     }
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A frase que resolve a objeção do tempo",
+   "texto": "Quase ninguém não tem 42 minutos por semana. O que quase todo mundo não tem é 190 minutos em um bloco contínuo, com energia, sem interrupção. O problema nunca foi a quantidade — foi o formato do tempo exigido."
+  }
+ ],
+ "insights": [
+  "No modelo de evento, semana cheia significa zero conteúdo. No modelo de consequência, semana cheia significa mais matéria-prima.",
+  "O encaixe 'depois do jantar' parece o mais livre e é o pior: energia de decisão gasta, contexto de trabalho perdido, família competindo.",
+  "O problema nunca foi a quantidade de tempo — foi o formato do tempo exigido: 42 minutos fracionados existem, 190 contínuos não."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Escolhi meus encaixes na rotina existente",
+   "ajuda": "Intervalo, deslocamento ou transição — não 'depois do jantar'.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Montei minha semana modelo",
+   "ajuda": "Com dias, horários e custo estimado.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Testei um encaixe hoje",
+   "ajuda": "Funcionou na prática, não só no papel.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "O total semanal cabe no meu pior mês",
+   "ajuda": "Menos de 60 minutos por semana.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é a inversão central entre 'evento' e 'consequência'?",
+   "opcoes": [
+    "Consequência exige melhor equipamento.",
+    "No modelo de evento, semana cheia significa zero conteúdo; no de consequência, significa mais matéria-prima.",
+    "Consequência gera mais alcance.",
+    "Evento é mais profissional."
+   ],
+   "correta": 1,
+   "explicacao": "Evento compete com o trabalho por tempo e perde. Consequência se alimenta do trabalho — quanto mais movimento, mais insumo."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que 'depois do jantar' é o pior encaixe?",
+   "opcoes": [
+    "Porque a internet fica mais lenta.",
+    "Porque a energia de decisão do dia já foi gasta, o contexto de trabalho sumiu e a família compete.",
+    "Porque o algoritmo entrega menos à noite.",
+    "Porque a iluminação é ruim."
+   ],
+   "correta": 1,
+   "explicacao": "Parece o horário mais livre e é onde quase todo especialista tenta primeiro — e quase nenhum sustenta."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Segundo o capítulo, qual é o problema real da objeção 'não tenho tempo'?",
+   "opcoes": [
+    "A quantidade de tempo disponível.",
+    "O formato do tempo exigido: blocos contínuos e longos, em vez de minutos fracionados.",
+    "A falta de ajuda profissional.",
+    "A concorrência com outras redes sociais."
+   ],
+   "correta": 1,
+   "explicacao": "42 minutos fracionados quase todo mundo tem. 190 minutos contínuos, com energia e sem interrupção, quase ninguém."
+  }
+ ],
+ "tarefa": {
+  "titulo": "A sua semana modelo",
+  "objetivo": "Encaixar a produção dentro da rotina que já existe, de forma que ela sobreviva à semana cheia.",
+  "tempoMin": 25,
+  "entrega": "Uma semana modelo escrita, com encaixes definidos e um deles testado hoje.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "encaixes",
+    "rotulo": "Meus encaixes: intervalo, deslocamento ou transição",
+    "placeholder": "Escolha dois. Descreva o momento exato da sua rotina real.",
+    "linhas": 3
+   },
+   {
+    "id": "semana",
+    "rotulo": "A minha semana modelo",
+    "placeholder": "Segunda: __\nTerça: __\nQuarta: __\nQuinta: __\nSexta: __\nDomingo (seleção): __",
+    "linhas": 6
+   },
+   {
+    "id": "total",
+    "rotulo": "Total semanal em minutos",
+    "placeholder": "Se passar de 60, corte alguma coisa.",
+    "linhas": 1
+   },
+   {
+    "id": "teste",
+    "rotulo": "O encaixe que eu testei hoje e o que aconteceu",
+    "placeholder": "Funcionou? O que atrapalhou? O que precisa ajustar?",
+    "linhas": 3
+   },
+   {
+    "id": "protecao",
+    "rotulo": "O que eu faço quando a semana desandar",
+    "placeholder": "Qual é a versão mínima que ainda acontece num dia impossível?",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Nenhum encaixe é 'depois do jantar' ou 'no fim de semana quando sobrar'.",
+   "O total semanal é menor que 60 minutos.",
+   "Existe uma versão reduzida para semanas ruins, e ela é realista."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para mostrar o processo incorporado",
+  "regras": [
+   {
+    "regra": "Grave onde o trabalho acontece",
+    "porque": "O ambiente real é prova de incorporação. Estúdio neutro sinaliza evento — exatamente o que você está negando."
+   },
+   {
+    "regra": "Não esconda a fração de tempo",
+    "porque": "'Isso aqui levou 9 minutos, entre dois atendimentos' é mais persuasivo que qualquer argumento sobre método."
+   },
+   {
+    "regra": "Publique nos horários em que você produz",
+    "porque": "Agendar tudo para o 'melhor horário' cria uma dissonância entre o que você prega e o que você faz."
+   }
+  ],
+  "facaAssim": [
+   "Gravar no intervalo, com o jaleco, com o barulho do consultório.",
+   "'Tô entre dois atendimentos, mas isso aqui não pode esperar.'",
+   "Mostrar o áudio no carro sendo transcrito."
+  ],
+  "eviteAssim": [
+   "Cenário montado que contradiz a tese de que criar é consequência.",
+   "Falar de disciplina em vez de falar de encaixe.",
+   "Prometer uma rotina que você não sustenta."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O contexto visível",
+    "texto": "Onde você está, e por que isso importa."
+   },
+   {
+    "rotulo": "A ideia",
+    "texto": "O conteúdo em si — que veio de uma captura real."
+   },
+   {
+    "rotulo": "O custo revelado",
+    "texto": "'Isso levou X minutos.' A prova do método."
+   },
+   {
+    "rotulo": "A implicação",
+    "texto": "'Se cabe aqui, cabe na sua rotina também.'"
+   }
+  ]
+ },
+ "roteiro": "Estou entre dois atendimentos, mas isso aqui não pode esperar.\n\nAcabei de {o que aconteceu agora — a conversa, o caso, a pergunta}\n\nE me ocorreu que quase ninguém fala sobre {o ponto}\n\n{desenvolva em duas ou três frases}\n\nVoltando pro consultório. Mas fica a ideia.",
+ "estrutura": [
+  {
+   "rotulo": "O contexto",
+   "texto": "Onde você está e por que isso importa para o que vem."
+  },
+  {
+   "rotulo": "O que acabou de acontecer",
+   "texto": "A conversa, o caso ou a pergunta, ainda quente."
+  },
+  {
+   "rotulo": "O que isso mostra",
+   "texto": "O padrão que a cena revela."
+  },
+  {
+   "rotulo": "A implicação",
+   "texto": "O que muda para quem está lendo."
+  }
+ ]
+}

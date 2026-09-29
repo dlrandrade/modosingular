@@ -1,0 +1,80 @@
+capitulo: 25
+iteracao: 1
+notas: {metodo: 9.0, voz: 8.8, originalidade: 9.2, clareza: 9.2, ritmo: 8.9, concretude: 9.0,
+        coerencia: 8.2, aplicabilidade: 8.5, impresso: 9.0, honestidade: 8.7}
+bloqueadores: []
+pontos_fortes:
+  - "A cena de abertura é das melhores da Fase V: a folha dobrada em quatro, a pergunta escrita a lápis no pé, e um ganho novo no fecho, quando Caio pede que a cliente conte à sobrinha 'onde a regra parava'. O conceito nasce da cena e só depois ganha nome."
+  - "As quatro propriedades da tabela são demonstradas uma a uma no mesmo caso ('A peça não tinha expirado, tinha se somado às outras quinze, tinha trabalhado sem ele saber'), em vez de ficarem abstratas como no PWA."
+  - "Formulações próprias e memoráveis: 'quem a leu e não curtiu porque não curte nada', 'Tudo aquilo que traz clientes acontece fora da janela que o número enxerga', 'A venda, se é que dá para chamar assim, aconteceu na biblioteca, numa noite qualquer'."
+  - "O capítulo não reaproveita a tarefa 'top3' nem a diretriz 'Fixe as peças', que o cap. 26 usa com Renata. Evita a sobreposição e troca os dois por assuntos-âncora, que servem melhor ao inventário. Lint limpo: zero travessão na prosa, zero 'não é X, é Y'."
+problemas:
+  - criterio: coerencia
+    trecho: "A mulher das janelas só encontrou dezesseis peças para ler porque, dezesseis meses antes, Caio não tinha parado na décima."
+    por_que: "A frase é falsa dentro da própria linha do tempo. Caio publica toda quinta desde junho do ano anterior (caps. 20 e 29), e em agosto há mais de sessenta peças no perfil. A cliente leu dezesseis porque quis, e não porque só havia essas. Além disso, dezesseis meses antes foi o texto das janelas, feito antes das quintas, e 'não parar na décima' não descreve nada que tenha acontecido naquela data. O parágrafo inteiro ('É o momento em que mais gente desiste…') também antecipa o 'vale' do cap. 29, que já conta que Caio quis parar na vigésima semana."
+    correcao: "Corte a última frase e a generalização anterior. Feche o parágrafo assim: 'Com oito ou dez peças publicadas, falta um conjunto que alguém possa ler numa noite, e a única coisa que se vê é o número pequeno de cada uma. A mulher das janelas pôde ler dezesseis seguidas porque havia muito mais do que dezesseis para escolher.' Deixe o momento da desistência para o cap. 29."
+  - criterio: coerencia
+    trecho: "Foi a primeira coisa, em todos aqueles anos, que trabalhou no lugar dele."
+    por_que: "O cap. 29 diz que 'O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro, e a mulher das janelas, com a folha dobrada, apareceu em agosto'. Então o texto das janelas não foi a primeira peça a trabalhar no lugar do Caio. O leitor que chega ao cap. 29 encontra a contradição."
+    correcao: "'Era o exemplo mais nítido, em todos aqueles anos, de uma coisa que trabalhava no lugar dele.' Ou mencione o cliente de fevereiro: 'Desde fevereiro, era o segundo cliente que chegava por algo publicado, e o primeiro que ele não conseguia explicar por nenhum caminho que tivesse feito.'"
+  - criterio: aplicabilidade
+    trecho: "exemplo: \"Não em ordem de data. O caderno do Caio: paredes, onze; pisos, sete; janelas, quatro; banheiros, nenhuma. Se ainda publica pouco, inclua as explicações que dá a clientes.\""
+    por_que: "A lição cap01-r1 exige 'exemplos da oficina em profissões diferentes da do personagem em foco', e o plano pede 'Exemplos dos campos sempre em profissões variadas'. O único exemplo concreto da oficina é o caderno do próprio Caio. Os campos 02 a 05 trazem só perguntas, sem nenhum caso de outra área. Um contador ou uma fonoaudióloga não vê como a lacuna fica na profissão deles."
+    correcao: "Campo 01: 'Não em ordem de data. Uma advogada de família: guarda, nove; pensão, seis; divórcio consensual, dois; inventário, nenhuma.' Campo 02: 'Uma oftalmologista: nada sobre óculos de criança, que é um terço da agenda.' Campo 04: 'Um personal trainer: joelho que dói ao agachar, treino depois dos sessenta, volta depois de lesão.' Confira ESTADO.yaml › figurantes. Oftalmologista e advogada de família não aparecem nos caps. 23 a 27."
+  - criterio: aplicabilidade
+    trecho: "tempo: 30"
+    por_que: "O campo 01 pede o que o Caio fez em uma noite: 'releu tudo o que tinha publicado em dois anos, com um caderno ao lado'. Para quem publica toda semana há um ano, meia hora não basta para reler, agrupar e preencher mais quatro campos. A lição cap08-r1 exige que o tempo da oficina seja honesto."
+    correcao: "Acrescente tempo_nota: 'Se você já publicou mais de trinta peças, não releia: percorra o perfil e anote o assunto pela primeira linha de cada uma. Reler tudo, como o Caio, leva uma noite e pode ficar para depois.'"
+  - criterio: honestidade
+    trecho: "Muitas peças antigas chegam assim, mais do que pela busca: alguém que leu se lembra delas quando uma pessoa próxima tem o problema, e manda."
+    por_que: "É uma afirmação empírica comparativa, link contra busca, sem fonte. O capítulo tem mais duas generalizações sobre terceiros ('a maior parte das peças de quase qualquer especialista tem desempenho modesto', 'É o momento em que mais gente desiste'), o que passa do limite de duas da lição cap01-r4/cap02-r2."
+    correcao: "Troque por uma observação do personagem: 'A peça das janelas chegou à mulher por um link. Quando Caio passou a perguntar como as pessoas o tinham encontrado, o link mandado por alguém apareceu mais vezes do que a busca.' Ou apenas: 'Peças antigas também chegam assim: alguém que leu se lembra delas…'."
+  - criterio: coerencia
+    trecho: "Olhar o número toda sexta é medir com cuidado a parte que menos importa."
+    por_que: "O cap. 28 traz quase a mesma frase: 'quem olha só o que aparece mede exatamente a parte que menos diz sobre o próprio trabalho'. O cap. 29 repete a imagem da conferência matinal dos números. Pela lição cap02-r1, uma formulação-chave não se repete entre capítulos."
+    correcao: "Mantenha a frase aqui, que é o lugar dela, e registre para o cap. 28 a troca da frase de lá (por exemplo, 'quem olha só o que aparece confunde o que é fácil de contar com o que importa'). Se o cap. 28 for aprovado antes, reescreva esta: 'Olhar o número toda sexta é conferir, com cuidado, o placar do jogo errado.'"
+  - criterio: ritmo
+    trecho: "Para que a biblioteca funcione, ela precisa ser mais do que um fluxo de peças em ordem de data."
+    por_que: "A seção 'A biblioteca' tem nove parágrafos e cobre sete assuntos: o link, o inventário, a lacuna dos banheiros, os formatos que somem, os assuntos-âncora, a repetição, a primeira peça de banheiro e o critério novo. Vira o depósito que a lição cap01-r2 proíbe. O box 'compara' (campanha contra patrimônio) cai no meio do inventário, longe da seção 'A unidade errada', que é o assunto dele."
+    correcao: "Abra um intertítulo 'O inventário' antes deste parágrafo e outro, 'Voltar ao mesmo assunto', antes de 'Caio escolheu, a partir do caderno, quatro assuntos-âncora'. O capítulo fica com 5 intertítulos, dentro do limite. Leve o box 'compara' para o fim de 'A unidade errada', depois do box Conceito."
+  - criterio: concretude
+    trecho: "o corretor tinha incluído no preço um orçamento para trocar todas por alumínio"
+    por_que: "É pouco verossímil. Corretor intermedeia a venda, não inclui orçamento de obra no preço do imóvel. O leitor arquiteto ou corretor tropeça no primeiro parágrafo do caso central, e a lição cap09-r1 exige fato de ofício conferido."
+    correcao: "'e o corretor tinha indicado um serralheiro, com orçamento pronto para trocar todas por alumínio.' Ajuste depois: 'queria mostrar ao corretor' fica, e 'desistiu do orçamento do serralheiro do corretor'."
+  - criterio: ritmo
+    trecho: "Era a impressão de um texto que ele tinha publicado dezesseis meses antes"
+    por_que: "'Dezesseis' aparece para os meses e para as peças lidas ('Leu dezesseis', 'Dezesseis textos seguidos', 'tinha lido dezesseis textos'). 'Onze' aparece para as curtidas, as janelas do apartamento, as peças sobre paredes e 'quase trocou onze janelas'. A coincidência parece mecânica, e a lição cap08-r1 pede que números diferentes não coincidam."
+    correcao: "Mantenha os dezesseis meses, que batem com os caps. 20 e 29, e troque as peças lidas para 'mais uns vinte textos' e 'Leu vinte e um, numa noite'. As curtidas passam a 'treze'. Ajuste a pergunta 02 da verificação e 'se somado às outras'."
+  - criterio: voz
+    trecho: "Pouco alcance é um tijolo a mais."
+    por_que: "Na prosa, a antítese ', e não' aparece uma vez. Nos boxes aparece umas oito: 'e não pela confiança', 'raciocínio, e não anúncio', 'o conjunto, e não a peça', 'por assunto, e não por data' (duas vezes), 'como acervo, e não como fluxo', 'e não as da sua área', 'e não uma medição'. O leitor lê boxes e prosa juntos, e o tique da lição cap01-r1 volta pelas bordas."
+    correcao: "Corte pela metade nos boxes. Guardar 1: 'A unidade de medida é o conjunto. Uma peça sem resposta hoje pode ser a que alguém imprime daqui a um ano.' Guardar 3: 'Organize o que publicou por assunto. As lacunas mostram onde alguém procura e não encontra você.' Objetivo da oficina: 'organizar o que você já produziu como acervo.' Tabela: 'A primeira reunião começa pelo problema.'"
+  - criterio: aplicabilidade
+    trecho: "{rotulo: \"O caso\", texto: \"Uma situação da sua prática que mostra o problema, sem ninguém identificável.\", linhas: 3}"
+    por_que: "A lição cap13-r1 e a decisão do cap. 19 valem aqui: a peça que parte de um atendimento só sai depois da data de liberação. O esqueleto e o roteiro ('Teve um caso assim') pedem um caso e não lembram a regra, justamente num capítulo que manda escrever 'para daqui a dois anos'."
+    correcao: "'Uma situação da sua prática que mostra o problema, sem ninguém identificável e já liberada no calendário do capítulo 19.'"
+  - criterio: honestidade
+    trecho: "quantas pessoas, entre as que já seguem você, reagiram a ela nos primeiros dias"
+    por_que: "A curtida não vem só de seguidores e continua a se acumular depois dos primeiros dias. Um leitor que confere a tela vê a imprecisão, e ela enfraquece o argumento, que continua valendo sem ela."
+    correcao: "'quantas pessoas, quase todas entre as que já seguem você, reagiram a ela na semana em que saiu.'"
+edicoes_de_linha:
+  - "porque a caída do piso era perfeita -> porque o caimento do piso era perfeito (é o termo de obra; o mesmo vale para o 'Faça assim' da rede)"
+  - "duas estavam com o quadro comido pela ferrugem -> duas estavam com o marco comido pela ferrugem"
+  - "se recuperavam com raspagem, vedação e regulagem -> se recuperavam com raspagem, fundo anticorrosivo, vedação e regulagem"
+  - "nenhuma sobre banheiros, que eram metade das obras dele -> nenhuma sobre banheiros, que entravam em metade das obras dele"
+  - "Os quatro assuntos com mais peças eram os que ele mais gostava de contar -> Os três assuntos com mais peças eram os que ele mais gostava de contar (só três têm peças)"
+  - "não encontraria nada dele, e seria atendida por quem tivesse escrito -> não encontraria nada dele, e acabaria, com boa chance, com quem tivesse escrito"
+  - "Tudo aquilo que traz clientes acontece fora da janela que o número enxerga -> Quase tudo o que traz clientes acontece fora da janela que o número enxerga"
+  - "O trabalho de hoje rende daqui a dois anos -> O trabalho de hoje ainda pode render daqui a dois anos"
+  - "Porque os números das plataformas são imprecisos. -> Porque as plataformas escondem o número de cada peça. (o texto diz que o número mede algo 'estreito', o que deixa 'imprecisos' parcialmente verdadeiro)"
+  - "Se você está com {o problema, nas palavras de quem o tem}, isto é para você. -> Se você está com {o problema, nas palavras de quem o tem}, vale ouvir isto até o fim. (ou outra abertura que não soe como chamada de anúncio)"
+  - "Parágrafo 'A conversa daquela terça durou pouco mais de uma hora…' tem 7 frases -> juntar 'A mulher desistiu do orçamento… Contratou a obra na semana seguinte…' em uma frase com ponto e vírgula (máximo 6)"
+  - "Guardar: itens 1 e 3 têm duas frases cada -> uma frase por item, como pede a estrutura"
+diagramacao:
+  - "As páginas em apostila/saida/qa/cap25/ estão desatualizadas (06:55; manuscrito das 20:38). A p12 e a p14 ainda dizem 'catorze meses', a p15 'numa cidade em que ele nunca pôs os pés' e 'oito anos', a p16 'Boa parte das peças antigas'. Esta revisão usou um build novo, feito fora da pasta do projeto. É preciso rodar build --png antes da próxima rodada."
+  - "No build atual, a p15 fica com uns 15% de branco no pé depois do parágrafo 'A quarta mudou a primeira reunião'. O intertítulo 'A biblioteca' e as primeiras linhas do parágrafo caberiam ali, mas foram inteiros para a p16. É um branco evitável."
+  - "A p18 fica com uns 55% de branco depois do 'Para guardar', antes da oficina, que abre página nova. É aceito pelo projeto."
+  - "A p21 fica com uns 20% de branco no pé depois do esqueleto. O roteiro de fala, box indivisível, foi inteiro para a p22. A regra aceita branco antes do esqueleto, não antes do roteiro. Ver se o roteiro pode quebrar entre as linhas ou se o 'Faça/Evite' pode subir."
+  - "A p20 abre a rede no terço inferior e deixa a regra 3 isolada no alto da p21. Funciona, mas a rede começaria melhor em página nova se a oficina liberasse espaço."
+  - "O capítulo ocupa 13 páginas (p11 a p23), abaixo do alvo de 14 a 16. A figura 25.1 lê bem em preto e branco (tracejado contra linha cheia, selo de esquema ilustrativo), e o funil 25.2 também."
+veredito: "Cena central excelente e conceito claríssimo, mas a lógica das 'dezesseis peças', o choque com o cap. 29, os exemplos da oficina só do Caio e o tempo irreal do inventário pedem mais uma passada antes de aprovar."

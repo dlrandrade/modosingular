@@ -1,0 +1,69 @@
+capitulo: 22
+iteracao: 3
+notas: {metodo: 9.3, voz: 9.1, originalidade: 9.2, clareza: 8.9, ritmo: 9.1, concretude: 9.3,
+        coerencia: 8.7, aplicabilidade: 9.0, impresso: 8.6, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - "Quase tudo o que a r2 pediu foi resolvido. O gabarito agora cita o texto certo (\"como Lúcia no texto sobre rotina matinal de produtividade\"). O furo de enredo virou cena (\"A pergunta era sobre insônia; o texto escorregou para rotina matinal de produtividade, o assunto que a outra tinha publicado na véspera\"). Os figurantes foram trocados (veterinária, consultora de RH), a seção 'Onde buscar a estrutura' tem intertítulo próprio e o paralelo clínico foi entregue (\"quem volta de um fim de semana com a família costuma chegar à sessão falando com as palavras da mãe\")."
+  - "As duas imagens centrais continuam as melhores da Fase IV: \"Ela tinha levado a pele e deixado o esqueleto\" e \"A voz entra pelo ouvido de quem admira, e sai na primeira página escrita logo depois\". Com o corte das repetições, agora têm espaço para respirar."
+  - "O capítulo aplica a própria tabela: a última seção mostra a colega da mesma área lida \"de igual para igual\", e a leitura deixa uma posição (\"a outra tratava cansaço e tédio como a mesma coisa\"). É exatamente o que a linha 'Colegas da sua área | O que não fazer, e o que eles deixam de lado' promete. O fecho termina em cena, sem moral."
+  - "O método ganhou objetos físicos que o leitor consegue imitar (o cartão, o celular na bolsa, a caixa de fichas). A honestidade sobre o custo também sobrevive: \"os textos de fevereiro tinham sido mais lidos que os de antes\"."
+problemas:
+  - criterio: clareza
+    trecho: "Quanto mais longe, mais pura a estrutura chega, porque não há nada mais a levar."
+    por_que: "Essa afirmação e as que a repetem são desmentidas pelo exemplo do próprio capítulo. Na regra 1 da rede: \"Longe do seu assunto, você fica com o mecanismo e sem a tentação de levar o resto\". Na opção correta da verificação 04: \"Porque de longe só atravessa a estrutura\". O caso 'comum' mostra uma veterinária que tira a referência de OUTRA área (um mecânico) e mesmo assim leva a voz: \"A abertura, o tom e o ritmo são os do vídeo\". A distância protege do conteúdo, não da voz. Quem lê com atenção encontra uma contradição entre a tese da seção e o exemplo da p. 16, e o gabarito da questão 04 afirma algo que o capítulo desmente."
+    correcao: "Dizer o que a distância protege e o que não protege. Prosa: \"Quanto mais longe, menos conteúdo há para levar junto. A voz atravessa qualquer distância, como mostra a veterinária do mecânico; contra ela, o que protege é fechar a peça.\" Regra 1 da rede: \"Longe do seu assunto, não há casos nem números para levar; a voz você deixa para trás fechando a peça.\" Verificação 04, opção d: \"Porque de longe não há conteúdo da sua área para levar.\" A explicação já diz isso."
+  - criterio: coerencia
+    trecho: "Na terça seguinte, a amiga mandou a pergunta da semana: por que é tão difícil pedir ajuda a quem a gente ama?"
+    por_que: "Contradiz a linha do tempo dos capítulos anteriores. No cap. 8, \"a amiga do grupo de estudos lhe mandava uma pergunta toda segunda-feira\". No cap. 21, \"a da Lúcia chega na segunda à noite, e ela responde na terça às oito\". Aqui a pergunta chega na terça."
+    correcao: "\"Na segunda seguinte, à noite, a amiga mandou a pergunta da semana: por que é tão difícil pedir ajuda a quem a gente ama? Na terça, Lúcia leu a pergunta em voz alta, na sala ainda vazia, e respondeu primeiro com outra pergunta…\""
+  - criterio: ritmo
+    trecho: "O que tornava bons os textos da psicóloga de São Paulo estava na ordem"
+    por_que: "A figura sem nome é chamada de \"psicóloga de São Paulo\" nove vezes, a última na verificação, e de \"a outra\" doze vezes. Lido em voz alta, o rótulo longo volta como um refrão, sobretudo em 'Três camadas' (\"A psicóloga de São Paulo escrevia bem\" e, quatro frases adiante, \"das frases curtas da psicóloga de São Paulo\") e em 'Onde buscar' / 'O que a admiração ensina' (\"Lúcia tirou a psicóloga de São Paulo do café da manhã\", \"Lúcia não deixou de ler a psicóloga de São Paulo\"). \"Terça às oito\" também aparece quatro vezes."
+    correcao: "Deixar o rótulo completo na apresentação, na cena da comparação e na verificação 01. Nas outras vezes, usar a referência pelo contexto: \"Ela escrevia bem\", \"Lúcia achava que gostava daquelas frases curtas\", \"Lúcia tirou os textos dela do café da manhã\", \"Lúcia não deixou de lê-la\"."
+  - criterio: aplicabilidade
+    trecho: "- {rotulo: \"Preenchi com repertório meu\", ajuda: \"Caso, crença e limite vêm da minha prática (campo 03).\", pontos: 3}"
+    por_que: "O item do checklist só serve ao esqueleto da Lúcia (cena, crença, razão, limite). O leitor que seguiu o exemplo da própria oficina (a consultora de RH com 'o lance / o que ninguém viu / por que decide / o que observar') não tem 'crença' nem 'limite' para conferir. Isso quebra a lição cap02-r1: o que o capítulo pede tem de servir a todos os exemplos que ele dá. O campo 03 também pede outra coisa: \"Que caso, padrão ou crença da sua prática preenche essa ordem?\""
+    correcao: "ajuda: \"Tudo o que preenche o esqueleto (caso, padrão, crença, número) vem da minha prática (campo 03).\""
+  - criterio: coerencia
+    trecho: "Depois da frase emprestada, os textos de fevereiro seguiam a ordem de sempre da Lúcia, a pergunta da amiga posta em abstrato, e chegavam ao ponto só no fim."
+    por_que: "Dois parágrafos antes, o texto diz que o traço que sumiu foi \"A pergunta devolvida antes de responder, que é o jeito como ela pensa\". Se os textos de fevereiro seguiam 'a ordem de sempre da Lúcia', o leitor pergunta onde entrava essa pergunta devolvida. A frase também descreve o jeito de sempre dela como falho ('chegavam ao ponto só no fim'), justo quando o capítulo quer mostrar que ela perdeu algo bom. Fica ambíguo se o problema era a cópia ou uma fraqueza que ela já tinha."
+    correcao: "Tirar o 'de sempre' e o juízo embutido: \"Depois da frase emprestada, os textos de fevereiro não tinham ordem nenhuma: punham a pergunta da amiga em abstrato e só chegavam ao ponto no fim.\" Assim a cópia levou a voz e desmanchou o esqueleto dela, sem trazer o da outra."
+  - criterio: concretude
+    trecho: "Começava por uma cena de consultório composta de várias, sem ninguém que se pudesse reconhecer, passava pela crença, explicava de onde ela vinha, mostrava onde falhava e terminava numa pergunta."
+    por_que: "Os textos contaminados são citados palavra por palavra (\"deixa eu contar uma coisa que quase ninguém conta\", \"você não está sozinha\"). O texto bom, que é a prova do método, só aparece como resumo da estrutura. O leitor vê a pele copiada mas nunca ouve a voz recuperada. Uma única frase dela bastaria para que o 'Agora sim.' da amiga fosse também do leitor."
+    correcao: "Citar a abertura ou a pergunta devolvida, na voz dela e com a crença do capítulo: \"No meio, Lúcia fez o que faz em qualquer sessão: devolveu uma pergunta antes de responder. 'Quando você evita falar do que dói, o que você espera que aconteça com ele?'\""
+  - criterio: aplicabilidade
+    trecho: "roteiro_nota: Este roteiro é um esqueleto possível, o da cena e da crença. Se a estrutura que você extraiu for outra, use a sua na mesma ordem em que a anotou."
+    por_que: "A nota remenda, mas o roteiro ainda serve a um só dos três esqueletos do capítulo (o da cena e da crença). A informação omitida da veterinária e o lance da consultora de RH ficam sem versão falada. Quem extraiu outra estrutura fica sem modelo justo na parte mais difícil para quem pensa falando (lição cap02-r1)."
+    correcao: "Dar na nota um segundo roteiro curto, para o esqueleto do exemplo da oficina: \"Outra ordem possível: 'Todo mundo repara em {o que todo mundo vê}. Quase ninguém repara em {o que você vê no mesmo momento}. E é isso que decide {o resultado}. Da próxima vez, observe {o que observar}.'\""
+  - criterio: originalidade
+    trecho: "Da próxima vez, antes de {o gesto de sempre}, se pergunte: {a pergunta}."
+    por_que: "O roteiro já não copia a abertura do cap. 21, mas o fecho continua o mesmo gesto da página vizinha (\"faça a si mesmo esta pergunta: {a pergunta}\"; e a regra 3 da rede 21: \"Termine na pergunta que a pessoa pode fazer\"). Num capítulo cuja cena central é sobre textos que 'terminavam do mesmo jeito', o livro pede pela segunda vez seguida que a peça do leitor termine na mesma pergunta ao público."
+    correcao: "Fechar pela ação ou pelo sinal, e não pela pergunta: \"Na próxima vez que {o gesto de sempre}, repare em {o sinal que a sua prática mostra}.\""
+  - criterio: clareza
+    trecho: "A recusa total, do outro lado, também sai cara."
+    por_que: "Depois da figura e do Conceito, 'do outro lado' não tem mais a que se referir: o parágrafo anterior à figura trata de a admiração pousar na camada errada, não de um extremo. O leitor precisa reconstruir a oposição."
+    correcao: "\"O erro oposto, a recusa total, também sai caro.\""
+  - criterio: honestidade
+    trecho: "A ordem em que você explica alguma coisa no atendimento, quando o cliente entende de primeira, já é uma estrutura testada centenas de vezes."
+    por_que: "É uma afirmação sobre o atendimento de qualquer leitor, e o público inclui quem atende há poucos anos ou atende poucos clientes por mês. A regra 2 da rede repete a ideia (\"foi testada centenas de vezes em gente de verdade\"). Não é um dado inventado, mas é hipérbole apresentada como fato."
+    correcao: "\"…já é uma estrutura testada em cada cliente que a ouviu.\" Na rede: \"foi testada em cada pessoa que entendeu de primeira.\""
+edicoes_de_linha:
+  - "\"Porque de longe só atravessa a estrutura.\" -> \"Porque de longe não há conteúdo da sua área para levar.\" (verificação 04; ver problema 1)"
+  - "\"Na terça seguinte, a amiga mandou a pergunta da semana\" -> \"Na segunda seguinte, à noite, a amiga mandou a pergunta da semana\" (caps. 8 e 21)"
+  - "\"A recusa total, do outro lado, também sai cara.\" -> \"O erro oposto, a recusa total, também sai caro.\""
+  - "\"Os seguintes vieram de longe. A fonte da referência também pesa.\" -> \"Os seguintes vieram de longe, e não por acaso: a fonte da referência também pesa.\" (liga a concessão à regra; hoje as duas frases soam soltas)"
+  - "\"Em cinco semanas de leitura diária\" -> \"Em pouco mais de um mês de leitura diária\" (de janeiro à segunda terça de fevereiro são seis semanas, ou mais)"
+  - "\"A psicóloga de São Paulo escrevia bem\" -> \"Ela escrevia bem\""
+  - "\"Lúcia achava que gostava das frases curtas da psicóloga de São Paulo.\" -> \"Lúcia achava que gostava daquelas frases curtas.\""
+  - "\"A ordem que funciona com gente de verdade\" (Tabela 22.1) -> \"A ordem que já funcionou com os seus clientes\" ('de verdade' ainda aparece três vezes)"
+  - "critério 3 da oficina: \"As cinco respostas do campo 05 são sim; se a 4 for não, a peça não sai.\" -> \"As cinco respostas do campo 05 são sim: um não em 1, 3 ou 5 pede reescrita daquela parte; um não na 4 tira a peça.\""
+diagramacao:
+  - "p. 14: a legenda da figura 22.1 continua colada no bloco 'Estrutura', sem respiro. É a terceira revisão que aponta isso. Dar ~2 mm de margem superior à legenda da figura."
+  - "p. 16: o sobretítulo 'NA PRÁTICA' ainda encosta no título 'A mesma referência, usada de dois jeitos' (apontado na r2). Os outros boxes têm entrelinha entre sobretítulo e título; igualar."
+  - "p. 16: cerca de 20% em branco no pé depois de \"A quarta é a que decide.\", porque o box 'Cinco perguntas antes de publicar' foi inteiro para a p. 17. É evitável: deixar o box quebrar entre os itens, ou subir a frase de introdução da seção para junto do box."
+  - "p. 17: cerca de 25% em branco no pé depois de \"…nenhuma falava de psicologia.\", porque a Tabela 22.1 foi com a legenda para a p. 18. É evitável: deixar a tabela quebrar depois da segunda linha, com o cabeçalho repetido, ou subir o parágrafo \"Lúcia encontrou a sua na primeira sessão…\" para antes da tabela, para encher o pé da p. 17."
+  - "p. 20: cerca de 20% em branco depois do campo 02, e o campo 03 (cerca de 190 px) parece caber no espaço que sobra (apontado na r2). Verificar se o bloco cabe com um ajuste mínimo de espaçamento antes de aceitar o branco como indivisível."
+  - "p. 19 (cerca de 70% em branco antes da oficina) e p. 22 (cerca de 17% antes do esqueleto indivisível): aceitos pelo projeto."
+veredito: "Capítulo maduro, com a cena mais forte da Fase IV e quase tudo da r2 resolvido. Falta desfazer a contradição entre 'de longe só atravessa a estrutura' e o próprio exemplo da veterinária, corrigir o dia da pergunta da amiga, variar o refrão 'psicóloga de São Paulo' e acertar três ajustes de página. Feito isso, fica firme acima de 9."

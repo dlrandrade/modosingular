@@ -1,0 +1,69 @@
+capitulo: 11
+iteracao: 2
+notas: {metodo: 9.2, voz: 9.0, originalidade: 9.2, clareza: 9.3, ritmo: 9.0, concretude: 9.0,
+        coerencia: 8.8, aplicabilidade: 8.9, impresso: 8.4, honestidade: 9.4}
+bloqueadores: []
+pontos_fortes:
+  - 'O bloqueador da r1 foi resolvido por inteiro e de forma coerente em todas as seções: a regra 1 da rede virou "Produza no seu modo, edite depois." com as três rotas ("Grave se você pensa falando; escreva rápido, à mão ou no e-mail, se pensa escrevendo; responda a uma pergunta se pensa respondendo"), o campo 01 aceita áudios, e-mails ou respostas, a verificação 03 tem como correta "Olhar explicações reais, no seu modo, sem corrigi-las" e o Para guardar 3 repete "no seu modo". O parágrafo dos quatro personagens agora demonstra a regra em vez de desmenti-la.'
+  - 'A cena de abertura continua a melhor do Caio no livro, agora com detalhe de ofício que se sustenta ("provavelmente do banheiro da suíte, do outro lado da parede"; "Disse quanto custava, por alto") e com a raspagem autorizada ("Pediu licença à corretora, tirou a chave do carro do bolso"). O ganho novo sobre o eco do cap. 3 está nomeado com economia: "Era a primeira vez que Caio olhava para as palavras, e não para o assunto."'
+  - 'O fio da palavra "solução" é um achado que atravessa figura, prosa e fecho, e fecha com humor seco e consequência prática: "Na maior parte das vezes, encontra uma “solução” para apagar, e no lugar dela escreve o que diria ao cliente, de pé, diante da parede." O novo desfecho da legenda ("escreveu que tinha ido abrir os armários do apartamento que estava para comprar") mostra a frase viajando até um desconhecido, sem promessa comercial.'
+  - 'A oficina ficou completa diante das quatro partes do léxico (campo 03 inclui "como são as suas frases"), atende quem não publica ("Se ainda não publica, compare com um texto formal seu: um laudo, um relatório") e ensina uma ressalva honesta sobre ferramenta ("A transcrição automática do celular ajuda, mas apaga as hesitações: reponha à mão"). O parágrafo dos dois limites e a roteiro_nota ("diga onde a comparação para de valer") protegem o leitor de saúde, direito e finanças.'
+problemas:
+  - criterio: impresso
+    trecho: 'p013 (branco depois de "ninguém reprovaria e ninguém repetiria."), p016 (branco depois de "a coisa mais reconhecível que você tem.")'
+    por_que: 'Quatro páginas de texto corrido terminam com 15% a 25% de branco porque um box indivisível não coube e desceu inteiro: o Conceito na p013 -> p014, o exemplo comum-vs-singular na p016 -> p017, e o Para guardar arrasta as duas últimas linhas da prosa da p018 para a p019. Na p012 sobram cerca de sete linhas antes do intertítulo "A frase que viaja". Nenhum desses brancos é de seção de página inteira nem de esqueleto de escrita; num capítulo de 15 páginas, somam quase uma página perdida e dão ao miolo cara de rascunho.'
+    correcao: 'p013: subir para antes do box Conceito o parágrafo do teste ("Há um teste simples...") ou permitir que o Conceito venha depois dele; p016: deixar o parágrafo "Nada disso significa escrever com erros..." subir para antes do exemplo, ou permitir quebra do box entre "O comum" e "O singular"; p012: conferir se o intertítulo h2 tem keep-with-next exigindo mais linhas do que o necessário (duas bastam). p018/p019 é a pendência já registrada do .guardar; resolver antes do PDF final.'
+  - criterio: coerencia
+    trecho: 'Um casal jovem tinha encontrado um apartamento de 1971 no Botafogo, em Campinas'
+    por_que: 'A troca pedida na r1 (1968 -> 1971) criou uma nova coincidência: o cap. 20, já rascunhado, abre com "um apartamento de 1971 no Cambuí" (e o cap. 3 tem o de 1972 no Cambuí). A lição cap08-r1 pede que números de cenas diferentes não coincidam; com três obras do Caio entre 1968 e 1972, o leitor atento começa a confundir apartamentos.'
+    correcao: 'Usar um ano sem vizinho no livro, por exemplo "um apartamento de 1964 no Botafogo", ou alterar o ano do cap. 20 quando ele for revisado. Registrar os anos das obras do Caio em ESTADO.yaml › imagens.'
+  - criterio: aplicabilidade
+    trecho: 'tempo: 60 / tempo_nota: conta reunir e transcrever; pode ser feito na véspera'
+    por_que: 'Para quem pensa falando, três áudios de dois a três minutos somam 900 a 1.300 palavras; transcrever isso à mão, palavra por palavra, leva sozinho perto de uma hora, antes de circular, preencher quatro campos e escrever cinco regras. Os 60 minutos só fecham com a transcrição automática ou com e-mails já escritos. Além disso, a oficina não diz onde fica a transcrição inteira (o campo 01 recebe só "os trechos mais seus"), e pede para escolher o que é "mais seu" antes de o leitor circular o que se repete (campo 02), ou seja, antes da análise que revela isso.'
+    correcao: 'tempo_nota: "60 min com a transcrição automática do celular ou com textos já escritos; se transcrever à mão, faça na véspera, no caderno de campo." Rótulo do campo 01: "Reúna três explicações reais, no seu modo, transcreva-as inteiras no caderno, sem corrigir, e copie aqui os trechos em que aparecem as repetições que você circulou".'
+  - criterio: metodo
+    trecho: 'Conte as palavras das suas últimas cinco frases faladas'
+    por_que: 'Resíduo da premissa oral corrigida na r1 (lição cap11-r1/cap12-r1: nada contradiz os quatro modos). A tabela 11.1 manda procurar "Nas transcrições das suas explicações" e contar "frases faladas"; a legenda da figura diz que a ficha do leitor "sai do mesmo jeito" que a do Caio, isto é, de "três áudios reais [...] transcritos". Para quem pensa escrevendo, o material são e-mails, como o próprio capítulo mostra no Otávio, e não há transcrição nem fala.'
+    correcao: 'Tabela: "Nas suas explicações reais (transcrições, e-mails, respostas), circule o que se repete" e "Conte as palavras de cinco frases seguidas de uma explicação sua". Legenda: "A sua sai do mesmo jeito, na oficina, a partir de três explicações reais no seu modo."'
+  - criterio: voz
+    trecho: 'As comparações vinham de gente, e não de engenharia.'
+    por_que: 'A r1 pediu o corte desta antítese e ela ficou. Somada a "Era a primeira vez que Caio olhava para as palavras, e não para o assunto", a "A cliente não repetiu ao marido a informação técnica. Não disse [...] Repetiu a frase do Caio", a "Entre a conversa e a publicação, a informação quase sempre sobrevive. Some o que a tornava sua" e a "O léxico não se descobre pensando nele. [...] O caminho é o contrário", o capítulo ainda tem mais de uma antítese por seção em "A frase que viaja" (lição cap01-r1). Nenhuma é grave sozinha; juntas mantêm a cadência de curso.'
+    correcao: '"As comparações vinham de gente." Em "A frase que viaja", manter a abertura ("olhava para as palavras, e não para o assunto") e trocar o segundo parágrafo por afirmação direta: "A cliente repetiu ao marido a frase do Caio, com as palavras dele, e não a explicação sobre a tubulação embutida..." ou, melhor, cortar a frase técnica negada e começar em "Repetiu a frase do Caio, com as palavras dele, porque era a frase que carregava tudo".'
+  - criterio: concretude
+    trecho: 'Caio tinha perdido quatro das cinco de uma vez: a parede que mente, o jeito de Campinas de dizer as coisas, o bordão e a pausa antes de dar a má notícia.'
+    por_que: '"O jeito de Campinas de dizer as coisas" é o único item da lista sem exemplo, e o capítulo inteiro não mostra nenhuma expressão regional do Caio (nem de ninguém). Justamente a perda 2, a que o leitor mais precisa reconhecer em si, fica abstrata; o intertítulo seguinte ainda discute limites de "uma expressão regional que ninguém fora da sua cidade entende" sem ter mostrado uma.'
+    correcao: 'Dar ao Caio uma expressão concreta que aparece nos áudios e sumiu da legenda (algo que um campineiro diga na obra) e citá-la aqui e na ficha; ou reduzir para "três das cinco" e dar a expressão regional a um exemplo de outra profissão no parágrafo dos limites.'
+  - criterio: coerencia
+    trecho: 'Terminou com a frase que diz a todo cliente há anos, meio de brincadeira: "Toda parede tem uma história, e metade é mentira."'
+    por_que: 'Caio acumula três "frases que repete há anos": a do taco no cap. 3 ("Terminou com uma frase que repete há anos: “O taco é a única coisa...”"), a do cap. 10 ("Repete há anos a frase do taco de peroba") e esta. O capítulo que ensina o bordão como a coisa "mais reconhecível que você tem" deveria reconciliar isso, e a ficha do Caio, que é o modelo do leitor, não registra bordão nenhum.'
+    correcao: 'Na ficha, acrescentar ou fundir numa linha "Bordões: “Toda parede tem uma história, e metade é mentira”; “Não troca o que está dando certo”." E, na cena, trocar "há anos" por outro marcador ("a frase que o mestre de obras já sabe de cor") para não repetir a fórmula dos caps. 3 e 10.'
+  - criterio: clareza
+    trecho: 'Caio só percebeu o que tinha acontecido quando comparou aquela frase com o que tinha publicado na mesma semana.'
+    por_que: 'A cena tem dois tempos (a visita num sábado e a reunião "Duas semanas depois", quando Caio ouve que a frase viajou). "Na mesma semana" fica ambíguo: a da visita ou a da reunião? E "comparou" é narrado de fora, sem o gesto que o capítulo dá a todo o resto.'
+    correcao: '"Naquela noite, depois da reunião, Caio abriu o próprio perfil e releu a legenda que tinha publicado na semana da visita."'
+  - criterio: ritmo
+    trecho: 'Pediu licença à corretora, tirou a chave do carro do bolso e raspou um palmo de tinta perto do rodapé e mostrou o reboco esfarelando por baixo, úmido ao toque.'
+    por_que: 'Três ações encadeadas por "e... e" numa frase que devia ser o clímax seco da cena; "perto do rodapé" repete o parágrafo anterior ("Encostou o polegar perto do rodapé").'
+    correcao: '"Pediu licença à corretora, tirou a chave do carro do bolso e raspou um palmo de tinta junto ao chão. Por baixo, o reboco esfarelava, úmido ao toque."'
+  - criterio: honestidade
+    trecho: 'Há também o medo de parecer pouco sério, maior em quem atende com cuidado e não quer ser confundido com quem faz piada na internet.'
+    por_que: 'Generalização sobre terceiros apresentada como fato ("maior em quem..."), no mesmo parágrafo de "a pessoa acaba achando que aquele é o jeito certo". Está dentro do limite de duas marcadas, mas é o tipo de afirmação que a lição cap02-r1 manda converter em observação ou tirar.'
+    correcao: '"Há também o medo de parecer pouco sério, que pesa em quem atende com cuidado e não quer ser confundido com quem faz piada na internet." Ou ancorar no Caio: "Caio tinha medo de parecer menos sério que as revistas de arquitetura."'
+  - criterio: originalidade
+    trecho: 'ela já gravava áudios no estacionamento da clínica, e bastou transcrever três'
+    por_que: 'O carro no estacionamento da clínica aparece nos caps. 7, 8, 9, 11 e 12: é continuidade, mas cinco capítulos seguidos com a mesma imagem gastam o detalhe antes do cap. 19, que é da Renata e do caderno de campo em áudio. Aqui ele não traz ganho novo.'
+    correcao: '"Para Renata, que pensa falando, foi fácil: bastou escolher três dos áudios que já tinha no celular e transcrevê-los." Deixar o estacionamento para quando a cena precisar dele.'
+edicoes_de_linha:
+  - 'Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte. -> Na semana seguinte, na legenda da foto de obra que ia publicar, Caio apagou a vistoria técnica criteriosa e escreveu o que diria ao casal do Botafogo'
+  - 'Caio chegou num sábado de manhã, cumprimentou a corretora, e começou como sempre começa -> Caio chegou num sábado de manhã, cumprimentou a corretora e começou como sempre começa'
+  - 'roteiro: {E feche do jeito que você fecha quando a pessoa entende.} -> {feche do jeito que você fecha quando a pessoa entende} (as outras lacunas começam em minúscula e sem ponto)'
+  - 'É o que faz a peça soar como pessoa, e não como departamento. -> É o que faz a peça soar como alguém que você conhece.'
+  - 'Uma delas, que Caio não conhecia, escreveu que tinha ido abrir os armários do apartamento que estava para comprar. -> Uma delas, que Caio não conhecia, contou que tinha ido abrir os armários do apartamento que estava para comprar.'
+  - 'Os textos dele já eram dele, mas os e-mails a clientes -> Os pareceres já eram dele, mas os e-mails a clientes'
+diagramacao:
+  - 'p012: cerca de sete linhas em branco no pé, depois de "alguém o tinha visto.", porque o intertítulo "A frase que viaja" desceu para a p013. Branco evitável.'
+  - 'p013: cerca de um quarto da página em branco depois de "ninguém repetiria."; o box Conceito desceu inteiro para a p014.'
+  - 'p016: cerca de um quarto da página em branco depois de "a coisa mais reconhecível que você tem."; o exemplo "A mesma explicação, com e sem léxico" desceu inteiro para a p017.'
+  - 'p018/p019: a p018 termina em "Leva" com cerca de sete linhas livres, e a p019 recebe só duas linhas de prosa mais o Para guardar, com o resto em branco antes da oficina. É a pendência já registrada do .guardar; o branco da p019 antes da oficina é aceito, o da p018 não.'
+  - 'p024: no roteiro, a última lacuna começa em maiúscula e termina com ponto ("E feche do jeito que você fecha quando a pessoa entende."), diferente das demais.'
+veredito: 'Revisão bem-sucedida: o bloqueador e quase todos os problemas da r1 foram resolvidos, e o capítulo passa por pouco no conteúdo; faltam uma passada de linha (antíteses restantes, "seguinte... seguinte", ano 1971 repetido no cap. 20, resíduos orais na tabela) e, principalmente, eliminar os quatro brancos evitáveis que deixam o impresso abaixo do padrão.'

@@ -1,0 +1,385 @@
+{
+ "n": 29,
+ "fase": 5,
+ "tema": "Sustentar por doze meses",
+ "subtitulo": "O que fazer quando a novidade acabar — e ela vai acabar",
+ "frase": "Continuidade não é motivação prolongada. É um sistema que funciona sem motivação.",
+ "conceito": {
+  "termo": "Sustentação",
+  "definicao": "A capacidade de manter a produção nos períodos em que não há entusiasmo, resultado visível nem reforço externo — que são a maior parte dos doze meses.",
+  "porqueImporta": "Porque o efeito acumulado que gera cliente só aparece por volta do mês 6 ao 9. Quem desiste no mês 3 não desistiu de algo que não funcionava: desistiu antes do ponto em que funcionaria."
+ },
+ "ilustracao": {
+  "motivo": "farol",
+  "legenda": "O farol não brilha mais forte em noite de tempestade. Ele apenas continua."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Você está no capítulo 29. Vinte e oito dias atrás, isso era uma ideia incômoda; agora é um sistema. Mas existe uma coisa que os primeiros trinta dias não conseguem testar: o que acontece no mês quatro."
+  },
+  {
+   "t": "p",
+   "text": "No mês quatro não tem mais novidade. Não tem mais a estrutura de um desafio. Ninguém está acompanhando. E os resultados ainda não apareceram, porque eles não aparecem no mês quatro."
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O vale que derruba quase todo mundo",
+   "texto": "Existe um período — geralmente entre o mês 2 e o mês 5 — em que o esforço já é real e o retorno ainda não é visível. Não é um sinal de que não está funcionando. É a forma normal da curva. Mas parece exatamente igual a fracasso, e é por isso que quase todo mundo para ali."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "O vale entre o esforço e o retorno",
+    "unidade": "índice relativo",
+    "labels": [
+     "M1",
+     "M2",
+     "M3",
+     "M4",
+     "M5",
+     "M6",
+     "M9",
+     "M12"
+    ],
+    "series": [
+     {
+      "nome": "Esforço investido (acumulado)",
+      "pontos": [
+       18,
+       34,
+       48,
+       60,
+       70,
+       78,
+       92,
+       100
+      ]
+     },
+     {
+      "nome": "Retorno percebido",
+      "pontos": [
+       8,
+       9,
+       11,
+       14,
+       22,
+       40,
+       78,
+       118
+      ],
+      "destaque": true
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare onde as linhas se cruzam: por volta do mês 6. Todo o período anterior é investimento sem retorno visível — e é exatamente o período em que a decisão de parar parece mais racional."
+  },
+  {
+   "t": "h",
+   "text": "As quatro causas reais de desistência"
+  },
+  {
+   "t": "table",
+   "caption": "O que realmente derruba, e o antídoto",
+   "head": [
+    "Causa",
+    "Como se manifesta",
+    "Antídoto"
+   ],
+   "rows": [
+    [
+     "Ausência de retorno",
+     "'Não está dando em nada'",
+     "Métrica antecedente (salvamentos, direct) em vez de faturamento"
+    ],
+    [
+     "Quebra de sequência",
+     "Perdeu uma semana e não voltou",
+     "Regra da peça mínima: nunca zerar, sempre reduzir"
+    ],
+    [
+     "Tédio com o formato",
+     "'Já falei disso'",
+     "Lembrar que o público viu 1 de cada 10 peças suas"
+    ],
+    [
+     "Comparação",
+     "'Fulano cresce mais rápido'",
+     "Painel próprio, análise mensal, zero benchmark externo"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A regra da peça mínima",
+   "texto": "Nunca zere uma semana. Se não deu para fazer o FMV, faça a versão de 3 minutos: uma pergunta respondida em texto curto, um áudio de 90 segundos. A quebra de sequência não acontece por uma semana ruim — acontece porque uma semana ruim vira duas, e duas viram o fim."
+  },
+  {
+   "t": "h",
+   "text": "O protocolo do mês difícil"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Reduza, não pause",
+     "texto": "De duas peças para uma. Nunca para zero. Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém."
+    },
+    {
+     "titulo": "Volte ao estoque",
+     "texto": "Você tem centenas de capturas. Mês difícil não é hora de ter ideia nova — é hora de traduzir o que já está guardado."
+    },
+    {
+     "titulo": "Use a versão mais barata do FMV",
+     "texto": "Áudio bruto, sem transcrição elaborada. Texto sem imagem. Publicado é melhor que polido."
+    },
+    {
+     "titulo": "Não anuncie a pausa",
+     "texto": "'Vou dar uma sumida' transforma uma semana fraca em um evento. Só volte."
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "text": "O que muda depois do mês 6"
+  },
+  {
+   "t": "p",
+   "text": "A partir do momento em que o efeito acumulado começa a aparecer, a dinâmica se inverte: o conteúdo passa a gerar reforço, o reforço sustenta a produção, e a produção deixa de depender de disciplina."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "O ciclo que se autossustenta depois do vale",
+    "nos": [
+     {
+      "rotulo": "Alguém chega citando o conteúdo",
+      "nota": "O primeiro sinal concreto. Costuma vir entre o mês 5 e o 8."
+     },
+     {
+      "rotulo": "A produção ganha sentido prático",
+      "nota": "Deixa de ser aposta e vira canal."
+     },
+     {
+      "rotulo": "O estoque de repertório cresce",
+      "nota": "As dúvidas dos novos clientes viram nova matéria-prima."
+     },
+     {
+      "rotulo": "O custo por peça cai",
+      "nota": "Hábito instalado, sistema rodado, léxico consolidado."
+     },
+     {
+      "rotulo": "A presença se torna patrimônio",
+      "nota": "Trabalha sozinha, sem exigir motivação."
+     }
+    ],
+    "ciclico": true
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O que separa quem chega lá",
+   "texto": "Não é talento, nem tempo disponível, nem qualidade de produção. É ter reduzido o custo por peça a um ponto em que produzir não exige decisão. Foi isso que os capítulos 19 a 24 construíram — e é isso que vai carregar você pelo vale."
+  }
+ ],
+ "insights": [
+  "O vale entre esforço e retorno vai do mês 2 ao 5, e parece exatamente igual a fracasso. Quem desiste ali não desistiu do que não funcionava — desistiu antes do ponto em que funcionaria.",
+  "A quebra de sequência não acontece por uma semana ruim. Acontece porque uma semana ruim vira duas.",
+  "O que separa quem atravessa o vale não é talento nem tempo: é ter reduzido o custo por peça a ponto de produzir não exigir decisão."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Entendi a forma da curva e o vale",
+   "ajuda": "Sei que o cruzamento vem por volta do mês 6.",
+   "peso": 2
+  },
+  {
+   "id": "c2",
+   "rotulo": "Defini minha peça mínima",
+   "ajuda": "A versão de 3 minutos que impede zerar a semana.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Escrevi meu protocolo de mês difícil",
+   "ajuda": "Sei exatamente o que fazer quando desandar.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Identifiquei minha causa mais provável de desistência",
+   "ajuda": "E o antídoto correspondente.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "O que é o 'vale' e por que ele derruba tanta gente?",
+   "opcoes": [
+    "Uma queda de alcance causada pelo algoritmo.",
+    "O período entre os meses 2 e 5, em que o esforço já é real e o retorno ainda não é visível — e parece idêntico a fracasso.",
+    "A perda de seguidores após uma polêmica.",
+    "A fase em que o conteúdo fica repetitivo."
+   ],
+   "correta": 1,
+   "explicacao": "É a forma normal da curva. Quem para ali não desistiu de algo que não funcionava — desistiu antes do ponto em que funcionaria."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é a 'regra da peça mínima'?",
+   "opcoes": [
+    "Publicar sempre o conteúdo mais curto possível.",
+    "Nunca zerar uma semana: se não deu para o FMV, faça a versão de 3 minutos.",
+    "Manter um mínimo de 30 segundos por vídeo.",
+    "Produzir pelo menos uma peça por dia."
+   ],
+   "correta": 1,
+   "explicacao": "Zero é uma decisão que se repete sozinha; um é um compromisso que se mantém. A sequência quebra na segunda semana vazia, não na primeira."
+  },
+  {
+   "id": "q3",
+   "pergunta": "No protocolo do mês difícil, o que fazer com o estoque de capturas?",
+   "opcoes": [
+    "Guardar para quando houver mais tempo.",
+    "Usar — mês difícil não é hora de ter ideia nova, é hora de traduzir o que já está guardado.",
+    "Descartar o que ficou velho.",
+    "Reorganizar por categoria."
+   ],
+   "correta": 1,
+   "explicacao": "O estoque existe exatamente para isso: eliminar a etapa mais cara (ter a ideia) justamente quando a energia está mais baixa."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Por que não se deve anunciar uma pausa?",
+   "opcoes": [
+    "Porque o algoritmo penaliza.",
+    "Porque transforma uma semana fraca em um evento — e eventos precisam de um 'retorno' que nunca vem.",
+    "Porque a audiência não perdoa.",
+    "Porque quebra o contrato com os seguidores."
+   ],
+   "correta": 1,
+   "explicacao": "Sem anúncio, uma semana vazia é só uma semana vazia. Com anúncio, ela vira uma interrupção declarada que exige uma volta triunfal."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O protocolo do mês difícil",
+  "objetivo": "Escrever hoje, com a cabeça boa, as instruções que você vai seguir no mês em que a cabeça não estiver.",
+  "tempoMin": 25,
+  "entrega": "Um protocolo escrito para o mês difícil, com peça mínima definida e causa de risco identificada.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "minima",
+    "rotulo": "A minha peça mínima (máx. 5 minutos)",
+    "placeholder": "O que você consegue publicar num dia impossível. Seja específico: 'áudio de 90s sobre uma captura, sem edição'.",
+    "linhas": 2
+   },
+   {
+    "id": "causa",
+    "rotulo": "Minha causa mais provável de desistência",
+    "placeholder": "Ausência de retorno / quebra de sequência / tédio / comparação. Por que essa?",
+    "linhas": 2
+   },
+   {
+    "id": "antidoto",
+    "rotulo": "O meu antídoto para essa causa específica",
+    "placeholder": "Concreto e acionável. O que exatamente você faz quando sentir isso?",
+    "linhas": 3
+   },
+   {
+    "id": "protocolo",
+    "rotulo": "Meu protocolo de mês difícil, em 4 linhas",
+    "placeholder": "1. Reduzo de __ para __.\n2. Vou ao estoque em __.\n3. Uso a versão __ do meu FMV.\n4. Não anuncio nada.",
+    "linhas": 4
+   },
+   {
+    "id": "carta",
+    "rotulo": "Uma frase para o você do mês 4",
+    "placeholder": "O que você precisa lembrar quando estiver achando que não está funcionando?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A peça mínima cabe mesmo em 5 minutos — teste mentalmente num dia terrível.",
+   "O protocolo tem ações, não intenções.",
+   "A frase para o mês 4 é específica sobre a curva, não motivacional genérica."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para atravessar o vale publicando",
+  "regras": [
+   {
+    "regra": "Nunca anuncie ausência",
+    "porque": "Anunciar transforma uma semana fraca em evento, e eventos exigem um retorno triunfal que nunca acontece."
+   },
+   {
+    "regra": "Repita seus temas centrais sem culpa",
+    "porque": "Você viu 100% das suas peças; o seu público viu cerca de 10%. O que parece repetição para você é primeira exposição para a maioria."
+   },
+   {
+    "regra": "Publique a versão barata em vez de nada",
+    "porque": "Publicado supera polido, sempre. Uma peça mediana mantém a sequência; uma peça perfeita adiada a quebra."
+   }
+  ],
+  "facaAssim": [
+   "Voltar sem explicação depois de uma semana fraca.",
+   "Retomar um tema de dois meses atrás por outro ângulo.",
+   "Publicar áudio bruto quando não der para editar."
+  ],
+  "eviteAssim": [
+   "'Sumi por causa da correria, mas voltei!'",
+   "Trocar de estratégia no mês 3 porque 'não está dando resultado'.",
+   "Comparar sua curva com a de quem faz conteúdo em tempo integral."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Semana normal",
+    "texto": "O FMV, duas vezes, nos encaixes definidos."
+   },
+   {
+    "rotulo": "Semana apertada",
+    "texto": "Uma peça só. Do estoque. Versão barata."
+   },
+   {
+    "rotulo": "Semana impossível",
+    "texto": "A peça mínima de 3 a 5 minutos. Nunca zero."
+   },
+   {
+    "rotulo": "Sempre",
+    "texto": "Sem anúncio, sem desculpa, sem explicação."
+   }
+  ]
+ },
+ "roteiro": "Tem um momento em {o processo do seu campo} que parece que não está funcionando.\n\nCostuma ser por volta de {período}. O esforço já é real e o resultado ainda não aparece.\n\nIsso não é sinal de que deu errado. É a forma normal da curva — eu vejo em boa parte dos casos que acompanho.\n\nQuem desiste ali quase sempre desiste pouco antes de começar a funcionar.",
+ "estrutura": [
+  {
+   "rotulo": "O momento difícil",
+   "texto": "A fase do seu processo em que parece não estar funcionando."
+  },
+  {
+   "rotulo": "Por que é normal",
+   "texto": "A forma da curva: esforço antes do resultado."
+  },
+  {
+   "rotulo": "O sinal",
+   "texto": "O que indica que está no caminho, mesmo sem resultado visível."
+  },
+  {
+   "rotulo": "O que fazer",
+   "texto": "A conduta para atravessar esse período."
+  }
+ ]
+}

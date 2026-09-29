@@ -1,0 +1,318 @@
+{
+ "n": 2,
+ "fase": 1,
+ "tema": "O silêncio também comunica",
+ "subtitulo": "Não postar não é neutralidade — é renúncia de influência",
+ "frase": "Enquanto você não explica o seu mercado, outra pessoa explica no seu lugar.",
+ "conceito": {
+  "termo": "Renúncia de influência",
+  "definicao": "O efeito de deixar um espaço público vazio: quem não ocupa a conversa do próprio mercado não permanece neutro — permanece ausente, e a ausência é preenchida por quem tem menos preparo e mais disposição.",
+  "porqueImporta": "Porque a decisão de não comunicar tem consequência ativa. Ela transfere para terceiros o direito de definir o que o seu público entende sobre o seu próprio campo."
+ },
+ "ilustracao": {
+  "motivo": "territorio",
+  "legenda": "Território não fica vago. Se você não planta a bandeira, alguém planta."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma ilusão confortável no não-postar: a de que você está apenas sendo discreto. Que a sua ausência é uma escolha estética, elegante, quase sóbria."
+  },
+  {
+   "t": "p",
+   "text": "Ela não é. A ausência tem efeito. E o efeito é que outra pessoa define o vocabulário, os critérios e as expectativas do seu mercado — para o seu futuro cliente."
+  },
+  {
+   "t": "h",
+   "text": "O que acontece no espaço que você não ocupa"
+  },
+  {
+   "t": "p",
+   "text": "Quando alguém tem uma dúvida sobre o seu campo e procura na internet, essa dúvida vai ser respondida. Sempre. A pergunta não é se haverá resposta — é quem vai dar."
+  },
+  {
+   "t": "p",
+   "text": "Se você não deu, a resposta veio de alguém com menos anos de prática, menos casos vistos e menos noção das exceções. E aquela pessoa que consumiu essa resposta vai chegar até você — se chegar — já educada por ela. Você vai gastar a primeira metade da consulta desmontando o que alguém ensinou errado."
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A conta invisível do silêncio",
+   "texto": "Todo minuto que você economiza não produzindo conteúdo, você paga depois — corrigindo, em atendimento, o que a internet ensinou no seu lugar."
+  },
+  {
+   "t": "h",
+   "text": "Silêncio não é modéstia. É um custo transferido."
+  },
+  {
+   "t": "table",
+   "caption": "O que a ausência produz, mesmo sem intenção",
+   "head": [
+    "Você acha que está…",
+    "Mas o mercado lê como…",
+    "E o efeito real é…"
+   ],
+   "rows": [
+    [
+     "Sendo discreto e sério",
+     "Pouco relevante ou inativo",
+     "Você não entra na lista de considerados"
+    ],
+    [
+     "Deixando o trabalho falar",
+     "Não tendo nada a dizer",
+     "O trabalho só fala para quem já te contratou"
+    ],
+    [
+     "Evitando exposição desnecessária",
+     "Sendo inacessível",
+     "Quem tem dúvida procura quem responde"
+    ],
+    [
+     "Acima de modinha de rede social",
+     "Desatualizado",
+     "Perde clientes que não têm outro critério"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "text": "Mas isso não é um convite à autopromoção"
+  },
+  {
+   "t": "p",
+   "text": "É importante separar duas coisas que costumam ser confundidas: ocupar espaço e se promover."
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Autopromoção",
+    "tom": "neg",
+    "items": [
+     "O centro do conteúdo é você.",
+     "Fala do que você conquistou.",
+     "Pede atenção.",
+     "Envelhece rápido: só serve enquanto é novidade."
+    ]
+   },
+   "direita": {
+    "titulo": "Ocupação de território",
+    "tom": "pos",
+    "items": [
+     "O centro do conteúdo é o problema do outro.",
+     "Fala de como você pensa sobre o problema.",
+     "Oferece critério.",
+     "Acumula: cada peça continua servindo depois."
+    ]
+   }
+  },
+  {
+   "t": "quote",
+   "text": "O silêncio, nesse contexto, não é ausência de posicionamento. Pode se tornar renúncia de influência.",
+   "fonte": "Dossiê — Oportunidades estratégicas"
+  },
+  {
+   "t": "h",
+   "text": "A pergunta que reorganiza a decisão"
+  },
+  {
+   "t": "p",
+   "text": "A pergunta não é 'eu quero aparecer?'. Essa é a pergunta que trava, porque ela mede desejo — e o seu desejo provavelmente é não."
+  },
+  {
+   "t": "p",
+   "text": "A pergunta é: 'quem eu aceito que explique o meu trabalho para as pessoas que ainda não me conhecem?'"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "balanca",
+    "titulo": "O que pesa na decisão",
+    "esquerda": {
+     "rotulo": "O desconforto de aparecer",
+     "peso": 40
+    },
+    "direita": {
+     "rotulo": "O custo de outro explicar por você",
+     "peso": 78
+    }
+   }
+  }
+ ],
+ "insights": [
+  "A dúvida do seu futuro cliente vai ser respondida por alguém. Você só decide se é por você.",
+  "Ocupar território é falar do problema do outro; autopromoção é falar de você. Confundir os dois é o que faz especialista sério evitar a internet.",
+  "A pergunta certa não é 'quero aparecer?' — é 'quem eu aceito que fale no meu lugar?'."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Listei perguntas que meu público faz e ninguém responde bem",
+   "ajuda": "Tenho no mínimo cinco perguntas reais anotadas.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei uma informação errada que circula no meu mercado",
+   "ajuda": "Sei apontar um equívoco específico que meus clientes chegam repetindo.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Separei ocupação de território de autopromoção",
+   "ajuda": "Consigo dizer por que meu conteúdo não é sobre mim mesmo quando fala do meu trabalho.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Escrevi a correção pública",
+   "ajuda": "Produzi o rascunho pedido na tarefa.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que o silêncio digital não é neutro?",
+   "opcoes": [
+    "Porque o algoritmo pune contas inativas.",
+    "Porque o espaço da conversa é preenchido por outra pessoa, que educa o seu público no seu lugar.",
+    "Porque seus concorrentes vão te ultrapassar em seguidores.",
+    "Porque clientes acham que você fechou as portas."
+   ],
+   "correta": 1,
+   "explicacao": "O ponto não é o algoritmo nem a métrica. É que a dúvida do seu público vai ser respondida de qualquer jeito — a única variável é por quem."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é a diferença central entre autopromoção e ocupação de território?",
+   "opcoes": [
+    "A frequência de publicação.",
+    "A qualidade da produção audiovisual.",
+    "O centro do conteúdo: você mesmo, ou o problema do outro.",
+    "O tamanho do texto."
+   ],
+   "correta": 2,
+   "explicacao": "Ocupação de território coloca o problema do outro no centro e oferece critério. É isso que permite ao especialista sério comunicar sem se sentir vaidoso."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual pergunta o capítulo propõe no lugar de 'eu quero aparecer?'",
+   "opcoes": [
+    "Quanto tempo eu tenho por semana?",
+    "Qual formato performa melhor no meu nicho?",
+    "Quem eu aceito que explique o meu trabalho para quem ainda não me conhece?",
+    "Quantos seguidores eu preciso para começar a vender?"
+   ],
+   "correta": 2,
+   "explicacao": "A primeira pergunta mede desejo e por isso trava. A segunda mede consequência — e por isso decide."
+  }
+ ],
+ "tarefa": {
+  "titulo": "A correção pública",
+  "objetivo": "Produzir a sua primeira peça de ocupação de território: corrigir, em público, algo que o seu mercado entende errado.",
+  "tempoMin": 30,
+  "entrega": "Um rascunho de conteúdo que identifica um equívoco comum, explica por que ele existe e oferece o critério correto.",
+  "formatoSugerido": [
+   "texto",
+   "reels",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "erro",
+    "rotulo": "O equívoco que seus clientes chegam repetindo",
+    "placeholder": "Ex.: 'Clareamento estraga o esmalte do dente.'",
+    "linhas": 2
+   },
+   {
+    "id": "origem",
+    "rotulo": "Por que esse equívoco existe? (seja generoso com quem acredita nele)",
+    "placeholder": "Ex.: Porque nos anos 90 os produtos eram abrasivos de verdade — a informação era correta na época e ficou.",
+    "linhas": 3
+   },
+   {
+    "id": "correcao",
+    "rotulo": "O que é verdade hoje, na sua experiência",
+    "placeholder": "Traga o que você vê no consultório/escritório, não o que está no manual.",
+    "linhas": 4
+   },
+   {
+    "id": "criterio",
+    "rotulo": "O critério que você entrega para a pessoa decidir sozinha",
+    "placeholder": "Ex.: 'A pergunta certa não é se clareia, é qual concentração para qual sensibilidade — e isso se mede assim.'",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Você explicou a origem do erro sem ridicularizar quem acredita nele.",
+   "A correção usa evidência da sua prática, não só citação de literatura.",
+   "O critério entregue serve mesmo que a pessoa nunca te contrate."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo de correção",
+  "regras": [
+   {
+    "regra": "Corrija a informação, nunca a pessoa",
+    "porque": "Quem se sente burro ao ler, não compartilha e não volta. Quem se sente informado, faz as duas coisas."
+   },
+   {
+    "regra": "Explique a origem do erro antes de desmontá-lo",
+    "porque": "Mostrar que o erro fazia sentido em algum contexto é o que transforma correção em generosidade."
+   },
+   {
+    "regra": "Entregue o critério, não só a resposta",
+    "porque": "Resposta resolve um caso. Critério faz a pessoa lembrar de você no próximo."
+   }
+  ],
+  "facaAssim": [
+   "'Você provavelmente ouviu isso de alguém em quem confia — e faz sentido, porque…'",
+   "'O que mudou foi X. Hoje, no consultório, o que eu vejo é Y.'",
+   "'Se você for decidir sozinho, a régua é esta:'"
+  ],
+  "eviteAssim": [
+   "'Pare de acreditar nessa bobagem.'",
+   "Indireta a um concorrente identificável.",
+   "Terminar sem dar nada de útil — correção sem critério vira só bronca."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Gancho",
+    "texto": "'Isso que você ouviu já foi verdade. Hoje não é mais.'"
+   },
+   {
+    "rotulo": "Origem",
+    "texto": "Por que a crença existe. Dê contexto histórico ou prático."
+   },
+   {
+    "rotulo": "Virada",
+    "texto": "O que você observa na prática, com detalhe que só quem faz tem."
+   },
+   {
+    "rotulo": "Critério",
+    "texto": "A régua que a pessoa leva para casa."
+   }
+  ]
+ },
+ "roteiro": "Existe uma coisa que meus pacientes chegam repetindo, e que já foi verdade, mas hoje não é mais.\n\n{o equívoco que você mais ouve}\n\nE olha, faz todo sentido acreditar nisso. {por que essa crença existe — dê o contexto de boa-fé}\n\nSó que o que eu vejo na prática é outra coisa: {o que você observa hoje}\n\nSe você for decidir sozinho, a régua é esta: {o critério que a pessoa leva para casa}\n\nNão precisa de mim para usar. Guarda aí.",
+ "estrutura": [
+  {
+   "rotulo": "O que se costuma dizer",
+   "texto": "A crença errada, dita com as palavras de quem acredita nela."
+  },
+  {
+   "rotulo": "Por que ela existe",
+   "texto": "O contexto em que aquilo já fez sentido. Seja generoso."
+  },
+  {
+   "rotulo": "O que você vê hoje",
+   "texto": "A sua observação de prática, com detalhe ou número."
+  },
+  {
+   "rotulo": "A régua",
+   "texto": "Como a pessoa decide sozinha na próxima vez."
+  }
+ ]
+}

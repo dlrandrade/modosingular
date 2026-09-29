@@ -1,0 +1,437 @@
+{
+ "n": 5,
+ "fase": 1,
+ "tema": "Constância não é disciplina",
+ "subtitulo": "É compatibilidade entre a criação e quem precisa sustentá-la",
+ "frase": "Talvez você não seja inconsistente. Talvez o modelo de conteúdo é que nunca combinou com você.",
+ "conceito": {
+  "termo": "Custo invisível da linguagem errada",
+  "definicao": "O desgaste emocional e operacional de sustentar uma forma de comunicar incompatível com a própria personalidade e rotina. Ele se manifesta como 'falta de disciplina', mas é, na verdade, atrito de formato.",
+  "porqueImporta": "Porque enquanto você tratar o problema como preguiça, vai tentar resolvê-lo com calendário e culpa. E nenhum dos dois resolve incompatibilidade."
+ },
+ "ilustracao": {
+  "motivo": "engrenagem",
+  "legenda": "Quando as peças não encaixam, mais força não resolve. Só desgasta mais rápido."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Você já começou. Provavelmente mais de uma vez."
+  },
+  {
+   "t": "p",
+   "text": "Teve a semana empolgada, gravou cinco vídeos de uma vez, montou um calendário, prometeu três posts por semana. Durou entre onze e vinte e três dias. Depois veio um dia cheio, uma emergência, uma viagem — e a sequência quebrou. E, quebrada uma vez, não voltou."
+  },
+  {
+   "t": "p",
+   "text": "A leitura que o mercado te oferece para isso é sempre a mesma: falta de disciplina. Você precisa de mais organização, mais comprometimento, mais planejamento."
+  },
+  {
+   "t": "p",
+   "text": "Esse método parte de outra hipótese."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A hipótese alternativa",
+   "texto": "Talvez muitas pessoas não sejam inconsistentes porque lhes falta disciplina. Talvez sejam inconsistentes porque estão tentando sustentar uma linguagem que não lhes pertence."
+  },
+  {
+   "t": "h",
+   "text": "Como se calcula o custo de um conteúdo"
+  },
+  {
+   "t": "p",
+   "text": "Todo conteúdo tem um custo, e ele não é só de tempo. Tem um custo emocional (quanto você precisa se forçar) e um custo operacional (quantas etapas até publicar)."
+  },
+  {
+   "t": "p",
+   "text": "Se você é uma pessoa que pensa falando e escolheu carrossel como formato principal, cada peça exige que você converta pensamento oral em texto estruturado — uma tradução extra que ninguém vê e que consome exatamente a energia que faltou no dia 23."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Custo real por peça, em unidades de atrito",
+    "unidade": "quanto menor, mais sustentável",
+    "series": [
+     {
+      "rotulo": "Formato que combina com você",
+      "valor": 18,
+      "nota": "Vira extensão do trabalho: você já pensava assim."
+     },
+     {
+      "rotulo": "Formato neutro",
+      "valor": 44,
+      "nota": "Funciona, mas exige preparo consciente."
+     },
+     {
+      "rotulo": "Formato incompatível",
+      "valor": 87,
+      "nota": "Exige virar outra pessoa antes de começar. É aqui que a sequência quebra."
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "A curva que ninguém te mostra"
+  },
+  {
+   "t": "p",
+   "text": "A quebra da constância quase nunca acontece por um evento grande. Ela acontece quando o custo acumulado ultrapassa a energia disponível num dia comum."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "Por que a sequência quebra no dia 23",
+    "unidade": "energia disponível vs. custo do formato",
+    "labels": [
+     "D1",
+     "D5",
+     "D10",
+     "D15",
+     "D20",
+     "D23",
+     "D30"
+    ],
+    "series": [
+     {
+      "nome": "Energia disponível",
+      "pontos": [
+       95,
+       82,
+       70,
+       58,
+       44,
+       32,
+       28
+      ],
+      "destaque": true
+     },
+     {
+      "nome": "Custo do formato incompatível",
+      "pontos": [
+       40,
+       42,
+       45,
+       48,
+       52,
+       58,
+       62
+      ]
+     },
+     {
+      "nome": "Custo do formato compatível",
+      "pontos": [
+       18,
+       17,
+       16,
+       15,
+       15,
+       14,
+       14
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare: no dia 23 as duas linhas se cruzam. Não houve preguiça. Houve aritmética."
+  },
+  {
+   "t": "p",
+   "text": "E note também que o custo do formato compatível cai com o tempo — porque ele vira hábito. O incompatível sobe, porque a resistência se acumula."
+  },
+  {
+   "t": "h",
+   "text": "O que muda quando você aceita a hipótese"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Se o problema é disciplina",
+    "tom": "neg",
+    "items": [
+     "A solução é calendário e cobrança.",
+     "Cada falha vira prova de que você não serve para isso.",
+     "A culpa aumenta e a produção diminui.",
+     "Você contrata alguém para te cobrar."
+    ]
+   },
+   "direita": {
+    "titulo": "Se o problema é compatibilidade",
+    "tom": "pos",
+    "items": [
+     "A solução é trocar o formato, não a pessoa.",
+     "Cada falha vira dado sobre o que não funciona para você.",
+     "A vergonha diminui e a produção aumenta.",
+     "Você investiga o próprio modo de pensar."
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O deslocamento",
+   "texto": "Essa mudança tira você da posição de incompetente digital e devolve uma pergunta melhor: qual é a maneira de criar que respeita a forma como eu penso, vivo e trabalho?"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "A lógica profunda da sustentabilidade",
+    "nos": [
+     {
+      "rotulo": "Produção natural",
+      "nota": "O formato combina com o seu modo de pensar."
+     },
+     {
+      "rotulo": "Menor atrito",
+      "nota": "Cada peça custa menos energia do que gerava resistência."
+     },
+     {
+      "rotulo": "Continuidade",
+      "nota": "A sequência sobrevive aos dias ruins."
+     },
+     {
+      "rotulo": "Presença acumulada",
+      "nota": "O efeito de 90 peças medianas supera o de 5 excelentes."
+     },
+     {
+      "rotulo": "Reconhecimento",
+      "nota": "É aqui que a autoridade atravessa a fronteira."
+     }
+    ]
+   }
+  }
+ ],
+ "insights": [
+  "A sequência não quebra por um evento grande — quebra quando o custo acumulado ultrapassa a energia de um dia comum.",
+  "O custo de um formato compatível cai com o tempo. O de um formato incompatível sobe.",
+  "Tratar incompatibilidade como preguiça faz você resolver o problema errado com mais culpa."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Identifiquei quando e por que minhas tentativas anteriores quebraram",
+   "ajuda": "Sei nomear o dia aproximado e a causa real, não a desculpa.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Calculei o custo real de cada formato que já tentei",
+   "ajuda": "Preenchi o quadro de atrito com números honestos.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Parei de tratar a inconsistência como falha de caráter",
+   "ajuda": "Consigo reformular a história sem me culpar.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é a hipótese central deste capítulo?",
+   "opcoes": [
+    "Constância exige planejamento mais rígido.",
+    "A inconsistência costuma vir de incompatibilidade de formato, não de falta de disciplina.",
+    "Publicar menos vezes por semana resolve o problema.",
+    "É preciso contratar alguém para cobrar você."
+   ],
+   "correta": 1,
+   "explicacao": "O capítulo desloca o debate: quando alguém precisa virar outra pessoa para publicar, o custo por peça fica alto demais para sobreviver a um dia comum."
+  },
+  {
+   "id": "q2",
+   "pergunta": "O que acontece com o custo de um formato COMPATÍVEL ao longo do tempo?",
+   "opcoes": [
+    "Aumenta, porque a novidade passa.",
+    "Permanece igual.",
+    "Diminui, porque vira hábito.",
+    "Oscila conforme o algoritmo."
+   ],
+   "correta": 2,
+   "explicacao": "Formato compatível vira extensão do que você já faz. Já o incompatível acumula resistência, e por isso o custo sobe."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Segundo o capítulo, por que a leitura 'falta de disciplina' é perigosa?",
+   "opcoes": [
+    "Porque faz você resolver o problema errado, com mais culpa e menos resultado.",
+    "Porque disciplina não existe.",
+    "Porque planejamento nunca funciona.",
+    "Porque cobra demais do social media."
+   ],
+   "correta": 0,
+   "explicacao": "Se o diagnóstico é preguiça, a receita é calendário e cobrança — e nenhum dos dois resolve incompatibilidade. A produção cai e a vergonha sobe."
+  }
+ ],
+ "teste": {
+  "titulo": "Diagnóstico de atrito",
+  "instrucao": "Pense na última vez que você tentou manter uma rotina de conteúdo. Responda com honestidade sobre aquele período.",
+  "escala": [
+   "Nunca",
+   "Raramente",
+   "Às vezes",
+   "Frequentemente",
+   "Sempre"
+  ],
+  "itens": [
+   {
+    "id": "t1",
+    "texto": "Eu adiava gravar mesmo tendo o tempo livre reservado."
+   },
+   {
+    "id": "t2",
+    "texto": "Eu precisava 'me preparar mentalmente' antes de começar."
+   },
+   {
+    "id": "t3",
+    "texto": "Eu regravava a mesma coisa várias vezes."
+   },
+   {
+    "id": "t4",
+    "texto": "Eu sentia alívio quando um imprevisto me impedia de publicar."
+   },
+   {
+    "id": "t5",
+    "texto": "Eu me olhava no vídeo pronto e pensava 'não pareço eu'."
+   },
+   {
+    "id": "t6",
+    "texto": "O conteúdo consumia energia que eu queria ter para o trabalho."
+   }
+  ],
+  "faixas": [
+   {
+    "min": 6,
+    "max": 13,
+    "titulo": "Atrito baixo",
+    "leitura": "O formato que você usa é razoavelmente compatível com você. Seu ganho nos próximos capítulos virá de sistema e captura, não de troca de formato."
+   },
+   {
+    "min": 14,
+    "max": 21,
+    "titulo": "Atrito médio",
+    "leitura": "Existe fricção real, mas localizada. Provavelmente é uma etapa específica (roteirizar, gravar ou editar) que trava, não o formato inteiro. A Fase 2 vai isolar qual."
+   },
+   {
+    "min": 22,
+    "max": 30,
+    "titulo": "Atrito alto",
+    "leitura": "Você vem tentando sustentar uma linguagem que não é sua. Isso não é falta de disciplina — é aritmética. Não tente de novo com mais força: a Fase 2 existe exatamente para trocar a engrenagem."
+   }
+  ]
+ },
+ "tarefa": {
+  "titulo": "A autópsia da sua última tentativa",
+  "objetivo": "Substituir a explicação de culpa por um diagnóstico de atrito — e recuperar a informação que a falha te deu.",
+  "tempoMin": 25,
+  "entrega": "Um relato honesto da última tentativa, com o ponto exato da quebra e o custo por etapa.",
+  "formatoSugerido": [
+   "texto",
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "tentativa",
+    "rotulo": "Descreva a sua última tentativa de manter constância",
+    "placeholder": "O que você prometeu a si mesmo, em que formato, com que frequência, e quanto tempo durou.",
+    "linhas": 4
+   },
+   {
+    "id": "quebra",
+    "rotulo": "Qual foi exatamente a etapa em que travou?",
+    "placeholder": "Ter a ideia? Roteirizar? Gravar? Editar? Publicar? Seja cirúrgico — a etapa importa mais do que o dia.",
+    "linhas": 3
+   },
+   {
+    "id": "custo",
+    "rotulo": "Dê nota 0–10 de atrito para cada etapa",
+    "placeholder": "Ter a ideia: __\nEstruturar: __\nGravar/escrever: __\nEditar: __\nPublicar: __",
+    "linhas": 5
+   },
+   {
+    "id": "reescrita",
+    "rotulo": "Reescreva a história sem culpa",
+    "placeholder": "Em vez de 'eu não tenho disciplina', escreva 'eu escolhi um formato que exigia X de mim todo dia, e X não estava disponível'.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Você identificou uma ETAPA específica, não um sentimento genérico.",
+   "As notas de atrito estão diferentes entre si — se estão todas iguais, você não olhou de perto.",
+   "A reescrita não contém a palavra 'preguiça' nem 'disciplina'."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo sobre processo e bastidor",
+  "regras": [
+   {
+    "regra": "Compartilhe o diagnóstico, não o desabafo",
+    "porque": "Desabafo pede consolo. Diagnóstico entrega ferramenta — e é o que faz alguém salvar o post."
+   },
+   {
+    "regra": "Fale de atrito, não de 'jornada'",
+    "porque": "Todo mundo já viu conteúdo de jornada. Quase ninguém viu alguém decompor por que parou."
+   },
+   {
+    "regra": "Traga o número",
+    "porque": "'Durou 23 dias' é infinitamente mais forte que 'não consegui manter'."
+   }
+  ],
+  "facaAssim": [
+   "'Eu já parei três vezes. Descobri que o problema era sempre a mesma etapa.'",
+   "Mostrar a nota de atrito por etapa, como um quadro.",
+   "Terminar com o que você mudou, não com o que sentiu."
+  ],
+  "eviteAssim": [
+   "Conteúdo de superação sem método: 'nunca desista!'.",
+   "Prometer que agora vai ser diferente sem dizer o que mudou estruturalmente.",
+   "Transformar o post em pedido de compreensão."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Fato",
+    "texto": "'Tentei três vezes. Durou 23, 15 e 11 dias.'"
+   },
+   {
+    "rotulo": "Diagnóstico",
+    "texto": "'O ponto de quebra foi sempre o mesmo: a etapa X.'"
+   },
+   {
+    "rotulo": "Reenquadramento",
+    "texto": "'Não era disciplina. Era formato.'"
+   },
+   {
+    "rotulo": "Ferramenta",
+    "texto": "'Se você também para, meça o atrito por etapa. Vai ver que é uma só.'"
+   }
+  ]
+ },
+ "roteiro": "Se você já tentou {algo que exige constância no seu campo} e não conseguiu manter, eu tenho uma leitura diferente para te oferecer.\n\nTalvez o problema não tenha sido força de vontade.\n\nTalvez tenha sido que o método escolhido nunca combinou com a sua rotina. E aí cada tentativa custava caro demais para sobreviver a um dia ruim.\n\nEu vejo isso o tempo todo: {o padrão que você observa em quem desiste}\n\nA pergunta certa não é como me esforçar mais. É qual é a forma que cabe na vida que eu realmente tenho.",
+ "estrutura": [
+  {
+   "rotulo": "O objetivo",
+   "texto": "O resultado do seu campo que exige constância para acontecer."
+  },
+  {
+   "rotulo": "Por que a maioria para",
+   "texto": "O que costuma ser dito (falta de disciplina) e por que não explica."
+  },
+  {
+   "rotulo": "O ponto real de quebra",
+   "texto": "A etapa específica em que as pessoas desistem, na sua observação."
+  },
+  {
+   "rotulo": "O ajuste",
+   "texto": "O que muda o jogo quando se troca o método em vez da força."
+  }
+ ]
+}

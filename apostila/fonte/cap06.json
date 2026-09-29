@@ -1,0 +1,370 @@
+{
+ "n": 6,
+ "fase": 1,
+ "tema": "Tudo pode ser conteúdo",
+ "subtitulo": "A criação não começa na tela vazia. Começa na vida.",
+ "frase": "Você não precisa inventar novidade. Precisa aprender a prestar atenção.",
+ "conceito": {
+  "termo": "Matéria-prima",
+  "definicao": "Tudo aquilo que a sua rotina profissional já produz e que pode virar conteúdo: perguntas recorrentes, objeções, casos, erros comuns, decisões, opiniões formadas, explicações repetidas e observações do cotidiano.",
+  "porqueImporta": "Porque enquanto a criação depender de inspiração, ela vai ser intermitente. Quando passa a depender de percepção, ela vira renovável."
+ },
+ "ilustracao": {
+  "motivo": "colheita",
+  "legenda": "Você já planta todos os dias. O que falta é reconhecer a colheita."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "A frase 'tudo pode ser conteúdo' costuma ser mal entendida. Ela não significa que qualquer coisa deva ser publicada."
+  },
+  {
+   "t": "p",
+   "text": "Significa outra coisa, mais útil: que o universo de criação não precisa depender permanentemente de inspiração."
+  },
+  {
+   "t": "p",
+   "text": "Você não vive esperando ter ideias. Você vive tendo ideias — só não as reconhece como comunicáveis, porque para você elas são óbvias."
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "A armadilha do óbvio",
+   "texto": "A explicação que você repete há oito anos e considera básica é, para quem nunca a ouviu, a informação mais valiosa que vai receber hoje. O que é óbvio para você é raro para o mercado."
+  },
+  {
+   "t": "h",
+   "text": "As sete fontes que a sua rotina já produz"
+  },
+  {
+   "t": "table",
+   "caption": "Onde a matéria-prima aparece",
+   "head": [
+    "Fonte",
+    "Onde acontece",
+    "O que ela revela"
+   ],
+   "rows": [
+    [
+     "Pergunta recorrente",
+     "Aquela que você responde toda semana",
+     "Uma dificuldade real e não resolvida do mercado"
+    ],
+    [
+     "Objeção",
+     "'Mas eu ouvi dizer que…'",
+     "Uma crença errada em circulação"
+    ],
+    [
+     "Caso",
+     "Um atendimento que fugiu do padrão",
+     "Que você já viu o que os outros não viram"
+    ],
+    [
+     "Erro comum",
+     "O que as pessoas fazem antes de chegar em você",
+     "Seu critério, por contraste"
+    ],
+    [
+     "Decisão",
+     "Quando você escolheu A em vez de B",
+     "Sua régua — o mais difícil de copiar"
+    ],
+    [
+     "Opinião",
+     "Onde você discorda dos seus pares",
+     "Seu posicionamento real"
+    ],
+    [
+     "Observação",
+     "Algo que você notou e ninguém comentou",
+     "Sua visão de mercado"
+    ]
+   ]
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "orbita",
+    "titulo": "A rotina como fonte permanente",
+    "centro": "Sua prática",
+    "satelites": [
+     "Perguntas",
+     "Objeções",
+     "Casos",
+     "Erros",
+     "Decisões",
+     "Opiniões",
+     "Observações"
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Por que a tela vazia trava"
+  },
+  {
+   "t": "p",
+   "text": "Quando você senta para 'criar conteúdo', você está pedindo ao seu cérebro que produza uma ideia do zero, fora de contexto, sob pressão de qualidade. É a pior condição possível."
+  },
+  {
+   "t": "p",
+   "text": "Quando você captura no momento em que a coisa acontece, o contexto faz metade do trabalho. Você não precisa inventar o detalhe — o detalhe está diante de você."
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Criação por inspiração",
+    "tom": "neg",
+    "items": [
+     "Começa na tela vazia, fora de contexto.",
+     "Depende de estar 'com a cabeça boa'.",
+     "Produz ideias genéricas, porque busca o que é publicável.",
+     "Acaba. Sempre acaba."
+    ]
+   },
+   "direita": {
+    "titulo": "Criação por percepção",
+    "tom": "pos",
+    "items": [
+     "Começa no consultório, no escritório, na conversa.",
+     "Depende só de anotar.",
+     "Produz ideias específicas, porque parte do real.",
+     "É renovável: a rotina não para."
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "A regra dos 20 segundos"
+  },
+  {
+   "t": "p",
+   "text": "Captura não é produção. Você não precisa saber o que fazer com aquilo. Precisa apenas registrar antes de esquecer — e você vai esquecer, porque para você aquilo é rotina."
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "Como capturar sem atrapalhar o trabalho",
+   "texto": "Entre um atendimento e outro, 20 segundos: abra as notas e escreva uma frase crua. 'Terceira pessoa esta semana perguntando sobre X.' Sem título, sem estrutura, sem julgar se serve. Julgar depois é outro trabalho, em outro momento."
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "area-acumulada",
+    "titulo": "O que 20 segundos por dia acumulam",
+    "labels": [
+     "Semana 1",
+     "Semana 4",
+     "Semana 8",
+     "Semana 12"
+    ],
+    "pontos": [
+     9,
+     18,
+     21,
+     24
+    ],
+    "nota": "72 registros em 12 semanas. Não falta mais ideia — passa a faltar tempo de publicar tudo."
+   }
+  },
+  {
+   "t": "quote",
+   "text": "Quando essa percepção se instala, criação deixa de começar na tela vazia. Começa na vida.",
+   "fonte": "Dossiê — As crenças que guiam seu conteúdo"
+  }
+ ],
+ "insights": [
+  "O que é óbvio para você é raro para o mercado. A explicação que você repete há anos é a informação mais valiosa que alguém vai receber hoje.",
+  "A tela vazia trava porque pede ideia fora de contexto. A captura funciona porque o contexto faz metade do trabalho.",
+  "Capturar não é produzir. Separar as duas coisas é o que torna a captura barata o bastante para virar hábito."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Reconheci as sete fontes na minha própria rotina",
+   "ajuda": "Tenho pelo menos um exemplo real de cada uma das sete.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Criei o meu canal de captura",
+   "ajuda": "Defini onde vou registrar: notas do celular, áudio, caderno.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Capturei ao menos 10 itens hoje",
+   "ajuda": "Não avaliei se prestam — só registrei.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Não julguei nenhum item durante a captura",
+   "ajuda": "Separei capturar de decidir.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "O que 'tudo pode ser conteúdo' significa neste método?",
+   "opcoes": [
+    "Que qualquer coisa deve ser publicada.",
+    "Que o universo de criação não precisa depender de inspiração, porque a rotina já produz matéria-prima.",
+    "Que é preciso postar todos os dias.",
+    "Que a vida pessoal deve virar conteúdo."
+   ],
+   "correta": 1,
+   "explicacao": "O capítulo é explícito: não é sobre publicar qualquer coisa. É sobre libertar a criação da dependência de inspiração."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual das sete fontes revela o seu critério — a parte mais difícil de copiar?",
+   "opcoes": [
+    "A pergunta recorrente.",
+    "A objeção.",
+    "A decisão.",
+    "A observação."
+   ],
+   "correta": 2,
+   "explicacao": "A decisão mostra a régua: por que você escolheu A em vez de B. Informação técnica é pública; a régua com que você decide, não."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Por que capturar é diferente de produzir?",
+   "opcoes": [
+    "Porque captura exige mais tempo.",
+    "Porque captura não julga nem estrutura — só registra, e por isso é barata o bastante para virar hábito.",
+    "Porque captura precisa de ferramenta específica.",
+    "Porque produção é feita por terceiros."
+   ],
+   "correta": 1,
+   "explicacao": "Se você julgar no momento da captura, ela deixa de custar 20 segundos e volta a custar o que a tela vazia custava."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Por que a 'tela vazia' é a pior condição para criar?",
+   "opcoes": [
+    "Porque exige ideia do zero, fora de contexto e sob pressão de qualidade.",
+    "Porque o computador distrai.",
+    "Porque falta ferramenta de edição.",
+    "Porque não há referência para copiar."
+   ],
+   "correta": 0,
+   "explicacao": "Na captura, o contexto real fornece o detalhe. Na tela vazia, você precisa inventar o detalhe — e o detalhe inventado sai genérico."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Primeiro depósito no banco de matéria-prima",
+  "objetivo": "Provar para si mesmo que você já vive cercado de conteúdo — capturando dez itens reais em um único dia.",
+  "tempoMin": 15,
+  "entrega": "Dez registros brutos, classificados por fonte, sem nenhum julgamento sobre qualidade.",
+  "formatoSugerido": [
+   "nota pessoal",
+   "áudio"
+  ],
+  "campos": [
+   {
+    "id": "perguntas",
+    "rotulo": "Perguntas que te fizeram (ou que você respondeu) hoje/esta semana",
+    "placeholder": "Uma por linha. Copie a pergunta como ela foi feita, com as palavras da pessoa.",
+    "linhas": 4
+   },
+   {
+    "id": "objecoes",
+    "rotulo": "Objeções ou crenças erradas que você ouviu",
+    "placeholder": "'Mas eu li que…', 'Meu antigo profissional disse que…'",
+    "linhas": 3
+   },
+   {
+    "id": "casos",
+    "rotulo": "Um caso que fugiu do padrão",
+    "placeholder": "Sem identificar ninguém. O que era esperado, o que aconteceu, o que você viu.",
+    "linhas": 3
+   },
+   {
+    "id": "decisoes",
+    "rotulo": "Uma decisão que você tomou e um colega talvez tomasse diferente",
+    "placeholder": "Qual foi a escolha e qual foi a régua.",
+    "linhas": 3
+   },
+   {
+    "id": "observacao",
+    "rotulo": "Algo que você notou e ninguém comentou",
+    "placeholder": "Sobre o mercado, sobre o comportamento dos clientes, sobre a profissão.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "São dez itens ou mais, e nenhum foi descartado por parecer 'óbvio demais'.",
+   "As perguntas estão com as palavras da pessoa, não traduzidas para o seu jargão.",
+   "Pelo menos quatro das sete fontes aparecem."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para transformar captura em publicação",
+  "regras": [
+   {
+    "regra": "Publique a pergunta antes da resposta",
+    "porque": "A pergunta é o que faz a pessoa se reconhecer. Sem ela, a resposta flutua no vazio."
+   },
+   {
+    "regra": "Preserve as palavras de quem perguntou",
+    "porque": "O jargão afasta. A palavra da pessoa é o gancho pronto que a realidade te deu."
+   },
+   {
+    "regra": "Um item, um conteúdo",
+    "porque": "Juntar cinco perguntas em um post dilui todas. Separar multiplica o seu estoque por cinco."
+   }
+  ],
+  "facaAssim": [
+   "'Essa semana três pessoas diferentes me perguntaram a mesma coisa. Vou responder aqui.'",
+   "Citar a pergunta literal entre aspas antes de responder.",
+   "Fechar com 'se você também pensa isso, o ponto é este'."
+  ],
+  "eviteAssim": [
+   "Reescrever a pergunta em linguagem técnica.",
+   "Responder cinco perguntas de uma vez para 'aproveitar'.",
+   "Descartar um item por achar básico demais — esse é justamente o de maior alcance."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "A pergunta",
+    "texto": "Literal, entre aspas, com as palavras de quem perguntou."
+   },
+   {
+    "rotulo": "Por que ela é comum",
+    "texto": "Uma frase que normaliza a dúvida e tira a vergonha de quem a tem."
+   },
+   {
+    "rotulo": "A resposta com detalhe",
+    "texto": "O que só quem faz sabe. Traga o número, o percentual, a exceção."
+   },
+   {
+    "rotulo": "O critério",
+    "texto": "Como decidir sozinho na próxima vez."
+   }
+  ]
+ },
+ "roteiro": "Essa semana três pessoas diferentes me perguntaram a mesma coisa.\n\n{a pergunta, com as palavras de quem perguntou}\n\nQuando a mesma dúvida aparece três vezes em poucos dias, não é coincidência. É sinal de que quase ninguém está explicando isso direito.\n\nEntão vou responder: {sua resposta}\n\nE se você também pensava assim, não é besteira. Faz sentido — {por que a dúvida é razoável}",
+ "estrutura": [
+  {
+   "rotulo": "A pergunta",
+   "texto": "Literal, entre aspas, com as palavras de quem perguntou."
+  },
+  {
+   "rotulo": "A normalização",
+   "texto": "'É a que mais me fazem.' Tira a vergonha de quem tem a dúvida."
+  },
+  {
+   "rotulo": "A resposta",
+   "texto": "Com o detalhe que só quem faz sabe: o número, o percentual, a exceção."
+  },
+  {
+   "rotulo": "O critério",
+   "texto": "Como decidir sozinho na próxima vez."
+  }
+ ]
+}

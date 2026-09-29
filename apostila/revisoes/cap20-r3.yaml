@@ -1,0 +1,65 @@
+capitulo: 20
+iteracao: 3
+notas: {metodo: 9.0, voz: 9.1, originalidade: 8.9, clareza: 9.0, ritmo: 9.0, concretude: 9.3,
+        coerencia: 8.3, aplicabilidade: 9.0, impresso: 8.6, honestidade: 9.1}
+bloqueadores: []
+pontos_fortes:
+  - "Os dois bloqueadores da r2 caíram. O fato de ofício agora é seguro ('O caixilho era de ferro, inteiro, e só pedia lixa e fundo anticorrosivo'). A peça-modelo tem autorização assinada e calendário ('Era de junho, de uma obra entregue em agosto'; 'a autorização para a foto e para contar a história sem o endereço'), e o caso em que se espera aparece em cena ('quadro de 1968, liberar em dezembro'). O capítulo mostra o sistema do cap. 19 funcionando, sem ficar só na citação."
+  - "A peça-modelo aparece na página como o leitor vai produzi-la. O box 'As cinco linhas daquela quinta' vem numerado e é dissecado logo depois ('A primeira dizia... A quinta era a frase que a pessoa levaria'), e a quinta linha é uma régua que o cliente usa sozinho: 'Antes de tirar uma peça velha, pergunte o que ela deixa passar.'"
+  - "O teste do pior mês fecha com números que batem com o cap. 8 e ensinam que mínimo não quer dizer rápido. Caio reprova o vídeo de quarenta minutos com 'uns trinta minutos por semana', e a Lúcia aprova uma peça de setenta e dois com 'oitenta e quatro minutos úteis por semana'. A Tabela 20.1 tira as durações do PWA de propósito e explica por quê."
+  - "A oficina ficou honesta e amarrada. Os campos seguem a ordem formato, peça, custo medido, testes e datas ('tempo: 20' com 'mais o tempo da peça, que é justamente o que você vai medir'), e a data da quarta peça tem onde ser escrita. Cada item do checklist remete a um campo. A 'roteiro_nota' faz o esqueleto servir a quem pensa contando."
+problemas:
+  - criterio: coerencia
+    trecho: "Numa quarta de junho, ele passou quarenta minutos decidindo o formato e vinte fazendo a peça."
+    por_que: "O gabarito (Apêndice A, p027) ficou com o número da versão anterior. A prosa diz hoje 'A peça em si, um vídeo regravado três vezes, levou outros quarenta', e a Figura 20.1 marca 40 para o vídeo. É justamente a conta que a questão 01 cobra, e o leitor que confere o gabarito encontra outro número (lição cap02-r2: conferir o gabarito contra o texto final a cada reescrita)."
+    correcao: "Explicação da questão 01: 'Numa quarta de junho, ele passou quarenta minutos decidindo o formato, tanto quanto levou a peça, e no fim do dia, com a cabeça gasta. O assunto a seleção resolvia; a decisão do formato voltava inteira toda semana.'"
+  - criterio: coerencia
+    trecho: "O problema aparecia na quarta-feira à noite, quando ele se sentava para decidir qual seria o da semana, e a decisão levava mais tempo do que a peça."
+    por_que: "Três parágrafos depois, a medição do Caio diz o contrário: 'quarenta minutos' para decidir e 'outros quarenta' para a peça, e 'A decisão pesava tanto quanto a peça'. O leitor recebe duas versões da mesma conta. Com o empate, a questão 01 da verificação ('O que mais pesava') fica frágil, porque o distrator (a), 'O tempo de gravar e editar cada vídeo', vale o mesmo que a correta."
+    correcao: "Alinhar as duas passagens. Uma saída: '...e a decisão levava tanto tempo quanto a peça, e vinha primeiro, quando a cabeça já estava gasta.' Ou manter 'mais tempo' e baixar a peça medida naquela quarta (ex.: 'levou trinta e cinco') sem mexer na Figura 20.1, que registra o custo típico do vídeo."
+  - criterio: coerencia
+    trecho: "Nas duas primeiras semanas, ele escreveu legendas de uma linha: “mais uma cozinha entregando”, “o antes e o depois do Taquaral”."
+    por_que: "Contradiz o cap. 11. Lá, depois da ficha de léxico, Caio já tinha escrito uma legenda de foto de obra em que abre com 'Teve uma obra em que a parede mais bonita do apartamento era a que mais mentia' e termina num critério ('Antes de comprar, abra os armários'). Ela rendeu comentários, e ele passou a reler a ficha 'antes de escrever qualquer legenda'. O manual dele já diz 'eu começo por uma obra'. A volta à legenda anônima em junho, sem motivo, fica inverossímil. Pelo mesmo motivo, 'a mesma frase de abertura, que ele não tinha planejado repetir' soa como descoberta de algo que o leitor viu nove capítulos antes. Na lista de formatos, 'a legenda longa de uma foto, depois da ficha de léxico' também não bate: a legenda do cap. 11 tem três frases curtas."
+    correcao: "Dar um motivo à regressão e reconhecer a origem. Ex.: 'Nas duas primeiras semanas, com a obra do Taquaral em entrega, ele voltou às legendas de uma linha que escrevia antes da ficha: “mais uma cozinha entregando”... As cinco linhas vieram na terceira, quando ele se lembrou da legenda da parede que mentia e percebeu que a foto sozinha mostrava a obra...'. Trocar 'a legenda longa de uma foto, depois da ficha de léxico' por 'a legenda de três frases da parede que mentia'. No fim do parágrafo do quarto teste: '...e encontrou quatro vezes a mesma frase de abertura, “teve uma obra”, a primeira regra da ficha, que nunca tinha repetido de propósito.'"
+  - criterio: coerencia
+    trecho: "Caio sentou no degrau da escada de um prédio de 1964 no Botafogo"
+    por_que: "O apartamento da 'parede que mentia', no cap. 11, é 'um apartamento de 1964 no Botafogo, em Campinas', e o cap. 12 retoma 'a parede que mentia no Botafogo'. Com o mesmo ano e o mesmo bairro, o leitor entende que Caio está reformando o apartamento daquele casal. Nada no texto confirma isso, e 'Mostrou ao dono', no singular, não bate com o casal. A r2 já tinha apontado o bairro, e a reescrita mudou só a idade da bandeira."
+    correcao: "Trocar ano e bairro da obra do dia (ex.: 'um prédio de 1968 na Vila Industrial', o que ainda deixa o quadro de luz 'de 1968' coerente) ou assumir o retorno numa oração ('no apartamento do casal da parede que mentia, que acabou comprando') e trocar 'ao dono' por 'ao casal'."
+  - criterio: clareza
+    trecho: "Teve uma obra em que a bandeira de vidro em cima da porta da cozinha ia para o lixo, porque o projeto antigo previa a porta até o teto."
+    por_que: "'O projeto antigo' se lê como o projeto original do prédio, e aí não faz sentido: foi o projeto original que fez a bandeira. O que se quer dizer é a primeira versão do projeto da reforma. Como a peça-modelo é o que o leitor vai imitar, a ambiguidade custa caro na primeira linha."
+    correcao: "'...ia para o lixo, porque a primeira versão do projeto previa a porta até o teto.'"
+  - criterio: honestidade
+    trecho: "A leitora que mais comentava tinha deixado comentário em seis das dez quintas; nas outras quatro, nada. Para essa pessoa, a série estava começando."
+    por_que: "A conta não sustenta a conclusão. Quem acompanhou seis de dez não está no começo da série: viu mais da metade. O argumento do PWA é outro ('o seu público ainda não viu nem a metade'): se a leitora mais fiel passou por seis, o público comum viu bem menos. Do jeito que está, o narrador tira da conta mais do que ela diz."
+    correcao: "'A leitora que mais comentava tinha deixado comentário em seis das dez quintas. Se a mais fiel tinha passado por seis, quem aparecia de vez em quando tinha visto duas ou três: para essa gente, a série mal tinha começado.'"
+  - criterio: voz
+    trecho: "“A pergunta que eu mais ouço no consultório é…”, toda semana"
+    por_que: "Abertura fixa que se desmente na segunda semana: não há uma pergunta 'que eu mais ouço' diferente a cada semana. Como é o exemplo da regra 'Abra sempre do mesmo jeito', o leitor copia uma fórmula que não se sustenta na repetição."
+    correcao: "“Uma cardiologista: “A pergunta desta semana no consultório foi…”, toda semana, com a mesma foto do estetoscópio sobre a mesa.”"
+  - criterio: aplicabilidade
+    trecho: "colunas: [\"Passa\", \"Não passa\", \"Só a repetição: conferir na 4ª peça\"]"
+    por_que: "Na página (p021), a terceira coluna tem caixa de marcar também nas linhas de modo, pior mês e repertório, que o critério manda aprovar hoje. O rótulo diz 'Só a repetição', mas as caixas convidam a marcar o contrário. Foi apontado na r2, e só o rótulo mudou."
+    correcao: "Suprimir as caixas da terceira coluna nas três primeiras linhas (célula vazia ou traço). Se o componente não permitir, tirar a coluna e escrever na própria linha: 'Repetição: aguento fazer cem vezes — conferir na 4ª peça, em ___/___'."
+  - criterio: ritmo
+    trecho: "As cinco linhas tinham uma ordem, e a ordem era a de uma história de obra. A primeira dizia onde ele estava e o que ia acontecer com a peça da foto. A segunda, o que ele tinha encontrado. A terceira, o que decidiu. A quarta, o que custaria o outro caminho."
+    por_que: "O parágrafo tem sete frases, acima do teto de seis (lição cap01-r2). Além disso, 'onde ele estava' não descreve a primeira linha, que diz qual obra e o que ia acontecer com a peça, e não onde ele estava."
+    correcao: "'As cinco linhas tinham a ordem de uma história de obra. A primeira dizia qual obra e o que ia acontecer com a peça da foto; a segunda, o que ele tinha encontrado; a terceira, o que decidiu; a quarta, o que custaria o outro caminho. A quinta era a frase...'"
+  - criterio: originalidade
+    trecho: "Uma coluna de jornal funciona assim há mais de um século: o mesmo lugar, o mesmo tamanho, o mesmo dia, e um assunto diferente a cada vez."
+    por_que: "Duas analogias quase seguidas para a mesma ideia, a coluna e o mecânico, com o box Conceito entre elas. O mecânico é a mais própria e a que desce a um ofício. A coluna de jornal é imagem gasta e repete o que a frase anterior já mostrou com o próprio Caio ('um batente, uma parede que mente, um piso de taco')."
+    correcao: "Cortar a frase da coluna de jornal e fechar o parágrafo em 'e a moldura igual ajuda a encontrar o que é novo.'"
+edicoes_de_linha:
+  - "'Caio mediu isso sem querer. Numa quarta de junho, anotou no caderno' -> 'Caio mediu isso uma vez. Numa quarta de junho, anotou no caderno' (anotar o tempo é um gesto deliberado; 'sem querer' se desmente na frase seguinte)"
+  - "'Nenhuma tinha exigido que ele decidisse, na véspera, o que ia fazer.' -> 'Nenhuma tinha exigido que ele decidisse, na véspera, em que formato ia sair.' (na véspera ele decide, sim, o assunto, na seleção)"
+  - "'Caio chegou a abrir a câmera, que continuava no armário do escritório.' / 'Fechou a câmera sem ligar.' -> 'Caio chegou a tirar do armário do escritório a câmera, que continuava lá.' / 'Guardou-a sem ligar.' (câmera não se abre; o que se abre é o estojo)"
+  - "'publicou às sete e cinquenta e dois e subiu para a obra do dia, que não tinha nada a ver com a peça. O dono daquela cozinha tinha assinado' -> passar a oração da autorização para o fim do parágrafo seguinte ('...nem o rosto de ninguém na foto. E o dono tinha assinado, na entrega, a autorização para a foto e para contar a história sem o endereço.'). Hoje ela interrompe a ação e faz 'dono daquela cozinha' aparecer duas vezes em frases seguidas."
+  - "'Até lá, nada muda.' -> 'Até lá, nada mudaria.' (o parágrafo está no passado; o presente solto quebra o tempo da cena logo antes de 'Em novembro, vendeu')"
+  - "Guardar, item 1: está sem aspas no YAML, e os itens 2 e 3 estão entre aspas. Uniformizar (não aparece na página, mas evita diferença de tratamento no gerador)."
+diagramacao:
+  - "p018: na Figura 20.2, a nota da base continua quebrando com 'para.' sozinho na segunda linha ('O caderno de campo do capítulo 19. Nunca / para.'). É a terceira revisão que aponta isso. Encurtar para 'Caderno de campo, cap. 19. Nunca para.' ou alargar a coluna das notas."
+  - "p021: grade dos quatro testes com caixas na terceira coluna em todas as linhas (ver problema de aplicabilidade). A primeira coluna é estreita demais: 'Repertório: comporta detalhe, exceção ou critério' quebra em cinco linhas. Alargar a coluna dos rótulos e estreitar as de caixa."
+  - "p013: cerca de 25% da página em branco depois de 'a cada vez.', porque o box Conceito não coube e foi inteiro para a p014. Branco evitável: com o corte da frase da coluna de jornal e o parágrafo das cinco linhas mais enxuto (ver problemas), o box tende a subir. Se não subir, permitir que o parágrafo do mecânico venha antes do box."
+  - "p021-p022: cerca de 20% em branco no pé da p021 porque a rede abre em página nova, e a p022 fecha com uns 35% livres antes do esqueleto indivisível. Pela regra do projeto, só a oficina começa em página nova. A rede podia começar na p021, com o esqueleto na p022. O branco da p019, antes da oficina, e o da p023 são aceitos."
+  - "p024-p025: o checklist ocupa só o terço superior da p025. Apontado na r1 e na r2; se o componente permitir, verificação e checklist cabem juntos numa página de fechamento."
+veredito: "O capítulo passou de reprovado a quase pronto: sem bloqueadores, com uma peça-modelo lícita e tecnicamente correta. Ainda pede uma passada de coerência: o gabarito cita 'vinte' contra os quarenta da prosa, a decisão aparece ora maior, ora igual à peça, a regressão às legendas de uma linha contradiz o cap. 11 e o 'prédio de 1964 no Botafogo' é o mesmo endereço da parede que mentia."

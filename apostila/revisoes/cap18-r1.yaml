@@ -1,0 +1,76 @@
+capitulo: 18
+iteracao: 1
+notas: {metodo: 8.0, voz: 8.6, originalidade: 8.7, clareza: 8.4, ritmo: 8.7, concretude: 8.8,
+        coerencia: 7.8, aplicabilidade: 8.5, impresso: 8.7, honestidade: 8.4}
+bloqueadores:
+  - "Contradição com o método no caso central. O capítulo define critério como a escolha entre duas saídas defensáveis, e a própria oficina diz 'Se uma delas é claramente pior, não é bifurcação'. Mas o caminho do investidor inclui esconder 'Fiação de pano' e 'Um quadro de luz que esquentava quando se ligava o chuveiro e a máquina de lavar ao mesmo tempo' num imóvel de aluguel de temporada, com 'o seguro cobria' como resposta ao risco de incêndio. Um arquiteto ou engenheiro diria que isso não é defensável: é responsabilidade técnica (instalação elétrica sabidamente sobrecarregada, com gente dormindo ali). Mesmo assim, o texto afirma 'Os dois caminhos são defensáveis; muitos colegas bons fazem o primeiro' e 'O escritório que aceitou os três apartamentos não é desonesto por ter aceitado'. O leitor aprende que critério é recusar o errado, justamente o que o conceito exclui. O segundo exemplo de 'entrada' agrava o problema: o acordo de fachada do Otávio é uma ação simulada que a lei proíbe (cap. 10)."
+pontos_fortes:
+  - "A cena de abertura tem ofício verdadeiro e dilema material bem pesado: 'Os três apartamentos pagariam o aluguel da sala até o fim do ano e o salário do estagiário por mais seis meses', a ata do sócio como 'forma de dividir a culpa', a Avenida Andrade Neves, o piso vinílico por cima do taco."
+  - "O limite da régua do Caio (a senhora que ia informar o comprador) é um erro real, com ajuste operacional ('ele pergunta por que o prazo é aquele'), e não um limite decorativo. Mostra na prática a quarta parte do método."
+  - "Formulações próprias e memoráveis: 'não são régua; são a ausência dela dita com educação'; 'Publicar a régua é pôr por escrito, antes da primeira conversa, aquilo que o cliente satisfeito contaria depois'; 'Queremos a obra que não esconde.'"
+  - "O exemplo do ortopedista (menisco degenerativo acima dos quarenta, conduta conservadora, exceção do joelho que trava) é tecnicamente correto e mostra as quatro partes numa área distante da do Caio."
+problemas:
+  - criterio: metodo
+    trecho: "numa reforma de prédio antigo com prazo curto, há quem resolva o que aparece e deixe o resto para depois, e há quem abra o que precisa ser aberto antes de fechar. Os dois caminhos são defensáveis; muitos colegas bons fazem o primeiro."
+    por_que: "A bifurcação só é legítima se o 'resto' puder mesmo esperar. No caso narrado, o resto inclui um quadro que esquenta e fiação de pano num imóvel de hospedagem, e aí não há dois caminhos defensáveis: há protocolo de segurança. A régua do Caio ('se a obra vai esconder de quem vem depois um problema que eu vi, eu não faço') fica parecendo ética mínima, e não critério. É o erro que o próprio capítulo manda evitar."
+    correcao: "Tire o risco elétrico da bifurcação e use-o como contraste pedagógico. O investidor aceita trocar quadro e fiação ('isso não se discute, é segurança; ali não há régua, há norma') e resiste ao resto: a infiltração do banheiro do terceiro andar, a prumada de ferro com vida útil incerta, o taco solto sob o vinílico. Adiar isso é defensável num imóvel de temporada, porque o problema pode levar anos para aparecer e o dono assume o risco. A régua do Caio passa a valer onde há escolha de verdade. Ajuste o parágrafo 'O outro cuidado' para que o escritório concorrente seja plausivelmente honesto."
+  - criterio: coerencia
+    trecho: "Os quatro personagens já mostraram critérios dos quatro tipos, sem chamá-los assim. O de Caio, nesta semana, é de entrada. O de Otávio, no capítulo 10, também: não faz acordo de fachada."
+    por_que: "A frase promete os quatro tipos e entrega três: dois de entrada, nenhum de escolha. Além disso, o cap. 10 registra que 'A lei proíbe a ação simulada'. Recusar o ilegal não é escolher entre duas saídas defensáveis, e isso reforça o problema do bloqueador."
+    correcao: "Dê ao Otávio um critério de escolha tirado do repertório dele, legal e discutível. Por exemplo: 'quando a empresa tem documento de jornada, eu defendo até a sentença; quando não tem, proponho acordo na primeira audiência, mesmo que o dono queira brigar'. Com isso, os quatro tipos ficam cobertos e o exemplo ilegal sai."
+  - criterio: coerencia
+    trecho: "Caio gravou a peça numa tarde de chuva, no corredor vazio de uma obra que ele tinha aceitado, com a autorização do proprietário."
+    por_que: "É a mesma imagem do cap. 3 ('numa obra no bairro Guanabara, Caio pediu ao proprietário licença para gravar no corredor, que ainda estava vazio'). A regra do projeto proíbe repetir cena entre capítulos. A peça também não tem data: pelo cap. 20, desde junho o Caio publica só foto e cinco linhas, com a câmera no armário. Um vídeo depois disso contradiria o arco."
+    correcao: "Troque a cena de gravação por algo que o Caio ainda não fez no livro (por exemplo, um áudio gravado no carro, em frente à obra do Bosque, ou um texto curto começado por 'Teve uma obra'), e date a peça antes de junho ('numa quinta de maio'). Ou mencione de passagem que foi uma das tentativas de formato que o cap. 20 enumera."
+  - criterio: coerencia
+    trecho: "Caio não contou a história do investidor, nem o endereço do prédio, nem o número de apartamentos. Contou o tipo de proposta, os dois caminhos e a régua."
+    por_que: "Dois parágrafos adiante, a peça conta outra coisa ('contou uma reforma em que tinha aberto uma parede para trocar um cano') e 'Terminou na régua e no limite dela'. O limite é a senhora que vendia o apartamento 'para pagar um tratamento de saúde', ou seja, o caso de uma cliente com dado de saúde. É justamente o que a seção de rede manda evitar ('Contar o caso do cliente que motivou a régua')."
+    correcao: "Unifique a descrição da peça: 'Começou por uma obra em que tinha aberto uma parede para trocar um cano que ninguém veria, disse os dois caminhos e a régua, e terminou no limite dela, contado sem a senhora: uma vez recusou uma obra sem perguntar por que o prazo era aquele.' No parágrafo 68, troque 'para pagar um tratamento de saúde' por 'por um motivo de família', que basta à cena."
+  - criterio: clareza
+    trecho: "Na semana seguinte, os três apartamentos já estavam com andaime na fachada.\n\nNaquela noite, Caio abriu o caderno de campo"
+    por_que: "A linha do tempo da abertura se embaralha. A visita é numa segunda; depois 'Caio passou o fim de semana pensando nisso. Na segunda...' (já é outra semana); depois 'recusou o projeto na mesma semana' (qual?); e 'Naquela noite' se ancora numa frase sobre a semana seguinte. Andaime na fachada também não combina com reforma interna de três unidades num condomínio: fachada é área comum e depende de assembleia."
+    correcao: "Reordene: 'Na segunda, a ata lhe pareceu... Recusou o projeto no mesmo dia, por escrito, em três parágrafos... O investidor agradeceu e contratou outro escritório. Naquela noite, Caio abriu o caderno de campo...' Mova o fecho para depois: 'Dez dias depois, havia uma caçamba de entulho na porta do prédio.'"
+  - criterio: coerencia
+    trecho: "Desde então, antes de recusar, ele pergunta por que o prazo é aquele, e quem vai saber do que ficou por fazer."
+    por_que: "O ajuste já está numa das três perguntas que ele fazia 'em silêncio' havia anos ('O que vai ficar por fazer, e quem vai saber disso?'). E 'o limite apareceu ao escrever' não bate com um erro de três anos antes, já corrigido desde então. Fica ambíguo o que foi descoberta e o que já era prática."
+    correcao: "'E, ao escrever, entendeu de onde vinha a terceira pergunta. Três anos antes...' Termine o parágrafo em 'Desde então, antes de recusar, pergunta por que o prazo é aquele.'"
+  - criterio: honestidade
+    trecho: "A indicação que circula de boca em boca é, quase inteira, feita de critério."
+    por_que: "É uma afirmação empírica sem fonte, e o capítulo acumula outras generalizações sobre terceiros bem acima do limite de duas: 'isso vale para quase todas as áreas', 'Raramente repete a técnica', 'quase ninguém o publica', 'essa é, muitas vezes, a informação que decide', 'é quase sempre o contrário: são justamente os clientes que dariam problema depois' (repetida no Guardar: 'quase sempre são os casos')."
+    correcao: "Corte a frase ou passe a uma observação do Caio: 'No escritório do Caio, os clientes que chegavam por indicação quase sempre repetiam uma decisão dele, nunca uma técnica.' No parágrafo 79 e no Guardar, troque 'quase sempre' por 'muitas vezes são' ou por 'são, com frequência, os que discordariam da condução no meio do caminho'. Deixe no máximo duas generalizações no capítulo."
+  - criterio: voz
+    trecho: "Quando o critério está publicado, acontece uma coisa curiosa com quem o lê."
+    por_que: "É o narrador anunciando em vez de dizer. Nos boxes, a antítese ', e não' vira tique: 'Mostra pensamento, e não protocolo', 'honestidade em ato, e não em discurso', 'Avalia o pensamento, e não a técnica', 'pelo critério, e não pelo preço', 'é real, e não decorativo', 'na prática, e não inventado para a peça', 'e não um protocolo', 'Custo, e não benefício'. São oito ocorrências fora da prosa, contra o limite de uma antítese explícita por seção."
+    correcao: "Comece o parágrafo direto: 'Publicado o critério, parte de quem lê se reconhece e passa a preferir você.' Nos boxes, fique com no máximo duas antíteses e reescreva as outras como afirmação: 'Mostra como você pensa'; 'Prova honestidade no ato'; 'Avalia o raciocínio'; 'Escolheu você pela régua'; 'O limite do campo 05 aconteceu de fato'; 'prova que o critério foi usado na prática'; 'Dois caminhos defensáveis (campos 01 e 02)'; 'O que cada um cobra (campo 03)'."
+  - criterio: aplicabilidade
+    trecho: "  - rotulo: \"Onde essa régua já falhou, e o que você ajustou\"\n    linhas: 3"
+    por_que: "Os campos da oficina trazem instruções, e não exemplos em profissões variadas (regra da estrutura). O campo mais difícil, o do limite, não traz nada. Quem é de outra área só tem o ortopedista e o Caio como modelo. O campo 03 pede o custo de dois caminhos em 3 linhas, e o esqueleto da rede repete as quatro partes da oficina com 'rascunhe aqui', sem esqueleto_rotulo, contrariando a lição cap02-r2."
+    correcao: "Dê exemplo curto de outra profissão em 02 a 05 (ex.: uma contadora: 'Quando a empresa fatura até X e tem um sócio só, eu indico o regime A mesmo que o B pague menos este ano; errei com um cliente que dobrou de tamanho em seis meses'). Uma nutricionista pode servir para o critério de parada. Suba o campo 03 para 4 linhas. Na rede, acrescente esqueleto_rotulo: 'Passe a limpo os campos 02 a 05, em frases de quem lê' e use 2 linhas por parte."
+  - criterio: metodo
+    trecho: "  - {regra: \"Admita onde a régua já errou.\", porque: \"O limite conhecido prova que o critério foi usado na prática, e não inventado para a peça.\"}"
+    por_que: "A diretriz da fonte 'Publique o que você recusa' desapareceu, embora seja o eixo do capítulo segundo o plano ('a régua que ele usou para recusar'). A terceira regra agora repete a quarta parte já dita na prosa e na oficina."
+    correcao: "Troque a regra 3 por 'Publique o que você recusa.' com o porquê: 'A recusa é a régua mais fácil de ler: mostra o que você não faz, mesmo quando pagaria bem.' A admissão do limite já está no esqueleto e no roteiro."
+  - criterio: clareza
+    trecho: "Porque o conhecimento técnico já está disponível na internet."
+    por_que: "O distrator não é falso sem ambiguidade: o próprio capítulo diz que 'A informação técnica de qualquer área está em livros e cursos, e um concorrente atento pode reproduzi-la'. O leitor atento pode marcá-lo com razão."
+    correcao: "Troque por 'Porque o critério dispensa conhecimento técnico de quem publica.'"
+  - criterio: concretude
+    trecho: "Caio recusou o projeto na mesma semana. Explicou por escrito, em três parágrafos"
+    por_que: "O Caio pensa contando ('teve uma obra…', mede com o passo), mas na cena central não conta nenhuma história ao investidor nem usa nenhuma das suas marcas. O modo só aparece no parágrafo 98, de passagem."
+    correcao: "Na visita, depois da lista, o Caio responde ao 'o hóspede não vai abrir a parede' com uma obra: 'Teve uma obra em que o hóspede também não ia abrir a parede...', em duas frases. Ou mede com o passo a distância do banheiro à sala manchada."
+edicoes_de_linha:
+  - "quase ninguém o publica -> quase ninguém a publica (concordância com 'a régua de parada')"
+  - "sem nunca a escrever -> sem nunca escrevê-la"
+  - "já estavam com andaime na fachada -> já tinham uma caçamba de entulho na porta do prédio"
+  - "O casal que chega concordando com ela, por outro lado -> Quem chega concordando com a régua, por outro lado (o casal específico só aparece dois parágrafos depois)"
+  - "Explicou que o orçamento ficaria fechado depois de abrir. -> Explicou que só fecharia o orçamento depois de abrir. (evita o eco com 'fechar qualquer parede')"
+  - "Se identifica ou se exclui (figura) -> Reconhece-se ou se afasta"
+  - "O investidor ouviu a lista com paciência ... O investidor disse que o seguro cobria. -> dividir o parágrafo 15 (7 frases) depois de 'ele resolvia.'"
+  - "Mas há outra coisa que o cliente consegue avaliar muito bem: o raciocínio. -> O que ele consegue avaliar muito bem é o raciocínio."
+diagramacao:
+  - "p21: o esqueleto termina a ~70% da página e o roteiro de fala (bloco inteiro) passa para a p22, deixando cerca de 30% em branco. O branco some se o esqueleto for reduzido para 'passe a limpo' com 2 linhas por parte, e aí o roteiro cabe na p21."
+  - "p21: o rótulo 'O CUSTO DE CADA UM' quebra em duas linhas com 'UM' sozinho. Encurtar para 'OS CUSTOS'."
+  - "p22: no roteiro, a lacuna 'o ajuste' se parte entre duas linhas ('o' / 'ajuste.'). Encurtar a lacuna ('ajuste') ou a frase ('Desde então, eu {o ajuste}')."
+  - "p12: a última linha ('...sem nunca a escrever. Escreveu.') tem espaçamento largo na justificação. Depois da edição de linha, conferir."
+  - "p18: meia página em branco depois do Para guardar, antes da oficina em página nova. Aceito pelo projeto."
+veredito: "Capítulo bem escrito, com cena de ofício forte e limite honesto da régua, mas o caso central ensina critério com um caminho indefensável (risco elétrico escondido), e a regra 'dois caminhos defensáveis' fica contradita pelo próprio exemplo. Reprovar e corrigir a bifurcação, os quatro tipos e a coerência com os caps. 3, 10 e 20."

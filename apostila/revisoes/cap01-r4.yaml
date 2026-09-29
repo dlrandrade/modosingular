@@ -1,0 +1,102 @@
+capitulo: 1
+iteracao: 4
+notas: {metodo: 9.4, voz: 9.1, originalidade: 9.2, clareza: 9.2, ritmo: 9.2, concretude: 9.2,
+        coerencia: 9.2, aplicabilidade: 8.6, impresso: 9.0, honestidade: 9.2}
+bloqueadores:
+  - 'Autodiagnóstico, faixa moderada: a leitura afirma ao leitor o contrário do que ele acabou de responder. Teste linha a linha: "Concordo totalmente" nas linhas 1, 3 e 4 (5+5+5), "Concordo totalmente" na linha 2 invertida (1) e "Discordo totalmente" nas linhas 5 e 6 (1+1) somam 18. Esse leitor diz que tem autoridade real, vive de indicação, que o perfil comunica a sua profundidade e que o perfil NÃO poderia ser trocado pelo de um colega, e recebe: "A distância existe e já pesa: o que alguém encontra sobre você poderia ser de outro profissional da sua área." As linhas 1, 3 e 4 não medem distância e somam até 15 pontos; como o leitor típico deste livro marca alto nas três (autoridade real e indicação são o briefing), ele nunca cai na faixa baixa, mesmo com presença que funciona. É o caso que a lição da r1 veta ("as faixas não podem afirmar o que a escala não mede") e a da r2 manda testar. A correção é de uma frase, no mesmo molde da que resolveu a faixa baixa.'
+pontos_fortes:
+  - 'A cena de abertura segue de editora: o modo da Renata aparece no gesto ("desenhou no ar, com as mãos, uma coluna que amanhece travada e vai soltando ao longo do dia"), o detalhe de ofício é exato (dor pior ao acordar que cede com o movimento, fita na flexão lombar, reumatologista antes do exercício) e a virada fica no fim do parágrafo ("Entendeu o desenho, e isso bastou").'
+  - 'O fecho em "Não liga para o Instagram dela." resume a tese numa fala de personagem e prova, sem sermão, que indicação e presença puxam em sentidos opostos. É o tipo de final que o leitor conta a alguém.'
+  - 'Formulações próprias e memoráveis: "a média da profissão, com o nome dela em cima"; "Dizia que ela atende coluna, o que é verdade; que gosta de alongamento, o que é meia verdade; e que se parece com todas as outras, o que é falso"; "cresce na velocidade de outra pessoa"; "A raiva é compreensível. O problema é que ela não publica nada."'
+  - 'A seção das três razões (reflexo, sinais que só aparecem ao vivo, escrúpulo) agora tem a ressalva honesta ("Nem toda distância grande vem de competência grande") e continua sendo a contribuição mais original do capítulo em relação ao PWA.'
+  - 'A conta da Renata fecha e mostra a premissa ("Como os dois indicavam mais ou menos o mesmo tanto… dois de cada cinco"), e a oficina a devolve ao leitor ("A conta da Renata, feita por você"), com exemplo de nutricionista em números. Ponte limpa entre prosa e caderno.'
+  - 'Regra de ouro dita sem sermão ("a coluna, o contrato, o balanço, a reforma, a ansiedade, o dente"); roteiro 100% sobre a área, com a ressalva de ética profissional no lugar certo. Lint limpo: 1 "não é/é", 0 frase-soco, 0 travessão.'
+  - 'Diagramação dentro da meta: 16 páginas (p011 a p026), esqueleto e faça/evite juntos na p024, autodiagnóstico inteiro na p020 com caixa de soma.'
+resolvidos_das_anteriores:
+  - 'r3, bloqueador das faixas baixa e alta: resolvido e conferido contra a linha invertida. "Olhe as colunas que você marcou nas linhas 1 e 2" funciona na tabela da p020 (linha 1 concordando fica à direita, linha 2 discordando fica à esquerda); "pela linha 2, 5 ou 6 em que você circulou o número mais alto" aponta sempre para itens de distância, e com soma 23 pelo menos um deles tem 3 ou mais. Novo bloqueador está na faixa moderada.'
+  - 'r3, exemplo da advogada de família com rubricas vazias: resolvido, agora com três fatos (ver ressalva de ofício no item 3, em problemas).'
+  - 'r3, tempo acima do pacto: resolvido pelos dois lados. Oficina em 25 min, campo 05 com exemplo verificável (dentista) e "Antes de começar" agora promete "quarenta e cinco minutos a uma hora", o que o capítulo cumpre.'
+  - 'r3, batida "quase foi embora" três vezes: resolvida (legenda cortada).'
+  - 'r3, frase "alguma coisa mudou no rosto dele" e parágrafo de 7 frases: resolvidos.'
+  - 'r3, ponte "Antes de qualquer técnica… caneta" no fim da prosa: resolvido (virou a primeira linha da instrução).'
+  - 'r3, seção "A conta" como depósito: resolvido (desculpas abrem "O que este livro não vai pedir"; a cardiologista entra por "A conta tem uma parcela que não cabe na planilha").'
+  - 'r3, tique de "só/já/ninguém": resolvido em boa parte (só 7, já 5, ninguém 7 na prosa). O tique migrou para "muita gente" (ver problemas).'
+  - 'r3, "as duas colunas abaixo", "A peça abaixo", "o esqueleto acima": resolvidos.'
+  - 'r3, "trabalha enquanto você dorme": resolvido ("nem no mês em que você sai de férias").'
+  - 'r3, espelho com reflexo fiel: resolvido. O reflexo da p011 agora é menor, sem cabelo e sem cor própria; a diferença se lê.'
+  - 'r3, pediatra que "já sabe", "Quem recebe o nome de um médico", "os pacientes dela assistiram", "Ninguém nunca", "entre o nome recebido e a primeira mensagem", nó 4 com vocabulário de venda, item 4 do checklist duplicado: resolvidos.'
+  - 'r3, figurantes: resolvido (pediatra, professora de piano e nutricionista registrados no ESTADO.yaml).'
+  - 'r3, distratores: q2 b e q3 a trocados por equívocos que o capítulo refuta. q3 b e c continuam fáceis demais (ver problemas).'
+  - 'r3, todas as nove edições de linha aplicadas. Diagramação: extensão de 17 para 16 páginas, p024 com faça/evite depois do esqueleto (resolvidos). Espaço antes da pontuação no roteiro: o CSS da lacuna ganhou margem negativa; não conferido na imagem (p025).'
+problemas:
+  - criterio: aplicabilidade
+    trecho: "A distância existe e já pesa: o que alguém encontra sobre você poderia ser de outro profissional da sua área."
+    por_que: 'Bloqueador (ver acima). Com soma 18, o leitor que marcou "Discordo totalmente" na linha 5 recebe como leitura exatamente a frase da linha 5. As linhas 1, 3 e 4 inflam a soma sem medir distância.'
+    correcao: 'Faixa moderada: "Olhe as linhas 2, 5 e 6. Se em alguma delas você circulou 4 ou 5, a distância existe e já pesa: o que alguém encontra sobre você poderia ser de outro profissional da sua área, e publicar mais não resolve; o trabalho é de singularidade. Se nas três você circulou 1 ou 2, a soma veio das outras linhas e a sua presença já trabalha a favor." (cabe na coluna; se não couber, reduzir para a primeira e a última frase).'
+  - criterio: clareza
+    trecho: "Há um paradoxo aqui. Nem toda distância grande vem de competência grande; mas, quando a competência existe, três razões costumam alargar a distância"
+    por_que: 'A ressalva da r3 entrou, mas empurrou o paradoxo para fora da frase: "Há um paradoxo aqui." ficou apontando para o nada, e o leitor só o reconstrói pelo intertítulo. Fica também a sequência "Há um paradoxo… Nem toda… mas… costumam", que hesita três vezes antes de dizer.'
+    correcao: '"Há um paradoxo aqui: quem sabe mais costuma aparecer menos. Nem toda distância grande vem de competência grande, mas, quando a competência existe, três razões a alargam, e nenhuma delas é falta de jeito para a internet."'
+  - criterio: clareza
+    trecho: "A presença digital trabalha, portanto, até para quem chega indicado. No caso da Renata, por pouco não trabalhou contra."
+    por_que: 'A lógica está invertida. O perfil trabalhou contra, sim: Marcos quase não entrou e, no fecho, ainda passa ao colega "Não liga para o Instagram dela". O que foi por pouco foi a perda do paciente. O leitor atento tropeça justamente no parágrafo que sustenta o argumento.'
+    correcao: '"No caso da Renata, trabalhou contra, e por pouco não ganhou." (e o fecho do capítulo passa a confirmar a frase, em vez de contradizê-la).'
+  - criterio: voz
+    trecho: '"Muita gente que recebe o nome de um médico faz o mesmo." / "e muita gente vive" / "que é o que muita gente séria gostaria de poder fazer" / "Muita gente competente descreve esse incômodo" / "Um medo costuma travar gente séria" / "tanta gente com pouco repertório… tanta gente com muito repertório"'
+    por_que: 'O tique lexical que a r3 apontou em "só/já/ninguém" mudou de palavra: "gente" aparece sete vezes na prosa, quatro delas em "muita gente", e "costuma/costumam" quatro vezes (incluindo o intertítulo). Além de música de fundo, cada "muita gente…" é uma generalização sobre terceiros, que a lição cap02-r1 manda transformar em observação de personagem ou cortar.'
+    correcao: 'Cortar "Muita gente que recebe o nome de um médico faz o mesmo." (o parágrafo vai direto de "abriu o perfil antes de entrar" para "É nesse intervalo…"). "e muita gente vive" -> cortar ("existe um jeito de viver bem de indicação."). "que é o que muita gente séria gostaria de poder fazer" -> cortar a oração. "Muita gente competente descreve esse incômodo com uma raiva…" -> "A cardiologista descreveria esse incômodo com uma raiva que não gostaria de admitir…" (vira observação de personagem). Manter "tanta gente… tanta gente", que é a antítese certa no lugar certo.'
+  - criterio: coerencia
+    trecho: "Muita gente que recebe o nome de um médico faz o mesmo."
+    por_que: 'Renata é fisioterapeuta, e o caso que a frase generaliza é o dela. Para o leitor da saúde, chamar implicitamente a fisioterapeuta de médica é o tipo de deslize que ele percebe na hora. Resolve-se junto com o corte acima.'
+    correcao: 'Cortar a frase (preferível) ou "o nome de um profissional de saúde".'
+  - criterio: honestidade
+    trecho: "Antes de qualquer técnica, meça a sua distância."
+    por_que: 'A lição cap01-r1 diz: autodiagnóstico "estima", não "mede". A nota sob a tabela diz "O resultado é uma estimativa" e a legenda da fig. 1.1 fala em "estimativa"; a primeira linha do instrumento promete medição.'
+    correcao: '"Antes de qualquer técnica, estime a sua distância."'
+  - criterio: aplicabilidade
+    trecho: "Olhe as colunas que você marcou nas linhas 1 e 2: se ficaram em lados opostos da tabela, a distância existe mesmo com soma baixa."
+    por_que: 'Correto para o caso previsto, mas vale também para o caso inverso: quem discorda da linha 1 (esquerda) e concorda com a linha 2 (direita) também fica em "lados opostos" e ouve que a distância existe, quando o perfil está à frente da prática, que é justamente a outra hipótese que a faixa abre.'
+    correcao: '"…se a linha 1 ficou à direita e a linha 2 à esquerda, a distância existe mesmo com soma baixa."'
+  - criterio: impresso
+    trecho: "Se não aparece nada, circule o 5 nas linhas 2 e 5."
+    por_que: 'A nota e as três faixas remetem a números de linha (1 e 2; 2 e 5; 2, 5 ou 6), mas a tabela da p020 não numera as linhas. Com seis itens o leitor conta, mas é a única tabela do livro em que o texto depende de um índice que não está impresso, e a linha invertida é exatamente onde contar errado custa caro.'
+    correcao: 'Numerar os itens de 1 a 6 à esquerda da tabela, no mesmo estilo dourado dos números de campo da oficina ("01", "02"…).'
+  - criterio: concretude
+    trecho: "3. Recuso ação de alienação parental sem laudo, e explico ao cliente por quê na primeira reunião."
+    por_que: 'Detalhe de ofício inexato. Na ação de alienação parental, o laudo (perícia psicológica ou biopsicossocial) é determinado pelo juiz dentro do processo (Lei 12.318/2010, art. 5º); não existe antes da ação para a advogada exigir. Uma advogada de família lê isso e desconfia do resto. A régua real é outra: recusar entrar só com a palavra do cliente.'
+    correcao: '"3. Não entro com ação de alienação parental só com a versão de quem me procura, e explico por quê na primeira reunião."'
+  - criterio: aplicabilidade
+    trecho: "“Não tenho tempo.” O que fica de fora: “Tenho tempo para corrigir, em consulta, o que outros ensinam errado.”"
+    por_que: 'É o único exemplo da oficina sem profissão, contra a regra da estrutura ("Exemplos dos campos sempre em profissões variadas"), e repete pela segunda vez no capítulo a ideia da cardiologista ("desfazendo o que ele ensinou"), que além disso é a premissa inteira do cap. 2 (Lúcia desfazendo rótulos). O "outros ensinam errado" ainda resvala na indireta que o "Evite" da rede proíbe.'
+    correcao: 'Dar profissão livre no registro e outra ideia: "Uma farmacêutica: “Não tenho tempo.” O que fica de fora: “Explico a mesma interação entre remédios umas dez vezes por semana, no balcão.”"'
+  - criterio: metodo
+    trecho: "Porque quem é muito bom não precisa de clientes novos. / Porque quem cobra mais caro naturalmente atrai menos gente."
+    por_que: 'A r3 pediu distratores que sejam equívocos que o capítulo refuta. A troca foi feita no item a da q3 ("agenda cheia"), mas b e c continuam fáceis demais: nenhum leitor os marca, e a questão vira escolha entre duas opções.'
+    correcao: 'q3 b: "Porque os melhores não têm jeito para falar diante de uma câmera." (o capítulo diz que nenhuma das razões é "falta de jeito para a internet"). q3 c: "Porque quem é muito bom só recebe clientes por indicação." (confunde efeito com causa). Atualizar o gabarito comentado.'
+  - criterio: metodo
+    trecho: "Porque o que sabem virou reflexo e aparece ao vivo."
+    por_que: 'A alternativa correta perdeu o "só" na limpeza do tique, e sem ele diz o oposto do que deve: o problema não é que a competência aparece ao vivo, é que ela SÓ aparece ao vivo.'
+    correcao: '"Porque o que sabem virou reflexo e só aparece ao vivo."'
+  - criterio: ritmo
+    trecho: "Elas justificam a distância sem diminuí-la um milímetro, e este livro trata do outro movimento."
+    por_que: '"O outro movimento" obriga o leitor a voltar para descobrir qual é; é a única frase abstrata numa seção concreta.'
+    correcao: '"Elas justificam a distância sem diminuí-la um milímetro. Este livro trata de diminuí-la."'
+  - criterio: aplicabilidade
+    trecho: "rotulo: \"Mas quem só vê o meu perfil acha que eu…\" … linhas: 3"
+    por_que: 'Campo 02 é a segunda metade da mesma frase do campo 01 (4 linhas), com instrução extra para quem não tem perfil, e ganhou uma linha a menos. Na p021 sobram ~25% de branco logo abaixo dele, porque o campo 03 (6 linhas) não cabe.'
+    correcao: 'Campo 02 com 4 linhas; o branco da p021 absorve a diferença sem mudar a paginação.'
+edicoes_de_linha:
+  - 'Naquele dia existiam duas Renatas, e Marcos conheceu as duas… A primeira tem catorze anos -> Naquele dia havia duas Renatas… (o "existiam" no passado seguido de "tem" no presente soa como deslize de tempo verbal; "havia" deixa o presente das frases seguintes soar como descrição).'
+  - 'A confiança que você gera existe; circula por um único canal -> A confiança que você gera existe, mas circula por um único canal (o ponto e vírgula esconde a adversativa que a frase pede).'
+  - 'Para ele, isso é experiência, uma coisa que se acumula com os anos, e por isso ele nem imagina -> Para ele, isso é experiência, e por isso nem imagina (o aposto repete "Com os anos" e "trinta anos de obra"; segundo "ele" sobra).'
+  - 'Como os dois indicavam mais ou menos o mesmo tanto -> Como os dois indicavam mais ou menos o mesmo número de pacientes ("o mesmo tanto" é oral demais para o parágrafo mais aritmético do capítulo).'
+  - 'Checklist, item 4, ajuda: As três evidências do campo 03 são fatos, e não adjetivos. -> As três evidências do campo 03 são fatos, não adjetivos. (a vírgula + "e não" que a r1 marcou na prosa volta no bloco).'
+  - 'Rede, faça: “Ontem um paciente me perguntou por que a dor melhora justamente quando ele se mexe.” -> considerar exemplo de outra área (a rede é "sobre a área do leitor", e o único exemplo concreto do faça é o caso da própria Renata; ex., de uma designer de interiores: “Ontem uma cliente me perguntou por que a sala ficou menor depois de pintada de branco.”).'
+diagramacao:
+  - 'p020: numerar as seis linhas da tabela (ver problema de impresso). Página cheia e bem resolvida no resto.'
+  - 'p021: ~25% de branco no pé depois do campo 02 (campo 03 indivisível vai para a p022). Aceitável pela regra de campo inteiro; usar parte do branco dando 4 linhas ao campo 02.'
+  - 'p023: ~20% de branco no pé antes do esqueleto (p024). Aceito pelo projeto; o esqueleto com faça/evite na mesma página compensa.'
+  - 'p011: o reflexo em bege claro sobre fundo branco pode sumir em impressão P&B ou em papel pólen. Dar contorno cinza de 0,5 pt à silhueta do reflexo para que a diferença de tamanho continue legível sem cor.'
+  - 'p015, fig. 1.1: rótulo "a assimetria" com caixa branca sobre a hachura e notas das barras em itálico cinza pequeno seguem como na r3 (pendente desde a r1). Não impede leitura; ajuste de acabamento: notas em 8,5 pt e cinza mais escuro.'
+  - 'p026: "Respostas comentadas no Apêndice A, página 27." A página vem de target-counter e aponta certo no build parcial (o apêndice vem logo depois); só conferir no build do livro inteiro.'
+veredito: "O capítulo está no nível de uma boa editora de não ficção e resolveu quase tudo da r3, mas o piloto ainda não passa por um bloqueador de uma frase (a faixa moderada diz ao leitor com presença que funciona o contrário do que ele respondeu na linha 5); corrigido isso e feitas as edições de linha, sobe para 9,2 ou mais."

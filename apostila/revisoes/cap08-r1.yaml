@@ -1,0 +1,85 @@
+capitulo: 8
+iteracao: 1
+notas: {metodo: 9.4, voz: 9.0, originalidade: 8.6, clareza: 9.2, ritmo: 9.1, concretude: 9.3,
+        coerencia: 8.4, aplicabilidade: 8.5, impresso: 9.0, honestidade: 9.2}
+bloqueadores: []
+pontos_fortes:
+  - "A ideia das 'duas moedas' ('Horas, que a agenda mostra, e energia, que a agenda esconde') nasce do dezembro da Lúcia, que tinha a agenda vazia e nenhuma disposição. Aprofunda o conceito do PWA com algo próprio e memorável, e o box Conceito a incorpora."
+  - "A tabela da Lúcia tem detalhe de ofício exato e fecha a conta (10+9+31+8+14 = 72). A linha 'Conferir se nada identifica ninguém' mostra, sem sermão, que o sigilo é um custo que não se corta."
+  - "Honestidade numérica exemplar. O '95% dos especialistas' e o 'subestima em 60%' do PWA saíram. O gráfico é 'Esquema ilustrativo, feito só com aritmética', com séries que fecham (20; 39; 104), 'Trinta não é número mágico', e o piso vem com 'Nenhuma pesquisa fixa esse piso'."
+  - "O 'Do caderno para a rede' trocou as diretrizes do PWA, que levariam o leitor a falar do próprio ritmo de publicação, pela pergunta de prazo na área dele, e respeita a regra de ouro com a ressalva ética certa."
+problemas:
+  - criterio: aplicabilidade
+    trecho: "tempo: 30"
+    por_que: "O campo 01 exige cronometrar uma peça real, e a peça-modelo do próprio capítulo custa 72 minutos. A oficina não cabe em 30 minutos, e o 'Confira antes de seguir' ('A cronometragem foi feita com relógio, numa peça real') não é verificável quando a oficina termina se a peça ainda não existe (lição cap03-r3). A alternativa 'refaça com relógio a do capítulo 2' mede para menos: a ideia já está pronta, e a peça do cap. 2 é anterior à descoberta do modo (cap. 7)."
+    correcao: "Declarar o tempo com honestidade: 'tempo: 30 min, mais a peça que você cronometrar' (e a entrega diz o mesmo). Trocar o exemplo do campo 01 por: 'Cronometre a próxima peça que fizer no seu modo (capítulo 7), por exemplo a do Do caderno para a rede deste capítulo. Preencha a coluna Eu imaginava antes de começar e conte também o tempo de adiar.' Tirar o 'refaça a do capítulo 2'."
+  - criterio: aplicabilidade
+    trecho: "A conta da Lúcia: 120 × 0,7 = 84; 84 ÷ 72 = 1,2. Uma peça por semana."
+    por_que: "O campo 04 não diz o que fazer com o resultado fracionário nem com o que fica abaixo do piso. A prosa resolve ('olhe primeiro para o custo de cada peça'), mas a oficina, que é o que o leitor executa, não. Quem chega a 0,6 fica sem instrução, e quem chega a 1,8 pode arredondar para 2."
+    correcao: "Acrescentar ao exemplo do campo 04: 'Arredonde para baixo. Se der menos de 1, volte ao campo 01 e troque a etapa mais cara antes de procurar mais horas.'"
+  - criterio: coerencia
+    trecho: "Fazia seis semanas que a amiga do grupo de estudos lhe mandava uma pergunta toda segunda-feira."
+    por_que: "O cap. 7 se passa 'Na mesma semana de maio' e diz que Lúcia pediu a pergunta semanal à amiga 'ao longo das semanas seguintes'. No fim de novembro isso somaria uns seis meses, e não seis semanas. Na mesma linha, a lista de crenças 'que vinha anotando desde o começo da primavera' (setembro) contradiz os caps. 2 e 7, em que a lista já existia antes de maio."
+    correcao: "Ou 'Desde o inverno, a amiga do grupo de estudos lhe mandava uma pergunta toda segunda-feira' (ajustando depois 'tinha feito seis em seis semanas' para 'tinha feito uma por semana desde julho'), ou uma frase que explique a pausa. Trocar 'desde o começo da primavera' por 'na lista de crenças que mantinha no celular'."
+  - criterio: coerencia
+    trecho: "ela mesma escolheria as outras duas na lista de crenças"
+    por_que: "O cap. 7 estabeleceu que, para o modo dialógico, o formato 'custa caro sempre que não há uma pergunta de partida'. O plano de dezembro dependia de duas perguntas escolhidas por ela mesma, justamente o ponto fraco do modo dela, e o capítulo atribui a quebra só à energia. Um leitor atento do cap. 7 vai notar a lacuna, ainda mais porque o fecho mostra uma pergunta escolhida por ela sendo 'a peça mais rápida desde novembro'."
+    correcao: "Acrescentar uma frase no parágrafo do 'O que a intrigou': 'As perguntas da amiga ainda saíam, arrastadas; as que ela mesma escolhia nem começavam.' No fecho, deixar claro que a diferença foi o bloco de terça com a cabeça limpa, e não a pergunta: 'Com a cabeça da manhã, a pergunta escolhida por ela mesma saiu tão fácil quanto a da amiga.'"
+  - criterio: originalidade
+    trecho: "Lúcia conhecia esse ciclo de outro lugar: pacientes que faltam a duas sessões num mês difícil e demoram três meses para voltar, envergonhados de ter sumido."
+    por_que: "É a terceira vez na Fase I-II que a personagem aplica ao próprio plano a lógica de adesão dos pacientes. O cap. 5 já tem Renata e o Aurélio ('O plano passou a caber no dia dele') e o desenho da adesão que cai. Aqui a batida volta duas vezes, nesse trecho e em 'fez com o próprio plano o que faz com um paciente que abandonou alguma coisa'. A imagem repete um recurso entre capítulos (lição cap02-r1)."
+    correcao: "Usar um detalhe de ofício que só a psicologia tem: o enquadre. Por exemplo: 'Lúcia sabia disso pelo enquadre: a terapia acontece toda semana, no mesmo dia e na mesma hora, porque é a regularidade que trabalha, e não a intensidade de uma sessão.' Isso também prepara a 'terça às oito' do fim. Cortar ou reescrever a abertura de 'A conta da Lúcia' para não repetir a batida."
+  - criterio: coerencia
+    trecho: "Cento e vinte minutos, menos a margem, davam oitenta e quatro; divididos por quarenta, pouco mais de dois."
+    por_que: "Renata chega exatamente aos mesmos 120 e 84 minutos da Lúcia, dois parágrafos antes. A coincidência parece número de gabarito, e não a vida de outra pessoa, e enfraquece a frase 'com outros números'."
+    correcao: "Dar à Renata uma conta própria que também feche. Por exemplo: 'cinco blocos de vinte minutos por semana... Cem minutos, menos a margem, davam setenta; divididos por trinta e cinco, duas' (ajustando o custo dela para 'uns trinta e cinco minutos')."
+  - criterio: coerencia
+    trecho: "Nas semanas de obra tranquila, grava dois ou três áudios a mais, sobre perguntas que sabe que vão voltar, e deixa na gaveta do celular. Na semana de entrega, quando não sobra meia hora para pensar, publica um deles e a sequência continua."
+    por_que: "Essa já é a solução do cap. 29 ('o mês em que três obras atrasaram ao mesmo tempo e Caio publicou do jeito mínimo'; protocolo do mês difícil). Também antecipa o formato mínimo do Caio (cap. 20: foto de obra e cinco linhas) com outro formato, o áudio. É gastar uma cena reservada (lição cap04-r1)."
+    correcao: "Tirar o Caio desse parágrafo e dar o estoque a um figurante de profissão ainda não usada em capítulo vizinho, ou manter só o princípio ('Nos meses bons, a folga vira peças guardadas para o mês ruim') sem cena."
+  - criterio: ritmo
+    trecho: "O teto também existe, e é o mês bom que o esconde."
+    por_que: "O parágrafo tem sete frases (o máximo é seis) e junta dois assuntos, o teto e o estoque de peças do Caio, num bloco só."
+    correcao: "Quebrar em 'Caio faz isso sem chamar de método', ou antes, se a cena do Caio sair (ver problema anterior)."
+  - criterio: voz
+    trecho: "O erro mais frequente é calibrar o ritmo no melhor momento."
+    por_que: "É uma generalização empírica sem fonte (lições cap02-r1 e cap01-r4). No mesmo registro de narrador que anuncia estão 'A conta que ela montou tem quatro passos, e o primeiro é o que mais surpreende' e 'Há uma razão para aceitar um número menor do que o desejado, e ela aparece quando se olha o ano inteiro'."
+    correcao: "'O plano de ritmo costuma nascer no melhor momento' também é generalização; prefira 'Calibrar o ritmo no melhor momento é o erro mais fácil de cometer.' Cortar ', e o primeiro é o que mais surpreende'. Abrir a seção pela afirmação: 'Quem encontra você em outubro não sabe quantas vezes por semana você publicava em janeiro.'"
+  - criterio: honestidade
+    trecho: "A partir de uma peça por semana, quem lê começa a reconhecer o nome e a esperar a próxima."
+    por_que: "É uma afirmação sobre o comportamento do público, dada como fato. A ressalva ('Nenhuma pesquisa fixa esse piso') só vem na frase seguinte, depois de o leitor ter tomado o limite como dado."
+    correcao: "Pôr a ressalva antes e formular como critério do livro: 'Nenhuma pesquisa fixa esse piso para cada área; a referência que este livro usa é uma peça por semana, o ritmo em que quem lê consegue reconhecer o nome entre uma peça e outra.'"
+  - criterio: coerencia
+    trecho: "| Ler a pergunta e pensar | nada, “já sei responder” | 10 min |"
+    por_que: "A oficina, o critério e o checklist exigem medir o 'tempo de adiar', e a prosa diz que a memória apaga 'a hesitação antes de começar'. Mesmo assim, a tabela-modelo da Lúcia não tem essa linha. O exemplo não mostra o que a oficina cobra."
+    correcao: "Desdobrar a primeira linha em 'Adiar (entre sentar e começar) | nada | 6 min' e 'Ler a pergunta e pensar | nada, já sei responder | 4 min'. O total continua 72."
+  - criterio: clareza
+    trecho: "a segunda peça só sai se a primeira já saiu, para que uma semana ruim nunca vire duas dívidas"
+    por_que: "A regra é opaca: não fica claro o que acontece com a peça que não saiu nem por que isso evita duas dívidas."
+    correcao: "'…com uma condição ao lado: peça que não saiu na semana não passa para a seguinte. Uma semana ruim fica sendo uma semana ruim, e não vira dívida.'"
+  - criterio: clareza
+    trecho: "Esquema ilustrativo. Acima do piso, o que pesa é a duração; abaixo dele, nenhuma duração compensa."
+    por_que: "A legenda da Figura 8.2 fala do piso, mas o espectro não o marca. O leitor tem de deduzir do texto que o piso é '1 por semana'. Os títulos das duas figuras rotulam em vez de afirmar, contra o princípio de figuras."
+    correcao: "Marcar o piso no espectro (rótulo 'piso' ou um traço mais forte em '1 por semana'). Títulos: Figura 8.1 'Quem continua passa quem começou forte'; Figura 8.2 'Abaixo do piso, nenhuma duração compensa' (e ajustar a legenda para não repetir o título)."
+  - criterio: aplicabilidade
+    trecho: "Porque o pior mês costuma ter mais tempo livre."
+    por_que: "O distrator da questão 1 é justamente o que aconteceu com Lúcia: o pior mês dela tinha mais tempo livre. Quem acabou de ler o caso pode hesitar. Além disso, 'costuma' é uma generalização."
+    correcao: "Trocar por um distrator falso para todos: 'Porque o pior mês é o que tem mais leitores disponíveis.'"
+edicoes_de_linha:
+  - "o tributarista tem fechamento de balanço -> o auditor tem temporada de balanço (fechar balanço é trabalho contábil; o tributarista cuida de tributos)"
+  - "cumpre durante um mês e para: termina o ano com vinte -> cumpre durante quatro semanas e para: termina o ano com vinte (5 × 4 = 20; as outras séries usam 4,3 semanas por mês)"
+  - "parece modesto em fevereiro -> parece modesto em janeiro (o esquema mostra M1, não fevereiro)"
+  - "A presença de um ano é a soma das semanas em que a linha continuou subindo. -> A presença de um ano é a soma do que foi publicado enquanto a linha continuou subindo."
+  - "Na décima primeira semana, a amiga não mandou pergunta -> Numa terça de março, a pergunta da amiga não chegou"
+  - "Nos meses bons, a folga pode virar peças guardadas para o mês ruim, e nunca um número maior prometido a si mesmo. -> Nos meses bons, a folga vira peças guardadas para o mês ruim. (tira a terceira antítese da seção)"
+  - "o esquema abaixo serve de orientação -> o esquema a seguir serve de orientação"
+  - "Uma contadora: “Abril, por causa do imposto de renda. -> Uma contadora: “De março a maio, por causa da declaração do imposto de renda. (o prazo da declaração hoje termina em maio; 'abril' soa como o calendário antigo)"
+  - "roteiro_nota: Um prazo por peça, sempre com a condição. -> Um tipo de caso por peça, sempre com a condição."
+  - "grade do campo 01: mover a linha 'Adiar' para o topo, rotulada 'Adiar (entre sentar e começar)', na ordem em que acontece"
+diagramacao:
+  - "p013: cerca de 20% da página em branco no pé. O intertítulo 'O que fica depois de um ano' e o parágrafo de abertura foram para a p014 junto com a Figura 8.1. É evitável: deixar o intertítulo e o primeiro parágrafo em p013 e a figura no topo de p014."
+  - "p022: cerca de 20% em branco no pé, antes do 'Roteiro de fala', que é um bloco curto (4 frases) empurrado para a p023. Não é esqueleto de escrita; conferir se o bloco precisa mesmo ser indivisível."
+  - "p017, Figura 8.2: espectro sem marca do piso, embora a legenda e o texto dependam dele."
+  - "p014, Figura 8.1: o eixo vertical não tem valores e os pontos finais não têm rótulo. Os números do texto (20, 39, mais de cem) não aparecem no esquema. Rotular o valor final de cada série (20 · 39 · 104). A linha da unidade ('peças publicadas, acumuladas desde janeiro') parece recuada em relação ao título."
+  - "p019: na grade do campo 01, a linha 'Adiar' está depois de 'Publicar', fora da ordem cronológica das etapas."
+veredito: "Capítulo honesto e bem construído, com a melhor ideia própria da fase (as duas moedas do pior mês), mas a oficina não cabe nos 30 minutos declarados e há costuras de coerência a fechar antes de aprovar: linha do tempo com o cap. 7, números clonados da Renata, cena reservada do Caio e a batida da adesão já usada no cap. 5."

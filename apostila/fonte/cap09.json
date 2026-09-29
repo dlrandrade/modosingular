@@ -1,0 +1,298 @@
+{
+ "n": 9,
+ "fase": 2,
+ "tema": "O seu repertório",
+ "subtitulo": "O que você viu e a maioria dos seus colegas não viu",
+ "frase": "Informação é pública. Repertório não é.",
+ "conceito": {
+  "termo": "Repertório",
+  "definicao": "O acervo de casos, exceções, padrões e situações-limite que você acumulou por ter feito muitas vezes. É o que separa quem sabe a regra de quem já viu a regra falhar.",
+  "porqueImporta": "Porque a informação técnica da sua área está disponível para qualquer um em trinta segundos de busca. O repertório não está — e é ele que sustenta autoridade que não pode ser copiada."
+ },
+ "ilustracao": {
+  "motivo": "raizes",
+  "legenda": "O que se vê acima é igual em todo mundo. A diferença está no que foi acumulado embaixo."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma pergunta que separa dois níveis de especialista, e ela é sempre a mesma: 'e quando não funciona?'"
+  },
+  {
+   "t": "p",
+   "text": "Quem estudou sabe a regra. Quem praticou sabe quando a regra falha, por quê, com que frequência e o que fazer no lugar. Essa segunda camada é repertório — e ela não está em nenhum livro porque só se acumula fazendo."
+  },
+  {
+   "t": "h",
+   "text": "Por que o seu repertório parece invisível para você"
+  },
+  {
+   "t": "p",
+   "text": "Porque ele virou automático. Você não percebe mais que está fazendo um cálculo de risco sofisticado quando olha para um caso e decide em quatro segundos. Para você, foi óbvio. Para quem está começando — e para o seu cliente — não foi óbvio. Foi impressionante."
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A regra dos 200",
+   "texto": "Se você já fez alguma coisa mais de duzentas vezes, você tem observações sobre ela que praticamente ninguém tem. Não porque você seja mais inteligente, mas porque volume produz padrão — e padrão é conteúdo."
+  },
+  {
+   "t": "h",
+   "text": "As cinco camadas do repertório"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "camadas",
+    "titulo": "Do público ao intransferível",
+    "camadas": [
+     {
+      "rotulo": "Informação",
+      "nota": "Está no Google. Qualquer um reproduz. Valor de diferenciação: zero."
+     },
+     {
+      "rotulo": "Aplicação",
+      "nota": "Como se faz na prática. Está em curso e manual."
+     },
+     {
+      "rotulo": "Padrão",
+      "nota": "'Em 7 de cada 10 casos, acontece X primeiro.' Só o volume ensina."
+     },
+     {
+      "rotulo": "Exceção",
+      "nota": "Quando a regra falha e por quê. Só o erro ensina."
+     },
+     {
+      "rotulo": "Critério",
+      "nota": "Como você decide entre duas opções defensáveis. Intransferível."
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Quase todo conteúdo do seu mercado vive nas duas primeiras camadas. É por isso que tudo parece igual: todo mundo está publicando a mesma informação pública com design diferente."
+  },
+  {
+   "t": "p",
+   "text": "As três camadas de baixo são onde você é insubstituível — e são as menos publicadas, porque parecem óbvias para quem as tem."
+  },
+  {
+   "t": "example",
+   "titulo": "A mesma pergunta, três camadas",
+   "ruim": "'O que causa dor de cabeça tensional? A tensão muscular na região cervical e do couro cabeludo, associada a estresse e má postura.'",
+   "bom": "'Nos últimos anos, a maioria dos casos de dor tensional que chegou até mim tinha uma coisa em comum que ninguém pergunta: o paciente tinha mudado de travesseiro nos últimos seis meses. Não é regra, mas virou a minha primeira pergunta — e resolve mais do que deveria.'",
+   "porque": "O primeiro é camada 1: informação pública, correta, esquecível. O segundo é camada 3: um padrão que só o volume ensina, com honestidade sobre o limite ('não é regra'). É impossível de copiar porque não está em lugar nenhum."
+  },
+  {
+   "t": "h",
+   "text": "Como extrair repertório de você mesmo"
+  },
+  {
+   "t": "p",
+   "text": "O repertório não sai por introspecção. Sai por provocação. Você precisa das perguntas certas — e elas nunca são 'o que eu sei sobre X'."
+  },
+  {
+   "t": "checklist",
+   "titulo": "As oito perguntas que extraem repertório",
+   "items": [
+    "O que eu vejo com frequência que quase ninguém comenta?",
+    "Qual conselho comum eu já vi dar errado — e por quê?",
+    "Qual foi o caso que mudou a minha forma de trabalhar?",
+    "O que eu fazia há cinco anos e não faço mais?",
+    "Qual é a pergunta que eu faço e que meus colegas não fazem?",
+    "O que eu me recuso a fazer, mesmo pagando bem?",
+    "Qual sinal pequeno me faz suspeitar de um problema grande?",
+    "O que o cliente acha que é o problema, e o que quase sempre é de verdade?"
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "Uma pergunta por semana",
+   "texto": "Você não precisa responder as oito hoje. Uma pergunta bem respondida rende de três a cinco conteúdos. Oito perguntas rendem trimestre."
+  }
+ ],
+ "insights": [
+  "Se você fez algo mais de duzentas vezes, você tem observações que praticamente ninguém tem — volume produz padrão, e padrão é conteúdo.",
+  "Quase todo conteúdo do seu mercado vive nas camadas de informação e aplicação. Padrão, exceção e critério são onde você é insubstituível.",
+  "Repertório não sai por introspecção. Sai por provocação — com as perguntas certas."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Respondi pelo menos três das oito perguntas",
+   "ajuda": "Com detalhe, não com adjetivo.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei um padrão que só o volume me ensinou",
+   "ajuda": "Algo do tipo 'em X de cada 10 casos, acontece Y'.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Nomeei uma exceção à regra do meu mercado",
+   "ajuda": "Quando o conselho padrão falha e por quê.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Classifiquei meu conteúdo atual por camada",
+   "ajuda": "Sei em que camada eu venho publicando.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é a diferença entre informação e repertório?",
+   "opcoes": [
+    "Informação é escrita, repertório é falado.",
+    "Informação está disponível para qualquer um; repertório só se acumula fazendo.",
+    "Informação é técnica, repertório é emocional.",
+    "Não há diferença prática."
+   ],
+   "correta": 1,
+   "explicacao": "A informação da sua área está a trinta segundos de busca. O repertório — padrões, exceções, critérios — só existe em quem praticou volume."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Quais são as três camadas mais difíceis de copiar?",
+   "opcoes": [
+    "Informação, aplicação e padrão.",
+    "Padrão, exceção e critério.",
+    "Aplicação, padrão e exceção.",
+    "Informação, exceção e critério."
+   ],
+   "correta": 1,
+   "explicacao": "Padrão vem do volume, exceção vem do erro e critério vem do julgamento. Nenhum dos três está disponível para quem não praticou."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Por que o repertório parece invisível para quem o tem?",
+   "opcoes": [
+    "Porque virou automático — o especialista não percebe mais que está fazendo um cálculo sofisticado.",
+    "Porque é conhecimento sigiloso.",
+    "Porque não pode ser explicado em palavras.",
+    "Porque muda o tempo todo."
+   ],
+   "correta": 0,
+   "explicacao": "É a armadilha do óbvio de novo: você decide em quatro segundos algo que levou anos para aprender e conclui que foi simples."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Extração de repertório",
+  "objetivo": "Sair da camada de informação pública e produzir conteúdo a partir de padrão, exceção e critério.",
+  "tempoMin": 35,
+  "entrega": "Três das oito perguntas respondidas com profundidade, cada uma com número, detalhe ou caso.",
+  "formatoSugerido": [
+   "texto",
+   "áudio",
+   "reels"
+  ],
+  "campos": [
+   {
+    "id": "padrao",
+    "rotulo": "Um padrão que só o volume me ensinou",
+    "placeholder": "'Em __ de cada 10 casos que atendo, acontece __ antes de __.' Traga o número, mesmo que estimado.",
+    "linhas": 4
+   },
+   {
+    "id": "excecao",
+    "rotulo": "Um conselho comum do meu mercado que eu já vi dar errado",
+    "placeholder": "Qual conselho, em que situação falha, e o que fazer no lugar.",
+    "linhas": 4
+   },
+   {
+    "id": "recusa",
+    "rotulo": "Algo que eu me recuso a fazer, mesmo pagando bem",
+    "placeholder": "O quê e por quê. Esta é a resposta que mais gera identificação.",
+    "linhas": 3
+   },
+   {
+    "id": "pergunta",
+    "rotulo": "A pergunta que eu faço e meus colegas não fazem",
+    "placeholder": "E o que ela revela que ninguém estava procurando.",
+    "linhas": 3
+   },
+   {
+    "id": "camada",
+    "rotulo": "Em que camada eu venho publicando?",
+    "placeholder": "Informação / aplicação / padrão / exceção / critério — seja honesto.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Pelo menos uma resposta contém um número — mesmo aproximado.",
+   "A exceção nomeia uma situação concreta, não 'depende do caso'.",
+   "A recusa tem razão explicada, não só a recusa."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo de repertório",
+  "regras": [
+   {
+    "regra": "Traga o número, mesmo aproximado",
+    "porque": "'Em 7 de cada 10' carrega prova de volume. 'Frequentemente' não carrega nada."
+   },
+   {
+    "regra": "Admita o limite da sua observação",
+    "porque": "'Não é regra, é o que eu vejo' aumenta a credibilidade em vez de reduzir. Certeza absoluta é sinal de pouco repertório."
+   },
+   {
+    "regra": "Não peça licença ao consenso",
+    "porque": "Se a sua observação contraria o manual, esse é o valor dela. Suavizar até virar consenso apaga o conteúdo."
+   }
+  ],
+  "facaAssim": [
+   "'A literatura diz X. Na minha prática, o que eu vejo é Y — e aqui está o porquê da diferença.'",
+   "'Isso pode ser um viés da minha amostra, mas em __ anos foi assim.'",
+   "'Se eu tivesse que apostar em um sinal só, apostaria neste.'"
+  ],
+  "eviteAssim": [
+   "Reproduzir informação de bula com design bonito.",
+   "Falar em generalidades quando você tem o número.",
+   "Esconder a discordância com o consenso para evitar polêmica — é ali que está a sua marca."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O padrão",
+    "texto": "'Em X de cada 10 casos que eu vejo, acontece Y.'"
+   },
+   {
+    "rotulo": "O contraste",
+    "texto": "'O que se costuma dizer é Z. Não bate com o que eu vejo.'"
+   },
+   {
+    "rotulo": "A hipótese",
+    "texto": "Por que você acha que a diferença existe."
+   },
+   {
+    "rotulo": "O uso prático",
+    "texto": "O que a pessoa faz com essa informação amanhã."
+   }
+  ]
+ },
+ "roteiro": "Depois de {número} anos fazendo isso, tem um padrão que eu vejo e quase nunca ouço alguém comentar.\n\nEm mais ou menos {X} de cada 10 casos que chegam até mim, {o padrão que só o volume ensina}.\n\nPode ser um viés da minha amostra, eu não vou dizer que é regra. Mas virou a primeira coisa que eu investigo.\n\nE resolve mais do que deveria.",
+ "estrutura": [
+  {
+   "rotulo": "O padrão",
+   "texto": "'Em X de cada 10 casos que eu vejo, acontece Y.' Traga o número."
+  },
+  {
+   "rotulo": "O contraste",
+   "texto": "'O que se costuma dizer é Z.' Não bate com o que você vê."
+  },
+  {
+   "rotulo": "A hipótese",
+   "texto": "Por que você acha que a diferença existe."
+  },
+  {
+   "rotulo": "O uso prático",
+   "texto": "O que a pessoa faz com isso amanhã."
+  }
+ ]
+}

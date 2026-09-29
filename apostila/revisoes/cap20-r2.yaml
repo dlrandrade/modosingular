@@ -1,0 +1,91 @@
+capitulo: 20
+iteracao: 2
+notas: {metodo: 8.4, voz: 8.8, originalidade: 8.4, clareza: 8.7, ritmo: 8.7, concretude: 8.3,
+        coerencia: 8.0, aplicabilidade: 8.5, impresso: 8.6, honestidade: 8.8}
+bloqueadores:
+  - "Erro de ofício na peça-modelo, que é o caso central do capítulo: 'o caixilho era de ferro, inteiro, e esse vidro já não se fabrica'. Vidro canelado continua em linha nas vidrarias e está em alta na decoração; um arquiteto ou designer que leia a frase para de confiar no Caio ali (lição cap09-r1). Como é a frase que justifica a decisão da peça, o erro contamina o exemplo que o leitor vai imitar."
+  - "Contradição com o método (cap. 13) e problema ético: a peça-modelo publica a foto da bandeira de uma cozinha real, de um cliente identificado para si mesmo ('o que ele tinha dito ao dono daquela cozinha'; 'o dono queria a porta até o teto'), sem nenhuma autorização. O cap. 13 põe no 'Evite' exatamente 'Foto ou imagem de caso sem autorização escrita e específica' e o critério da oficina de lá é que ninguém se reconheça, 'nem que a própria pessoa se veja como o caso'; o cap. 3 exige autorização para gravar no espaço do cliente. A r1 pedia só para quebrar em duas a frase da licença contratual; a reescrita cortou a licença, e com ela o que tornava a cena lícita. O calendário (obra entregue em agosto, peça em outubro) está resolvido; a autorização, não."
+pontos_fortes:
+  - "Os dois bloqueadores da r1 caíram de verdade: a peça de outubro sai de 'uma obra entregue em agosto', escolhida 'na seleção da véspera', e a cena final mostra a espera ('quadro de 1968, liberar em dezembro'). O capítulo passa a demonstrar, e não só a citar, a regra de calendário do cap. 19."
+  - "A cena de abertura tem hora, lugar, gesto e a própria peça: as cinco linhas são lidas e depois dissecadas ('A primeira dizia onde ele estava... A quinta era a frase que a pessoa levaria'), e o modo do Caio vira método ('Quem pensa contando não precisa inventar uma estrutura: precisa reconhecer a que já usa')."
+  - "O teste do pior mês agora fecha em números coerentes com o cap. 8: 'sobravam a ele uns trinta minutos por semana... e o vídeo pedia quarenta' contra a Lúcia, que passa com setenta e dois porque 'tem oitenta e quatro minutos úteis por semana e publica uma'. O leitor entende que mínimo não é rápido."
+  - "Oficina reordenada e honesta: peça, depois custo, depois testes; 'tempo: 20' com 'mais o tempo da peça, que é justamente o que você vai medir'; coluna 'Conferir na 4ª peça' para o teste que só se responde fazendo."
+problemas:
+  - criterio: concretude
+    trecho: "Por baixo de seis demãos de tinta, o caixilho era de ferro, inteiro, e esse vidro já não se fabrica."
+    por_que: "Ver bloqueador 1. Além do erro sobre o vidro, a batida 'achado por baixo da tinta, e a peça velha fica' é a mesma dos azulejos do cap. 7 ('debaixo de três camadas de tinta, raspou um por um'), do granilite do cap. 3, da parede do cap. 11 e do taco de peroba. A r1 pediu para sair da madeira raspada; a cena trocou o material e manteve o gesto."
+    correcao: "Apoiar a peça na luz, que é o achado novo, e numa afirmação técnica segura: 'O caixilho era de ferro, inteiro, e só pedia lixa e fundo anticorrosivo.' Cortar 'Por baixo de seis demãos de tinta' e 'esse vidro já não se fabrica'."
+  - criterio: metodo
+    trecho: "Era de junho, de uma obra entregue em agosto: uma bandeira de vidro canelado em cima da porta de uma cozinha, com o caixilho descascado."
+    por_que: "Ver bloqueador 2. O leitor copia o que o personagem-modelo faz; aqui ele aprende que foto do espaço do cliente, contando a escolha que o cliente quase fez, sai sem pedir nada."
+    correcao: "Uma oração basta, depois de 'publicou às sete e cinquenta e dois e subiu para a obra do dia': 'O dono tinha assinado, na entrega, a autorização para aquela foto e para contar a história sem o endereço.' Se couber, trocar 'porque o dono queria a porta até o teto' por 'porque o projeto antigo previa a porta até o teto', para que a peça não exponha a escolha do cliente."
+  - criterio: coerencia
+    trecho: "Caio resolveu isso com um prazo: quatro quintas-feiras seguidas, sem julgar, e só então a pergunta. Na quarta semana, relendo as quatro peças em sequência, não sentiu vontade de mudar nenhuma delas. Sentiu, pela primeira vez, que as quatro juntas pareciam escritas pela mesma pessoa, e essa pessoa era ele."
+    por_que: "O parágrafo seguinte diz que 'Nas duas primeiras semanas, ele escreveu legendas de uma linha' que 'não diziam nada que outro arquiteto não pudesse dizer'. Se as quatro primeiras quintas incluem duas legendas anônimas, elas não podem ter parecido 'escritas pela mesma pessoa, e essa pessoa era ele'. A ordem também está invertida: o teste que reprovou primeiro (semanas 1 e 2) vem depois do prazo de quatro semanas."
+    correcao: "Inverter os dois parágrafos (primeiro as legendas de uma linha e a chegada das cinco linhas; depois o prazo) e contar o prazo a partir da terceira semana: 'quatro quintas-feiras seguidas com as cinco linhas... Na sexta semana, relendo as quatro em sequência...'. Trocar o fecho sentimental por um detalhe: '...e quatro vezes a mesma frase de abertura, que ele não tinha planejado repetir'."
+  - criterio: coerencia
+    trecho: "o caso do batente contado em vídeo, numa tomada, na próxima obra em que aparecer outro igual"
+    por_que: "Resíduo da versão anterior: o batente de peroba saiu da cena, mas o artigo definido ('o caso do batente') continua tratando-o como coisa que o leitor conhece. Neste capítulo, o único caso contado é o da bandeira."
+    correcao: "'o caso da bandeira contado em vídeo, numa tomada, na próxima obra em que aparecer outra igual'."
+  - criterio: coerencia
+    trecho: "Os números são do Caio, medidos em junho e julho."
+    por_que: "A partir de junho Caio só publica foto e cinco linhas; não há quando medir com relógio, em julho, um vídeo regravado e um texto de três parágrafos. Na mesma linha, 'A peça em si, quando finalmente saiu, levou vinte' não corresponde a nenhum dos custos da Figura 20.1 (40, 50, 12 a 15), e o leitor atento procura qual formato custava vinte."
+    correcao: "Legenda: 'Os números do vídeo e do texto são de abril e maio, anotados no caderno; os da foto, de junho a setembro.' Na prosa: 'A peça em si, um vídeo regravado três vezes, levou outros quarenta.' (e ajustar a frase seguinte: a decisão pesava tanto quanto a peça, e vinha no fim do dia)."
+  - criterio: aplicabilidade
+    trecho: "Modo, pior mês e repertório do campo 04 estão aprovados; a repetição tem a data da quarta peça marcada para conferir."
+    por_que: "Não há lugar na oficina para escrever a data da quarta peça: o campo 05 pede só 'A data da primeira peça e a da trigésima', e a grade do campo 04 só tem caixas. A coluna 'Conferir na 4ª peça' aparece também para modo, pior mês e repertório, que o próprio critério manda aprovar hoje. O checklist repete a exigência ('a repetição, com data para conferir'), e o leitor não consegue cumpri-la no papel (lição cap03-r3)."
+    correcao: "Campo 05 vira 'A data da primeira peça, da quarta e da trigésima', com três linhas e o exemplo da massoterapeuta completado ('a quarta, sexta, 24 de outubro'). Na grade, manter a terceira coluna só na linha da repetição, ou trocar o rótulo por 'Só a repetição: conferir na 4ª peça'."
+  - criterio: metodo
+    trecho: "{rotulo: \"A ideia\", texto: \"Uma só, numa frase.\", linhas: 2}"
+    por_que: "O esqueleto (abertura, ideia, detalhe, critério) não serve ao exemplo central do próprio capítulo. As cinco linhas do Caio seguem outra ordem ('onde ele estava... o que ele tinha encontrado... o que decidiu... o que custaria o outro caminho... a frase que a pessoa levaria'), e a ideia só aparece no fim, no critério. O leitor que pensa contando, como o Caio, recebe uma estrutura de quem pensa escrevendo (lição cap02-r1)."
+    correcao: "Acrescentar à roteiro_nota: 'Se você pensa contando, a ideia pode ficar dentro do caso, como nas cinco linhas do Caio: onde, o que achou, o que decidiu, o que custaria o outro caminho e o critério.'"
+  - criterio: ritmo
+    trecho: "O que o segurou foi uma conta simples."
+    por_que: "A sequência da seção não fecha: Caio abre a câmera e 'Fechou antes de ligar'; vem um parágrafo ensaístico sobre motivos legítimos; só então 'O que o segurou' volta à cena, com um pronome que já perdeu o referente. O leitor não sabe se a conta veio antes ou depois de fechar a câmera."
+    correcao: "Pôr o parágrafo da conta logo depois do sócio e antes de 'Fechou antes de ligar', abrindo com 'Antes de ligar, fez uma conta simples'. O parágrafo dos motivos legítimos vem depois da cena, como consequência."
+  - criterio: voz
+    trecho: "Há motivos legítimos para mudar um formato-base, e nenhum deles é o tédio."
+    por_que: "A seção 'A variação vem depois' concentra a antítese que a r1 pediu para rarear: 'nenhum deles é o tédio', 'um teste que falhou é informação, e a vontade de variar, na décima semana, é só vontade', 'o cansaço é de quem faz, não de quem lê', 'A repetição que cansava o Caio ainda era novidade para quem lia', 'sem trocar de formato', 'sem ocupar o lugar dele'. Mais de uma por seção (lição cap01-r1)."
+    correcao: "Afirmar duas delas: 'Há dois motivos legítimos para mudar um formato-base.' / 'A diferença está na causa: um teste que falhou é informação.' (cortar 'e a vontade de variar... é só vontade'). Manter a do box, que é a regra."
+  - criterio: originalidade
+    trecho: "É a mesma economia do jaleco que o médico veste todo dia, ou da ordem fixa em que um bom mecânico examina um carro."
+    por_que: "Três analogias seguidas para a mesma ideia (a coluna de jornal, o jaleco, o mecânico), duas delas em volta do box. O jaleco é a versão de consultório do clichê da 'mesma roupa todo dia', e nem é economia de decisão: é norma de biossegurança. O mecânico, sozinho, já faz o trabalho, e melhor."
+    correcao: "Cortar o jaleco: 'É a mesma economia da ordem fixa em que um bom mecânico examina um carro.' Ou cortar a frase da coluna de jornal e deixar a analogia do mecânico como a única."
+  - criterio: clareza
+    trecho: "As cinco linhas diziam o que ele tinha dito ao dono daquela cozinha, meses antes. Teve uma obra em que a bandeira de vidro em cima da porta ia para o lixo"
+    por_que: "A peça-modelo, o objeto que o capítulo inteiro analisa, está diluída no parágrafo, sem aspas nem destaque. O leitor só percebe na segunda frase que está lendo a peça publicada, e na página impressa não há como voltar a ela depois, quando o texto diz 'A primeira dizia... A quinta era...'."
+    correcao: "Tirar as cinco linhas da prosa e pô-las num bloco 'citacao' (ou em recuo, uma por linha), precedidas de 'As cinco linhas diziam o que ele tinha dito ao dono daquela cozinha, meses antes:'. O leitor vê o formato como ele sai."
+  - criterio: clareza
+    trecho: "Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: um vídeo numa tomada só, gravado com o celular num cavalete"
+    por_que: "O vídeo numa tomada só, no cavalete, é o próprio vídeo do granilite (cap. 3). Mais adiante, o texto diz que 'os seguintes ele passou a regravar até sair certo'. As duas frases descrevem os vídeos posteriores de modos opostos."
+    correcao: "'Desde o vídeo do granilite, Caio tinha publicado de quase todos os jeitos: vídeos com o celular num cavalete, regravados até sair certo; a legenda longa...'."
+  - criterio: honestidade
+    trecho: "Caio conferiu: a leitora que mais comentava tinha visto seis das dez quintas."
+    por_que: "Ninguém confere o que uma leitora 'viu'; confere o que ela comentou ou curtiu. Apresentado como conta verificada, o dado é inverificável. Na mesma linha, sobram generalizações sem fonte acima do limite de duas: 'costuma ser lida', 'costuma custar também o repertório', 'Cada modo tem formatos que tendem a passar'; e o Guardar afirma como fato que 'A vontade de mudar perto da décima é tédio de quem faz'."
+    correcao: "'Caio conferiu: a leitora que mais comentava tinha deixado comentário em seis das dez quintas; nas outras quatro, nada.' Box: 'Um formato que custa quase nada pode custar também o repertório.' Guardar: 'Se a vontade de mudar aparecer perto da décima, desconfie: é cansaço de quem faz.'"
+  - criterio: aplicabilidade
+    trecho: "Porque não combinava com o modo narrativo do Caio."
+    por_que: "O distrator não é inequivocamente falso: 'mais uma cozinha entregando' não conta história nenhuma, e o próprio texto diz que as cinco linhas deram certo porque 'eram o começo de uma história que ele sabia contar'. Um leitor atento marca (b) com argumento (lição cap01-r1)."
+    correcao: "Trocar (b) por 'Porque o custo não cabia no pior mês do Caio.' (falso: custava dois minutos)."
+  - criterio: coerencia
+    trecho: "A porta até o teto teria custado a luz do corredor, que entrava por ali havia sessenta anos."
+    por_que: "A obra da cena é 'um prédio de 1964 no Botafogo', e sessenta anos batem exatamente com 1964. O leitor tende a pensar que a bandeira é do prédio onde Caio está sentado, o que reabre a dúvida de sigilo que a reescrita resolveu. O Botafogo também é o bairro da 'parede que mentia' do cap. 11 e do cap. 12."
+    correcao: "Trocar o bairro ou o ano da obra do dia (ex.: 'um prédio de 1971 na Vila Industrial'), ou dar à bandeira outra idade ('havia cinquenta anos')."
+edicoes_de_linha:
+  - "'O primeiro exigia que ela virasse designer antes de começar, e parou no primeiro imprevisto.' -> 'O primeiro exigia que ela virasse designer antes de começar, e ela parou no primeiro imprevisto.' (o sujeito de 'parou' é o formato)"
+  - "'Na quarta semana, depois de uma reunião de pais que se estendeu, não publica. Na quinta, também não.' -> '... Na semana seguinte, também não.' (num capítulo em que 'quinta' é sempre quinta-feira)"
+  - "'um quadro de disjuntores de 1968, com dois fusíveis antigos ainda no lugar' -> 'um quadro de luz de 1968, ainda com fusíveis de rosca' (quadro de 1968 é de fusíveis, não de disjuntores)"
+  - "'Mostrou ao dono, explicou por que precisava sair e tirou uma foto.' -> 'Mostrou ao dono, explicou por que o quadro precisava sair e tirou uma foto.' (lido de passagem, quem precisava sair é o Caio)"
+  - "'Uma designer de interiores: “Nesta sala, o que eu mudaria primeiro é…”, toda semana, com a foto de um cômodo sem ninguém.' -> trocar a profissão por uma distante da do Caio, que é o foco (ex.: 'Uma cardiologista: “A pergunta desta semana no consultório foi…”, toda semana, com a mesma foto do estetoscópio sobre a mesa.'); designer de interiores com foto de cômodo é quase o formato do próprio Caio"
+  - "'Naquela noite, Caio fez o que vinha adiando desde julho.' -> 'Naquela noite, Caio fez uma conta que vinha adiando.' (em julho a regra das trinta ainda não tinha aparecido para ele)"
+  - "'Sentiu, pela primeira vez, que as quatro juntas pareciam escritas pela mesma pessoa, e essa pessoa era ele.' -> ver o problema de coerência; se ficar, cortar 'e essa pessoa era ele' (fecho sentimental)"
+  - "'A peça em si, quando finalmente saiu, levou vinte.' -> alinhar com a Figura 20.1 (ver problema de coerência)"
+  - "Campo 02: 'A peça de hoje, feita no formato, a partir de uma captura selecionada' -> '... a partir de uma captura selecionada e já liberada' (o critério cobra 'liberada')"
+diagramacao:
+  - "p014: cerca de um quarto da página em branco depois de 'eram as frases.', porque a Figura 20.1 não coube e foi inteira para a p015. Branco evitável: subir o box 'O formato rápido demais' para antes da figura, ou reduzir a altura das barras."
+  - "p017: cerca de 20% em branco no pé, porque o box 'A regra das trinta' foi para a p018. Com a reordenação sugerida na seção (conta antes de 'Fechou antes de ligar'), reavaliar; se continuar, permitir que o box entre no pé da p017."
+  - "p018: na Figura 20.2 a nota da base continua quebrando com 'para.' sozinho na segunda linha ('O caderno de campo do capítulo 19. Nunca / para.'). Apontado na r1 e não resolvido: 'Caderno de campo, cap. 19. Nunca para.'"
+  - "p015: o subtítulo da Figura 20.1 ('minutos por peça, medidos com relógio') segue em sans negrito, mais pesado que o título em itálico. Apontado na r1; reduzir o peso. Vale também marcar na figura a linha dos 30 minutos do pior mês do Caio: é ela que faz o vídeo de 40 reprovar."
+  - "p021: cerca de 30% em branco depois do 'Confira antes de seguir', porque a rede abre em página nova. Pela regra do projeto, só a oficina começa em página nova; a rede podia começar aqui e o esqueleto (indivisível) ir para a página seguinte."
+  - "p024-p025: o checklist de aplicação ocupa só o terço superior da p025 e a p024 tem cerca de 25% livre abaixo da verificação. Apontado na r1; se couber, o capítulo fecha na p024. Brancos da p019 (antes da oficina), da p022 (antes do esqueleto indivisível) e da p023 são aceitos pelo projeto."
+veredito: "Bem mais sólido que a r1, com Caio vivo e o sigilo pelo calendário mostrado em cena, mas ainda reprovado: a peça-modelo se apoia num fato de ofício falso (o vidro canelado 'que já não se fabrica') e publica a foto do espaço de um cliente sem a autorização que o cap. 13 exige; depois disso, pedem conserto a linha do tempo do teste das quatro semanas, o 'caso do batente' que ficou sem caso e a data da quarta peça, que a oficina cobra sem ter onde escrever."

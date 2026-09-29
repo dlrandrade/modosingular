@@ -1,0 +1,368 @@
+{
+ "n": 25,
+ "fase": 5,
+ "tema": "Presença como patrimônio",
+ "subtitulo": "Pare de avaliar cada post como uma pequena campanha publicitária",
+ "frase": "Um ativo não é medido pelo que gera hoje. É medido pela capacidade de continuar produzindo efeito.",
+ "conceito": {
+  "termo": "Patrimônio de presença",
+  "definicao": "O conjunto acumulado de conteúdos públicos que continua trabalhando depois de publicado — sendo encontrado, lido, compartilhado e servindo de prova de competência para pessoas que você nunca vai conhecer.",
+  "porqueImporta": "Porque avaliar cada peça isoladamente leva à conclusão errada. Uma peça com desempenho ruim pode contribuir para tornar você reconhecível — e o efeito de conjunto é o que gera cliente, não o desempenho unitário."
+ },
+ "ilustracao": {
+  "motivo": "colheita",
+  "legenda": "Nenhuma planta importa sozinha. A lavoura importa."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma armadilha de avaliação que faz muita gente competente desistir cedo: julgar cada publicação como se fosse uma campanha independente."
+  },
+  {
+   "t": "p",
+   "text": "Nessa leitura, cada post tem que 'dar resultado'. Se teve pouco alcance, foi fracasso. Se não gerou mensagem no direct, foi desperdício. E como a maioria das peças, individualmente, tem desempenho modesto, a conclusão inevitável é que aquilo não funciona."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A mudança de unidade de medida",
+   "texto": "A unidade de análise não é o post. É o conjunto. Um conteúdo isolado pode ter desempenho ruim e ainda assim contribuir para tornar você mais reconhecível. Uma sequência forma uma impressão. A impressão cria familiaridade. A familiaridade reduz distância. E a distância reduzida torna uma futura procura mais natural."
+  },
+  {
+   "t": "h",
+   "text": "Como o patrimônio se comporta"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "Desempenho por peça vs. efeito acumulado",
+    "unidade": "índice relativo",
+    "labels": [
+     "Mês 1",
+     "Mês 3",
+     "Mês 6",
+     "Mês 9",
+     "Mês 12",
+     "Mês 18"
+    ],
+    "series": [
+     {
+      "nome": "Desempenho médio por peça",
+      "pontos": [
+       22,
+       26,
+       31,
+       34,
+       38,
+       42
+      ]
+     },
+     {
+      "nome": "Reconhecimento acumulado",
+      "pontos": [
+       8,
+       24,
+       48,
+       72,
+       100,
+       148
+      ],
+      "destaque": true
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare na diferença de inclinação. O desempenho por peça melhora devagar — e é isso que você vê toda semana, se olhar as métricas de cada post. O reconhecimento acumulado cresce muito mais rápido, e é isso que gera cliente. Mas ele é invisível nas métricas do aplicativo."
+  },
+  {
+   "t": "h",
+   "text": "As quatro propriedades de um ativo"
+  },
+  {
+   "t": "table",
+   "caption": "Por que presença é patrimônio e não despesa",
+   "head": [
+    "Propriedade",
+    "O que significa",
+    "Consequência prática"
+   ],
+   "rows": [
+    [
+     "Não expira",
+     "Um conteúdo de 2 anos atrás ainda é encontrado",
+     "O trabalho de hoje rende em 2027"
+    ],
+    [
+     "Compõe",
+     "Cada peça reforça a impressão das anteriores",
+     "O retorno é não-linear no tempo"
+    ],
+    [
+     "Trabalha sozinho",
+     "Age enquanto você atende, dorme ou viaja",
+     "Remove a condição de presença física"
+    ],
+    [
+     "Reduz custo de aquisição",
+     "A pessoa chega já educada e convencida",
+     "Ciclo de venda mais curto, objeção menor"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "A propriedade mais subestimada",
+   "texto": "A terceira. Toda a sua autoridade hoje exige que você esteja presente para funcionar. O patrimônio de presença é a primeira coisa que trabalha no seu lugar — e é por isso que ele é chamado de 'maior ativo de prospecção'."
+  },
+  {
+   "t": "h",
+   "text": "O que muda na sua cabeça quando a unidade muda"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Cada post é uma campanha",
+    "tom": "neg",
+    "items": [
+     "Peça com pouco alcance = fracasso.",
+     "Ansiedade a cada publicação.",
+     "Tentação de perseguir tendência.",
+     "Desistência por volta do mês 2.",
+     "Foco em métricas de vaidade."
+    ]
+   },
+   "direita": {
+    "titulo": "O conjunto é patrimônio",
+    "tom": "pos",
+    "items": [
+     "Peça com pouco alcance = tijolo colocado.",
+     "Tranquilidade: o efeito é de conjunto.",
+     "Fidelidade à própria tese.",
+     "Continuidade porque não há evento de fracasso.",
+     "Foco em recorrência e reconhecimento."
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "A biblioteca pública"
+  },
+  {
+   "t": "p",
+   "text": "Quando você constrói uma biblioteca pública de pensamentos, opiniões, explicações, experiências e visões, alguma coisa começa a acontecer mesmo quando você não está vendendo ativamente: o potencial cliente passa a te conhecer antes do primeiro contato."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "funil",
+    "titulo": "O que a biblioteca faz por você",
+    "etapas": [
+     {
+      "rotulo": "Alguém procura sobre o problema",
+      "nota": "Sem saber que você existe."
+     },
+     {
+      "rotulo": "Encontra uma peça sua de 8 meses atrás",
+      "nota": "Que você já esqueceu que escreveu."
+     },
+     {
+      "rotulo": "Lê outras três",
+      "nota": "Porque encontrou raciocínio, não anúncio."
+     },
+     {
+      "rotulo": "Forma uma impressão sobre você",
+      "nota": "Antes de qualquer contato."
+     },
+     {
+      "rotulo": "Procura você já convencida",
+      "nota": "A venda aconteceu na biblioteca."
+     }
+    ]
+   }
+  }
+ ],
+ "insights": [
+  "A unidade de análise não é o post. É o conjunto — e o reconhecimento acumulado cresce muito mais rápido que o desempenho por peça.",
+  "O reconhecimento acumulado é invisível nas métricas do aplicativo, e é justamente ele que gera cliente.",
+  "Uma peça com desempenho ruim não é fracasso: é um tijolo colocado. Só existe evento de fracasso quando a unidade de medida é o post."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Mudei minha unidade de avaliação",
+   "ajuda": "Avalio conjunto, não peça isolada.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei uma peça antiga que ainda gera efeito",
+   "ajuda": "Prova prática da propriedade 'não expira'.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Parei de reagir a métricas unitárias",
+   "ajuda": "Não mudo estratégia por causa de um post ruim.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Organizei minha biblioteca por tema",
+   "ajuda": "Meu acervo é navegável, não um fluxo cronológico perdido.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que avaliar cada post como campanha independente leva à desistência?",
+   "opcoes": [
+    "Porque exige muito tempo de análise.",
+    "Porque a maioria das peças tem desempenho modesto isoladamente, e a conclusão inevitável é que 'não funciona'.",
+    "Porque o algoritmo muda constantemente.",
+    "Porque as métricas são imprecisas."
+   ],
+   "correta": 1,
+   "explicacao": "Quando a unidade de medida é o post, quase toda semana produz um evento de fracasso. Quando a unidade é o conjunto, não existe evento de fracasso."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual propriedade do ativo é chamada de 'maior ativo de prospecção'?",
+   "opcoes": [
+    "Não expirar.",
+    "Compor com as peças anteriores.",
+    "Trabalhar sozinho, enquanto você atende ou dorme.",
+    "Reduzir o custo de aquisição."
+   ],
+   "correta": 2,
+   "explicacao": "Toda a sua autoridade tradicional exige presença física ou indicação para funcionar. O patrimônio de presença é a primeira coisa que age no seu lugar."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que o gráfico de desempenho vs. reconhecimento revela?",
+   "opcoes": [
+    "Que o desempenho por peça é o melhor indicador.",
+    "Que o reconhecimento acumulado cresce mais rápido que o desempenho unitário — e é invisível nas métricas do app.",
+    "Que ambos crescem na mesma proporção.",
+    "Que o reconhecimento só aparece depois de 3 anos."
+   ],
+   "correta": 1,
+   "explicacao": "É a raiz do erro de avaliação: você mede semanalmente a variável que cresce devagar e não consegue ver a que cresce rápido."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Auditoria de patrimônio",
+  "objetivo": "Trocar a unidade de medida e organizar o que você já produziu como acervo, não como fluxo.",
+  "tempoMin": 30,
+  "entrega": "Um inventário do seu acervo atual organizado por tema, e um novo critério de avaliação escrito.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "acervo",
+    "rotulo": "O que eu já publiquei, agrupado por tema",
+    "placeholder": "Não em ordem cronológica. Por assunto. Ex.: 'Sobre prevenção: 4 peças. Sobre custo: 2 peças.'",
+    "linhas": 5
+   },
+   {
+    "id": "lacunas",
+    "rotulo": "Que temas estão vazios na minha biblioteca?",
+    "placeholder": "Sobre o que uma pessoa procuraria e não encontraria nada seu?",
+    "linhas": 3
+   },
+   {
+    "id": "antiga",
+    "rotulo": "Uma peça antiga que ainda gera efeito",
+    "placeholder": "Alguém já te procurou por causa de algo que você publicou há meses?",
+    "linhas": 2
+   },
+   {
+    "id": "criterio",
+    "rotulo": "Meu novo critério de avaliação",
+    "placeholder": "'Eu vou avaliar meu conteúdo a cada __ , olhando __ , e NÃO vou reagir a __.'",
+    "linhas": 3
+   },
+   {
+    "id": "top3",
+    "rotulo": "As três peças que eu quero que definam quem eu sou",
+    "placeholder": "Se alguém só visse três coisas suas, quais deveriam ser?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O agrupamento é por tema, não por data.",
+   "O novo critério de avaliação tem periodicidade maior que uma semana.",
+   "Você nomeou pelo menos duas lacunas reais da biblioteca."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para construir biblioteca",
+  "regras": [
+   {
+    "regra": "Escreva para daqui a dois anos",
+    "porque": "Conteúdo amarrado a uma tendência ou a uma data morre com ela. Conteúdo sobre o problema permanece encontrável."
+   },
+   {
+    "regra": "Repita os temas centrais",
+    "porque": "Você enjoa na terceira vez; o seu público vê a primeira na décima. Repetição é o que constrói associação."
+   },
+   {
+    "regra": "Fixe as peças que definem você",
+    "porque": "Quem chega pelo perfil precisa encontrar a sua tese em três toques, não rolar seis meses de feed."
+   }
+  ],
+  "facaAssim": [
+   "Retomar um tema central a cada 6 a 8 semanas, por outro ângulo.",
+   "Organizar destaques por assunto, não por cronologia.",
+   "Republicar uma peça antiga boa, sem constrangimento."
+  ],
+  "eviteAssim": [
+   "Amarrar conteúdo a datas comemorativas ou tendências passageiras.",
+   "Mudar de tema porque 'já falei disso'.",
+   "Apagar peças antigas por achar que 'melhorou desde então'."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Temas-âncora",
+    "texto": "3 a 5 assuntos que você vai repetir por anos."
+   },
+   {
+    "rotulo": "Rotação",
+    "texto": "Cada tema volta a cada 6–8 semanas, por outro ângulo."
+   },
+   {
+    "rotulo": "Destaques",
+    "texto": "Organizados por tema, com a tese em primeiro."
+   },
+   {
+    "rotulo": "Perenidade",
+    "texto": "Escrever de forma que faça sentido daqui a 2 anos."
+   }
+  ]
+ },
+ "roteiro": "Isso aqui eu já falei antes. E vou falar de novo.\n\n{o seu tema central}\n\nNão é repetição por falta de assunto. É que eu vejo gente chegando todo mês com o mesmo problema que poderia ter sido evitado se essa informação tivesse chegado antes.\n\nEntão enquanto continuar chegando, eu continuo falando: {a ideia central}",
+ "estrutura": [
+  {
+   "rotulo": "O problema que voltou",
+   "texto": "O caso recorrente que apareceu de novo essa semana."
+  },
+  {
+   "rotulo": "Por que continua",
+   "texto": "A causa estrutural que faz isso se repetir."
+  },
+  {
+   "rotulo": "O que evita",
+   "texto": "O que teria mudado o desfecho, dito de forma acionável."
+  },
+  {
+   "rotulo": "O fecho",
+   "texto": "'Enquanto continuar chegando, eu continuo falando.'"
+  }
+ ]
+}

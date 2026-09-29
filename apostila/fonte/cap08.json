@@ -1,0 +1,387 @@
+{
+ "n": 8,
+ "fase": 2,
+ "tema": "O seu ritmo real",
+ "subtitulo": "O tempo do criador não é o tempo do calendário",
+ "frase": "Você não precisa do ritmo que funciona. Precisa do ritmo que você consegue repetir no pior mês do ano.",
+ "conceito": {
+  "termo": "Ritmo sustentável",
+  "definicao": "A frequência de publicação que você consegue manter no seu mês mais difícil — não no mês em que você está empolgado. É calculada a partir da sua rotina real, não de uma recomendação de mercado.",
+  "porqueImporta": "Porque um ritmo calculado no entusiasmo é uma dívida que vence em três semanas. E a quebra de sequência custa mais do que um ritmo menor teria custado."
+ },
+ "ilustracao": {
+  "motivo": "semente",
+  "legenda": "O que cresce devagar e não para vence o que cresce rápido e morre."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Todo mundo já ouviu que precisa postar todo dia. Quase ninguém pergunta: todo dia de quem?"
+  },
+  {
+   "t": "p",
+   "text": "A recomendação de frequência que circula no mercado foi construída para criadores em tempo integral. Você atende, opera, viaja, tem plantão, tem semana de congresso, tem mês de fechamento. A sua rotina não é a rotina de quem faz conteúdo como profissão."
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "O erro de calibragem",
+   "texto": "Quase todo especialista calibra o ritmo em janeiro, no pico de motivação, e depois julga a si mesmo pelo padrão de janeiro durante o ano inteiro. Calibre pelo pior mês. É o único número que não te trai."
+  },
+  {
+   "t": "h",
+   "text": "Três frequências, três resultados"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "linha",
+    "titulo": "O que sobra no fim de 12 meses",
+    "unidade": "peças efetivamente publicadas",
+    "labels": [
+     "M1",
+     "M3",
+     "M5",
+     "M7",
+     "M9",
+     "M12"
+    ],
+    "series": [
+     {
+      "nome": "Prometeu 5x/semana",
+      "pontos": [
+       20,
+       24,
+       24,
+       24,
+       24,
+       24
+      ]
+     },
+     {
+      "nome": "Prometeu 3x/semana",
+      "pontos": [
+       12,
+       30,
+       42,
+       48,
+       48,
+       48
+      ]
+     },
+     {
+      "nome": "Prometeu 2x/semana",
+      "pontos": [
+       8,
+       24,
+       40,
+       56,
+       72,
+       96
+      ],
+      "destaque": true
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "A primeira linha é a mais comum: começa forte, para no mês 1 e nunca mais volta. A terceira parece modesta no começo e termina com quatro vezes mais presença acumulada."
+  },
+  {
+   "t": "p",
+   "text": "Presença não se mede por pico. Se mede por área sob a curva."
+  },
+  {
+   "t": "h",
+   "text": "Como calcular o seu número"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Meça o custo real de uma peça",
+     "texto": "Cronometre de verdade, do primeiro pensamento ao publicado. Inclua o tempo de adiar. Quase todo mundo subestima em 60%."
+    },
+    {
+     "titulo": "Identifique o seu pior mês",
+     "texto": "Qual mês do ano você tem menos tempo e menos energia? Congresso, fechamento, alta temporada, mudança."
+    },
+    {
+     "titulo": "Calcule as horas disponíveis naquele mês",
+     "texto": "Não as que você gostaria de ter. As que sobram depois de tudo que é inegociável."
+    },
+    {
+     "titulo": "Divida e subtraia 30%",
+     "texto": "O resultado é o seu teto honesto. A margem de 30% é para a vida acontecer — e ela acontece."
+    }
+   ]
+  },
+  {
+   "t": "table",
+   "caption": "Exemplo de cálculo real",
+   "head": [
+    "Etapa",
+    "Estimativa otimista",
+    "Tempo real medido"
+   ],
+   "rows": [
+    [
+     "Ter a ideia",
+     "0 min ('já tenho')",
+     "12 min de hesitação"
+    ],
+    [
+     "Estruturar",
+     "5 min",
+     "18 min"
+    ],
+    [
+     "Gravar / escrever",
+     "10 min",
+     "22 min (com 2 regravações)"
+    ],
+    [
+     "Editar / formatar",
+     "10 min",
+     "35 min"
+    ],
+    [
+     "Publicar e escrever legenda",
+     "3 min",
+     "14 min"
+    ],
+    [
+     "TOTAL",
+     "28 min",
+     "101 min"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "Por que isso importa tanto",
+   "texto": "Se você planejou 3 peças por semana achando que custam 28 minutos, planejou 84 min/semana. O custo real é 303 min — cinco horas. É por isso que o plano quebra, e não por falta de vontade."
+  },
+  {
+   "t": "h",
+   "text": "O ritmo mínimo que ainda produz efeito"
+  },
+  {
+   "t": "p",
+   "text": "Existe um piso abaixo do qual a presença não se acumula: uma pessoa que publica uma vez por mês nunca sai da condição de estranho. Mas esse piso é mais baixo do que o mercado sugere."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "espectro",
+    "titulo": "Frequência e efeito acumulado",
+    "esquerda": "Não acumula",
+    "direita": "Acumula com folga",
+    "marcas": [
+     {
+      "pos": 6,
+      "rotulo": "1x/mês"
+     },
+     {
+      "pos": 34,
+      "rotulo": "1x/semana"
+     },
+     {
+      "pos": 62,
+      "rotulo": "2x/semana"
+     },
+     {
+      "pos": 88,
+      "rotulo": "3x/semana"
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Duas vezes por semana, sustentadas por doze meses, colocam você acima de 95% dos especialistas do seu mercado. Não porque seja muito — mas porque quase ninguém sustenta."
+  }
+ ],
+ "insights": [
+  "Calibre o ritmo pelo seu pior mês, não pelo mês em que você está empolgado.",
+  "Presença não se mede por pico, se mede por área sob a curva: 2x/semana por 12 meses vence 5x/semana por 4 semanas.",
+  "O custo real de uma peça costuma ser 3x a estimativa otimista. É esse erro de conta que quebra os planos, não a falta de vontade."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Cronometrei o custo real de uma peça",
+   "ajuda": "Medi de verdade, incluindo o tempo de adiar.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei meu pior mês do ano",
+   "ajuda": "Sei qual é e por quê.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Calculei meu ritmo com a margem de 30%",
+   "ajuda": "Cheguei a um número que sobrevive ao pior mês.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Assumi o número por escrito",
+   "ajuda": "Registrei o compromisso com uma frequência, não com uma intenção.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que se deve calibrar o ritmo pelo pior mês do ano?",
+   "opcoes": [
+    "Para publicar menos e trabalhar menos.",
+    "Porque um ritmo calibrado no entusiasmo é uma dívida que vence em três semanas.",
+    "Porque o algoritmo premia consistência baixa.",
+    "Porque assim sobra tempo para outras redes."
+   ],
+   "correta": 1,
+   "explicacao": "O número que você consegue repetir no pior mês é o único que não te trai — e a quebra de sequência custa mais do que um ritmo menor teria custado."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Quem termina 12 meses com mais presença acumulada?",
+   "opcoes": [
+    "Quem prometeu 5x/semana e parou no mês 1.",
+    "Quem prometeu 3x/semana e parou no mês 7.",
+    "Quem prometeu 2x/semana e sustentou os 12 meses.",
+    "Todos empatam, o que importa é a qualidade."
+   ],
+   "correta": 2,
+   "explicacao": "Presença é área sob a curva. 2x/semana por 12 meses gera cerca de quatro vezes mais peças publicadas do que um começo intenso que para."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é o erro de conta mais comum ao planejar frequência?",
+   "opcoes": [
+    "Subestimar o custo real de cada peça em cerca de 3x.",
+    "Superestimar o alcance de cada post.",
+    "Escolher a rede social errada.",
+    "Não contratar edição profissional."
+   ],
+   "correta": 0,
+   "explicacao": "A estimativa otimista ignora hesitação, regravação e legenda. Quando o custo real é o triplo, o plano quebra por aritmética — não por caráter."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O número que você assume",
+  "objetivo": "Sair da intenção e chegar a um compromisso numérico que sobrevive ao seu pior mês.",
+  "tempoMin": 30,
+  "entrega": "Uma peça cronometrada de verdade e o seu ritmo declarado com a margem de 30% aplicada.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "cronometro",
+    "rotulo": "Cronometragem real de uma peça (por etapa)",
+    "placeholder": "Ideia: __ min\nEstruturar: __ min\nGravar/escrever: __ min\nEditar: __ min\nPublicar: __ min\nTOTAL: __ min",
+    "linhas": 6
+   },
+   {
+    "id": "piormes",
+    "rotulo": "Meu pior mês do ano e por quê",
+    "placeholder": "Ex.: novembro — fechamento + congresso + agenda cheia.",
+    "linhas": 2
+   },
+   {
+    "id": "horas",
+    "rotulo": "Horas realmente disponíveis para conteúdo naquele mês",
+    "placeholder": "Depois de descontar tudo que é inegociável. Seja pessimista.",
+    "linhas": 2
+   },
+   {
+    "id": "numero",
+    "rotulo": "Meu ritmo assumido (com -30% de margem)",
+    "placeholder": "Ex.: 2 peças por semana, sendo 1 curta e 1 longa.",
+    "linhas": 2
+   },
+   {
+    "id": "gatilho",
+    "rotulo": "O dia e a hora fixos em que isso acontece",
+    "placeholder": "Ex.: terça 12h30 (almoço) e quinta 18h (depois do último atendimento).",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A cronometragem foi feita de verdade, não estimada de memória.",
+   "O número final é menor do que o que você queria assumir. Se não for, você não aplicou a margem.",
+   "Existe dia e hora fixos — ritmo sem âncora vira intenção."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para publicar sobre ritmo e método",
+  "regras": [
+   {
+    "regra": "Mostre o número, não a filosofia",
+    "porque": "'2x por semana há 14 meses' convence mais do que qualquer texto sobre consistência."
+   },
+   {
+    "regra": "Assuma publicamente a frequência",
+    "porque": "Compromisso declarado cria uma expectativa externa que trabalha a seu favor nos dias ruins."
+   },
+   {
+    "regra": "Nunca peça desculpas por publicar pouco",
+    "porque": "Pedir desculpa por frequência ensina o público a medir você por volume — o critério errado."
+   }
+  ],
+  "facaAssim": [
+   "'Publico duas vezes por semana. Escolhi esse número porque é o que sobrevive ao meu novembro.'",
+   "Mostrar a conta: quanto custa uma peça na sua realidade.",
+   "Voltar depois de uma ausência sem explicar — apenas voltando."
+  ],
+  "eviteAssim": [
+   "'Desculpa o sumiço, a correria tá grande.'",
+   "Prometer frequência maior depois de uma pausa.",
+   "Comparar publicamente o seu ritmo com o de criadores em tempo integral."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "O número",
+    "texto": "Sua frequência assumida, dita sem justificativa."
+   },
+   {
+    "rotulo": "A conta",
+    "texto": "Por que esse número e não outro — o cálculo real."
+   },
+   {
+    "rotulo": "O contraste",
+    "texto": "Por que o número do mercado não serve para quem atende."
+   },
+   {
+    "rotulo": "O convite",
+    "texto": "'Calcule o seu pelo seu pior mês.'"
+   }
+  ]
+ },
+ "roteiro": "Quase todo mundo que me procura quer saber a mesma coisa: em quanto tempo resolve.\n\nA resposta honesta é que depende de uma variável que quase ninguém menciona: {o que depende do próprio cliente, não de você}.\n\nEu já vi o mesmo tipo de caso levar {tempo curto} e levar {tempo longo}. A diferença quase nunca foi técnica.\n\nEntão antes de perguntar quanto tempo, pergunte outra coisa: o que exatamente vai depender de mim?",
+ "estrutura": [
+  {
+   "rotulo": "A pergunta de prazo",
+   "texto": "'Em quanto tempo resolve?' — a pergunta que todo mundo faz."
+  },
+  {
+   "rotulo": "A variável oculta",
+   "texto": "O que determina o prazo e que ninguém menciona."
+  },
+  {
+   "rotulo": "Os dois extremos",
+   "texto": "O mesmo caso levando tempos muito diferentes, na sua prática."
+  },
+  {
+   "rotulo": "A pergunta certa",
+   "texto": "'O que vai depender de mim?' — e a resposta."
+  }
+ ]
+}

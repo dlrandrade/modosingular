@@ -1,0 +1,524 @@
+escopo:
+- Renata Moura
+- Otávio Bezerra
+- 'figurantes e secundários das histórias deles: Marcos, a irmã da Renata, o sobrinho, Bianca, Helena,
+  Seu Ednaldo, a empresária das lojas de material de construção, a dona das lavanderias, a dona das academias,
+  Sílvia'
+nota_datas: 'Convenção de datas: ''Ano 1'' é o ano da quinta-feira de março do cap. 4 e da semana de maio
+  do cap. 7. A reconstrução usa as âncoras explícitas do texto: cap. 12 (ritmo da Lúcia ''medida pelo
+  dezembro'', logo depois de janeiro do Ano 2), cap. 21 (sextas de setembro a novembro, janeiro seguinte),
+  cap. 24 (''dois anos depois de suspender''; ''trinta e poucas peças... desde setembro'') e cap. 30 (os
+  quatro no mesmo janeiro). Onde o texto não data a cena, ''quando'' diz ''sem data''.'
+linha_do_tempo:
+  renata:
+  - quando: cerca de seis anos antes do cap. 1
+    fato: Perfil montado pelo sobrinho, num domingo à tarde, com foto de jaleco e três modelos de aplicativo.
+    cap: 1
+    trecho: O perfil nasceu seis anos antes, montado por um sobrinho num domingo à tarde, com a foto de
+      jaleco e três modelos de publicação
+  - quando: antes do cap. 1 (sem data)
+    fato: Tentativa de carrossel a cada dois dias durante 22 dias; para no 23º dia, uma quinta-feira,
+      depois de uma paciente que chorou.
+    cap: 5
+    trecho: O vigésimo terceiro dia foi uma quinta-feira.
+  - quando: antes de maio do Ano 1 (o cap. 1 precede a autópsia, que precede o cap. 7)
+    fato: Marcos, dois anos de dor e quatro profissionais antes, quase desiste ao ver o perfil; Renata
+      tem catorze anos de consultório; 4 de 5 pacientes novos vêm de dois ortopedistas.
+    cap: 1
+    trecho: A primeira tem catorze anos de consultório
+  - quando: três semanas depois da 1ª consulta de Marcos
+    fato: 'Marcos volta com o diagnóstico do reumatologista, começa a fisioterapia e conta que avisou
+      um colega: ''Não liga para o Instagram dela.'''
+    cap: 1
+    trecho: Três semanas depois daquela primeira consulta, Marcos voltou com o diagnóstico de que Renata
+      tinha suspeitado
+  - quando: semanas depois do 23º dia; um mês depois, a autópsia
+    fato: Almoço de domingo com a irmã ('não tenho disciplina'); depois, autópsia com notas de atrito
+      2, 8, 10, 6 e 1.
+    cap: 5
+    trecho: Ter a ideia recebeu 2; estruturar a sequência de lâminas, 8; escrever o texto de cada uma,
+      10; escolher cores e imagens, 6; publicar, 1.
+  - quando: uma semana de maio do Ano 1
+    fato: A filha de uma paciente pergunta o que ela faz de diferente; Renata formula pela primeira vez
+      a frase do alarme.
+    cap: 7
+    trecho: ouviu a si mesma dizer uma frase que nunca tinha formulado
+  - quando: semanas seguintes a maio do Ano 1
+    fato: Passa a gravar áudios de três ou quatro minutos no carro; a nota de atrito da escrita cai de
+      10 para 4 duas semanas depois.
+    cap: 7
+    trecho: Renata passou a gravar áudios de três ou quatro minutos no carro, ainda parada no estacionamento
+      da clínica
+  - quando: Ano 1, depois de maio (sem mês)
+    fato: 'Conta do ritmo: peça de 35 min; pior mês é julho; 100 min − 30% = 70 → duas peças por semana;
+      peça que falha não passa para a seguinte.'
+    cap: 8
+    trecho: Duas peças por semana, o ano inteiro.
+  - quando: Ano 1 (sem mês; segunda e quarta da mesma semana)
+    fato: Lista de onze linhas; telefonema da irmã; caso do ex-motorista de 70 anos (estreitamento do
+      canal); primeira peça (posterior de coxa) guardada para a terça.
+    cap: 9
+    trecho: Guardou o áudio para a terça, o primeiro dos dois dias que o número dela pedia
+  - quando: sem data (Fase II)
+    fato: 'Posição: não vende pacote de dez sessões antes de avaliar e perde para a clínica da esquina.'
+    cap: 10
+    trecho: Renata não vende pacote de dez sessões antes de avaliar
+  - quando: sem data (Fase II)
+    fato: 'Léxico: mangueira de jardim e cabo de vassoura; palavra-âncora ''alarme''; manual tirado de
+      três áudios.'
+    cap: 11
+    trecho: a palavra-âncora dela é "alarme"
+  - quando: Ano 2 (enunciado da Fase II)
+    fato: 'Enunciado gravado no carro: duas por semana, terça e quinta; convite do jornal do bairro do
+      Batel vira entrevista mensal falada.'
+    cap: 12
+    trecho: Duas por semana, terça e quinta, no carro, antes de ligar o motor
+  - quando: Ano 2, antes de setembro (sem mês)
+    fato: Troca o caso do senhor da cadeira de rodas pelo da paciente das segundas (ficha de mais de um
+      ano); grava na terça e publica na quarta.
+    cap: 15
+    trecho: Renata gravou a versão das segundas na terça seguinte, no carro, em dois minutos e meio.
+  - quando: abril e maio do Ano 2
+    fato: A irmã sugere um aplicativo com etiquetas; Renata tenta por duas semanas e volta ao gravador
+      em maio.
+    cap: 19
+    trecho: sugeriu em abril um aplicativo de notas com etiquetas
+  - quando: julho do Ano 2 ('no mês anterior' ao agosto da Lúcia)
+    fato: 'Contraponto de altura média contra a ''postura correta'': coluna gosta de visita, não de morador.'
+    cap: 17
+    trecho: Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio
+  - quando: agosto do Ano 2
+    fato: '65 capturas no mês: corredor 31, carro 17, segunda explicação 9, surpresa 6, incômodo 2.'
+    cap: 19
+    trecho: 'Fim de atendimento, no corredor: 31'
+  - quando: primeiro domingo de setembro do Ano 2
+    fato: Procura em vão o áudio do repouso absoluto entre setecentos e poucos áudios; 'havia quase um
+      ano' capturava; na semana seguinte publica uma peça em vez de duas.
+    cap: 19
+    trecho: Havia quase um ano, Renata gravava todo dia útil, em vinte segundos, sem julgar.
+  - quando: segunda semana de setembro do Ano 2
+    fato: Fixa dois gatilhos e a seleção de sexta no carro; perguntas presas no quebra-sol.
+    cap: 19
+    trecho: Renata a marcou para a sexta-feira, depois do último paciente, no carro
+  - quando: outubro do Ano 2
+    fato: Senhor de sessenta anos traz a crença do repouso; captura renomeada 'usar, repouso que piora',
+      liberada para novembro.
+    cap: 19
+    trecho: Ao lado, ela anotou a data de novembro.
+  - quando: março do Ano 3
+    fato: Contrata Bianca para a recepção da tarde e o perfil; de cada áudio saem três peças.
+    cap: 23
+    trecho: Em março, Renata contratou uma assistente para a recepção da tarde.
+  - quando: abril do Ano 3
+    fato: Seis peças por semana; meados de abril, Marcos volta para manutenção e diz que voltaria a avisar;
+      Renata rola o perfil à noite.
+    cap: 23
+    trecho: Um ano e meio depois de reconhecer que o perfil antigo não a representava
+  - quando: segunda-feira seguinte, abril do Ano 3
+    fato: 'Nova arquitetura: Renata diz a ideia no fim do áudio; Bianca só transcreve e corta; quatro
+      peças por semana mais uma de controle.'
+    cap: 23
+    trecho: O perfil passou de seis para quatro peças por semana.
+  - quando: junho do Ano 3
+    fato: Marcos faz a última sessão de manutenção; um paciente novo de um ortopedista cita o vídeo da
+      pergunta das manhãs.
+    cap: 23
+    trecho: Em junho, Marcos voltou para a última sessão de manutenção.
+  - quando: uma segunda-feira de setembro do Ano 3
+    fato: 'Conta do trimestre: 31 novos (24 por médicos, 5 por pacientes, 2 pelo perfil depois de receberem
+      o nome).'
+    cap: 26
+    trecho: 'Eram trinta e um: vinte e quatro indicados por médicos'
+  - quando: fim de setembro do Ano 3
+    fato: Troca as três publicações fixadas (sala, tratamentos, convênios) por meia, manhãs e caso das
+      manhãs.
+    cap: 26
+    trecho: No fim de setembro, Renata trocou as três publicações fixadas no alto do perfil.
+  - quando: novembro do Ano 3
+    fato: Paciente de quarenta e poucos anos, balconista de farmácia, chega sem indicação pelo áudio da
+      meia; é encaminhada ao reumatologista.
+    cap: 26
+    trecho: 'Na agenda, ao lado do nome dela, Renata escreveu: perfil, sem indicação.'
+  - quando: fim do Ano 3
+    fato: 29 pacientes novos no trimestre, 4 pelo perfil sem indicação.
+    cap: 26
+    trecho: De vinte e nove pacientes novos no trimestre, quatro tinham chegado pelo perfil
+  - quando: primeira segunda-feira de janeiro do Ano 4
+    fato: Rola o perfil até as fotos do sobrinho e as mantém; 'mais de quinze anos de consultório'.
+    cap: 30
+    trecho: Depois de mais de quinze anos de consultório, havia também uma segunda porta
+  otavio:
+  - quando: cerca de três anos antes de março do Ano 1
+    fato: 'Contrata a agência: quinze publicações por mês, aprovadas em doze minutos.'
+    cap: 4
+    trecho: Faz isso há três anos. Leva, em média, doze minutos.
+  - quando: uma quinta-feira de março do Ano 1
+    fato: Helena mostra o comentário da dona de lavanderias de Olinda (40 curtidas); Otávio responde à
+      mão.
+    cap: 4
+    trecho: Numa quinta-feira de março, a sócia mais nova do escritório, Helena, entrou na sala dele com
+      o celular na mão.
+  - quando: semana seguinte, março do Ano 1
+    fato: Pede dois meses sem publicações; grava três minutos sobre 'acertar por fora'; teste com a mulher
+      (30 anos de convivência).
+    cap: 4
+    trecho: Otávio pediu à agência dois meses sem publicações.
+  - quando: uma terça de maio do Ano 1 (exemplo datado 14/5)
+    fato: Dia das sete fontes; agência manda calendário 'para quando a pausa acabasse', com arte de São
+      João; no dia seguinte compra o caderno preto.
+    cap: 6
+    trecho: “Todo advogado só manda fazer acordo”, almoço, 14/5.
+  - quando: três semanas depois (maio/junho do Ano 1)
+    fato: 'Caderno com trinta e poucas linhas; Helena: ''Isso aqui dá para o ano inteiro.'''
+    cap: 6
+    trecho: Três semanas depois, tinha trinta e poucas.
+  - quando: a mesma semana de maio do Ano 1
+    fato: Colega de faculdade o convida para falar aos alunos; três páginas à mão em duas noites.
+    cap: 7
+    trecho: No Recife, um colega de faculdade que hoje dá aula telefonou a Otávio
+  - quando: sem data (Fase II)
+    fato: 'Pior mês: janeiro, com as demissões adiadas.'
+    cap: 8
+    trecho: O do Otávio é janeiro
+  - quando: sem data (Fase II)
+    fato: 'Repertório: advertências feitas na véspera, com a mesma caneta; testemunha que repete igual
+      não vai à audiência.'
+    cap: 9
+    trecho: Já recebeu de clientes advertências feitas na véspera da audiência, todas com a mesma caneta
+      e a mesma letra
+  - quando: uma quinta-feira, Ano 2 pela âncora do cap. 24 ('havia um ano' em maio do Ano 3)
+    fato: Recusa a casadinha de Seu Ednaldo (nove anos de cliente, cinco padarias); dez dias depois perde
+      a conta; três semanas depois chega a empresária das três lojas; a agência 'continuava suspensa'.
+    cap: 10
+    trecho: Dez dias mais tarde, chegou por e-mail o aviso de rescisão do contrato de assessoria.
+  - quando: sem data (Fase II)
+    fato: Léxico encontrado nos e-mails a clientes; agência ainda suspensa.
+    cap: 11
+    trecho: Otávio, com a agência suspensa desde o capítulo 4, releu a ficha dele
+  - quando: Ano 2 (enunciado)
+    fato: 'Enunciado em folha pautada: uma por semana, sexta à tarde, ''janeiro manda''; recusa a transmissão
+      ao vivo da associação.'
+    cap: 12
+    trecho: Uma por semana, sexta à tarde; ao lado, “janeiro manda”
+  - quando: sem data (Fase III)
+    fato: 'Inventário de perguntas na caixa de entrada: catorze no semestre, dezessete na semana seguinte.'
+    cap: 14
+    trecho: Achou catorze no último semestre e completou dezessete na semana seguinte.
+  - quando: Ano 2, antes de setembro (sem mês)
+    fato: Dona de duas academias em Boa Viagem; 'contrato assinado não é prova de nada'; publica o e-mail
+      de um caso encerrado na 'sexta marcada', três semanas depois.
+    cap: 16
+    trecho: marcou no caderno uma sexta três semanas adiante
+  - quando: setembro a novembro do Ano 2
+    fato: Peça semanal às sextas, das três às cinco, funciona.
+    cap: 21
+    trecho: Funcionou em setembro, outubro e novembro.
+  - quando: dezembro do Ano 2
+    fato: Duas sextas caem; tentativa depois do jantar na segunda semana; na segunda quinzena nasce o
+      verso do parecer.
+    cap: 21
+    trecho: O que mudou, na segunda quinzena de dezembro
+  - quando: janeiro do Ano 3
+    fato: Dezessete pareceres em três semanas; na terceira terça, verso sobre banco de horas; quatro peças
+      em quatro semanas; dezenove versos viram 'estoque'.
+    cap: 21
+    trecho: Na terceira terça-feira de janeiro, às seis e dez da tarde
+  - quando: fevereiro do Ano 3
+    fato: Helena separa oito versos sobre controle de horário.
+    cap: 21
+    trecho: Helena o leu numa tarde de fevereiro e separou as folhas em dois montes.
+  - quando: abril do Ano 3
+    fato: Volta à agência (Sílvia) com cinco regras, dez das trinta e poucas peças publicadas desde setembro,
+      'O que não é de vocês' e o fluxo; publicação às terças.
+    cap: 24
+    trecho: Em abril, dois anos depois de suspender as publicações da agência, Otávio marcou uma reunião
+      na mesma sala de vidro.
+  - quando: abril e maio do Ano 3
+    fato: Manual passa de seis para nove linhas; revisão cai para pouco mais de um minuto; em maio, duas
+      peças por semana.
+    cap: 24
+    trecho: Em maio, o perfil do escritório publicava duas vezes por semana.
+  - quando: fim de maio do Ano 3
+    fato: A empresária das três lojas manda o link da peça do banco de horas.
+    cap: 24
+    trecho: Era a empresária das três lojas de material de construção, que tinha chegado havia um ano
+      pelo contador das padarias de Seu Ednaldo.
+  - quando: junho do Ano 3
+    fato: Peça do São João passa de mil curtidas e não traz ninguém; a das advertências (abril) tem 12
+      curtidas, 41 salvamentos, 19 envios e três citações.
+    cap: 28
+    trecho: Em junho, uma peça do escritório do Otávio passou de mil curtidas.
+  - quando: primeira segunda-feira de julho do Ano 3
+    fato: 'Primeira análise mensal: guardar mais versos sobre documentos, sem série de feriados.'
+    cap: 28
+    trecho: Na primeira segunda de julho, a resposta foi curta.
+  - quando: setembro do Ano 3
+    fato: Lista de Helena com onze linhas; sete citam peça, cinco sobre documentos.
+    cap: 28
+    trecho: Em setembro, a lista de Helena tinha onze linhas.
+  - quando: janeiro do Ano 4
+    fato: Primeira renovação do contrato; oito peças por mês.
+    cap: 30
+    trecho: No Recife, o contrato com a agência chegou à primeira renovação em janeiro
+  marcos:
+  - quando: antes de maio do Ano 1
+    fato: Dois anos de dor lombar; clínico geral, dois ortopedistas e uma quiropraxista antes; quase não
+      entra; 'Parecia perfil de academia'.
+    cap: 1
+    trecho: Marcos chegou ao consultório da Renata com dois anos de dor lombar e uma pasta de exames debaixo
+      do braço.
+  - quando: três semanas depois
+    fato: Volta com o diagnóstico; avisa o colega para não ligar para o Instagram.
+    cap: 1
+    trecho: '"Não liga para o Instagram dela."'
+  - quando: meados de abril do Ano 3
+    fato: Manutenção depois de viagem longa; 'Agora eu acho que voltaria a avisar.'
+    cap: 23
+    trecho: Fazia mais de um ano que ele tinha terminado o tratamento
+  - quando: junho do Ano 3
+    fato: Última sessão de manutenção.
+    cap: 23
+    trecho: Em junho, Marcos voltou para a última sessão de manutenção.
+  helena:
+  - quando: quinta-feira de março do Ano 1
+    fato: Traz o comentário da lavanderia e pergunta por que o perfil não fala como ele.
+    cap: 4
+    trecho: Helena leu por cima do ombro dele e perguntou, sem maldade, por que o perfil do escritório
+      não falava assim.
+  - quando: maio/junho do Ano 1
+    fato: Lê o caderno e começa um igual na semana seguinte.
+    cap: 6
+    trecho: Helena começou o dela na semana seguinte
+  - quando: Ano 2
+    fato: Pergunta se a recusa valeu a pena; depois sugere levar as posições para onde os empresários
+      leem.
+    cap: 10
+    trecho: Helena leu o quadro numa sexta-feira
+  - quando: Ano 2
+    fato: Nota a terceira explicação do contrato no mês; sugere citar o artigo de lei.
+    cap: 16
+    trecho: era a terceira vez naquele mês que ouvia o sócio dar aquela mesma explicação
+  - quando: janeiro e fevereiro do Ano 3
+    fato: Pergunta quantas peças saíram; separa os oito versos de controle de horário.
+    cap: 21
+    trecho: No fim de janeiro, Helena passou pela sala dele numa sexta
+  - quando: abril do Ano 3
+    fato: Desconfia da volta à agência; pergunta quem escolhe o que será publicado.
+    cap: 24
+    trecho: quem escolhe o que vai ser publicado?
+  - quando: junho a setembro do Ano 3
+    fato: Pergunta a origem de todo cliente novo; lista de onze linhas em setembro.
+    cap: 28
+    trecho: Desde o começo de junho, Helena perguntava a todo cliente novo
+  seu_ednaldo:
+  - quando: Ano 2 (quinta-feira de manhã)
+    fato: Cliente há nove anos, cinco padarias na zona norte, sessenta e poucos funcionários; pede a casadinha
+      para demitir o gerente de doze anos; sai dez dias depois.
+    cap: 10
+    trecho: Seu Ednaldo era cliente do Otávio havia nove anos.
+  - quando: maio do Ano 3
+    fato: Citado como origem da indicação da empresária das lojas.
+    cap: 24
+    trecho: pelo contador das padarias de Seu Ednaldo
+  - quando: setembro do Ano 3
+    fato: A folha da noite do telefonema continua no quadro de cortiça.
+    cap: 28
+    trecho: ao lado da folha da noite do telefonema com Seu Ednaldo
+  empresaria_das_lojas:
+  - quando: terça de maio do Ano 1 (almoço)
+    fato: Cliente nova, dona de DUAS lojas de material de construção, já trocou duas vezes de advogado
+      por causa de acordo.
+    cap: 6
+    trecho: uma cliente nova, dona de duas lojas de material de construção
+  - quando: Ano 2, três semanas depois do telefonema de Seu Ednaldo
+    fato: Empresária com TRÊS lojas de material de construção em Olinda e no Recife, onze funcionários,
+      trocando de advogado, indicada pelo contador.
+    cap: 10
+    trecho: Tinha três lojas de material de construção em Olinda e no Recife, onze funcionários
+  - quando: fim de maio do Ano 3
+    fato: Manda o link da peça do banco de horas; 'chegado havia um ano'.
+    cap: 24
+    trecho: que tinha chegado havia um ano
+  outros_figurantes:
+  - quando: março do Ano 1 / janeiro do Ano 3
+    fato: 'Dona de pequena rede de lavanderias de Olinda: comentário de 40 curtidas; a resposta à mão
+      reaparece como verso em janeiro, ''meses antes''.'
+    cap: 21
+    trecho: a resposta que ele tinha escrito à mão para a dona das lavanderias, meses antes
+  - quando: Ano 2
+    fato: Dona de duas academias em Boa Viagem, onze instrutores; instrutor saiu em março; ação em curso.
+    cap: 16
+    trecho: Era dona de duas academias em Boa Viagem, com onze instrutores
+  - quando: Ano 1 e Ano 2
+    fato: 'Irmã da Renata: almoço de domingo (cap. 5), telefonema do aniversário da mãe (cap. 9), gerente
+      de projetos que sugere o aplicativo em abril (cap. 19).'
+    cap: 19
+    trecho: A irmã de Renata, que gerencia projetos numa empresa de software
+  - quando: março a setembro do Ano 3
+    fato: 'Bianca, estudante de publicidade: três peças por áudio, depois só transcreve e corta; ganha
+      a marca de camada em setembro.'
+    cap: 26
+    trecho: Bianca, a assistente, continuou cuidando da transcrição, da arte e da agenda
+  - quando: abril do Ano 3 a janeiro do Ano 4
+    fato: 'Sílvia, jornalista da agência: calendário recusado, manual de seis a nove linhas, planilha
+      mensal, renovação em janeiro.'
+    cap: 24
+    trecho: A responsável pela conta, uma jornalista chamada Sílvia
+problemas:
+- tipo: sigilo
+  gravidade: alta
+  trechos:
+  - cap: 16
+    texto: Depois guardou o texto e marcou no caderno uma sexta três semanas adiante, para que a dona
+      das academias, se lesse, não achasse que a reunião dela tinha virado assunto.
+  - cap: 16
+    texto: era a terceira vez naquele mês que ouvia o sócio dar aquela mesma explicação
+  - cap: 13
+    texto: 'Desloque também a data da publicação: nunca antes de um mês depois do último atendimento em
+      que o assunto apareceu.'
+  - cap: 21
+    texto: Por isso nenhum verso sai antes de um mês do último parecer sobre o mesmo assunto, a regra
+      do capítulo 13
+  por_que: A peça do Otávio trata exatamente do assunto da reunião com a dona das academias, que é o último
+    atendimento em que ele apareceu (e o terceiro no mesmo mês). Publicar três semanas depois viola a
+    regra de um mês que o próprio livro fixou no cap. 13 e que o Otávio segue no cap. 21. O caso-modelo
+    mostra a espera, mas espera menos do que a regra manda.
+  correcao: No cap. 16, trocar 'marcou no caderno uma sexta três semanas adiante' por 'marcou no caderno
+    uma sexta cinco semanas adiante'.
+- tipo: cronologia
+  gravidade: alta
+  trechos:
+  - cap: 1
+    texto: Houve um mês em que tentou publicar a cada dois dias e parou no vigésimo terceiro dia, sem
+      saber explicar por quê.
+  - cap: 7
+    texto: Na mesma semana de maio, em quatro cidades, quatro pessoas ouviram, com outras palavras, a
+      mesma pergunta
+  - cap: 4
+    texto: Numa quinta-feira de março, a sócia mais nova do escritório, Helena, entrou na sala dele com
+      o celular na mão.
+  - cap: 24
+    texto: Em abril, dois anos depois de suspender as publicações da agência, Otávio marcou uma reunião
+      na mesma sala de vidro.
+  - cap: 23
+    texto: Um ano e meio depois de reconhecer que o perfil antigo não a representava, Renata estava de
+      novo diante de um perfil que parecia de outra pessoa.
+  - cap: 23
+    texto: Somadas, fizeram com que o conhecimento vivo de quinze anos de consultório aparecesse no perfil
+      como uma coleção de frases corretas
+  - cap: 30
+    texto: Na primeira segunda-feira de janeiro, antes do primeiro paciente, Renata rolou o próprio perfil
+      até o fim, como tinha feito numa noite de abril
+  - cap: 30
+    texto: No Recife, o contrato com a agência chegou à primeira renovação em janeiro
+  por_que: 'O cap. 1 acontece antes da autópsia do cap. 5 (Renata ainda não sabe explicar o 23º dia),
+    e a autópsia é anterior à semana de maio do cap. 7, a mesma do Otávio pós-cap. 4 (março). Logo, o
+    cap. 1 cai até abril do Ano 1. O abril do cap. 23 e o abril do cap. 24 são a mesma primavera: os dois
+    antecedem o mesmo janeiro do cap. 30 (''Os quatro, em janeiro''). Se o abril do cap. 24 fica dois
+    anos depois de março do Ano 1 (o que também batem ''trinta e poucas peças... desde setembro'', o ritmo
+    da Lúcia ''medida pelo dezembro'' no enunciado do cap. 12 e o ''quase um ano'' de capturas do cap.
+    19), então o cap. 23 fica pelo menos dois anos depois do cap. 1, e não um ano e meio. Pela mesma conta,
+    os catorze anos de consultório do cap. 1 viram pelo menos dezesseis em abril do Ano 3. Os caps. 26
+    e 30 (''mais de quinze'') continuam certos.'
+  correcao: No cap. 23, trocar 'Um ano e meio depois de reconhecer que o perfil antigo não a representava'
+    por 'Dois anos depois de reconhecer que o perfil antigo não a representava', e 'o conhecimento vivo
+    de quinze anos de consultório' por 'o conhecimento vivo de dezesseis anos de consultório'.
+- tipo: contradicao
+  gravidade: media
+  trechos:
+  - cap: 6
+    texto: No almoço, uma cliente nova, dona de duas lojas de material de construção, disse sem rodeios
+      que já tinha trocado de advogado duas vezes porque "todo advogado só manda fazer acordo".
+  - cap: 10
+    texto: Tinha três lojas de material de construção em Olinda e no Recife, onze funcionários, e estava
+      trocando de advogado.
+  - cap: 24
+    texto: Era a empresária das três lojas de material de construção, que tinha chegado havia um ano pelo
+      contador das padarias de Seu Ednaldo.
+  por_que: As duas empresárias têm o mesmo ramo, chegam como clientes novas, estão trocando de advogado
+    e resistem ao acordo. O leitor vai tomá-las pela mesma pessoa, e aí o número de lojas muda de duas
+    para três. Se forem pessoas diferentes, como a data do cap. 24 exige (a do cap. 6 é de maio do Ano
+    1; a do cap. 10 chegou 'havia um ano' em maio do Ano 3), a chegada do cap. 10 parece a repetição de
+    uma cena já vista.
+  correcao: No cap. 6, trocar 'dona de duas lojas de material de construção' por 'dona de duas confecções'.
+    É uma troca só, e caps. 10 e 24 ficam como estão. Mexer no cap. 10 obrigaria a mexer também no cap.
+    24.
+- tipo: contradicao
+  gravidade: media
+  trechos:
+  - cap: 7
+    texto: 'No meio da explicação, ouviu a si mesma dizer uma frase que nunca tinha formulado: "Eu trato
+      a dor como um alarme, e alarme a gente investiga antes de desligar."'
+  - cap: 9
+    texto: 'Levou três minutos, e ela percebeu, ouvindo depois, que tinha dito a frase de sempre sem planejar:
+      "A dor não é o inimigo. É o alarme."'
+  por_que: 'O cap. 7 (maio do Ano 1) apresenta a imagem do alarme como descoberta daquela semana. O cap.
+    9 se passa poucos meses depois, no mesmo Ano 1: o perfil do sobrinho ainda é de ''seis anos antes'',
+    como no cap. 1. Mesmo assim, o cap. 9 já a chama de ''frase de sempre''. O arco pede que a marca nasça
+    no cap. 7.'
+  correcao: No cap. 9, trocar 'que tinha dito a frase de sempre sem planejar' por 'que tinha dito sem
+    planejar a frase do alarme, que desde maio saía sozinha'.
+- tipo: cronologia
+  gravidade: media
+  trechos:
+  - cap: 4
+    texto: 'Ele abre o arquivo antes do primeiro cliente, passa os olhos por cada linha, confere se não
+      há nenhum erro de lei ou de português e responde com a mesma palavra de sempre: aprovado. Faz isso
+      há três anos.'
+  - cap: 24
+    texto: A pressa em delegar tudo de uma vez é a mesma que, dois anos antes, levou Otávio à agência
+      antes da voz.
+  por_que: No cap. 4 (março do Ano 1), Otávio já aprovava calendários havia três anos, e o cap. 24 se
+    passa dois anos depois do cap. 4 ('dois anos depois de suspender'). A contratação da agência aconteceu,
+    portanto, uns cinco anos antes do cap. 24, e não dois.
+  correcao: No cap. 24, trocar 'que, dois anos antes, levou Otávio à agência antes da voz' por 'que, anos
+    antes, levou Otávio à agência antes da voz'.
+- tipo: cronologia
+  gravidade: baixa
+  trechos:
+  - cap: 21
+    texto: Era, com outras palavras, a resposta que ele tinha escrito à mão para a dona das lavanderias,
+      meses antes, e que a agência não soubera dar.
+  - cap: 24
+    texto: Desde janeiro, o maço de versos não escolhidos crescia mais depressa do que Otávio conseguia
+      publicar
+  - cap: 24
+    texto: Em abril, dois anos depois de suspender as publicações da agência
+  por_que: A resposta à dona das lavanderias é da semana da suspensão (cap. 4, março do Ano 1). O janeiro
+    do cap. 21 fica três meses antes do abril do cap. 24, que por sua vez fica dois anos depois da suspensão.
+    Entre a resposta e o verso passam, portanto, uns 22 meses, e 'meses antes' sugere menos de um ano.
+  correcao: No cap. 21, trocar 'para a dona das lavanderias, meses antes,' por 'para a dona das lavanderias,
+    quase dois anos antes,'.
+- tipo: repeticao
+  gravidade: baixa
+  trechos:
+  - cap: 26
+    texto: 'Eram trinta e um: vinte e quatro indicados por médicos, a maioria pelos mesmos dois ortopedistas
+      de sempre, cinco por outros pacientes e dois que disseram ter encontrado o perfil.'
+  - cap: 19
+    texto: 'Fim de atendimento, no corredor: 31'
+  - cap: 14
+    texto: Em três meses, trinta e uma vezes.
+  - cap: 2
+    texto: Em duas semanas, a lista tinha trinta e uma linhas
+  por_que: A regra cap08-r1 do ORQUESTRADOR diz que números de personagens diferentes nunca coincidem.
+    As duas contas da Renata dão 31, o mesmo número da lista da Lúcia e das perguntas do Caio.
+  correcao: 'No cap. 26, trocar ''Eram trinta e um: vinte e quatro indicados por médicos'' por ''Eram
+    trinta e três: vinte e seis indicados por médicos'' e, na explicação da verificação, ''De trinta e
+    um pacientes novos'' por ''De trinta e três pacientes novos''.'
+- tipo: biblia
+  gravidade: baixa
+  trechos:
+  - cap: 1
+    texto: Marcos chegou ao consultório da Renata com dois anos de dor lombar
+  - cap: 7
+    texto: Renata passou a gravar áudios de três ou quatro minutos no carro, ainda parada no estacionamento
+      da clínica
+  - cap: 26
+    texto: Não mencionou a clínica, nem os tratamentos, nem a avaliação.
+  por_que: A bíblia dá a Renata um 'consultório próprio em Curitiba'. Os caps. 7, 8, 9, 12 e 19 dizem
+    'estacionamento da clínica', e o cap. 26 chama o lugar de 'a clínica', como se ela trabalhasse numa
+    clínica, o que confunde com 'a clínica da esquina' do cap. 10.
+  correcao: No cap. 26, trocar 'Não mencionou a clínica' por 'Não mencionou o consultório'. Se quiser
+    uniformizar, trocar também 'estacionamento da clínica' por 'estacionamento do consultório' nos caps.
+    7, 8, 9, 12 e 19.

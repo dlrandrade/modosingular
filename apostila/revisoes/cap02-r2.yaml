@@ -1,0 +1,131 @@
+capitulo: 2
+iteracao: 2
+notas: {metodo: 9.2, voz: 8.6, originalidade: 8.7, clareza: 8.7, ritmo: 8.8, concretude: 8.9,
+        coerencia: 8.2, aplicabilidade: 8.6, impresso: 8.3, honestidade: 8.4}
+bloqueadores: []
+pontos_fortes:
+  - 'A abertura segue sendo a melhor cena da Fase I até aqui e agora mostra o modo da Lúcia na primeira fala: "Lúcia não discutiu. Perguntou: “E quem disse que era um teste?”". O detalhe do protocolo ("respiração em quatro tempos ao acordar, diário de gratidão, nada de café depois das duas da tarde, dez minutos de sol") e o diagnóstico do dano ("O dano estava na promessa de prazo") têm precisão de ofício.'
+  - 'A troca do "rapaz de camiseta" pela "mulher do vídeo, voz mansa e um fundo de plantas", com "o mesmo aperto no peito de sempre", dá à cena uma identidade própria. O retrato sem desprezo do ocupante ("responde à pergunta que o público faz, com as palavras que o público usa, e responde de novo no dia seguinte") e o fecho "O injusto, para o seu público, é que só apareça quem sabe menos" desarmam o leitor exigente sem moralizar.'
+  - 'Dois achados que o PWA não tinha: o público que nunca chega ("Quem desiste de procurar ajuda por causa de uma resposta ruim nunca aparece na agenda de ninguém para ser corrigido") e o fecho da prosa numa ação, com imagem que retoma a porta fechada do primeiro motivo ("dez correções prontas, testadas durante anos, que até ali só tinham sido ditas de porta fechada").'
+  - 'Regra de ouro íntegra: oficina, esqueleto e roteiro de fala tratam só da área do leitor. O roteiro não menciona internet, perfil nem publicação, e a nota final protege saúde, direito e finanças ("o critério orienta, mas não substitui uma avaliação individual"). A questão 03 testa o gesto certo de sigilo (tema = crença pública).'
+  - 'Lint limpo e prosa enxuta: zero "não é/é", zero frase-soco, zero travessão, média de 17,2 palavras com desvio de 8,3. A sequência dos motivos foi reordenada e agora termina na melhor frase da seção: "o trabalho bem feito fala por si apenas para quem já está dentro da sala."'
+resolvidos_das_anteriores:
+  - 'Bloqueador r1 resolvido: a opção c da questão 02 sai limpa na p024 ("Quem é o assunto: você ou o problema de quem lê.").'
+  - 'O vídeo sobre "coração acelerado" com "milhões de visualizações" virou "a mulher do vídeo" com "aperto no peito" e "dezenas de vídeos quase idênticos". Resolvido no cap. 2; a sobreposição de ideia com o cap. 1 continua (ver coerência).'
+  - 'A batida "desfazer em consulta" caiu de cinco para quatro ocorrências. Foram cortados "E você gasta a primeira parte do atendimento…" e o segundo "uma pessoa de cada vez", e a lista fecha com ganho novo ("ditas de porta fechada").'
+  - 'Antíteses de "A pergunta que decide" reduzidas a uma ("põe você no centro… põe no centro quem está do outro lado"); "Formulada assim, a decisão sai do terreno do gosto" entrou no lugar das outras.'
+  - 'Parágrafo "centro de gravidade" cortado; intertítulo trocado para "Quem é o assunto da peça"; o oftalmologista fecha em "O profissional aparece pela forma como pensa, quase nunca como tema".'
+  - 'Anúncios do narrador "merece uma observação", "merecem um olhar calmo", "O nome parece forte, e é de propósito" e "A troca tem um efeito colateral curioso" cortados.'
+  - 'Os motivos da Lúcia foram reordenados, e a resposta aos colegas fica agora colada ao terceiro motivo.'
+  - 'A afirmação "quase nunca é lido como exibicionismo" virou memória da Lúcia (a professora da formação). A legenda da balança não promete mais que o desconforto "passa".'
+  - 'O modo da Lúcia aparece na cena 1 (pergunta devolvida) e na seção 5 (a colega faz a pergunta e ela responde antes de terminar o café).'
+  - 'Roteiro: o gancho "que já foi verdade" virou "que parece fazer todo sentido"; esqueleto "De onde ela vem" e faça-assim 2 ampliados.'
+  - 'Campo 05 criado para o item de checklist "Separei ocupação de território de autopromoção" (com "campo 05" na ajuda).'
+  - 'Verificação: Q1 reformulada, sem distrator plausível sobre algoritmo; Q3 opção c trocada por "Esperar a paciente encerrar a terapia…"; corretas em posições b, c, a, d.'
+  - 'Oficina: veterinária do campo 01 trocada por corretor de seguros; campo 03 ganhou exemplo do dentista; campo 06 remete ao cap. 6.'
+  - '"vista cansada" corrigido para "os olhos que ardem e embaçam no fim do dia".'
+  - 'Remissão "este livro inteiro trata disso" corrigida para "a terceira e a quarta fases deste livro existem para isso"; tríade "é uma questão de…" desfeita.'
+  - 'Citação do dossiê movida para depois do box Conceito; parágrafo "A oficina deste capítulo pede…" cortado; parágrafo da lista quebrado em dois.'
+  - '"A comparação serve menos…" substituída; edições de linha da r1 aplicadas ("Na noite da terceira sessão", "não tem nada a fazer na internet", linha 4 da tabela, "Acontece em qualquer área", "o medo da exposição", "O que está no manual o seu cliente também encontra").'
+  - 'Diagramação: sobra da p017 eliminada (texto corrido até o pé); p013 sem buraco; esqueleto com 3 linhas por parte no manuscrito.'
+problemas:
+  - criterio: coerencia
+    trecho: "Lúcia, que durante anos não soube responder à primeira, respondeu a esta antes de terminar o café"
+    por_que: 'Contradiz o parágrafo que abre a mesma seção: "Durante anos, Lúcia se fez a mesma pergunta sobre a internet: “eu quero aparecer?”. E a resposta, honesta, era sempre não." Ela sabia responder à primeira pergunta, e a resposta era "não". O leitor atento tropeça justamente na cena que mostra o modo da personagem.'
+    correcao: '"Lúcia, que durante anos tinha respondido “não” à primeira sem pensar duas vezes, respondeu a esta antes de terminar o café. E em voz alta: “A mulher do protocolo, não.”" A fala direta mostra o modo (pensa respondendo) melhor que o discurso indireto "não aceitava que fosse a mulher do protocolo".'
+  - criterio: coerencia
+    trecho: "Escolheu a primeira naquela noite: a ideia de que terapia boa resolve em poucas sessões."
+    por_que: 'Há três problemas. (1) "A primeira" é ambígua, porque a primeira frase da lista é "Se eu precisar de remédio…", não a de poucas sessões. (2) A seção "Quem é o assunto da peça" preparou outra peça: "O assunto seria a ideia, amplamente difundida, de que ansiedade se elimina com uma sequência de tarefas e um prazo". (3) A explicação da questão 03 afirma "O tema da peça é a ideia de que ansiedade se elimina com um protocolo e um prazo". O texto e o gabarito discordam sobre qual é a peça da Lúcia.'
+    correcao: 'Escolher uma e alinhar tudo. Opção mais econômica: "Escolheu por onde começar naquela noite, e não foi pela frase mais repetida da lista: foi pela culpa de quem “falha” num protocolo de vinte e um dias." Outra saída é manter "poucas sessões" e reescrever a explicação da Q3 como "O tema da peça é uma crença pública sobre ansiedade e prazo, não a história de uma paciente."'
+  - criterio: coerencia
+    trecho: "Enquanto isso, o vídeo que ensinou o contrário continua sendo visto por milhares."
+    por_que: 'A r1 trocou o gênero e o sintoma do ocupante, mas a ideia central do cap. 2 continua gasta no cap. 1. Lá, a cardiologista "encontra um rapaz de camiseta explicando, com muita segurança e alguns erros, o que fazer quando o coração dispara. O vídeo tem centenas de milhares de visualizações [...] vai gastar metade de uma consulta desfazendo o que ele ensinou". O exemplo da oficina do cap. 1 ainda diz "Tenho tempo para corrigir, em consulta, o que outros ensinam errado", e o cap. 1 já tinha dito que "tanta gente com pouco repertório fala com tanta segurança, enquanto tanta gente com muito repertório fica quieta" e que quem sabe "conhece as exceções". No cap. 2, "noção das exceções" aparece duas vezes ("menos noção das exceções"; "a noção das exceções, do risco"). Quem lê os dois capítulos em sequência sente que o cap. 2 repete a tese que o cap. 1 antecipou. A lição cap02-r1 veta imagem repetida entre capítulos.'
+    correcao: 'Resolver no cap. 1, que usa a imagem fora do tema dele (o parágrafo fala de "reconhecimento", mas o exemplo é de correção em consulta). Trocar a cardiologista por uma cena de reconhecimento, por exemplo: "Pense numa cardiologista com vinte anos de consultório que descobre que o hospital convidou, para a palestra aberta do mês do coração, um colega recém-formado, porque a comissão o conhecia de vídeos." No exemplo do campo 06 do cap. 1, trocar "corrigir, em consulta, o que outros ensinam errado" por outra coisa que a explicação deixa de fora. No cap. 2, trocar a segunda ocorrência de exceções por "o risco, o caso que foge da regra, o que não serve para todo mundo".'
+  - criterio: coerencia
+    trecho: "O ponto não é a plataforma nem a métrica. A dúvida do seu público vai ser respondida; a única variável é por quem, e com que qualidade."
+    por_que: 'A explicação da Q1 é sobra da versão anterior. Os distratores sobre algoritmo e seguidores foram removidos, e hoje nenhuma opção fala de plataforma ou métrica. No Apêndice A, o leitor lê uma refutação de algo que não estava na pergunta. De quebra, a frase é um "não é X nem Y".'
+    correcao: '"A dúvida do seu público vai ser respondida de qualquer jeito, por um parente, uma busca ou um vídeo. A única variável é quem responde, e com que preparo."'
+  - criterio: voz
+    trecho: "A mulher do vídeo publica todos os dias às sete da manhã; Lúcia, que acorda às seis, nunca tinha pensado em dizer nada a ninguém àquela hora."
+    por_que: 'A frase tenta um humor seco que não se sustenta. "Dizer nada a ninguém àquela hora" não quer dizer nada: a questão nunca foi o horário. E o dado "publica todos os dias às sete" pede que Lúcia tenha acompanhado o perfil da mulher, mas no texto ela só fez uma busca de meia hora. É a frase mais fraca da melhor seção.'
+    correcao: 'Cortar. Se quiser manter a imagem da constância: "Na noite da busca, o vídeo mais recente dela tinha sido publicado naquela manhã, às sete; o anterior, na véspera."'
+  - criterio: voz
+    trecho: "Há um efeito ainda mais sério, e menos visível."
+    por_que: 'A r1 apontou a série de aberturas-gancho, e ela sobreviveu quase inteira: "Há um efeito ainda mais sério, e menos visível."; "Existe uma confusão que explica boa parte do silêncio de especialistas sérios."; "Existe outra pergunta:"; "Havia ainda um quarto motivo". A isso se soma uma segunda muleta de abertura em três parágrafos: "Nenhuma dessas três coisas exige…", "Nenhum desses motivos vai ser descartado…", "Nenhuma dessas frases era absurda…". São dois moldes de transição que um leitor em voz alta percebe.'
+    correcao: 'Entrar direto no conteúdo: "A educação que o público recebe antes de chegar até você decide se ele vai procurar alguém, quando e com que expectativa." (cortar a frase-gancho). "Para muita gente, publicar é sinônimo de se promover…" (cortar "Existe uma confusão que explica…"; a frase final do parágrafo já nomeia a confusão). Manter só um dos três "Nenhum(a)": "Lúcia não achava nenhuma dessas frases absurda, e nenhuma era rara no consultório dela."'
+  - criterio: voz
+    trecho: "Nenhum desses motivos vai ser descartado neste livro, e o sigilo vai ganhar um capítulo inteiro mais adiante."
+    por_que: 'É o narrador anunciando o livro. A r1 cortou "Cada um desses motivos merece respeito", mas a promessa-sumário ficou. No mesmo tom estão "a terceira e a quarta fases deste livro existem para isso" e "vale a pena conhecê-las antes de publicar", este último vizinho do proibido "vale (ressaltar|destacar|lembrar)".'
+    correcao: '"O sigilo tem capítulo próprio mais adiante. Do lado de fora, porém, a ausência produz isto, com ou sem intenção:" (e tirar "independentemente das intenções de quem se ausenta", que o título da tabela já diz). Na ética: "Muitas profissões têm regras parecidas. Conhecê-las antes de publicar delimita o terreno e, dentro dele, dá segurança."'
+  - criterio: voz
+    trecho: "é exatamente o que falta à conversa pública"
+    por_que: 'O lint acusa 5 muletas (máx. 4): "o que realmente importava", "justamente por entender", "sabe exatamente o que está vendendo", "é exatamente o que falta", e "justamente quem mais teria a dizer" no Para guardar.'
+    correcao: 'Cortar "exatamente" aqui ("é o que falta à conversa pública") e "realmente" na cena 1 ("antes de conseguir falar de outra coisa"; ver também o problema de concretude).'
+  - criterio: honestidade
+    trecho: "Colegas que torcem o nariz para quem aparece costumam estar julgando a vaidade."
+    por_que: 'A lição cap02-r1 é literal: "generalizações empíricas (''quase nunca'', ''com frequência'', ''costumam'') sobre o comportamento de terceiros viram observação de personagem ou saem". A r1 converteu metade do trecho, mas a abertura ficou. O capítulo tem outras do mesmo tipo: "O desprezo é a reação mais comum a quem ocupa esse espaço"; "três coisas que faltam à maioria dos especialistas"; "o desejo de quase todo especialista sério é ficar longe dos holofotes"; "profissionais competentes costumam ter" (pudor). Para um público desconfiado de "marketing de palco", afirmação estatística sem fonte é o primeiro ponto de atrito.'
+    correcao: 'Abrir pela personagem: "Lúcia desconfiava que o nariz torcido dos colegas mirava a vaidade, não o conteúdo, e lembrou de um texto que confirmava isso: escrito por uma professora da formação, circulou entre os mais críticos sem que ninguém falasse em exibicionismo." Nas outras: "O desprezo é a reação mais fácil a quem ocupa esse espaço"; "três coisas que faltam a muita gente competente"; "o desejo de muito especialista sério".'
+  - criterio: honestidade
+    trecho: "Encontrou o que já intuía: é vedado prometer resultado, usar depoimento de paciente, expor qualquer pessoa atendida."
+    por_que: 'Detalhe de ofício que um psicólogo vai conferir. O Código de Ética do Psicólogo (Res. CFP 010/2005, art. 20) veda "previsão taxativa de resultados", divulgação sensacionalista e autopromoção em detrimento de colegas, e o art. 9 protege o sigilo. Não localizei no código a vedação expressa a "depoimento de paciente", que é regra típica da publicidade médica (CFM). Se estiver em resolução complementar do CFP, citar corretamente. Se não estiver, é erro de fato num capítulo que lembra a ética como parte do método.'
+    correcao: 'Conferir na fonte. Versão segura: "Encontrou o que já intuía: é vedado prometer resultado, fazer divulgação sensacionalista, expor qualquer pessoa atendida."'
+  - criterio: honestidade
+    trecho: "Se você não respondeu, a resposta veio de alguém com menos anos de prática, menos casos vistos e menos noção das exceções."
+    por_que: 'O salto lógico incomoda o leitor exigente: se você não responde, a resposta pode vir de um colega tão bom quanto você. O que o capítulo mostra, e prova com a cena, é que nem você nem os colegas que você respeita responderam ("As pessoas que ela respeitava [...] estavam em silêncio. Como ela."). A frase absoluta enfraquece um argumento que a cena já tinha ganho.'
+    correcao: '"Se nem você nem os colegas que você respeita responderam, a resposta veio de alguém com menos anos de prática, menos casos vistos e menos cuidado com o que foge da regra."'
+  - criterio: honestidade
+    trecho: "Cada hora que você economiza deixando de publicar é paga depois, em atendimento, corrigindo o que a internet ensinou no seu lugar."
+    por_que: 'A equivalência hora por hora é um slogan apresentado como lei: soa como conta, e ninguém fez essa conta. É também a quarta aparição da batida "corrigir em atendimento" (três sessões da Lúcia, dez minutos da veterinária, esta nota, "corrigia toda semana"). É a única das quatro que não traz nada novo.'
+    correcao: '"O tempo que você economiza sem publicar não some da agenda. Uma parte volta em atendimento, corrigindo o que a internet ensinou no seu lugar; outra nem volta, porque quem desistiu não marcou consulta." (A segunda metade conecta a nota ao achado mais original do capítulo.)'
+  - criterio: concretude
+    trecho: "Foram três sessões dedicadas a desmontar a culpa por ter “falhado” num protocolo antes de conseguir falar do que realmente importava."
+    por_que: 'Uma psicóloga de ansiedade leria a frase como ingênua. A autocrítica ("o problema era ela") é material clínico central da ansiedade, não um obstáculo antes do "que importava". A frase dá a entender que as três sessões foram perdidas, o que desautoriza a própria Lúcia como clínica. O dano do vídeo é o atraso e a culpa, não o fato de a culpa ser trabalhada.'
+    correcao: '"Foram três sessões até a culpa por ter “falhado” num protocolo dar lugar a outra pergunta: não por que o método não funcionou, mas como aquela ansiedade funcionava nela." Depois, cortar a última oração do parágrafo, que ficaria repetida ("quando o trabalho clínico começa…").'
+  - criterio: clareza
+    trecho: "Lúcia lembrou de um texto assim, escrito por uma professora da formação"
+    por_que: '"Um texto assim" ficou sem referente. Na r1, a frase anterior era "Um texto que corrige uma crença com cuidado…"; ela foi cortada e o "assim" passou a apontar para "julgando a vaidade". O leitor não sabe que tipo de texto é.'
+    correcao: 'Ver a correção de honestidade acima, ou: "Lúcia lembrou de um texto de uma professora da formação que corrigia, com cuidado, uma crença comum sobre terapia; circulou entre os colegas mais críticos…"'
+  - criterio: clareza
+    trecho: "Olhar para ela sem desprezo mostra que a disputa pelo espaço tem regras simples"
+    por_que: '"Ela" retoma "a mulher do protocolo", dois parágrafos antes. O parágrafo imediatamente anterior fala do "especialista" e do "ocupante do espaço", ambos masculinos, e o pronome fica solto.'
+    correcao: '"Olhar para a mulher do vídeo sem desprezo mostra que a disputa pelo espaço tem regras simples: ganha quem aparece."'
+  - criterio: aplicabilidade
+    trecho: "“A pergunta certa não é se clareia, é qual concentração para qual sensibilidade, e isso se avalia assim.”"
+    por_que: 'O exemplo do campo 04, o mais difícil da oficina, termina em "assim" e não entrega o critério. É exatamente o que a seção seguinte manda evitar ("Correção sem critério vira bronca"). O leitor que copia o modelo aprende a parar na promessa da régua. No PWA, "isso se mede assim" era gancho de tela; no papel ficou oco.'
+    correcao: 'Dar a régua inteira, em linguagem de paciente: "“A pergunta certa não é se clareia. É se o seu dente já reage a gelado: se reage, a concentração começa baixa e o tempo é menor.”" (Conferir com um dentista antes de fechar.)'
+  - criterio: aplicabilidade
+    trecho: "O rascunho tem as quatro partes do esqueleto."
+    por_que: 'Os campos 01 a 04 da oficina já são as quatro partes do esqueleto (equívoco, origem, o que você vê hoje, critério). Na p023 o leitor recebe o mesmo esqueleto com linhas para "rascunhe aqui" e escreve a mesma peça pela segunda vez. O checklist não diz qual rascunho vale. São 30 minutos da oficina mais uma repetição que ninguém anunciou.'
+    correcao: 'Dar ao esqueleto da rede uma função nova: "Passe a limpo, em frases de quem lê, o que você anotou nos campos 01 a 04." Reduzir as linhas para 2 por parte. No checklist: "O rascunho passado a limpo tem as quatro partes (campos 01 a 04 e esqueleto)."'
+  - criterio: aplicabilidade
+    trecho: "É respondida por outra pessoa."
+    por_que: 'Na Q1, a correta tem 5 palavras; as outras têm de 9 a 10. A lição cap01-r1 pede opções de comprimento parecido, e aqui a brevidade entrega a resposta. Na Q2 acontece o inverso: os distratores foram esticados com enchimento visível ("ao longo da semana", "das peças", "publicados").'
+    correcao: 'Q1 b: "É respondida por outra pessoa, com o preparo que ela tiver." Q2: enxugar os distratores ("A frequência com que cada um publica."; "A qualidade da imagem e do som."; "O tamanho dos textos e dos vídeos.") e a correta ("Quem é o assunto: você ou o problema de quem lê.") fica no mesmo porte.'
+  - criterio: ritmo
+    trecho: "Antes de escrever a primeira linha, porém, releu o que o código de ética da profissão diz sobre publicidade."
+    por_que: 'A seção "A pergunta que decide" virou depósito: pergunta, café, código de ética, figura da balança, lista de crenças e escolha da primeira peça. A lição cap01-r2 manda a seção não cobrir assuntos que o intertítulo não cobre. A balança ("O que pesa de verdade na decisão") cai depois do parágrafo de ética, longe da comparação das duas perguntas, que é o que ela ilustra.'
+    correcao: 'Pôr a figura logo depois de "A segunda põe no centro quem está do outro lado…". Levar o parágrafo da ética para depois do café, com a transição curta que já existe. Se couber, abrir um intertítulo curto antes de "Lúcia não publicou nada naquela semana" ("Trinta e uma linhas"), o que também separa a cena final da discussão.'
+  - criterio: ritmo
+    trecho: "Troque a pergunta “quero aparecer?” por “quem eu aceito que fale no meu lugar?”."
+    por_que: 'A pergunta-chave do capítulo aparece em três formulações: na prosa ("quem eu aceito que explique o meu trabalho para as pessoas que ainda não me conhecem?"), no Para guardar ("quem eu aceito que fale no meu lugar?") e na Q4 ("Quem eu aceito que explique o meu trabalho a quem não me conhece?"). A lição cap03-r1 pede a regra idêntica em todos os lugares. O leitor que decorou a do Guardar pode hesitar na Q4.'
+    correcao: 'Fixar uma forma curta e usá-la nos três lugares: "Quem eu aceito que explique o meu trabalho a quem ainda não me conhece?"'
+edicoes_de_linha:
+  - 'Foi uma colega do grupo de estudos quem fez a Lúcia essa segunda pergunta -> quem fez à Lúcia essa segunda pergunta (o texto usa artigo antes do nome em todo o capítulo: "da Lúcia", "na sala da Lúcia").'
+  - 'temia que publicar fosse abrir uma janela nessa parede -> "nessa parede" não tem antecedente (a frase anterior fala em "porta fechada"). Sugestão: "temia que publicar fosse abrir uma janela nas paredes do consultório."'
+  - 'Mesmo assim, se surpreendeu com o tempo que levou para desfazer aquela. -> Mesmo assim, surpreendeu-se com o tempo que levou para desfazer aquela. (ou manter a próclise, se for a convenção do livro, mas decidir).'
+  - 'Uma veterinária de Belo Horizonte ouve toda semana que gato de apartamento não precisa de vacina, porque não sai de casa. -> "…ouve toda semana que gato de apartamento não precisa de vacina porque não sai de casa." (sem vírgula; a causa faz parte da crença, não do narrador).'
+  - 'Enquanto isso, o vídeo que ensinou o contrário continua sendo visto por milhares. -> Enquanto isso, a crença continua circulando, e ninguém da profissão dela a corrige em público. (nada no texto diz que essa crença veio de um vídeo; além disso, é a imagem que já pesa no cap. 1).'
+  - 'Campo 03, exemplo: "…O esmalte continua lá.” O que está no manual o seu cliente também encontra." -> separar a instrução do exemplo, em linha própria, porque na p021 ela sai no mesmo cinza itálico e parece fala do dentista.'
+  - 'Epígrafe: "Enquanto você não explica o seu mercado" -> "Enquanto você não explica a sua área" (o livro inteiro insiste em "área"; "explicar o mercado" soa como falar de marketing e flerta com a regra de ouro).'
+  - 'Q4, explicação: "A primeira pergunta mede desejo, e por isso trava. A segunda mede consequência…" -> "“Quero aparecer?” mede desejo, e por isso trava. “Quem eu aceito que explique…?” mede consequência, e por isso decide." (no gabarito, "a primeira" pode ser lida como a opção a).'
+  - 'ESTADO.yaml › figurantes: registrar farmacêutica (cap. 2, campo 05) e corretor de seguros (cap. 2, campo 01). O cap. 5 também usa uma farmacêutica no faça-assim; conferir a repetição de profissão entre capítulos vizinhos.'
+diagramacao:
+  - 'p019: cerca de 75% da página em branco. O "Para guardar" ficou sozinho porque a oficina abre página nova, e a p018 tem uns 22% livres no pé. Reduzir a altura da balança em cerca de 20% (já sugerido na r1) ou permitir que o bloco guardar suba para a p018. A oficina passa a abrir na p019 e o capítulo cai para 14 páginas.'
+  - 'p022: cerca de 45% em branco depois das três regras, porque o esqueleto (que não pode quebrar) foi inteiro para a p023. Inverter a ordem no bloco rede, com Faça assim / Evite logo depois das regras e o esqueleto por último, preenche a p022 sem quebrar campo de escrita.'
+  - 'p022: o "Confira antes de seguir" da oficina abre a página da rede, acima do fio grosso de "Do caderno para a rede". Pertence à oficina e deveria fechar a p021, que tem espaço (os campos 05 e 06 são curtos). Hoje o leitor pode tomá-lo como parte da rede.'
+  - 'p018: rótulo "O custo de outro explicar por / você" continua com "você" sozinho na segunda linha (apontado na r1, não resolvido). Alargar a caixa do rótulo ou quebrar antes de "explicar".'
+  - 'p019: hifenização dentro de citação curta, "lu-/gar?”." no Para guardar 3 (apontado na r1, não resolvido). Aplicar hyphens: manual em trechos entre aspas.'
+  - 'p020: cerca de 30% em branco no pé, porque o campo 03 (5 linhas) não coube. É aceitável pela regra de campo inteiro; se a sobra da p022 for resolvida, dá para dar mais uma linha ao campo 02 e ocupar parte do espaço.'
+  - 'p015: no cabeçalho da tabela 2.1, "O MERCADO LÊ / COMO…" quebra em duas linhas e desalinha a base das três colunas. Alargar a coluna 2 alguns milímetros ou abreviar para "O MERCADO LÊ…".'
+  - 'Extensão: 15 páginas (p011 a p025), dentro do alvo de 14 a 16. Com as correções das p019 e p022, o capítulo fecha em 14 sem cortar texto.'
+veredito: "Reprovado na r2 (média estimada 8,7): quase tudo o que a r1 apontou foi resolvido e a abertura é excelente, mas ficaram duas contradições internas (a pergunta que Lúcia 'não soube responder' e a peça que ela escolhe, que discorda do gabarito), generalizações sem fonte que a lição cap02-r1 veda, um exemplo de critério que não entrega a régua e duas páginas quase vazias. Uma passada de linha curta leva o capítulo acima de 9."

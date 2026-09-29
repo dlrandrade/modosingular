@@ -1,0 +1,303 @@
+{
+ "n": 12,
+ "fase": 2,
+ "tema": "A sua linguagem criativa",
+ "subtitulo": "A síntese: modo + ritmo + repertório + posição + léxico",
+ "frase": "Singularidade não é inventada. É revelada.",
+ "conceito": {
+  "termo": "Linguagem criativa",
+  "definicao": "A combinação específica entre o seu modo de pensar, o seu ritmo sustentável, o seu repertório, as suas posições e o seu léxico. É a configuração em que você é mais potente — e a única que você consegue sustentar por anos.",
+  "porqueImporta": "Porque a partir daqui você para de perguntar 'o que funciona no Instagram?' e passa a perguntar 'o que funciona para mim sem que eu precise violentar quem eu sou?'."
+ },
+ "ilustracao": {
+  "motivo": "chave",
+  "legenda": "Cinco elementos numa única combinação. É isso que destrava o resto."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Este capítulo não traz nada novo. Ele junta."
+  },
+  {
+   "t": "p",
+   "text": "Nos últimos cinco dias você descobriu cinco coisas sobre si mesmo. Isoladas, cada uma é uma observação interessante. Combinadas, elas formam uma configuração — e é a configuração que resolve o problema da constância."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "orbita",
+    "titulo": "Os cinco elementos da sua linguagem criativa",
+    "centro": "Sua linguagem",
+    "satelites": [
+     "Modo",
+     "Ritmo",
+     "Repertório",
+     "Posição",
+     "Léxico"
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Por que a combinação importa mais que as partes"
+  },
+  {
+   "t": "p",
+   "text": "Duas pessoas podem ter o mesmo modo oral e ainda assim produzir presenças completamente diferentes — porque uma tem repertório clínico e a outra tem repertório de gestão, uma tem posição incisiva e a outra tem posição acolhedora, uma fala em frases curtas e a outra ramifica."
+  },
+  {
+   "t": "p",
+   "text": "É a combinação que é irrepetível. E é por isso que copiar um criador que você admira nunca funciona: você pode copiar o formato dele, mas não a configuração que faz aquele formato ser barato para ele."
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A pergunta que muda tudo",
+   "texto": "Em vez de 'o que funciona no Instagram?', a pergunta passa a ser: 'o que pode funcionar para esta pessoa sem que ela precise violentar sua personalidade, sua rotina e sua maneira natural de se expressar?'"
+  },
+  {
+   "t": "h",
+   "text": "O seu enunciado de linguagem criativa"
+  },
+  {
+   "t": "p",
+   "text": "Tudo que você descobriu cabe em uma frase estruturada. Não é um slogan — é um instrumento de decisão. Toda vez que você tiver dúvida sobre um formato, uma pauta ou um convite, essa frase responde."
+  },
+  {
+   "t": "def",
+   "termo": "A estrutura do enunciado",
+   "texto": "Eu penso [MODO]. Consigo sustentar [RITMO]. O que só eu tenho é [REPERTÓRIO]. Eu defendo [POSIÇÃO], mesmo custando [CUSTO]. E eu falo [LÉXICO]."
+  },
+  {
+   "t": "example",
+   "titulo": "Um enunciado preenchido",
+   "ruim": "'Sou dentista especialista em estética, apaixonado por transformar sorrisos e levar autoestima às pessoas.'",
+   "bom": "'Eu penso falando — travo escrevendo e fluo explicando. Consigo sustentar duas peças por semana, terça e quinta, mesmo em novembro. O que só eu tenho são doze anos de casos de reabilitação que outros desistiram, e um padrão que virou minha primeira pergunta. Eu defendo que estética sem função é armadilha, mesmo perdendo o cliente que só quer o resultado rápido. E eu falo em frases curtas, com analogia de obra e mecânica.'",
+   "porque": "O primeiro é uma bio. Serve para preencher um campo. O segundo é um instrumento: com ele, você decide sozinho se aceita um convite, se um formato serve, se uma pauta é sua."
+  },
+  {
+   "t": "h",
+   "text": "Como usar o enunciado nos próximos 18 dias"
+  },
+  {
+   "t": "checklist",
+   "titulo": "O enunciado responde a estas perguntas",
+   "items": [
+    "Este formato respeita o meu modo? Se não, como eu capturo no meu modo e só publico nele?",
+    "Esta frequência cabe no meu pior mês? Se não, é uma dívida.",
+    "Esta pauta usa o meu repertório ou é informação pública com design?",
+    "Esta peça tem posição, ou é uma constatação que ninguém pode discordar?",
+    "Este texto soa como eu falo, ou como o mercado escreve?"
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "Onde deixar isso",
+   "texto": "Fixe o enunciado onde você produz. Não é decoração: é a régua. Quase toda peça ruim que você vai produzir nos próximos meses vai violar uma dessas cinco linhas — e você vai conseguir dizer qual."
+  },
+  {
+   "t": "quote",
+   "text": "Você não procura a linguagem que performa melhor em abstrato. Procura a linguagem na qual aquela pessoa consegue ser potente.",
+   "fonte": "Dossiê — A verdade central do seu negócio"
+  }
+ ],
+ "insights": [
+  "É a combinação dos cinco elementos que é irrepetível — por isso copiar um criador nunca funciona, mesmo copiando o formato certo.",
+  "O enunciado não é um slogan. É um instrumento de decisão: ele responde por você sobre formato, pauta e convite.",
+  "Quase toda peça ruim que você produzir vai violar uma das cinco linhas do enunciado — e agora você sabe dizer qual."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Preenchi as cinco partes do enunciado",
+   "ajuda": "Nenhuma parte ficou genérica.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Meu enunciado não caberia em um colega meu",
+   "ajuda": "Testei: trocando meu nome, alguém perceberia.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Usei o enunciado para tomar uma decisão real",
+   "ajuda": "Rejeitei ou aceitei um formato/pauta com base nele.",
+   "peso": 2
+  },
+  {
+   "id": "c4",
+   "rotulo": "Deixei o enunciado visível onde produzo",
+   "ajuda": "Fixado, não guardado.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que copiar um criador que você admira raramente funciona?",
+   "opcoes": [
+    "Porque o algoritmo penaliza conteúdo parecido.",
+    "Porque você copia o formato, mas não a configuração que torna aquele formato barato para ele.",
+    "Porque é antiético.",
+    "Porque o público percebe imediatamente."
+   ],
+   "correta": 1,
+   "explicacao": "O formato é a parte visível. O que sustenta o formato é a combinação de modo, ritmo, repertório, posição e léxico — e essa combinação é dele."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Para que serve o enunciado de linguagem criativa?",
+   "opcoes": [
+    "Para usar como bio do perfil.",
+    "Como instrumento de decisão sobre formato, pauta e convites.",
+    "Para enviar a agências como briefing de campanha.",
+    "Para definir a identidade visual."
+   ],
+   "correta": 1,
+   "explicacao": "É uma régua, não um slogan. A diferença entre uma bio e um enunciado é que a bio descreve e o enunciado decide."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual pergunta substitui 'o que funciona no Instagram?'",
+   "opcoes": [
+    "Qual formato tem mais alcance neste mês?",
+    "O que pode funcionar para mim sem que eu precise violentar minha personalidade, rotina e forma de me expressar?",
+    "Quantos seguidores eu preciso ter?",
+    "Qual horário é o melhor para publicar?"
+   ],
+   "correta": 1,
+   "explicacao": "A primeira pergunta transforma todo mundo em imitador das mesmas fórmulas. A segunda reconhece que quem comunica também faz parte da estratégia."
+  },
+  {
+   "id": "q4",
+   "pergunta": "O que torna a sua linguagem criativa irrepetível?",
+   "opcoes": [
+    "O seu modo de pensar, que é raro.",
+    "O seu repertório, que ninguém tem.",
+    "A combinação específica dos cinco elementos, não cada um isolado.",
+    "A frequência de publicação escolhida."
+   ],
+   "correta": 2,
+   "explicacao": "Outra pessoa pode ter o mesmo modo, ou ritmo parecido. A chance de coincidirem os cinco é o que torna a configuração sua."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O seu enunciado de linguagem criativa",
+  "objetivo": "Consolidar seis dias de descoberta em uma única ferramenta de decisão que vai governar os próximos 18 capítulos.",
+  "tempoMin": 35,
+  "entrega": "O enunciado completo, nas cinco partes, testado contra o critério do colega.",
+  "formatoSugerido": [
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "modo",
+    "rotulo": "Eu penso…",
+    "placeholder": "…falando / escrevendo / respondendo / contando. E o que isso significa na prática para mim.",
+    "linhas": 2
+   },
+   {
+    "id": "ritmo",
+    "rotulo": "Consigo sustentar…",
+    "placeholder": "Frequência + dia + hora. O número que sobrevive ao pior mês.",
+    "linhas": 2
+   },
+   {
+    "id": "repertorio",
+    "rotulo": "O que só eu tenho é…",
+    "placeholder": "Padrão, exceção ou critério que vem do seu volume de prática.",
+    "linhas": 3
+   },
+   {
+    "id": "posicao",
+    "rotulo": "Eu defendo… mesmo custando…",
+    "placeholder": "Uma posição e o preço que ela cobra.",
+    "linhas": 3
+   },
+   {
+    "id": "lexico",
+    "rotulo": "E eu falo…",
+    "placeholder": "Estrutura de frase + campo de analogia + ponto de entrada.",
+    "linhas": 2
+   },
+   {
+    "id": "teste",
+    "rotulo": "Teste do colega: isso caberia em outro profissional da minha área?",
+    "placeholder": "Se caberia, volte e especifique mais. Onde ficou genérico?",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "As cinco partes estão preenchidas com especificidade, sem adjetivo vazio.",
+   "O enunciado não caberia em um colega da sua área.",
+   "Você conseguiria usar ele hoje para decidir se aceita um convite de podcast."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para publicar a sua tese",
+  "regras": [
+   {
+    "regra": "Publique a posição, guarde o enunciado",
+    "porque": "O enunciado é ferramenta interna. O que vai para fora é o que ele produz, não ele mesmo."
+   },
+   {
+    "regra": "Anuncie o que você vai fazer, não o que você é",
+    "porque": "'Vou publicar toda terça sobre X' cria expectativa verificável. 'Sou especialista apaixonado' não cria nada."
+   },
+   {
+    "regra": "Use o enunciado como filtro antes de cada peça",
+    "porque": "Cinco perguntas, dez segundos. É o controle de qualidade mais barato que existe."
+   }
+  ],
+  "facaAssim": [
+   "Publicar a posição da parte 4 como conteúdo autônomo.",
+   "Anunciar a frequência da parte 2 publicamente.",
+   "Usar o léxico da parte 5 em toda peça, sem exceção."
+  ],
+  "eviteAssim": [
+   "Transformar o enunciado em bio ou post — é ferramenta, não peça.",
+   "Revisar o enunciado toda semana. Ele foi feito para durar meses.",
+   "Adotar o enunciado de outra pessoa como modelo de preenchimento."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Antes de produzir",
+    "texto": "Passar as cinco perguntas do checklist. Se violar uma, ajustar a pauta."
+   },
+   {
+    "rotulo": "Durante",
+    "texto": "Capturar no modo da parte 1, sem exceção."
+   },
+   {
+    "rotulo": "Depois",
+    "texto": "Ler em voz alta e checar contra o léxico da parte 5."
+   },
+   {
+    "rotulo": "Semanalmente",
+    "texto": "Conferir se o ritmo da parte 2 foi cumprido — e, se não, qual etapa travou."
+   }
+  ]
+ },
+ "roteiro": "Tem três coisas que eu defendo, e tudo que eu faço parte delas.\n\nA primeira: {posição 1}.\nA segunda: {posição 2}.\nA terceira: {posição 3}.\n\nNão é opinião solta. Depois de {tempo} de prática, foi isso que eu vi separar quem resolve de quem só remedia.\n\nSe você discorda de alguma, vale conversar. Mas é daqui que eu parto.",
+ "estrutura": [
+  {
+   "rotulo": "As três coisas",
+   "texto": "As posições centrais que organizam tudo que você faz."
+  },
+  {
+   "rotulo": "A evidência",
+   "texto": "O que na sua prática levou você a cada uma delas."
+  },
+  {
+   "rotulo": "Quem elas excluem",
+   "texto": "O tipo de expectativa que essas posições não atendem."
+  },
+  {
+   "rotulo": "O convite",
+   "texto": "'É daqui que eu parto.' Sem pedir nada."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+[
+ {
+  "n": 1,
+  "nome": "O Diagnóstico",
+  "promessa": "Entender por que sua presença digital não representa a autoridade que você já tem.",
+  "capitulos": [
+   1,
+   6
+  ]
+ },
+ {
+  "n": 2,
+  "nome": "A Descoberta",
+  "promessa": "Encontrar a sua linguagem criativa — o modo em que você é mais potente.",
+  "capitulos": [
+   7,
+   12
+  ]
+ },
+ {
+  "n": 3,
+  "nome": "A Tradução",
+  "promessa": "Converter experiência vivida em conteúdo publicável, sem virar personagem.",
+  "capitulos": [
+   13,
+   18
+  ]
+ },
+ {
+  "n": 4,
+  "nome": "O Sistema",
+  "promessa": "Incorporar a criação à rotina para que ela pare de depender de inspiração.",
+  "capitulos": [
+   19,
+   24
+  ]
+ },
+ {
+  "n": 5,
+  "nome": "O Território",
+  "promessa": "Transformar presença em ativo de prospecção e ocupar o espaço que é seu.",
+  "capitulos": [
+   25,
+   30
+  ]
+ }
+]

@@ -1,0 +1,347 @@
+{
+ "n": 4,
+ "fase": 1,
+ "tema": "A terceirização da voz",
+ "subtitulo": "Nenhum briefing produz o que você ainda não descobriu",
+ "frase": "A voz não deveria ser terceirizada antes de ser descoberta.",
+ "conceito": {
+  "termo": "Terceirização prematura",
+  "definicao": "Entregar a produção da própria presença digital a um terceiro antes de ter identificado a própria linguagem — o que transforma conhecimento vivo em comunicação institucional, correta e emocionalmente anônima.",
+  "porqueImporta": "Porque o problema não é a agência. É a ordem. Executar antes de descobrir produz um perfil que poderia pertencer a qualquer profissional do mesmo setor."
+ },
+ "ilustracao": {
+  "motivo": "impressao-digital",
+  "legenda": "Existe uma matéria-prima que só pode nascer de você. Nenhum briefing a substitui."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "A história é quase sempre a mesma, e você provavelmente já viveu alguma versão dela."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "A decisão",
+     "texto": "Você reconhece que precisa estar na internet e conclui, com razão, que não tem tempo de fazer isso sozinho."
+    },
+    {
+     "titulo": "A contratação",
+     "texto": "Contrata uma agência ou um social media. Faz uma reunião de briefing de uma hora. Responde perguntas sobre público, tom e objetivo."
+    },
+    {
+     "titulo": "A entrega",
+     "texto": "Chegam quinze posts por mês, bem diagramados, gramaticalmente corretos, tecnicamente defensáveis. E completamente intercambiáveis."
+    },
+    {
+     "titulo": "O incômodo",
+     "texto": "Você aprova tudo porque não está errado. Mas não se reconhece ali. É o seu nome dizendo coisas que você nunca diria daquele jeito."
+    },
+    {
+     "titulo": "A conclusão errada",
+     "texto": "Depois de alguns meses sem resultado proporcional, você conclui que 'Instagram não funciona para mim'. Mas o Instagram nunca foi realmente seu."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "O erro não é terceirizar. É a ordem.",
+   "texto": "A agência pode executar, organizar e amplificar. Mas existe uma matéria-prima que só pode nascer do próprio especialista. Se você não conhece a sua própria linguagem, não há briefing capaz de produzir presença singular de forma consistente."
+  },
+  {
+   "t": "h",
+   "text": "O que se perde na tradução"
+  },
+  {
+   "t": "p",
+   "text": "Quando alguém escreve por você, essa pessoa precisa preencher lacunas. E ela preenche com o que conhece: as melhores práticas do mercado, os formatos que funcionaram para outros clientes, o vocabulário médio da sua área."
+  },
+  {
+   "t": "p",
+   "text": "O resultado é correto. E correto é exatamente o problema. Porque a informação da sua área é, em grande medida, pública. Dois dentistas podem responder à mesma pergunta com a mesma informação. O que muda é o modo."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "gap",
+    "titulo": "O que sobrevive à terceirização prematura",
+    "a": {
+     "rotulo": "Informação técnica",
+     "valor": 90,
+     "nota": "Isso qualquer um consegue pesquisar e escrever."
+    },
+    "b": {
+     "rotulo": "Modo próprio de pensar o problema",
+     "valor": 15,
+     "nota": "Isso só existe se você tiver revelado antes."
+    },
+    "legenda": "A agência entrega bem o que é transferível. O que te diferencia é justamente a parte que não transfere."
+   }
+  },
+  {
+   "t": "h",
+   "text": "Os quatro sinais de que a sua voz foi terceirizada cedo demais"
+  },
+  {
+   "t": "list",
+   "ordered": true,
+   "items": [
+    "Você lê o post e pensa 'está certo', mas nunca 'é isso mesmo que eu penso'.",
+    "Trocando o seu nome pelo de um colega, ninguém perceberia.",
+    "Você aprova por não ter objeção, não por concordar com entusiasmo.",
+    "Quando alguém comenta discordando, você não sabe defender o que foi publicado."
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O quarto sinal é o mais grave",
+   "texto": "Se você não consegue defender no comentário aquilo que foi publicado no seu nome, a peça não é sua. E o dia em que ela funcionar, ela vai atrair pessoas que esperam alguém que você não é."
+  },
+  {
+   "t": "h",
+   "text": "A ordem que funciona"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "Terceirização na ordem certa",
+    "nos": [
+     {
+      "rotulo": "Você descobre a sua linguagem",
+      "nota": "Fases 2 e 3 deste método. Não delegável."
+     },
+     {
+      "rotulo": "Você produz a matéria-prima bruta",
+      "nota": "Áudio de 3 minutos, nota de voz, rascunho torto. Também não delegável."
+     },
+     {
+      "rotulo": "O terceiro organiza e formata",
+      "nota": "Corta, diagrama, legenda, agenda. Totalmente delegável."
+     },
+     {
+      "rotulo": "Você revisa contra a sua voz",
+      "nota": "'Eu falaria assim?' — a única pergunta da revisão."
+     }
+    ],
+    "ciclico": true
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare que nessa ordem a agência não deixa de existir. Ela ganha uma função melhor: parar de inventar você e passar a amplificar você."
+  },
+  {
+   "t": "table",
+   "caption": "O que delegar e o que nunca delegar",
+   "head": [
+    "Etapa",
+    "Delegável?",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Ter a ideia / opinião",
+     "Nunca",
+     "É o único insumo que não existe fora de você"
+    ],
+    [
+     "Falar / rascunhar",
+     "Nunca",
+     "O modo é parte do conteúdo, não da embalagem"
+    ],
+    [
+     "Estruturar e cortar",
+     "Sim",
+     "Habilidade técnica, aprendível e contratável"
+    ],
+    [
+     "Diagramar / editar",
+     "Sim",
+     "Puro acabamento"
+    ],
+    [
+     "Agendar e publicar",
+     "Sim",
+     "Operação"
+    ],
+    [
+     "Responder comentários",
+     "Parcial",
+     "Dúvidas técnicas voltam para você; logística, não"
+    ]
+   ]
+  }
+ ],
+ "insights": [
+  "A agência entrega bem tudo que é transferível — e o que te diferencia é justamente a parte que não transfere.",
+  "Se você não consegue defender no comentário o que foi publicado no seu nome, aquela peça não é sua.",
+  "Terceirizar depois de descobrir a voz é alavancagem. Antes, é apagamento."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Auditei o meu conteúdo atual contra os quatro sinais",
+   "ajuda": "Passei pelos quatro sinais e sei quantos se aplicam a mim.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Separei o que é meu do que é delegável",
+   "ajuda": "Preenchi a tabela do que nunca delego com as minhas etapas reais.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Produzi matéria-prima bruta com a minha voz",
+   "ajuda": "Gravei o áudio de 3 minutos pedido na tarefa.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Segundo o capítulo, qual é o erro real na terceirização?",
+   "opcoes": [
+    "Contratar agência é sempre um erro.",
+    "A ordem: delegar a execução antes de ter descoberto a própria linguagem.",
+    "O preço cobrado pelas agências.",
+    "A falta de conhecimento técnico do social media."
+   ],
+   "correta": 1,
+   "explicacao": "O capítulo é explícito: a questão é anterior à agência. Executar antes de descobrir produz conteúdo correto e intercambiável."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é o sinal MAIS grave de voz terceirizada cedo demais?",
+   "opcoes": [
+    "Os posts terem poucos likes.",
+    "Não conseguir defender nos comentários aquilo que foi publicado no seu nome.",
+    "A agência demorar para entregar.",
+    "Ter que aprovar muitos posts por semana."
+   ],
+   "correta": 1,
+   "explicacao": "Porque significa que, se aquele conteúdo funcionar, ele vai atrair pessoas esperando alguém que você não é — criando um problema maior do que o silêncio."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Na ordem correta, qual etapa NUNCA deve ser delegada?",
+   "opcoes": [
+    "Diagramar o carrossel.",
+    "Agendar as publicações.",
+    "Falar ou rascunhar o conteúdo bruto.",
+    "Cortar o vídeo."
+   ],
+   "correta": 2,
+   "explicacao": "O modo como você diz é parte do conteúdo, não da embalagem. Estruturar, cortar, diagramar e agendar são delegáveis; falar não é."
+  }
+ ],
+ "tarefa": {
+  "titulo": "Três minutos de matéria-prima bruta",
+  "objetivo": "Produzir o insumo que ninguém pode produzir por você — e sentir a diferença entre a sua voz e a voz média do seu mercado.",
+  "tempoMin": 20,
+  "entrega": "Um áudio de até 3 minutos gravado por você, transcrito, com as marcas da sua fala preservadas.",
+  "formatoSugerido": [
+   "áudio",
+   "texto"
+  ],
+  "campos": [
+   {
+    "id": "tema",
+    "rotulo": "Sobre o que você vai falar por 3 minutos",
+    "placeholder": "Algo que você explicaria a um paciente/cliente hoje mesmo, sem preparo.",
+    "linhas": 2
+   },
+   {
+    "id": "transcricao",
+    "rotulo": "Transcrição do áudio (cole aqui, sem corrigir)",
+    "placeholder": "Grave no WhatsApp para si mesmo, transcreva e cole. NÃO limpe as repetições, os 'né', as pausas. Elas são dados.",
+    "linhas": 10
+   },
+   {
+    "id": "marcas",
+    "rotulo": "O que você notou na sua própria fala",
+    "placeholder": "Ex.: eu uso muita analogia. Eu começo pelo erro comum. Eu faço perguntas antes de responder.",
+    "linhas": 4
+   },
+   {
+    "id": "sinais",
+    "rotulo": "Quantos dos quatro sinais de terceirização se aplicam ao seu conteúdo atual?",
+    "placeholder": "Se você não terceiriza, responda pensando no conteúdo que você mesmo produz imitando outros.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A transcrição está bruta: com repetição, hesitação e vício de linguagem.",
+   "Você identificou pelo menos duas marcas recorrentes da sua fala.",
+   "Você não reescreveu o áudio para ficar 'apresentável'."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para trabalhar com terceiros sem se apagar",
+  "regras": [
+   {
+    "regra": "Entregue áudio, não briefing",
+    "porque": "Briefing transfere informação. Áudio transfere modo — que é o que a informação não carrega."
+   },
+   {
+    "regra": "Revise com uma pergunta só: 'eu falaria assim?'",
+    "porque": "Revisar por correção gramatical aprova conteúdo genérico. Revisar por voz não."
+   },
+   {
+    "regra": "Guarde para si a última frase",
+    "porque": "O fechamento é onde a opinião mora. Escreva você, sempre."
+   }
+  ],
+  "facaAssim": [
+   "Mandar 3 áudios por semana de 2 a 4 minutos como insumo, em vez de aprovar pautas.",
+   "Pedir que preservem suas expressões, mesmo as 'estranhas'.",
+   "Devolver com marcação: 'esta frase não é minha'."
+  ],
+  "eviteAssim": [
+   "Aprovar porque 'não está errado'.",
+   "Pedir referência de outro perfil como modelo a seguir.",
+   "Deixar o terceiro escolher a opinião do post."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Insumo",
+    "texto": "Áudio bruto de 2–4 min, gravado no intervalo entre atendimentos."
+   },
+   {
+    "rotulo": "Devolução esperada",
+    "texto": "Estrutura + corte + acabamento, com suas expressões intactas."
+   },
+   {
+    "rotulo": "Sua revisão",
+    "texto": "Uma passada só, procurando frases que você não diria."
+   },
+   {
+    "rotulo": "Seu ponto inegociável",
+    "texto": "A frase final e a opinião central."
+   }
+  ]
+ },
+ "roteiro": "Vou explicar isso exatamente do jeito que eu explico no atendimento. Sem roteiro, sem enfeite.\n\n{a explicação que você dá toda semana — fale, não leia de um texto formal}\n\nÉ isso. É assim que eu falo quando a pessoa está na minha frente.\n\nSe ficou claro, é porque essa explicação já foi testada em muita gente antes de você. Ela ficou desse tamanho por um motivo.",
+ "estrutura": [
+  {
+   "rotulo": "O assunto",
+   "texto": "O que você vai explicar, dito como você diria a um cliente."
+  },
+  {
+   "rotulo": "A explicação",
+   "texto": "Inteira, na ordem em que ela sai naturalmente de você."
+  },
+  {
+   "rotulo": "Onde travam",
+   "texto": "O ponto em que as pessoas costumam se perder — e o esclarecimento."
+  },
+  {
+   "rotulo": "O fecho curto",
+   "texto": "Como você encerra quando a pessoa entendeu."
+  }
+ ]
+}

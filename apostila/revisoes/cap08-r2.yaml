@@ -1,0 +1,69 @@
+capitulo: 8
+iteracao: 2
+notas: {metodo: 9.5, voz: 9.2, originalidade: 9.1, clareza: 9.3, ritmo: 9.2, concretude: 9.3,
+        coerencia: 8.7, aplicabilidade: 8.9, impresso: 9.2, honestidade: 9.2}
+bloqueadores: []
+pontos_fortes:
+  - "Quase tudo o que a r1 apontou foi resolvido, e bem. A linha do tempo com o cap. 7 fecha ('Desde julho… mais de vinte perguntas'). A batida da adesão virou o enquadre, um detalhe que só a psicologia tem e que prepara a 'terça às oito'. Renata tem conta própria (100 → 70 → 2). O Caio saiu do estoque de peças, o piso agora aparece marcado na Figura 8.2 e a tabela da Lúcia ganhou a linha 'Adiar'."
+  - "A virada 'o ritmo que sobrevivia ao pior mês era o que ela já mantinha desde julho, antes de mexer nele' é o melhor achado do capítulo. Transforma a conta em revelação sem moral nenhuma, e o leitor entende o conceito pela ironia do caso."
+  - "As 'duas moedas' ('Horas, que a agenda mostra, e energia, que a agenda esconde') seguem firmes. O dezembro da Lúcia tem detalhe clínico exato ('a ceia com a família que temiam encontrar… o luto que as festas reabrem') e combina com o padrão de março que o cap. 9 atribui a ela."
+  - "Aritmética limpa e honesta. As séries do esquema fecham (20; 39; 104), 3 × 20 = 60, 3 × 72 = 216, 120 × 0,7 ÷ 72 = 1,2 e '3, 1, 0' somam 'quatro'. Há ainda 'Trinta não é número mágico'. O 'Do caderno para a rede' respeita a regra de ouro com a ressalva ética correta."
+problemas:
+  - criterio: coerencia
+    trecho: "Contavam as manhãs de terça, antes do primeiro paciente, quando a cabeça ainda estava limpa, e uma hora na quinta, depois do almoço. Dava cento e vinte minutos por semana."
+    por_que: "Se a quinta tem uma hora e o total é 120, a manhã de terça tem 60 minutos. Mas a peça da Lúcia custa 72 minutos medidos, e é na terça às oito, 'antes do primeiro paciente', que ela decide fazê-la inteira. A conta da semana fecha, a do bloco não: a peça não cabe no único horário marcado para ela. É justamente o tipo de furo que o capítulo ensina a evitar (lição cap01-r1: contas de personagem fecham)."
+    correcao: "Dar à terça tamanho para a peça. Por exemplo: 'Contavam as manhãs de terça, das sete e meia às nove, antes do primeiro paciente, quando a cabeça ainda estava limpa, e meia hora na quinta, depois do almoço. Dava cento e vinte minutos por semana.' Depois, 'Lúcia escolheu a terça às sete e meia' e 'a terça das sete e meia' no fecho. Ou manter as oito e pôr o primeiro paciente às nove e meia."
+  - criterio: coerencia
+    trecho: "Lúcia respondia por áudio, como se a amiga estivesse na sala, e depois passava a resposta a limpo num texto curto. Eram mais de vinte perguntas e mais de vinte textos, um por semana, sem falhar nenhuma."
+    por_que: "O cap. 5 fecha a Fase I dizendo que Lúcia 'nunca começou, por receio de se expor', e o cap. 7 só mostra que ela passou a responder por áudio à pergunta da amiga. No cap. 8 ela já tem vinte textos publicados, e a estreia pública de uma personagem definida pelo medo da exposição acontece fora da página, sem uma palavra. Um leitor atento sente o salto, e o arco dela perde a batida mais cara que tinha."
+    correcao: "Uma frase no primeiro parágrafo basta, sem virar cena: 'Os primeiros saíram com um frio na barriga desproporcional a doze linhas; lá pelo quinto, publicar tinha virado parte da segunda-feira.' Assim o 'quem começava a gostar de publicar' do quarto parágrafo de 'A conta da Lúcia' ganha raiz."
+  - criterio: coerencia
+    trecho: "As da amiga ainda saíam, arrastadas; as que ela mesma escolhia na lista nem começavam."
+    por_que: "Contradiz o parágrafo anterior ('Na segunda, um. Na terceira, nenhum.') e o seguinte ('Dezembro tinha horas sobrando e nenhuma disposição'). Se as perguntas da amiga ainda saíam, a terceira semana teria ao menos uma peça."
+    correcao: "'As da amiga ainda saíram nas duas primeiras semanas, arrastadas; as que ela mesma escolhia na lista nem começavam.' No parágrafo seguinte: 'Dezembro tinha horas sobrando e pouca disposição.'"
+  - criterio: aplicabilidade
+    trecho: "Cronometre a próxima peça que fizer no seu modo (capítulo 7), por exemplo a do Do caderno para a rede deste capítulo."
+    por_que: "O tempo agora é honesto ('mais a peça que você cronometrar'), mas falta dizer a ordem. O campo 04 depende do custo medido no campo 01, e esse custo só existe depois da peça da seção seguinte. O leitor que preenche de cima para baixo trava no primeiro campo. Não sabe se deve pular para a p. 21, fazer a peça e voltar, nem o que dá para preencher antes."
+    correcao: "Pôr no objetivo ou no início do campo 01 uma linha de roteiro: 'Preencha agora a coluna “Eu imaginava” e os campos 02, 03 e 05. Depois faça, com relógio, a peça da seção “Do caderno para a rede” e volte para completar a coluna “Medi” e os campos 04 e 06.'"
+  - criterio: concretude
+    trecho: "ela poderia publicar o próprio áudio da resposta, com um parágrafo de apresentação, e o custo cairia pela metade."
+    por_que: "Pela tabela, tirar o 'Passar a limpo' (31 min) e somar um parágrafo de apresentação (uns 5 min) leva a peça de 72 para cerca de 46 minutos, uma queda de pouco mais de um terço. 'Pela metade' seria 36. No capítulo que ensina a desconfiar da conta de cabeça, a conta de cabeça do narrador não fecha."
+    correcao: "'…e o custo cairia para perto de quarenta e cinco minutos.'"
+  - criterio: honestidade
+    trecho: "Existe um piso abaixo do qual o ritmo deixa de acumular. Quem publica uma vez por mês é esquecido entre uma peça e outra, e cada texto é lido como se fosse o primeiro."
+    por_que: "A r1 pediu a ressalva antes da afirmação. A ressalva subiu, mas continua depois de duas frases que afirmam como fato como o público se comporta ('é esquecido', 'é lido como se fosse o primeiro'). O leitor já tomou isso por dado quando chega o 'Nenhuma pesquisa fixa esse piso'."
+    correcao: "Abrir pela ressalva e pôr o comportamento do público no condicional do critério: 'Nenhuma pesquisa fixa, para cada área, um piso abaixo do qual o ritmo deixa de acumular. A referência que este livro usa é uma peça por semana: abaixo disso, é fácil que quem lê esqueça o nome entre uma peça e a seguinte, e cada texto chegue como se fosse o primeiro.'"
+  - criterio: voz
+    trecho: "Lúcia conhecia o outro lado disso pelo enquadre: a terapia acontece toda semana, no mesmo dia e na mesma hora, porque quem trabalha é a regularidade"
+    por_que: "'O outro lado disso' é vago. O antecedente é o custo da volta, e o enquadre é o contrário, a regularidade que dispensa a volta. O leitor precisa reler. 'A terapia acontece toda semana' também generaliza: há terapias quinzenais, e o que o texto sabe é como Lúcia trabalha."
+    correcao: "'Lúcia conhecia o remédio pelo enquadre: no consultório dela, a sessão acontece toda semana, no mesmo dia e na mesma hora, porque quem trabalha é a regularidade, mais do que a intensidade de uma sessão.'"
+  - criterio: coerencia
+    trecho: "Com a cabeça da manhã, a pergunta escolhida por ela mesma saiu tão fácil quanto as da amiga. Foi a peça mais rápida desde novembro."
+    por_que: "Ela só cronometra desde janeiro (o cap. 13 confirma: 'cronometrava as peças desde janeiro'), então 'desde novembro' não tem medição por trás. 'Tão fácil quanto' e 'a mais rápida' também puxam em sentidos diferentes: se saiu igual às da amiga, não saiu mais rápido que elas."
+    correcao: "'…saiu tão fácil quanto as da amiga, e o relógio marcou menos de uma hora, pela primeira vez desde que ela começou a cronometrar.'"
+  - criterio: voz
+    trecho: "Quem publica uma vez por mês é esquecido entre uma peça e outra"
+    por_que: "'Entre uma peça e outra' aparece duas vezes no mesmo parágrafo ('reconhecer o nome entre uma peça e outra') e uma terceira no polo esquerdo da Figura 8.2 ('Esquecido entre uma peça e outra'). A repetição fica ainda mais visível porque o leitor passa do texto para a figura na mesma página."
+    correcao: "Manter a expressão só na figura. No texto, usar 'entre um texto e o seguinte' e, na frase da referência, 'o ritmo em que quem lê consegue guardar o nome de uma semana para a outra'."
+  - criterio: voz
+    trecho: "Um ritmo sem lugar fixo na semana compete com tudo o que aparece e perde quase sempre."
+    por_que: "Generalização empírica leve ('quase sempre'), no limite do que a lição cap01-r4 tolera, e dispensável: a cena seguinte já prova o ponto."
+    correcao: "'Um ritmo sem lugar fixo na semana compete com tudo o que aparece, e tudo o que aparece tem hora marcada.'"
+  - criterio: aplicabilidade
+    trecho: "O formato, que não combinava com ela."
+    por_que: "Na questão 2, quem acabou de ler o cap. 7 ('Para o dialógico, custa caro sempre que não há uma pergunta de partida') e a frase 'as que ela mesma escolhia na lista nem começavam' pode achar que o distrator b é parcialmente verdadeiro. O capítulo resolve a dúvida no fecho, mas a questão não deveria depender disso."
+    correcao: "Trocar por um distrator falso sem ambiguidade: 'O relógio, que ela ainda não sabia usar.' ou 'O número de pacientes, que dobrou no fim do ano.'"
+edicoes_de_linha:
+  - "por exemplo a do Do caderno para a rede deste capítulo. Preencha a coluna Eu imaginava antes de começar -> por exemplo a peça da seção “Do caderno para a rede” deste capítulo. Preencha a coluna “Eu imaginava” antes de começar"
+  - "Lúcia cronometrou a resposta de uma segunda-feira de janeiro -> Lúcia cronometrou a resposta à pergunta de uma segunda-feira de janeiro (ela responde na terça; 'a resposta de uma segunda' confunde o dia)"
+  - "Conte só os blocos com energia, e não os buracos da agenda. -> Conte só os blocos com energia; buraco na agenda não conta. (tira a antítese do exemplo)"
+  - "A cronometragem, por sua vez, precisa ser feita com relógio, e não corrigida depois. -> A cronometragem, por sua vez, já sai certa quando é feita com relógio. (idem, no gabarito)"
+  - "Um texto a mais escrito numa semana leve pode esperar na gaveta a semana em que não sobra meia hora -> Um texto a mais escrito numa semana leve pode esperar pronto a semana em que não sobra meia hora ('gaveta' já é do caderno na cena de abertura)"
+  - "Dezembro tinha horas sobrando e nenhuma disposição. -> Dezembro tinha horas sobrando e pouca disposição. (ver problema 3)"
+  - "Lúcia escolheu a terça às oito -> Lúcia escolheu a terça às sete e meia (ver problema 1; ajustar também 'a terça das oito' no parágrafo final)"
+diagramacao:
+  - "p022: continua com cerca de 20% de branco no pé antes do 'Roteiro de fala', que foi para a p023 (a r1 já tinha apontado). O esqueleto da p022 é indivisível, mas o roteiro não precisa começar na página seguinte. Pôr o bloco Faça/Evite depois do roteiro, ou deixar a nota do roteiro quebrar, recupera a página."
+  - "p014, Figura 8.1: a linha da unidade (' peças publicadas, acumuladas desde janeiro') segue recuada cerca de um caractere em relação ao título e ao rótulo 'FIGURA 8.1'. Parece um espaço inicial no campo ou um padding do SVG."
+  - "p013 e p016: cerca de 10% de branco no pé antes dos intertítulos 'O que fica depois de um ano' e 'O piso, o teto e o dia marcado', que descem com a figura. Melhorou em relação à r1 e é tolerável. Se o keep-with-next permitir, levar só o intertítulo e o primeiro parágrafo e deixar a figura no topo da página seguinte."
+  - "p019: no exemplo do campo 01, os nomes da seção e da coluna aparecem em itálico corrido, sem aspas nem versalete, e a frase se lê 'a do Do caderno para a rede'. Ver edição de linha."
+veredito: "Revisão muito bem feita, e o capítulo está a um passo da aprovação. Faltam costuras de enredo e de conta: a terça de 60 minutos que não cabe a peça de 72, a estreia pública da Lúcia fora da página, a contradição das perguntas da amiga em dezembro, a ordem de execução da oficina e o 'pela metade' que não fecha."

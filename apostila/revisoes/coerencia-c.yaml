@@ -1,0 +1,271 @@
+problemas:
+  - tipo: termo
+    gravidade: alta
+    trechos:
+      - {cap: 5, texto: "Linguagem, aqui, é o jeito como você transforma o que pensa em algo que outra pessoa recebe: falando, escrevendo, contando, respondendo."}
+      - {cap: 7, texto: "titulo: O teste da linguagem criativa"}
+      - {cap: 7, texto: "termo: Modo criativo"}
+      - {cap: 12, texto: "A combinação específica entre o seu modo de pensar, o seu ritmo sustentável, o seu repertório, as suas posições e o seu léxico."}
+    por_que: "\"Linguagem\" tem duas definições incompatíveis. No cap. 5 é o que o cap. 7 chama de modo (falando, escrevendo, contando, respondendo). No cap. 12, \"linguagem criativa\" é a combinação de cinco partes, das quais o modo é só uma. O autodiagnóstico do cap. 7, que mede apenas o modo (o próprio conceito do capítulo é \"Modo criativo\"), leva o título \"O teste da linguagem criativa\", que o cap. 12 reserva para outra coisa. É o termo que dá nome à Fase II inteira."
+    correcao: "cap07.md: trocar \"titulo: O teste da linguagem criativa\" por \"titulo: O teste do seu modo\". cap05.md: trocar \"Linguagem, aqui, é o jeito como você transforma\" por \"Linguagem, aqui, é só o modo, o jeito como você transforma\"."
+  - tipo: termo
+    gravidade: media
+    trechos:
+      - {cap: 11, texto: "a régua com que você revisa qualquer texto que leve o seu nome"}
+      - {cap: 12, texto: "titulo: As cinco perguntas da régua"}
+      - {cap: 12, texto: "## A régua"}
+      - {cap: 18, texto: "A régua que você usa para escolher entre duas opções defensáveis"}
+    por_que: "\"Régua\" designa quatro coisas em capítulos próximos: o manual de voz (cap. 11, \"a régua com que você revisa\"), as cinco perguntas do enunciado (cap. 12, seção e figura chamadas \"a régua\"), o critério de decisão do profissional (caps. 6, 18, 23, 26, 27, 29) e o critério que a peça entrega ao leitor (caps. 1, 2, 20). O leitor que chega ao cap. 18 já usou a palavra em três sentidos."
+    correcao: "cap12.md: trocar \"## A régua\" por \"## As cinco perguntas\", \"As cinco perguntas da régua\" por \"As cinco perguntas do enunciado\" e, nas demais ocorrências de \"régua\" do capítulo (figura em orbita, \"usou a régua\", \"Usou a régua para recusar/aceitar\", \"A régua funciona também ao contrário\", \"a régua que muda o tempo todo\", \"as cinco perguntas da régua. Dez segundos\", verificação), trocar por \"as cinco perguntas\". cap11.md: trocar \"a régua com que você revisa qualquer texto\" por \"o guia com que você revisa qualquer texto\" e \"As cinco regras são a régua para revisar\" por \"As cinco regras são o guia para revisar\"."
+  - tipo: termo
+    gravidade: media
+    trechos:
+      - {cap: 2, texto: "Como a pessoa decide sozinha da próxima vez."}
+      - {cap: 13, texto: "Entregar o critério que quem lê pode usar sozinho, mesmo sem nunca procurar você."}
+      - {cap: 18, texto: "a sua, a de quem decide, diferente do enunciado do capítulo 12"}
+      - {cap: 20, texto: "A régua que a pessoa leva. É a última frase."}
+    por_que: "\"Critério\" e \"régua\" são a regra que o leitor leva para casa nos caps. 1, 2, 6 (rede), 13, 15 e 20, e a regra pela qual o profissional decide no cap. 18 (conceito \"Critério\"). O cap. 18 diz que o critério é \"diferente do enunciado do capítulo 12\", mas a distinção que o leitor precisa é outra: entre o critério do profissional (o que ele publica no cap. 18) e o critério que a peça devolve a quem lê (caps. 13, 15 e 20)."
+    correcao: "cap18.md: trocar \"diferente do enunciado do capítulo 12\" por \"o seu, o de quem decide, e não o que a peça devolve a quem lê (capítulos 13 e 15)\"."
+  - tipo: termo
+    gravidade: media
+    trechos:
+      - {cap: 6, texto: "Capturar não é produzir."}
+      - {cap: 7, texto: "Capture sempre no seu modo. Publique no formato que fizer sentido."}
+      - {cap: 7, texto: "Gravar quatro minutos de áudio explicando o assunto"}
+      - {cap: 19, texto: "O registro da matéria-prima no instante em que ela aparece, sem julgar, sem estruturar e sem decidir o que virá dela."}
+    por_que: "No cap. 6 e no cap. 19 captura é o registro cru de vinte segundos, e \"capturar não é produzir\". No cap. 7 \"capturar no seu modo\" é dar a primeira forma à ideia (áudio de três ou quatro minutos) e o exemplo da oficina fala em \"captura em áudio de três minutos\". O que o cap. 7 chama de captura é, no cap. 19, produção."
+    correcao: "cap07.md: trocar \"O modo define onde você captura, isto é, a forma em que o pensamento nasce.\" por \"O modo define onde você captura, isto é, a forma em que o pensamento nasce (aqui, capturar é dar a primeira forma à ideia, num áudio de quatro minutos ou numa folha à mão; a captura de vinte segundos dos capítulos 6 e 19 é só o registro da matéria-prima).\""
+  - tipo: termo
+    gravidade: media
+    trechos:
+      - {cap: 11, texto: "Um léxico tem quatro partes: palavras-âncora, campo das comparações, estrutura de frase e ponto de entrada."}
+      - {cap: 12, texto: "E eu falo [léxico: frase, comparação e ponto de entrada]."}
+      - {cap: 12, texto: "Estrutura de frase, campo das comparações e ponto de entrada (cap. 11)."}
+    por_que: "O cap. 11 define o léxico em quatro partes, e a primeira, palavras-âncora, é a que mais aparece nas fichas (\"alarme\", \"prova\", \"mentira\"). O molde do enunciado e o campo 05 da oficina do cap. 12 listam só três e omitem as palavras-âncora, embora a tabela do próprio capítulo as use."
+    correcao: "cap12.md: trocar \"E eu falo [léxico: frase, comparação e ponto de entrada].\" por \"E eu falo [léxico: palavras-âncora, comparação, frase e ponto de entrada].\" e \"Estrutura de frase, campo das comparações e ponto de entrada (cap. 11).\" por \"Palavras-âncora, campo das comparações, estrutura de frase e ponto de entrada (cap. 11).\""
+  - tipo: termo
+    gravidade: media
+    trechos:
+      - {cap: 20, texto: "A menor peça que ainda carrega o seu repertório, nasce no seu modo e cabe no seu pior mês."}
+      - {cap: 29, texto: "a menor peça que você consegue publicar num dia impossível"}
+      - {cap: 30, texto: "conte a semana mínima como semana cumprida"}
+    por_que: "O cap. 20 define o formato mínimo viável como \"a menor peça\" do sistema; o cap. 29 define a peça mínima, outra coisa, com as mesmas palavras (\"a menor peça\"). O cap. 30 ainda a chama de \"semana mínima\". O leitor não tem como saber que formato-base e peça mínima são níveis diferentes."
+    correcao: "cap29.md: trocar \"a menor peça que você consegue publicar num dia impossível\" por \"uma peça ainda menor que o formato-base, a que você consegue publicar num dia impossível\". cap30.md: trocar \"conte a semana mínima como semana cumprida\" por \"conte a semana da peça mínima como semana cumprida\"."
+  - tipo: termo
+    gravidade: baixa
+    trechos:
+      - {cap: 14, texto: "titulo: O inventário de perguntas"}
+      - {cap: 25, texto: "titulo: O inventário do seu acervo"}
+      - {cap: 30, texto: "O inventário: o que ficou pronto e o que ficou em branco"}
+    por_que: "\"Inventário\" nomeia três listas distintas: das perguntas recorrentes (cap. 14, termo do método), do que já foi publicado por assunto (cap. 25) e do que ficou pronto no livro (cap. 30). O cap. 30 cita \"o inventário de perguntas do capítulo 14\" a poucas linhas de outro \"inventário\"."
+    correcao: "cap25.md: trocar \"titulo: O inventário do seu acervo\" por \"titulo: O levantamento do seu acervo\" (e o intertítulo \"## O inventário\" por \"## O levantamento\"). cap30.md: trocar \"O inventário: o que ficou pronto e o que ficou em branco\" por \"O balanço: o que ficou pronto e o que ficou em branco\"."
+  - tipo: termo
+    gravidade: baixa
+    trechos:
+      - {cap: 24, texto: "O manual e o corpus: a regra de ética"}
+      - {cap: 24, texto: "Dez peças suas, como amostra de voz."}
+    por_que: "\"Corpus\" aparece só na oficina e na entrega do cap. 24, sem definição; no texto do mesmo capítulo o mesmo conjunto se chama \"amostra de voz\". É termo novo, de linguística, num livro que evita jargão."
+    correcao: "cap24.md: trocar \"O manual e o corpus: a regra de ética\" por \"O manual e a amostra de voz: a regra de ética\" e \"o manual com o corpus\" por \"o manual com a amostra de voz\"."
+  - tipo: termo
+    gravidade: baixa
+    trechos:
+      - {cap: 4, texto: "| Revisar a versão final | Nunca | Só você sabe se falaria assim |"}
+      - {cap: 23, texto: "Ideia, opinião, fala e critério nunca passam a outras mãos."}
+      - {cap: 24, texto: "as quatro etapas do capítulo 23, ideia, opinião, fala e critério"}
+    por_que: "A lista do que nunca se delega muda entre capítulos. No cap. 4 inclui \"Revisar a versão final\"; nos caps. 23 e 24 são \"as quatro etapas\" (ideia, opinião, fala, critério) e a revisão fica fora da tabela, embora Renata e Otávio a mantenham com eles."
+    correcao: "cap23.md: acrescentar à tabela \"A linha que divide as etapas\" a linha \"| Revisar a versão final | Nunca | Só você sabe se falaria assim |\" depois de \"Decidir o critério\"."
+  - tipo: remissao
+    gravidade: media
+    trechos:
+      - {cap: "apendice-ia", texto: "Use só capturas já liberadas no calendário do capítulo 19"}
+      - {cap: 25, texto: "já liberada no calendário do capítulo 19"}
+      - {cap: 21, texto: "uma captura já liberada pela seleção do capítulo 19"}
+    por_que: "O cap. 19 não tem \"calendário\": o que libera uma captura é a seleção semanal, com a data em que ela pode sair (assim os caps. 21 e 26 a citam). \"Calendário\" é o nome do Apêndice D e da regra de deslocamento de datas do cap. 13."
+    correcao: "apendice-ia.md: trocar \"no calendário do capítulo 19\" por \"pela seleção do capítulo 19\". cap25.md: trocar \"já liberada no calendário do capítulo 19\" por \"já liberada pela seleção do capítulo 19\"."
+  - tipo: remissao
+    gravidade: baixa
+    trechos:
+      - {cap: 13, texto: "O seu caderno de cronometragem, do capítulo 8, mostra os seus."}
+      - {cap: 8, texto: "Cronometre uma peça real, etapa por etapa, e compare com o que você imaginava"}
+    por_que: "O cap. 8 pede a cronometragem numa grade da oficina; não existe \"caderno de cronometragem\", e \"caderno\" no livro é o caderno de campo."
+    correcao: "cap13.md: trocar \"O seu caderno de cronometragem, do capítulo 8, mostra os seus.\" por \"A sua cronometragem do capítulo 8 mostra os seus.\""
+  - tipo: remissao
+    gravidade: baixa
+    trechos:
+      - {cap: 12, texto: "A tabela tem quatro enunciados e espaço, ao lado, para mais um."}
+      - {cap: 12, texto: "| Parte | Renata | Otávio | Lúcia | Caio |"}
+    por_que: "O texto promete espaço para o quinto enunciado, o do leitor, mas a tabela tem apenas as colunas dos quatro personagens."
+    correcao: "cap12.md: trocar \"A tabela tem quatro enunciados e espaço, ao lado, para mais um.\" por \"A tabela tem quatro enunciados; o quinto é o seu, e vai na oficina.\""
+  - tipo: remissao
+    gravidade: baixa
+    trechos:
+      - {cap: 27, texto: "Os três primeiros degraus estão na figura; é o quarto que importa."}
+      - {cap: 27, texto: "- {rotulo: \"Procurado\", nota: \"A necessidade surge, e a escolha já está feita.\"}"}
+    por_que: "A figura traz os cinco degraus, não os três primeiros; a frase remete a um recorte que a figura não faz."
+    correcao: "cap27.md: trocar \"Os três primeiros degraus estão na figura; é o quarto que importa.\" por \"Os três primeiros degraus dispensam explicação; é o quarto que importa.\""
+  - tipo: remissao
+    gravidade: baixa
+    trechos:
+      - {cap: 19, texto: "As outras três o capítulo 6 já deu: vinte segundos por captura, meio minuto no limite"}
+      - {cap: 6, texto: "entre um compromisso e outro, vinte segundos para uma frase crua"}
+    por_que: "O cap. 6 dá só os vinte segundos; o limite de meio minuto (e \"nem categoria, nem rascunho\") é novo no cap. 19, mas vem atribuído ao cap. 6."
+    correcao: "cap19.md: trocar \"vinte segundos por captura, meio minuto no limite, porque\" por \"vinte segundos por captura (o limite deste capítulo é meio minuto), porque\"."
+  - tipo: remissao
+    gravidade: media
+    trechos:
+      - {cap: 20, texto: "Não troque o formato-base antes de trinta repetições."}
+      - {cap: 20, texto: "A mesma matéria-prima em outra forma, depois das trinta repetições."}
+      - {cap: 30, texto: "Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme."}
+      - {cap: 30, texto: "como o capítulo 20 descreveu"}
+    por_que: "O cap. 20 põe a variação depois da trigésima repetição do formato-base. O plano do cap. 30 a admite do dia 61 ao 90, que a uma peça por semana são cerca de nove repetições, e cita o cap. 20 como fonte. As duas regras de espera (trinta repetições, trinta dias) não se conciliam."
+    correcao: "cap30.md: trocar \"Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme.\" por \"Do sexagésimo primeiro ao nonagésimo, uma variação, se o hábito estiver firme e o formato-base já tiver passado da trigésima repetição (capítulo 20).\""
+  - tipo: numero
+    gravidade: media
+    trechos:
+      - {cap: 6, texto: "o caderno do Otávio tinha onze linhas"}
+      - {cap: 9, texto: "Em vinte minutos, tinha onze linhas"}
+      - {cap: 13, texto: "Tinha onze linhas, uma pergunta no fim e nenhum detalhe de ninguém."}
+      - {cap: 28, texto: "Em setembro, a lista de Helena tinha onze linhas."}
+    por_que: "Quatro personagens diferentes (Otávio, Renata, Lúcia e Helena) chegam a \"onze linhas\" em quatro capítulos. A regra do livro é que números de casos diferentes não coincidem; aqui o único caso enumerado (Renata, onze itens) fecha e os outros três repetem o número."
+    correcao: "cap06.md: trocar \"tinha onze linhas\" por \"tinha dez linhas\". cap13.md: trocar \"Tinha onze linhas, uma pergunta no fim\" por \"Tinha oito linhas, uma pergunta no fim\". cap28.md: trocar \"a lista de Helena tinha onze linhas\" por \"a lista de Helena tinha dezoito linhas\". Manter o cap09."
+  - tipo: numero
+    gravidade: media
+    trechos:
+      - {cap: 14, texto: "Chegou a dezenove."}
+      - {cap: 19, texto: "Algumas semanas tinham onze áudios, outras dezenove."}
+      - {cap: 21, texto: "Na pasta dos versos havia ainda dezenove que não tinham sido escolhidos."}
+      - {cap: 25, texto: "Teve dezenove curtidas, que ele só viu semanas depois."}
+      - {cap: 28, texto: "quarenta e um salvamentos e dezenove envios por mensagem"}
+    por_que: "\"Dezenove\" é a contagem de três personagens em cinco capítulos: Caio (perguntas, cap. 14; curtidas, cap. 25), Renata (áudios, cap. 19) e Otávio (versos, cap. 21; envios, cap. 28). Os caps. 14 e 28 têm aritmética ou gabarito presos ao número; os outros três podem mudar."
+    correcao: "cap19.md: trocar \"outras dezenove\" por \"outras dezesseis\". cap21.md: trocar \"dezenove\" por \"vinte e sete\" nas três ocorrências (linhas do estoque, \"O maço de dezenove versos\", \"Oito dos dezenove\"). cap25.md: trocar \"Teve dezenove curtidas\" por \"Teve dezoito curtidas\". cap28.md: trocar \"dezenove envios\" por \"dezoito envios\" nas três ocorrências (texto duas vezes, explicação da verificação). Manter o cap14."
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 14, texto: "Em três meses, vinte e nove vezes."}
+      - {cap: 26, texto: "De vinte e nove pacientes novos no trimestre"}
+    por_que: "Caio (cap. 14) e Renata (cap. 26) têm o mesmo \"vinte e nove\" no mesmo período de três meses."
+    correcao: "cap26.md: trocar \"De vinte e nove pacientes novos no trimestre\" por \"De trinta e seis pacientes novos no trimestre\"."
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 14, texto: "catorze rendiam três peças, cinco paravam no segundo"}
+      - {cap: 14, texto: "Achou catorze no último semestre e completou dezessete na semana seguinte."}
+      - {cap: 20, texto: "Nenhuma das dezessete tinha levado mais de quinze minutos"}
+      - {cap: 21, texto: "Otávio assinou dezessete pareceres"}
+    por_que: "No cap. 14, Caio e Otávio contam \"catorze\" no mesmo capítulo, para coisas diferentes; o \"dezessete\" de Otávio (perguntas) reaparece como as dezessete semanas do Caio (cap. 20) e os dezessete pareceres do Otávio (cap. 21), em capítulos seguidos."
+    correcao: "cap14.md: trocar \"Achou catorze no último semestre e completou dezessete na semana seguinte.\" por \"Achou nove no último semestre e completou treze na semana seguinte.\" cap21.md: trocar \"assinou dezessete pareceres\" por \"assinou vinte e dois pareceres\"."
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 10, texto: "Tinha três lojas de material de construção em Olinda e no Recife, onze funcionários"}
+      - {cap: 16, texto: "com onze instrutores"}
+    por_que: "Duas clientes diferentes de Otávio, nos caps. 10 e 16, têm onze empregados."
+    correcao: "cap16.md: trocar \"com onze instrutores\" por \"com nove instrutores\"."
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 1, texto: "“Sete de dez. Cinco deles pela mesma médica.”"}
+      - {cap: 9, texto: "Eu diria sete em cada dez, pela minha agenda."}
+    por_que: "Dois figurantes de oficinas (nutricionista no cap. 1, técnico de ar-condicionado no cap. 9) dão a mesma proporção, sete em dez, e o cap. 9 faz dela o exemplo da estimativa honesta."
+    correcao: "cap01.md: trocar \"“Sete de dez. Cinco deles pela mesma médica.”\" por \"“Seis de dez. Quatro deles pela mesma médica.”\"."
+  - tipo: numero
+    gravidade: media
+    trechos:
+      - {cap: 24, texto: "Um maço com dez das trinta e poucas peças escritas à mão que ele tinha publicado desde setembro"}
+      - {cap: 24, texto: "o resto da pasta, de um ano e meio escrevendo toda semana."}
+      - {cap: 21, texto: "Funcionou em setembro, outubro e novembro."}
+    por_que: "No mesmo capítulo, Otávio publica \"desde setembro\" (as trinta e poucas peças, de setembro a abril) e o manual sai \"de um ano e meio escrevendo toda semana\". Setembro-abril são sete meses; o cap. 21 confirma o começo em setembro."
+    correcao: "cap24.md: trocar \"de um ano e meio escrevendo toda semana\" por \"de sete meses escrevendo toda semana\"."
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 4, texto: "Otávio pediu à agência dois meses sem publicações."}
+      - {cap: 24, texto: "Em abril, dois anos depois de suspender as publicações da agência"}
+    por_que: "O cap. 4 fixa a pausa em dois meses; o cap. 24 fala em dois anos de suspensão, e nenhum capítulo diz que a pausa foi prorrogada (o cap. 6 fala em \"quando a pausa acabasse\", o cap. 10 só diz que \"continuava suspensa\")."
+    correcao: "cap04.md: trocar \"Otávio pediu à agência dois meses sem publicações.\" por \"Otávio pediu à agência uma pausa nas publicações.\""
+  - tipo: numero
+    gravidade: baixa
+    trechos:
+      - {cap: 8, texto: "Duas peças por semana, o ano inteiro."}
+      - {cap: 23, texto: "O perfil passou de seis para quatro peças por semana."}
+      - {cap: 23, texto: "Além das quatro, uma quinta peça, curta, seria feita inteira por Renata toda semana"}
+    por_que: "Pela conta do cap. 8, o julho de Renata comporta setenta minutos por semana. No cap. 23 as quatro peças com ajuda custam quinze minutos cada (sessenta) e a quinta, feita inteira por ela, soma mais quinze ou mais: passa dos setenta, e o capítulo não refaz a conta do pior mês."
+    correcao: "cap23.md: trocar \"Além das quatro, uma quinta peça, curta, seria feita inteira por Renata toda semana\" por \"Uma das quatro, curta, seria feita inteira por Renata toda semana\"."
+  - tipo: apendice
+    gravidade: baixa
+    trechos:
+      - {cap: "antes-de-comecar", texto: "O primeiro capítulo começa num consultório em Curitiba."}
+      - {cap: 1, texto: "Marcos chegou ao consultório da Renata com dois anos de dor lombar"}
+    por_que: "O cap. 1 nunca diz que o consultório fica em Curitiba (a cidade só aparece no cap. 7 em diante); a frase final de \"Antes de começar\" promete um dado que a página seguinte não traz."
+    correcao: "cap01.md: trocar \"Marcos chegou ao consultório da Renata com dois anos\" por \"Marcos chegou ao consultório da Renata, em Curitiba, com dois anos\"."
+  - tipo: apendice
+    gravidade: media
+    trechos:
+      - {cap: "antes-de-comecar", texto: "O ritmo sugerido é de um capítulo por dia, em quarenta e cinco minutos a uma hora, somando leitura e oficina."}
+      - {cap: 11, texto: "tempo: 60"}
+      - {cap: 13, texto: "tempo: 45"}
+    por_que: "A oficina do cap. 11 sozinha pede sessenta minutos e a do cap. 13 quarenta e cinco mais a passagem a limpo; somadas a duas a três mil palavras de texto, passam de uma hora. Outras nove oficinas pedem 35 a 40 minutos (caps. 9, 10, 12, 14, 15, 17, 24, 26 e 30). O cap. 8 exige ainda cronometrar uma peça inteira."
+    correcao: "antes-de-comecar.md: trocar \"em quarenta e cinco minutos a uma hora, somando leitura e oficina\" por \"em quarenta minutos a uma hora e meia, somando leitura e oficina\"."
+  - tipo: apendice
+    gravidade: baixa
+    trechos:
+      - {cap: "apendice-calendario", texto: "e é com ela que você vai calibrar o capítulo 8"}
+      - {cap: 8, texto: "Cronometre uma peça real, etapa por etapa, e compare com o que você imaginava"}
+    por_que: "O cap. 8 calibra o ritmo pela cronometragem de uma peça real e não remete ao Apêndice D (que registra o tempo da oficina, outra medida). Nenhum capítulo manda ao calendário."
+    correcao: "apendice-calendario.md: suprimir \", e é com ela que você vai calibrar o capítulo 8\" (a frase termina em \"do seu ritmo.\")."
+  - tipo: apendice
+    gravidade: media
+    trechos:
+      - {cap: "apendice-ia", texto: "- **Guarde para você a última frase.**"}
+      - {cap: "apendice-ia", texto: "- A última frase é a minha opinião. Deixe direta, sem suavizar."}
+      - {cap: 24, texto: "a última frase é sempre dele, palavra por palavra"}
+      - {cap: 4, texto: "Guarde para você a última frase."}
+    por_que: "O apêndice manda guardar a última frase para si e, no modelo, pede à IA que a \"deixe direta\". Os caps. 4 e 24 fazem da última frase a única parte que nunca passa a outra mão, palavra por palavra; o modelo convida a ferramenta a escrevê-la."
+    correcao: "apendice-ia.md: trocar \"A última frase é a minha opinião. Deixe direta, sem suavizar.\" por \"A última frase é a minha opinião e já vem escrita por mim: não troque nenhuma palavra dela.\""
+  - tipo: apendice
+    gravidade: media
+    trechos:
+      - {cap: "apendice-ia", texto: "- Escreva como eu falo, e não como se escreve. Frases curtas."}
+      - {cap: 7, texto: "Escrito: escreva primeiro e, se precisar gravar, leia do seu jeito."}
+      - {cap: 11, texto: "Curta e seca, ou longa e cheia de ramos"}
+    por_que: "O modelo obriga a IA a escrever \"como eu falo\" e em \"frases curtas\", para todos. Pelo cap. 7, quem pensa escrevendo tem voz escrita (o léxico de Otávio saiu de e-mails, cap. 11), e pelo cap. 11 a estrutura de frase pode ser longa (o exemplo do cap. 12 tem frases compridas)."
+    correcao: "apendice-ia.md: trocar \"Escreva como eu falo, e não como se escreve. Frases curtas.\" por \"Escreva como eu {falo | escrevo}, no tamanho de frase da minha matéria-prima.\""
+  - tipo: apendice
+    gravidade: media
+    trechos:
+      - {cap: "apendice-ia", texto: "Me entregue uma versão só, pronta para publicar, sem alternativas e sem explicação."}
+      - {cap: 23, texto: "| Cortar e ordenar | Sim, sem trocar palavras |"}
+      - {cap: 23, texto: "uma inteligência artificial que reescreve a transcrição em tom de postagem"}
+      - {cap: 24, texto: "A agência digitaria sem trocar nenhuma palavra"}
+    por_que: "O cap. 23 aceita ajuda (inclusive de programa) só para transcrever, cortar sem trocar palavras, formatar e agendar, e o cap. 24 repete a regra; o modelo pede uma \"versão pronta para publicar\" e só diz \"preserve as minhas expressões\". Sem a cláusula de não trocar palavras, o pedido produz a reescrita que os capítulos condenam."
+    correcao: "apendice-ia.md: trocar \"Me entregue uma versão só, pronta para publicar, sem alternativas e sem explicação.\" por \"Corte e ordene, sem trocar nenhuma palavra minha. Me entregue uma versão só, sem alternativas e sem explicação.\""
+  - tipo: apendice
+    gravidade: baixa
+    trechos:
+      - {cap: "apendice-ia", texto: "Uma transcrição de três minutos da sua fala produz um texto seu, mais arrumado."}
+      - {cap: "apendice-ia", texto: "a transcrição de um áudio de dois minutos"}
+    por_que: "O mesmo apêndice dá três minutos no conselho e dois no modelo de pedido (o cap. 4 pede até três, o cap. 11 dois a três)."
+    correcao: "apendice-ia.md: trocar \"a transcrição de um áudio de dois minutos\" por \"a transcrição de um áudio de até três minutos\"."
+  - tipo: figurante
+    gravidade: media
+    trechos:
+      - {cap: 8, texto: "Uma engenheira agrônoma: “Domingo à noite, depois que as crianças dormem. Na safra, a semana não tem outra hora.”"}
+      - {cap: 21, texto: "Depois do jantar, em casa, para escrever ou gravar a peça. Parece o horário mais livre e é o pior de todos."}
+      - {cap: 21, texto: "Nenhum encaixe de produção do campo 02 é depois do jantar ou “quando sobrar tempo”."}
+    por_que: "O exemplo do cap. 8 para \"dia e hora fixos\" é exatamente o encaixe que o cap. 21 declara o pior de todos (noite, em casa, depois do jantar) e que o critério da oficina do cap. 21 proíbe."
+    correcao: "cap08.md: trocar \"Domingo à noite, depois que as crianças dormem. Na safra, a semana não tem outra hora.\" por \"Quinta, sete da manhã, na caminhonete, antes da primeira propriedade. Na safra, a semana não tem outra hora.\""
+  - tipo: figurante
+    gravidade: baixa
+    trechos:
+      - {cap: 1, texto: "Um corretor de seguros: “…vendo apólice como quem vende qualquer coisa.”"}
+      - {cap: 10, texto: "Um corretor de seguros: “Não vendo seguro de vida"}
+      - {cap: 14, texto: "Uma corretora de seguros: em vez de"}
+      - {cap: 29, texto: "Um corretor de seguros: um áudio de noventa segundos"}
+      - {cap: 10, texto: "Uma professora de piano: “A maioria dos colegas"}
+      - {cap: 14, texto: "Uma professora de piano: “Desaconselho teclado"}
+      - {cap: 7, texto: "Uma nutricionista: “Explico a troca de lanche"}
+      - {cap: 9, texto: "Uma nutricionista: “Cortar o jantar para emagrecer."}
+      - {cap: 27, texto: "Uma nutricionista: “Leem, mas ninguém cita."}
+      - {cap: 29, texto: "Uma nutricionista: “Se o painel tem dúvidas reais"}
+    por_que: "Não há mesma profissão em capítulos vizinhos no mesmo tipo de posição. Mas a regra do livro é \"uma participação por profissão\": corretor de seguros aparece em oficinas dos caps. 1, 4, 10, 14, 17, 24 e 29; professora de piano nos caps. 1, 6, 10, 14, 24 e 29; nutricionista nos caps. 1, 7, 9, 23, 27 e 29. A dupla corretor + professora de piano repete-se em cinco oficinas (1, 10, 14, 24, 29), e a nutricionista volta com dois capítulos de intervalo (7 e 9, 27 e 29)."
+    correcao: "Trocar, nos caps. 9, 14 e 29, uma das três ocorrências por profissão ainda não usada nas oficinas (arquiteta paisagista, massoterapeuta, podóloga). Exemplo: cap29.md, trocar \"Uma nutricionista: “Se o painel tem dúvidas reais\" por \"Uma massoterapeuta: “Se o painel tem dúvidas reais\"; cap14.md, trocar \"Uma corretora de seguros: em vez de\" por \"Uma arquiteta paisagista: em vez de\"."

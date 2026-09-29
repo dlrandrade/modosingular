@@ -1,0 +1,59 @@
+capitulo: 6
+iteracao: 3
+notas: {metodo: 9.4, voz: 9.3, originalidade: 9.1, clareza: 9.4, ritmo: 9.2, concretude: 9.4,
+        coerencia: 9.0, aplicabilidade: 9.1, impresso: 9.2, honestidade: 9.1}
+bloqueadores: []
+pontos_fortes:
+  - 'O furo de cronologia da r2 foi resolvido com um gatilho que é cena, não explicação: "Na manhã seguinte, o estagiário deixou sobre a mesa do Otávio as duas páginas passadas a limpo [...] Otávio leu e reconheceu nelas, quase palavra por palavra, a resposta que ele mesmo não tinha anotado." O estagiário que anotou e o advogado que não anotou fecham o arco da terça sem uma linha de moral, e "a primeira página foi a terça da véspera, reconstruída de memória" legitima o "almoço, 14/5".'
+  - 'Detalhe de ofício jurídico exato e verificável: "cartão de ponto com horário sempre igual perde para quem conta o dia como ele foi" e "ponto britânico" são a regra da Súmula 338 do TST dita como advogado fala; os e-mails "com horário fixo, chefe e metas" são os indícios de vínculo que desmontam a tese do autônomo. O mecânico, agora em três frases, tem régua em cada fonte ("porque o problema era o cabo mal regulado"; "quando era o fluido nunca trocado").'
+  - 'Os três ritmos de captura agora conversam: "O primeiro dia esvazia a memória; depois, o normal é uma ou duas linhas por dia" (oficina), "onze linhas" na primeira noite e "trinta e poucas" em três semanas (cena), 14 -> 32 -> 55 -> 78 na figura 6.2. O leitor que cumprir a oficina se reconhece no personagem e no esquema.'
+  - 'Voz de autor, limpa: zero travessão, zero sinalização, uma frase-soco, antíteses dentro do limite por seção. Imagens próprias e secas: "Eram pedaços de trabalho, com nome de cliente, cheiro de fórum e pressa", "a diferença entre uma carta escrita para si e uma circular", "Descartar uma pergunta por achá-la básica demais. Quem a fez não achou."'
+problemas:
+  - criterio: coerencia
+    trecho: "Naquele único dia, ele tinha vivido pelo menos sete peças publicáveis sobre a própria área."
+    por_que: 'Dois parágrafos depois, o próprio capítulo diz que "conflitos ainda em curso, qualquer coisa que um cliente contaria só a você, ficam de fora". Das sete, pelo menos duas não são publicáveis tal como aconteceram: a testemunha de um processo em andamento em que Otávio defende a empresa e a recusa baseada nos e-mails que o empresário trouxe impressos. Para um advogado, o sigilo e as regras de publicidade da OAB tornam a palavra "publicáveis" imprecisa justamente no personagem que mais pesa riscos. O filtro existe no texto; a cena é que o contradiz.'
+    correcao: '"Naquele único dia, ele tinha vivido matéria para pelo menos sete peças sobre a própria área. Não guardou nenhuma." O filtro do parágrafo seguinte ("o padrão sem o caso, a decisão sem o cliente") passa a completar a ideia, em vez de desmenti-la.'
+  - criterio: honestidade
+    trecho: "“Terceiro cliente no mês querendo demitir funcionário em férias; ninguém sabe que não pode.”"
+    por_que: 'A CLT não traz uma proibição expressa de dispensar o empregado durante as férias; o que a jurisprudência não admite é o aviso prévio correndo junto com as férias. Um advogado com 25 anos de prática, que "começa pela pior hipótese", não anotaria o folclore da regra, nem na frase crua. Lição cap02-r2: detalhe de ofício conferido na fonte; na dúvida, formular pelo que é certo. É também a nota que o leitor-advogado vai testar primeiro.'
+    correcao: '"Terceiro cliente no mês querendo demitir funcionário em férias; ninguém sabe que o aviso não pode correr nas férias." Mantém a frase inteira e o risco no fim, como o parágrafo seguinte descreve.'
+  - criterio: aplicabilidade
+    trecho: "Uma farmacêutica: “Guardam o antibiótico que sobrou para a próxima vez.”"
+    por_que: 'Pendência da r2. O campo 07 pede duas fontes ("Erros comuns e opiniões") e exemplifica só o erro. Opinião é a fonte que o leitor tem mais dificuldade de reconhecer em si (é o assunto inteiro do cap. 10), e sem exemplo ele tende a preencher as quatro linhas só com erros. Os campos 03, 04 e 06 continuam sem ofício, embora a estrutura_do_capitulo peça exemplos "sempre em profissões variadas".'
+    correcao: 'Campo 07: acrescentar "Uma nutricionista: “Acho que cardápio fechado atrapalha quem janta fora três vezes por semana.”" (ou outra profissão ainda livre em ESTADO › figurantes; confeiteira, professora de piano e farmacêutica já estão aqui). Campo 03, com ofício: "Um corretor de seguros ouve: “Seguro de vida só serve para quem tem filho.”" Registrar em ESTADO › figurantes a professora de piano e a farmacêutica no cap. 6, que hoje não constam.'
+  - criterio: aplicabilidade
+    trecho: "{rotulo: \"A normalização\", texto: \"“É a pergunta que eu mais ouço.” Tira a vergonha de quem tem a dúvida.\""
+    por_que: 'O esqueleto e o roteiro dizem coisas diferentes na mesma posição. No roteiro, a frequência já está na primeira lacuna ("{quantas vezes e em quanto tempo você ouviu esta pergunta}") e a normalização é "Faz todo sentido perguntar isso". No esqueleto, a normalização vira uma afirmação de frequência que pode ser falsa: a introdução diz "de preferência a que você mais ouve", ou seja, o leitor pode ter escolhido outra, e então escreveria "é a pergunta que eu mais ouço" sem ser verdade. Lição cap02-r1: esqueleto e roteiro servem aos mesmos exemplos.'
+    correcao: 'Esqueleto: A pergunta = "Literal, entre aspas, e quantas vezes você a ouviu."; A normalização = "“Faz todo sentido perguntar isso.” Diga por que a dúvida é razoável; é o que tira a vergonha de quem a tem." No Faça assim, trocar o primeiro item por "“Ouvi esta pergunta três vezes nesta semana. Vou responder com calma.”", que só afirma o que o leitor contou.'
+  - criterio: honestidade
+    trecho: "Quem lê percebe a diferença sem saber nomeá-la"
+    por_que: 'Pendência parcial da r2: somam-se três generalizações sobre terceiros sem fonte, acima do limite de duas por capítulo (lição cap01-r4/cap02-r2): "é uma frase que costuma ser mal entendida, e o mal-entendido afasta justamente as pessoas sérias", "A culpa costuma ir para a inspiração" e esta. A terceira é a mais forte, porque afirma a percepção de todo leitor.'
+    correcao: 'Trocar por uma posição do narrador: "Eu acho que quem lê percebe a diferença, mesmo sem saber nomeá-la, do mesmo jeito que percebe a diferença entre uma carta escrita para si e uma circular." Ou atribuir ao Otávio, que conhece a diferença entre um parecer e um modelo.'
+  - criterio: coerencia
+    trecho: "Lúcia percebeu isso no capítulo 2, quando começou a anotar as crenças com que os pacientes chegavam; Caio, sem perceber, quando mandou o áudio sobre o taco de peroba"
+    por_que: 'Duas coisas. (1) A elipse ainda lê "Caio [percebeu isso], sem perceber", o paradoxo que a r2 apontou; a edição sugerida não entrou. (2) Os capítulos seguintes contam com cadernos que este capítulo não planta: o cap. 13 diz que o caderno de campo da Lúcia é "o de campo, que ela começou no capítulo 6, fica na bolsa", e o cap. 14 fala do caderno de campo "que [Caio] mantinha desde o capítulo 6". Aqui Lúcia tem uma nota no celular desde o cap. 2 e Caio não começa nada.'
+    correcao: '"Lúcia percebeu isso no capítulo 2, quando começou a anotar no celular as crenças com que os pacientes chegavam; Caio viveu o mesmo sem perceber, quando mandou o áudio sobre o taco de peroba, gravado no meio da obra. Os dois estavam trabalhando, e o trabalho entregou o assunto pronto." E, para plantar o que vem, uma frase depois: "Nas semanas seguintes, cada um na sua cidade, os dois passaram a guardar essas coisas num lugar só." (Alternativa: corrigir o cap. 13 para "que ela começou no capítulo 2".)'
+  - criterio: coerencia
+    trecho: "No carro, um áudio de dez segundos resolve, desde que depois vire uma linha escrita."
+    por_que: 'O parágrafo de "detalhes pequenos" começa a gastar o material do cap. 19 (plano: "Os áudios de 20 segundos que Renata grava entre um paciente e outro"; fonte: gatilho "Fim do dia — no trajeto de volta, por áudio", regra "Um lugar só"). A caneta presa na espiral e a nota fixada no topo são bons detalhes; o áudio no carro é a imagem reservada da Renata e o gatilho do trajeto é conteúdo do cap. 19. Além disso, o parágrafo tem sete frases, acima do limite de seis (lição cap01-r2).'
+    correcao: 'Cortar a frase do áudio no carro. O parágrafo fica com seis frases e o cap. 19 mantém a sua cena intacta.'
+  - criterio: ritmo
+    trecho: "É por isso que peças nascidas diante da tela vazia seriam de qualquer colega."
+    por_que: 'O condicional "seriam" fica sem condição e a frase soa truncada lida em voz alta; ao mesmo tempo, o "É por isso que" transforma uma tendência em lei (toda peça nascida na tela vazia seria genérica).'
+    correcao: '"Por isso tanta peça nascida diante da tela vazia poderia ter sido assinada por qualquer colega."'
+  - criterio: clareza
+    trecho: "Na primeira noite, o caderno do Otávio ganhou onze linhas."
+    por_que: 'O caderno foi comprado no almoço de quarta e a primeira página é "a terça da véspera, reconstruída de memória". "Na primeira noite" deixa o leitor sem saber se as onze linhas incluem as sete da terça, o que importa, porque a oficina usa exatamente essa distinção ("O primeiro dia esvazia a memória").'
+    correcao: '"Naquela noite, somadas a terça reconstruída e a quarta, o caderno do Otávio tinha onze linhas. Três semanas depois, trinta e poucas."'
+edicoes_de_linha:
+  - 'a informação mais útil que vai receber hoje -> talvez a informação mais útil que vai receber naquele dia (nota "A armadilha do óbvio": o superlativo absoluto afirma o que o autor não sabe)'
+  - 'sem que Otávio procurasse nenhuma. -> sem que Otávio procurasse por elas. (há oito fechos com "nenhum/nenhuma/nada" na prosa: "não tinha nenhuma ideia", "Não guardou nenhuma", "Nenhuma daquelas sete", "nenhum colega dele", "nenhuma pesquisa", "nenhum advogado experiente", "Otávio não anotou nada")'
+  - 'uma observação que nenhum colega dele tinha feito em voz alta. -> uma observação. (a cena já disse "notou uma coisa que ninguém tinha comentado"; a repetição é a mesma ideia duas vezes)'
+  - 'A terça-feira do Otávio parece um dia comum porque é um dia comum. -> A terça-feira do Otávio foi um dia comum. (o jogo tautológico é tique de texto de curso)'
+  - 'Esquema ilustrativo de um estoque que cresce sem esforço extra. -> Esquema ilustrativo de um estoque que cresce com vinte segundos de cada vez. ("sem esforço extra" promete)'
+  - 'Otávio enche o caderno preto de frases por extenso (cap. 7, linha 84) -> registrar no cap. 7 uma remissão ("como o capítulo 6 já deixou ver") em vez de repetir a mesma observação, agora que ela foi feita aqui'
+diagramacao:
+  - 'p013, linha 1: continua o artigo "O" isolado no fim da linha ("nenhuma ideia. O / áudio do “acertar por fora”"), apontado na r2 e não resolvido. Espaço inseparável depois de "O" ou pequeno ajuste de tracking no parágrafo.'
+  - 'p018, figura 6.2: o eixo vertical tem linhas de grade sem nenhum valor. Como o esquema é ilustrativo, ou tirar as grades, ou rotular só o último ponto ("78") para o leitor ler a ordem de grandeza que o texto cita ("trinta e poucas" em três semanas).'
+  - 'p019: cerca de 65% da página em branco depois do Para guardar, antes da oficina; aceito pelo projeto (oficina em página nova). O mesmo vale para o branco de ~25% no pé da p022, antes do esqueleto indivisível.'
+veredito: 'Capítulo pronto para o gate: todos os pontos graves da r2 foram resolvidos (cronologia do caderno, ritmos de captura, Faça assim, equívocos do cap. 2, concretude do mecânico e do padeiro), e o que resta é de linha: a palavra "publicáveis" contra o próprio filtro de sigilo, a nota jurídica do Otávio a precisar, o esqueleto alinhado ao roteiro, um exemplo de opinião no campo 07 e duas remissões de coerência com os caps. 13, 14 e 19.'

@@ -1,0 +1,455 @@
+escopo:
+- Lúcia Prado
+- Caio Tavares
+- 'secundários e figurantes das histórias deles: Débora, a amiga do grupo de estudos, a colega recém-formada, a
+  paciente das cinco da tarde, a psicóloga de São Paulo, a leitora de outubro, a mãe da Lúcia, a secretária; o sócio
+  do Caio, o mestre de obras, o cunhado, a cliente do taco e a irmã, o dono do granilite, o casal do Botafogo e
+  a corretora, o casal do Taquaral, o investidor, a senhora de três anos antes, o casal do Bosque, a mulher das
+  janelas e a sobrinha, o fornecedor, o fotógrafo de casamentos'
+nota_datas: 'Mesma convenção da coerencia-a: ''Ano 1'' é o ano da semana de maio do cap. 7. Âncoras: cap. 8 (julho
+  do Ano 1 a março do Ano 2), cap. 13 (maio a julho do Ano 2), cap. 17 (agosto-setembro do Ano 2), cap. 22 (dezembro
+  do Ano 2 a abril do Ano 3; ''quase dois anos'' depois do cap. 7), cap. 27 (outubro do Ano 3), cap. 20 (junho a
+  outubro do Ano 2: se a 17ª semana é a segunda quinta de outubro, a 1ª foto saiu entre 18 e 24 de junho e a 30ª
+  cai na segunda semana de janeiro, como o texto diz), cap. 25 (agosto do Ano 3; texto das janelas de abril do Ano
+  2), cap. 29 (outubro do Ano 3; ''um ano antes'' = cap. 20), cap. 30 (janeiro do Ano 4). Onde o texto não data
+  a cena, ''quando'' diz ''sem data''. Todas as contas internas conferidas (72 min; 120 x 0,7 = 84; 3+1+0 = 4 textos;
+  14x3 + 5x2 = 52; 31 x 10 min = 5 h; 17ª e 30ª semanas; 72/14 = cinco vezes; 21 textos da mulher das janelas) fecham.'
+linha_do_tempo:
+  lucia:
+  - quando: antes do Ano 1 (sem data)
+    fato: Atende adultos com ansiedade há nove anos em Porto Alegre.
+    cap: 2
+    trecho: Lúcia atende adultos com ansiedade há nove anos em Porto Alegre
+  - quando: antes de maio do Ano 1 (sem data), terça à noite
+    fato: Débora chega culpada por ter 'falhado' num protocolo de 21 dias; três sessões para desfazer.
+    cap: 2
+    trecho: Foram três sessões até a culpa por ter "falhado" num protocolo dar lugar a outra pergunta
+  - quando: noite da 3ª sessão
+    fato: Busca pelos vídeos; nenhuma colega em quem confiasse.
+    cap: 2
+    trecho: Na noite da terceira sessão, depois do último paciente, Lúcia fez uma busca que nunca tinha feito.
+  - quando: semana seguinte + duas semanas
+    fato: 'Nota no celular com crenças dos pacientes: 31 linhas; escreve as primeiras linhas de uma peça.'
+    cap: 2
+    trecho: Em duas semanas, a lista tinha trinta e uma linhas
+  - quando: maio do Ano 1
+    fato: No grupo de estudos, a colega recém-formada pergunta o que ela faz na primeira sessão; nasce a pergunta
+      'o que o paciente já tentou para não sentir isso?'.
+    cap: 7
+    trecho: Em Porto Alegre, num grupo de estudos de psicólogas, uma colega recém-formada perguntou a Lúcia o que
+      ela faz, na primeira sessão
+  - quando: semanas seguintes a maio do Ano 1
+    fato: Pede a uma amiga uma pergunta por semana e responde por áudio.
+    cap: 7
+    trecho: Lúcia pediu a uma amiga que lhe mandasse uma pergunta por semana e respondia por áudio
+  - quando: julho a novembro do Ano 1
+    fato: Pergunta da amiga toda segunda; mais de vinte textos, um por semana, sem falhar.
+    cap: 8
+    trecho: Desde julho, a amiga do grupo de estudos lhe mandava uma pergunta toda segunda-feira.
+  - quando: fim de novembro do Ano 1
+    fato: Planeja três textos por semana para dezembro (segunda, quarta e sexta, às 14h).
+    cap: 8
+    trecho: 'Anotou o plano no caderno: segunda, quarta e sexta, às duas da tarde'
+  - quando: dezembro do Ano 1
+    fato: Publica 3, 1, 0 e 0 textos nas quatro semanas; a mãe, em Santa Cruz do Sul, pede que chegue antes do dia
+      24.
+    cap: 8
+    trecho: Na primeira semana, publicou os três textos. Na segunda, um. Na terceira, nenhum.
+  - quando: janeiro do Ano 2
+    fato: 'Cronometra uma peça: 72 min (imaginava 20); conta 120 x 0,7 = 84 ÷ 72 = uma por semana; terça às oito.'
+    cap: 8
+    trecho: Lúcia cronometrou a resposta à pergunta de uma segunda-feira de janeiro
+  - quando: março do Ano 2
+    fato: A amiga viaja; Lúcia escolhe uma crença da lista e termina em menos de uma hora pela primeira vez.
+    cap: 8
+    trecho: Numa terça de março, a pergunta da amiga não chegou, porque ela estava viajando.
+  - quando: Ano 2, fase II (sem data)
+    fato: 'Manual de voz: a amiga sublinha o que soa como Lúcia em três respostas por áudio.'
+    cap: 11
+    trecho: Lúcia pediu à amiga do grupo de estudos que lesse três respostas que ela tinha dado por áudio no grupo
+  - quando: Ano 2, fase II (sem data)
+    fato: Enunciado por cinco perguntas da colega recém-formada, uma por dia; aceita gravar conversa no canal de
+      uma colega.
+    cap: 12
+    trecho: Lúcia pediu à colega recém-formada do grupo de estudos, a mesma da pergunta sobre a primeira sessão
+  - quando: quinta-feira de maio do Ano 2
+    fato: Paciente das cinco da tarde descreve o aperto do domingo e o cheiro do ferro.
+    cap: 13
+    trecho: A paciente das cinco da tarde chegou numa quinta-feira de maio
+  - quando: sexta seguinte
+    fato: Quatro operações por escrito, a partir de quatro perguntas da amiga.
+    cap: 13
+    trecho: Na sexta de manhã, Lúcia fez o que faz quando precisa pensar
+  - quando: fim de junho do Ano 2 + quatro semanas
+    fato: Outra paciente descreve o mesmo aperto; Lúcia espera mais quatro semanas.
+    cap: 13
+    trecho: No fim de junho, outra paciente, de outra idade e noutro horário, descreveu o mesmo aperto
+  - quando: última terça de julho do Ano 2
+    fato: Publica o texto do domingo (caso composto declarado, onze linhas).
+    cap: 13
+    trecho: Publicou na última terça de julho, às oito.
+  - quando: segunda-feira de agosto do Ano 2
+    fato: Começa o contraponto sobre rótulos; quase desiste três vezes (quarta, sexta, domingo); guarda três semanas.
+    cap: 17
+    trecho: Lúcia começou a escrever o texto numa segunda-feira de agosto
+  - quando: terça de setembro do Ano 2
+    fato: Publica o contraponto; primeira colega a discordar em público; na quinta, paciente leu por print.
+    cap: 17
+    trecho: Numa terça de setembro, às oito, no horário de sempre, Lúcia publicou.
+  - quando: fase III (sem data)
+    fato: Grava peça sobre o critério de parada com a amiga fazendo as perguntas.
+    cap: 18
+    trecho: Na peça que acabou gravando, com a amiga do grupo de estudos fazendo as perguntas
+  - quando: dezembro do Ano 2
+    fato: Descobre os textos de uma psicóloga de São Paulo; lê vinte numa noite.
+    cap: 22
+    trecho: Em dezembro, numa noite sem sono, Lúcia descobriu os textos de uma psicóloga de São Paulo
+  - quando: janeiro do Ano 3
+    fato: Lê um texto da outra por dia; para de reler o manual de voz 'do ano anterior'.
+    cap: 22
+    trecho: Em janeiro, lia um por dia, no celular, com o café
+  - quando: segunda terça de fevereiro do Ano 3
+    fato: Três textos contaminados pela voz alheia; a amiga pergunta 'quem escreveu?'; tira um do ar.
+    cap: 22
+    trecho: A partir da segunda terça de fevereiro, os textos dela mudaram.
+  - quando: quinta à noite seguinte (fev./mar. do Ano 3)
+    fato: 'Engenharia reversa num cartão; publica na terça seguinte; amiga: ''Agora sim.'''
+    cap: 22
+    trecho: Lúcia refez o caminho com método, numa quinta à noite, longe da terça das oito.
+  - quando: fev.-abr. do Ano 3
+    fato: Sete cartões em dois meses; cartão da primeira sessão ('quase dois anos' depois do cap. 7); em abril,
+      distingue cansaço de tédio.
+    cap: 22
+    trecho: Fazia quase dois anos que tinha dito em voz alta, no grupo de estudos, o que fazia ali
+  - quando: março do Ano 3
+    fato: Uma leitora silenciosa começa a ler os textos de terça.
+    cap: 27
+    trecho: Leio os seus textos desde março, toda terça.
+  - quando: quinta de outubro do Ano 3
+    fato: Mensagem da leitora ('acho que agora estou pronta'); telefone do perfil era o do consultório de quatro
+      anos antes.
+    cap: 27
+    trecho: A mensagem chegou numa quinta-feira de outubro, às onze da noite
+  - quando: sexta seguinte
+    fato: Responde às 8h10 com telefone da secretária e o 188; a mãe leva quatro minutos no teste do último metro;
+      perfil ganha CRP e telefone.
+    cap: 27
+    trecho: Na mesma sexta em que respondeu à leitora, Lúcia ligou para a mãe, em Santa Cruz do Sul
+  - quando: novembro do Ano 3
+    fato: Primeira oferta (a cada dez peças); secretária recebe duas ligações.
+    cap: 27
+    trecho: A oferta que Lúcia escreveu, em novembro, tinha quatro partes
+  - quando: dezembro do Ano 3
+    fato: A leitora já fez cinco sessões.
+    cap: 27
+    trecho: Em dezembro, a leitora da quinta-feira já tinha feito cinco sessões.
+  - quando: janeiro do Ano 4
+    fato: Paciente nova chega com lista de sinais e um texto da própria Lúcia no celular.
+    cap: 30
+    trecho: Em Porto Alegre, uma paciente nova chegou à primeira sessão com uma lista de sinais de ansiedade
+  caio:
+  - quando: antes de maio do Ano 1 (sem data)
+    fato: Compra câmera sem espelho, estabilizador, duas luzes de LED e microfone de lapela; onze fins de semana
+      para seis vídeos; o primeiro, apartamento de 1972 no Cambuí.
+    cap: 3
+    trecho: Caio passou onze fins de semana editando seis vídeos.
+  - quando: mesmo período
+    fato: Áudio do taco de peroba a uma cliente; a irmã dela ouve três vezes e fecha projeto.
+    cap: 3
+    trecho: A cliente encaminhou o áudio para a irmã, que também tinha um apartamento antigo.
+  - quando: dias depois do teste do mudo
+    fato: Vídeo do granilite, obra no Guanabara, uma tomada, publicado em quatro minutos; câmera fica no armário;
+      mensagens de Valinhos.
+    cap: 3
+    trecho: Dias depois do teste do mudo, numa obra no bairro Guanabara
+  - quando: maio do Ano 1
+    fato: Na festa do sobrinho, conta ao cunhado a obra da Vila Itapura (1968, azulejos portugueses).
+    cap: 7
+    trecho: Em Campinas, na festa de aniversário do sobrinho, o cunhado perguntou a Caio
+  - quando: semanas seguintes a maio do Ano 1
+    fato: Passa a começar qualquer peça por 'teve uma obra'.
+    cap: 7
+    trecho: Caio passou a começar qualquer peça por "teve uma obra"
+  - quando: fase II (sem data), num sábado
+    fato: 'Visita ao apartamento de 1964 no Botafogo: ''Essa parede está mentindo para vocês.'''
+    cap: 11
+    trecho: Caio chegou num sábado de manhã, cumprimentou a corretora
+  - quando: duas semanas depois / semana seguinte
+    fato: Casal renegocia e fecha a reforma; Caio monta a ficha de léxico e publica a legenda da parede que mente.
+    cap: 11
+    trecho: Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte.
+  - quando: fase II (sem data), sexta à tarde
+    fato: 'Enunciado contado ao sócio; linha da posição ''em aberto''; ritmo: uma por semana, quinta de manhã.'
+    cap: 12
+    trecho: Numa sexta-feira no fim da tarde, com o escritório vazio, sentou com o sócio
+  - quando: fase II (sem data)
+    fato: Recusa estabilizador novo oferecido por fornecedor.
+    cap: 12
+    trecho: Respondeu ao fornecedor que ficaria para outra vez.
+  - quando: Ano 2, antes de junho (quarta 23h / quinta)
+    fato: Casal do Taquaral (1974) pergunta 'Dá para derrubar essa parede?'; 31 vezes em três meses; oito anos de
+      profissão; posição escrita por cima de 'em aberto'; 19 perguntas = 52 peças.
+    cap: 14
+    trecho: Tinha passado oito anos respondendo a mesma pergunta
+  - quando: segunda seguinte
+    fato: Orçamento com duas opções ao casal do Taquaral; marca a peça da parede para o fim do mês.
+    cap: 14
+    trecho: Na segunda seguinte, com a planta do prédio já conferida com o síndico
+  - quando: abril do Ano 2
+    fato: Texto de três parágrafos sobre janelas de ferro (13 curtidas).
+    cap: 25
+    trecho: Era a impressão de um texto que ele tinha publicado dezesseis meses antes, sobre janelas de ferro.
+  - quando: Ano 2, antes de maio (sexta / segunda / segunda)
+    fato: Proposta do investidor (três apartamentos de 1965 no Centro); recusa por escrito; 'oito anos de escritório';
+      lembra a senhora de três anos antes.
+    cap: 18
+    trecho: Nos oito anos de escritório, tinha recusado outras propostas parecidas
+  - quando: quinta de maio do Ano 2
+    fato: Publica a régua como texto curto contado antes ao sócio; na semana seguinte, casal do Bosque (1958).
+    cap: 18
+    trecho: Numa quinta de maio, antes de ter decidido qualquer formato
+  - quando: quarta de junho do Ano 2
+    fato: Mede 40 min decidindo o formato e 40 min de vídeo.
+    cap: 20
+    trecho: Numa quarta de junho, anotou no caderno o tempo que tinha passado decidindo o formato da semana
+  - quando: junho do Ano 2 (entre 18 e 24)
+    fato: Primeira quinta da foto de obra; obra do Taquaral em entrega.
+    cap: 20
+    trecho: Anotou no caderno a data da primeira quinta-feira, em junho
+  - quando: julho do Ano 2 (3ª semana)
+    fato: Cinco linhas começam; quartas à noite ficam livres.
+    cap: 20
+    trecho: as cinco linhas tinham vindo na terceira
+  - quando: por volta da 10ª semana (agosto-setembro do Ano 2)
+    fato: Sócio sugere vídeo com música; Caio tira a câmera do armário e guarda sem ligar.
+    cap: 20
+    trecho: Por volta da décima semana, Caio ficou com vontade de mudar.
+  - quando: segunda quinta de outubro do Ano 2
+    fato: '17ª foto: bandeira de vidro canelado; quadro de 1968 na Vila Industrial; trigésima prevista para a 2ª
+      semana de janeiro.'
+    cap: 20
+    trecho: Às sete e quarenta da segunda quinta-feira de outubro
+  - quando: novembro do Ano 2
+    fato: Vende as duas luzes de LED a um fotógrafo de casamentos.
+    cap: 20
+    trecho: Em novembro, vendeu as duas luzes de LED a um fotógrafo de casamentos
+  - quando: fevereiro do Ano 3
+    fato: Primeiro cliente que tinha lido alguma peça.
+    cap: 29
+    trecho: O primeiro cliente que tinha lido alguma coisa dele chegou em fevereiro
+  - quando: julho do Ano 3
+    fato: Escreve as quatro linhas do 'mês ruim'.
+    cap: 29
+    trecho: onde tinha escrito, em julho, com a cabeça descansada, quatro linhas sob o título "mês ruim"
+  - quando: agosto do Ano 3
+    fato: Mulher das janelas (apartamento de 1962 no Cambuí) chega com texto de dezesseis meses antes; leu 21 textos;
+      contrata na semana seguinte.
+    cap: 25
+    trecho: Numa terça-feira de agosto, uma mulher de uns sessenta anos chegou ao escritório do Caio
+  - quando: semana seguinte
+    fato: 'Inventário do acervo: 11 paredes, 7 pisos, 4 janelas, 0 banheiros; quatro assuntos-âncora.'
+    cap: 25
+    trecho: Descobriu que tinha escrito onze vezes sobre paredes
+  - quando: setembro do Ano 3
+    fato: Primeira peça sobre banheiros (ralo de 1974), 19 curtidas.
+    cap: 25
+    trecho: Em setembro, Caio publicou a primeira peça sobre banheiros
+  - quando: outubro do Ano 3
+    fato: Três obras atrasam (Cambuí, Barão Geraldo, Guanabara); peças mínimas e do estoque; sequência não quebra.
+    cap: 29
+    trecho: Em outubro, três obras do Caio atrasaram na mesma semana
+  - quando: novembro do Ano 3
+    fato: Obras voltam; mais de setenta quintas; cinco mensagens com dúvida real.
+    cap: 29
+    trecho: a sequência, que passava de setenta quintas, não tinha quebrado
+  - quando: dezembro do Ano 3
+    fato: Caderno de campo acaba; quinta linha do protocolo; câmera, estabilizador e microfone vendidos.
+    cap: 30
+    trecho: a câmera que continuava no armário do escritório foi vendida em dezembro, junto com o estabilizador
+      e o microfone de lapela
+  - quando: janeiro do Ano 4
+    fato: Publica batente de peroba de obra entregue em setembro.
+    cap: 30
+    trecho: na quinta seguinte, publicou uma foto do arquivo, de um batente de peroba de uma obra entregue em setembro
+  secundarios:
+  - quando: antes do cap. 2
+    fato: Débora levou oito meses para procurar terapia; mesma história citada no cap. 5 como 'protocolo de vinte
+      e um dias'.
+    cap: 2
+    trecho: Débora levou oito meses para procurar terapia depois dos primeiros sintomas
+  - quando: cap. 5 (remissão)
+    fato: Remissão a Débora confere com o cap. 2.
+    cap: 5
+    trecho: Débora, a paciente da Lúcia no capítulo 2, tirou a mesma conclusão depois de um protocolo de vinte e
+      um dias.
+  - quando: de julho do Ano 1 em diante
+    fato: A amiga do grupo de estudos (sem nome) manda a pergunta às segundas; distinta da colega recém-formada
+      (cap. 12 diferencia).
+    cap: 12
+    trecho: a mesma da pergunta sobre a primeira sessão
+  - quando: Ano 1 a Ano 3
+    fato: Mãe da Lúcia mora em Santa Cruz do Sul nos dois capítulos que a citam.
+    cap: 27
+    trecho: Lúcia ligou para a mãe, em Santa Cruz do Sul
+  - quando: Ano 1 a Ano 3
+    fato: Sócio do Caio aparece nos caps. 12, 16, 18 e 20, sempre sem nome; escritório com estagiário (cap. 18).
+    cap: 18
+    trecho: O sócio, quando soube, disse que talvez desse para fazer do jeito do cliente
+  - quando: Ano 2 a Ano 3
+    fato: 'Casal do Taquaral: visita (cap. 14), obra em entrega em junho do Ano 2 (cap. 20).'
+    cap: 20
+    trecho: com a obra do Taquaral em entrega
+  - quando: agosto a outubro do Ano 3
+    fato: 'Mulher das janelas: 9 de 11 janelas recuperadas, 2 refeitas por serralheiro de Campinas (cap. 25); a
+      serralheria atrasa 20 dias em outubro (cap. 29).'
+    cap: 29
+    trecho: a serralheria que refazia as duas janelas de ferro da cliente da folha dobrada quebrou uma máquina
+problemas:
+- tipo: sigilo
+  gravidade: media
+  trechos:
+  - cap: 11
+    texto: Duas semanas depois, o casal renegociou o valor com o vendedor e fechou o projeto de reforma com ele.
+  - cap: 11
+    texto: 'Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte. Apagou a vistoria técnica criteriosa
+      e escreveu o que diria ao casal do Botafogo: "Teve uma obra em que a parede mais bonita do apartamento era
+      a que mais mentia. Tinta nova por cima de infiltração velha. Antes de comprar, abra os armários."'
+  - cap: 13
+    texto: 'Desloque também a data da publicação: nunca antes de um mês depois do último atendimento em que o assunto
+      apareceu.'
+  - cap: 30
+    texto: guardar a foto na pasta das que só saem depois da entrega
+  por_que: A legenda sai cerca de três semanas depois da visita, com o casal em atendimento (projeto recém-fechado),
+    e conta o caso deles com os detalhes que o casal, a corretora e o vendedor reconheceriam (a parede mais bonita,
+    tinta nova sobre infiltração, o armário). Fere a regra do mês do cap. 13 e a prática que o próprio Caio adota
+    depois (só depois da entrega, com autorização).
+  correcao: 'Cap. 11: trocar ''Na semana seguinte, Caio escreveu a legenda da foto de obra seguinte.'' por ''Seis
+    semanas depois, sobre a foto de outra obra, antiga e já liberada, Caio escreveu uma legenda nova.'' O resto
+    do parágrafo fica; a legenda já desloca o tempo (''Teve uma obra'').'
+- tipo: sigilo
+  gravidade: baixa
+  trechos:
+  - cap: 3
+    texto: Caio pediu ao proprietário licença para gravar no corredor, que ainda estava vazio, e contou o que ia
+      dizer.
+  - cap: 3
+    texto: a gravação e a publicação levaram quatro minutos
+  - cap: 13
+    texto: Foto ou imagem de caso sem autorização escrita e específica para publicação.
+  - cap: 20
+    texto: E o dono tinha assinado, na entrega, a autorização para a foto e para contar a história sem o endereço.
+  por_que: O vídeo do granilite é imagem do apartamento de um cliente, publicada durante a obra com licença só verbal.
+    O livro põe esse caso na coluna 'Nunca' do cap. 13 e, do cap. 20 em diante, mostra o Caio com autorização assinada.
+    Como o cap. 3 é apresentado como modelo ('O vídeo seguinte'), a cena ensina o contrário da regra.
+  correcao: 'Cap. 3: trocar ''Caio pediu ao proprietário licença para gravar no corredor'' por ''Caio pediu ao proprietário,
+    por mensagem, licença para gravar e publicar no corredor, e ele respondeu por escrito''; manter ''que ainda
+    estava vazio, e contou o que ia dizer''.'
+- tipo: sigilo
+  gravidade: baixa
+  trechos:
+  - cap: 14
+    texto: 'marcou a primeira para o fim do mês, depois que o casal decidisse: dá para derrubar essa parede? Ao
+      lado, anotou o nível: crítico.'
+  - cap: 14
+    texto: mesmo perdendo o cliente que chega com a pasta de recortes
+  - cap: 13
+    texto: nunca antes de um mês depois do último atendimento em que o assunto apareceu
+  por_que: A peça no nível crítico sobre a parede da cozinha é agendada para menos de um mês depois da visita ao
+    casal do Taquaral, que continua em atendimento (orçamento enviado, obra até junho). O próprio capítulo cita
+    um detalhe do casal (a pasta de recortes) ao lado da posição, que é o que a peça crítica defende. A regra do
+    calendário (cap. 13 e cap13-r1 do ORQUESTRADOR) pede a espera.
+  correcao: 'Cap. 14: trocar ''marcou a primeira para o fim do mês, depois que o casal decidisse'' por ''marcou
+    a primeira para dali a seis semanas, bem depois de o casal decidir''.'
+- tipo: cronologia
+  gravidade: baixa
+  trechos:
+  - cap: 20
+    texto: Era a décima sétima semana seguida com uma foto; as cinco linhas tinham vindo na terceira.
+  - cap: 20
+    texto: Os números do vídeo e do texto são de abril a junho, anotados no caderno; os das cinco linhas, de julho
+      a setembro.
+  - cap: 29
+    texto: as cinco linhas custavam menos do que em junho.
+  por_que: Se a 17ª foto é a da segunda quinta de outubro (cap. 20), a primeira saiu entre 18 e 24 de junho e as
+    cinco linhas começaram na terceira semana, já em julho, como diz a legenda da figura. Em junho só havia a legenda
+    de uma linha.
+  correcao: 'Cap. 29: trocar ''as cinco linhas custavam menos do que em junho'' por ''as cinco linhas custavam menos
+    do que em julho''.'
+- tipo: contradicao
+  gravidade: baixa
+  trechos:
+  - cap: 12
+    texto: Uma por semana, na quinta de manhã; medida no mês de entrega
+  - cap: 14
+    texto: A uma peça por semana, o ritmo que Caio tinha calculado para o pior mês
+  - cap: 20
+    texto: no mês de entrega de obra sobravam a ele uns trinta minutos por semana com a cabeça boa, e o vídeo pedia
+      quarenta.
+  - cap: 8
+    texto: 'A conta da Lúcia: 120 × 0,7 = 84; 84 ÷ 72 = 1,2.'
+  por_que: 'Com a conta do cap. 8, trinta minutos dão 21 úteis. Antes da foto com cinco linhas, nenhum formato do
+    Caio cabia nisso (granilite: meia hora no carro e quatro minutos de gravação; vídeo: 40; texto: 50). O enunciado
+    dos caps. 12 e 14 afirma ''uma por semana'' calculada no mês de entrega, número que a conta não dava, e o cap.
+    20 não explica a diferença.'
+  correcao: 'Cap. 20: depois de ''e o vídeo pedia quarenta.'', acrescentar ''A conta do enunciado tinha usado os
+    quatro minutos da gravação do granilite e esquecido a meia hora no carro.'''
+- tipo: repeticao
+  gravidade: baixa
+  trechos:
+  - cap: 2
+    texto: Em duas semanas, a lista tinha trinta e uma linhas, e algumas se repetiam com pequenas variações.
+  - cap: 14
+    texto: Em três meses, trinta e uma vezes. Mais de duas por semana.
+  - cap: 8
+    texto: Uma peça por semana, sem quebra, são cinquenta e duas.
+  - cap: 14
+    texto: Dezenove perguntas, com os níveis que cada uma tem, dão cinquenta e duas peças.
+  por_que: Pela regra cap08-r1 do ORQUESTRADOR, números de personagens diferentes não coincidem. Aqui coincidem
+    31, nas duas contagens de perguntas e crenças repetidas, e 52, nos dois estoques de um ano. O 52 da Lúcia é
+    aritmética de calendário e pode ficar; o 31 é escolha e parece gabarito.
+  correcao: 'Cap. 14: trocar ''Em três meses, trinta e uma vezes.'' por ''Em três meses, vinte e nove vezes.'' e,
+    no parágrafo do custo, ''Trinta e uma vezes em três meses dão pouco mais de cinco horas. Em oito anos, algo
+    perto de cento e sessenta horas'' por ''Vinte e nove vezes em três meses dão quase cinco horas. Em oito anos,
+    algo perto de cento e cinquenta e cinco horas'' (29 x 10 min = 4,8 h; x 32 trimestres = 155 h).'
+- tipo: biblia
+  gravidade: baixa
+  trechos:
+  - cap: 25
+    texto: Era a impressão de um texto que ele tinha publicado dezesseis meses antes, sobre janelas de ferro.
+  - cap: 25
+    texto: trouxe, dezesseis meses depois, uma cliente que chegou quase decidida
+  por_que: O plano do ORQUESTRADOR (cap. 25) diz 'um texto que Caio publicou catorze meses antes'. O texto usa dezesseis
+    de forma coerente (abril do Ano 2, dentro de 'abril a junho' do cap. 20, e 'um ano e meio antes' do cap. 29),
+    então quem diverge é o plano.
+  correcao: Não mexer no livro. No ORQUESTRADOR, plano cap. 25, trocar 'catorze meses antes' por 'dezesseis meses
+    antes'.
+- tipo: biblia
+  gravidade: baixa
+  trechos:
+  - cap: 27
+    texto: Leio os seus textos desde março, toda terça.
+  - cap: 27
+    texto: Sete meses de leitura silenciosa, toda terça, e nenhum rastro.
+  por_que: O plano do ORQUESTRADOR (cap. 27) diz 'acompanhava Lúcia havia oito meses'. O texto diz sete, de março
+    a outubro, com a conta e a verificação coerentes entre si.
+  correcao: Não mexer no livro. No ORQUESTRADOR, plano cap. 27, trocar 'havia oito meses' por 'havia sete meses'.
+- tipo: biblia
+  gravidade: baixa
+  trechos:
+  - cap: 22
+    texto: Ela tinha levado a pele e deixado o esqueleto.
+  - cap: 22
+    texto: Essa ordem, Lúcia não tinha copiado.
+  por_que: 'O arco da Lúcia no elenco do ORQUESTRADOR diz ''F4 para de copiar a estrutura de uma psicóloga famosa''.
+    O plano do cap. 22 e o texto dizem o contrário: ela copiava a voz, não a estrutura, e a estrutura é o que se
+    leva. O texto está certo e quem diverge é o elenco.'
+  correcao: Não mexer no livro. No ORQUESTRADOR, elenco.lucia.arco, trocar 'F4 para de copiar a estrutura de uma
+    psicóloga famosa' por 'F4 para de copiar a voz de uma psicóloga famosa e leva só a estrutura'.
+sem_problema_encontrado:
+- Remissões a Lúcia e Caio conferidas (caps. 5, 6, 12, 14, 15, 17, 18, 20, 22, 29) e todas corretas.
+- Cidade, ofício, modo e marcas dos dois conferem com a bíblia em todos os capítulos (Porto Alegre / Campinas, bairros
+  reais; 'rótulo não é diagnóstico', pergunta antes de responder; 'teve uma obra', 'toda parede tem uma história,
+  e metade é mentira', mede com o passo).
+- 'Equipamento do Caio fecha: estabilizador mantido (cap. 12), câmera no armário (caps. 3, 20), luzes vendidas em
+  novembro do Ano 2 (caps. 20, 29), câmera, estabilizador e microfone vendidos em dezembro do Ano 3 (cap. 30).'
+- 'Estações: nenhuma menção errada nos capítulos do escopo.'

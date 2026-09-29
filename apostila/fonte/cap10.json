@@ -1,0 +1,353 @@
+{
+ "n": 10,
+ "fase": 2,
+ "tema": "As suas opiniões não negociáveis",
+ "subtitulo": "Posicionamento é o que você defende quando custa caro",
+ "frase": "Se o seu conteúdo não pode ser discordado, ele também não pode ser lembrado.",
+ "conceito": {
+  "termo": "Opinião não negociável",
+  "definicao": "Uma posição que você sustenta mesmo quando ela reduz o seu mercado, contraria um colega respeitado ou desagrada parte do público. É o que dá contorno à sua presença.",
+  "porqueImporta": "Porque conteúdo que todo mundo concorda é conteúdo que ninguém guarda. A concordância universal é o sintoma mais confiável de irrelevância."
+ },
+ "ilustracao": {
+  "motivo": "farol",
+  "legenda": "Um farol serve porque fica no mesmo lugar. Ele não persegue os navios."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe um tipo de conteúdo que é impossível de criticar e igualmente impossível de lembrar."
+  },
+  {
+   "t": "p",
+   "text": "'É importante cuidar da saúde.' 'Cada caso é um caso.' 'O ideal é procurar um profissional.' Nada disso está errado. E é exatamente por não estar errado que não significa nada."
+  },
+  {
+   "t": "p",
+   "text": "Uma posição só tem contorno quando alguém pode discordar dela. Se ninguém pode discordar, você não disse nada — apenas ocupou espaço com palavras corretas."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "quadrante",
+    "titulo": "Onde a sua opinião mora",
+    "eixoX": [
+     "Consenso total",
+     "Alta divergência"
+    ],
+    "eixoY": [
+     "Baixo risco",
+     "Você defende mesmo custando"
+    ],
+    "pontos": [
+     {
+      "x": 12,
+      "y": 15,
+      "rotulo": "Frase segura"
+     },
+     {
+      "x": 30,
+      "y": 40,
+      "rotulo": "Dica prática"
+     },
+     {
+      "x": 62,
+      "y": 35,
+      "rotulo": "Opinião morna"
+     },
+     {
+      "x": 78,
+      "y": 82,
+      "rotulo": "Sua posição",
+      "destaque": true
+     },
+     {
+      "x": 95,
+      "y": 25,
+      "rotulo": "Polêmica gratuita"
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare que o canto direito inferior — polêmica gratuita — não é o objetivo. Divergir só para chamar atenção produz visibilidade sem autoridade, e desgasta rápido."
+  },
+  {
+   "t": "p",
+   "text": "O alvo é o quadrante superior direito: uma posição que gera divergência real e que você defende porque acredita, não porque dá engajamento."
+  },
+  {
+   "t": "h",
+   "text": "O teste do custo"
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "Como saber se é uma opinião de verdade",
+   "texto": "Se defender aquilo não te custa nada — nenhum cliente, nenhuma reputação com colegas, nenhum convite — provavelmente não é uma opinião. É uma constatação."
+  },
+  {
+   "t": "p",
+   "text": "As opiniões que constroem posicionamento têm sempre um preço. Você abre mão de um tipo de cliente. Você desagrada uma parte do seu mercado. Você fica de fora de uma conversa."
+  },
+  {
+   "t": "p",
+   "text": "E é exatamente esse preço que faz as pessoas certas te procurarem."
+  },
+  {
+   "t": "h",
+   "text": "Quatro lugares onde a sua opinião já existe"
+  },
+  {
+   "t": "table",
+   "caption": "Onde procurar o que você já defende",
+   "head": [
+    "Lugar",
+    "Pergunta que revela",
+    "Exemplo de resposta"
+   ],
+   "rows": [
+    [
+     "O que você recusa",
+     "O que você não faz mesmo pagando bem?",
+     "'Não faço procedimento estético em quem chegou com expectativa irreal — e explico por quê.'"
+    ],
+    [
+     "Onde você discorda",
+     "Em que ponto você discorda da maioria dos seus colegas?",
+     "'Acho que a gente pede exame demais e escuta de menos.'"
+    ],
+    [
+     "O que te irrita",
+     "O que você vê no seu mercado que te dá vontade de responder?",
+     "'Promessa de resultado em prazo fechado. Isso não existe e todo mundo sabe.'"
+    ],
+    [
+     "O que você mudou",
+     "Sobre o que você mudou de ideia, e por quê?",
+     "'Eu era radicalmente contra X até ver 30 casos que me obrigaram a rever.'"
+    ]
+   ]
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Posição sem contorno",
+    "tom": "neg",
+    "items": [
+     "'É importante procurar um bom profissional.'",
+     "'Cada caso deve ser avaliado individualmente.'",
+     "'Prevenção é sempre o melhor caminho.'",
+     "Ninguém discorda. Ninguém lembra."
+    ]
+   },
+   "direita": {
+    "titulo": "Posição com contorno",
+    "tom": "pos",
+    "items": [
+     "'Se te prometeram prazo fechado, desconfie — e vou explicar a conta.'",
+     "'Eu não atendo quem quer resultado sem mudar hábito. Perco cliente por isso.'",
+     "'Prevenção virou desculpa para vender pacote. Prevenir é outra coisa.'",
+     "Alguém discorda. Muita gente guarda."
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Como defender sem virar briga"
+  },
+  {
+   "t": "p",
+   "text": "Ter posição não significa atacar pessoas. A regra é simples: ataque a ideia, nunca quem a defende. Nomeie a prática, não o profissional."
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "A linha que não se cruza",
+   "texto": "Indireta reconhecível é pior que ataque direto: ela suja você sem informar ninguém. Se você não pode nomear a ideia sem apontar para uma pessoa identificável, escolha outro assunto."
+  }
+ ],
+ "insights": [
+  "Concordância universal é o sintoma mais confiável de irrelevância.",
+  "Se defender uma posição não te custa nada, não é opinião — é constatação.",
+  "O preço que você paga por uma posição é o que faz as pessoas certas te procurarem."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Listei três opiniões que me custam algo",
+   "ajuda": "Cada uma com o custo nomeado.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Separei posição de polêmica gratuita",
+   "ajuda": "Sei dizer por que defendo, além do efeito que causa.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Escrevi minha posição sem atacar pessoas",
+   "ajuda": "Ataquei a prática, não o profissional.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Identifiquei o cliente que vou perder",
+   "ajuda": "Sei quem essa posição afasta — e aceito.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual é o teste que revela se algo é uma opinião de verdade?",
+   "opcoes": [
+    "Se gera muitos comentários.",
+    "Se defendê-la te custa alguma coisa: cliente, reputação, convite.",
+    "Se contraria um estudo científico.",
+    "Se você a repete há muitos anos."
+   ],
+   "correta": 1,
+   "explicacao": "Opinião sem custo é constatação. É o preço pago que dá contorno ao posicionamento e faz as pessoas certas te encontrarem."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que 'polêmica gratuita' não serve, mesmo gerando divergência?",
+   "opcoes": [
+    "Porque é proibida pelas redes sociais.",
+    "Porque produz visibilidade sem autoridade e desgasta rápido.",
+    "Porque não gera alcance.",
+    "Porque é sempre falsa."
+   ],
+   "correta": 1,
+   "explicacao": "O alvo é divergência que você defende por acreditar, não por dar engajamento. A segunda se esgota; a primeira acumula."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual é a regra para defender posição sem virar briga?",
+   "opcoes": [
+    "Nunca discordar publicamente.",
+    "Atacar a ideia ou a prática, nunca a pessoa que a defende.",
+    "Só discordar de quem tem menos audiência.",
+    "Usar indireta em vez de nomear."
+   ],
+   "correta": 1,
+   "explicacao": "E a indireta reconhecível é o pior caminho: suja você sem informar ninguém. Se não dá para nomear a ideia sem apontar para alguém, escolha outro assunto."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O seu manifesto de três linhas",
+  "objetivo": "Nomear as posições que dão contorno à sua presença e assumir o custo de cada uma.",
+  "tempoMin": 30,
+  "entrega": "Três opiniões não negociáveis, cada uma com o custo identificado e escrita sem atacar pessoas.",
+  "formatoSugerido": [
+   "texto",
+   "carrossel",
+   "reels"
+  ],
+  "campos": [
+   {
+    "id": "op1",
+    "rotulo": "Opinião 1 — o que eu recuso",
+    "placeholder": "'Eu não faço/aceito __, mesmo quando pagam bem, porque __.'",
+    "linhas": 3
+   },
+   {
+    "id": "op2",
+    "rotulo": "Opinião 2 — onde eu discordo dos meus pares",
+    "placeholder": "'A maioria no meu mercado faz __. Eu acho que __.'",
+    "linhas": 3
+   },
+   {
+    "id": "op3",
+    "rotulo": "Opinião 3 — o que me irrita e por quê",
+    "placeholder": "Ataque a prática, não a pessoa.",
+    "linhas": 3
+   },
+   {
+    "id": "custos",
+    "rotulo": "O custo de cada uma",
+    "placeholder": "Quem eu perco, o que deixo de ganhar, com quem fico mal.",
+    "linhas": 4
+   },
+   {
+    "id": "ganho",
+    "rotulo": "Quem eu ATRAIO por defender isso",
+    "placeholder": "O cliente que só existe porque essa posição está dita em voz alta.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Cada opinião tem um custo real nomeado — se não tem, é constatação.",
+   "Nenhuma delas aponta para um profissional identificável.",
+   "Você conseguiria defender as três num jantar com colegas."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para conteúdo de posicionamento",
+  "regras": [
+   {
+    "regra": "Diga o custo em voz alta",
+    "porque": "'Perco cliente por isso' é a frase que transforma opinião em prova de integridade."
+   },
+   {
+    "regra": "Ofereça a razão, não só a posição",
+    "porque": "Posição sem razão é birra. Com razão, é critério — e critério as pessoas adotam."
+   },
+   {
+    "regra": "Antecipe a discordância e responda a ela",
+    "porque": "Mostrar que você conhece o contra-argumento prova que a posição foi pensada, não reagida."
+   }
+  ],
+  "facaAssim": [
+   "'Eu sei que isso vai desagradar parte de vocês. Ainda assim:'",
+   "'O melhor argumento contra o que eu vou dizer é X. Mesmo assim eu mantenho, porque Y.'",
+   "'Isso me custa cliente todo mês. Continuo achando que é o certo.'"
+  ],
+  "eviteAssim": [
+   "Indireta reconhecível a um colega.",
+   "Divergir de algo que ninguém realmente defende (espantalho).",
+   "Amaciar a posição até ela virar consenso — nesse ponto ela deixou de existir."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "A posição",
+    "texto": "Dita direto, na primeira linha, sem preâmbulo."
+   },
+   {
+    "rotulo": "O custo",
+    "texto": "'Isso me custa __.' A prova de que você acredita."
+   },
+   {
+    "rotulo": "A razão",
+    "texto": "O raciocínio, com o caso ou o número que o sustenta."
+   },
+   {
+    "rotulo": "A contra-objeção",
+    "texto": "'O melhor argumento contra é __. Ainda assim, __.'"
+   }
+  ]
+ },
+ "roteiro": "Vou dizer uma coisa que provavelmente vai desagradar parte de vocês.\n\n{a sua posição, dita direto}\n\nEu sei que existe um bom argumento do outro lado: {o melhor contra-argumento, dito com justiça}\n\nMesmo assim eu mantenho. E isso me custa cliente todo mês — tem gente que procura exatamente o que eu me recuso a fazer.\n\nContinuo achando que é o certo. Se você discorda, tudo bem. Mas agora você sabe onde eu estou.",
+ "estrutura": [
+  {
+   "rotulo": "A posição",
+   "texto": "Dita direto, na primeira linha, sem preâmbulo."
+  },
+  {
+   "rotulo": "O custo",
+   "texto": "'Isso me custa __.' A prova de que você acredita."
+  },
+  {
+   "rotulo": "A razão",
+   "texto": "O raciocínio, com o caso ou o número que o sustenta."
+  },
+  {
+   "rotulo": "A contra-objeção",
+   "texto": "'O melhor argumento contra é __. Ainda assim, __.'"
+  }
+ ]
+}

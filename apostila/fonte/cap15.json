@@ -1,0 +1,343 @@
+{
+ "n": 15,
+ "fase": 3,
+ "tema": "O caso como prova",
+ "subtitulo": "A história que carrega o argumento sem precisar defendê-lo",
+ "frase": "Um argumento pede que acreditem em você. Um caso deixa a pessoa concluir sozinha.",
+ "conceito": {
+  "termo": "Caso-prova",
+  "definicao": "Um episódio real, despersonalizado, escolhido não porque é impressionante, mas porque demonstra um critério seu em funcionamento. O caso não ilustra a conclusão — ele produz a conclusão na cabeça de quem lê.",
+  "porqueImporta": "Porque afirmação gera defesa e narrativa gera identificação. Quando alguém chega sozinho à conclusão, ela vira dela — e ninguém discute uma conclusão própria."
+ },
+ "ilustracao": {
+  "motivo": "espelho",
+  "legenda": "A pessoa não se vê no seu argumento. Se vê no seu caso."
+ },
+ "leituraMin": 8,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma diferença enorme entre dizer 'eu investigo antes de tratar' e contar o caso em que investigar mudou tudo."
+  },
+  {
+   "t": "p",
+   "text": "A primeira frase é uma afirmação sobre você. Ela pede confiança antecipada de quem ainda não tem motivo para confiar. A segunda é um acontecimento — e acontecimento não se discute, se acompanha."
+  },
+  {
+   "t": "callout",
+   "kind": "insight",
+   "titulo": "Por que o caso vence o argumento",
+   "texto": "Quando você afirma, a pessoa avalia se acredita em você. Quando você narra, ela avalia o que aconteceu. No primeiro cenário você está sendo julgado; no segundo, você é apenas quem estava lá."
+  },
+  {
+   "t": "h",
+   "text": "O erro de escolher o caso espetacular"
+  },
+  {
+   "t": "p",
+   "text": "O instinto manda escolher o caso mais impressionante: o mais grave, o mais raro, o que teve o resultado mais dramático."
+  },
+  {
+   "t": "p",
+   "text": "É quase sempre o pior caso a escolher. O caso raro prova que você é capaz de resolver o raro — e ninguém que te lê acha que tem o problema raro. O caso comum, bem contado, prova que você entende o problema que a pessoa realmente tem."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "quadrante",
+    "titulo": "Que caso escolher",
+    "eixoX": [
+     "Raro",
+     "Comum"
+    ],
+    "eixoY": [
+     "Sem critério visível",
+     "Revela o seu critério"
+    ],
+    "pontos": [
+     {
+      "x": 15,
+      "y": 78,
+      "rotulo": "Impressiona, não converte"
+     },
+     {
+      "x": 18,
+      "y": 20,
+      "rotulo": "Vaidade"
+     },
+     {
+      "x": 82,
+      "y": 22,
+      "rotulo": "Banal"
+     },
+     {
+      "x": 80,
+      "y": 85,
+      "rotulo": "O caso certo",
+      "destaque": true
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "A estrutura de quatro tempos"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "A situação que parecia óbvia",
+     "texto": "Comece pelo que qualquer um teria concluído. Isso alinha o leitor com o erro comum antes da virada."
+    },
+    {
+     "titulo": "O detalhe que não fechava",
+     "texto": "A coisa pequena que você notou e que ninguém tinha valorizado. É aqui que a sua autoridade aparece — não na conclusão, na percepção."
+    },
+    {
+     "titulo": "A decisão que você tomou",
+     "texto": "O que você fez de diferente, e por quê. O 'por quê' é o conteúdo; o 'o quê' é só o enredo."
+    },
+    {
+     "titulo": "O que isso ensina para quem não é você",
+     "texto": "Sem esta parte, você contou uma história boa. Com ela, você entregou um critério."
+    }
+   ]
+  },
+  {
+   "t": "example",
+   "titulo": "O mesmo caso, com e sem estrutura",
+   "ruim": "'Recebi um caso complexo que outros profissionais não conseguiram resolver. Com dedicação e a técnica correta, conseguimos um resultado excelente. A paciente saiu muito feliz. É por isso que amo o que faço.'",
+   "bom": "'A pessoa chegou dizendo que era sinusite — já tinha tomado três antibióticos diferentes. Tudo apontava para isso. Mas tinha um detalhe que não fechava: a dor melhorava quando ela se deitava, e sinusite faz o contrário. Foi só isso. Um detalhe que muda a direção inteira. E a lição não é sobre mim: se um tratamento correto não está funcionando, o problema raramente é a dose. É o diagnóstico.'",
+   "porque": "O primeiro é sobre o profissional e não ensina nada — nem o problema fica claro. O segundo entrega um sinal clínico específico, um critério transferível, e a autoridade aparece sozinha na percepção do detalhe."
+  },
+  {
+   "t": "h",
+   "text": "Onde as pessoas erram na narração"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Erros comuns",
+    "tom": "neg",
+    "items": [
+     "Começar por 'eu' em vez de pela situação.",
+     "Escolher o caso pelo resultado, não pelo critério.",
+     "Terminar no desfecho, sem generalizar.",
+     "Adjetivar o próprio trabalho: 'complexo', 'delicado', 'de excelência'.",
+     "Transformar o cliente em coadjuvante emocionado."
+    ]
+   },
+   "direita": {
+    "titulo": "O que funciona",
+    "tom": "pos",
+    "items": [
+     "Começar pela situação como qualquer um a leria.",
+     "Escolher o caso que revela como você decide.",
+     "Terminar no critério que serve para quem lê.",
+     "Deixar os fatos adjetivarem sozinhos.",
+     "O caso é sobre o problema, não sobre gratidão."
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O teste do coadjuvante",
+   "texto": "Se ao final da sua narrativa a pessoa sente admiração por você, você contou um caso de vaidade. Se ela sente que aprendeu a enxergar alguma coisa, você contou um caso-prova. Só o segundo faz alguém te procurar."
+  }
+ ],
+ "insights": [
+  "Afirmação pede confiança antecipada. Narrativa deixa a pessoa concluir sozinha — e ninguém discute a própria conclusão.",
+  "O caso raro prova que você resolve o raro, e ninguém acha que tem o problema raro. O caso comum bem contado prova que você entende o problema real das pessoas.",
+  "A autoridade aparece na percepção do detalhe, não na conclusão. É o que você notou que impressiona, não o que você resolveu."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Escolhi um caso comum, não o mais espetacular",
+   "ajuda": "O caso representa o problema que meu público realmente tem.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Usei a estrutura de quatro tempos",
+   "ajuda": "Situação óbvia, detalhe que não fecha, decisão, lição transferível.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "O caso está seguro quanto a sigilo",
+   "ajuda": "Tempo deslocado, nada identificável, ou caso composto.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Passei no teste do coadjuvante",
+   "ajuda": "Quem lê aprende a enxergar algo, não sente admiração por mim.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Por que o caso funciona melhor que a afirmação direta?",
+   "opcoes": [
+    "Porque textos longos têm mais alcance.",
+    "Porque afirmação pede que acreditem em você; narrativa deixa a pessoa concluir sozinha.",
+    "Porque histórias são mais fáceis de escrever.",
+    "Porque o algoritmo prioriza storytelling."
+   ],
+   "correta": 1,
+   "explicacao": "Na afirmação, você está sendo julgado. Na narrativa, você é apenas quem estava lá — e a conclusão a que a pessoa chega vira dela."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Por que o caso espetacular costuma ser a pior escolha?",
+   "opcoes": [
+    "Porque é difícil de despersonalizar.",
+    "Porque prova que você resolve o raro — e ninguém que te lê acha que tem o problema raro.",
+    "Porque gera menos engajamento.",
+    "Porque pode ser questionado tecnicamente."
+   ],
+   "correta": 1,
+   "explicacao": "O caso comum bem contado prova que você entende o problema que a pessoa realmente tem. É esse que gera procura."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que é o 'teste do coadjuvante'?",
+   "opcoes": [
+    "Verificar se o cliente autorizou aparecer.",
+    "Checar se ao final a pessoa sente admiração por você (vaidade) ou sente que aprendeu a enxergar algo (caso-prova).",
+    "Conferir se há mais de um personagem na história.",
+    "Avaliar se o caso é longo demais."
+   ],
+   "correta": 1,
+   "explicacao": "Admiração não gera procura; aprendizado gera. Se a peça termina em elogio a você, ela falhou mesmo tendo boa reação."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Em que momento da estrutura a autoridade realmente aparece?",
+   "opcoes": [
+    "Na conclusão do caso.",
+    "No detalhe que você notou e ninguém tinha valorizado.",
+    "Na apresentação das suas credenciais.",
+    "No resultado obtido."
+   ],
+   "correta": 1,
+   "explicacao": "Resolver é esperado. Perceber o que ninguém percebeu é o que não se copia — e é isso que a narrativa consegue mostrar sem você precisar afirmar."
+  }
+ ],
+ "tarefa": {
+  "titulo": "O seu caso-prova",
+  "objetivo": "Produzir uma peça narrativa que demonstre o seu critério em funcionamento, sem afirmar nada sobre si mesmo.",
+  "tempoMin": 35,
+  "entrega": "Um caso comum narrado nos quatro tempos, seguro quanto a sigilo, terminando em critério transferível.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "situacao",
+    "rotulo": "1. A situação como qualquer um leria",
+    "placeholder": "O que parecia óbvio. Alinhe o leitor com o erro comum antes da virada.",
+    "linhas": 3
+   },
+   {
+    "id": "detalhe",
+    "rotulo": "2. O detalhe que não fechava",
+    "placeholder": "A coisa pequena que você notou. Seja específico — o detalhe É o conteúdo.",
+    "linhas": 3
+   },
+   {
+    "id": "decisao",
+    "rotulo": "3. A decisão e o porquê",
+    "placeholder": "O que você fez diferente e qual foi a régua. O 'por quê' importa mais que o 'o quê'.",
+    "linhas": 3
+   },
+   {
+    "id": "licao",
+    "rotulo": "4. O que isso ensina para quem não é você",
+    "placeholder": "O critério que a pessoa leva mesmo sem nunca te procurar.",
+    "linhas": 3
+   },
+   {
+    "id": "sigilo",
+    "rotulo": "Checagem de sigilo",
+    "placeholder": "Tempo deslocado? Nada identificável? É caso composto? Marque cada um.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "O caso é comum, não espetacular.",
+   "Nenhum adjetivo sobre o seu próprio trabalho aparece no texto.",
+   "A lição final serve para alguém que nunca vai te contratar."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para narrar casos",
+  "regras": [
+   {
+    "regra": "Comece pela situação, nunca por você",
+    "porque": "'Recebi um caso' coloca você no centro. 'A pessoa chegou dizendo que era X' coloca o problema — e é com o problema que o leitor se identifica."
+   },
+   {
+    "regra": "Deixe os fatos adjetivarem",
+    "porque": "'Complexo', 'delicado' e 'de excelência' são autoavaliação. Descreva o que aconteceu e quem lê aplica o adjetivo sozinho."
+   },
+   {
+    "regra": "Termine no critério, não no desfecho",
+    "porque": "O desfecho encerra a história. O critério a deixa útil depois de terminada."
+   }
+  ],
+  "facaAssim": [
+   "'Tudo apontava para X. Mas tinha um detalhe que não fechava.'",
+   "'A lição não é sobre mim: se __ não está funcionando, o problema raramente é __.'",
+   "'Foi só isso. Um detalhe que muda a direção inteira.'"
+  ],
+  "eviteAssim": [
+   "'Mais um caso de sucesso!' e variações.",
+   "Descrever a gratidão do cliente como prova.",
+   "Terminar com 'me chama no direct para o seu caso'."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Tempo 1",
+    "texto": "A situação como qualquer um leria. 2 linhas."
+   },
+   {
+    "rotulo": "Tempo 2",
+    "texto": "O detalhe que não fechava. 1–2 linhas, bem específicas."
+   },
+   {
+    "rotulo": "Tempo 3",
+    "texto": "A decisão e a régua por trás dela."
+   },
+   {
+    "rotulo": "Tempo 4",
+    "texto": "O critério generalizado. É a única parte que precisa sobreviver sozinha."
+   }
+  ]
+ },
+ "roteiro": "A pessoa chegou dizendo que era {o diagnóstico óbvio}. Tudo apontava para isso.\n\nMas tinha um detalhe que não fechava: {o detalhe pequeno que você notou}\n\nFoi só isso. Um detalhe que muda a direção inteira.\n\nE a lição não é sobre mim: se um tratamento correto não está funcionando, o problema raramente é a dose. Quase sempre é o diagnóstico.",
+ "estrutura": [
+  {
+   "rotulo": "A situação óbvia",
+   "texto": "Como qualquer um leria o caso. 2 linhas."
+  },
+  {
+   "rotulo": "O detalhe",
+   "texto": "O que não fechava. Bem específico — é aqui que a autoridade aparece."
+  },
+  {
+   "rotulo": "A decisão",
+   "texto": "O que você fez diferente e qual foi a régua."
+  },
+  {
+   "rotulo": "A lição",
+   "texto": "O critério generalizado, útil para quem nunca vai te procurar."
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+# =====================================================================
+#  ORQUESTRADOR — Apostila impressa "Modo Singular"
+#
+#  Fonte única de verdade do projeto editorial. Qualquer sessão começa
+#  por aqui e por:   python3 apostila/orquestrador.py status
+#
+#  Este arquivo guarda o que é ESTÁVEL (briefing, voz, regras, rubrica,
+#  arquitetura). O que MUDA (status, notas, iterações) vive em
+#  ESTADO.yaml e só é alterado pelo orquestrador.py.
+#
+#  REGRA OPERACIONAL: commit + push a cada marco (o container pode ser
+#  reciclado e tudo que não foi enviado ao GitHub se perde).
+# =====================================================================
+
+projeto:
+  titulo: "Modo Singular"
+  subtitulo: "Trinta capítulos para descobrir a sua singularidade e ser ímpar no seu posicionamento"
+  autor: "Daniel Luzz"
+  edicao: "1ª edição"
+  idioma: pt-BR
+  meio: impresso         # apostila física, enviada à casa do leitor
+  formato_pagina: "170mm 240mm"   # 17 × 24 cm, padrão de gráfica no Brasil
+  sangria: "3mm"         # só no PDF de gráfica (build --grafica)
+  relacao_com_pwa: >
+    O PWA (src/) permanece intacto e continua sendo o produto digital.
+    A apostila é um produto à parte, nesta pasta: só LÊ o conteúdo,
+    extraído uma vez para apostila/fonte/capNN.json. Nunca editar src/
+    a partir daqui.
+
+# ---------------------------------------------------------------------
+briefing:
+  publico: >
+    Especialistas com autoridade real fora da internet — profissionais de
+    saúde, direito, psicologia, arquitetura, contabilidade, engenharia,
+    ensino, consultoria — que atendem bem, vivem de indicação e têm uma
+    presença digital que não representa o que sabem. Entre 30 e 60 anos,
+    agenda cheia, desconfiança de "marketing de palco". Leitores exigentes.
+  promessa: >
+    Em 30 capítulos (um por dia), o leitor descobre o próprio modo de
+    pensar e comunicar, aprende a traduzir a experiência que já tem em
+    conteúdo publicável sobre a SUA área, monta um sistema que não depende
+    de inspiração e passa a ocupar um lugar que ninguém mais ocupa.
+  tese: >
+    Você não precisa se transformar em criador de conteúdo. Precisa
+    descobrir como transformar a pessoa e o profissional que já existem
+    em comunicação.
+  regra_de_ouro: >
+    O livro ensina princípios; todo exercício se aplica ao nicho do leitor.
+    Singularidade é o motor, o método e o alvo — NUNCA o assunto do conteúdo
+    que o leitor vai produzir. Nenhuma oficina pode levar o leitor a falar
+    de marketing, redes sociais ou produção de conteúdo para o público dele.
+  fontes: >
+    apostila/fonte/capNN.json (conteúdo, conceito, tarefa, diretrizes,
+    quiz, teste, roteiro, estrutura de cada capítulo do PWA).
+    Citações do dossiê são atribuídas como: dossiê "A Verdade Central do
+    Seu Negócio". Não existe cópia do dossiê no repositório: não inventar
+    citações novas dele.
+  o_que_muda_do_pwa_para_o_papel:
+    - "Quiz corrigido no servidor  -> 'Verificação' no fim do capítulo; gabarito comentado no Apêndice A."
+    - "Teste interativo            -> 'Autodiagnóstico' para circular e somar à mão, com faixas de leitura."
+    - "Pontuação de aplicação      -> 'Checklist de aplicação' com pontos; siga com 70% ou mais."
+    - "Tarefa com campos           -> 'Oficina' com linhas para escrever à mão."
+    - "Diretrizes + roteiro + estrutura -> 'Do caderno para a rede'."
+    - "Gating de 7 dias            -> pacto de leitura em 'Antes de começar' + calendário de 30 dias (Apêndice D)."
+    - "Vídeo por capítulo          -> removido (nada de 'assista', 'clique', 'acima/abaixo na tela')."
+    - "Banco de matéria-prima      -> 'caderno de campo' (físico ou no celular), apresentado no cap. 6 e sistematizado no cap. 19."
+    - "Prompt para IA              -> Apêndice C, modelo para usar uma IA só como formatadora."
+
+# ---------------------------------------------------------------------
+voz:
+  resumo: >
+    Um mentor sênior, direto e respeitoso, que escreve como quem já viu
+    muito caso e não precisa levantar a voz. Adulto, preciso, com calor
+    contido e humor seco e raro. Trata o leitor como colega inteligente.
+  pessoa: >
+    Segunda pessoa ("você"). O narrador pode usar "eu" para opinião e
+    posicionamento, NUNCA para inventar episódios da própria biografia.
+  registro: >
+    Português do Brasil culto e conversado. Nada de gerundismo, jargão de
+    coach, anglicismo de marketing ou linguagem institucional.
+  ritmo: >
+    Parágrafos de 3 a 6 frases como regra. Frases de comprimento variado:
+    longas que desenvolvem, curtas que fecham. A frase-soco isolada em
+    parágrafo próprio é tempero, não prato: no máximo 4 por capítulo.
+  concretude: >
+    Toda ideia abstrata desce a uma cena, um caso ou um detalhe de ofício
+    em até dois parágrafos. Detalhe específico > adjetivo. Profissões
+    variadas; nunca "um profissional" genérico quando cabe "uma
+    fonoaudióloga que atende crianças com atraso de fala".
+  estrutura_de_prosa: >
+    Abrir com cena ou situação reconhecível, não com definição. O conceito
+    nasce do caso e só então ganha nome (box "Conceito"). Fechar o texto
+    corrido com consequência prática, não com moral.
+  numeros: >
+    Nenhum número inventado apresentado como dado. Gráficos do PWA viram
+    esquemas ilustrativos e são rotulados assim. Percentuais só em falas
+    hipotéticas de personagens ("em quatro de cada cinco casos que eu vejo")
+    ou como estimativa que o LEITOR faz sobre si.
+  etica: >
+    Profissões regulamentadas (saúde, direito, psicologia) têm códigos de
+    publicidade. O livro lembra isso onde importa (Antes de começar; cap. 13;
+    cap. 27) sem virar manual jurídico. Nada de prometer resultado.
+  exemplos:
+    ruim:
+      - "Em um mundo cada vez mais digital, é fundamental que o especialista potencialize sua presença."
+      - "Não é sobre aparecer. É sobre ser visto. E isso muda tudo."
+      - "Sua voz é única, poderosa e transformadora."
+      - "O resultado? Um perfil genérico."
+    bom:
+      - "A paciente chegou com um print. Alguém tinha explicado a dor dela em quarenta segundos, com uma trilha animada ao fundo, e ela acreditou."
+      - "Renata não tinha um problema de marketing. Tinha catorze anos de casos e nenhum deles estava no perfil."
+      - "Se você nunca discordou de nada em público, ninguém tem motivo para lembrar do que você pensa."
+
+# ---------------------------------------------------------------------
+#  Vícios de IA e de texto de curso. O orquestrador.py implementa estas
+#  checagens em `lint`. ERRO bloqueia o gate; AVISO vai para a revisão.
+antivicios:
+  proibidas:     # ERRO — expressões que não aparecem em lugar nenhum do capítulo
+    - "mergulh(ar|o|e|amos)"
+    - "desvend(ar|a|e)"
+    - "potencializ"
+    - "alavanc"
+    - "impulsion"
+    - "desbloque"
+    - "crucial"
+    - "tapeçaria"
+    - "sinergia"
+    - "ecossistema"
+    - "no cenário atual"
+    - "nos dias de hoje"
+    - "em um mundo (cada vez|onde|em que)"
+    - "cada vez mais (digital|conectado)"
+    - "vale (ressaltar|destacar|lembrar)"
+    - "é importante (ressaltar|destacar|lembrar|notar|frisar)"
+    - "em suma"
+    - "em resumo"
+    - "verdadeiramente"
+    - "genuinamente"
+    - "incríve(l|is)"
+    - "poderos[oa]s?"
+    - "transformador[a]?s?"
+    - "revolucion"
+    - "divisor de águas"
+    - "virar a chave"
+    - "zona de conforto"
+    - "próximo nível"
+    - "empoder"
+    - "ressignific"
+    - "gatilho mental"
+    - "conteúdo de valor"
+    - "(entregar|agregar|gerar) valor"
+    - "autentic"
+    - "jornada"          # no livro, usar "percurso", "caminho", "trinta dias"
+    - "mindset"
+    - "storytelling"
+    - "insights?"
+    - "branding"
+    - "networking"
+    - "perform(ar|a|am)\\b"
+    - "clique"
+    - "botão"
+    - "no app"
+    - "aplicativo do curso"
+    - "!"                # exclamação: zero
+  limites_por_capitulo:   # ERRO se ultrapassar (contados só na prosa)
+    nao_e_e: 2            # "não é X. É Y." / "não é X, é Y" / "não é X — é Y"
+    frase_soco: 4         # parágrafo de 1 frase com menos de 12 palavras
+    repare_perceba: 1     # "Repare", "Perceba", "Note que"
+    pergunta_resposta: 1  # "O resultado? Um..." (pergunta curta respondida em seguida)
+    virgula_e_nao: 3      # ", e não Y" — a antítese disfarçada (revisão cap01-r1)
+    sinalizacao: 1        # "vale olhar", "convém", "antes de seguir", "por ora"... narrador que anuncia
+    suposicao_leitor: 1   # "Talvez você…", "É provável que você…", "Você provavelmente…"
+    te_pronome: 0         # "te" fora do roteiro de fala (tratamento é "você")
+  limites_por_mil_palavras:   # AVISO
+    travessao: 7          # "—" na prosa
+    interrogacao: 8
+    triade: 4             # "a, b e c" de palavras soltas
+  estatisticas_de_frase:      # AVISO
+    media_min: 11
+    media_max: 22
+    desvio_min: 6         # variação de comprimento (ritmo)
+
+# ---------------------------------------------------------------------
+#  Lições das revisões cegas. Valem para TODOS os capítulos, escritos ou a escrever.
+licoes_da_revisao:
+  - "cap01-r1: o roteiro de fala é a versão falada do esqueleto da peça, 100% sobre a área do leitor. Proibido mencionar internet, perfil, publicar, 'vou começar a falar', 'próximas semanas'."
+  - "cap01-r1: a antítese disfarçada (', e não Y', 'Não tem X. Tem Y', 'X e Y são coisas diferentes: a primeira… a segunda…') é o mesmo tique do 'não é X, é Y'. No máximo uma antítese explícita por seção."
+  - "cap01-r1: narrador que anuncia ('vale entendê-lo', 'antes de seguir', 'por ora', 'o nome importa menos') é voz de curso. Dizer, não anunciar."
+  - "cap01-r1: todo item do checklist de aplicação precisa de um campo correspondente na oficina."
+  - "cap01-r1: autodiagnóstico precisa de instrução para quem não tem perfil/não publica, e as faixas não podem afirmar o que a escala não mede."
+  - "cap01-r1: verificação com corretas em posições variadas, opções de comprimento parecido, distratores inequivocamente falsos para TODAS as profissões do público (ex.: 'indicação é proibida' é verdade parcial para advogados)."
+  - "cap01-r1: detalhe de ofício tem de ser exato (pronto-socorro não tem retorno na semana seguinte; engenheiro diz 'recalque'; fisioterapeuta mede mobilidade lombar). Contas feitas por personagens têm de fechar."
+  - "cap01-r1: nada de afirmação empírica sem fonte ('quase todo mundo faz isso hoje'); nada de promessa ('vai gerar diferença perceptível'); autodiagnóstico 'estima', não 'mede'."
+  - "cap01-r1: fecho do texto termina em consequência prática; não listar as seções seguintes do capítulo; não apresentar o elenco como ficha (dar a cada um uma imagem)."
+  - "cap01-r1: exemplos da oficina em profissões diferentes da do personagem em foco, sem autoelogio."
+  - "cap01-r2: tratamento uniforme com 'você' na prosa e nos blocos ('a quem ainda não conhece você'); 'te' só é aceito dentro do roteiro de fala, que imita a fala."
+  - "cap01-r2: no máximo uma suposição sobre o leitor por capítulo ('Talvez você…', 'É provável que você…', 'Você provavelmente…'). Afirme."
+  - "cap01-r2: exemplos de 'Faça assim' nunca contêm indireta a colegas ('por que ninguém tinha visto isso antes')."
+  - "cap01-r2: toda instrução de pontuação precisa ser testada linha a linha contra os itens invertidos."
+  - "cap01-r2: coerência de arco: nada no capítulo N pode negar o que o ponto_de_partida do personagem prevê para capítulos seguintes (ex.: a tentativa de carrossel da Renata)."
+  - "cap01-r2: a mesma batida narrativa ('quase foi embora') no máximo duas vezes por capítulo; o fecho da cena traz um ganho novo."
+  - "cap01-r2: parágrafo com no máximo 6 frases; seção não vira depósito de assuntos que o intertítulo não cobre."
+  - "cap01-r2: o personagem em foco mostra o seu modo de pensar (ver elenco.modo) já na primeira cena em que aparece."
+  - "cap02-r1: nenhuma imagem ou cena se repete entre capítulos (ex.: 'rapaz de vídeo que ensina errado' já é do cap. 1). Registrar imagens-chave em ESTADO.yaml › imagens."
+  - "cap02-r1: a mesma ideia (ex.: 'passar a consulta desfazendo o que outro ensinou') no máximo duas vezes por capítulo; a terceira vez tem de trazer ganho novo."
+  - "cap02-r1: o fecho da prosa não descreve a oficina ('A oficina deste capítulo pede…'); termina na cena ou numa consequência."
+  - "cap02-r1: esqueleto e roteiro precisam servir a TODOS os exemplos que o próprio capítulo dá."
+  - "cap02-r1: generalizações empíricas ('quase nunca', 'com frequência', 'costumam') sobre o comportamento de terceiros viram observação de personagem ou saem."
+  - "cap02-r1: nomes populares de condições (ex.: 'vista cansada' = presbiopia) conferidos antes de usar."
+  - "cap03-r1: uma regra operacional (ex.: número de tomadas) aparece idêntica em todos os lugares do capítulo."
+  - "cap03-r1: gravar 'onde você trabalha' sempre com a ressalva do quadro limpo (nenhum papel, tela, prontuário ou cliente identificável)."
+  - "cap04-r1: a batida 'personagem não fez o óbvio; fez outra coisa' está esgotada na Fase I. Abrir desfechos pela ação."
+  - "cap04-r1: frases-marca e cenas reservadas no plano (ex.: 'contrato assinado não é prova de nada' é do cap. 16; 'dá para derrubar essa parede?' é do cap. 14) não podem ser gastas antes."
+  - "cap04-r1: nomes de figurantes com som distante dos protagonistas (Helena, e não Júlia, perto de Lúcia). A sócia do Otávio é Helena."
+  - "cap04-r1: arcos não se resolvem antes da hora: Otávio só volta à agência, com novo arranjo, no cap. 24; até lá as publicações estão suspensas."
+  - "cap04-r1: campos da oficina que pedem tabela usam 'grade' (linhas x colunas para marcar); espaço de escrita dimensionado para caber o que se pede à mão."
+  - "cap01-r4: toda faixa do autodiagnóstico é testada contra combinações extremas (itens que não medem a coisa somando alto). A leitura remete a linhas numeradas e só afirma o que aquelas linhas medem."
+  - "cap01-r4/cap02-r2: 'muita gente', 'costuma(m)', 'a maioria', 'quase todo' sobre terceiros são generalizações sem fonte; viram observação de personagem ou saem. Máximo 2 por capítulo."
+  - "cap02-r2: exemplo de critério entrega a régua inteira (nunca termina em 'assim' ou 'isto'). Detalhe de ofício (código de ética, lei, técnica) conferido na fonte; na dúvida, formular pelo que é certo."
+  - "cap02-r2: o esqueleto da rede não repete a oficina; quando a oficina já escreveu as partes, o esqueleto é 'passe a limpo' com 2 linhas por parte (campo esqueleto_rotulo)."
+  - "cap02-r2: a cena final, a seção de conceito e o gabarito apontam para a MESMA peça/escolha do personagem. Conferir gabarito contra o texto final a cada reescrita."
+  - "cap02-r2: profissões de figurantes não se repetem em capítulos vizinhos (conferir ESTADO.yaml > figurantes antes de escolher)."
+  - "cap02-r3: a régua entregue na peça é a que o CLIENTE usa sozinho (o que observar, o que perguntar), nunca a conduta do profissional."
+  - "cap03-r2: gravar no espaço do cliente exige autorização informada (ele sabe o que vai ser dito) e o mínimo da casa no quadro; o assunto nunca é a decisão daquele cliente."
+  - "cap03-r3: critério do 'Confira antes de seguir' precisa ser verificável no papel, no momento em que a oficina termina."
+  - "cap03-r3: toda cena que mostra resultado mostra também como a pessoa chegou a ele; sem furos de enredo (quem sabia o quê, e quando)."
+  - "calibragem (caps 8-11): 1800 palavras de prosa exigem 24 a 28 parágrafos de 65 a 80 palavras, além dos boxes. Rascunho com 17 parágrafos sai com ~1300; planejar a extensão por seção antes de escrever (cena 4-5, cada intertítulo 4-6)."
+  - "personagens: os quatro protagonistas vivem em cidades diferentes e NÃO se conhecem; nenhum comenta o outro dentro da cena."
+  - "cap08-r1: linha do tempo de cada personagem é contínua entre capítulos (mês, há quanto tempo faz X); conferir capítulos anteriores antes de datar uma cena."
+  - "cap08-r1: números de personagens diferentes nunca coincidem (duas contas com o mesmo resultado parecem gabarito)."
+  - "cap08-r1: o tempo da oficina é honesto; se ela exige produzir uma peça, dizer (tempo_nota) e o critério só cobra o que existe ao fim dela."
+  - "cap08-r1: cena ou solução reservada a outro capítulo do plano (ex.: protocolo do mês difícil, cap. 29) não é gasta antes."
+  - "cap09-r1: fato de ofício (clínica, direito, obra) é conferido como um especialista da área conferiria; um erro técnico no caso central é bloqueador. Sinal clássico que está nos livros não é apresentado como 'fora de qualquer manual': o repertório é reconhecê-lo fora do lugar."
+  - "cap09-r1: listas que o leitor vai consultar (perguntas, critérios) saem numeradas (nota com itens), para que oficina e rede possam remeter a elas."
+  - "cap11-r1/cap12-r1: nenhum exemplo, regra ou gabarito contradiz os quatro modos (falando, escrevendo, respondendo, contando); regras de produção dizem 'no seu modo', nunca 'grave' ou 'escreva' para todos."
+  - "cap12-r1: o fecho do capítulo não anuncia as fases seguintes nem descreve a oficina; termina em cena."
+  - "cap13-r1: sigilo vale também para o calendário: peça que parte de um atendimento nunca sai na semana dele; o caso-modelo do livro mostra a espera."
+  - "cap10-r2: recusar o que a lei já proíbe só é posição se a praça faz o contrário; exemplos de opinião são legais e discutíveis."
+
+# ---------------------------------------------------------------------
+elenco:
+  nota_ao_leitor: >
+    Quatro personagens compostos atravessam o livro. São feitos de traços
+    de muitos especialistas reais; nenhum é uma pessoa identificável. Cada
+    um encarna um dos quatro modos de pensar (cap. 7) — o leitor só
+    descobre isso na Fase II, mas os sinais estão plantados desde a Fase I.
+  personagens:
+    renata:
+      nome: "Renata Moura"
+      idade: 41
+      oficio: "fisioterapeuta, dor lombar crônica, consultório próprio em Curitiba há 14 anos"
+      modo: "pensa FALANDO — explica com as mãos, por analogia, em voz alta"
+      ponto_de_partida: >
+        Quatro de cada cinco pacientes novos chegam por indicação de dois
+        ortopedistas. Perfil montado por um sobrinho seis anos atrás: fotos de
+        alongamento, "cuide da sua coluna" com coração azul. Tentou carrossel
+        (formato de quem pensa escrevendo) e parou no 23º dia.
+      marcas: ["'a dor não é o inimigo, é o alarme'", "desenha no ar com as mãos", "pergunta 'e de manhã, como é?' a todo paciente"]
+      personagens_de_apoio: "Marcos (47, paciente do cap. 1: dor pior ao acordar; encaminhado a reumatologista; frase 'parecia perfil de academia')"
+      arco: >
+        F1 reconhece a assimetria e a desistência como atrito de formato ->
+        F2 descobre o modo oral e um ritmo de 2 peças por semana ->
+        F3 publica caso-prova e contraponto sobre "postura correta" ->
+        F4 caderno de campo em áudios de 20 s; cresce e quase se descaracteriza ->
+        F5 o perfil vira porta de entrada; pacientes chegam citando vídeos antigos.
+    otavio:
+      nome: "Otávio Bezerra"
+      idade: 52
+      oficio: "advogado trabalhista que defende pequenas empresas, Recife, 25 anos de prática"
+      modo: "pensa ESCREVENDO — pareceres longos, e-mails que os clientes guardam"
+      ponto_de_partida: >
+        Contratou agência: 15 posts por mês do tipo "Você sabia?". Corretos e
+        anônimos. Aprova tudo porque nada está errado. Não saberia defender
+        nos comentários metade do que sai com o nome dele.
+      marcas: ["'contrato assinado não é prova de nada'", "começa pela pior hipótese", "escreve à mão antes de digitar"]
+      arco: >
+        F1 terceirização prematura; descobre que a rotina já produz matéria-prima (e-mails a clientes) ->
+        F2 a opinião que custa cliente (recusa acordos de fachada) ->
+        F3 publica a explicação que repete há anos ->
+        F4 ritual encaixado depois de cada parecer; volta à agência na ordem certa ->
+        F5 mede o que decide (consultas qualificadas), não curtidas.
+    lucia:
+      nome: "Lúcia Prado"
+      idade: 36
+      oficio: "psicóloga clínica, adultos com ansiedade, Porto Alegre"
+      modo: "pensa RESPONDENDO — ganha clareza quando alguém pergunta"
+      ponto_de_partida: >
+        Não publica nada por receio de exposição e por zelo com o sigilo.
+        Pacientes chegam com autodiagnósticos de vídeos curtos e ela gasta
+        sessões desfazendo rótulos.
+      marcas: ["'rótulo não é diagnóstico'", "responde pergunta com pergunta antes de responder", "cuidado extremo com sigilo"]
+      arco: >
+        F1 o silêncio também comunica ->
+        F2 ritmo do pior mês (dezembro/férias de pacientes) ->
+        F3 tradução com sigilo; contraponto sobre excesso de rótulos ->
+        F4 para de copiar a voz de uma psicóloga famosa e leva só a estrutura; referência sem cópia ->
+        F5 a oferta sem quebrar vínculo, dentro do código de ética.
+    caio:
+      nome: "Caio Tavares"
+      idade: 33
+      oficio: "arquiteto de reformas de apartamentos antigos, Campinas"
+      modo: "pensa CONTANDO — tudo vira história de obra"
+      ponto_de_partida: >
+        Comprou câmera, estabilizador e duas luzes. Fez seis vídeos
+        cinematográficos em onze fins de semana de edição. Parou.
+      marcas: ["'toda parede tem uma história, e metade é mentira'", "começa com 'teve uma obra…'", "mede tudo com o passo"]
+      arco: >
+        F1 produção cinematográfica não é autoridade ->
+        F2 o léxico da obra ->
+        F3 a pergunta recorrente ("dá para derrubar essa parede?"); o critério para recusar projeto ->
+        F4 formato mínimo viável: uma foto de obra e cinco linhas ->
+        F5 um texto de um ano atrás ainda traz clientes; sustenta no mês difícil.
+  figurantes_permitidos: >
+    Uma participação por profissão, sem repetir no mesmo capítulo:
+    dentista, nutricionista, contadora, veterinária, engenheiro estrutural,
+    professora de piano, cardiologista, fonoaudióloga, oftalmologista,
+    advogada de família, consultora de RH, personal trainer, corretor de
+    seguros, pediatra, farmacêutica, designer de interiores, professor de
+    cursinho, dermatologista, mecânico de motos, confeiteira.
+    Os usados ficam registrados em ESTADO.yaml › figurantes.
+
+# ---------------------------------------------------------------------
+estrutura_do_capitulo:
+  paginas_alvo: "14 a 16. Decisão de projeto: corpo 10,8 pt para leitor de 30 a 60 anos, espaço real de escrita à mão e seções de caderno inteiras custam páginas. Só a oficina começa em página nova; autodiagnóstico cabe numa página; campo de escrita nunca quebra. O revisor aponta brancos evitáveis, não a extensão em si."
+  prosa_palavras: [1800, 2800]
+  partes:
+    - abertura:   "Página ímpar. Fase, número, título, subtítulo, epígrafe (a frase do capítulo) e ilustração com legenda."
+    - texto:      "Prosa com 3 a 5 intertítulos. Abre em cena. Contém: box Conceito (onde o conceito nasce), 1 a 3 figuras, e no máximo 1 comparação lado a lado e 1 exemplo comum-vs-singular."
+    - guardar:    "Para guardar: três ideias, uma frase cada."
+    - autodiagnostico: "Só nos capítulos que têm teste no PWA (1, 5, 7, 30)."
+    - oficina:    "A tarefa: objetivo, tempo, entrega, campos com linhas, critérios de qualidade com caixas de marcar. Exemplos dos campos sempre em profissões variadas."
+    - para_a_rede: "Do caderno para a rede: 3 regras com porquê, faça/evite, esqueleto da peça e roteiro de fala com lacunas. Tudo sobre a área do leitor."
+    - fechamento: "Verificação (quiz; respostas no Apêndice A) + Checklist de aplicação com pontos + condição para seguir."
+  blocos_disponiveis: >
+    Fenced blocks com YAML dentro, no Markdown: conceito, figura, exemplo,
+    compara, citacao, nota, guardar, autodiagnostico, oficina, rede,
+    verificacao, aplicacao. Tabelas em Markdown, precedidas de um parágrafo
+    "Tabela: título". Modelo completo: apostila/texto/cap01.md.
+
+# ---------------------------------------------------------------------
+figuras:
+  principios:
+    - "Legível em preto e branco: o dourado é ênfase, nunca a única diferença."
+    - "Uma ideia por figura. Título que afirma, não que rotula ('A distância que custa clientes', não 'Gráfico 1')."
+    - "Esquemas com valores do PWA recebem `ilustrativo: true` (selo 'esquema ilustrativo')."
+    - "Traço fino, Inter para rótulos, cantos retos."
+  tipos: [gap, funil, quadrante, fluxo, ciclo, camadas, espectro, balanca, matriz, orbita, barras, linha, area, radar, escada]
+  ilustracoes_de_abertura: [espelho, ponte, iceberg, megafone, raizes, chave, lente, prisma, semente, engrenagem, mapa, farol, colheita, impressao-digital, territorio]
+
+# ---------------------------------------------------------------------
+rubrica:
+  escala: >
+    10 = publicável como está por uma editora de não ficção de primeira linha.
+    9 = excelente; só ajustes de linha. 8 = bom; precisa de uma passada de
+    revisão. 7 = competente mas genérico. 6 ou menos = reescrever.
+  criterios:
+    metodo:        {peso: 1.00, pergunta: "Preserva conceito, tese, técnica e tarefa do capítulo-fonte? Respeita a regra de ouro (conteúdo do leitor é sobre o nicho dele)?"}
+    voz:           {peso: 1.50, pergunta: "Soa como um autor humano e específico? Zero tiques de IA, de coach e de texto de curso?"}
+    originalidade: {peso: 1.00, pergunta: "Imagens, casos e formulações são próprios e memoráveis, não clichês do mercado digital?"}
+    clareza:       {peso: 1.00, pergunta: "O conceito fica inequívoco? Um leitor apressado consegue explicá-lo a outra pessoa?"}
+    ritmo:         {peso: 1.00, pergunta: "Lido em voz alta, flui? Varia frase e parágrafo? Transições naturais?"}
+    concretude:    {peso: 1.00, pergunta: "Cenas, casos e detalhes de ofício verossímeis e variados sustentam cada ideia?"}
+    coerencia:     {peso: 0.75, pergunta: "Consistente com o elenco, os termos e os capítulos vizinhos? Sem contradição interna?"}
+    aplicabilidade: {peso: 1.50, pergunta: "A oficina é executável no papel, em tempo realista, e produz algo útil sobre a área do leitor?"}
+    impresso:      {peso: 0.50, pergunta: "Funciona como página impressa? Hierarquia, figuras legíveis, espaço de escrita, nada que dependa de tela?"}
+    honestidade:   {peso: 0.75, pergunta: "Sem número inventado como dado, sem promessa de resultado, sem autoelogio?"}
+
+gates:
+  capitulo:
+    nota_minima: 9.0
+    criterio_minimo: 8.0
+    lint_erros: 0
+    bloqueadores: 0
+    iteracoes_max: 4          # na 4ª reprovação: reescrever do zero com outro ângulo e registrar decisão
+    revisor: "agente independente, cego quanto à autoria, com o briefing de `orquestrador.py revisao-prompt N`"
+  ordem: >
+    Pode-se RASCUNHAR o capítulo N+1 enquanto N está em revisão, mas N+1
+    não é aprovado antes de N. A fase fecha só com os 6 aprovados e uma
+    revisão de coerência de fase. O PDF final exige os 30 aprovados, a
+    revisão de livro inteiro e o QA visual.
+  prova_de_conceito: >
+    Capítulo 1 aprovado (>= 9.0) + páginas diagramadas aprovadas no QA
+    visual. Nada da produção em série começa antes disso.
+
+# ---------------------------------------------------------------------
+fases_do_projeto:
+  F0: "Fundação — fonte extraída, orquestrador, bíblia, ferramentas de diagramação"
+  F1: "Arquitetura — plano dos 30 capítulos (abaixo), sumário e pré/pós-textuais"
+  F2: "Prova de conceito — capítulo 1 escrito, diagramado e aprovado"
+  F3: "Produção — Fases I a V do livro, capítulo a capítulo, com revisão cega"
+  F4: "Livro — pré-textuais, aberturas de fase, apêndices, revisão de coerência do livro inteiro"
+  F5: "Diagramação final e QA visual página a página"
+  F6: "Entrega — PDF de leitura, PDF de gráfica, fontes versionadas"
+
+# ---------------------------------------------------------------------
+livro:
+  pre_textuais: [folha_de_rosto, creditos, sumario, antes_de_comecar]
+  fases:
+    1: {nome: "O Diagnóstico", abertura: "Entender por que a sua presença digital não representa a autoridade que você já tem."}
+    2: {nome: "A Descoberta",  abertura: "Encontrar a sua linguagem criativa, o modo em que você rende mais."}
+    3: {nome: "A Tradução",    abertura: "Converter experiência vivida em conteúdo publicável, sem virar personagem."}
+    4: {nome: "O Sistema",     abertura: "Incorporar a criação à rotina para que ela pare de depender de inspiração."}
+    5: {nome: "O Território",  abertura: "Transformar presença em ativo de prospecção e ocupar o espaço que é seu."}
+  pos_textuais:
+    A: "Gabarito comentado das verificações (gerado dos blocos verificacao)"
+    B: "Glossário dos 30 conceitos (gerado dos blocos conceito)"
+    C: "Se você usar uma IA: um modelo de pedido que mantém a sua voz"
+    D: "Calendário dos 30 dias e registro de progresso"
+
+# ---------------------------------------------------------------------
+#  Plano de cada capítulo. Título e conceito vêm do PWA; o resto é a
+#  adaptação editorial. 'foco' = personagem que conduz a cena principal.
+capitulos:
+  1:  {titulo: "A assimetria de autoridade", foco: renata, cena: "Marcos, paciente que passou por quatro profissionais, chega à Renata; quinze minutos antes, tinha visto o perfil dela e quase desistido.", figuras: [gap-assimetria, fluxo-efeito], nota: "Apresenta a tese. Primeira aparição da Renata. Autodiagnóstico: termômetro da assimetria."}
+  2:  {titulo: "O silêncio também comunica", foco: lucia, cena: "Paciente chega com um rótulo aprendido num vídeo de 40 segundos; Lúcia passa três sessões desfazendo.", figuras: [tabela-ausencia, balanca], nota: "Autopromoção vs. ocupação de território."}
+  3:  {titulo: "Conteúdo cinematográfico não é autoridade", foco: caio, cena: "O Caio e a câmera nova; onze fins de semana para seis vídeos; o teste do mudo aplicado ao melhor deles.", figuras: [camadas-hierarquia, espectro-esforco], nota: "Sinais de autoridade que não dependem de produção."}
+  4:  {titulo: "A terceirização da voz", foco: otavio, cena: "Otávio lê em voz alta um post da agência com o nome dele e não consegue responder ao primeiro comentário.", figuras: [gap-transferivel, fluxo-ordem], nota: "Tabela do que delegar e do que nunca delegar."}
+  5:  {titulo: "Constância não é disciplina", foco: renata, cena: "O 23º dia da Renata no carrossel; a noite em que ela não conseguiu 'traduzir' a fala para slides.", figuras: [barras-atrito, linha-dia23, fluxo-sustentabilidade], nota: "Autodiagnóstico. Gráficos viram esquemas ilustrativos."}
+  6:  {titulo: "Tudo pode ser conteúdo", foco: otavio, cena: "Uma terça-feira do Otávio contada hora a hora: sete fontes de matéria-prima que ele jogou fora.", figuras: [orbita-fontes, area-acumulo], nota: "Apresenta o caderno de campo. Regra dos 20 segundos."}
+  7:  {titulo: "Os quatro modos de pensar", foco: todos, cena: "Os quatro personagens diante da mesma pergunta; cada um encontra a resposta de um jeito.", figuras: [matriz-modos], nota: "Revela o modo de cada personagem. Autodiagnóstico."}
+  8:  {titulo: "O seu ritmo real", foco: lucia, cena: "O dezembro da Lúcia: agenda vazia, cabeça cheia, e o plano de três posts por semana que não sobreviveu.", figuras: [linha-frequencias, espectro-ritmo], nota: "Calcular o número que se sustenta no pior mês."}
+  9:  {titulo: "O seu repertório", foco: renata, cena: "Renata tenta listar o que sabe e escreve só o que está nos livros; depois conta um caso e o repertório aparece.", figuras: [camadas-repertorio], nota: "Informação é pública; repertório não."}
+  10: {titulo: "As suas opiniões não negociáveis", foco: otavio, cena: "O cliente que Otávio perdeu por recusar um acordo de fachada — e o que isso diz sobre a posição dele.", figuras: [quadrante-opiniao], nota: "O teste do custo."}
+  11: {titulo: "As palavras que são suas", foco: caio, cena: "A cliente que repetiu para o marido uma frase do Caio: 'essa parede está mentindo para vocês'.", figuras: [lexico-ficha], nota: "Manual de voz."}
+  12: {titulo: "A sua linguagem criativa", foco: todos, cena: "Os quatro enunciados lado a lado; o do leitor fica em branco.", figuras: [orbita-sintese], nota: "Síntese da Fase II."}
+  13: {titulo: "O gesto da tradução", foco: lucia, cena: "Lúcia transforma uma sessão em conteúdo sem revelar nada de ninguém: o que fica e o que sai.", figuras: [ponte-quatro-operacoes, barras-tempo], nota: "Sigilo e códigos de ética."}
+  14: {titulo: "A pergunta recorrente", foco: caio, cena: "'Dá para derrubar essa parede?' — a pergunta que Caio responde toda semana há oito anos.", figuras: [gap-pergunta, area-estoque], nota: "Inventário de perguntas."}
+  15: {titulo: "O caso como prova", foco: renata, cena: "O paciente que Renata atendeu sem nenhum milagre — e por isso é o melhor caso que ela tem.", figuras: [quadrante-caso, escada-quatro-tempos], nota: "Não escolher o caso espetacular."}
+  16: {titulo: "A explicação que você repete há anos", foco: otavio, cena: "O discurso do Otávio para todo cliente novo: 'contrato assinado não é prova de nada'.", figuras: [fluxo-transcricao, barras-maturidade], nota: "Transcrição pura."}
+  17: {titulo: "O contraponto", foco: lucia, cena: "Lúcia decide discordar em público da moda de rotular todo desconforto — e quase desiste três vezes.", figuras: [balanca-contraponto, escada-alturas], nota: "Quando NÃO publicar um contraponto."}
+  18: {titulo: "O critério como conteúdo", foco: caio, cena: "O projeto que Caio recusou e a régua que ele usou para recusar.", figuras: [funil-criterio], nota: "Mostrar como decide vale mais que mostrar o que sabe."}
+  19: {titulo: "O caderno de campo", foco: renata, cena: "Os áudios de 20 segundos que Renata grava entre um paciente e outro, no corredor.", figuras: [fluxo-captura, area-captura], nota: "Quatro regras e cinco gatilhos de captura."}
+  20: {titulo: "O formato mínimo viável", foco: caio, cena: "Da câmera ao celular: uma foto de obra e cinco linhas, toda quinta, há quatro meses.", figuras: [camadas-fmv], nota: "Cinco formatos mínimos, um por modo."}
+  21: {titulo: "O ritual incorporado", foco: otavio, cena: "O parágrafo que Otávio escreve depois de cada parecer, antes de fechar o arquivo.", figuras: [barras-evento-consequencia, semana-modelo], nota: "A semana modelo."}
+  22: {titulo: "Referência sem cópia", foco: lucia, cena: "Lúcia percebe que estava copiando a voz de uma psicóloga famosa, não a estrutura.", figuras: [camadas-referencia], nota: "Engenharia reversa e teste da contaminação."}
+  23: {titulo: "Escala sem descaracterização", foco: renata, cena: "Renata contrata uma assistente, triplica a produção e não se reconhece no próprio perfil.", figuras: [fluxo-arquitetura, linha-paradoxo], nota: "Escala com rosto."}
+  24: {titulo: "Quando e como delegar", foco: otavio, cena: "Otávio volta à agência — agora com áudios, um manual de voz e a última frase guardada para ele.", figuras: [tabela-escopo], nota: "Fecha o arco iniciado no cap. 4."}
+  25: {titulo: "Presença como patrimônio", foco: caio, cena: "Uma cliente chega com um texto que Caio publicou dezesseis meses antes.", figuras: [linha-patrimonio, funil-biblioteca], nota: "Parar de medir post como campanha."}
+  26: {titulo: "Boca de funil com rosto", foco: renata, cena: "O perfil da Renata reorganizado: de vitrine a porta de entrada.", figuras: [funil-tres-camadas, barras-proporcao], nota: "As três camadas do funil."}
+  27: {titulo: "Da audiência ao cliente", foco: lucia, cena: "A mensagem de uma leitora que acompanhava Lúcia havia sete meses: 'acho que agora estou pronta'.", figuras: [escada-cinco-estagios], nota: "A oferta sem quebrar o vínculo; ética profissional."}
+  28: {titulo: "As métricas que importam", foco: otavio, cena: "Otávio ignora um post com mil curtidas e investiga um com doze, que trouxe três consultas.", figuras: [camadas-painel, linha-analise], nota: "O painel de quatro números."}
+  29: {titulo: "Sustentar por doze meses", foco: caio, cena: "O mês em que três obras atrasaram ao mesmo tempo e Caio publicou do jeito mínimo.", figuras: [linha-novidade, fluxo-protocolo], nota: "O protocolo do mês difícil."}
+  30: {titulo: "Ocupar o território", foco: todos, cena: "Um ano depois: onde estão os quatro. E a página em branco para o leitor.", figuras: [espectro-autoria], nota: "Autodiagnóstico final. Declaração de território. Plano de 90 dias."}

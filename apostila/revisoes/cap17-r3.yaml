@@ -1,0 +1,57 @@
+capitulo: 17
+iteracao: 3
+notas: {metodo: 9.0, voz: 9.2, originalidade: 9.2, clareza: 9.0, ritmo: 9.0, concretude: 9.4,
+        coerencia: 9.2, aplicabilidade: 8.9, impresso: 8.8, honestidade: 9.4}
+bloqueadores: []
+pontos_fortes:
+  - 'As pendências de r1 e r2 foram resolvidas sem remendo visível. O cap. 22 agora diz “o contraponto que tinha publicado em setembro”. A concessão tem item próprio no checklist (“Reconheci por que a posição existe”, 2 pontos). O roteiro_nota absorve a terceira altura (“troque a primeira frase por “Durante anos eu pensei que {…}””), a fig. 17.2 diz “cria menos inimigos” e o fecho explica como a paciente leu o texto (“num print que uma amiga mandou sem o nome de quem escreveu”).'
+  - 'O caso-modelo ensina, em cena, os cinco sinais: a troca de “vídeos de um minuto que ensinam diagnóstico” por “explicações que cabem num minuto”, o parágrafo cortado (“quem acha que já sabe o que tem”) e as três semanas “até que a irritação não reconhecesse mais nenhuma frase”. A grade do campo 06 cobra exatamente o que a Lúcia fez.'
+  - 'Renata ganhou uma formulação própria, no modo oral e por analogia: “coluna gosta de visita, não de morador”. É memorável e casa com o elenco (“desenha no ar”, “a dor não é o inimigo, é o alarme”). Também fecha com o cap. 30, que cita “o contraponto sobre a postura correta”.'
+  - 'A cena da resposta ao comentário (“Lúcia levou uma hora para escrever quatro linhas”) e a regra que sai dela (“Uma resposta atravessada desmente, em duas linhas, o texto inteiro”) acrescentam ao PWA uma etapa que ele não tem e que o público-alvo, avesso a exposição, precisa ver.'
+problemas:
+  - criterio: aplicabilidade
+    trecho: '- {rotulo: "Sustentei com a prática e propus o que pôr no lugar", ajuda: "Campos 04 e 05.", pontos: 3}'
+    por_que: 'O capítulo chama a falta de substituição de “O erro que anula tudo”, mas o checklist deixa passar quem não a tem. Com o item fundido desmarcado, o leitor soma 3 + 2 + 2 = 7 e “siga para o capítulo 18”, porque “Fiz a checagem com honestidade” pode ser marcado por quem registrou “Falta” em “Tenho substituição”. Fundir repertório e substituição também impede de saber qual dos dois faltou. O PWA pontua os dois em separado, com 3 cada.'
+    correcao: 'Separar os itens e tornar a substituição condição de avanço: “Fui justo com a posição contrária” (2), “Reconheci por que a posição existe” (2), “Sustentei com a minha prática (campo 04)” (2), “Propus o que colocar no lugar (campo 05)” (3), “Fiz a checagem com honestidade” (1), total 10. No rodapé: “Com 7 pontos ou mais, e com o campo 05 preenchido, siga para o capítulo 18.” Testar as somas de novo.'
+  - criterio: ritmo
+    trecho: 'Um contraponto que derruba um critério e não oferece outro deixa a pessoa insegura, sem saber o que fazer, e é com essa insegurança que ela vai associar você.'
+    por_que: 'A mesma ideia (derrubar sem substituir deixa desconforto, e o leitor associa você a ele) aparece quatro vezes entre prosa e boxes: “Quem derruba a ideia de alguém tira dele um critério; se não oferece outro, a pessoa fica sem ter como seguir” (p. 13), o “porque” do Conceito (“quem lê associa você ao desconforto”), este trecho (p. 15) e o box “O erro que anula tudo” (“Quem lê fica sem saber o que fazer e associa você ao desconforto”). Depois ela volta na regra 3 da rede e na explicação da questão 03. A lição cap02-r1 permite duas ocorrências por capítulo, e a terceira precisa trazer ganho novo. Aqui nenhuma traz. O box de alerta, além disso, cai na seção “Quando não publicar” como repetição do sinal 3 da lista, que está logo acima.'
+    correcao: 'Cortar o box “O erro que anula tudo” (a lista já tem “Você não tem o que propor no lugar”, e a regra 3 da rede cobre o resto). Reduzir o trecho da p. 15 a “O quarto é propor o que colocar no lugar.” e deixar a frase da p. 13 como a formulação de referência. O corte também elimina o branco do pé da p. 17 (ver diagramação).'
+  - criterio: clareza
+    trecho: 'Esta seria a primeira peça em que ela diria que uma prática de colegas que respeitava estava deixando alguma coisa de fora.'
+    por_que: 'O capítulo não diz em que altura fica a peça da própria Lúcia, que é o caso-modelo. A abertura fala em “prática de colegas”. A segunda versão contesta “a moda dos nomes”, que é mais crença do público do que prática. A seção das alturas diz que a pergunta da amiga “levou Lúcia à terceira altura”, e a questão 02 confirma: “Lúcia chegou a ela”. A oficina pede ao leitor que escolha UMA altura no campo 01, e o roteiro_nota diz “Um contraponto por peça”. Quem tenta imitar a Lúcia não sabe se a peça dele pode misturar alturas.'
+    correcao: 'Deixar isso explícito numa frase depois de “Contou também que ela mesma fazia isso no começo”, por exemplo: “O contraponto continuava sendo contra uma prática; a confissão do começo não mudava o alvo, era a prova de que ela conhecia aquela prática por dentro.” No campo 01 da oficina, acrescentar ao exemplo: “Se você também já fez o que contesta, diga: é a terceira altura servindo de prova.”'
+  - criterio: aplicabilidade
+    trecho: 'exemplo: "Um caso típico, um padrão, um sinal. Sem identificar ninguém."'
+    por_que: 'O campo 04 é o passo mais difícil do método (“É aqui que entra o repertório do capítulo 9”) e o único dos cinco campos de escrita sem exemplo em profissão concreta. Os campos 01, 02, 03 e 05 têm um exemplo cada. Aqui o leitor recebe só uma instrução, e o critério “O campo 04 traz algo da sua prática, e não uma opinião solta” cobra o que o livro não mostrou.'
+    correcao: 'Dar um exemplo que continue o do contador do campo 02: “Um contador: “Quem abre MEI para economizar e cresce no segundo ano costuma chegar aqui com o limite estourado e imposto retroativo para pagar.”” (observação de personagem, sem número).'
+  - criterio: impresso
+    trecho: 'p. 21: três regras no topo e cerca de 55% da página em branco; p. 22: cerca de 30% em branco depois de Faça/Evite'
+    por_que: 'A ordem da rede (regras, esqueleto, Faça/Evite, roteiro) empurra o esqueleto indivisível para a p. 22 e o roteiro para a p. 23. O branco antes do esqueleto é aceito pelo projeto, mas aqui ele se soma ao da p. 22, e a rede ocupa quase três páginas para o conteúdo de duas.'
+    correcao: 'Na diagramação da rede, pôr Faça/Evite logo depois das regras (a p. 21 fica preenchida até uns 70%) e depois o esqueleto e o roteiro juntos na p. 22. Isso tende a devolver uma página ao capítulo e a trazer a Verificação para a p. 23.'
+  - criterio: ritmo
+    trecho: 'Renata gravou o contraponto dela no mês anterior, no carro, na altura do meio: contra a crença de que existe uma postura correta.'
+    por_que: 'A r2 sugeriu levar o parágrafo para junto da altura do meio, e ele continuou no fim da seção. A sequência fica prática, crença, si mesmo, Lúcia (si mesmo) e Renata (crença): o leitor volta um degrau depois de ter subido ao terceiro, e a seção termina fora da personagem em foco. Na página, isso também deixa cerca de 18% livres no pé da p. 14, porque a fig. 17.2 não cabe ali.'
+    correcao: 'Mover o parágrafo da Renata para logo depois de “…é ali que a posição de alguém fica mais nítida.” e antes da fig. 17.1. A seção termina então em “rótulo não é diagnóstico”, e o parágrafo curto ajuda a preencher o pé da p. 14.'
+  - criterio: voz
+    trecho: 'Um contraponto fundamentado tem quatro passos. O primeiro é enunciar a posição contrária com justiça'
+    por_que: 'Esta é a passagem mais de apostila do capítulo: “O primeiro é… O segundo é… O terceiro passo é… O quarto é…”, seguida de “Na segunda versão do texto, Lúcia seguiu os quatro passos”, que percorre a lista de novo. O resto do livro deixa o conceito nascer do caso, como pede a voz.estrutura_de_prosa. Aqui ele é enunciado e depois ilustrado.'
+    correcao: 'Deixar os dois primeiros passos na prosa expositiva (é neles que está o “espantalho”) e fundir o terceiro e o quarto com a cena: “Na segunda versão, Lúcia fez os dois primeiros passos e chegou aos outros dois sem precisar de regra: contou, sem identificar ninguém, o que observa…; e terminou com uma troca simples…”.'
+  - criterio: coerencia
+    trecho: 'ESTADO.yaml › figurantes: contadora [.., 17]; nutricionista [.., 17]; professor de cursinho [10, 17]'
+    por_que: 'O registro não bate com o texto final. O capítulo usa “Um contador” (masculino), e a nutricionista e o professor de cursinho saíram na r2 mas continuam registrados no cap. 17. Isso bloqueia essas profissões por engano quando os capítulos vizinhos forem escritos ou revisados (lição cap02-r2).'
+    correcao: 'Atualizar ESTADO.yaml › figurantes do cap. 17 para: personal trainer, corretor de seguros, contador, dentista, oftalmologista. Tirar o 17 de nutricionista e de professor de cursinho.'
+edicoes_de_linha:
+  - '"A diferença entre as duas está no que sustenta a divergência" -> "A diferença entre a polêmica e o contraponto está no que sustenta a divergência" (“as duas” não tem antecedente feminino plural)'
+  - '"e quem a critica pode mostrar, com um caso da própria prática, o que ela deixa de fora" -> "e quem a critica pode mostrar, com um caso do próprio trabalho, o que ela deixa de fora" (“prática” com dois sentidos na mesma frase)'
+  - '"Passou dois minutos dizendo por que a ideia se espalhou, porque ficar torto" -> "Passou dois minutos explicando de onde a ideia vinha, já que ficar torto" (eco “por que… porque”)'
+  - '"comentou discordando, com educação, e trazendo um argumento que Lúcia achou bom" -> "discordou nos comentários, com educação, e trouxe um argumento que Lúcia achou bom"'
+  - '"a frase que ela diz a quase todo paciente novo" -> "a frase que ela diz a muitos pacientes novos" (pedido da r2 ainda pendente; “quase” segue marcando a batida das desistências)'
+  - '"e é com essa insegurança que ela vai associar você" -> cortar (ver problema de repetição)'
+  - '"Sustentei com a prática e propus o que pôr no lugar" -> dividir em dois itens; usar “colocar”, o verbo do resto do capítulo'
+diagramacao:
+  - 'p. 21-22: cerca de 55% em branco na p. 21 (só as três regras) e cerca de 30% no pé da p. 22 (o roteiro foi para a p. 23). Pôr Faça/Evite antes do esqueleto e manter esqueleto e roteiro juntos na p. 22.'
+  - 'p. 17: cerca de 15% livres no pé da página, depois de “…e raramente para sempre.”; o box “O erro que anula tudo” passou para o topo da p. 18. Cortar o box (ver problema de ritmo) resolve. Se ele ficar, rever o keep-with-next que o empurra.'
+  - 'p. 14: cerca de 18% em branco sob o parágrafo de “rótulo não é diagnóstico”, porque a fig. 17.2 não coube. Mover o parágrafo da Renata para antes da fig. 17.1 (ver problema de ritmo) ou deixar a figura flutuar para o topo da p. 15 com o texto da Renata subindo.'
+  - 'p. 16: cerca de 12% livres depois do “Por quê” do box Na prática; o intertítulo “Quando não publicar” foi sozinho para a p. 17. Revisar o espaçamento antes do h2 para caber o intertítulo com as duas primeiras linhas.'
+veredito: 'Capítulo pronto para aprovar, com a melhor cena da Lúcia até aqui e as pendências de r1 e r2 resolvidas. Antes de fechar, faltam três ajustes curtos: um checklist que ainda deixa avançar sem substituição, a mesma ideia do desconforto dita quatro vezes e uma rede diagramada em quase três páginas para o conteúdo de duas.'

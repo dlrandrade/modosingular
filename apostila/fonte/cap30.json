@@ -1,0 +1,448 @@
+{
+ "n": 30,
+ "fase": 5,
+ "tema": "Ocupar o território",
+ "subtitulo": "Você não aprendeu a criar conteúdo. Você recuperou a autoria da sua presença.",
+ "frase": "Você não ajuda especialistas a criar conteúdo. Você impede que eles desapareçam atrás do próprio conhecimento.",
+ "conceito": {
+  "termo": "Autoria",
+  "definicao": "O estado em que a sua presença digital é reconhecivelmente sua — construída a partir do seu modo, do seu repertório, das suas posições e do seu léxico — e sustentável porque respeita quem precisa sustentá-la.",
+  "porqueImporta": "Porque este sempre foi o problema. Não era falta de conteúdo. Era falta de autoria na presença digital. E autoria não é um estilo: é o requisito de sustentabilidade."
+ },
+ "ilustracao": {
+  "motivo": "territorio",
+  "legenda": "O espaço sempre esteve lá. Faltava alguém plantar a bandeira."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Trinta dias atrás você tinha um problema que provavelmente descrevia assim: 'preciso postar mais'."
+  },
+  {
+   "t": "p",
+   "text": "Se o método funcionou, você já não descreve assim. Porque o problema nunca foi de volume."
+  },
+  {
+   "t": "h",
+   "text": "O que realmente aconteceu nestes 30 capítulos"
+  },
+  {
+   "t": "table",
+   "caption": "A tradução do problema, fase por fase",
+   "head": [
+    "Fase",
+    "O que parecia",
+    "O que era"
+   ],
+   "rows": [
+    [
+     "1 — Diagnóstico",
+     "'Eu não sei o que postar'",
+     "Existe uma distância entre a sua autoridade e a sua presença"
+    ],
+    [
+     "2 — Descoberta",
+     "'Eu não tenho disciplina'",
+     "Você tentava sustentar uma linguagem que não era sua"
+    ],
+    [
+     "3 — Tradução",
+     "'Minha rotina não dá conteúdo'",
+     "Você não tinha o gesto que converte experiência em peça"
+    ],
+    [
+     "4 — Sistema",
+     "'Eu não tenho tempo'",
+     "O formato do tempo exigido era incompatível, não a quantidade"
+    ],
+    [
+     "5 — Território",
+     "'Isso não dá resultado'",
+     "A unidade de medida estava errada e o vale parecia fracasso"
+    ]
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A frase que sintetiza tudo",
+   "texto": "Talvez não seja a pessoa que não combina com conteúdo. Talvez seja o modelo de conteúdo que nunca combinou com a pessoa."
+  },
+  {
+   "t": "h",
+   "text": "O que você tem agora que não tinha"
+  },
+  {
+   "t": "checklist",
+   "titulo": "O inventário dos 30 dias",
+   "items": [
+    "A frase da sua assimetria e o custo dela nomeado (cap. 1).",
+    "O seu modo criativo, testado e evidenciado (cap. 7).",
+    "O seu ritmo calibrado pelo pior mês (cap. 8).",
+    "Repertório extraído: padrões, exceções e critérios (cap. 9).",
+    "Três posições não negociáveis, com o custo assumido (cap. 10).",
+    "O seu manual de voz em cinco regras (cap. 11).",
+    "O enunciado de linguagem criativa — a régua (cap. 12).",
+    "Um inventário de perguntas com mais de 100 peças em potencial (cap. 14).",
+    "Um sistema de captura instalado e testado (cap. 19).",
+    "Um formato mínimo viável cronometrado (cap. 20).",
+    "Uma semana modelo que cabe na sua rotina real (cap. 21).",
+    "Uma arquitetura de escala com os 4 nuncas protegidos (cap. 23).",
+    "Um painel de quatro números e a pergunta de origem (cap. 28).",
+    "Um protocolo escrito para o mês difícil (cap. 29)."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Nada disso é sobre Instagram. Tudo isso é sobre você conseguir aparecer sem virar outra pessoa."
+  },
+  {
+   "t": "h",
+   "text": "A dimensão econômica, dita sem rodeio"
+  },
+  {
+   "t": "p",
+   "text": "Todo dia em que um especialista competente permanece fora da conversa pública, alguém ocupa esse espaço. O mercado não consegue recompensar conhecimento que não consegue perceber."
+  },
+  {
+   "t": "p",
+   "text": "Isso não é um convite à autopromoção vazia. É uma questão de distribuição. Não basta saber. Em determinadas profissões, passou a ser necessário permitir que outras pessoas saibam que você sabe."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "espectro",
+    "titulo": "Onde você estava e onde você está",
+    "esquerda": "Presença terceirizada ou ausente",
+    "direita": "Presença com autoria",
+    "marcas": [
+     {
+      "pos": 8,
+      "rotulo": "Dia 1"
+     },
+     {
+      "pos": 38,
+      "rotulo": "Fim da Fase 2"
+     },
+     {
+      "pos": 68,
+      "rotulo": "Fim da Fase 4"
+     },
+     {
+      "pos": 92,
+      "rotulo": "Hoje"
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "text": "Os próximos 90 dias"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Dias 1 a 30 — repetição pura",
+     "texto": "Só o FMV, no ritmo assumido, com captura diária. Nada de formato novo. É aqui que o hábito se instala."
+    },
+    {
+     "titulo": "Dias 31 a 60 — profundidade",
+     "texto": "Continue o FMV e comece a atravessar o inventário de perguntas nos três níveis. O repertório entra em cena."
+    },
+    {
+     "titulo": "Dias 61 a 90 — primeira variação",
+     "texto": "Se o hábito estiver firme, adicione uma variação do FMV. Uma só. Se o hábito ainda oscila, não adicione nada."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "O erro mais provável do dia 31",
+   "texto": "Querer redesenhar tudo. Você vai terminar este método com energia e com ideias — e a tentação vai ser mudar o formato, o posicionamento e o ritmo de uma vez. Não mude nada por 30 dias. O sistema que você montou não foi testado ainda; ele só foi construído."
+  },
+  {
+   "t": "h",
+   "text": "A última coisa"
+  },
+  {
+   "t": "quote",
+   "text": "Você não ajuda especialistas a criar conteúdo. Você ajuda especialistas a não desaparecer atrás do próprio conhecimento.",
+   "fonte": "Dossiê — Direção estratégica"
+  },
+  {
+   "t": "p",
+   "text": "Essa frase foi escrita sobre o método. Mas a partir de agora ela é sobre você — porque quem vai impedir que o seu conhecimento continue invisível não é mais um curso, um capítulo ou um sistema."
+  },
+  {
+   "t": "p",
+   "text": "É a decisão, tomada de novo a cada terça e a cada quinta, de ocupar um espaço que sempre foi seu."
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "A partir de amanhã",
+   "texto": "Não existe dia 31 do Modo Singular. Existe a sua terça-feira. Ela chega em breve, e você já sabe exatamente o que fazer nela — porque está escrito, cronometrado e testado. Só falta acontecer."
+  }
+ ],
+ "insights": [
+  "O problema nunca foi falta de conteúdo. Era falta de autoria na presença digital — e autoria não é estilo, é requisito de sustentabilidade.",
+  "O erro mais provável do dia 31 é querer redesenhar tudo. O sistema que você montou foi construído, não testado. Não mude nada por 30 dias.",
+  "Não basta saber. Em determinadas profissões, passou a ser necessário permitir que outras pessoas saibam que você sabe."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Revisei o inventário completo dos 30 dias",
+   "ajuda": "Sei o que tenho pronto e o que ficou incompleto.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Escrevi meu plano de 90 dias",
+   "ajuda": "Com as três fases e o compromisso de não mudar nada nos primeiros 30.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Publiquei a peça de fechamento",
+   "ajuda": "A declaração pública de território.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Agendei minha primeira terça",
+   "ajuda": "Data, hora e a captura que vou usar.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Qual era, de fato, o problema tratado nestes 30 capítulos?",
+   "opcoes": [
+    "Falta de conteúdo e de frequência de publicação.",
+    "Falta de autoria na presença digital.",
+    "Falta de conhecimento sobre algoritmos.",
+    "Falta de investimento em produção."
+   ],
+   "correta": 1,
+   "explicacao": "Volume era o sintoma. O problema era que a presença não pertencia à pessoa — e por isso não se sustentava."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual é o erro mais provável no dia seguinte ao término?",
+   "opcoes": [
+    "Parar de publicar por exaustão.",
+    "Querer redesenhar tudo: formato, posicionamento e ritmo de uma vez.",
+    "Contratar uma agência imediatamente.",
+    "Voltar a copiar referências."
+   ],
+   "correta": 1,
+   "explicacao": "O sistema foi construído, não testado. Mudá-lo antes de rodá-lo por 30 dias destrói a única evidência que você poderia obter."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que deve acontecer nos dias 1 a 30 do plano de 90?",
+   "opcoes": [
+    "Testar vários formatos para descobrir o melhor.",
+    "Repetição pura do FMV no ritmo assumido, sem nenhum formato novo.",
+    "Aumentar a frequência progressivamente.",
+    "Focar em crescimento de seguidores."
+   ],
+   "correta": 1,
+   "explicacao": "É a fase de instalação do hábito. Variação só entra no terceiro bloco, e apenas se o hábito estiver firme."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Segundo o fechamento, o que a sua presença digital passou a ser?",
+   "opcoes": [
+    "Uma vitrine mais bonita e profissional.",
+    "Uma extensão digital daquilo que você já representa profissionalmente.",
+    "Um canal de vendas automatizado.",
+    "Um portfólio de casos de sucesso."
+   ],
+   "correta": 1,
+   "explicacao": "Quanto mais fiel essa extensão for ao que você já é, maior a chance de ela ser sustentável — e, sendo sustentável, de se tornar estratégica."
+  }
+ ],
+ "teste": {
+  "titulo": "Diagnóstico final — o que mudou em 30 dias",
+  "instrucao": "Estas são as mesmas perguntas do Dia 1, com acréscimos. Responda com honestidade: a comparação com o seu resultado inicial é o dado mais útil que este método pode te dar.",
+  "escala": [
+   "Discordo totalmente",
+   "Discordo",
+   "Mais ou menos",
+   "Concordo",
+   "Concordo totalmente"
+  ],
+  "itens": [
+   {
+    "id": "f1",
+    "texto": "Eu sei descrever a minha linguagem criativa em uma frase."
+   },
+   {
+    "id": "f2",
+    "texto": "Eu tenho um sistema de captura que uso sem precisar lembrar."
+   },
+   {
+    "id": "f3",
+    "texto": "Eu sei exatamente o que publicar na próxima terça-feira."
+   },
+   {
+    "id": "f4",
+    "texto": "Eu consigo defender publicamente pelo menos três posições que me custam algo."
+   },
+   {
+    "id": "f5",
+    "texto": "Produzir conteúdo deixou de parecer um segundo emprego."
+   },
+   {
+    "id": "f6",
+    "texto": "Meu conteúdo não poderia ser assinado por um colega da minha área."
+   },
+   {
+    "id": "f7",
+    "texto": "Eu tenho estoque suficiente para não enfrentar uma tela vazia."
+   },
+   {
+    "id": "f8",
+    "texto": "Eu sei o que fazer no mês em que tudo desandar."
+   }
+  ],
+  "faixas": [
+   {
+    "min": 8,
+    "max": 20,
+    "titulo": "Construído, não instalado",
+    "leitura": "Você entendeu o método mas ainda não o incorporou. Isso é comum e não é falha: leia de novo os capítulos 19 a 21 e execute as tarefas que ficaram em branco. A diferença entre entender e instalar são as tarefas — não a leitura."
+   },
+   {
+    "min": 21,
+    "max": 31,
+    "titulo": "Sistema em rodagem",
+    "leitura": "Você tem as peças e já começou a usá-las. O que falta é tempo de rodagem. Cumpra os primeiros 30 dias do plano sem mudar nada — a evidência que você precisa só aparece com repetição."
+   },
+   {
+    "min": 32,
+    "max": 40,
+    "titulo": "Autoria recuperada",
+    "leitura": "Você não terminou um curso: você instalou uma forma de trabalhar. A partir daqui o método sai de cena. O que sustenta é a sua terça-feira — e você já sabe o que fazer nela."
+   }
+  ]
+ },
+ "tarefa": {
+  "titulo": "A declaração de território",
+  "objetivo": "Fechar a jornada com o ato que ela sempre pediu: publicar, em público, aquilo que você defende — e agendar a primeira terça.",
+  "tempoMin": 40,
+  "entrega": "Uma peça pública de posicionamento, o plano de 90 dias escrito e a primeira terça agendada.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "inventario",
+    "rotulo": "O que ficou pronto e o que ficou em branco nos 30 dias",
+    "placeholder": "Seja honesto. O que ficou em branco é a sua lista de trabalho da próxima semana.",
+    "linhas": 4
+   },
+   {
+    "id": "declaracao",
+    "rotulo": "A declaração: o que eu defendo e por quê",
+    "placeholder": "Use a sua posição do capítulo 10 e o seu léxico do capítulo 11. Escreva para publicar, não para guardar.",
+    "linhas": 8
+   },
+   {
+    "id": "plano",
+    "rotulo": "Meu plano de 90 dias",
+    "placeholder": "Dias 1–30: __\nDias 31–60: __\nDias 61–90: __",
+    "linhas": 4
+   },
+   {
+    "id": "terca",
+    "rotulo": "A minha primeira terça: data, hora e a captura que vou usar",
+    "placeholder": "Específico. Ex.: terça 04/03, 12h30, captura sobre a pergunta do travesseiro.",
+    "linhas": 2
+   },
+   {
+    "id": "compromisso",
+    "rotulo": "O que eu me comprometo a NÃO mudar nos próximos 30 dias",
+    "placeholder": "Formato, ritmo, posicionamento. Escreva por extenso.",
+    "linhas": 2
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A declaração foi escrita para ser publicada, não para ficar na gaveta.",
+   "A primeira terça tem data e hora reais, não 'na próxima semana'.",
+   "O compromisso de não mudar está por extenso e é verificável."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes para a peça de fechamento",
+  "regras": [
+   {
+    "regra": "Declare o que você defende, não o que você concluiu",
+    "porque": "Ninguém se interessa pela sua jornada de aprendizado. Todo mundo se interessa por uma posição clara sobre algo que importa."
+   },
+   {
+    "regra": "Não mencione o método, o curso nem o processo",
+    "porque": "A peça precisa funcionar para quem nunca ouviu falar disso. Contexto interno enfraquece qualquer conteúdo."
+   },
+   {
+    "regra": "Anuncie a frequência",
+    "porque": "Declarar publicamente 'publico às terças e quintas' cria uma expectativa externa que trabalha a seu favor exatamente nos meses do vale."
+   }
+  ],
+  "facaAssim": [
+   "Abrir pela posição, direto, na primeira linha.",
+   "Sustentar com um caso ou um número do seu repertório.",
+   "Fechar anunciando a frequência, sem justificar."
+  ],
+  "eviteAssim": [
+   "'Passei 30 dias estudando e cheguei à conclusão de que…'",
+   "Agradecer, prometer ou pedir engajamento.",
+   "Falar sobre começar a produzir conteúdo em vez de simplesmente produzir."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "A posição",
+    "texto": "O que você defende. Primeira linha, sem preâmbulo."
+   },
+   {
+    "rotulo": "O custo",
+    "texto": "'Isso me custa __.' A prova de que é opinião, não constatação."
+   },
+   {
+    "rotulo": "A sustentação",
+    "texto": "O caso, o número ou o padrão que vem do seu repertório."
+   },
+   {
+    "rotulo": "A frequência",
+    "texto": "'Publico às __ e __.' Dito uma vez, sem justificativa."
+   }
+  ]
+ },
+ "roteiro": "Vou dizer o que eu defendo, sem rodeio.\n\n{a sua posição central}\n\nIsso me custa {o custo real: cliente, convite, concordância de colegas}. E eu mantenho, porque em {tempo} de prática foi o que eu vi funcionar.\n\nSe é o tipo de conversa que te interessa, fica por aqui.",
+ "estrutura": [
+  {
+   "rotulo": "A posição",
+   "texto": "O que você defende. Primeira linha, sem preâmbulo."
+  },
+  {
+   "rotulo": "O custo",
+   "texto": "'Isso me custa __.' A prova de que é opinião, não constatação."
+  },
+  {
+   "rotulo": "A sustentação",
+   "texto": "O caso, o número ou o padrão que vem da sua prática."
+  },
+  {
+   "rotulo": "O convite",
+   "texto": "Para quem essa conversa serve. Dito uma vez, sem insistir."
+  }
+ ]
+}

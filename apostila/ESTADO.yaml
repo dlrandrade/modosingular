@@ -1,0 +1,1265 @@
+# ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
+# atualizado: 2026-09-29 09:04
+fases_do_projeto:
+  F0: concluida
+  F1: concluida
+  F2: concluida
+  F3: em_andamento
+  F4: concluida
+  F5: concluida
+  F6: concluida
+capitulos:
+  1:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 11:07
+      revisao: apostila/revisoes/cap01-r1.yaml
+      media: 8.39
+      minimo: 7.5
+      abaixo_do_minimo:
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 11:20
+      revisao: apostila/revisoes/cap01-r2.yaml
+      media: 8.62
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-27 15:39
+      revisao: apostila/revisoes/cap01-r3.yaml
+      media: 8.92
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-27 15:46
+      revisao: apostila/revisoes/cap01-r4.yaml
+      media: 9.11
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 5
+      data: 2026-09-27 15:57
+      revisao: apostila/revisoes/cap01-r5.yaml
+      media: 9.14
+      minimo: 8.9
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.14
+  2:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap02-r1.yaml
+      media: 8.36
+      minimo: 7.0
+      abaixo_do_minimo:
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 15:47
+      revisao: apostila/revisoes/cap02-r2.yaml
+      media: 8.67
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-27 16:06
+      revisao: apostila/revisoes/cap02-r3.yaml
+      media: 9.05
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.05
+  3:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap03-r1.yaml
+      media: 8.25
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      - aplicabilidade
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 15:57
+      revisao: apostila/revisoes/cap03-r2.yaml
+      media: 8.72
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-27 16:06
+      revisao: apostila/revisoes/cap03-r3.yaml
+      media: 9.02
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.02
+  4:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap04-r1.yaml
+      media: 8.26
+      minimo: 6.5
+      abaixo_do_minimo:
+      - metodo
+      - coerencia
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 20:38
+      revisao: apostila/revisoes/cap04-r2.yaml
+      media: 8.73
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-27 20:46
+      revisao: apostila/revisoes/cap04-r3.yaml
+      media: 9.02
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.02
+  5:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 15:32
+      revisao: apostila/revisoes/cap05-r1.yaml
+      media: 8.3
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      - impresso
+      - honestidade
+      bloqueadores: 3
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 20:37
+      revisao: apostila/revisoes/cap05-r2.yaml
+      media: 8.71
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-27 20:47
+      revisao: apostila/revisoes/cap05-r3.yaml
+      media: 8.94
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-27 20:58
+      revisao: apostila/revisoes/cap05-r4.yaml
+      media: 9.19
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.19
+  6:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 20:53
+      revisao: apostila/revisoes/cap06-r1.yaml
+      media: 8.48
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-27 21:00
+      revisao: apostila/revisoes/cap06-r2.yaml
+      media: 8.93
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 01:36
+      revisao: apostila/revisoes/cap06-r3.yaml
+      media: 9.23
+      minimo: 9.0
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.23
+  7:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-27 20:54
+      revisao: apostila/revisoes/cap07-r1.yaml
+      media: 8.41
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 01:38
+      revisao: apostila/revisoes/cap07-r2.yaml
+      media: 8.77
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 01:45
+      revisao: apostila/revisoes/cap07-r3.yaml
+      media: 9.1
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.1
+  8:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 01:43
+      revisao: apostila/revisoes/cap08-r1.yaml
+      media: 8.96
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 01:52
+      revisao: apostila/revisoes/cap08-r2.yaml
+      media: 9.16
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.16
+  9:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 01:53
+      revisao: apostila/revisoes/cap09-r1.yaml
+      media: 8.61
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 02:03
+      revisao: apostila/revisoes/cap09-r2.yaml
+      media: 8.93
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 06:35
+      revisao: apostila/revisoes/cap09-r3.yaml
+      media: 9.1
+      minimo: 8.9
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.1
+  10:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 02:07
+      revisao: apostila/revisoes/cap10-r1.yaml
+      media: 8.71
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 06:41
+      revisao: apostila/revisoes/cap10-r2.yaml
+      media: 8.79
+      minimo: 8.1
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 06:49
+      revisao: apostila/revisoes/cap10-r3.yaml
+      media: 9.04
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.04
+  11:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 06:44
+      revisao: apostila/revisoes/cap11-r1.yaml
+      media: 8.54
+      minimo: 8.0
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 06:55
+      revisao: apostila/revisoes/cap11-r2.yaml
+      media: 9.04
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.04
+  12:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 06:50
+      revisao: apostila/revisoes/cap12-r1.yaml
+      media: 8.33
+      minimo: 7.6
+      abaixo_do_minimo:
+      - metodo
+      - coerencia
+      - aplicabilidade
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 12:45
+      revisao: apostila/revisoes/cap12-r2.yaml
+      media: 8.73
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 12:55
+      revisao: apostila/revisoes/cap12-r3.yaml
+      media: 9.0
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.0
+  13:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 06:55
+      revisao: apostila/revisoes/cap13-r1.yaml
+      media: 8.48
+      minimo: 7.9
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 07:02
+      revisao: apostila/revisoes/cap13-r2.yaml
+      media: 8.75
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 12:25
+      revisao: apostila/revisoes/cap13-r3.yaml
+      media: 8.96
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 12:35
+      revisao: apostila/revisoes/cap13-r4.yaml
+      media: 9.22
+      minimo: 9.0
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 9.22
+    alerta: '4ª reprovação: reescrever do zero com outro ângulo e registrar a decisão.'
+  14:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 07:02
+      revisao: apostila/revisoes/cap14-r1.yaml
+      media: 8.26
+      minimo: 7.2
+      abaixo_do_minimo:
+      - originalidade
+      - coerencia
+      - impresso
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 12:25
+      revisao: apostila/revisoes/cap14-r2.yaml
+      media: 8.75
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 12:33
+      revisao: apostila/revisoes/cap14-r3.yaml
+      media: 9.01
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 9.01
+  15:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 12:43
+      revisao: apostila/revisoes/cap15-r1.yaml
+      media: 8.64
+      minimo: 7.9
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 12:50
+      revisao: apostila/revisoes/cap15-r2.yaml
+      media: 8.91
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 19:15
+      revisao: apostila/revisoes/cap15-r3.yaml
+      media: 8.96
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 19:21
+      revisao: apostila/revisoes/cap15-r4.yaml
+      media: 9.09
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.09
+  16:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 12:50
+      revisao: apostila/revisoes/cap16-r1.yaml
+      media: 8.66
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 19:16
+      revisao: apostila/revisoes/cap16-r2.yaml
+      media: 8.83
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 19:26
+      revisao: apostila/revisoes/cap16-r3.yaml
+      media: 8.96
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 19:37
+      revisao: apostila/revisoes/cap16-r4.yaml
+      media: 9.12
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.12
+  17:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 19:10
+      revisao: apostila/revisoes/cap17-r1.yaml
+      media: 8.61
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 19:20
+      revisao: apostila/revisoes/cap17-r2.yaml
+      media: 8.91
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 19:30
+      revisao: apostila/revisoes/cap17-r3.yaml
+      media: 9.11
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 9.11
+  18:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 19:26
+      revisao: apostila/revisoes/cap18-r1.yaml
+      media: 8.47
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 19:35
+      revisao: apostila/revisoes/cap18-r2.yaml
+      media: 8.76
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 20:08
+      revisao: apostila/revisoes/cap18-r3.yaml
+      media: 9.03
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.03
+  19:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 19:32
+      revisao: apostila/revisoes/cap19-r1.yaml
+      media: 8.61
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 19:41
+      revisao: apostila/revisoes/cap19-r2.yaml
+      media: 8.83
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 20:09
+      revisao: apostila/revisoes/cap19-r3.yaml
+      media: 8.94
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 20:19
+      revisao: apostila/revisoes/cap19-r4.yaml
+      media: 9.04
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.04
+  20:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 19:42
+      revisao: apostila/revisoes/cap20-r1.yaml
+      media: 8.51
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 20:14
+      revisao: apostila/revisoes/cap20-r2.yaml
+      media: 8.54
+      minimo: 8.0
+      abaixo_do_minimo: []
+      bloqueadores: 2
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 20:24
+      revisao: apostila/revisoes/cap20-r3.yaml
+      media: 8.97
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 20:32
+      revisao: apostila/revisoes/cap20-r4.yaml
+      media: 9.03
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 5
+      data: 2026-09-28 20:42
+      revisao: apostila/revisoes/cap20-r5.yaml
+      media: 9.07
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.07
+  21:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:16
+      revisao: apostila/revisoes/cap21-r1.yaml
+      media: 8.56
+      minimo: 7.4
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 20:25
+      revisao: apostila/revisoes/cap21-r2.yaml
+      media: 8.86
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 20:35
+      revisao: apostila/revisoes/cap21-r3.yaml
+      media: 8.86
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 4
+      data: 2026-09-28 20:45
+      revisao: apostila/revisoes/cap21-r4.yaml
+      media: 9.09
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.09
+  22:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:20
+      revisao: apostila/revisoes/cap22-r1.yaml
+      media: 8.64
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 20:30
+      revisao: apostila/revisoes/cap22-r2.yaml
+      media: 8.86
+      minimo: 8.1
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 20:39
+      revisao: apostila/revisoes/cap22-r3.yaml
+      media: 9.07
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    nota: 9.07
+  23:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:49
+      revisao: apostila/revisoes/cap23-r1.yaml
+      media: 8.93
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 20:57
+      revisao: apostila/revisoes/cap23-r2.yaml
+      media: 9.19
+      minimo: 8.9
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.19
+  24:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 20:53
+      revisao: apostila/revisoes/cap24-r1.yaml
+      media: 8.86
+      minimo: 8.0
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:02
+      revisao: apostila/revisoes/cap24-r2.yaml
+      media: 8.89
+      minimo: 8.4
+      abaixo_do_minimo: []
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 21:07
+      revisao: apostila/revisoes/cap24-r3.yaml
+      media: 9.11
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.11
+  25:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:03
+      revisao: apostila/revisoes/cap25-r1.yaml
+      media: 8.84
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:09
+      revisao: apostila/revisoes/cap25-r2.yaml
+      media: 9.14
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.14
+  26:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:14
+      revisao: apostila/revisoes/cap26-r1.yaml
+      media: 8.39
+      minimo: 7.9
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:22
+      revisao: apostila/revisoes/cap26-r2.yaml
+      media: 8.96
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 21:28
+      revisao: apostila/revisoes/cap26-r3.yaml
+      media: 9.06
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.06
+  27:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:17
+      revisao: apostila/revisoes/cap27-r1.yaml
+      media: 8.69
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:24
+      revisao: apostila/revisoes/cap27-r2.yaml
+      media: 8.86
+      minimo: 8.3
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 21:30
+      revisao: apostila/revisoes/cap27-r3.yaml
+      media: 9.13
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.13
+  28:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:32
+      revisao: apostila/revisoes/cap28-r1.yaml
+      media: 8.8
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:38
+      revisao: apostila/revisoes/cap28-r2.yaml
+      media: 9.0
+      minimo: 8.6
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.0
+  29:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:36
+      revisao: apostila/revisoes/cap29-r1.yaml
+      media: 8.56
+      minimo: 7.8
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 1
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:43
+      revisao: apostila/revisoes/cap29-r2.yaml
+      media: 8.96
+      minimo: 8.5
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 21:48
+      revisao: apostila/revisoes/cap29-r3.yaml
+      media: 9.08
+      minimo: 8.7
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.08
+  30:
+    status: aprovado
+    iteracoes:
+    - iteracao: 1
+      data: 2026-09-28 21:45
+      revisao: apostila/revisoes/cap30-r1.yaml
+      media: 8.54
+      minimo: 7.6
+      abaixo_do_minimo:
+      - coerencia
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 2
+      data: 2026-09-28 21:51
+      revisao: apostila/revisoes/cap30-r2.yaml
+      media: 8.88
+      minimo: 8.2
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: reprovado
+    - iteracao: 3
+      data: 2026-09-28 21:59
+      revisao: apostila/revisoes/cap30-r3.yaml
+      media: 9.05
+      minimo: 8.8
+      abaixo_do_minimo: []
+      bloqueadores: 0
+      lint_erros: 0
+      veredito: aprovado
+    nota: 9.05
+figurantes:
+  cardiologista:
+  - 1
+  - 20
+  - 27
+  engenheiro estrutural:
+  - 1
+  - 10
+  - 16
+  - 26
+  contadora:
+  - 1
+  - 3
+  - 8
+  - 5
+  - 17
+  - 26
+  advogada de família:
+  - 1
+  - 15
+  - 25
+  dentista:
+  - 2
+  - 14
+  - 7
+  - 17
+  - 26
+  - 30
+  veterinária:
+  - 2
+  - 10
+  - 13
+  - 15
+  - 18
+  - 22
+  oftalmologista:
+  - 2
+  - 5
+  - 17
+  - 25
+  fonoaudióloga:
+  - 3
+  - 10
+  - 29
+  - 21
+  dermatologista:
+  - 3
+  - 10
+  - 23
+  - 30
+  consultora de RH:
+  - 4
+  - 22
+  personal trainer:
+  - 4
+  - 17
+  - 25
+  corretor de seguros:
+  - 4
+  - 1
+  - 24
+  - 17
+  - 29
+  mecânico de motos:
+  - 6
+  - 30
+  - 24
+  confeiteira:
+  - 6
+  - 29
+  - 16
+  pediatra:
+  - 1
+  - 7
+  - 13
+  - 24
+  professora de piano:
+  - 1
+  - 6
+  - 14
+  - 24
+  nutricionista:
+  - 1
+  - 9
+  - 15
+  - 7
+  - 23
+  - 27
+  farmacêutica:
+  - 3
+  - 6
+  - 14
+  enfermeira de posto de saúde:
+  - 5
+  professora de alfabetização:
+  - 2
+  psicopedagoga:
+  - 1
+  - 20
+  eletricista:
+  - 1
+  - 28
+  corretora de imóveis:
+  - 2
+  - 10
+  professora de pilates:
+  - 3
+  treinador de natação:
+  - 3
+  mecânico:
+  - 3
+  advogada previdenciária:
+  - 3
+  instrutor de autoescola:
+  - 3
+  ceramista:
+  - 3
+  engenheira agrônoma:
+  - 8
+  - 19
+  - 27
+  marceneiro:
+  - 8
+  - 11
+  - 21
+  técnico de ar-condicionado:
+  - 9
+  - 21
+  enfermeira obstetra:
+  - 9
+  otorrinolaringologista:
+  - 9
+  professor de cursinho:
+  - 10
+  - 28
+  despachante:
+  - 10
+  - 6
+  professora de reforço escolar:
+  - 11
+  arquiteta paisagista:
+  - 12
+  corretora de seguros:
+  - 14
+  designer de interiores:
+  - 5
+  - 10
+  - 20
+  - 24
+  veterinário:
+  - 15
+  farmacêutico:
+  - 16
+  - 28
+  ortopedista:
+  - 18
+  ortodontista:
+  - 19
+  cabeleireira:
+  - 19
+  técnico de segurança do trabalho:
+  - 19
+  professor de violão:
+  - 20
+  massoterapeuta:
+  - 20
+  mestre de obras:
+  - 11
+  contador:
+  - 17
+  - 23
+  professora de inglês:
+  - 19
+  - 27
+  enfermeira:
+  - 21
+  engenheiro:
+  - 21
+decisoes:
+- '2026-09-27: Formato 17x24 cm; WeasyPrint; Newsreader + Instrument Serif + Inter; revisão cega por agente independente;
+  gate >= 9.0 sem critério < 8.0'
+- '2026-09-27: Extensão por capítulo fixada em 14 a 16 páginas (corpo 10,8 pt + espaço de escrita). ''Faça/Evite''
+  passa para depois do esqueleto, para eliminar brancos.'
+- '2026-09-27: Cap. 1 aprovado na r5 (9,14). Correções de linha da r5 aplicadas depois da aprovação (cena da cardiologista
+  virou cena de reconhecimento; faixas do autodiagnóstico completas); serão reconferidas na revisão de coerência
+  da Fase I.'
+- '2026-09-27: Palavras compostas ficam sem tratamento especial: qualquer caixa inquebrável (span nowrap/inline-block/word
+  joiner) faz o WeasyPrint engolir o espaço anterior em linha justificada. Quebra no hífen é aceita.'
+- '2026-09-27: Termo: ''tradução de formato'' (caps. 5 e 7) é a troca de forma (fala→texto); ''tradução'' sem qualificação
+  é o conceito da Fase III (experiência→peça, cap. 13).'
+- '2026-09-28: Box Para guardar mais compacto (9,8/13,2 pt, margens menores) e com break-before: avoid: quando não
+  cabe, leva junto as últimas linhas do texto, em vez de ficar sozinho na página.'
+- '2026-09-28: Caps. 13 (r4, 9,22) e 14 (r3, 9,01) passaram; correções de linha das revisões aplicadas depois da
+  aprovação. Oficinas aceitam ''numerar: true'' em campos de linhas. Cap. 30 redigido: todos os 30 capítulos têm
+  rascunho.'
+- '2026-09-28: Guardar reconferido após o CSS compacto: cap22 cabe na mesma página; cap10 leva duas linhas do texto
+  para a p19, com ~20% livres na p18 (o box não cabe por poucos mm). Aceito.'
+- '2026-09-28: Box ''Na prática'' pode quebrar entre ''O comum'' e ''O singular'' (CSS); só quebra quando o comum
+  cabe inteiro no pé da página.'
+- '2026-09-28: Cap. 12 aprovado na r3 (9,00); correções de linha da r3 aplicadas depois da aprovação. Caps. 13 e
+  14 deixam de estar pendentes de ordem.'
+- '2026-09-28: Sigilo pelo calendário vira regra do sistema (cap. 19): a seleção semanal data cada captura de atendimento
+  com a liberação (um mês após o último atendimento sobre o assunto); a produção pega só o que já está liberado.'
+- '2026-09-28: Oficinas aceitam ''rotulos_linhas: [...]'' (linhas de escrita com rótulo à esquerda), para grades
+  que pedem texto e não marcação.'
+- '2026-09-28: Cap. 20: o alerta da 4ª reprovação (reescrever do zero) foi dispensado. A r4 deu média 9,03, sem
+  critério abaixo de 8, e o único bloqueador era uma linha de sigilo (abertura ''A pergunta desta semana…''), introduzida
+  pela própria r3. O capítulo convergiu; reescrever jogaria fora o que já passou. Também foi tirado o break-inside:
+  avoid do bloco .regras da rede, para ela poder começar no pé de página; cada regra continua inteira.'
+- '2026-09-28: CSS: ''.rotulo + .esqueleto'' deixou de ter break-after: avoid (prendia o esqueleto da rede ao roteiro
+  seguinte e empurrava os dois para a página seguinte, com até 60% de branco). Vale para todos os capítulos; cap20
+  perdeu duas páginas. Cap. 20 aprovado na r5 (9,07), com correções de linha aplicadas depois (legendas do Taquaral
+  trocadas por fotos antigas já liberadas, texto do cap. 18 na lista de formatos, psicopedagoga sem carrossel).'
+- '2026-09-28: Cap. 23 aprovado na r2 (9,19). Soluções que são dele: o assunto dito no fim do áudio, transcrever
+  sem trocar palavras, a peça de controle e a revisão com o manual. O cap. 24 fica com o escopo do contrato, as
+  quatro condições para delegar e a cláusula da semana vazia.'
+- '2026-09-28: Grades de oficina com mais de seis linhas podem quebrar entre linhas, com o cabeçalho repetido (classe
+  .longa). Cap. 26: termo único ''boca de funil'' (com ''porta de entrada'' só como paráfrase na definição); o depoimento
+  fixado virou ''os convênios que atende''; ilustração de abertura trocada de farol para mapa.'
+- '2026-09-28: Cap. 30 aprovado na r3 (9,05); todos os 30 capítulos aprovados. Edições finais aplicadas (roteiro
+  abre pela posição, declaração vale 4 pontos no checklist, dermatologista no lugar da 3ª nutricionista seguida).
+  Autodiagnóstico aceita ''rodadas'' (caixas de soma lado a lado); roteiro que começa por lacuna alinha a lacuna
+  à margem.'
+- '2026-09-28: F4, coerência A (Renata e Otávio): 8 correções mínimas aplicadas (sigilo de 5 semanas no cap. 16,
+  cronologia dos caps. 21, 23 e 24, empresária do cap. 6 em outro ramo, frase do alarme no cap. 9, 33 pacientes
+  no cap. 26, ''consultório'' no lugar de ''clínica'' para Renata).'
+- '2026-09-28: F4, coerência B (Lúcia e Caio): 9 itens. Sigilo por calendário nos caps. 3 (autorização escrita),
+  11 (seis semanas, foto já liberada) e 14 (seis semanas); cap. 14 com 29 repetições (31 já era da Lúcia); cap.
+  20 explica a conta do enunciado; cap. 29 ''julho''. Plano do ORQUESTRADOR alinhado ao texto (16 meses no cap.
+  25, 7 meses no cap. 27, arco da Lúcia: copiava a voz, leva a estrutura).'
+- '2026-09-29: Autor na capa e na folha de rosto: Daniel Luzz (informado pelo dono).'
+- '2026-09-29: F4, coerência C (livro inteiro): 33 itens (1 alta, 15 médias, 17 baixas), 32 aplicados: linguagem
+  = modo no cap. 5 e teste renomeado no cap. 7; régua do cap. 11 virou ''guia''; captura, peça mínima, inventário,
+  corpus, calendário da seleção esclarecidos; números de personagens diferentes descolidos (onze linhas, dezenove,
+  dezessete, onze funcionários, sete de dez); regras do apêndice de IA alinhadas aos caps. 4, 23 e 24; ritmo de
+  estudo em 40 min a 1h30; figurantes trocados nos caps. 14, 29 e 8. Não aplicado: renomear ''régua'' dentro do
+  cap. 12 (seção e figura das cinco perguntas), para não reabrir capítulo aprovado; o cap. 18 já distingue o critério
+  do profissional do que a peça devolve.'
+- '2026-09-29: F5: QA de página em branco no pé feito por varredura automática (487 páginas). Os 33 casos restantes
+  são ou fim de seção antes de campo de escrita/esqueleto/roteiro indivisível (regra do projeto: campo nunca quebra)
+  ou página anterior a abertura de fase/apêndice; aceitos. Ideia de deixar boxes ''nota'' quebrarem não adotada:
+  mexeria em todos os capítulos aprovados. F4, F5 e F6 concluídas; PDFs finais de leitura e de gráfica (sangria
+  3 mm e marcas de corte) gerados.'
+pendencias: []
+imagens:
+  ler a própria peça impressa como de outra pessoa: 25
+  Renata rola o perfil à noite e descobre o problema: 23

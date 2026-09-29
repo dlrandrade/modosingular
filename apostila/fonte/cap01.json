@@ -1,0 +1,399 @@
+{
+ "n": 1,
+ "fase": 1,
+ "tema": "A assimetria de autoridade",
+ "subtitulo": "Você é maior fora da tela do que dentro dela",
+ "frase": "Quem convive com você sabe que você entende. Quem encontra seu perfil, não.",
+ "conceito": {
+  "termo": "Assimetria de autoridade",
+  "definicao": "A distância entre a autoridade que você exerce no mundo real — em atendimentos, reuniões, cirurgias, audiências, diagnósticos — e a autoridade que a sua presença digital consegue comunicar para quem ainda não te conhece.",
+  "porqueImporta": "Porque o mercado não recompensa o conhecimento que ele não consegue perceber. Enquanto essa distância existir, você vai continuar dependendo exclusivamente de indicação — e a indicação tem um teto."
+ },
+ "ilustracao": {
+  "motivo": "iceberg",
+  "legenda": "A maior parte da sua autoridade está abaixo da linha d'água. O mercado só decide pelo que vê."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Existe uma coisa desconfortável que quase nenhum especialista competente admite em voz alta: ele sabe que é bom, e sabe que isso não está aparecendo."
+  },
+  {
+   "t": "p",
+   "text": "Você já viveu essa cena. Um paciente, um cliente, um contratante senta na sua frente. Nos primeiros quinze minutos de conversa, alguma coisa muda no rosto dele. Ele percebe que está diante de alguém que domina o assunto. Você não precisou provar nada. A competência apareceu sozinha, no jeito de perguntar, na precisão do diagnóstico, na segurança de dizer 'isso aqui não é o seu caso'."
+  },
+  {
+   "t": "p",
+   "text": "Agora pense na mesma pessoa quinze minutos antes, olhando seu perfil no celular. O que ela viu? Provavelmente uma foto de jaleco, três posts institucionais, um 'agende sua consulta' e uma frase motivacional que poderia ser de qualquer um da sua profissão."
+  },
+  {
+   "t": "p",
+   "text": "Essa é a assimetria. E ela não é um problema de marketing. É um problema de distribuição de confiança."
+  },
+  {
+   "t": "h",
+   "text": "A conta que ninguém faz"
+  },
+  {
+   "t": "p",
+   "text": "Toda a sua autoridade hoje depende de um encontro acontecer. Alguém precisa te indicar, você precisa estar em uma sala, a conversa precisa começar. Só depois disso a sua competência entra em campo."
+  },
+  {
+   "t": "p",
+   "text": "Isso significa que a sua autoridade tem uma condição de funcionamento muito cara: presença física ou intermediação humana. Ela não trabalha enquanto você dorme. Não trabalha enquanto você atende outro paciente. Não trabalha no sábado."
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "gap",
+    "titulo": "Onde a sua competência consegue agir",
+    "a": {
+     "rotulo": "Autoridade real (quem já te conhece)",
+     "valor": 92,
+     "nota": "Construída em anos de prática, casos, erros e acertos."
+    },
+    "b": {
+     "rotulo": "Autoridade percebida (quem ainda não te conhece)",
+     "valor": 24,
+     "nota": "Construída a partir de um perfil que você não escolheu conscientemente."
+    },
+    "legenda": "Essa diferença é o seu prejuízo silencioso — e é ela que os próximos 30 dias atacam."
+   }
+  },
+  {
+   "t": "h",
+   "text": "Por que isso dói mais do que perder dinheiro"
+  },
+  {
+   "t": "p",
+   "text": "Se fosse só dinheiro, seria administrável. Mas a assimetria mexe com reconhecimento. Ela coloca você assistindo pessoas com menos repertório sendo tratadas como referência no assunto que é seu."
+  },
+  {
+   "t": "callout",
+   "kind": "citacao",
+   "titulo": "O ponto exato do incômodo",
+   "texto": "Pessoas menos capacitadas, pessoas que falam errado, pessoas que não têm a autoridade, pessoas que não têm a vivência, acabam por roubar a parcela de mercado que seria delas."
+  },
+  {
+   "t": "p",
+   "text": "Talvez você já tenha dito, em algum momento, que 'não gosta de aparecer', que 'Instagram não é a sua praia', que 'não tem tempo para isso'. Todas as três frases podem ser verdadeiras. Nenhuma delas resolve a assimetria."
+  },
+  {
+   "t": "p",
+   "text": "Elas são explicações. E explicação não é estratégia."
+  },
+  {
+   "t": "h",
+   "text": "O que este método não vai te pedir"
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Não é isto",
+    "tom": "neg",
+    "items": [
+     "Virar influenciador ou criador profissional de conteúdo.",
+     "Passar o dia gravando stories da sua rotina.",
+     "Aprender a falar de um jeito que não é o seu.",
+     "Montar estúdio, comprar equipamento, contratar equipe.",
+     "Simplificar o que você sabe até virar dica rasa."
+    ]
+   },
+   "direita": {
+    "titulo": "É isto",
+    "tom": "pos",
+    "items": [
+     "Tornar visível a autoridade que já existe em você.",
+     "Reconhecer que a sua rotina já produz matéria-prima.",
+     "Descobrir a forma de comunicar em que você é mais potente.",
+     "Usar o que você já tem: repertório, opinião e casos.",
+     "Manter a profundidade e ganhar alcance mesmo assim."
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "tese",
+   "titulo": "A tese que organiza os 30 dias",
+   "texto": "Você não precisa se transformar em criador de conteúdo para construir uma presença digital poderosa. Você precisa descobrir como transformar a pessoa e o profissional que já existem em comunicação."
+  },
+  {
+   "t": "h",
+   "text": "O que muda quando a assimetria fecha"
+  },
+  {
+   "t": "diagram",
+   "diagram": {
+    "kind": "fluxo",
+    "titulo": "O efeito acumulado de fechar a distância",
+    "nos": [
+     {
+      "rotulo": "Alguém encontra você sem indicação",
+      "nota": "Busca, sugestão do algoritmo, compartilhamento de um paciente."
+     },
+     {
+      "rotulo": "Reconhece pensamento, não só serviço",
+      "nota": "Percebe critério, opinião, forma de raciocinar."
+     },
+     {
+      "rotulo": "Volta outras vezes",
+      "nota": "Familiaridade se acumula mesmo sem contato direto."
+     },
+     {
+      "rotulo": "Chega até você já convencido",
+      "nota": "A conversa começa depois da objeção, não antes."
+     }
+    ]
+   }
+  },
+  {
+   "t": "p",
+   "text": "Repare que em nenhum momento apareceu a palavra 'viral'. A assimetria não fecha com um post que estoura. Ela fecha com repetição reconhecível."
+  }
+ ],
+ "insights": [
+  "A sua autoridade hoje só funciona quando um encontro acontece. Presença digital é o que faz ela trabalhar sem você estar presente.",
+  "Explicar por que você não produz ('não tenho tempo', 'não gosto de aparecer') não é o mesmo que resolver o problema que a ausência cria.",
+  "O objetivo não é parecer maior do que você é. É parar de parecer menor."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Reconheci a minha assimetria com honestidade",
+   "ajuda": "Consegui nomear a diferença entre como sou percebido dentro e fora da internet, sem me defender.",
+   "peso": 2
+  },
+  {
+   "id": "c2",
+   "rotulo": "Identifiquei quanto da minha aquisição depende de indicação",
+   "ajuda": "Sei, mesmo que por estimativa, qual percentual dos meus clientes chega por indicação.",
+   "peso": 2
+  },
+  {
+   "id": "c3",
+   "rotulo": "Abandonei a explicação confortável",
+   "ajuda": "Parei de justificar a ausência com falta de tempo ou de jeito.",
+   "peso": 1
+  },
+  {
+   "id": "c4",
+   "rotulo": "Escrevi a frase da minha assimetria",
+   "ajuda": "Produzi a frase pedida na tarefa, com as duas metades preenchidas.",
+   "peso": 3
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "O que é a assimetria de autoridade?",
+   "opcoes": [
+    "A diferença entre o número de seguidores que você tem e o que gostaria de ter.",
+    "A distância entre a autoridade que você exerce no mundo real e a que sua presença digital comunica.",
+    "A diferença de preço entre você e seus concorrentes.",
+    "A falta de constância na publicação de conteúdo."
+   ],
+   "correta": 1,
+   "explicacao": "A assimetria é sobre percepção, não sobre métrica. Você pode ter poucos seguidores e nenhuma assimetria — se quem te encontra percebe imediatamente do que você é capaz."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Segundo o método, qual é a principal limitação de depender só de indicação?",
+   "opcoes": [
+    "Indicação traz clientes de menor poder aquisitivo.",
+    "Indicação exige que um encontro aconteça, então sua autoridade não trabalha sozinha.",
+    "Indicação é ilegal em algumas profissões.",
+    "Indicação demora mais para converter do que anúncio pago."
+   ],
+   "correta": 1,
+   "explicacao": "A indicação é excelente, mas tem uma condição de funcionamento cara: alguém precisa estar presente para acionar. Presença digital remove essa condição."
+  },
+  {
+   "id": "q3",
+   "pergunta": "Qual destas NÃO é uma promessa deste método?",
+   "opcoes": [
+    "Tornar visível a autoridade que você já tem.",
+    "Descobrir a forma de comunicar em que você é mais potente.",
+    "Transformar você em um criador de conteúdo profissional.",
+    "Incorporar a criação à sua rotina real."
+   ],
+   "correta": 2,
+   "explicacao": "O método parte da recusa explícita a essa ideia. O especialista não precisa trocar de profissão nem adotar a identidade de criador."
+  },
+  {
+   "id": "q4",
+   "pergunta": "Por que a assimetria dói mais do que a simples perda de faturamento?",
+   "opcoes": [
+    "Porque afeta a autoestima profissional e o senso de reconhecimento merecido.",
+    "Porque impede o crescimento do faturamento no longo prazo.",
+    "Porque gera custo com agências.",
+    "Porque atrapalha o relacionamento com colegas."
+   ],
+   "correta": 0,
+   "explicacao": "Ver alguém com menos repertório ocupando o lugar que deveria ser seu não é uma questão financeira. É uma questão de mérito e reconhecimento — e por isso o incômodo é mais fundo."
+  }
+ ],
+ "teste": {
+  "titulo": "Termômetro da sua assimetria",
+  "instrucao": "Responda pensando em como está hoje, não em como gostaria que estivesse. Não existe resposta certa — existe leitura precisa.",
+  "escala": [
+   "Discordo totalmente",
+   "Discordo",
+   "Mais ou menos",
+   "Concordo",
+   "Concordo totalmente"
+  ],
+  "itens": [
+   {
+    "id": "t1",
+    "texto": "Quem me conhece pessoalmente me trata como referência no meu assunto."
+   },
+   {
+    "id": "t2",
+    "texto": "Quem só viu meu perfil consegue perceber o meu nível de profundidade.",
+    "invertido": true
+   },
+   {
+    "id": "t3",
+    "texto": "A maior parte dos meus clientes chega por indicação."
+   },
+   {
+    "id": "t4",
+    "texto": "Já vi profissionais menos preparados sendo tratados como referência na minha área."
+   },
+   {
+    "id": "t5",
+    "texto": "Meu perfil poderia ser trocado pelo de outro profissional da minha área sem que ninguém notasse."
+   },
+   {
+    "id": "t6",
+    "texto": "Quando penso em publicar, sinto que teria que 'virar outra pessoa'."
+   }
+  ],
+  "faixas": [
+   {
+    "min": 6,
+    "max": 14,
+    "titulo": "Assimetria baixa",
+    "leitura": "Sua presença já comunica boa parte do que você é. Os próximos 30 dias vão servir para tornar isso sistemático e sustentável, não para consertar."
+   },
+   {
+    "min": 15,
+    "max": 22,
+    "titulo": "Assimetria moderada",
+    "leitura": "Você já aparece, mas ainda de forma intercambiável — o que você publica poderia ser de outra pessoa. O trabalho aqui é de singularidade, não de volume."
+   },
+   {
+    "min": 23,
+    "max": 30,
+    "titulo": "Assimetria alta",
+    "leitura": "Existe uma distância grande entre quem você é e o que a internet mostra. É desconfortável de ler, mas é a melhor posição para começar: tudo que você fizer daqui em diante gera diferença perceptível."
+   }
+  ]
+ },
+ "tarefa": {
+  "titulo": "A frase da sua assimetria",
+  "objetivo": "Nomear com precisão a distância entre a sua autoridade real e a percebida. Nomear é o primeiro ato de autoria.",
+  "tempoMin": 20,
+  "entrega": "Uma frase em duas metades, escrita por você, mais três evidências concretas que sustentam a primeira metade.",
+  "formatoSugerido": [
+   "texto",
+   "nota pessoal"
+  ],
+  "campos": [
+   {
+    "id": "metade1",
+    "rotulo": "Quem convive comigo sabe que eu…",
+    "placeholder": "Ex.: …resolvo casos que outros colegas já desistiram, porque investigo a causa antes de tratar o sintoma.",
+    "linhas": 3
+   },
+   {
+    "id": "metade2",
+    "rotulo": "Mas quem só vê meu perfil acha que eu…",
+    "placeholder": "Ex.: …sou mais um profissional da área, competente e igual a todos os outros.",
+    "linhas": 3
+   },
+   {
+    "id": "evidencias",
+    "rotulo": "Três evidências reais da primeira metade",
+    "placeholder": "1. Caso do paciente que passou por quatro profissionais antes.\n2. A pergunta que eu sempre faço e ninguém faz.\n3. O procedimento que eu me recuso a fazer e explico por quê.",
+    "linhas": 5
+   },
+   {
+    "id": "custo",
+    "rotulo": "Quanto essa distância te custou nos últimos 12 meses?",
+    "placeholder": "Pode ser em oportunidades, em convites que não vieram, em pacientes que foram para outro lugar. Seja específico.",
+    "linhas": 3
+   }
+  ],
+  "criteriosDeQualidade": [
+   "A primeira metade é específica o suficiente para não caber em qualquer colega seu.",
+   "As três evidências são fatos, não adjetivos. 'Sou dedicado' não é evidência; 'atendi o caso X assim' é.",
+   "A segunda metade é honesta, mesmo que incômoda."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Como transformar isso em conteúdo publicável",
+  "regras": [
+   {
+    "regra": "Comece pela tensão, não pela credencial",
+    "porque": "Ninguém para de rolar por causa do seu currículo. Param por causa de um conflito que reconhecem."
+   },
+   {
+    "regra": "Use um caso real, não um exemplo genérico",
+    "porque": "O caso carrega detalhe. O detalhe é o que prova que você viveu aquilo."
+   },
+   {
+    "regra": "Não acuse o público",
+    "porque": "A tensão é com o mercado, não com quem te lê. Culpar a audiência gera defesa, não identificação."
+   }
+  ],
+  "facaAssim": [
+   "Abrir com a cena: 'Ontem um paciente me perguntou por que ninguém tinha visto isso antes.'",
+   "Nomear o que você viu e outros não viram, com um nível de detalhe que só quem faz teria.",
+   "Fechar com o critério que você usa — a régua, não a resposta pronta."
+  ],
+  "eviteAssim": [
+   "Frases de autoelogio: 'sou referência em…', 'excelência no atendimento'.",
+   "Atacar colegas por nome ou por indireta reconhecível.",
+   "Prometer resultado no lugar de mostrar raciocínio."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Abertura (1 linha)",
+    "texto": "A cena concreta que gerou o pensamento. Hora, lugar, quem falou o quê."
+   },
+   {
+    "rotulo": "Tensão (2–3 linhas)",
+    "texto": "O que todo mundo acha que é o problema versus o que você viu que era."
+   },
+   {
+    "rotulo": "Critério (3–4 linhas)",
+    "texto": "Como você decide. A régua que você usa e que a maioria não usa."
+   },
+   {
+    "rotulo": "Fechamento (1 linha)",
+    "texto": "Uma frase que a pessoa consiga repetir para outra pessoa."
+   }
+  ]
+ },
+ "roteiro": "Tem uma coisa que quem trabalha comigo sabe e quem me encontra na internet não faz ideia.\n\n{o que você resolve que a maioria dos seus colegas não resolve}\n\nLevei anos para conseguir fazer isso bem. E mesmo assim quase nunca falei sobre.\n\nEntão vou começar a falar. Porque enquanto eu fico quieto, quem tem esse problema continua achando que não tem solução — ou pior, aceitando a primeira resposta que aparece.\n\nSe você convive com {o problema}, fica por aqui. Nos próximos dias eu explico o que quase ninguém explica.",
+ "estrutura": [
+  {
+   "rotulo": "A cena",
+   "texto": "O momento concreto que gerou o pensamento. Hora, lugar, quem falou o quê."
+  },
+  {
+   "rotulo": "A tensão",
+   "texto": "O que todo mundo acha que é o problema, versus o que você viu que era."
+  },
+  {
+   "rotulo": "O critério",
+   "texto": "A régua que você usa e que a maioria não usa."
+  },
+  {
+   "rotulo": "A frase que fica",
+   "texto": "Uma linha que a pessoa consiga repetir para outra pessoa."
+  }
+ ]
+}

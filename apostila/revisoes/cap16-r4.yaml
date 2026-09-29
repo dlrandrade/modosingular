@@ -1,0 +1,59 @@
+capitulo: 16
+iteracao: 4
+notas: {metodo: 9.1, voz: 9.2, originalidade: 9.1, clareza: 9.1, ritmo: 9.1, concretude: 9.3,
+        coerencia: 9.0, aplicabilidade: 9.1, impresso: 8.6, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - 'Quase tudo o que a r3 apontou foi resolvido. O sigilo agora segue uma lógica só: "com a ação em curso, os fatos dela não saem do escritório, com nome ou sem nome", o texto sai de "um caso encerrado" e a espera protege quem esteve na conversa ("para que a dona das academias, se lesse, não achasse que a reunião dela tinha virado assunto"). O técnico de ar-condicionado substituiu a manicure, que esbarrava na Lei do Salão-Parceiro. A antítese do fecho da cena caiu ("Achava que estava apenas começando a conversa, como começa todas"), e o lint marca nao_e_e 1.'
+  - 'A transcrição de fala finalmente aparece no papel, e com a comparação fixa que o cap. 11 deu à Renata: "Olha, a sua coluna é… pensa numa mangueira de jardim, tá? Ela enverga inteira. Enverga inteira." O leitor vê o que se mantém e por quê ("A repetição fica, porque é ali que o paciente entende"). É coerência de elenco feita a favor do conceito.'
+  - 'A cena de abertura segue sendo a melhor da Fase III, com ofício exato ("com firma reconhecida em cartório", "Cada pergunta procura um sinal de subordinação ou de pessoalidade"). A tentação de melhorar vira cena com a Helena antes de virar exemplo, e o bloco comum-vs-singular mostra a tese em duas frases.'
+  - 'Imagens próprias e fecho em ação, sem plateia nem resultado prometido: "ninguém publica o próprio expediente", "um cozinheiro não pensa em fotografar o arroz", o caderno preto com "prontas" escrito no alto.'
+problemas:
+  - criterio: metodo
+    trecho: 'Limpe o que atrapalha a leitura, como um "é… é" que não diz nada'
+    por_que: 'A regra que a r3 pediu entrou na prosa, mas a oficina e o critério dizem outra coisa. O campo 03 manda "Deixe as repetições e os “olha”; corte só o que é de uma pessoa", e o "Confira antes de seguir" cobra "Você cortou apenas o que era contexto de uma pessoa específica". O leitor que seguir a prosa e tirar o "é… é" vazio falha no critério, e o que seguir o critério publica hesitações que o texto mandou limpar. Soma-se a isso o fato de a mesma fala vir apresentada como "Transcrita sem limpar" e conter um "é…" (a pausa antes da comparação, que deve ficar). Como a técnica do capítulo é a transcrição pura, a regra do que se tira precisa ser uma só (lição cap03-r1).'
+    correcao: 'Harmonizar os três lugares. Campo 03: "Deixe as repetições que marcam o ponto e os “olha”; tire só o “é… é” que não diz nada e o que é de uma pessoa." Critério 2: "Você tirou só o que era de uma pessoa específica e as hesitações vazias." Na prosa, deixar claro que o "é…" da Renata é a pausa antes da comparação: "Transcrita, com a pausa antes da mangueira e tudo, uma delas ficou assim".'
+  - criterio: clareza
+    trecho: "Ele diz isso a todo cliente, porque é verdade, e porque é o que leva o cliente a procurar um advogado em vez de confiar só no texto."
+    por_que: 'A frase mistura dois leitores. Quem ouve a ressalva "a todo cliente" já está no escritório, com advogado; quem pode "confiar só no texto" é o leitor da peça publicada. Do jeito que está, diz que a ressalva leva o cliente, que já contratou, a procurar um advogado. O parágrafo fecha a seção sobre o receio da imprecisão, e a conclusão fica torta justamente no argumento ético.'
+    correcao: '"Ele diz isso a todo cliente, porque é verdade. No texto publicado, a mesma frase lembra a quem lê que o caso dele pede análise própria, e que o texto não substitui a consulta."'
+  - criterio: originalidade
+    trecho: "Para Renata, que pensa falando, é dizer a explicação ao paciente e, no carro, refazê-la em voz alta enquanto ainda está quente."
+    por_que: 'O cap. 15, imediatamente anterior, abre com "Renata gravou o primeiro rascunho no carro" e tem a batida do susto ao transcrever ("Ao transcrever, percebeu que tinha usado as palavras..."), e fecha com ela gravando "no carro, em dois minutos e meio". Aqui o carro volta duas vezes ("As repetições que no carro passavam despercebidas") com a mesma batida do susto no papel. É hábito coerente da personagem, mas lido em sequência parece a mesma cena (lição cap02-r1). O fecho do Otávio tem eco parecido com o cap. 14 (lá, "Achou catorze... completou dezessete" na caixa de entrada; aqui, "Encontrou doze" na pasta de enviados).'
+    correcao: 'Manter o carro uma vez só e tirar a segunda menção: "As repetições que na fala passavam despercebidas ficam visíveis". Amarrar a fala à ficha do cap. 11, o que dá ganho novo à cena: "a da mangueira, que ela usa há anos, ficou assim". No fecho do Otávio, o eco com o cap. 14 pode ficar, mas vale diferenciar o gesto (ele procura pelo tamanho dos e-mails, dos mais longos aos mais curtos, e não pelo assunto).'
+  - criterio: coerencia
+    trecho: "A de por que o banco de horas precisa de controle mensal"
+    por_que: 'No cap. 12, Otávio já produziu "um texto sobre banco de horas que levou três sextas", e o banco de horas é o assunto do comentário do cap. 4 e do parecer do cap. 21. Pôr justamente esse tema na lista das doze explicações "prontas" e nunca publicadas cria uma pequena dúvida de arco (ele não tinha escrito sobre isso?) e gasta pela quarta vez o mesmo assunto.'
+    correcao: 'Trocar por um tema ainda não usado, conferido como um trabalhista conferiria. Ex.: "a do recibo que junta tudo numa verba só e não quita nada" (salário complessivo), ou "a do vale-transporte que o funcionário só pode recusar por escrito".'
+  - criterio: concretude
+    trecho: "se podia mandar outra pessoa no lugar dele num dia de folga"
+    por_que: 'O traço da pessoalidade se testa pela substituição quando o prestador não pode ir. "Folga" é vocabulário de empregado (descanso concedido), e um advogado trabalhista não usaria a palavra na pergunta que procura mostrar que não havia vínculo. A expressão se repete no e-mail do exemplo ("Pode mandar outra pessoa no lugar num dia de folga?"). Na mesma cena, "pedia vínculo de emprego" é coloquial demais para o narrador de um livro que o leitor advogado vai conferir.'
+    correcao: '"se podia mandar outra pessoa no lugar dele num dia em que não pudesse ir" / no exemplo: "Pode mandar outra pessoa no lugar quando não puder ir?" / "pedia o reconhecimento do vínculo de emprego, horas extras e férias".'
+  - criterio: aplicabilidade
+    trecho: "Está no mesmo ponto em que aparece na conversa real (campo 04)?"
+    por_que: 'O campo 04 registra a comparação e "de onde ela veio", não o ponto em que ela aparece na fala; a conferência remete a um dado que a oficina não pediu. O roteiro de fala, por sua vez, é só quatro lacunas na mesma ordem do esqueleto, sem uma palavra fixa. É coerente com "sem adaptar", mas o leitor vê na p. 22 a mesma lista duas vezes seguidas.'
+    correcao: 'Na conferência: "Está no mesmo ponto em que aparece no campo 03?". No roteiro, se quiser que ele faça algo que o esqueleto não faz, pôr uma indicação de fala entre as lacunas, como "(a pausa antes da comparação: não corte)", ou reduzir o roteiro a duas linhas e deixar o esqueleto carregar a ordem.'
+  - criterio: voz
+    trecho: "A primeira é que ela ficou automática, e o automático parece banal."
+    por_que: 'O andaime numerado da seção ("São quatro razões." / "A primeira..." / "A segunda é supor..." / "A terceira razão é..." / "A quarta é a mais difícil de ver") é voz de apostila e já tinha sido apontado na r3. Não chega a derrubar a nota, porque o conteúdo de cada razão é bom e próprio, mas é o trecho do capítulo que mais soa como texto de curso.'
+    correcao: 'Tirar a contagem de ao menos duas razões e ligar pelo conteúdo: "Otávio nunca publicou a explicação do contrato, e não por falta de vontade. Ela ficou automática, e o automático parece banal. [...] Também supunha que todo colega explicasse do mesmo jeito. [...] Achava, ainda, que o assunto já estava na internet. [...] E havia a razão mais difícil de ver: explicar é o que ele faz o dia inteiro [...]".'
+  - criterio: clareza
+    trecho: "É um ajuste fino feito com clientes reais."
+    por_que: 'O parágrafo vem logo depois da fig. 16.1 e, no papel, começa no pé da p. 13. O "É" não tem antecedente visível: o último sujeito antes da figura é "a frase de abertura". O leitor precisa voltar para saber o que é o ajuste fino.'
+    correcao: '"Esse encurtamento é um ajuste fino feito com clientes reais."'
+edicoes_de_linha:
+  - '"e é isso que faz o texto ser dela." -> "e é isso que faz o texto ser seu." (o parágrafo já fala ao leitor; "dela" fica ambíguo entre a Renata e "a voz")'
+  - '"Transcrita sem limpar, uma delas ficou assim:" -> "Transcrita com a pausa e tudo, a da mangueira, que ela usa há anos, ficou assim:" (ver problemas de método e de originalidade)'
+  - '"bastava abrir um e-mail em que já a tinha dado" -> "bastava abrir um e-mail em que a tinha dado" (dois "já" na mesma frase: "já estava registrada")'
+  - '"Um instrutor que tinha saído em março pedia vínculo de emprego" -> "Um instrutor que tinha saído em março pedia o reconhecimento do vínculo de emprego"'
+  - '"Pode mandar outra pessoa no lugar num dia de folga?" -> "Pode mandar outra pessoa no lugar quando não puder ir?"'
+  - '"{o fecho curto que você usa quando a pessoa entendeu}." -> "{o fecho curto que você usa quando a pessoa entendeu}" (o ponto final sai sublinhado junto da lacuna na p. 22)'
+  - 'ESTADO.yaml › figurantes: registrar a confeiteira no cap. 16 (o engenheiro estrutural já está registrado; a confeiteira do campo 05, não).'
+diagramacao:
+  - 'p. 15: cerca de 27% em branco no pé, porque a fig. 16.2 (indivisível) foi para a p. 16. É a terceira revisão seguida com o mesmo branco, e ele não é dos que o projeto aceita. Pôr a figura logo depois do parágrafo "Maturidade produz encurtamento..." e o parágrafo do Caio depois dela, para que a prosa preencha o pé.'
+  - 'p. 17: cerca de 20% em branco no pé, depois da cena da Helena, porque o bloco exemplo (indivisível) foi para a p. 18. Já apontado na r3. Permitir quebra entre "A versão melhorada" e "A versão testada" ou mover a nota de alerta para depois do parágrafo da Helena.'
+  - 'p. 18: o sobretítulo "NA PRÁTICA" continua colado ao topo da página e ao título do exemplo, sem entrelinha. Terceira revisão com o mesmo ponto.'
+  - 'p. 19: o campo 01 pede "Marque ao lado de cada uma quantos dos cinco sinais ela tem", mas as linhas ocupam a largura toda. Uma coluna estreita à direita ("__/5") tornaria a instrução executável.'
+  - 'p. 22: o roteiro de fala repete, em lacunas, a lista do esqueleto que está logo acima; a página lê como a mesma coisa duas vezes (ver problema de aplicabilidade).'
+  - 'p. 19 (branco antes do campo 03), p. 21 (cerca de 35% antes do esqueleto indivisível) e p. 24 (fim de capítulo): aceitos pelo projeto.'
+veredito: "Aprova. As correções da r3 entraram todas e o sigilo enfim tem uma lógica só; faltam harmonizar o que se limpa na transcrição (prosa x campo 03 x critério), desfazer a frase torta sobre procurar um advogado e resolver os brancos das pp. 15 e 17, que já vêm da r2."

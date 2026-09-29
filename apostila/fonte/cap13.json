@@ -1,0 +1,349 @@
+{
+ "n": 13,
+ "fase": 3,
+ "tema": "O gesto da tradução",
+ "subtitulo": "De experiência vivida a conteúdo publicável",
+ "frase": "Você não cria conteúdo. Você traduz o que já aconteceu.",
+ "conceito": {
+  "termo": "Tradução",
+  "definicao": "A operação de converter um episódio da sua prática — um atendimento, uma dúvida, uma decisão — em uma peça pública, preservando o que ele tinha de específico e removendo o que ele tinha de identificável.",
+  "porqueImporta": "Porque criar do zero é caro e produz genérico. Traduzir é barato e produz específico. A diferença entre os dois é a diferença entre um segundo emprego e uma extensão do trabalho."
+ },
+ "ilustracao": {
+  "motivo": "ponte",
+  "legenda": "Não se inventa a outra margem. Constrói-se a travessia."
+ },
+ "leituraMin": 9,
+ "conteudo": [
+  {
+   "t": "lead",
+   "text": "Chegamos à parte operacional. Você sabe o seu modo, o seu ritmo, o seu repertório, a sua posição e o seu léxico. Falta a mecânica: como uma coisa que aconteceu vira uma coisa publicada."
+  },
+  {
+   "t": "p",
+   "text": "A maioria das pessoas chama isso de 'criar conteúdo'. O nome está errado e o nome importa, porque ele define o esforço que você espera gastar."
+  },
+  {
+   "t": "p",
+   "text": "Criar sugere partir do nada. Traduzir sugere que a matéria já existe e o trabalho é de conversão. A segunda descrição é a verdadeira — e é muito mais barata."
+  },
+  {
+   "t": "h",
+   "text": "As quatro operações da tradução"
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "titulo": "Isolar",
+     "texto": "Tirar o episódio do fluxo. 'Hoje aconteceu isso.' Uma frase que descreve o fato bruto, sem interpretação."
+    },
+    {
+     "titulo": "Despersonalizar",
+     "texto": "Remover tudo que identifica: nome, idade exata, profissão específica, sequência que permita reconhecer. O caso continua verdadeiro; a pessoa some."
+    },
+    {
+     "titulo": "Generalizar",
+     "texto": "Encontrar do que aquele episódio é exemplo. Um caso é anedota. Um caso que ilustra um padrão é conteúdo."
+    },
+    {
+     "titulo": "Devolver",
+     "texto": "Entregar o critério que a pessoa leva para casa. Sem isso, você contou uma história; com isso, você entregou uma ferramenta."
+    }
+   ]
+  },
+  {
+   "t": "callout",
+   "kind": "alerta",
+   "titulo": "A operação que quase todo mundo pula",
+   "texto": "É a terceira. Sem generalizar, você publicou um caso interessante que serve para uma pessoa. Com ela, você publicou um padrão que serve para todo mundo que se reconhece nele — e é isso que faz o conteúdo circular."
+  },
+  {
+   "t": "h",
+   "text": "A anatomia de uma tradução"
+  },
+  {
+   "t": "table",
+   "caption": "Do episódio bruto à peça publicada",
+   "head": [
+    "Etapa",
+    "O que você tem",
+    "O que você faz"
+   ],
+   "rows": [
+    [
+     "Bruto",
+     "'A paciente chorou quando eu disse que dava para resolver.'",
+     "Captura. 20 segundos, nas notas."
+    ],
+    [
+     "Isolado",
+     "Uma pessoa chorou de alívio ao ouvir que o problema tinha solução.",
+     "Tira do fluxo, descreve o fato."
+    ],
+    [
+     "Despersonalizado",
+     "Alguém que convivia com um problema há anos.",
+     "Remove tudo que identifica."
+    ],
+    [
+     "Generalizado",
+     "Muita gente convive com problema resolvível achando que não tem jeito — porque ninguém explicou.",
+     "Encontra o padrão."
+    ],
+    [
+     "Devolvido",
+     "'Se te disseram que não tem jeito, pergunte: não tem jeito, ou não tem jeito com o que essa pessoa faz?'",
+     "Entrega o critério."
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "text": "Sigilo: a linha que não se cruza"
+  },
+  {
+   "t": "p",
+   "text": "Boa parte dos especialistas que este método atende trabalha sob sigilo profissional. Isso não impede a tradução — impede o atalho."
+  },
+  {
+   "t": "compare",
+   "esquerda": {
+    "titulo": "Nunca",
+    "tom": "neg",
+    "items": [
+     "Foto, mesmo com o rosto cortado, sem autorização escrita.",
+     "Combinação de detalhes que permite reconhecer (idade + profissão + bairro).",
+     "'Atendi hoje uma paciente que…' — o 'hoje' data e identifica.",
+     "Antes e depois de caso identificável."
+    ]
+   },
+   "direita": {
+    "titulo": "Sempre seguro",
+    "tom": "pos",
+    "items": [
+     "Padrão agregado: 'a maioria dos casos que vejo…'.",
+     "Caso composto: junte três casos parecidos em um só.",
+     "Deslocar o tempo: 'há alguns anos' em vez de 'ontem'.",
+     "A dúvida sem o dono: publique a pergunta, não quem perguntou."
+    ]
+   }
+  },
+  {
+   "t": "callout",
+   "kind": "pratica",
+   "titulo": "O caso composto",
+   "texto": "A técnica mais útil para quem trabalha com sigilo: junte três atendimentos parecidos numa única narrativa. O padrão fica mais verdadeiro (porque é mesmo mais comum) e ninguém é identificável, porque a pessoa descrita não existe."
+  },
+  {
+   "t": "h",
+   "text": "Quanto tempo isso leva de verdade"
+  },
+  {
+   "t": "chart",
+   "chart": {
+    "kind": "barras",
+    "titulo": "Custo comparado por origem da peça",
+    "unidade": "minutos até publicar",
+    "series": [
+     {
+      "rotulo": "Traduzido de captura",
+      "valor": 22,
+      "nota": "O detalhe já existe. Você só converte."
+     },
+     {
+      "rotulo": "Criado do zero",
+      "valor": 78,
+      "nota": "Inventar contexto, buscar exemplo, validar. E sai mais genérico."
+     },
+     {
+      "rotulo": "Copiado de referência",
+      "valor": 41,
+      "nota": "Rápido, mas produz peça de outra pessoa com o seu nome."
+     }
+    ]
+   }
+  }
+ ],
+ "insights": [
+  "Criar sugere partir do nada; traduzir sugere que a matéria já existe. O nome que você dá define o esforço que você espera gastar.",
+  "A operação que quase todo mundo pula é generalizar — e é ela que transforma anedota em conteúdo.",
+  "O caso composto resolve sigilo e verdade ao mesmo tempo: junte três casos parecidos e ninguém é identificável."
+ ],
+ "criterios": [
+  {
+   "id": "c1",
+   "rotulo": "Executei as quatro operações em um episódio real",
+   "ajuda": "Isolar, despersonalizar, generalizar, devolver.",
+   "peso": 3
+  },
+  {
+   "id": "c2",
+   "rotulo": "Meu caso está seguro em relação a sigilo",
+   "ajuda": "Nenhuma combinação de detalhes permite reconhecer alguém.",
+   "peso": 3
+  },
+  {
+   "id": "c3",
+   "rotulo": "Encontrei o padrão de que o caso é exemplo",
+   "ajuda": "Não parei na anedota.",
+   "peso": 3
+  },
+  {
+   "id": "c4",
+   "rotulo": "Entreguei um critério, não só uma história",
+   "ajuda": "Quem leu leva uma ferramenta.",
+   "peso": 2
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "pergunta": "Quais são as quatro operações da tradução, na ordem?",
+   "opcoes": [
+    "Criar, editar, formatar, publicar.",
+    "Isolar, despersonalizar, generalizar, devolver.",
+    "Pesquisar, roteirizar, gravar, legendar.",
+    "Observar, opinar, provar, vender."
+   ],
+   "correta": 1,
+   "explicacao": "Cada operação resolve um problema: isolar tira do fluxo, despersonalizar protege, generalizar amplia o alcance, devolver entrega valor."
+  },
+  {
+   "id": "q2",
+   "pergunta": "Qual operação a maioria das pessoas pula, e com que consequência?",
+   "opcoes": [
+    "Isolar — o conteúdo fica confuso.",
+    "Despersonalizar — o conteúdo fica ilegal.",
+    "Generalizar — o conteúdo vira anedota que serve para uma pessoa só.",
+    "Devolver — o conteúdo fica longo demais."
+   ],
+   "correta": 2,
+   "explicacao": "Um caso é anedota. Um caso que ilustra um padrão é conteúdo — e é o padrão que faz outras pessoas se reconhecerem e compartilharem."
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que é o 'caso composto' e por que ele funciona?",
+   "opcoes": [
+    "Inventar um caso fictício para ilustrar um ponto.",
+    "Juntar três casos parecidos numa narrativa: o padrão fica mais verdadeiro e ninguém é identificável.",
+    "Contar o caso com o nome trocado.",
+    "Pedir autorização a três pacientes de uma vez."
+   ],
+   "correta": 1,
+   "explicacao": "Não é ficção — é agregação. A pessoa descrita não existe, mas o padrão descrito é mais verdadeiro do que qualquer caso isolado seria."
+  }
+ ],
+ "tarefa": {
+  "titulo": "A sua primeira tradução completa",
+  "objetivo": "Executar as quatro operações num episódio real da sua semana e chegar a uma peça publicável.",
+  "tempoMin": 30,
+  "entrega": "Um episódio traduzido nas quatro etapas, pronto para publicar.",
+  "formatoSugerido": [
+   "reels",
+   "texto",
+   "carrossel"
+  ],
+  "campos": [
+   {
+    "id": "bruto",
+    "rotulo": "1. Isolar — o fato bruto, em uma frase",
+    "placeholder": "'Hoje aconteceu isso: __.' Sem interpretação ainda.",
+    "linhas": 2
+   },
+   {
+    "id": "limpo",
+    "rotulo": "2. Despersonalizar — o mesmo fato, sem nada identificável",
+    "placeholder": "Remova nome, idade exata, profissão, bairro, data. Use 'há algum tempo'.",
+    "linhas": 3
+   },
+   {
+    "id": "padrao",
+    "rotulo": "3. Generalizar — do que isso é exemplo?",
+    "placeholder": "'Isso acontece muito porque __.' Qual é o padrão maior?",
+    "linhas": 3
+   },
+   {
+    "id": "criterio",
+    "rotulo": "4. Devolver — o critério que a pessoa leva",
+    "placeholder": "O que ela faz com isso amanhã, mesmo sem te procurar.",
+    "linhas": 3
+   },
+   {
+    "id": "peca",
+    "rotulo": "A peça montada",
+    "placeholder": "Junte as quatro partes na sua voz. Leia em voz alta antes de salvar.",
+    "linhas": 8
+   }
+  ],
+  "criteriosDeQualidade": [
+   "Nenhuma combinação de detalhes permite reconhecer alguém.",
+   "O padrão da etapa 3 é maior que o caso, mas menor que uma obviedade.",
+   "O critério da etapa 4 serve mesmo para quem nunca vai te procurar."
+  ]
+ },
+ "diretrizes": {
+  "titulo": "Diretrizes de tradução segura e potente",
+  "regras": [
+   {
+    "regra": "Desloque o tempo, sempre",
+    "porque": "'Ontem' identifica pela agenda. 'Há algum tempo' preserva a verdade e apaga o rastro."
+   },
+   {
+    "regra": "Publique a dúvida, não o dono da dúvida",
+    "porque": "A pergunta é o que faz outras pessoas se reconhecerem. Quem perguntou é irrelevante para elas."
+   },
+   {
+    "regra": "O padrão vem antes do caso na hierarquia, mas depois na narrativa",
+    "porque": "Comece pelo caso para prender; termine no padrão para ser útil."
+   }
+  ],
+  "facaAssim": [
+   "'Isso já me aconteceu várias vezes, então acho que vale falar.'",
+   "'Vou juntar aqui três situações parecidas que vi nos últimos anos.'",
+   "'O caso importa menos do que o que ele mostra.'"
+  ],
+  "eviteAssim": [
+   "'Atendi hoje uma paciente de 34 anos, advogada, que…' — três identificadores em uma frase.",
+   "Foto de caso sem autorização escrita e específica para publicação.",
+   "Terminar no caso, sem generalizar — vira fofoca profissional."
+  ],
+  "gabarito": [
+   {
+    "rotulo": "Abertura",
+    "texto": "O caso, deslocado no tempo e despersonalizado. 2–3 linhas."
+   },
+   {
+    "rotulo": "Reconhecimento",
+    "texto": "'Se você está lendo isso e se reconheceu, não é coincidência.'"
+   },
+   {
+    "rotulo": "Padrão",
+    "texto": "'Isso acontece porque __.' A explicação estrutural."
+   },
+   {
+    "rotulo": "Critério",
+    "texto": "A ferramenta que a pessoa usa amanhã."
+   }
+  ]
+ },
+ "roteiro": "Aconteceu uma coisa há algum tempo que eu penso até hoje.\n\n{o caso, sem nada que identifique alguém — desloque o tempo}\n\nO que me marcou não foi o desfecho. Foi perceber uma coisa: {o padrão maior que o caso revela}\n\nE isso acontece muito mais do que parece. Se você está passando por algo parecido, a pergunta que vale fazer é: {o critério que a pessoa leva}",
+ "estrutura": [
+  {
+   "rotulo": "O caso",
+   "texto": "Deslocado no tempo e despersonalizado. 2 a 3 linhas."
+  },
+  {
+   "rotulo": "O reconhecimento",
+   "texto": "'Se você se reconheceu, não é coincidência.'"
+  },
+  {
+   "rotulo": "O padrão",
+   "texto": "'Isso acontece porque __.' A explicação estrutural."
+  },
+  {
+   "rotulo": "O critério",
+   "texto": "A ferramenta que a pessoa usa amanhã."
+  }
+ ]
+}

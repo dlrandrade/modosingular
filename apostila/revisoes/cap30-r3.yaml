@@ -1,0 +1,63 @@
+capitulo: 30
+iteracao: 3
+notas: {metodo: 9.2, voz: 9.0, originalidade: 9.1, clareza: 9.1, ritmo: 9.1, concretude: 9.1,
+        coerencia: 8.8, aplicabilidade: 8.8, impresso: 9.2, honestidade: 9.3}
+bloqueadores: []
+pontos_fortes:
+  - "A r2 foi absorvida quase por inteiro e sem efeito colateral: a luz vendida saiu ('junto com o estabilizador e o microfone de lapela', conferido com caps. 3 e 20), a obra agora 'ia do primeiro golpe de marreta à entrega das chaves, e ninguém a contava', a rolagem é 'numa noite de abril' (cap. 23) e o 'outono' está certo para Curitiba, o verso do Otávio bate com o cap. 21, 'outro canal' virou a variação do cap. 20, e a tabela 30.1 já não parte os nomes das fases."
+  - "A seção dos noventa dias ganhou o caso que faltava, e ele é bom: a dentista que no dia 61 olha 'para a semana do feriado de junho, em que quase não publicou' transforma o critério abstrato ('se nelas saiu ao menos a peça mínima, o hábito está firme') numa conferência que qualquer leitor sabe fazer."
+  - "O desfecho continua honesto e de ofício: 'Nenhum deles tem uma peça com milhões de visualizações, e nenhum deixou de depender, em alguma medida, das indicações de sempre.' E a Lúcia fecha o arco no modo dela, respondendo à paciente com outra pergunta, dentro da conversa em que antes não estava."
+  - "O papel trabalha a favor do leitor: a figura 30.1 é para marcar a lápis, o diagnóstico tem duas caixas de soma e a instrução de refazê-lo 'com uma caneta de outra cor, na mesma página', e a tradução do problema manda de volta à autópsia do cap. 5."
+problemas:
+  - criterio: metodo
+    trecho: "{A sua abertura de sempre}. Vou dizer uma coisa que eu defendo na minha área, sem rodeio."
+    por_que: "O roteiro abre com exatamente o que a mesma página proíbe. O 'Faça assim' manda 'Abrir pela posição, na primeira linha, sem preâmbulo', e o esqueleto logo acima diz 'A posição: O que você defende, na primeira linha.' 'Vou dizer uma coisa que eu defendo… sem rodeio' é um rodeio: anuncia a posição em vez de dizê-la. O leitor que segue o roteiro descumpre a primeira regra da peça."
+    correcao: "Começar pela lacuna da posição: '{A sua abertura de sempre}. {a sua posição, dita numa frase}. / Isso já me custou {…}. E eu mantenho, porque em {o tempo} de prática foi o que eu vi funcionar: {o caso, o número ou o padrão}. / Isso serve a quem {…}.' Se quiser uma ponte de fala, que venha depois da posição ('É isso que eu defendo.')."
+  - criterio: aplicabilidade
+    trecho: "{rotulo: \"Escrevi a declaração para publicar\", ajuda: \"Fala da minha área, e não do meu processo (campo 02).\", pontos: 3}"
+    por_que: "Com 3 + 2 + 2 + 3 = 10 e corte em 7, o leitor fecha os trinta capítulos sem ter escrito a declaração (inventário 3 + plano 2 + data 2 = 7). A declaração é o ato que dá nome à oficina e ao capítulo, e o próprio objetivo diz que o livro 'pediu desde o começo' isso. Um checklist que aprova sem ela mede o acessório."
+    correcao: "Declaração com 4 pontos e inventário com 2 (4 + 2 + 2 + 2 = 10), ou manter os pesos e trocar a condição: 'Com 7 pontos ou mais, e a declaração escrita, você fechou os trinta capítulos.'"
+  - criterio: aplicabilidade
+    trecho: "rodadas: [\"Soma de hoje\", \"Soma no dia 30\"]"
+    por_que: "Para quem lê o capítulo 30 de um livro de trinta dias, 'hoje' É o dia 30. A caixa 'Soma no dia 30' (p. 19) fica ambígua: é hoje, ou o dia 30 do plano? A prosa diz outra coisa com clareza ('No fim do primeiro, refaça o diagnóstico… com uma caneta de outra cor'), mas é o rótulo impresso que o leitor vai ler daqui a um mês."
+    correcao: "rodadas: [\"Soma de hoje\", \"Soma no fim do 1º bloco\"] (ou \"Soma daqui a 30 dias\")."
+  - criterio: coerencia
+    trecho: "Uma nutricionista: “Eu defendo que cortar o pão não é condição para emagrecer"
+    por_que: "Nutricionista é figurante do cap. 27 (campo da oficina: 'Leem, mas ninguém cita'), do cap. 29 (campo 05: 'Se o painel tem dúvidas reais…') e agora do cap. 30: três capítulos seguidos, na mesma posição (exemplo de campo de oficina). A lição cap02-r2 veda repetir profissão de figurante em capítulos vizinhos, e ESTADO.yaml › figurantes existe para isso."
+    correcao: "Trocar por uma profissão ausente dos caps. 27 a 29 (farmacêutica e professor de cursinho estão no 28; conferir ESTADO.yaml › figurantes e registrar), por exemplo uma dermatologista: 'Eu defendo que protetor solar não se escolhe pelo número do fator, e sim pela quantidade que a pessoa de fato passa, e isso já me custou pacientes que queriam o nome de um produto.'"
+  - criterio: coerencia
+    trecho: "O território de Otávio são os documentos que a pequena empresa precisa ter antes do problema."
+    por_que: "A marca do personagem é 'contrato assinado não é prova de nada', e o livro (caps. 6 e 16) mostrou que para ele o papel só vale se bater com o que aconteceu. Dizer que o território dele são 'os documentos' é dar-lhe o território do colega de quem ele discorda. O detalhe é o tipo de coisa que um leitor advogado nota."
+    correcao: "'O território de Otávio é o que a pequena empresa precisa fazer, e conseguir provar, antes de o problema chegar à Justiça do Trabalho.'"
+  - criterio: coerencia
+    trecho: "Ela tem um dia da semana, um horário, uma captura do caderno de campo esperando para virar outra coisa e um formato que você já cronometrou."
+    por_que: "Pela rede e pelo campo 04, a próxima peça é a declaração, que sai do campo 02 e não de uma captura; a captura é da peça seguinte. O fecho reabre, em miniatura, a confusão de 'duas próximas peças' que a r2 resolveu na oficina."
+    correcao: "'Ela tem um dia da semana, um horário, uma posição que você já escreveu e um formato que você já cronometrou. Depois dela, o caderno de campo tem a seguinte esperando.' Ou trocar 'A próxima peça' por 'Cada peça' e manter o resto."
+  - criterio: clareza
+    trecho: "Se a mudança der errado, você não vai saber qual das três deu errado; se der certo, também não."
+    por_que: "O argumento do alerta só condena mudar as três coisas AO MESMO TEMPO; implica que mudar uma de cada vez seria aceitável. Mas a prosa ('mudá-lo agora destrói a única evidência'), o 'Para guardar' ('Nos próximos trinta dias, não mude nada') e o campo 05 pedem que nada mude por trinta dias. O leitor apressado sai com duas regras diferentes."
+    correcao: "Manter o título e alinhar o texto: 'Mudar o formato, o assunto ou o ritmo logo depois de terminar o livro, e quase sempre os três de uma vez. Um sistema que não rodou trinta dias ainda não produziu evidência nenhuma; mudá-lo agora apaga a única que viria. Escreva na oficina o que você não vai mudar…'"
+  - criterio: voz
+    trecho: "O tempo dele não mudou."
+    por_que: "A fórmula 'X continuou; o que mudou foi Y' apontada na r1 e na r2 recuou, mas ainda estrutura três dos quatro retratos: Renata ('Os dois ortopedistas continuavam mandando'), Otávio ('O tempo dele não mudou. Otávio continuava escrevendo pareceres'), Lúcia ('Os rótulos continuavam chegando… O que mudou foi o lugar'). Com o balanço 'Nenhum dos quatro… O que os quatro têm', a seção inteira anda no mesmo compasso."
+    correcao: "Manter só a da Lúcia, que é a que tem ganho. Otávio: 'Otávio continuava escrevendo pareceres até tarde, e em muitas semanas os cinco minutos no fim de cada parecer eram quase tudo o que o perfil recebia dele. Bastavam, porque o resto tinha sido desenhado para não depender de mais do que isso.' (cortar 'O tempo dele não mudou.')"
+  - criterio: voz
+    trecho: "Isso vale para a fisioterapeuta de Curitiba e vale para você."
+    por_que: "Frase-ponte sem conteúdo, logo depois de uma remissão ao cap. 2 (que é da Lúcia, não da Renata); soa como narrador que preenche. O parágrafo é mais forte sem ela."
+    correcao: "Cortar a frase."
+  - criterio: clareza
+    trecho: "subtitulo: A presença que é reconhecidamente sua"
+    por_que: "O conceito diz 'reconhecivelmente sua' (que se reconhece como sua); o subtítulo diz 'reconhecidamente' (notoriamente, admitidamente). Na página de abertura o leitor lê uma coisa e, três páginas depois, a definição diz outra."
+    correcao: "subtitulo: A presença que é reconhecivelmente sua, e o próximo dia em que você publica"
+edicoes_de_linha:
+  - "Resista. O sistema que você montou -> O sistema que você montou (o imperativo de uma palavra é o único momento de voz de treinador no capítulo)"
+  - "e disse que era o contrato mais fácil de explicar à equipe nova -> e disse que era o contrato mais fácil de explicar a quem entrava na conta (a 'equipe nova' aparece do nada)"
+  - "A queixa antiga, relida agora, costuma mostrar o que ainda falta. -> A queixa antiga, relida agora, mostra o que ainda falta. (tira a generalização)"
+  - "Porque as plataformas favorecem perfis de nicho em relação aos gerais, na distribuição. -> Porque as plataformas só mostram perfis de nicho a quem ainda não os segue. (o distrator atual é crença corrente e discutível, não inequivocamente falso)"
+  - "no nível estrutural: por que o dente escurece, e por que o clareamento não resolve tudo -> no nível estrutural: por que o dente escurece, e o que o clareamento não alcança (a vírgula antes de 'e por que' quebra o paralelismo)"
+diagramacao:
+  - "p. 19: a caixa 'SOMA NO DIA 30' é ambígua para quem está no dia 30 do livro (ver problema de aplicabilidade); trocar o rótulo."
+  - "p. 14: o parágrafo 'Faça a tradução…' termina com uma palavra sozinha na última linha ('falta.'). Ajustar a hifenização ou o tracking do parágrafo."
+  - "p. 23: o primeiro destaque do roteiro ('A sua abertura de sempre') começa com um recuo/espaço antes do sublinhado que as outras lacunas não têm. Conferir o espaço inicial do marcador."
+  - "p. 18 (cerca de 55% em branco antes do autodiagnóstico) e p. 22 (cerca de 20% antes do esqueleto) são casos aceitos pelo projeto. Os problemas de diagramação da r2 (tabela 30.1, viúva antes do 'Para guardar', segunda rodada do diagnóstico) estão resolvidos."
+veredito: "Fecha o livro com dignidade e já está no nível de aprovação; falta alinhar o roteiro ao 'abrir pela posição', impedir que o checklist aprove sem a declaração e trocar a terceira nutricionista seguida."

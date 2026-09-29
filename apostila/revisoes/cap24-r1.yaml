@@ -1,0 +1,95 @@
+capitulo: 24
+iteracao: 1
+notas: {metodo: 9.0, voz: 9.0, originalidade: 8.8, clareza: 8.9, ritmo: 9.2, concretude: 9.0,
+        coerencia: 8.0, aplicabilidade: 8.6, impresso: 9.2, honestidade: 8.9}
+bloqueadores:
+  - 'Verificação, questão 01: o distrator (b) "O preço do contrato, que ficou mais baixo." é verdadeiro segundo o próprio texto ("O contrato novo também custava menos."). A questão tem duas respostas defensáveis e o gabarito marca como errada uma afirmação que o capítulo faz. Trocar o distrator por um inequivocamente falso (ex.: "O número de publicações, que subiu para trinta por mês.") e, de preferência, reformular o enunciado, que pergunta o que mudou "entre a agência" quando a resposta certa é que a agência NÃO mudou.'
+pontos_fortes:
+  - 'A cena de abertura resolve o arco do cap. 4 pela ação e não por discurso: a pasta de papel pardo, o calendário com o Dia do Trabalhador fechado a pedido, as cinco regras lidas em silêncio e o riso de Sílvia diante de "Eu nunca escrevo “você sabia?”". O conceito nasce do caso, como pede o projeto.'
+  - 'A troca da última frase por "Conte sempre com uma assessoria jurídica especializada." é o melhor detalhe de ofício do capítulo: mostra, numa linha, como a voz se perde de boa-fé e por que a chamada fere o código da advocacia.'
+  - 'Adaptação fiel ao modo do personagem: onde o PWA diz "áudio", o capítulo usa os versos escritos à mão (Otávio pensa escrevendo), mantém o sigilo pela data a lápis do cap. 21 e generaliza corretamente para "um texto ou um áudio seu" no Para guardar e na oficina.'
+  - 'O fecho termina em consequência prática e em cena: a cliente que leu na terça, conferiu na quarta e voltou com uma pergunta da própria empresa, e a frase sublinhada na folha de fluxo. Sem moral, sem anúncio da oficina.'
+problemas:
+  - criterio: coerencia
+    trecho: 'O quarto sinal é o que mais pesa, e é o que Otávio não tinha dois anos antes.'
+    por_que: 'O cap. 4 já tem uma seção inteira chamada "Os quatro sinais" (sinais de voz terceirizada), um box "O quarto sinal é o mais grave" e a frase "O quarto sinal pesa mais porque inverte o objetivo da presença". O cap. 24 reutiliza a mesma expressão, e quase a mesma frase, para outra lista (sinais de prontidão), num capítulo que cita o cap. 4 quatro vezes. O leitor que volta ao cap. 4 encontra outro "quarto sinal". A oficina ("Os quatro sinais: onde você está"), o checklist e a verificação herdam a ambiguidade.'
+    correcao: 'Dar nome próprio à lista e usá-lo idêntico em todo o capítulo: "os quatro sinais de prontidão" (ou "as quatro condições para delegar"). Reescrever: "A quarta condição é a que mais pesa, e é a que Otávio não tinha dois anos antes." Ajustar rótulo do campo 01, item 1 do checklist, questão 04 e o evite "antes dos quatro sinais".'
+  - criterio: coerencia
+    trecho: 'Otávio acrescentou ao manual uma sexta linha, só para Sílvia: nenhuma frase que prometa resultado, nenhum nome de cliente, nenhuma chamada para contratar.'
+    por_que: 'A figura 24.1 diz, para a primeira semana, "O manual tinha cinco linhas. A última frase voltou trocada." Mas a sexta linha (ética) foi acrescentada na montagem do contrato, antes do primeiro texto, e a sétima veio justamente depois dele. A conta de linhas (5, 6, 7, 9) não fecha com a figura. Lição cap01-r1: contas feitas por personagens têm de fechar.'
+    correcao: 'Na figura, primeira semana: "O manual tinha seis linhas. A última frase voltou trocada." E no texto: "O manual tinha passado de seis para nove linhas." (ou datar a linha de ética depois da primeira semana).'
+  - criterio: coerencia
+    trecho: 'No primeiro mês, a agência só digitava e agendava, com a arte mais simples possível, o texto sobre fundo branco. Só depois de quatro semanas sem nenhuma troca de palavra ele passou a arte e a triagem de comentários.'
+    por_que: 'Contradiz a proposta da abertura ("faria a arte com o texto dele, sem título em caixa-alta, e agendaria para terça. Mais nada."), o contrato descrito em "O escopo que protege" ("o trabalho da agência encolheu para digitação, arte, agenda e triagem de comentários, e o preço acompanhou") e o parágrafo da triagem em "Revisar sem virar gargalo", narrado como já em funcionamento. O leitor não sabe se Otávio delegou tudo de uma vez ou por etapas, e a seção "Começar pequeno" perde a força de exemplo.'
+    correcao: 'Fazer a proposta de abril já escalonada: "No primeiro mês, a agência só digitaria e agendaria, com o texto sobre fundo branco; a arte e a triagem viriam depois, se nenhuma palavra voltasse trocada." Retirar "faria a arte com o texto dele, sem título em caixa-alta" da abertura e passar o parágrafo da triagem para "Começar pequeno", no tempo em que ela entra.'
+  - criterio: coerencia
+    trecho: 'Pediu que ele pusesse no manual uma sétima linha: a última frase é sempre dele, e nunca muda.'
+    por_que: 'A regra já existia por escrito desde abril: na proposta, Otávio "sublinharia a última frase, a pergunta. A agência digitaria sem trocar nenhuma palavra", e o fecho diz que ele escreveu na folha de fluxo, "em abril: a última frase é minha". Uma linha nova no manual para uma regra que já estava em duas folhas é furo de enredo, e enfraquece a lição da seção (cada frase fora do lugar revela o que faltava no manual).'
+    correcao: 'Fazer a primeira troca cair em algo que o manual ainda não cobria (ex.: Sílvia trocou "reclamação trabalhista" por "processo" e acrescentou um ponto de exclamação; a sétima linha vira "as palavras de ofício não se trocam por sinônimos"). Ou manter a troca da última frase e dizer que Sílvia pediu a regra repetida no manual, "porque a folha de fluxo ficava com Otávio, e o manual ficava na mesa dela".'
+  - criterio: coerencia
+    trecho: 'Comece pela etapa mais mecânica, a que consome tempo sem carregar nada de seu, e observe um mês.'
+    por_que: 'Repete quase palavra por palavra o cap. 23, vizinho ("A ordem natural da ajuda começa pelo mais mecânico. Primeiro a transcrição, que consome tempo e não carrega nada de seu"), cuja oficina também pede "A etapa mecânica que você passaria adiante primeiro". A lista "Ideia, opinião, fala e critério continuam seus" é a das quatro etapas do cap. 23 e aparece sem remissão, como se fosse nova. Lição cap02-r1: a mesma ideia no máximo duas vezes; a terceira tem de trazer ganho novo.'
+    correcao: 'Remeter em vez de repetir: "As quatro etapas do capítulo 23 (ideia, opinião, fala e critério) continuam suas." Em "Começar pequeno", cortar a frase repetida e dizer só o que é novo neste capítulo: o prazo de observação (um mês) e a regra de só passar a etapa seguinte depois de quatro semanas sem troca.'
+  - criterio: metodo
+    trecho: '| O resto | Vinte segundos | Há alguma palavra aqui que eu não uso? |'
+    por_que: 'A revisão de um minuto funciona para o Otávio porque a agência digita sem cortar nada. O cap. 23 acabou de ensinar que "O sinal mais confiável de descaracterização é aprovar sem ler" e que a revisão de quem recebe corte é "uma leitura inteira". Sem uma condição explícita, o leitor que manda áudios para alguém cortar (o caso mais comum no próprio livro, Renata) aplica vinte segundos ao "resto" e repete o erro do cap. 23. O campo 05 da oficina generaliza a revisão de um minuto para todos.'
+    correcao: 'Acrescentar ao parágrafo da tabela uma frase de condição: "Um minuto basta quando ninguém corta nem reescreve, como no caso do Otávio. Se a sua ajuda corta o áudio, a revisão continua sendo a leitura inteira do capítulo 23, e o que encurta com o manual é o número de marcas." Ajustar o exemplo do campo 05 na mesma linha.'
+  - criterio: aplicabilidade
+    trecho: 'O manual de voz, com as cinco regras do capítulo 11 e o que o seu código de ética proíbe. É o documento mais importante do contrato.'
+    por_que: 'A oficina se chama "O pacote de delegação", mas deixa fora justamente o que o texto declara mais importante: o manual (com a linha de ética) e as dez peças do corpus. O PWA cobra no checklist "Manual, corpus, 4 nuncas, fluxo de insumo". O leitor sai com escopo, nuncas, fluxo e revisão, sem conferir se o manual está pronto para outra pessoa nem escolher o corpus.'
+    correcao: 'Acrescentar um campo curto: "O manual e o corpus: a linha que o seu código de ética exige no manual e as dez peças que você entregaria (título ou data)", com 3 linhas numeradas; somar ao critério "O manual tem uma linha sobre o que o seu código proíbe" e ajustar a entrega e o item 3 do checklist.'
+  - criterio: concretude
+    trecho: 'Um corretor de seguros: “Dois áudios por semana, até quinta à noite, pelo mesmo grupo. Se não houver áudio, não há peça.”'
+    por_que: 'É o único exemplo da oficina ligado a uma profissão; os campos 02, 03 e 05 trazem exemplos sem ofício. Na prosa, fora do Otávio, também não aparece nenhum figurante. A regra do projeto pede exemplos dos campos em profissões variadas, e um leitor de saúde ou arquitetura não vê o escopo nem a instrução do campo 03 no seu ofício.'
+    correcao: 'Dar ofício aos exemplos dos campos 02 e 03, fora dos figurantes do cap. 23 (nutricionista) e do 22 (consultora de RH): ex. campo 02, uma fonoaudióloga: “A partir dos áudios enviados por mim: transcrição sem troca de palavras, legenda e agendamento.”; campo 03, uma designer de interiores: “A escolha do projeto, a opinião sobre ele e a última frase são minhas. Sem foto e texto meus, não há peça.”'
+  - criterio: voz
+    trecho: 'Entre um momento e outro, Otávio fez o que o livro inteiro descreve. Descobriu que pensa escrevendo, calculou o ritmo do pior mês, encontrou o repertório, assumiu as posições que custam, montou a ficha de léxico, prendeu a produção ao fim de cada parecer.'
+    por_que: 'É um sumário de curso disfarçado de narração: o narrador aponta para o próprio livro e enumera seis capítulos. A cena da pasta já mostra tudo isso em objetos (as regras, o maço, as folhas); a lista explica o que o leitor acabou de ver.'
+    correcao: 'Cortar a primeira frase e reduzir a lista a um objeto: "Entre um momento e outro, Otávio aprendeu a dizer em que uma frase se afasta dele. Tudo o que levou na pasta saiu daí, e nada daquilo uma agência consegue descobrir sozinha."'
+  - criterio: originalidade
+    trecho: 'Naquela época, ele lia as peças da agência e achava que não havia nada de errado. Não havia mesmo. Faltava tudo o que ele diria, e ele não sabia dizer o quê.'
+    por_que: 'Repete a frase-assinatura do cap. 4 ("Não havia nada de errado ali. Faltava tudo o que ele diria."), e o cap. 23, imediatamente anterior, usa a mesma batida com a Renata ("Não havia nada de errado em nenhuma das peças, e era isso que mais incomodava"). Três capítulos com o mesmo tique; o eco deliberado perde força quando o vizinho o gastou.'
+    correcao: 'Citar o cap. 4 uma vez, por objeto, e seguir para o ganho novo: "Dois anos antes, ele aprovava por falta de objeção. Agora conseguia apontar a frase e o motivo: a abertura pelo lado bom, o “é importante”, a exclamação, o fecho que manda procurar um advogado em vez de perguntar alguma coisa ao leitor."'
+  - criterio: coerencia
+    trecho: 'Otávio respondeu com a quarta folha. Nenhuma peça sai sem um texto dele correspondente.'
+    por_que: 'A pasta tinha "quatro coisas": uma folha de regras, um maço de dez textos, a folha "O que não é de vocês" e a folha de fluxo. "Quarta folha" e, depois, "Leu as quatro folhas antes da reunião" contam o maço como folha, e o leitor não sabe se a cláusula está no fluxo ou em "O que não é de vocês". Na seção seguinte, "A cláusula que Otávio pôs na quarta folha" reforça a dúvida.'
+    correcao: '"Otávio respondeu com a folha de fluxo." / "Leu o que havia na pasta antes da reunião" / "A cláusula que Otávio pôs na folha de fluxo".'
+  - criterio: coerencia
+    trecho: 'No Recife, o contrato com a agência venceu em janeiro, e Otávio o renovou com uma cláusula a menos. Saíram as quinze publicações por mês.'
+    por_que: 'Trecho do cap. 30, conferido na leitura de coerência. Contradiz o cap. 24: as quinze publicações saíram do contrato em abril, na reunião com Sílvia. Pelo plano, o cap. 24 é o que fecha o arco da agência. Um dos dois tem de ceder, e o natural é o cap. 30.'
+    correcao: 'Registrar pendência para o cap. 30: "No Recife, o contrato com a agência venceu em janeiro, e Otávio o renovou sem mudar nenhuma linha do de abril." Manter a imagem da cláusula redigida à mão, que já está no cap. 24.'
+  - criterio: honestidade
+    trecho: 'Uma revisão com ordem fixa leva um minuto e encontra as trocas que importam. Uma revisão solta leva dez e deixa passar a última frase.'
+    por_que: 'O "dez" é um número apresentado como regra geral, sem ser de personagem nem estimativa do leitor. Somado a "A urgência, o motivo mais comum para contratar" e a "o problema é quase sempre a instrução", o capítulo passa do limite de duas generalizações sem fonte.'
+    correcao: '"Uma revisão com ordem fixa cabe num minuto e passa sempre pelos mesmos lugares. Uma revisão solta demora mais e costuma pular justamente a última frase" → melhor ainda, atribuir a Otávio: "A revisão solta da primeira semana levava quatro minutos e deixou passar a última frase." Na nota de alerta: "A urgência, que foi o motivo do Otávio no capítulo 4, é o pior deles."'
+  - criterio: clareza
+    trecho: 'É esse o sinal de que o documento está bom: quando a revisão demora mais de dois minutos por peça de forma constante, o problema é quase sempre a instrução, e não a equipe.'
+    por_que: 'A frase anuncia o sinal de que o manual está bom e descreve o sinal de que está ruim. O leitor apressado tem de inverter a lógica para entender a regra que depois cai na verificação.'
+    correcao: '"A revisão curta é o sinal de que o documento está bom. Quando ela passa de dois minutos por peça, semana após semana, o problema está na instrução, e não na equipe."'
+  - criterio: metodo
+    trecho: 'O assunto é a sua área; a última frase é uma pergunta que quem lê pode fazer a si mesmo, e ela é sua.'
+    por_que: 'Transforma uma regra do manual do Otávio ("Eu termino com uma pergunta que o empresário pode fazer a si mesmo") em regra da peça de todos os leitores, o que vai contra o "no seu modo" (lição cap11-r1/cap12-r1): o fecho de Renata ou de Caio não é uma pergunta. O esqueleto e o roteiro também deixaram de lado a estrutura do PWA (a régua para escolher um profissional da área e o convite honesto), que daria uma peça nova; a regra 3 da rede e o evite "Mandar o perfil de outra pessoa como modelo a imitar" repetem a rede do cap. 4.'
+    correcao: 'Intro: "…a última frase é a que você sempre escreve, do jeito que o seu manual diz, e ela é sua." Esqueleto, última parte: "O seu fecho de sempre (uma pergunta, uma consequência, uma regra). Sublinhe." Opcional: retomar a estrutura do PWA ("três critérios que um leigo consegue conferir + convite honesto: comigo ou não"), que conversa com o tema do capítulo (escolher quem contratar) e não repete o cap. 4.'
+  - criterio: ritmo
+    trecho: 'Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos dos pareceres que já tinham passado da data escrita a lápis no canto, os parágrafos escritos à mão no verso da última folha, e mandaria para Sílvia.'
+    por_que: 'O aposto explicativo cai no meio da frase e separa o verbo do complemento; lido em voz alta, "no canto, os parágrafos… da última folha, e mandaria" tropeça. É a frase que explica o mecanismo inteiro da proposta.'
+    correcao: '"Toda sexta-feira, às cinco e meia, Otávio fotografaria os versos já liberados, os parágrafos que escreve à mão atrás da última folha de cada parecer e que só saem depois da data anotada a lápis no canto, e mandaria as fotos para Sílvia."'
+  - criterio: voz
+    trecho: 'Não havia ressentimento na folha. Havia, pela primeira vez, uma instrução.'
+    por_que: 'Antítese "não X; havia Y" em frase-fecho. Na seção seguinte há "Contratar ajuda estava certo; a hora estava errada." e "a diferença não estava nela"; em "O escopo", "Não era bem isso. Otávio pagava por aquilo… e deixava de pagar por aquilo…". A lição cap01-r1 limita a uma antítese explícita por seção.'
+    correcao: 'Manter a da abertura, que é boa. Em "O erro era a ordem", cortar "Contratar ajuda estava certo; a hora estava errada." (a frase anterior já diz isso). Em "O escopo", trocar "Não era bem isso." por "Otávio corrigiu:" e deixar o quiasmo como fala dele.'
+edicoes_de_linha:
+  - '"que ele preferia usar para ler o próprio maço" -> "que ele preferia gastar só com a escolha"'
+  - '"a dona das lojas de material de construção, que era cliente havia um ano" -> "a empresária das três lojas de material de construção, a que tinha chegado ao escritório depois do telefonema de Seu Ednaldo, cliente havia um ano"'
+  - '"proíbem promessa de resultado, captação de clientes e menção a casos identificáveis" -> "proíbem promessa de resultado, captação indevida de clientela e menção a casos identificáveis"'
+  - '"A equipe entrega na terça, o material espera a sua aprovação até sexta" -> "A equipe entrega na segunda, o material espera a sua aprovação até quinta" (no caso do Otávio, a terça é o dia da publicação)'
+  - 'Título da figura 24.1: "Quanto tempo a revisão pedia ao Otávio" -> "Cada linha nova no manual encurtou a revisão" (título que afirma, não que rotula)'
+  - '"Em abril, dois anos depois de pedir à agência dois meses sem publicações" -> "Em abril, dois anos depois de suspender as publicações da agência"'
+  - 'Guardar, item 2: "O escopo começa sempre pelo seu material" -> "O contrato começa sempre pelo seu material"'
+diagramacao:
+  - 'As PNGs em apostila/saida/qa/cap24/ são de 06:49, anteriores ao manuscrito atual (20:38). A revisão foi feita sobre uma renderização nova do texto atual, fora do repositório. Rodar o build com --png antes da próxima rodada.'
+  - 'p20: cerca de 27% de branco no pé, depois dos critérios da oficina. O cabeçalho da rede, com intro e regras, vai inteiro para a p21. Não é campo de escrita: dá para deixar a rede começar no pé ou aceitar como está.'
+  - 'p21: cerca de 35% de branco depois de Faça/Evite, antes do esqueleto indivisível (p22). É aceito pelo projeto; aparece só para registro.'
+  - 'p23–p24: a verificação deixa cerca de 22% livres na p23 e o checklist passa inteiro para a p24, que fica com uns 60% em branco no fim do capítulo. Aceitável. Se o campo novo da oficina (manual e corpus) entrar, reconferir a paginação (hoje são 14 páginas, p11–p24).'
+  - 'Figura 24.1 (p17): barras legíveis em preto e branco e rótulos com o valor por extenso. Está bem. Só o título rotula em vez de afirmar (ver edições de linha).'
+veredito: 'Capítulo bem escrito, com cena de abertura e fecho de primeira e fiel ao método, mas reprovado nesta rodada: uma questão da verificação tem duas respostas certas, "os quatro sinais" colide com o cap. 4, e a linha do tempo da delegação (linhas do manual, etapas passadas à agência, regra da última frase) não fecha. Falta ainda remeter ao cap. 23 em vez de repeti-lo.'
