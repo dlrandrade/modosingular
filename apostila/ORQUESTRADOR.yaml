@@ -15,7 +15,7 @@
 projeto:
   titulo: "Modo Singular"
   subtitulo: "Trinta capítulos para descobrir a sua singularidade e ser ímpar no seu posicionamento"
-  autor: null            # PENDENTE: nome que vai na capa e na folha de rosto (perguntar ao dono)
+  autor: "Daniel Luzz"
   edicao: "1ª edição"
   idioma: pt-BR
   meio: impresso         # apostila física, enviada à casa do leitor

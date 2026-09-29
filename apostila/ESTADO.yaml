@@ -1,5 +1,5 @@
 # ESTADO — gerado e mantido por orquestrador.py. Não editar à mão.
-# atualizado: 2026-09-28 22:11
+# atualizado: 2026-09-29 08:35
 fases_do_projeto:
   F0: concluida
   F1: concluida
@@ -1243,8 +1243,8 @@ decisoes:
   11 (seis semanas, foto já liberada) e 14 (seis semanas); cap. 14 com 29 repetições (31 já era da Lúcia); cap.
   20 explica a conta do enunciado; cap. 29 ''julho''. Plano do ORQUESTRADOR alinhado ao texto (16 meses no cap.
   25, 7 meses no cap. 27, arco da Lúcia: copiava a voz, leva a estrutura).'
+- '2026-09-29: Autor na capa e na folha de rosto: Daniel Luzz (informado pelo dono).'
 pendencias:
-- Nome do autor para capa e folha de rosto (projeto.autor)
 - 'QA final: avaliar deixar boxes ''nota'' com lista quebrarem entre itens (cap22 p16–17 e outros com ~20–25% de
   branco antes de box indivisível).'
 imagens:
