@@ -4,6 +4,9 @@ import { configOk, supabaseUrl, supabaseAnonKey } from "@/lib/env";
 
 const PROTEGIDAS = ["/jornada", "/dia", "/perfil", "/assinatura", "/materia-prima", "/admin"];
 
+/** Tempo máximo esperando o Supabase no middleware (a Vercel derruba aos 25 s). */
+const LIMITE_AUTH_MS = 4000;
+
 /**
  * O middleware roda em TODA requisição. Se ele lançar, o site inteiro
  * responde 500 (MIDDLEWARE_INVOCATION_FAILED) — inclusive a página que
@@ -43,7 +46,18 @@ export async function middleware(request: NextRequest) {
       },
     );
 
-    const { data: { user } } = await supabase.auth.getUser();
+    // A chamada ao Supabase não tem timeout próprio: se ele demorar, o
+    // middleware inteiro estoura os 25 s da Vercel (504
+    // MIDDLEWARE_INVOCATION_TIMEOUT) e o catch abaixo nunca roda. Por isso
+    // a espera é limitada. Estourou o prazo: a requisição segue sem decisão
+    // do middleware; toda página protegida confere a sessão por conta
+    // própria (carregarJornada / isAdmin) e redireciona para /entrar.
+    const resposta = await Promise.race([
+      supabase.auth.getUser(),
+      new Promise<null>((resolve) => setTimeout(() => resolve(null), LIMITE_AUTH_MS)),
+    ]);
+    if (resposta === null) return NextResponse.next();
+    const user = resposta.data.user;
 
     if (!user && PROTEGIDAS.some((p) => path.startsWith(p))) {
       const url = request.nextUrl.clone();
