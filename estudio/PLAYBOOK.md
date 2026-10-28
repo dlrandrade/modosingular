@@ -67,9 +67,9 @@ Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 | # | Slide | Função |
 |---|---|---|
 | 1 | **Capa** | O gancho do carrossel. Não repete o hook do Reels: é a mesma ideia por outra porta. |
-| 2 | **Cena** | A situação do livro que abre o assunto. |
+| 2 | **Cena** | A situação que abre o assunto, contada para quem nunca leu o livro. |
 | 3 | **Virada** | O detalhe que não fechava; a tensão. |
-| 4 | **Figura** | O elemento gráfico do livro, com título que diz a conclusão e legenda curta. É o centro da peça. |
+| 4 | **Figura** | O elemento gráfico, com título que diz a conclusão e legenda curta. É o centro do carrossel, e por isso tem ar em volta: se ficar cheia, perde a legenda; se ainda assim sufocar, ganha um slide só dela (MANUAL, 3.2). |
 | 5 | **Leitura da figura** | Aplica a figura ao caso da cena (lista de 3 itens, no máximo). |
 | 6 | **A ideia do dia** | Uma frase só, fundo escuro. A que a pessoa vai citar. |
 | 7 | **Como ficaria** | A aplicação na prática, numa profissão diferente da cena, para quem lê pensar "entendi como fazer no meu". Muda de forma a cada dia: post, antes e depois, rascunho de caderno ou conversa (MANUAL, seção 6). |
@@ -87,13 +87,22 @@ Figura com valores inventados leva o selo "esquema ilustrativo" (herdado do livr
 Estrutura, de 600 a 1.400 caracteres (limite duro: 2.200):
 
 1. **Primeira linha**: a ideia do dia como afirmação específica. É o que aparece antes do "mais".
-2. **A cena** do livro em duas ou três frases.
+2. **A cena** em duas ou três frases, sem pressupor o livro.
 3. **A explicação**: o que a cena mostra, em linguagem de colega para colega.
 4. **O exercício**, em uma frase corrida e concreta.
-5. **O CTA** (uma ação) e, por último, a linha de procedência: de qual capítulo do Modo Singular vem a ideia e que a personagem é composta.
+5. **O CTA** (uma ação) e, por último, a procedência em palavras comuns: que a personagem foi criada a partir de casos reais e, numa frase, o que é o Modo Singular (nunca o número do capítulo).
 6. Até 5 hashtags, no fim. Pode não ter nenhuma.
 
 ## 6. Voz
+
+**Para quem a peça é escrita: quem nunca ouviu falar de você nem do livro.** O Reels e o carrossel são topo de funil. A pessoa chegou rolando a tela, não sabe quem é Daniel Luzz, não sabe que existe um livro, não conhece nenhum termo dele. Três consequências:
+
+- **Comece pela vida dela, não pelo livro.** O gancho e a introdução falam da situação que ela vive (posta e ninguém responde, sabe muito e parece igual a todo mundo, trava antes de escrever), com as palavras que ela usaria para contar isso a um colega.
+- **Mostre antes de nomear.** Um conceito do livro (repertório, critério, a distância) só ganha nome depois de aparecer em palavras comuns, e nunca no gancho. No máximo um conceito com nome por dia.
+- **Palavras de dentro ficam dentro.** "Peça", "caderno de campo", "matéria-prima", "oficina", "pauta", "tese", "personagem composta", "capítulo 9", "o método": nada disso aparece para o público. A tabela de tradução está no MANUAL, seção 0.1, e o verificador barra as principais.
+
+Teste do estranho: leia cada frase como alguém que nunca viu o perfil. Se ela precisar de contexto para fazer sentido, reescreva.
+
 
 A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um colega inteligente. Calor contido, humor seco e raro. Português do Brasil culto e conversado. O livro é a referência: `apostila/ORQUESTRADOR.yaml`, seções `voz` e `antivicios`. O verificador lê essa lista de expressões proibidas e aplica a todas as peças. Em resumo:
 
@@ -105,7 +114,7 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 
 ## 7. CTA: levar ao Modo Singular sem vender barato
 
-**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele ("esse exercício é o capítulo 9 do Modo Singular"), nunca como a razão pela qual a peça existe.
+**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele, explicado para quem nunca ouviu falar ("estou escrevendo um livro sobre isso, para especialistas que sabem muito e aparecem pouco"), e só no dia do convite; nunca como a razão pela qual a peça existe, e nunca pelo número do capítulo.
 
 **Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular, em breve") não conta como pedido.
 
@@ -115,7 +124,7 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 |---|---|---|---|
 | **Prática** | Fazer o exercício, no papel, sem postar nada | 4 dos 7 dias | "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo." |
 | **Conversa** | Responder com uma palavra ou uma frase curta | 2 dos 7 dias | "Comente a camada em que a sua semana mais se concentra: informação, padrão, exceção ou critério." |
-| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Isso é o capítulo 9 do Modo Singular. Quem quiser ser avisado quando abrir, o link está na bio." |
+| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Estou escrevendo um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco. Quem quiser ser avisado quando sair, o link está na bio." |
 
 **O que o CTA de convite nunca faz:** urgência falsa, escassez inventada, "últimas vagas", promessa de resultado, comparação com quem "ainda está perdido", "você está deixando dinheiro na mesa". O argumento é só este: *você acabou de fazer, em cinco minutos, o começo do que o Modo Singular faz em trinta capítulos.*
 
@@ -125,13 +134,13 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 
 Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma delas, a peça fica pior.
 
-1. **Personagens são compostos.** Renata, Otávio, Lúcia e Caio não são clientes reais. Em toda peça que usa um caso do livro, o leitor precisa poder saber disso (na fala, na tela ou na legenda): "cena do livro", "personagem composta". Nunca "um cliente meu", "uma paciente que atendi", "uma aluna minha".
+1. **Personagens são compostos.** Renata, Otávio, Lúcia e Caio não são clientes reais. Em toda peça que usa um caso do livro, o leitor precisa poder saber disso (na tela e na legenda), em palavras comuns: "cena ilustrativa", "personagem criada a partir de casos reais". Nunca "um cliente meu", "uma paciente que atendi", "uma aluna minha".
 2. **O "eu" não inventa biografia.** Daniel Luzz pode opinar ("eu acho", "a posição do livro é"), nunca contar um episódio da própria vida que o livro não traz.
 3. **Nenhum número inventado como dado.** Percentuais, ganhos, prazos de resultado só entram se vierem do capítulo, e como o capítulo os apresenta (ilustrativo, hipotético, conta do leitor).
 4. **Nenhuma promessa de resultado.** Nada de "mais clientes", "viralizar", "faturar". O que se promete é clareza e método.
 5. **Sigilo.** Os exercícios que pedem casos reais mandam omitir nome e dado que identifique. Profissões regulamentadas (saúde, direito, psicologia) têm código de publicidade: não se estimula o público a expor atendimento.
 6. **O dossiê não é citado.** Ele não existe no repositório; não se inventam falas dele.
-7. **Cada peça cita a origem** (capítulo do Modo Singular) em algum ponto visível.
+7. **Cada peça diz de onde vem**, na legenda: o Modo Singular, explicado numa frase para quem não o conhece. Número de capítulo nunca vai para o público.
 
 ## 9. Checklist antes de publicar
 
@@ -139,7 +148,8 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 - [ ] O hook funciona sem contexto, em até 3 segundos.
 - [ ] Os dois loops são resolvidos, e o BODY 2 e o BODY 3 trazem informação nova.
 - [ ] Nenhum "não é X, é Y", nenhum "Você sabia?", nenhuma exclamação.
-- [ ] A cena do livro está identificada como personagem composta.
+- [ ] A cena está identificada como ilustrativa (personagem criada a partir de casos reais).
+- [ ] Passa no teste do estranho: nenhuma frase pressupõe o livro, o método ou um termo dele.
 - [ ] O CTA pede uma ação só e decorre do que foi dito.
 - [ ] O exercício (slide 7) pode ser feito em 5 minutos, sem expor ninguém.
 - [ ] Os slides estão legíveis no celular (texto mínimo ~29 px em 1080).
