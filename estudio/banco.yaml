@@ -1,0 +1,348 @@
+# Banco de pautas do Estúdio Singular. Uma pauta = uma figura do livro (apostila/texto/capNN.md).
+# Gerado por `estudio.py indexar`; só 'status' e 'publicado_em' devem ser editados à mão (ou por `publicado N`).
+# status: pendente | pronto (kit escrito e renderizado) | publicado
+# template: false = o carrossel ainda não sabe desenhar esse tipo de figura (criar em carrossel.py antes do dia chegar).
+pautas:
+- dia: 1
+  cap: 9
+  fig: 0
+  tipo: camadas
+  titulo: Do que todos encontram ao que só você tem
+  template: true
+  status: pronto
+- dia: 2
+  cap: 1
+  fig: 0
+  tipo: gap
+  titulo: A distância que não aparece na agenda
+  template: true
+  status: pendente
+- dia: 3
+  cap: 2
+  fig: 0
+  tipo: balanca
+  titulo: O que pesa de verdade na decisão
+  template: true
+  status: pendente
+- dia: 4
+  cap: 3
+  fig: 0
+  tipo: camadas
+  titulo: Sem pensamento na base, nada se sustenta em cima
+  template: true
+  status: pendente
+- dia: 5
+  cap: 5
+  fig: 0
+  tipo: barras
+  titulo: O formato errado cobra antes de você começar
+  template: true
+  status: pendente
+- dia: 6
+  cap: 10
+  fig: 0
+  tipo: quadrante
+  titulo: Onde mora a sua opinião
+  template: true
+  status: pendente
+- dia: 7
+  cap: 4
+  fig: 1
+  tipo: fluxo
+  titulo: A terceirização na ordem certa
+  template: true
+  status: pendente
+- dia: 8
+  cap: 15
+  fig: 1
+  tipo: escada
+  titulo: Os quatro tempos do caso-prova
+  template: true
+  status: pendente
+- dia: 9
+  cap: 17
+  fig: 0
+  tipo: balanca
+  titulo: A indignação começa a peça; o repertório a sustenta
+  template: true
+  status: pendente
+- dia: 10
+  cap: 18
+  fig: 0
+  tipo: funil
+  titulo: O que acontece quando o critério é público
+  template: true
+  status: pendente
+- dia: 11
+  cap: 13
+  fig: 1
+  tipo: fluxo
+  titulo: Da sala para a peça, em quatro passos
+  template: true
+  status: pendente
+- dia: 12
+  cap: 20
+  fig: 1
+  tipo: camadas
+  titulo: A ordem em que o sistema cresce
+  template: true
+  status: pendente
+- dia: 13
+  cap: 25
+  fig: 1
+  tipo: funil
+  titulo: O que a biblioteca faz enquanto você trabalha
+  template: true
+  status: pendente
+- dia: 14
+  cap: 27
+  fig: 0
+  tipo: escada
+  titulo: Os cinco degraus da distância
+  template: true
+  status: pendente
+- dia: 15
+  cap: 1
+  fig: 1
+  tipo: fluxo
+  titulo: O que muda quando a distância diminui
+  template: true
+  status: pendente
+- dia: 16
+  cap: 3
+  fig: 1
+  tipo: espectro
+  titulo: Ter o que dizer rende mais do que qualquer edição
+  template: true
+  status: pendente
+- dia: 17
+  cap: 4
+  fig: 0
+  tipo: gap
+  titulo: O que sobrevive à terceirização prematura
+  template: true
+  status: pendente
+- dia: 18
+  cap: 5
+  fig: 1
+  tipo: linha
+  titulo: Por que a sequência quebra num dia comum
+  template: false
+  status: pendente
+- dia: 19
+  cap: 5
+  fig: 2
+  tipo: fluxo
+  titulo: Primeiro o encaixe, depois a constância
+  template: true
+  status: pendente
+- dia: 20
+  cap: 6
+  fig: 0
+  tipo: orbita
+  titulo: A rotina como fonte permanente
+  template: false
+  status: pendente
+- dia: 21
+  cap: 6
+  fig: 1
+  tipo: area
+  titulo: O que vinte segundos por dia acumulam
+  template: false
+  status: pendente
+- dia: 22
+  cap: 7
+  fig: 0
+  tipo: matriz
+  titulo: Afinidade entre modo e formato
+  template: false
+  status: pendente
+- dia: 23
+  cap: 8
+  fig: 0
+  tipo: linha
+  titulo: Quem continua passa quem começou forte
+  template: false
+  status: pendente
+- dia: 24
+  cap: 8
+  fig: 1
+  tipo: espectro
+  titulo: Abaixo do piso, nenhuma duração compensa
+  template: true
+  status: pendente
+- dia: 25
+  cap: 11
+  fig: 0
+  tipo: ficha
+  titulo: A ficha de léxico do Caio
+  template: false
+  status: pendente
+- dia: 26
+  cap: 12
+  fig: 0
+  tipo: orbita
+  titulo: Nenhuma parte sozinha faz a sua linguagem
+  template: false
+  status: pendente
+- dia: 27
+  cap: 13
+  fig: 0
+  tipo: barras
+  titulo: O custo de uma peça, conforme a origem
+  template: true
+  status: pendente
+- dia: 28
+  cap: 14
+  fig: 0
+  tipo: gap
+  titulo: A mesma resposta, avaliada por quem a dá e por quem a ouve
+  template: true
+  status: pendente
+- dia: 29
+  cap: 14
+  fig: 1
+  tipo: linha
+  titulo: Quanto dura um inventário de perguntas
+  template: false
+  status: pendente
+- dia: 30
+  cap: 15
+  fig: 0
+  tipo: quadrante
+  titulo: Qual caso escolher
+  template: true
+  status: pendente
+- dia: 31
+  cap: 16
+  fig: 0
+  tipo: fluxo
+  titulo: Como uma explicação amadurece sem você notar
+  template: true
+  status: pendente
+- dia: 32
+  cap: 16
+  fig: 1
+  tipo: barras
+  titulo: Em vinte anos, a explicação ficou seis vezes menor
+  template: true
+  status: pendente
+- dia: 33
+  cap: 17
+  fig: 1
+  tipo: escada
+  titulo: Quanto mais alto o degrau, mais o contraponto fala de você
+  template: true
+  status: pendente
+- dia: 34
+  cap: 19
+  fig: 0
+  tipo: fluxo
+  titulo: Três momentos, três custos
+  template: true
+  status: pendente
+- dia: 35
+  cap: 19
+  fig: 1
+  tipo: barras
+  titulo: De onde vieram as capturas de agosto da Renata
+  template: true
+  status: pendente
+- dia: 36
+  cap: 20
+  fig: 0
+  tipo: barras
+  titulo: O que cada formato custava ao Caio
+  template: true
+  status: pendente
+- dia: 37
+  cap: 21
+  fig: 0
+  tipo: barras
+  titulo: O que cada desenho pedia ao Otávio, por semana
+  template: true
+  status: pendente
+- dia: 38
+  cap: 22
+  fig: 0
+  tipo: camadas
+  titulo: O que levar de uma peça que você admira
+  template: true
+  status: pendente
+- dia: 39
+  cap: 23
+  fig: 0
+  tipo: fluxo
+  titulo: O caminho de uma peça, com o rosto preservado
+  template: true
+  status: pendente
+- dia: 40
+  cap: 23
+  fig: 1
+  tipo: linha
+  titulo: Com a voz preservada, o volume não apaga a diferença
+  template: false
+  status: pendente
+- dia: 41
+  cap: 24
+  fig: 0
+  tipo: barras
+  titulo: Cada linha nova no manual encurtou a revisão
+  template: true
+  status: pendente
+- dia: 42
+  cap: 25
+  fig: 0
+  tipo: linha
+  titulo: O que cada peça mostra e o que o conjunto faz
+  template: false
+  status: pendente
+- dia: 43
+  cap: 26
+  fig: 0
+  tipo: funil
+  titulo: Do desconhecido ao cliente, sem perder o rosto
+  template: true
+  status: pendente
+- dia: 44
+  cap: 26
+  fig: 1
+  tipo: barras
+  titulo: As últimas dez peças da Renata, por camada
+  template: true
+  status: pendente
+- dia: 45
+  cap: 28
+  fig: 0
+  tipo: camadas
+  titulo: O painel mensal, com a base no que importa
+  template: true
+  status: pendente
+- dia: 46
+  cap: 28
+  fig: 1
+  tipo: espectro
+  titulo: Com que frequência olhar os números
+  template: true
+  status: pendente
+- dia: 47
+  cap: 29
+  fig: 0
+  tipo: linha
+  titulo: O vale entre o esforço e o retorno
+  template: false
+  status: pendente
+- dia: 48
+  cap: 29
+  fig: 1
+  tipo: fluxo
+  titulo: As quatro linhas de um mês difícil
+  template: true
+  status: pendente
+- dia: 49
+  cap: 30
+  fig: 0
+  tipo: espectro
+  titulo: Onde você estava, e onde está
+  template: true
+  status: pendente
