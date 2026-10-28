@@ -26,7 +26,8 @@ KITS = AQUI / "kits"
 # Sequência editorial dos 14 primeiros dias: (capítulo, índice da figura no capítulo).
 # Escolhida para contar uma história: por que o conhecimento não aparece, o que fazer, como sustentar.
 ORDEM = [(9, 0), (1, 0), (2, 0), (3, 0), (5, 0), (10, 0), (4, 1), (15, 1), (17, 0), (18, 0), (13, 1), (20, 1), (25, 1), (27, 0)]
-PRONTOS = {"camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro"}
+PRONTOS = {"camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro"}  # = FIGURAS_PRONTAS em src/estudio/slides.ts
+FORMAS_EXEMPLO = ["post", "antes_depois", "rascunho", "conversa"]                                       # = FORMAS_EXEMPLO em src/estudio/slides.ts
 ETAPAS = [("hook", "GANCHO (hook) · quebra o padrão de rolagem"), ("lead", "INTRODUÇÃO (lead) · segura a atenção até ~10 s"),
           ("body1", "DESENVOLVIMENTO 1 (body 1) · primeira informação de valor"), ("loop1", "GANCHO DE CURIOSIDADE 1 (open loop 1)"),
           ("body2", "DESENVOLVIMENTO 2 (body 2) · resolve o loop 1 e entrega mais"), ("loop2", "GANCHO DE CURIOSIDADE 2 (open loop 2)"),
@@ -144,7 +145,7 @@ def textos_do_kit(k):
     r = k.get("roteiro", {})
     out = [("roteiro." + e, r.get(e, "")) for e, _ in ETAPAS]
     for i, s in enumerate(k.get("carrossel", []), 1):
-        for ch in ("titulo", "sub", "fala", "apoio", "tag", "acao"):
+        for ch in ("titulo", "sub", "fala", "apoio", "tag", "acao", "quem", "texto", "comum", "singular", "porque", "pergunta", "resposta", "nota"):
             if s.get(ch):
                 out.append((f"slide{i}.{ch}", s[ch]))
         for x in s.get("itens", []) or []:
@@ -206,6 +207,17 @@ def lint(dia, silencioso=False):
         erros.append("o último slide deve ser 'cta'")
     if not any(s["tipo"] == "figura" for s in sl):
         erros.append("o carrossel precisa de um slide 'figura' (o elemento gráfico do livro)")
+    exs = [s for s in sl if s["tipo"] == "exemplo"]
+    if not exs:
+        erros.append("o carrossel precisa de um slide 'exemplo' (como ficaria, na prática)")
+    for s in exs:
+        if s.get("forma") not in FORMAS_EXEMPLO:
+            erros.append(f"exemplo com forma '{s.get('forma')}' (use {', '.join(FORMAS_EXEMPLO)})")
+    anterior = KITS / f"dia-{dia - 1:03d}" / "kit.yaml"
+    if exs and anterior.exists():
+        formas_ant = [s.get("forma") for s in carregar_yaml(anterior).get("carrossel", []) if s["tipo"] == "exemplo"]
+        if exs[0].get("forma") in formas_ant:
+            avisos.append(f"exemplo na mesma forma do dia anterior ({exs[0].get('forma')}): varie o modo de mostrar a aplicação")
     for i, s in enumerate(sl, 1):
         n = sum(palavras(s.get(c)) for c in ("titulo", "sub", "fala", "apoio", "tag")) + sum(palavras(x["rotulo"] + " " + x["texto"]) for x in s.get("itens", []) or [])
         if n > 55:
@@ -253,7 +265,7 @@ def render(dia):
     (pasta / "legenda.md").write_text(k["legenda"].strip() + "\n")
     import carrossel
     m = marca()
-    ctx = {"handle": m.get("handle", ""), "rotulo_dia": f"Dia {dia:02d}", "assinatura": m["oferta"]["nome"]}
+    ctx = {"handle": m.get("handle", ""), "rotuloDia": f"Dia {dia:02d}", "assinatura": m["oferta"]["nome"]}
     n = carrossel.renderizar(k["carrossel"], ctx, pasta / "slides")
     print(f"{pasta.relative_to(RAIZ)}: roteiro.md, legenda.md, {n} slides")
     bancar(dia, "pronto")
