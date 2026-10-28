@@ -1,0 +1,21 @@
+# Configuração da marca e da oferta. Tudo que o CTA precisa saber mora aqui.
+# Mude aqui, e não dentro dos kits: os kits só dizem "o que" pedir; este arquivo diz "o quê" e "onde".
+autor: "Daniel Luzz"
+handle: "@DanielLuzz"
+
+# Nome da oferta: o livro, a apostila e o que se oferece se chamam todos "Modo Singular".
+oferta:
+  nome: "Modo Singular"
+  livro: "Modo Singular"
+  estado: "em_breve"             # em_breve | aberto
+  acao_metodo: "Link na bio para a lista de espera"   # PREENCHER: o que existe de fato quando o CTA de convite aparece
+  # Quando estado = aberto, troque acao_metodo por algo como "Link na bio para conhecer".
+  promessa_curta: "trinta capítulos para descobrir o que só você diz"
+
+# Cadência semanal do CTA (ver PLAYBOOK, seção 7). Dia 7 de cada semana é dia de método.
+cadencia_cta:
+  pratica: [1, 3, 4, 6]          # dias da semana do ciclo (1 a 7): faça agora, no papel
+  conversa: [2, 5]               # comente uma palavra / responda uma pergunta
+  convite: [7]                    # convite ao Modo Singular
+
+duracao_padrao_reels: 45         # segundos: 30 | 45 | 60

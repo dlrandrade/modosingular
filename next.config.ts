@@ -3,6 +3,13 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  async redirects() {
+    // o estúdio atende pelos dois nomes
+    return [
+      { source: "/studio", destination: "/estudio", permanent: false },
+      { source: "/studio/:resto*", destination: "/estudio", permanent: false },
+    ];
+  },
   async headers() {
     return [
       {

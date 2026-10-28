@@ -1,0 +1,109 @@
+dia: 1
+fonte: {cap: 9, figura: "Do que todos encontram ao que só você tem (camadas)"}
+tema: "Informação todo mundo tem; critério, só quem decidiu muitas vezes"
+objetivo: ensinar
+duracao: 60
+cta_nivel: pratica
+
+ficha:
+  ideia: "Informação todo mundo tem; critério, só quem decidiu muitas vezes."
+  conceito: "Repertório: o que você sabe por ter visto muitas vezes, inclusive quando a regra falhou."
+  cena: "Uma fisioterapeuta lista tudo o que sabe sobre coluna; dias depois, conta um único paciente por quinze minutos."
+  detalhe: "Onze linhas que um aluno do quarto período escreveria; o paciente que só fazia mercado apoiado no carrinho."
+  figura: "Cinco camadas do saber; as duas de cima estão nos livros, as três de baixo só a prática dá; o destaque é o critério."
+  virada: "A camada que decide a escolha do cliente é a que quase ninguém publica: o critério."
+  aplicacao: "Professora de piano decide corrigir um erro numa aluna e não na outra; forma: post."
+  exercicio: "Escolha uma decisão difícil recente; anote a saída descartada; escreva o motivo em uma frase, sem identificar ninguém."
+
+# Reels: Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA
+roteiro:
+  hook: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas."
+  lead: "Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente."
+  body1: "A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório."
+  loop1: "Ele tem três camadas. A mais valiosa quase ninguém publica."
+  body2: "Primeiro, o padrão: o que costuma acontecer, e em que ordem. Depois, a exceção: quando a regra falha, e por quais sinais."
+  loop2: "A terceira decide quem o paciente escolhe."
+  body3: "O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes."
+  cta: "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve."
+
+carrossel:
+  - tipo: capa
+    titulo: "Onze linhas sobre coluna. Um aluno escreveria as *mesmas*."
+    sub: "A diferença entre estudar e ter repertório."
+  - tipo: texto
+    rotulo: "A cena"
+    fundo: areia
+    medio: true
+    fala: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Releu e sentiu *vergonha*: estava tudo certo, e nada ali era dela."
+    tag: "Cena do livro Modo Singular. A fisioterapeuta é uma personagem composta."
+  - tipo: texto
+    rotulo: "Dois dias depois"
+    fala: "Ao telefone, falou quinze minutos sobre *um único paciente*."
+    apoio: "A irmã: “Isso aí não estava na sua lista.”"
+  - tipo: figura
+    titulo: "O que você sabe vem em *cinco camadas*"
+    figura:
+      tipo: camadas
+      camadas:
+        - {rotulo: "Informação", nota: "O que a sua área sabe. Está nos livros e numa busca rápida."}
+        - {rotulo: "Aplicação", nota: "Como se faz na prática. Está nos cursos e nos protocolos."}
+        - {rotulo: "Padrão", nota: "O que costuma acontecer, e em que ordem. Só o volume ensina."}
+        - {rotulo: "Exceção", nota: "Quando a regra falha, e por quais sinais. Só os casos difíceis ensinam."}
+        - {rotulo: "Critério", nota: "Como você decide entre duas saídas defensáveis. É o que há de mais seu."}
+      divisao: 2
+      grupos: ["Nos livros e nos cursos", "O que só a prática dá"]
+    legenda: "As duas de cima são iguais em todo mundo que estudou. A diferença entre especialistas está nas três de baixo."
+  - tipo: lista
+    rotulo: "As três de baixo, na cena"
+    fala: "O que a lista *não tinha*"
+    itens:
+      - {rotulo: "Padrão", texto: "Pacientes assim quase nunca falam do carrinho quando ela pergunta pela dor. Falam quando ela pergunta como é fazer mercado."}
+      - {rotulo: "Exceção", texto: "Diagnóstico de hérnia, com uma dor que contava outra história."}
+      - {rotulo: "Critério", texto: "O detalhe do supermercado valeu mais do que o laudo, e ela pediu uma segunda olhada."}
+  - tipo: texto
+    fundo: escuro
+    grande: true
+    fala: "Informação todo mundo tem. *Critério*, só quem decidiu muitas vezes."
+  - tipo: exemplo
+    forma: post
+    titulo: "O critério, *escrito*"
+    quem: "Uma professora de piano, contando uma decisão da semana."
+    perfil: "Professora de piano"
+    texto: |
+      Duas alunas de oito anos, o mesmo erro na mão esquerda. Para uma, corrigi na hora. Para a outra, deixei passar por um mês.
+
+      O que decidiu foi a pergunta que faço sempre aos pais: *ela ainda pede para tocar em casa?*
+
+      Técnica se corrige em qualquer mês. O gosto de tocar, quando vai embora, não volta com exercício.
+    nota: "Exemplo ilustrativo: a decisão, a saída descartada e o motivo, em três parágrafos curtos."
+  - tipo: figura
+    rotulo: "Agora, o seu"
+    titulo: "Faça em *cinco minutos*"
+    figura:
+      tipo: passos
+      nos:
+        - {rotulo: "Escolha uma decisão difícil recente", nota: "Na sua área, dos últimos meses."}
+        - {rotulo: "Anote a saída que você descartou", nota: "A outra opção que também era defensável."}
+        - {rotulo: "Escreva o motivo, em uma frase", nota: "Sem nome e sem nenhum dado que identifique alguém."}
+    legenda: "Esse motivo é o primeiro rascunho do seu critério."
+  - tipo: cta
+    titulo: "Você já tem um *critério*. Falta escrevê-lo."
+    apoio: "Esse exercício é o capítulo 9 do Modo Singular: trinta capítulos para descobrir o que só você diz."
+    acao: "Salve para fazer hoje à noite"
+
+legenda: |
+  Informação, todo mundo da sua área tem. O que você decide diante de um caso difícil, não.
+
+  Na cena do livro Modo Singular, uma fisioterapeuta tenta listar tudo o que sabe sobre coluna e escreve onze linhas que qualquer estudante escreveria. Dois dias depois, ao telefone, ela conta um único paciente por quinze minutos, e a irmã avisa: isso não estava na sua lista.
+
+  A lista tinha informação. A conversa tinha repertório: o padrão que só o volume de casos ensina, a exceção que o manual não traz e o critério para decidir entre duas saídas corretas.
+
+  É o critério que faz um paciente, um cliente ou um aluno escolher você. E quase nunca ele aparece nos posts, porque parece óbvio demais para merecer um texto.
+
+  Para fazer hoje à noite, em cinco minutos: escolha uma decisão difícil que você tomou na sua área, anote a saída que descartou e escreva o motivo em uma frase. Sem nomes e sem nenhum dado que identifique alguém. Esse motivo é o primeiro rascunho do seu critério.
+
+  Salve este carrossel para não perder o exercício.
+
+  O exercício é o capítulo 9 do Modo Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
+
+  #posicionamento #autoridade #especialistas
