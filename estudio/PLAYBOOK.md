@@ -67,9 +67,9 @@ Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 | # | Slide | Função |
 |---|---|---|
 | 1 | **Capa** | O gancho do carrossel. Não repete o hook do Reels: é a mesma ideia por outra porta. |
-| 2 | **Cena** | A situação do livro que abre o assunto. |
+| 2 | **Cena** | A situação que abre o assunto, contada para quem nunca leu o livro. |
 | 3 | **Virada** | O detalhe que não fechava; a tensão. |
-| 4 | **Figura** | O elemento gráfico do livro, com título que diz a conclusão e legenda curta. É o centro da peça. |
+| 4 | **Figura** | O elemento gráfico, com título que diz a conclusão e legenda curta. É o centro do carrossel, e por isso tem ar em volta: se ficar cheia, perde a legenda; se ainda assim sufocar, ganha um slide só dela (MANUAL, 3.2). |
 | 5 | **Leitura da figura** | Aplica a figura ao caso da cena (lista de 3 itens, no máximo). |
 | 6 | **A ideia do dia** | Uma frase só, fundo escuro. A que a pessoa vai citar. |
 | 7 | **Como ficaria** | A aplicação na prática, numa profissão diferente da cena, para quem lê pensar "entendi como fazer no meu". Muda de forma a cada dia: post, antes e depois, rascunho de caderno ou conversa (MANUAL, seção 6). |
@@ -87,13 +87,22 @@ Figura com valores inventados leva o selo "esquema ilustrativo" (herdado do livr
 Estrutura, de 600 a 1.400 caracteres (limite duro: 2.200):
 
 1. **Primeira linha**: a ideia do dia como afirmação específica. É o que aparece antes do "mais".
-2. **A cena** do livro em duas ou três frases.
+2. **A cena** em duas ou três frases, sem pressupor o livro.
 3. **A explicação**: o que a cena mostra, em linguagem de colega para colega.
 4. **O exercício**, em uma frase corrida e concreta.
-5. **O CTA** (uma ação) e, por último, a linha de procedência: de qual capítulo do Modo Singular vem a ideia e que a personagem é composta.
+5. **O CTA** (uma ação) e, por último, a procedência em palavras comuns: que a personagem foi criada a partir de casos reais e, numa frase, o que é o Modo Singular (nunca o número do capítulo).
 6. Até 5 hashtags, no fim. Pode não ter nenhuma.
 
 ## 6. Voz
+
+**Para quem a peça é escrita: quem nunca ouviu falar de você nem do livro.** O Reels e o carrossel são topo de funil. A pessoa chegou rolando a tela, não sabe quem é Daniel Luzz, não sabe que existe um livro, não conhece nenhum termo dele. Três consequências:
+
+- **Comece pela vida dela, não pelo livro.** O gancho e a introdução falam da situação que ela vive (posta e ninguém responde, sabe muito e parece igual a todo mundo, trava antes de escrever), com as palavras que ela usaria para contar isso a um colega.
+- **Mostre antes de nomear.** Um conceito do livro (repertório, critério, a distância) só ganha nome depois de aparecer em palavras comuns, e nunca no gancho. No máximo um conceito com nome por dia.
+- **Palavras de dentro ficam dentro.** "Peça", "caderno de campo", "matéria-prima", "oficina", "pauta", "tese", "personagem composta", "capítulo 9", "o método": nada disso aparece para o público. A tabela de tradução está no MANUAL, seção 0.1, e o verificador barra as principais.
+
+Teste do estranho: leia cada frase como alguém que nunca viu o perfil. Se ela precisar de contexto para fazer sentido, reescreva.
+
 
 A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um colega inteligente. Calor contido, humor seco e raro. Português do Brasil culto e conversado. O livro é a referência: `apostila/ORQUESTRADOR.yaml`, seções `voz` e `antivicios`. O verificador lê essa lista de expressões proibidas e aplica a todas as peças. Em resumo:
 
@@ -105,9 +114,9 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 
 ## 7. CTA: levar ao Modo Singular sem vender barato
 
-**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele ("esse exercício é o capítulo 9 do Modo Singular"), nunca como a razão pela qual a peça existe.
+**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele, explicado para quem nunca ouviu falar ("escrevi um livro sobre isso, para especialistas que sabem muito e aparecem pouco"), e só no dia do convite; nunca como a razão pela qual a peça existe, e nunca pelo número do capítulo.
 
-**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular, em breve") não conta como pedido.
+**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular" e o @) não conta como pedido.
 
 **Escada de três degraus**, em cadência semanal (configurável em `marca.yaml`):
 
@@ -115,23 +124,23 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 |---|---|---|---|
 | **Prática** | Fazer o exercício, no papel, sem postar nada | 4 dos 7 dias | "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo." |
 | **Conversa** | Responder com uma palavra ou uma frase curta | 2 dos 7 dias | "Comente a camada em que a sua semana mais se concentra: informação, padrão, exceção ou critério." |
-| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Isso é o capítulo 9 do Modo Singular. Quem quiser ser avisado quando abrir, o link está na bio." |
+| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Escrevi um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco. O link está na bio." |
 
 **O que o CTA de convite nunca faz:** urgência falsa, escassez inventada, "últimas vagas", promessa de resultado, comparação com quem "ainda está perdido", "você está deixando dinheiro na mesa". O argumento é só este: *você acabou de fazer, em cinco minutos, o começo do que o Modo Singular faz em trinta capítulos.*
 
-**Enquanto o método estiver "em breve"** (`marca.yaml › oferta.estado`), o degrau Convite leva à lista de espera, e as peças dos outros dias terminam com a assinatura. Quando abrir, troque o estado e a ação; os kits antigos não precisam mudar.
+**Para onde o convite leva** (`marca.yaml › oferta`): o link na bio abre uma página curta do Modo Singular, onde a pessoa conhece e compra a apostila. O CTA só aponta o link; quem vende é a página. As peças dos outros dias terminam com a assinatura.
 
 ## 8. Honestidade e proteção
 
 Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma delas, a peça fica pior.
 
-1. **Personagens são compostos.** Renata, Otávio, Lúcia e Caio não são clientes reais. Em toda peça que usa um caso do livro, o leitor precisa poder saber disso (na fala, na tela ou na legenda): "cena do livro", "personagem composta". Nunca "um cliente meu", "uma paciente que atendi", "uma aluna minha".
+1. **Personagens são compostos.** Renata, Otávio, Lúcia e Caio não são clientes reais. Em toda peça que usa um caso do livro, o leitor precisa poder saber disso (na tela e na legenda), em palavras comuns: "cena ilustrativa", "personagem criada a partir de casos reais". Nunca "um cliente meu", "uma paciente que atendi", "uma aluna minha".
 2. **O "eu" não inventa biografia.** Daniel Luzz pode opinar ("eu acho", "a posição do livro é"), nunca contar um episódio da própria vida que o livro não traz.
 3. **Nenhum número inventado como dado.** Percentuais, ganhos, prazos de resultado só entram se vierem do capítulo, e como o capítulo os apresenta (ilustrativo, hipotético, conta do leitor).
 4. **Nenhuma promessa de resultado.** Nada de "mais clientes", "viralizar", "faturar". O que se promete é clareza e método.
 5. **Sigilo.** Os exercícios que pedem casos reais mandam omitir nome e dado que identifique. Profissões regulamentadas (saúde, direito, psicologia) têm código de publicidade: não se estimula o público a expor atendimento.
 6. **O dossiê não é citado.** Ele não existe no repositório; não se inventam falas dele.
-7. **Cada peça cita a origem** (capítulo do Modo Singular) em algum ponto visível.
+7. **Cada peça diz de onde vem**, na legenda: o Modo Singular, explicado numa frase para quem não o conhece. Número de capítulo nunca vai para o público.
 
 ## 9. Checklist antes de publicar
 
@@ -139,7 +148,8 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 - [ ] O hook funciona sem contexto, em até 3 segundos.
 - [ ] Os dois loops são resolvidos, e o BODY 2 e o BODY 3 trazem informação nova.
 - [ ] Nenhum "não é X, é Y", nenhum "Você sabia?", nenhuma exclamação.
-- [ ] A cena do livro está identificada como personagem composta.
+- [ ] A cena está identificada como ilustrativa (personagem criada a partir de casos reais).
+- [ ] Passa no teste do estranho: nenhuma frase pressupõe o livro, o método ou um termo dele.
 - [ ] O CTA pede uma ação só e decorre do que foi dito.
 - [ ] O exercício (slide 7) pode ser feito em 5 minutos, sem expor ninguém.
 - [ ] Os slides estão legíveis no celular (texto mínimo ~29 px em 1080).
@@ -147,7 +157,17 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 
 ## 10. Como o Claude trabalha com este playbook
 
-**Na plataforma (o jeito do dia a dia).** Em `modosingular.vercel.app/estudio`, com a senha, você pede o dia num campo ("dia 3", um tema, ou só enter para o próximo) ou clica no próximo. A plataforma escolhe a pauta, manda ao modelo de IA o playbook, o manual, o capítulo e a figura, confere o resultado com o mesmo verificador e apresenta o carrossel, a figura separada, o roteiro (com teleprompter), a legenda e a ficha. Os PNGs baixam direto do navegador. Os dias gerados ali ficam guardados no navegador; para versionar um deles no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
+**Na plataforma (o jeito do dia a dia).** Em `modosingular.vercel.app/estudio`, com a senha, você pede o dia num campo ("dia 3", um tema, ou só enter para o próximo) ou clica no próximo. A plataforma escolhe a pauta, manda ao modelo de IA o playbook, o manual, o capítulo e a figura, confere o resultado com o mesmo verificador e apresenta o carrossel, a figura separada (com a versão 9:16 para o Reels), o roteiro (com teleprompter), a legenda e a ficha.
+
+- **A geração roda no servidor.** Pode bloquear a tela ou trocar de app: ela continua, e o resultado aparece quando você volta. "Avise-me quando terminar" liga uma notificação neste aparelho (no iPhone, só com o estúdio instalado na tela de início).
+- **Os dias ficam guardados no servidor** (balde privado `estudio` no Supabase Storage do PWA) e aparecem em qualquer aparelho. Cada versão sobrescrita vai para o histórico.
+- **Edição no próprio carrossel.** Amplie um slide e dê dois cliques (no celular, dois toques) em qualquer texto: ele fica editável ali, com negrito, itálico, troca entre a grotesca e a Garamond, tamanho, largura do bloco e as cores da marca; no alto, o fundo do slide. A edição vira `ajustes` no próprio slide, então o PNG sai igual à tela. Se um texto passar da área segura, a lupa avisa. "Original" desfaz.
+- **A figura para o Reels**: 1080 × 1920, fundo transparente, a figura num cartão (claro ou escuro) no alto do quadro, para ficar acima da cabeça de quem grava em modo selfie. Põe-se por cima do vídeo no editor (CapCut, Instagram).
+- **Instale como app** (no celular, "Adicionar à tela de início"; no computador, o ícone de instalar na barra do navegador). O estúdio tem ícone e janela próprios, separados do app do curso, atalhos para "Próximo dia" e "Modelos", recebe textos compartilhados de outros apps como pedido, e mantém a tela acesa durante o teleprompter.
+- **Direto para o Instagram** (no celular): "enviar ao Instagram" abre a folha de compartilhar com os slides prontos e já deixa a legenda na área de transferência; no Instagram, é só escolher Feed e colar a legenda. Os PNGs são preparados em segundo plano assim que o kit abre, para que um toque baste.
+- **Admin** (`/estudio/admin`): cole o ID de qualquer modelo do OpenRouter (formato `empresa/modelo`, como `deepseek/deepseek-v4.1-flash`, ou o endereço da página do modelo) e o admin confere no catálogo vivo, com nome e custo por dia; ou escolha um dos recomendados. Mostra também o saldo, o estado de cada peça e as últimas gerações com o custo de cada uma.
+
+Para versionar um dia no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
 
 **No repositório (modo completo).** O Claude Code lê este playbook e o manual, roda `python3 estudio/estudio.py proximo`, lê o capítulo, preenche a ficha, escreve o kit em `estudio/kits/dia-NNN/kit.yaml`, roda `lint`, corrige e roda `render`. Saem o `roteiro.md`, a `legenda.md`, os slides e as figuras em PNG, e os dados da plataforma são atualizados. A skill `singular-diario` automatiza esse roteiro de trabalho.
 
@@ -165,8 +185,8 @@ Nesse modo não há renderizador: o carrossel sai como texto e você monta as im
 ## 11. Decisões em aberto (preencher em `marca.yaml`)
 
 - `handle`: o @ do perfil, que aparece no rodapé dos slides.
-- `oferta.acao_metodo`: o que de fato existe quando o CTA de convite aparece (lista de espera? página? mensagem?).
-- Na Vercel: `OPENROUTER_API_KEY` (prioritária: a plataforma gera com modelos gratuitos do OpenRouter), `ANTHROPIC_API_KEY` (opcional: o Claude entra como último recurso da cadeia) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`.
-- A ordem dos modelos está em `src/estudio/openrouter.ts` (`MODELOS_GRATUITOS`) e pode ser trocada sem código pela variável `ESTUDIO_MODELOS` (ex.: `openrouter:qwen/qwen3.8-27b:free,openrouter:openrouter/free,anthropic:claude-opus-5-5`). Os gratuitos do OpenRouter mudam com frequência; um ID que sai do catálogo é pulado automaticamente.
+- `oferta.acao_metodo`: para onde o convite leva (hoje: o link na bio, com a página do Modo Singular para comprar a apostila).
+- Na Vercel: `OPENROUTER_API_KEY` (o provedor da plataforma), `ANTHROPIC_API_KEY` (opcional: o Claude direto entra como último recurso) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`. A geração no servidor e as notificações usam a `SUPABASE_SERVICE_ROLE_KEY` que o PWA já tem; as chaves das notificações nascem sozinhas no armazém (ou vêm de `ESTUDIO_VAPID_PUBLICA` e `ESTUDIO_VAPID_PRIVADA`, se existirem).
+- **Quem escreve**: escolha em `/estudio/admin`. O padrão é o **Claude Haiku 5.5** pelo OpenRouter (US$ 0,10 e US$ 0,50 por milhão de tokens de entrada e saída; menos de um centavo de dólar por dia), com os gratuitos e o Claude direto de reserva. Alternativas no admin: DeepSeek V4 Pro (barato, escrita um pouco menos fluida), GLM 5.3 (a melhor escrita criativa entre os abertos) e Claude Sonnet 5.5 (o máximo de acabamento, ~US$ 0,15 por dia). Sem crédito no OpenRouter, o pago responde "sem créditos" e a cadeia passa aos gratuitos. Sem escolha salva, vale `ESTUDIO_MODELOS` (ex.: `openrouter:qwen/qwen3.8-27b:free,anthropic:claude-opus-5-5`), e sem ela o padrão. Os gratuitos do OpenRouter mudam com frequência; um ID que sai do catálogo é pulado automaticamente.
 - Privacidade: vários provedores gratuitos podem usar o que recebem para treinar modelos, e cada pedido leva o texto de um capítulo do livro. Se isso importa, mantenha nas configurações de privacidade do OpenRouter só provedores que não treinam com os dados, ou ponha o Claude primeiro em `ESTUDIO_MODELOS`.
-- Quando a oferta abrir: mudar `oferta.estado` para `aberto` e ajustar a ação.
+- Se a oferta mudar (outra página, outro produto), troque só `marca.yaml`; os kits antigos não precisam mudar.

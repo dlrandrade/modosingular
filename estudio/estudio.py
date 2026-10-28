@@ -145,6 +145,33 @@ ACOES = {"salve": r"\bsalv(e|ar)\b", "compartilhe": r"\bcompartilh(e|ar)\b", "co
          "link": r"\blink\b", "mensagem": r"\b(mande|envie) (uma )?mensagem\b", "escreva": r"\bescreva\b"}
 
 
+# Topo do funil (MANUAL, seção 0.1): palavras de dentro do livro não vão para o público. = JARGAO_* e LIVRO em src/estudio/lint.ts
+JARGAO_ERRO = [(re.compile(r"\bcaderno de campo\b", re.I), "uma nota no celular, um caderno onde você anota os casos"),
+               (re.compile(r"\bpersonage(m|ns) compostas?\b", re.I), "personagem criada a partir de casos reais"),
+               (re.compile(r"\bmatéria-prima\b", re.I), "o que acontece no seu dia de trabalho"),
+               (re.compile(r"\bcap(ítulo|itulo|\.)\s*\d+", re.I), "(sem número de capítulo para o público)")]
+JARGAO_AVISO = [(re.compile(r"\bpeças?\b", re.I), "post, vídeo ou carrossel (se for o verbo pedir, ignore)"),
+                (re.compile(r"\boficinas?\b", re.I), "exercício"),
+                (re.compile(r"\bpautas?\b", re.I), "assunto"),
+                (re.compile(r"\bo método\b", re.I), "(nada; ou o que ele faz, em palavras comuns)"),
+                (re.compile(r"\bteses?\b", re.I), "o que você defende")]
+LIVRO = re.compile(r"\b(Modo Singular|(n|d)?o livro(?! d[eoa]\s)|(d|n)?este livro|(d|n)?esse livro)\b", re.I)
+
+
+def palavras_figura(f):
+    if isinstance(f, str):
+        return palavras(f)
+    if isinstance(f, list):
+        return sum(palavras_figura(x) for x in f)
+    if isinstance(f, dict):
+        return sum(palavras_figura(v) for c, v in f.items() if c not in ("tipo", "titulo", "legenda"))
+    return 0
+
+
+def elementos_figura(f):
+    return max([len(v) for v in (f or {}).values() if isinstance(v, list)] or [0])
+
+
 def textos_do_kit(k):
     r = k.get("roteiro", {})
     out = [("roteiro." + e, r.get(e, "")) for e, _ in ETAPAS]
@@ -197,7 +224,23 @@ def lint(dia, silencioso=False):
         avisos.append(f"cta pede mais de uma ação ({', '.join(pedidos)}): uma ação por peça")
     # vícios em tudo que é texto
     av = antivicios()
+    convite = k.get("cta_nivel") == "convite"
+    cta_slide = f"slide{len(k.get('carrossel', []))}."
+    livro_na_legenda = 0
     for onde, t in textos_do_kit(k):
+        for rx, troca in JARGAO_ERRO:
+            m = rx.search(t or "")
+            if m:
+                erros.append(f"{onde}: '{m.group(0)}' é palavra de dentro do livro; para quem chega agora: {troca}")
+        for rx, troca in JARGAO_AVISO:
+            m = rx.search(t or "")
+            if m:
+                avisos.append(f"{onde}: '{m.group(0)}' pode soar de dentro; para o público: {troca}")
+        if LIVRO.search(t or ""):
+            if onde == "legenda":
+                livro_na_legenda = len(LIVRO.findall(t))
+            elif not (convite and (onde == "roteiro.cta" or onde.startswith(cta_slide))):
+                erros.append(f"{onde}: cita o livro para quem nunca ouviu falar dele (só no CTA de convite e na última linha da legenda)")
         for rx in av + EXTRAS:
             m = rx.search(t or "")
             if m and not (rx.pattern == "!" and False):
@@ -206,6 +249,11 @@ def lint(dia, silencioso=False):
             erros.append(f"{onde}: fórmula 'não é X, é Y'")
         if re.search(r"\{[^}]*\}", t or ""):
             erros.append(f"{onde}: marcador não preenchido")
+    if livro_na_legenda > 2:
+        avisos.append(f"legenda cita o livro {livro_na_legenda} vezes; basta uma, na última linha")
+    termo = str((k.get("ficha") or {}).get("conceito") or "").split(":")[0].strip().lower()
+    if len(termo) > 3 and termo in f"{r.get('hook') or ''} {r.get('lead') or ''}".lower():
+        avisos.append(f"o conceito '{termo}' aparece no gancho ou na introdução: mostre a coisa em palavras comuns antes de dar o nome")
     # carrossel
     sl = k.get("carrossel", [])
     if not 6 <= len(sl) <= 10:
@@ -230,6 +278,22 @@ def lint(dia, silencioso=False):
     for i, s in enumerate(sl, 1):
         if s.get("fundo") and s["fundo"] not in FUNDOS:
             erros.append(f"slide {i}: fundo '{s['fundo']}' não existe ({', '.join(FUNDOS)})")
+        if s["tipo"] == "figura" and isinstance(s.get("figura"), dict):
+            # o elemento primordial precisa de ar (MANUAL, seção 3.2)
+            fg = s["figura"]
+            pf, ne = palavras_figura(fg), elementos_figura(fg)
+            leg = s.get("legenda", fg.get("legenda"))
+            dens = pf + palavras(s.get("titulo")) + palavras(leg)
+            if s.get("foco"):
+                if ne < 5 and pf < 50:
+                    avisos.append(f"slide {i}: figura '{fg.get('tipo')}' em foco sem precisar ({ne} elementos, {pf} palavras): use o slide normal")
+            else:
+                if dens > 110:
+                    erros.append(f"slide {i}: figura sufocada ({dens} palavras no slide): tire a legenda ou divida em título + figura com foco (MANUAL, 3.2)")
+                elif ne >= 5 and leg:
+                    avisos.append(f"slide {i}: figura com {ne} elementos e legenda: tire a legenda e leve a frase para o slide seguinte (MANUAL, 3.2)")
+                if pf > 85:
+                    avisos.append(f"slide {i}: figura com {pf} palavras dentro: avalie o slide de foco (MANUAL, 3.2)")
         n = sum(palavras(s.get(c)) for c in ("titulo", "sub", "fala", "apoio", "tag")) + sum(palavras(x["rotulo"] + " " + x["texto"]) for x in s.get("itens", []) or [])
         if n > 55:
             avisos.append(f"slide {i} com {n} palavras: um slide, uma ideia")

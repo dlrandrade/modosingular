@@ -32,7 +32,20 @@ export default function Teleprompter({ paragrafos, fechar }: { paragrafos: strin
       else if (e.key === "ArrowDown") setVel((v) => Math.max(10, v - 6));
     };
     addEventListener("keydown", tecla);
-    return () => { cancelAnimationFrame(q); removeEventListener("keydown", tecla); };
+    // a tela não apaga enquanto o texto corre (Screen Wake Lock, onde houver)
+    let trava: { release: () => Promise<void> } | null = null;
+    const travar = () => {
+      const wl = (navigator as Navigator & { wakeLock?: { request: (t: "screen") => Promise<{ release: () => Promise<void> }> } }).wakeLock;
+      wl?.request("screen").then((t) => { trava = t; }).catch(() => {});
+    };
+    const volta = () => { if (document.visibilityState === "visible") travar(); };
+    travar();
+    document.addEventListener("visibilitychange", volta);
+    return () => {
+      cancelAnimationFrame(q); removeEventListener("keydown", tecla);
+      document.removeEventListener("visibilitychange", volta);
+      trava?.release().catch(() => {});
+    };
   }, []);
 
   return (

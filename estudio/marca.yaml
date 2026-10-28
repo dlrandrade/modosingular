@@ -7,9 +7,9 @@ handle: "@DanielLuzz"
 oferta:
   nome: "Modo Singular"
   livro: "Modo Singular"
-  estado: "em_breve"             # em_breve | aberto
-  acao_metodo: "Link na bio para a lista de espera"   # PREENCHER: o que existe de fato quando o CTA de convite aparece
-  # Quando estado = aberto, troque acao_metodo por algo como "Link na bio para conhecer".
+  estado: "aberto"               # em_breve | aberto
+  acao_metodo: "o link na bio leva à página do Modo Singular, onde dá para conhecer e comprar a apostila"
+  # O CTA de convite diz só "o link está na bio"; a página faz o resto. Nada de urgência nem escassez.
   promessa_curta: "trinta capítulos para descobrir o que só você diz"
 
 # Cadência semanal do CTA (ver PLAYBOOK, seção 7). Dia 7 de cada semana é dia de método.

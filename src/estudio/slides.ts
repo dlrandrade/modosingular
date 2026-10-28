@@ -122,10 +122,24 @@ export function css(fontBase = "/estudio/fontes"): string {
 
 /* figura */
 .sl .ftit { font-size: 70px; line-height: 1.0; margin: 26px 0 0; }
-.sl .fig { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 40px 0 10px; }
+.sl .fig { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 48px 0 28px; }
+/* a figura como cerne: o slide inteiro para ela, com ar em volta */
+.sl.foco { padding-top: 120px; }
+.sl.foco .fig { padding: 24px 0 40px; }
 .sl .leg { font-size: 30px; line-height: 1.38; font-style: italic; color: var(--t2); max-width: 820px; }
 .sl .selo { font-family: var(--sans); font-size: 17px; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; color: var(--t3); margin-top: 16px; }
 .sl .r { font-family: var(--sans); font-weight: 600; letter-spacing: -.02em; }
+/* trechos trocados de fonte no editor */
+.sl .fs { font-family: var(--sans); font-style: normal; font-weight: 650; letter-spacing: -.03em; }
+.sl .fg { font-family: var(--serif); font-weight: 460; letter-spacing: 0; }
+/* figura para o Reels (1080 × 1920, transparente) */
+.reels { position: relative; width: 1080px; height: 1920px; background: transparent; }
+.reels .sl.cartao { position: absolute; left: 72px; top: 236px; width: 936px; height: auto; max-height: 1040px; padding: 60px 64px 46px; border-radius: 44px;
+  box-shadow: 0 30px 80px -40px rgba(11, 12, 15, .55), 0 0 0 1px rgba(11, 12, 15, .06); }
+.reels .sl.cartao .fig { flex: none; padding: 26px 0 8px; zoom: .92; }
+.reels .sl.cartao .assin { display: flex; justify-content: space-between; align-items: baseline; margin-top: 26px; color: var(--t3); }
+.reels .sl.cartao .assin .m { font-family: var(--serif); font-style: italic; font-size: 24px; }
+.reels .sl.cartao .assin .c { font-family: var(--sans); font-size: 18px; font-weight: 500; letter-spacing: .08em; }
 
 .sl .grp { font-family: var(--sans); font-size: 17px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--t3); margin: 30px 0 4px; display: flex; gap: 18px; align-items: center; }
 .sl .grp::after { content: ""; flex: 1; border-top: 1.5px dashed var(--fio); }
@@ -240,6 +254,59 @@ export function css(fontBase = "/estudio/fontes"): string {
 `;
 }
 
+// ------------------------------------------------------------------ edição (ajustes por elemento)
+/* Cada texto do slide leva data-ed="chave". O editor do /estudio guarda,
+   por chave, em s.ajustes: html (o texto reescrito), fonte, zoom, largura
+   e cor. O renderizador aplica os ajustes aqui, então o PNG do navegador
+   e o do repositório saem iguais. Chaves: titulo, sub, fala, apoio, tag,
+   rotulo, legenda, quem, texto, perfil, comum, singular, porque, pergunta,
+   resposta, nota, acao, item.N.rotulo, item.N.texto, figura (o desenho
+   todo) e f0, f1… (os textos de dentro da figura, na ordem). */
+export const CORES_TEXTO = ["tinta", "t2", "t3", "acento", "papel"];
+export const FONTES_TEXTO = ["sans", "serif", "italico"];
+let AJ: Dados = {};
+let NF = 0;
+
+/** Só o que o editor produz: negrito, itálico, quebra, parágrafo e as classes de fonte. */
+export function limpar(h: unknown): string {
+  return String(h ?? "")
+    .replace(/<(\/?)b(?=[\s>])[^>]*>/gi, "<$1strong>").replace(/<(\/?)i(?=[\s>])[^>]*>/gi, "<$1em>")
+    .replace(/<div[^>]*>/gi, "<br>").replace(/<\/div>/gi, "")
+    .replace(/<\/?([a-z0-9]+)([^>]*)>/gi, (m, tag: string, attrs: string) => {
+      const t = tag.toLowerCase(), fecha = m.startsWith("</");
+      if (t === "strong" || t === "em" || t === "p") return fecha ? `</${t}>` : `<${t}>`;
+      if (t === "br") return fecha ? "" : "<br>";
+      if (t === "span") {
+        if (fecha) return "</span>";
+        const c = (/class="([^"]*)"/.exec(attrs)?.[1] || "").split(/\s+/).filter((x) => ["nq", "fs", "fg"].includes(x)).join(" ");
+        return c ? `<span class="${c}">` : "<span>";
+      }
+      return "";
+    });
+}
+
+function estiloAj(a: Dados | undefined, base = "", inline = false): string {
+  if (!a) return base;
+  let st = base;
+  if (a.fonte === "sans") st += "font-family:var(--sans);font-style:normal;font-weight:650;letter-spacing:-.03em;";
+  else if (a.fonte === "serif") st += "font-family:var(--serif);font-style:normal;font-weight:400;letter-spacing:0;";
+  else if (a.fonte === "italico") st += "font-family:var(--serif);font-style:italic;font-weight:460;letter-spacing:0;";
+  if (typeof a.zoom === "number" && Math.abs(a.zoom - 1) > 0.001) st += `${inline ? "display:inline-block;" : ""}zoom:${Math.max(0.4, Math.min(2.2, a.zoom)).toFixed(2)};`;
+  if (typeof a.largura === "number") st += `max-width:${Math.round(Math.max(200, Math.min(856, a.largura)))}px;`;
+  if (CORES_TEXTO.includes(a.cor)) st += `color:var(--${a.cor});`;
+  return st;
+}
+
+/** Um texto editável do slide. modo: md (marcação *…*), esc (texto puro) ou par (parágrafos). */
+function T(chave: string, tag: string, cls: string, valor: unknown, modo: "md" | "esc" | "par" = "md", base = ""): string {
+  const a = AJ[chave] as Dados | undefined;
+  const corpo = a?.html != null ? limpar(a.html) : modo === "esc" ? esc(valor) : modo === "par" ? paragrafos(String(valor ?? "")) : md(valor);
+  const st = estiloAj(a, base, tag === "span");
+  return `<${tag}${cls ? ` class="${cls}"` : ""} data-ed="${chave}"${st ? ` style="${st}"` : ""}>${corpo}</${tag}>`;
+}
+const F = (v: unknown) => T(`f${NF++}`, "span", "", v, "md");
+const E = (v: unknown) => T(`f${NF++}`, "span", "", v, "esc");
+
 // ------------------------------------------------------------------ figuras
 function camadas(d: Dados): string {
   const cam: Dados[] = d.camadas;
@@ -247,10 +314,10 @@ function camadas(d: Dados): string {
   const div: number | undefined = d.divisao;
   const grupos: string[] = d.grupos || [];
   let out = "";
-  if (div && grupos[0]) out += `<div class="grp">${esc(grupos[0])}</div>`;
+  if (div && grupos[0]) out += `<div class="grp">${E(grupos[0])}</div>`;
   cam.forEach((c, i) => {
-    if (div && i === div && grupos[1]) out += `<div class="grp">${esc(grupos[1])}</div>`;
-    out += `<div class="cam${i === dest ? " dest" : ""}"><div class="r">${md(c.rotulo)}</div><div class="n">${md(c.nota)}</div></div>`;
+    if (div && i === div && grupos[1]) out += `<div class="grp">${E(grupos[1])}</div>`;
+    out += `<div class="cam${i === dest ? " dest" : ""}"><div class="r">${F(c.rotulo)}</div><div class="n">${F(c.nota)}</div></div>`;
   });
   return out;
 }
@@ -259,7 +326,7 @@ function fluxo(d: Dados): string {
   const nos: Dados[] = d.nos || d.passos;
   const dest = d.destaque ?? nos.length - 1;
   return nos
-    .map((n, i) => `<div class="no${i === dest ? " dest" : ""}"><div class="c">${i + 1}</div><div><div class="t">${md(n.rotulo)}</div>${n.nota ? `<div class="d">${md(n.nota)}</div>` : ""}</div></div>`)
+    .map((n, i) => `<div class="no${i === dest ? " dest" : ""}"><div class="c">${i + 1}</div><div><div class="t">${F(n.rotulo)}</div>${n.nota ? `<div class="d">${F(n.nota)}</div>` : ""}</div></div>`)
     .join("");
 }
 
@@ -269,8 +336,8 @@ function barras(d: Dados): string {
   const dest = d.destaque ?? 0;
   return (
     ser
-      .map((s, i) => `<div class="bar${i === dest ? " dest" : ""}"><div class="r">${md(s.rotulo)}</div><div class="tri"><div class="pr" style="width:${((100 * s.valor) / mx).toFixed(0)}%"></div></div>${s.nota ? `<div class="n">${md(s.nota)}</div>` : ""}</div>`)
-      .join("") + (d.unidade ? `<div class="un">${esc(d.unidade)}</div>` : "")
+      .map((s, i) => `<div class="bar${i === dest ? " dest" : ""}"><div class="r">${F(s.rotulo)}</div><div class="tri"><div class="pr" style="width:${((100 * s.valor) / mx).toFixed(0)}%"></div></div>${s.nota ? `<div class="n">${F(s.nota)}</div>` : ""}</div>`)
+      .join("") + (d.unidade ? `<div class="un">${E(d.unidade)}</div>` : "")
   );
 }
 
@@ -280,7 +347,7 @@ function balanca(d: Dados): string {
   const cols = lados.map((x) => {
     const pesado = x.peso === mx;
     const h = 110 + (360 * x.peso) / mx;
-    return `<div class="bc"><div class="bb${pesado ? " dest" : ""}" style="height:${h.toFixed(0)}px"></div><div class="br${pesado ? " dest" : ""}">${md(x.rotulo)}</div></div>`;
+    return `<div class="bc"><div class="bb${pesado ? " dest" : ""}" style="height:${h.toFixed(0)}px"></div><div class="br${pesado ? " dest" : ""}">${F(x.rotulo)}</div></div>`;
   });
   return `<div class="bal">${cols.join("")}</div>`;
 }
@@ -289,7 +356,7 @@ function escada(d: Dados): string {
   const dg: Dados[] = d.degraus;
   const n = dg.length;
   return dg
-    .map((g, i) => `<div class="deg${i === n - 1 ? " dest" : ""}" style="margin-left:${((i * 300) / Math.max(n - 1, 1)).toFixed(0)}px"><span class="num">${i + 1}</span><div><div class="r">${md(g.rotulo)}</div>${g.nota ? `<div class="n">${md(g.nota)}</div>` : ""}</div></div>`)
+    .map((g, i) => `<div class="deg${i === n - 1 ? " dest" : ""}" style="margin-left:${((i * 300) / Math.max(n - 1, 1)).toFixed(0)}px"><span class="num">${i + 1}</span><div><div class="r">${F(g.rotulo)}</div>${g.nota ? `<div class="n">${F(g.nota)}</div>` : ""}</div></div>`)
     .join("");
 }
 
@@ -297,7 +364,7 @@ function funil(d: Dados): string {
   const et: Dados[] = d.etapas;
   const n = et.length;
   return et
-    .map((e, i) => `<div class="fun${i === n - 1 ? " dest" : ""}" style="width:${(100 - (48 * i) / Math.max(n - 1, 1)).toFixed(0)}%"><div class="r">${md(e.rotulo)}</div>${e.nota ? `<div class="n">${md(e.nota)}</div>` : ""}</div>`)
+    .map((e, i) => `<div class="fun${i === n - 1 ? " dest" : ""}" style="width:${(100 - (48 * i) / Math.max(n - 1, 1)).toFixed(0)}%"><div class="r">${F(e.rotulo)}</div>${e.nota ? `<div class="n">${F(e.nota)}</div>` : ""}</div>`)
     .join("");
 }
 
@@ -305,9 +372,9 @@ function gap(d: Dados): string {
   const a = d.a, b = d.b;
   const [lo, hi] = [a.valor, b.valor].sort((x: number, y: number) => x - y);
   return (
-    `<div class="gapl"><div class="r">${md(a.rotulo)}</div><div class="tri"><div class="pr" style="width:${a.valor}%"></div></div>${a.nota ? `<div class="n">${md(a.nota)}</div>` : ""}</div>` +
-    `<div class="dist"><div class="lin" style="left:${lo}%;width:${hi - lo}%"></div><div class="tx" style="left:${(lo + hi) / 2}%">${esc(d.rotulo_distancia || "a distância")}</div></div>` +
-    `<div class="gapl b"><div class="r">${md(b.rotulo)}</div><div class="tri"><div class="pr" style="width:${b.valor}%"></div></div>${b.nota ? `<div class="n">${md(b.nota)}</div>` : ""}</div>`
+    `<div class="gapl"><div class="r">${F(a.rotulo)}</div><div class="tri"><div class="pr" style="width:${a.valor}%"></div></div>${a.nota ? `<div class="n">${F(a.nota)}</div>` : ""}</div>` +
+    `<div class="dist"><div class="lin" style="left:${lo}%;width:${hi - lo}%"></div><div class="tx" style="left:${(lo + hi) / 2}%">${E(d.rotulo_distancia || "a distância")}</div></div>` +
+    `<div class="gapl b"><div class="r">${F(b.rotulo)}</div><div class="tri"><div class="pr" style="width:${b.valor}%"></div></div>${b.nota ? `<div class="n">${F(b.nota)}</div>` : ""}</div>`
   );
 }
 
@@ -316,14 +383,14 @@ function quadrante(d: Dados): string {
     .map((p) => {
       const dest = p.destaque ? " dest" : "";
       const lado = p.x > 60 ? `right:calc(${100 - p.x}% + 26px)` : `left:calc(${p.x}% + 26px)`;
-      return `<div class="p${dest}" style="left:${p.x}%;bottom:${p.y}%"></div><div class="pl${dest}" style="${lado};bottom:${p.y}%">${esc(p.rotulo)}</div>`;
+      return `<div class="p${dest}" style="left:${p.x}%;bottom:${p.y}%"></div><div class="pl${dest}" style="${lado};bottom:${p.y}%">${E(p.rotulo)}</div>`;
     })
     .join("");
   const ex: string[] = d.eixoX, ey: string[] = d.eixoY;
   return (
     `<div class="qd"><div class="meio-x"></div><div class="meio-y"></div>${pts}</div>` +
-    `<div class="qx"><span>← ${esc(ex[0])}</span><span>${esc(ex[1])} →</span></div>` +
-    `<div class="qx" style="margin-top:10px"><span>↑ ${esc(ey[1])}</span><span>↓ ${esc(ey[0])}</span></div>`
+    `<div class="qx"><span>← ${E(ex[0])}</span><span>${E(ex[1])} →</span></div>` +
+    `<div class="qx" style="margin-top:10px"><span>↑ ${E(ey[1])}</span><span>↓ ${E(ey[0])}</span></div>`
   );
 }
 
@@ -332,11 +399,11 @@ function espectro(d: Dados): string {
     .map((m, i) => {
       const pos = Math.max(8, Math.min(92, m.pos));
       const dest = m.destaque ? " dest" : "";
-      const tag = m.destaque ? `<small>${esc(m.destaque)}</small>` : "";
-      return `<div class="m${dest}" style="left:${m.pos}%"></div><div class="ml ${i % 2 ? "dn" : "up"}${dest}" style="left:${pos}%">${tag}${esc(m.rotulo)}</div>`;
+      const tag = m.destaque ? `<small>${E(m.destaque)}</small>` : "";
+      return `<div class="m${dest}" style="left:${m.pos}%"></div><div class="ml ${i % 2 ? "dn" : "up"}${dest}" style="left:${pos}%">${tag}${E(m.rotulo)}</div>`;
     })
     .join("");
-  return `<div class="esp"><div class="lin"></div>${marcas}</div><div class="espe"><span>${esc(d.esquerda)}</span><span style="text-align:right">${esc(d.direita)}</span></div>`;
+  return `<div class="esp"><div class="lin"></div>${marcas}</div><div class="espe"><span>${E(d.esquerda)}</span><span style="text-align:right">${E(d.direita)}</span></div>`;
 }
 
 const FIGURAS: Record<string, (d: Dados) => string> = {
@@ -355,65 +422,88 @@ function paragrafos(t: string): string {
 }
 
 function exemplo(s: Dados): string {
-  const quem = s.quem ? `<p class="ex-quem">${md(s.quem)}</p>` : "";
-  const nota = `<p class="ex-nota">${md(s.nota || "Exemplo ilustrativo, escrito para mostrar a aplicação.")}</p>`;
+  const quem = s.quem ? T("quem", "p", "ex-quem", s.quem) : "";
+  const nota = T("nota", "p", "ex-nota", s.nota || "Exemplo ilustrativo, escrito para mostrar a aplicação.");
   let corpo = "";
   switch (s.forma) {
     case "post": {
       const ini = String(s.quem || "?").replace(/^(uma?|o|a)\s+/i, "").trim().charAt(0).toUpperCase();
-      corpo = `<div class="post"><div class="cab"><div class="av">${esc(ini)}</div><div class="nome">${md(s.perfil || s.quem || "")}<small>post</small></div></div><div class="corpo">${paragrafos(s.texto)}</div></div>`;
+      corpo = `<div class="post"><div class="cab"><div class="av">${esc(ini)}</div><div class="nome">${T("perfil", "span", "", s.perfil || s.quem || "")}<small>post</small></div></div>${T("texto", "div", "corpo", s.texto, "par")}</div>`;
       break;
     }
     case "antes_depois":
-      corpo = `<div class="ad"><div class="bl comum"><p class="rot">${esc(s.rotulo_comum || "O comum")}</p><p class="tx">${md(s.comum)}</p></div>` +
-        `<div class="bl sing"><p class="rot ac">${esc(s.rotulo_singular || "O singular")}</p><p class="tx">${md(s.singular)}</p>${s.porque ? `<p class="pq">${md(s.porque)}</p>` : ""}</div></div>`;
+      corpo = `<div class="ad"><div class="bl comum">${T("rotulo_comum", "p", "rot", s.rotulo_comum || "O comum", "esc")}${T("comum", "p", "tx", s.comum)}</div>` +
+        `<div class="bl sing">${T("rotulo_singular", "p", "rot ac", s.rotulo_singular || "O que só você diria", "esc")}${T("singular", "p", "tx", s.singular)}${s.porque ? T("porque", "p", "pq", s.porque) : ""}</div></div>`;
       break;
-    case "rascunho":
-      corpo = `<div class="rasc">${String(s.texto || "").split(/\n+/).map((l) => `<p>${md(l)}</p>`).join("")}</div>`;
+    case "rascunho": {
+      const a = AJ.texto as Dados | undefined;
+      const linhas = a?.html != null ? limpar(a.html) : String(s.texto || "").split(/\n+/).map((l) => `<p>${md(l)}</p>`).join("");
+      corpo = `<div class="rasc" data-ed="texto"${estiloAj(a) ? ` style="${estiloAj(a)}"` : ""}>${linhas}</div>`;
       break;
+    }
     case "conversa":
-      corpo = `<div class="conv"><div class="bo eles"><small>${esc(s.rotulo_pergunta || "A pergunta")}</small>${md(s.pergunta)}</div><div class="bo voce"><small>${esc(s.rotulo_resposta || "A resposta")}</small>${md(s.resposta)}</div></div>`;
+      corpo = `<div class="conv"><div class="bo eles"><small>${esc(s.rotulo_pergunta || "A pergunta")}</small>${T("pergunta", "span", "", s.pergunta)}</div><div class="bo voce"><small>${esc(s.rotulo_resposta || "A resposta")}</small>${T("resposta", "span", "", s.resposta)}</div></div>`;
       break;
     default:
       throw new Error(`forma de exemplo desconhecida: ${s.forma}. Formas: ${FORMAS_EXEMPLO.join(", ")}`);
   }
-  return `<p class="rot ac">${esc(s.rotulo || "Como ficaria")}</p><h2 class="ftit ds" style="font-size:60px">${md(s.titulo)}</h2>${quem}${corpo}${nota}`;
+  return `${T("rotulo", "p", "rot ac", s.rotulo || "Como ficaria", "esc")}${T("titulo", "h2", "ftit ds", s.titulo, "md", "font-size:60px;")}${quem}${corpo}${nota}`;
 }
 
 // ------------------------------------------------------------------ slides
-function rodape(i: number, total: number, ctx: Contexto): string {
+function rodape(i: number, total: number): string {
   return `<div class="rodape"><span class="m">Modo Singular</span><span class="c">${String(i).padStart(2, "0")} / ${String(total).padStart(2, "0")}</span></div>`;
 }
 
+/** O desenho da figura, com o zoom que o editor tiver dado ao conjunto. */
+function blocoFigura(fig: Dados): string {
+  const st = estiloAj(AJ.figura as Dados | undefined);
+  return `<div class="fig" data-ed="figura"${st ? ` style="${st}"` : ""}>${figura(fig)}</div>`;
+}
+
 export function slideHTML(s: Dados, i: number, total: number, ctx: Contexto = {}): string {
-  const escuro = classeFundo(s);
-  const rod = rodape(i, total, ctx);
+  AJ = (s.ajustes as Dados) || {};
+  NF = 0;
+  try {
+    return desenhar(s, i, total, ctx);
+  } finally {
+    AJ = {};
+  }
+}
+
+function desenhar(s: Dados, i: number, total: number, ctx: Contexto): string {
+  const fundo = classeFundo(s);
+  const rod = rodape(i, total);
+  const rot = (padrao = "") => (s.rotulo || padrao ? T("rotulo", "p", "rot ac", s.rotulo || padrao, "esc") : "");
   switch (s.tipo) {
     case "capa":
-      return `<div class="sl capa${escuro}"><div class="topo"><span class="rot">${esc(ctx.rotuloDia || "")}</span>${marca(40)}</div>` +
-        `<div class="centro"><h1 class="ds">${md(s.titulo)}</h1>${s.sub ? `<p class="sub">${md(s.sub)}</p>` : ""}<div class="desliza">Deslize</div></div>` +
+      return `<div class="sl capa${fundo}"><div class="topo"><span class="rot">${esc(ctx.rotuloDia || "")}</span>${marca(40)}</div>` +
+        `<div class="centro">${T("titulo", "h1", "ds", s.titulo)}${s.sub ? T("sub", "p", "sub", s.sub) : ""}<div class="desliza">Deslize</div></div>` +
         `<div class="rodape"><span class="m">Modo Singular</span><span class="c">${esc(ctx.handle || "")}</span></div></div>`;
     case "texto": {
       const cls = s.grande ? " g" : s.medio ? " m" : "";
-      return `<div class="sl${escuro}"><div class="centro">${s.rotulo ? `<p class="rot ac">${esc(s.rotulo)}</p>` : ""}<p class="fala ds${cls}">${md(s.fala)}</p>` +
-        `${s.apoio ? `<p class="apoio">${md(s.apoio)}</p>` : ""}${s.tag ? `<p class="tag">${md(s.tag)}</p>` : ""}</div>${rod}</div>`;
+      return `<div class="sl${fundo}"><div class="centro">${rot()}${T("fala", "p", `fala ds${cls}`, s.fala)}` +
+        `${s.apoio ? T("apoio", "p", "apoio", s.apoio) : ""}${s.tag ? T("tag", "p", "tag", s.tag) : ""}</div>${rod}</div>`;
     }
     case "lista": {
-      const itens = (s.itens as Dados[]).map((x) => `<div class="item"><div class="k">${md(x.rotulo)}</div><div class="v">${md(x.texto)}</div></div>`).join("");
-      return `<div class="sl${escuro}"><div class="centro">${s.rotulo ? `<p class="rot ac">${esc(s.rotulo)}</p>` : ""}<p class="fala m ds">${md(s.fala)}</p><div class="itens">${itens}</div></div>${rod}</div>`;
+      const itens = (s.itens as Dados[]).map((x, n) => `<div class="item">${T(`item.${n}.rotulo`, "div", "k", x.rotulo)}${T(`item.${n}.texto`, "div", "v", x.texto)}</div>`).join("");
+      return `<div class="sl${fundo}"><div class="centro">${rot()}${T("fala", "p", "fala m ds", s.fala)}<div class="itens">${itens}</div></div>${rod}</div>`;
     }
     case "figura": {
       const fig = s.figura as Dados;
       const ilus = fig.ilustrativo || s.ilustrativo;
+      const selo = ilus ? `<p class="selo">Esquema ilustrativo</p>` : "";
+      // foco: a figura é o cerne e está cheia; ela ganha o slide inteiro, sem título nem legenda por perto (MANUAL, seção 3.2)
+      if (s.foco) return `<div class="sl foco${fundo}">${rot()}${blocoFigura(fig)}${selo}${s.solo ? "" : rod}</div>`;
       const leg = s.legenda ?? fig.legenda;
-      return `<div class="sl${escuro}"><p class="rot ac">${esc(s.rotulo || "Figura do livro")}</p><h2 class="ftit ds">${md(s.titulo || fig.titulo)}</h2>` +
-        `<div class="fig">${figura(fig)}</div>${leg ? `<p class="leg">${md(leg)}</p>` : ""}${ilus ? `<p class="selo">Esquema ilustrativo</p>` : ""}${s.solo ? "" : rod}</div>`;
+      return `<div class="sl${fundo}">${rot()}${T("titulo", "h2", "ftit ds", s.titulo || fig.titulo)}` +
+        `${blocoFigura(fig)}${leg ? T("legenda", "p", "leg", leg) : ""}${selo}${s.solo ? "" : rod}</div>`;
     }
     case "exemplo":
-      return `<div class="sl${escuro}"><div class="centro">${exemplo(s)}</div>${rod}</div>`;
+      return `<div class="sl${fundo}"><div class="centro">${exemplo(s)}</div>${rod}</div>`;
     case "cta":
-      return `<div class="sl cta${escuro}"><div class="centro">${s.rotulo ? `<p class="rot ac" style="margin-bottom:40px">${esc(s.rotulo)}</p>` : ""}<h2 class="ds">${md(s.titulo)}</h2>` +
-        `${s.apoio ? `<p class="apoio">${md(s.apoio)}</p>` : ""}${s.acao ? `<p class="acao">${esc(s.acao)}</p>` : ""}` +
+      return `<div class="sl cta${fundo}"><div class="centro">${s.rotulo ? T("rotulo", "p", "rot ac", s.rotulo, "esc", "margin-bottom:40px;") : ""}${T("titulo", "h2", "ds", s.titulo)}` +
+        `${s.apoio ? T("apoio", "p", "apoio", s.apoio) : ""}${s.acao ? T("acao", "p", "acao", s.acao, "esc") : ""}` +
         `<div class="assina">${marca(48)}<span>${esc(ctx.assinatura || "Modo Singular")}</span><i>${esc(ctx.handle || "")}</i></div></div></div>`;
     default:
       throw new Error(`tipo de slide desconhecido: ${s.tipo}`);
@@ -423,4 +513,29 @@ export function slideHTML(s: Dados, i: number, total: number, ctx: Contexto = {}
 /** Documento HTML completo de um slide (usado pelo gerador de PNG). */
 export function pagina(s: Dados, i: number, total: number, ctx: Contexto = {}): string {
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>html,body{margin:0;width:${L}px;height:${A}px;overflow:hidden}${css(ctx.fontBase)}</style></head><body>${slideHTML(s, i, total, ctx)}</body></html>`;
+}
+
+// ------------------------------------------------------------------ figura para o Reels (selfie)
+/* 1080 × 1920, fundo transparente: a figura num cartão no alto do quadro,
+   abaixo da faixa de interface do Instagram, para ficar acima da cabeça
+   de quem grava em modo selfie. Cartão claro ou escuro, nas cores da marca. */
+export const RL = 1080;
+export const RA = 1920;
+
+export function reelsHTML(s: Dados, ctx: Contexto = {}, tom: "claro" | "escuro" = "claro"): string {
+  AJ = (s.ajustes as Dados) || {};
+  NF = 0;
+  try {
+    const fig = s.figura as Dados;
+    const tit = s.foco ? "" : T("titulo", "h2", "ftit ds", s.titulo || fig.titulo, "md", "font-size:58px;margin:0 0 8px;");
+    return `<div class="reels"><div class="sl cartao ${tom === "escuro" ? "escuro" : "f-branco"}">${tit}${blocoFigura(fig)}` +
+      `<div class="assin"><span class="m">Modo Singular</span><span class="c">${esc(ctx.handle || "")}</span></div></div></div>`;
+  } finally {
+    AJ = {};
+  }
+}
+
+/** Documento HTML da figura para o Reels (fundo transparente; o gerador de PNG fotografa sem fundo). */
+export function paginaReels(s: Dados, ctx: Contexto = {}, tom: "claro" | "escuro" = "claro"): string {
+  return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>html,body{margin:0;width:${RL}px;height:${RA}px;overflow:hidden;background:transparent}${css(ctx.fontBase)}</style></head><body>${reelsHTML(s, ctx, tom)}</body></html>`;
 }

@@ -1,6 +1,6 @@
 # Dia 01 · Informação todo mundo tem; critério, só quem decidiu muitas vezes
 
-Capítulo 9 · figura: Do que todos encontram ao que só você tem (camadas) · objetivo: ensinar · 60 s (≈ 178 palavras, 59 s falados) · CTA: pratica
+Capítulo 9 · figura: Do que todos encontram ao que só você tem (camadas) · objetivo: ensinar · 60 s (≈ 176 palavras, 59 s falados) · CTA: pratica
 
 ## Roteiro por etapa
 
@@ -26,7 +26,7 @@ A terceira decide quem o paciente escolhe.
 O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes.
 
 **CTA · recompensa a atenção e conduz ao próximo passo**
-Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve.
+Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo dela. Esse motivo é o começo do seu critério: a parte do seu trabalho que ninguém encontra numa busca.
 
 ---
 
@@ -46,4 +46,4 @@ A terceira decide quem o paciente escolhe.
 
 O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes.
 
-Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve.
+Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo dela. Esse motivo é o começo do seu critério: a parte do seu trabalho que ninguém encontra numa busca.

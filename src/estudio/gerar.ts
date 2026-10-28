@@ -2,7 +2,8 @@ import Anthropic from "@anthropic-ai/sdk";
 import fontes from "./dados/fontes.json";
 import publico from "./dados/publico.json";
 import { verificar, type Resultado } from "./lint";
-import { cadeia, chamarOpenRouter, type Elo, type MensagemTexto } from "./openrouter";
+import type { ConfigModelos } from "./modelos";
+import { cadeia, chamarOpenRouter, type Elo, type MensagemTexto, type Uso } from "./openrouter";
 import { FIGURAS_PRONTAS, FORMAS_EXEMPLO, type Dados } from "./slides";
 
 /* ---------------------------------------------------------------
@@ -83,7 +84,8 @@ TIPOS DE SLIDE (o campo "tipo" decide o resto)
 - texto:   { "tipo": "texto", "rotulo"?: "...", "fala": "...", "apoio"?: "...", "tag"?: "...", "medio"?: true, "grande"?: true, "fundo"?: "areia | escuro" }
 - qualquer slide aceita "fundo": "claro | areia | branco | ouro-claro | ouro | escuro" (MANUAL, seção 3: só quando fugir do padrão do tipo)
 - lista:   { "tipo": "lista", "rotulo": "...", "fala": "...", "itens": [ { "rotulo": "...", "texto": "..." } ] }   (no máximo 3 itens)
-- figura:  { "tipo": "figura", "rotulo"?: "...", "titulo": "...", "figura": "LIVRO" | {dados}, "legenda"?: "..." }
+- figura:  { "tipo": "figura", "rotulo"?: "...", "titulo": "...", "figura": "LIVRO" | {dados}, "legenda"?: "...", "foco"?: true }
+    "foco": true = a figura sozinha no slide, sem título nem legenda; só quando ela sufoca (MANUAL, 3.2), e então o título vai num slide "texto" logo antes
 - exemplo: { "tipo": "exemplo", "forma": "${FORMAS_EXEMPLO.join(" | ")}", "titulo": "...", "quem": "...", ...campos da forma..., "nota": "..." }
     post:          "perfil": "Profissão de quem posta", "texto": "dois ou três parágrafos curtos, em primeira pessoa de quem posta"
     antes_depois:  "comum": "...", "singular": "...", "porque": "..."
@@ -91,7 +93,7 @@ TIPOS DE SLIDE (o campo "tipo" decide o resto)
     conversa:      "pergunta": "o que o cliente pergunta", "resposta": "o que o profissional responde"
 - cta:     { "tipo": "cta", "titulo": "...", "apoio": "...", "acao": "a única ação, curta" }
 
-Ordem padrão (9 slides): capa, cena, virada, figura ("figura": "LIVRO"), leitura da figura (lista), a ideia do dia (texto, fundo escuro, grande), exemplo (como ficaria), faça agora (figura com "tipo": "passos"), cta.
+Ordem padrão (9 slides): capa, cena, virada, figura ("figura": "LIVRO"), leitura da figura (lista), a ideia do dia (texto, fundo escuro, grande), exemplo (como ficaria), faça agora (figura com "tipo": "passos"), cta. Com slide de foco, 10.
 
 FIGURAS PRÓPRIAS (além da do livro), com estes dados:
 - passos/fluxo: { "tipo": "passos", "nos": [ { "rotulo": "...", "nota": "..." } ] }
@@ -122,7 +124,10 @@ function sistema(): string {
       "- Português do Brasil. Sem exclamação. Sem a fórmula 'não é X, é Y' nem variações.",
       "- Hook com no máximo 14 palavras; hook + lead com no máximo 34 (a introdução termina por volta dos 10 s).",
       "- Tamanho do roteiro: 45 s = 118 a 142 palavras; 60 s = 158 a 192 palavras, somando as oito etapas.",
-      "- Só use o que está no capítulo. Personagens do livro são compostos: diga isso em algum ponto visível (tag do slide da cena e legenda).",
+      "- Só use o que está no capítulo. Personagens do livro são compostos: diga isso ao público em palavras comuns (tag do slide da cena e legenda): \"Cena ilustrativa. [Quem] é uma personagem criada a partir de casos reais.\"",
+      "- TOPO DE FUNIL (MANUAL, 0.1): quem vê nunca ouviu falar do livro, do método nem de você. Comece pela situação que a pessoa vive, com as palavras dela. Mostre o conceito em palavras comuns antes de dar o nome, e nunca no gancho.",
+      "- Palavras de dentro não vão para o público: peça, caderno de campo, matéria-prima, oficina, pauta, tese, personagem composta, capítulo N, o método. O livro (Modo Singular) só aparece no CTA de convite e uma vez, na última linha da legenda, explicado numa frase.",
+      "- O elemento primordial de cada slide tem ar em volta (MANUAL, 3.2). Figura com 5 elementos ou mais vai sem legenda. Slide de foco só se a figura ainda sufocar; nunca por padrão.",
       "- O slide de exemplo mostra a aplicação numa profissão diferente da cena, de um jeito que faça quem lê pensar: entendi como fazer no meu.",
       "- Legenda de 600 a 1.400 caracteres.",
       "- Responda só com o objeto JSON, dentro de um bloco ```json, e nada mais.",
@@ -141,7 +146,7 @@ function mensagemUsuario(pauta: Pauta, tema: string): string {
   const explica: Record<string, string> = {
     pratica: "prática: a única ação é fazer o exercício, no papel, hoje",
     conversa: "conversa: a única ação é responder nos comentários com uma palavra ou uma frase curta",
-    convite: `convite: a única ação é conhecer o Modo Singular (${publico.marca.oferta?.acao_metodo || "link na bio"})`,
+    convite: `convite: a única ação é ir ao link na bio (${publico.marca.oferta?.acao_metodo || "a página do Modo Singular"}); diga o que é o livro numa frase, sem urgência nem escassez`,
   };
   return [
     `Pauta: dia ${pauta.dia} · capítulo ${pauta.cap} ("${cap.titulo}") · figura "${pauta.titulo}" (${pauta.tipo}).`,
@@ -199,7 +204,7 @@ async function chamar(client: Anthropic, modelo: string, messages: Anthropic.Bet
   return { final, texto };
 }
 
-type Resposta = { texto: string; final?: Anthropic.Beta.Messages.BetaMessage };
+type Resposta = { texto: string; final?: Anthropic.Beta.Messages.BetaMessage; uso?: Uso };
 
 const ORCAMENTO_MS = 270_000; // a função da Vercel vai até 300 s
 
@@ -207,20 +212,27 @@ async function pedir(elo: Elo, usuario: string, anterior: Resposta | null, corre
   if (elo.provedor === "openrouter") {
     const msgs: MensagemTexto[] = [{ role: "system", content: SISTEMA }, { role: "user", content: usuario }];
     if (anterior && correcao) msgs.push({ role: "assistant", content: anterior.texto }, { role: "user", content: correcao });
-    return { texto: await chamarOpenRouter(elo.modelo, msgs, ev.progresso, limiteMs) };
+    return chamarOpenRouter(elo.modelo, msgs, ev.progresso, limiteMs);
   }
   const client = new Anthropic({ timeout: limiteMs, maxRetries: 0 });
   const messages: Anthropic.Beta.Messages.BetaMessageParam[] = [{ role: "user", content: usuario }];
   if (anterior?.final && correcao) {
     messages.push({ role: "assistant", content: anterior.final.content as Anthropic.Beta.Messages.BetaContentBlockParam[] }, { role: "user", content: correcao });
   }
-  return chamar(client, elo.modelo, messages, anterior ? "medium" : "high", ev);
+  const r = await chamar(client, elo.modelo, messages, anterior ? "medium" : "high", ev);
+  return { ...r, uso: { entrada: r.final.usage.input_tokens + (r.final.usage.cache_read_input_tokens || 0) + (r.final.usage.cache_creation_input_tokens || 0), saida: r.final.usage.output_tokens } };
+}
+
+function somar(a: Uso | undefined, b: Uso | undefined): Uso | undefined {
+  if (!a) return b;
+  if (!b) return a;
+  return { entrada: a.entrada + b.entrada, saida: a.saida + b.saida, custo: a.custo != null || b.custo != null ? (a.custo || 0) + (b.custo || 0) : undefined };
 }
 
 const nomeCurto = (elo: Elo) => elo.modelo.replace(/:free$/, "").split("/").pop() || elo.modelo;
 
-export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): Promise<{ kit: Dados; verificacao: Resultado }> {
-  const elos = cadeia();
+export async function gerarKit(pedido: string, feitos: number[], ev: Eventos, conf?: ConfigModelos | null): Promise<{ kit: Dados; verificacao: Resultado }> {
+  const elos = cadeia(conf);
   if (!elos.length) throw new Error("Falta configurar OPENROUTER_API_KEY (ou ANTHROPIC_API_KEY) na Vercel para gerar dias novos.");
   const { pauta, tema } = escolherPauta(pedido, feitos);
   const rotulo = `Dia ${String(pauta.dia).padStart(2, "0")} · capítulo ${pauta.cap} · ${pauta.titulo}`;
@@ -241,6 +253,7 @@ export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): P
       ev.fase(`${nomeCurto(elo)} não respondeu; tentando o próximo`);
       continue;
     }
+    let uso = r1.uso;
     let v = verificar(kit, F.antivicios);
     const sobra = ORCAMENTO_MS - (Date.now() - inicio);
     if (v.erros.length && sobra > 45_000) {
@@ -248,6 +261,7 @@ export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): P
       try {
         const correcao = `O verificador reprovou o kit por estes motivos:\n- ${v.erros.join("\n- ")}\n\nDevolva o kit inteiro corrigido, no mesmo formato, mudando só o necessário.`;
         const r2 = await pedir(elo, usuario, r1, correcao, Math.min(sobra - 10_000, 150_000), ev);
+        uso = somar(uso, r2.uso);
         const kit2 = completar(extrairJSON(r2.texto), pauta, elo);
         const v2 = verificar(kit2, F.antivicios);
         if (v2.erros.length <= v.erros.length) { kit = kit2; v = v2; }
@@ -255,7 +269,7 @@ export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): P
         /* a correção falhou: fica a primeira versão, com os erros apontados na tela */
       }
     }
-    return { kit, verificacao: v };
+    return { kit: { ...kit, uso, falhas: falhas.length ? falhas : undefined }, verificacao: v };
   }
   throw new Error(`Nenhum modelo conseguiu escrever agora. ${falhas.slice(-3).join(" · ") || "Sem tempo para tentar outro."}`);
 }

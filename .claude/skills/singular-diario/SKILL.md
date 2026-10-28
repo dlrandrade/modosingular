@@ -26,7 +26,7 @@ Os dados de marca e oferta estão em `estudio/marca.yaml`.
    Os dados da figura vêm do bloco ```figura``` do capítulo, sem inventar valor.
 5. **Conferir**: `python3 estudio/estudio.py lint NN`. Corrija todos os ERROS. Leia os AVISOS e decida.
 6. **Renderizar**: `python3 estudio/estudio.py render NN`. Abra os PNGs (pelo menos o slide da figura e o CTA) e confira legibilidade e overflow. Se aparecer "AVISO slide N: conteúdo encosta...", corte texto ou simplifique a figura.
-7. **Reler como o leitor**, com o checklist da seção 9 do playbook, e corrigir. Em especial: dois loops resolvidos? O BODY 2 e o BODY 3 trazem informação nova? A personagem do livro está identificada como composta? O CTA pede uma só ação?
+7. **Reler como o leitor**, com o checklist da seção 9 do playbook, e corrigir. Em especial: dois loops resolvidos? O BODY 2 e o BODY 3 trazem informação nova? A personagem está identificada como ilustrativa (criada a partir de casos reais)? O CTA pede uma só ação? Passa no teste do estranho (MANUAL, 0.1): alguém que nunca viu o perfil entende cada frase, sem "peça", "capítulo N", "o livro" ou conceito com nome antes de ser mostrado? O elemento primordial de cada slide tem ar em volta (MANUAL, 3.2)?
 8. **Entregar** ao usuário: o roteiro (etapas + versão final), os caminhos dos slides e a legenda. Diga o nível de CTA usado. Não publique nada.
 9. **Commit e push** a cada dia pronto. Só marque `publicado` (`estudio.py publicado NN`) quando o usuário disser que publicou.
 
@@ -34,7 +34,7 @@ Os dados de marca e oferta estão em `estudio/marca.yaml`.
 
 - Estrutura de Reels fixa (Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA); a introdução termina por volta dos 10 s (hook + lead ≤ 34 palavras, o `lint` barra); loops legítimos, resolvidos no mesmo vídeo.
 - Nenhum "não é X, é Y", nenhum "Você sabia?", nenhuma exclamação (o `lint` barra).
-- Personagens do livro (Renata, Otávio, Lúcia, Caio) são compostos: nunca "um cliente meu", e sempre identificáveis como personagem do livro.
+- Personagens do livro (Renata, Otávio, Lúcia, Caio) são compostos: nunca "um cliente meu", e sempre identificados para o público como personagem criada a partir de casos reais.
 - O "eu" de Daniel Luzz opina; não inventa episódio de vida.
 - Nenhum número inventado como dado; nenhuma promessa de resultado.
 - CTA: uma ação por peça; Modo Singular como continuação natural do exercício, nunca urgência falsa.

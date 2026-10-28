@@ -160,23 +160,21 @@
 
 /* ---------------------------------------------------------- cursor que sente */
 .est.vivo, .est.vivo * { cursor: none !important; }
-.est:not(.vivo) .cur-anel, .est:not(.vivo) .cur-ponto { display: none; }
-.est .cur-ponto, .est .cur-anel { position: fixed; left: 0; top: 0; pointer-events: none; z-index: 20; border-radius: 50%; }
-.est .cur-ponto { width: 6px; height: 6px; margin: -3px 0 0 -3px; background: var(--tinta); transition: opacity .3s, background .4s; }
-.est .cur-anel { width: 38px; height: 38px; margin: -19px 0 0 -19px; border: 1px solid var(--t2); display: grid; place-items: center;
-  transition: width .5s var(--ease), height .5s var(--ease), margin .5s var(--ease), border-color .5s, background .5s; }
-.est .cur-anel span { font-size: 13px; font-style: italic; color: var(--acento); opacity: 0; transition: opacity .4s; white-space: nowrap; }
-.est .cur-anel.sobre { width: 78px; height: 78px; margin: -39px 0 0 -39px; border-color: var(--acento); background: rgba(154, 115, 40, .06); }
-.est .cur-anel.sobre span { opacity: 1; }
-.est .cur-anel.texto { width: 4px; height: 34px; margin: -17px 0 0 -2px; border-radius: 2px; border-color: var(--tinta); }
-.est .cur-anel.aperta { width: 26px; height: 26px; margin: -13px 0 0 -13px; }
+.est:not(.vivo) .cur-ponto { display: none; }
+/* o ponto se move inteiro (transform); o desenho fica no filho, que muda de forma sem brigar com o movimento */
+.est .cur-ponto { position: fixed; left: 0; top: 0; width: 0; height: 0; pointer-events: none; z-index: 20; transition: opacity .3s; }
+.est .cur-ponto i { position: absolute; left: -3px; top: -3px; width: 6px; height: 6px; border-radius: 50%; background: var(--tinta);
+  transition: width .45s var(--ease), height .45s var(--ease), left .45s var(--ease), top .45s var(--ease), background .4s, border-radius .45s; }
+.est .cur-ponto.sobre i { width: 12px; height: 12px; left: -6px; top: -6px; background: var(--acento); }
+.est .cur-ponto.texto i { width: 2px; height: 26px; left: -1px; top: -13px; border-radius: 1px; }
+.est .cur-ponto.aperta i { width: 4px; height: 4px; left: -2px; top: -2px; }
 .est .gota { position: fixed; z-index: 19; pointer-events: none; width: 10px; height: 10px; margin: -5px 0 0 -5px; border-radius: 50%; border: 1px solid var(--acento);
   animation: gota 1.1s var(--ease) forwards; }
 @keyframes gota { to { transform: scale(14); opacity: 0; border-width: .3px; } }
 .est .rastro { position: fixed; z-index: 18; pointer-events: none; width: 4px; height: 4px; margin: -2px 0 0 -2px; border-radius: 50%; background: var(--acento);
   animation: rastro 1.4s var(--ease) forwards; }
 @keyframes rastro { to { transform: translateY(-14px) scale(.2); opacity: 0; } }
-.est .tele ~ .cur-ponto { background: #eceef3; }
+.est .tele ~ .cur-ponto i { background: #eceef3; }
 
 @media (prefers-reduced-motion: reduce) {
   .est *, .est *::before, .est *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
@@ -185,3 +183,99 @@
   .est .etapa { grid-template-columns: 1fr; gap: 8px; }
   .est .barra .data { display: none; }
 }
+
+/* ---------------------------------------------------------- admin */
+.est .adm { max-width: 980px; margin: 0 auto; padding: 30px clamp(20px, 5vw, 64px) 140px; }
+.est .adm .titulo { font-size: clamp(46px, 7vw, 96px); }
+.est .adm-sub { margin-top: 28px; font-size: 20px; line-height: 1.5; color: var(--t2); font-style: italic; max-width: 700px; }
+.est .adm-sec { margin-top: 64px; }
+.est .adm-sec > .rot { margin-bottom: 18px; }
+.est .opcoes { display: flex; flex-direction: column; }
+.est .op { display: grid; grid-template-columns: 22px 1fr; column-gap: 16px; row-gap: 6px; padding: 22px 0; border-top: 1px solid var(--fio); cursor: pointer; }
+.est .op input[type=radio] { grid-row: 1; align-self: center; margin: 0; accent-color: var(--acento); }
+.est .op .nome { font-family: var(--sans); font-weight: 650; letter-spacing: -.02em; font-size: 24px; }
+.est .op .rec { font-family: var(--serif); font-weight: 520; font-size: 18px; color: var(--acento); margin-left: 12px; letter-spacing: 0; }
+.est .op .porque { font-size: 18px; line-height: 1.45; color: var(--t2); grid-column: 2; }
+.est .op .custo { font-size: 15px; color: var(--t3); font-style: italic; grid-column: 2; }
+.est .op .custo b { font-weight: 400; color: var(--acento); }
+.est .op.on .nome { color: var(--acento); }
+.est .op .campo { grid-column: 2; border: 0; border-bottom: 1px solid var(--t3); background: transparent; outline: 0; font-size: 20px; padding: 6px 0; max-width: 520px; }
+.est .op .campo:focus { border-color: var(--tinta); }
+.est .chave { display: flex; gap: 14px; align-items: baseline; font-size: 19px; color: var(--t2); padding: 10px 0; cursor: pointer; }
+.est .chave input { accent-color: var(--acento); }
+.est .adm-acoes { display: flex; gap: 24px; align-items: baseline; margin-top: 26px; flex-wrap: wrap; }
+.est .adm-acoes .bt { font-size: 12px; border-bottom: 1px solid var(--t3); padding-bottom: 6px; }
+.est .adm-acoes .bt:disabled { opacity: .4; }
+.est .adm-msg { font-style: italic; color: var(--acento); font-size: 17px; }
+.est .adm-nota { margin-top: 22px; font-size: 15px; color: var(--t3); font-style: italic; line-height: 1.5; }
+.est .estado { list-style: none; margin: 0; padding: 0; }
+.est .estado li { padding: 10px 0 10px 22px; position: relative; font-size: 18px; color: var(--t2); border-top: 1px solid var(--fio); }
+.est .estado li::before { content: ""; position: absolute; left: 2px; top: 19px; width: 7px; height: 7px; border-radius: 50%; border: 1px solid var(--t3); }
+.est .estado li.ok::before { background: var(--acento); border-color: var(--acento); }
+.est .recentes .rec-l { display: grid; grid-template-columns: 50px 1.6fr .6fr .9fr 1fr; gap: 14px; align-items: baseline; padding: 10px 0; border-top: 1px solid var(--fio); font-size: 16px; color: var(--t2); }
+.est .recentes .n { font-size: 26px; font-style: italic; color: var(--t3); }
+.est .recentes .q { color: var(--t3); font-style: italic; text-align: right; }
+.est .recentes .erro span:nth-child(2) { color: var(--acento); }
+@media (max-width: 720px) { .est .recentes .rec-l { grid-template-columns: 40px 1fr 1fr; } .est .recentes .rec-l span:nth-child(n+4) { display: none; } }
+
+/* ---------------------------------------------------------- espera solta (servidor) */
+.est .espera .solto { margin: 34px auto 0; max-width: 460px; font-size: 16px; line-height: 1.55; color: var(--t3); font-style: italic; }
+.est .espera .solto em { color: var(--acento); }
+.est .espera .sino { font-style: italic; color: var(--tinta); border-bottom: 1px solid var(--fio); padding-bottom: 1px; transition: color .4s, border-color .4s; }
+.est .espera .sino:hover { color: var(--acento); border-color: var(--acento); }
+.est .espera .cancela { margin-top: 40px; }
+
+/* ---------------------------------------------------------- lupa que edita */
+.est .lupa .barra-l { align-items: center; gap: 18px; flex-wrap: wrap; }
+.est .lupa .fundos { display: flex; gap: 10px; align-items: center; }
+.est .lupa .acoes-l { display: flex; gap: 28px; }
+.est .amostra { width: 18px; height: 18px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(22, 24, 29, .18); transition: transform .4s var(--ease), box-shadow .4s; }
+.est .amostra:hover { transform: scale(1.18); }
+.est .amostra.on { box-shadow: inset 0 0 0 1px rgba(22, 24, 29, .18), 0 0 0 2px var(--papel), 0 0 0 3px var(--acento); }
+.est .lupa .dica { position: absolute; bottom: 22px; left: 0; right: 0; text-align: center; font-size: 15px; font-style: italic; color: var(--t3); pointer-events: none; transition: color .4s; }
+.est .lupa .dica.alerta { color: var(--acento); }
+.est .quadro.editavel { cursor: text; touch-action: manipulation; -webkit-user-select: text; user-select: text; }
+.est .quadro.editavel:hover { box-shadow: 0 1px 0 var(--fio), 0 20px 40px -30px rgba(21, 20, 18, .35); }
+.est .quadro.editavel [data-ed] { transition: outline-color .4s; outline: 2px dashed transparent; outline-offset: 10px; border-radius: 2px; }
+.est .quadro.editavel [data-ed]:hover { outline-color: rgba(154, 115, 40, .28); }
+.est .quadro.editavel [data-ed] [data-ed]:hover { outline-color: rgba(154, 115, 40, .4); }
+.est .quadro.editavel .ed-ativo { outline: 2px solid rgba(154, 115, 40, .55) !important; outline-offset: 10px; }
+.est .quadro.editavel [contenteditable="true"] { caret-color: var(--acento); }
+.est .ed-barra { position: fixed; z-index: 11; display: flex; align-items: center; gap: 4px; padding: 6px 8px; background: var(--papel); border-radius: 999px;
+  box-shadow: 0 1px 0 var(--fio), 0 18px 40px -18px rgba(21, 20, 18, .4), 0 0 0 1px var(--fio); animation: surge .35s var(--ease) both; }
+.est .ed-barra button { min-width: 34px; height: 34px; border-radius: 999px; font-size: 17px; color: var(--t2); display: grid; place-items: center; transition: background .3s, color .3s; }
+.est .ed-barra button:hover { background: var(--papel-2); color: var(--acento); }
+.est .ed-barra .fonte { font-family: var(--sans); font-weight: 650; letter-spacing: -.03em; }
+.est .ed-barra .txt { font-family: var(--sans); font-size: 10px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; padding: 0 10px; }
+.est .ed-barra .amostra { min-width: 0; width: 18px; height: 18px; margin: 0 4px; }
+.est .ed-barra .sep { width: 1px; height: 18px; background: var(--fio); margin: 0 4px; }
+.est .rot.salvo { text-transform: none; letter-spacing: 0; font-family: var(--serif); font-style: italic; font-size: 15px; font-weight: 400; }
+
+/* ---------------------------------------------------------- figura para o Reels (prévia selfie) */
+.est .figs .par { display: flex; gap: 22px; align-items: flex-end; flex-wrap: wrap; }
+.est .selfie { position: relative; flex: none; overflow: hidden; border-radius: 14px; cursor: pointer;
+  background: radial-gradient(120% 70% at 50% 100%, #3a3f4a 0%, #1d2027 55%, #121419 100%);
+  box-shadow: 0 20px 40px -30px rgba(21, 20, 18, .5); transition: transform .7s var(--ease); }
+.est .selfie:hover { transform: translateY(-4px); }
+.est .selfie .esc { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
+.est .selfie .pessoa { position: absolute; left: 50%; bottom: -6%; width: 64%; height: 46%; transform: translateX(-50%); border-radius: 50% 50% 0 0 / 38% 38% 0 0;
+  background: radial-gradient(closest-side, rgba(255, 255, 255, .1), rgba(255, 255, 255, .04)); }
+.est .selfie .pessoa::before { content: ""; position: absolute; left: 50%; top: -48%; width: 52%; aspect-ratio: 1 / 1.15; transform: translateX(-50%); border-radius: 50%;
+  background: rgba(255, 255, 255, .08); }
+.est .figs .tom { font-style: italic; text-transform: none; letter-spacing: 0; font-family: var(--serif); font-size: 14px; font-weight: 400; color: var(--t2); border-bottom: 1px solid var(--fio); }
+.est .figs .tom:hover { color: var(--acento); }
+@media (max-width: 720px) {
+  .est .lupa .barra-l { top: 14px; left: 14px; right: 14px; }
+  /* no celular, a barra fica embaixo, perto do polegar, e não cobre o texto que se edita */
+  .est .ed-barra { left: 12px !important; right: 12px; top: auto !important; bottom: 58px; flex-wrap: wrap; justify-content: center; border-radius: 22px; }
+}
+
+.est .colar { display: flex; gap: 18px; align-items: baseline; border-bottom: 1px solid var(--t3); padding-bottom: 8px; max-width: 640px; transition: border-color .5s var(--ease); }
+.est .colar:focus-within, .est .colar.on { border-color: var(--acento); }
+.est .colar .campo { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; font-size: clamp(20px, 2.4vw, 26px); padding: 4px 0; font-family: var(--sans); letter-spacing: -.01em; }
+.est .colar .campo::placeholder { color: var(--t3); font-family: var(--serif); font-style: italic; letter-spacing: 0; }
+.est .colar-nota { margin-top: 12px; font-size: 16px; line-height: 1.5; color: var(--t3); font-style: italic; max-width: 640px; }
+.est .colar-nota b { font-weight: 400; color: var(--acento); }
+
+.est .bt.insta { color: var(--acento); border-bottom: 1px solid var(--acento); padding-bottom: 5px; }
+.est .bt.insta.preparando { color: var(--t3); border-color: var(--fio); }

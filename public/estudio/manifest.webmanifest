@@ -1,0 +1,32 @@
+{
+  "name": "Estúdio Singular",
+  "short_name": "Estúdio",
+  "description": "O conteúdo do dia do Modo Singular: roteiro de Reels, carrossel e legenda.",
+  "id": "/estudio",
+  "start_url": "/estudio",
+  "scope": "/estudio",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#faf9f6",
+  "theme_color": "#faf9f6",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["productivity", "business"],
+  "icons": [
+    { "src": "/estudio/icones/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/estudio/icones/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/estudio/icones/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Próximo dia", "short_name": "Próximo", "url": "/estudio?gerar=proximo", "description": "Gerar o próximo dia agora",
+      "icons": [{ "src": "/estudio/icones/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Modelos", "short_name": "Admin", "url": "/estudio/admin", "description": "Escolher quem escreve",
+      "icons": [{ "src": "/estudio/icones/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "share_target": {
+    "action": "/estudio",
+    "method": "GET",
+    "params": { "title": "titulo", "text": "pedido", "url": "link" }
+  }
+}

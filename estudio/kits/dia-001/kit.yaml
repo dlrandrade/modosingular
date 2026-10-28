@@ -24,7 +24,7 @@ roteiro:
   body2: "Primeiro, o padrão: o que costuma acontecer, e em que ordem. Depois, a exceção: quando a regra falha, e por quais sinais."
   loop2: "A terceira decide quem o paciente escolhe."
   body3: "O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes."
-  cta: "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve."
+  cta: "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo dela. Esse motivo é o começo do seu critério: a parte do seu trabalho que ninguém encontra numa busca."
 
 carrossel:
   - tipo: capa
@@ -35,7 +35,7 @@ carrossel:
     fundo: areia
     medio: true
     fala: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Releu e sentiu *vergonha*: estava tudo certo, e nada ali era dela."
-    tag: "Cena do livro Modo Singular. A fisioterapeuta é uma personagem composta."
+    tag: "Cena ilustrativa. A fisioterapeuta é uma personagem criada a partir de casos reais."
   - tipo: texto
     rotulo: "Dois dias depois"
     fala: "Ao telefone, falou quinze minutos sobre *um único paciente*."
@@ -52,7 +52,6 @@ carrossel:
         - {rotulo: "Critério", nota: "Como você decide entre duas saídas defensáveis. É o que há de mais seu."}
       divisao: 2
       grupos: ["Nos livros e nos cursos", "O que só a prática dá"]
-    legenda: "As duas de cima são iguais em todo mundo que estudou. A diferença entre especialistas está nas três de baixo."
   - tipo: lista
     rotulo: "As três de baixo, na cena"
     fala: "O que a lista *não tinha*"
@@ -88,15 +87,15 @@ carrossel:
     legenda: "Esse motivo é o primeiro rascunho do seu critério."
   - tipo: cta
     titulo: "Você já tem um *critério*. Falta escrevê-lo."
-    apoio: "Esse exercício é o capítulo 9 do Modo Singular: trinta capítulos para descobrir o que só você diz."
+    apoio: "Cinco minutos, no papel. É a parte do seu trabalho que ninguém encontra numa busca."
     acao: "Salve para fazer hoje à noite"
 
 legenda: |
   Informação, todo mundo da sua área tem. O que você decide diante de um caso difícil, não.
 
-  Na cena do livro Modo Singular, uma fisioterapeuta tenta listar tudo o que sabe sobre coluna e escreve onze linhas que qualquer estudante escreveria. Dois dias depois, ao telefone, ela conta um único paciente por quinze minutos, e a irmã avisa: isso não estava na sua lista.
+  Uma fisioterapeuta tenta listar tudo o que sabe sobre coluna e escreve onze linhas que qualquer estudante escreveria. Dois dias depois, ao telefone, ela conta um único paciente por quinze minutos, e a irmã avisa: isso não estava na sua lista.
 
-  A lista tinha informação. A conversa tinha repertório: o padrão que só o volume de casos ensina, a exceção que o manual não traz e o critério para decidir entre duas saídas corretas.
+  A lista tinha informação. A conversa tinha o que só a prática dá: o padrão que só o volume de casos ensina, a exceção que o manual não traz e um jeito próprio de decidir entre duas saídas corretas. Isso tem nome: critério.
 
   É o critério que faz um paciente, um cliente ou um aluno escolher você. E quase nunca ele aparece nos posts, porque parece óbvio demais para merecer um texto.
 
@@ -104,6 +103,6 @@ legenda: |
 
   Salve este carrossel para não perder o exercício.
 
-  O exercício é o capítulo 9 do Modo Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
+  A fisioterapeuta é uma personagem criada a partir de casos reais. Este exercício vem do Modo Singular, um livro que escrevi para especialistas que sabem muito e aparecem pouco.
 
   #posicionamento #autoridade #especialistas
