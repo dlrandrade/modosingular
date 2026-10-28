@@ -19,8 +19,8 @@ function fontesCSS(base: string): Promise<string> {
   return fontesEmbutidas;
 }
 
-/** Desenha o slide em tamanho real fora da tela e baixa como PNG (1080 × 1350). */
-export async function baixarSlide(s: Dados, i: number, total: number, ctx: Contexto, nome: string) {
+/** Desenha o slide em tamanho real fora da tela e devolve o PNG (1080 × 1350) como data URL. */
+export async function slidePNG(s: Dados, i: number, total: number, ctx: Contexto): Promise<string> {
   const caixa = document.createElement("div");
   caixa.style.cssText = `position:fixed;left:-30000px;top:0;width:${L}px;height:${A}px;pointer-events:none`;
   caixa.innerHTML = slideHTML(s, i, total, ctx);
@@ -28,10 +28,35 @@ export async function baixarSlide(s: Dados, i: number, total: number, ctx: Conte
   try {
     await document.fonts.ready;
     const fontEmbedCSS = await fontesCSS(ctx.fontBase || "/estudio/fontes");
-    const url = await toPng(caixa.firstElementChild as HTMLElement, { width: L, height: A, pixelRatio: 1, fontEmbedCSS });
-    baixar(url, nome);
+    return await toPng(caixa.firstElementChild as HTMLElement, { width: L, height: A, pixelRatio: 1, fontEmbedCSS });
   } finally {
     caixa.remove();
+  }
+}
+
+export async function baixarSlide(s: Dados, i: number, total: number, ctx: Contexto, nome: string) {
+  baixar(await slidePNG(s, i, total, ctx), nome);
+}
+
+/** O carrossel inteiro como arquivos, prontos para a folha de compartilhar do celular. */
+export async function arquivosDoCarrossel(slides: Dados[], ctx: Contexto, nome: string, aoAvancar?: (n: number) => void): Promise<File[]> {
+  const out: File[] = [];
+  for (let i = 0; i < slides.length; i++) {
+    const url = await slidePNG(slides[i], i + 1, slides.length, ctx);
+    const blob = await (await fetch(url)).blob();
+    out.push(new File([blob], `${nome}-slide-${String(i + 1).padStart(2, "0")}.png`, { type: "image/png" }));
+    aoAvancar?.(i + 1);
+  }
+  return out;
+}
+
+/** O navegador sabe mandar imagens para outros apps (Instagram, Fotos)? */
+export function compartilhaArquivos(): boolean {
+  try {
+    const f = new File([new Blob(["x"], { type: "image/png" })], "x.png", { type: "image/png" });
+    return typeof navigator !== "undefined" && !!navigator.canShare && navigator.canShare({ files: [f] });
+  } catch {
+    return false;
   }
 }
 

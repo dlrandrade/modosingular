@@ -9,8 +9,16 @@ export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 /** GET — tudo o que a página de admin mostra: escolha atual, preços vivos, saldo, estado e últimas gerações. */
-export async function GET() {
+export async function GET(req: Request) {
   if (!(await dentro())) return NAO_AUTORIZADO();
+  // ?conferir=empresa/modelo — o modelo colado existe no OpenRouter? (nome e preço vivos)
+  const conferir = new URL(req.url).searchParams.get("conferir");
+  if (conferir) {
+    const vivo = await catalogoVivo().catch(() => null);
+    if (!vivo) return Response.json({ existe: null });
+    const m = vivo.find((x) => x.id === conferir.trim());
+    return Response.json({ existe: !!m, modelo: m ? { nome: m.nome, entrada: m.entrada, saida: m.saida } : undefined });
+  }
   const servidor = armazemDisponivel();
   const [conf, vivo, saldo, vapid, recentes] = await Promise.all([
     servidor ? lerConfig() : Promise.resolve(null),

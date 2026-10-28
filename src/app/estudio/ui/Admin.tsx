@@ -15,6 +15,12 @@ type Dados = {
   recentes: Recente[];
 };
 
+/** Aceita o ID puro (deepseek/deepseek-v4.1-flash) ou o endereço da página do modelo no OpenRouter. */
+function idColado(t: string): string {
+  const x = t.trim().replace(/^https?:\/\/(www\.)?openrouter\.ai\//i, "").replace(/^models\//, "").replace(/[?#].*$/, "").replace(/\/+$/, "");
+  return /^[\w.-]+\/[\w.:-]+$/.test(x) ? x : "";
+}
+
 const curto = (m?: string) => String(m || "").replace(/^(openrouter|anthropic):/, "").replace(/:free$/, " (grátis)");
 
 /* Página de admin do estúdio: qual modelo escreve, quanto custa, e se está tudo ligado. */
@@ -44,7 +50,8 @@ export default function Admin() {
 
   async function salvar() {
     setSalvando(true); setMsg("");
-    const id = principal === "outro" ? outro.trim() : principal;
+    const id = principal === "outro" ? idOutro : principal;
+    if (principal === "outro" && !id) { setSalvando(false); setMsg("Cole um ID no formato empresa/modelo, como deepseek/deepseek-v4.1-flash."); return; }
     const r = await fetch("/api/estudio/admin", {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ principal: id, gratuitosDeReserva: gratis, claudeDeReserva: claude }),
@@ -62,8 +69,20 @@ export default function Admin() {
     if (e == null || s == null) return null;
     return { e, s, kit: custoKit(e, s), vivo: !!p };
   };
-  const idOutro = outro.trim();
-  const outroVivo = idOutro && d?.precos[idOutro];
+  const idOutro = idColado(outro);
+  const outroVivo = idOutro ? d?.precos[idOutro] : null;
+  const [conferido, setConferido] = useState<{ id: string; nome?: string; entrada?: number; saida?: number; existe: boolean | null } | null>(null);
+  // confere o ID colado no catálogo vivo do OpenRouter (nome e preço), sem precisar salvar antes
+  useEffect(() => {
+    if (!idOutro) { setConferido(null); return; }
+    if (outroVivo) { setConferido({ id: idOutro, nome: outroVivo.nome, entrada: outroVivo.entrada, saida: outroVivo.saida, existe: true }); return; }
+    const t = setTimeout(async () => {
+      const r = await fetch(`/api/estudio/admin?conferir=${encodeURIComponent(idOutro)}`, { cache: "no-store" }).catch(() => null);
+      const j = r?.ok ? await r.json() : null;
+      setConferido(j ? { id: idOutro, ...j.modelo, existe: j.existe } : { id: idOutro, existe: null });
+    }, 350);
+    return () => clearTimeout(t);
+  }, [idOutro, outroVivo]);
 
   return (
     <div className="est">
@@ -72,7 +91,7 @@ export default function Admin() {
           <span dangerouslySetInnerHTML={{ __html: marca(22) }} />
           <span className="rot">Modo Singular · Estúdio</span>
         </Link>
-        <div className="dir"><Link className="lnk" data-emo="voltar" href="/estudio">voltar ao estúdio</Link></div>
+        <div className="dir"><Link className="lnk" data-emo="voltar" href="/estudio">← estúdio</Link></div>
       </header>
 
       <main className="adm">
@@ -82,7 +101,28 @@ export default function Admin() {
         {!d ? <p className="adm-sub">carregando…</p> : (
           <>
             <section className="adm-sec">
-              <p className="rot">Modelo principal</p>
+              <p className="rot">Colar um modelo do OpenRouter</p>
+              <div className={`colar ${principal === "outro" ? "on" : ""}`}>
+                <input className="campo" value={outro} spellCheck={false} autoCapitalize="none" autoCorrect="off" inputMode="url"
+                  placeholder="deepseek/deepseek-v4.1-flash" aria-label="ID do modelo no OpenRouter"
+                  onChange={(e) => { setOutro(e.target.value); if (idColado(e.target.value)) setPrincipal("outro"); }} />
+                <button className="bt" data-emo="colar" onClick={async () => {
+                  const t = await navigator.clipboard?.readText?.().catch(() => "");
+                  if (t) { setOutro(t); if (idColado(t)) setPrincipal("outro"); }
+                }}>colar</button>
+              </div>
+              <p className="colar-nota">
+                {!outro.trim() ? "O ID fica na página do modelo no OpenRouter, logo abaixo do nome (formato empresa/modelo). Também vale colar o endereço da página."
+                  : !idOutro ? "Esse texto não parece um ID do OpenRouter (empresa/modelo)."
+                  : !conferido || conferido.id !== idOutro ? "conferindo no OpenRouter…"
+                  : conferido.existe === false ? <b>Não encontrei {idOutro} no catálogo do OpenRouter agora. Confira o ID; se salvar assim, a cadeia pula para a reserva.</b>
+                  : conferido.existe === null ? `Não consegui conferir agora; o ID ${idOutro} será usado como está.`
+                  : <>{conferido.nome} · ≈ {formatarUS(custoKit(conferido.entrada || 0, conferido.saida || 0))} por dia · {formatarUS(custoKit(conferido.entrada || 0, conferido.saida || 0) * 30)} por mês{principal === "outro" ? " · este será o principal ao salvar" : ""}</>}
+              </p>
+            </section>
+
+            <section className="adm-sec">
+              <p className="rot">Ou escolha um destes</p>
               <div className="opcoes">
                 {d.catalogo.map((o) => {
                   const p = preco(o.id, o);
@@ -102,17 +142,6 @@ export default function Admin() {
                   <input type="radio" name="principal" checked={principal === ""} onChange={() => setPrincipal("")} />
                   <span className="nome">Só os gratuitos</span>
                   <span className="porque">Sem custo. Mais lentos e menos fiéis ao manual; limite de 50 pedidos por dia no OpenRouter (1.000 depois de US$ 10 em créditos).</span>
-                </label>
-                <label className={`op ${principal === "outro" ? "on" : ""}`} data-emo="escolher">
-                  <input type="radio" name="principal" checked={principal === "outro"} onChange={() => setPrincipal("outro")} />
-                  <span className="nome">Outro modelo do OpenRouter</span>
-                  <input className="campo" value={outro} placeholder="empresa/modelo, como openai/gpt-6-sol" aria-label="ID do modelo"
-                    onFocus={() => setPrincipal("outro")} onChange={(e) => setOutro(e.target.value)} />
-                  {idOutro && d.catalogoVivo && (
-                    <span className="custo">
-                      {outroVivo ? <>{outroVivo.nome} · ≈ {formatarUS(custoKit(outroVivo.entrada, outroVivo.saida))} por dia</> : <b>não encontrei este ID no OpenRouter</b>}
-                    </span>
-                  )}
                 </label>
               </div>
             </section>

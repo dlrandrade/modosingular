@@ -114,9 +114,9 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 
 ## 7. CTA: levar ao Modo Singular sem vender barato
 
-**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele, explicado para quem nunca ouviu falar ("estou escrevendo um livro sobre isso, para especialistas que sabem muito e aparecem pouco"), e só no dia do convite; nunca como a razão pela qual a peça existe, e nunca pelo número do capítulo.
+**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele, explicado para quem nunca ouviu falar ("escrevi um livro sobre isso, para especialistas que sabem muito e aparecem pouco"), e só no dia do convite; nunca como a razão pela qual a peça existe, e nunca pelo número do capítulo.
 
-**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular, em breve") não conta como pedido.
+**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular" e o @) não conta como pedido.
 
 **Escada de três degraus**, em cadência semanal (configurável em `marca.yaml`):
 
@@ -124,11 +124,11 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 |---|---|---|---|
 | **Prática** | Fazer o exercício, no papel, sem postar nada | 4 dos 7 dias | "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo." |
 | **Conversa** | Responder com uma palavra ou uma frase curta | 2 dos 7 dias | "Comente a camada em que a sua semana mais se concentra: informação, padrão, exceção ou critério." |
-| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Estou escrevendo um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco. Quem quiser ser avisado quando sair, o link está na bio." |
+| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Escrevi um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco. O link está na bio." |
 
 **O que o CTA de convite nunca faz:** urgência falsa, escassez inventada, "últimas vagas", promessa de resultado, comparação com quem "ainda está perdido", "você está deixando dinheiro na mesa". O argumento é só este: *você acabou de fazer, em cinco minutos, o começo do que o Modo Singular faz em trinta capítulos.*
 
-**Enquanto o método estiver "em breve"** (`marca.yaml › oferta.estado`), o degrau Convite leva à lista de espera, e as peças dos outros dias terminam com a assinatura. Quando abrir, troque o estado e a ação; os kits antigos não precisam mudar.
+**Para onde o convite leva** (`marca.yaml › oferta`): o link na bio abre uma página curta do Modo Singular, onde a pessoa conhece e compra a apostila. O CTA só aponta o link; quem vende é a página. As peças dos outros dias terminam com a assinatura.
 
 ## 8. Honestidade e proteção
 
@@ -164,7 +164,8 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 - **Edição no próprio carrossel.** Amplie um slide e dê dois cliques (no celular, dois toques) em qualquer texto: ele fica editável ali, com negrito, itálico, troca entre a grotesca e a Garamond, tamanho, largura do bloco e as cores da marca; no alto, o fundo do slide. A edição vira `ajustes` no próprio slide, então o PNG sai igual à tela. Se um texto passar da área segura, a lupa avisa. "Original" desfaz.
 - **A figura para o Reels**: 1080 × 1920, fundo transparente, a figura num cartão (claro ou escuro) no alto do quadro, para ficar acima da cabeça de quem grava em modo selfie. Põe-se por cima do vídeo no editor (CapCut, Instagram).
 - **Instale como app** (no celular, "Adicionar à tela de início"; no computador, o ícone de instalar na barra do navegador). O estúdio tem ícone e janela próprios, separados do app do curso, atalhos para "Próximo dia" e "Modelos", recebe textos compartilhados de outros apps como pedido, e mantém a tela acesa durante o teleprompter.
-- **Admin** (`/estudio/admin`): escolha do modelo principal, preços vivos do OpenRouter, saldo, estado de cada peça e as últimas gerações com o custo de cada uma.
+- **Direto para o Instagram** (no celular): "enviar ao Instagram" abre a folha de compartilhar com os slides prontos e já deixa a legenda na área de transferência; no Instagram, é só escolher Feed e colar a legenda. Os PNGs são preparados em segundo plano assim que o kit abre, para que um toque baste.
+- **Admin** (`/estudio/admin`): cole o ID de qualquer modelo do OpenRouter (formato `empresa/modelo`, como `deepseek/deepseek-v4.1-flash`, ou o endereço da página do modelo) e o admin confere no catálogo vivo, com nome e custo por dia; ou escolha um dos recomendados. Mostra também o saldo, o estado de cada peça e as últimas gerações com o custo de cada uma.
 
 Para versionar um dia no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
 
@@ -184,8 +185,8 @@ Nesse modo não há renderizador: o carrossel sai como texto e você monta as im
 ## 11. Decisões em aberto (preencher em `marca.yaml`)
 
 - `handle`: o @ do perfil, que aparece no rodapé dos slides.
-- `oferta.acao_metodo`: o que de fato existe quando o CTA de convite aparece (lista de espera? página? mensagem?).
+- `oferta.acao_metodo`: para onde o convite leva (hoje: o link na bio, com a página do Modo Singular para comprar a apostila).
 - Na Vercel: `OPENROUTER_API_KEY` (o provedor da plataforma), `ANTHROPIC_API_KEY` (opcional: o Claude direto entra como último recurso) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`. A geração no servidor e as notificações usam a `SUPABASE_SERVICE_ROLE_KEY` que o PWA já tem; as chaves das notificações nascem sozinhas no armazém (ou vêm de `ESTUDIO_VAPID_PUBLICA` e `ESTUDIO_VAPID_PRIVADA`, se existirem).
 - **Quem escreve**: escolha em `/estudio/admin`. O padrão é o **Claude Haiku 5.5** pelo OpenRouter (US$ 0,10 e US$ 0,50 por milhão de tokens de entrada e saída; menos de um centavo de dólar por dia), com os gratuitos e o Claude direto de reserva. Alternativas no admin: DeepSeek V4 Pro (barato, escrita um pouco menos fluida), GLM 5.3 (a melhor escrita criativa entre os abertos) e Claude Sonnet 5.5 (o máximo de acabamento, ~US$ 0,15 por dia). Sem crédito no OpenRouter, o pago responde "sem créditos" e a cadeia passa aos gratuitos. Sem escolha salva, vale `ESTUDIO_MODELOS` (ex.: `openrouter:qwen/qwen3.8-27b:free,anthropic:claude-opus-5-5`), e sem ela o padrão. Os gratuitos do OpenRouter mudam com frequência; um ID que sai do catálogo é pulado automaticamente.
 - Privacidade: vários provedores gratuitos podem usar o que recebem para treinar modelos, e cada pedido leva o texto de um capítulo do livro. Se isso importa, mantenha nas configurações de privacidade do OpenRouter só provedores que não treinam com os dados, ou ponha o Claude primeiro em `ESTUDIO_MODELOS`.
-- Quando a oferta abrir: mudar `oferta.estado` para `aberto` e ajustar a ação.
+- Se a oferta mudar (outra página, outro produto), troque só `marca.yaml`; os kits antigos não precisam mudar.

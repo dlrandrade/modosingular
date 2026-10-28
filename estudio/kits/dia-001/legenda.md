@@ -10,6 +10,6 @@ Para fazer hoje à noite, em cinco minutos: escolha uma decisão difícil que vo
 
 Salve este carrossel para não perder o exercício.
 
-A fisioterapeuta é uma personagem criada a partir de casos reais. Este exercício vem do Modo Singular, um livro que estou escrevendo para especialistas que sabem muito e aparecem pouco.
+A fisioterapeuta é uma personagem criada a partir de casos reais. Este exercício vem do Modo Singular, um livro que escrevi para especialistas que sabem muito e aparecem pouco.
 
 #posicionamento #autoridade #especialistas

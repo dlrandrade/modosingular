@@ -269,3 +269,13 @@
   /* no celular, a barra fica embaixo, perto do polegar, e não cobre o texto que se edita */
   .est .ed-barra { left: 12px !important; right: 12px; top: auto !important; bottom: 58px; flex-wrap: wrap; justify-content: center; border-radius: 22px; }
 }
+
+.est .colar { display: flex; gap: 18px; align-items: baseline; border-bottom: 1px solid var(--t3); padding-bottom: 8px; max-width: 640px; transition: border-color .5s var(--ease); }
+.est .colar:focus-within, .est .colar.on { border-color: var(--acento); }
+.est .colar .campo { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; font-size: clamp(20px, 2.4vw, 26px); padding: 4px 0; font-family: var(--sans); letter-spacing: -.01em; }
+.est .colar .campo::placeholder { color: var(--t3); font-family: var(--serif); font-style: italic; letter-spacing: 0; }
+.est .colar-nota { margin-top: 12px; font-size: 16px; line-height: 1.5; color: var(--t3); font-style: italic; max-width: 640px; }
+.est .colar-nota b { font-weight: 400; color: var(--acento); }
+
+.est .bt.insta { color: var(--acento); border-bottom: 1px solid var(--acento); padding-bottom: 5px; }
+.est .bt.insta.preparando { color: var(--t3); border-color: var(--fio); }

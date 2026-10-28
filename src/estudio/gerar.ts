@@ -146,7 +146,7 @@ function mensagemUsuario(pauta: Pauta, tema: string): string {
   const explica: Record<string, string> = {
     pratica: "prática: a única ação é fazer o exercício, no papel, hoje",
     conversa: "conversa: a única ação é responder nos comentários com uma palavra ou uma frase curta",
-    convite: `convite: a única ação é conhecer o Modo Singular (${publico.marca.oferta?.acao_metodo || "link na bio"})`,
+    convite: `convite: a única ação é ir ao link na bio (${publico.marca.oferta?.acao_metodo || "a página do Modo Singular"}); diga o que é o livro numa frase, sem urgência nem escassez`,
   };
   return [
     `Pauta: dia ${pauta.dia} · capítulo ${pauta.cap} ("${cap.titulo}") · figura "${pauta.titulo}" (${pauta.tipo}).`,

@@ -7,7 +7,7 @@ import { inscricao, podeAvisar, querAvisos, registrarSW, selo } from "./aparelho
 import Cursor from "./Cursor";
 import Glifos from "./Glifos";
 import Lupa from "./Lupa";
-import { baixarReels, baixarSlide, baixarTexto } from "./png";
+import { arquivosDoCarrossel, baixarReels, baixarSlide, baixarTexto, compartilhaArquivos } from "./png";
 import Quadro from "./Quadro";
 import Teleprompter from "./Teleprompter";
 import Titulo from "./Titulo";
@@ -428,6 +428,7 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
           <h3>O carrossel</h3>
           <div className="acoes">
             <span className="rot salvo">{salvo === "salvando" ? "salvando…" : salvo === "salvo" ? "edição salva" : salvo === "local" ? "edição salva neste aparelho" : editados ? `${editados} slide${editados > 1 ? "s" : ""} editado${editados > 1 ? "s" : ""}` : "clique para ampliar e editar"}</span>
+            <Instagram slides={slides} ctx={ctx} nome={nome} legenda={kit.legenda || ""} />
             <button className="bt" data-emo="baixar" onClick={baixarTodos}>baixar os {slides.length} slides</button>
           </div>
         </div>
@@ -527,5 +528,71 @@ function Selfie({ s, ctx, largura, tom, onClick }: { s: Dados; ctx: Contexto; la
       <span className="pessoa" aria-hidden />
       <div className="esc" style={{ width: RL, height: RA, transform: `scale(${esc})` }} dangerouslySetInnerHTML={{ __html: reelsHTML(s, ctx, tom) }} />
     </div>
+  );
+}
+
+// ------------------------------------------------------------------ direto para o Instagram
+/* No celular: os slides vão pela folha de compartilhar (Instagram, Fotos…) e a legenda
+   já fica na área de transferência, pronta para colar. Os PNGs são preparados em segundo
+   plano assim que o kit abre, para que um toque só abra o Instagram (o navegador exige
+   que o compartilhamento saia direto do toque). */
+function Instagram({ slides, ctx, nome, legenda }: { slides: Dados[]; ctx: Contexto; nome: string; legenda: string }) {
+  const [pode, setPode] = useState(false);
+  const [estado, setEstado] = useState<"" | "preparando" | "pronto" | "feito" | "erro">("");
+  const [n, setN] = useState(0);
+  const chave = useMemo(() => JSON.stringify(slides), [slides]);
+  const atual = useRef(chave);
+  atual.current = chave;
+  const prontos = useRef<{ chave: string; arquivos: File[] } | null>(null);
+  const emCurso = useRef("");
+
+  useEffect(() => { setPode(compartilhaArquivos()); }, []);
+
+  const preparar = useCallback(async () => {
+    const k = atual.current;
+    if (emCurso.current === k) return;
+    emCurso.current = k; setEstado("preparando"); setN(0);
+    try {
+      const arquivos = await arquivosDoCarrossel(slides, ctx, nome, setN);
+      if (atual.current !== k) return; // o carrossel mudou no meio (edição): a próxima rodada refaz
+      prontos.current = { chave: k, arquivos }; setEstado("pronto");
+    } catch {
+      setEstado("erro");
+    } finally {
+      if (emCurso.current === k) emCurso.current = "";
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slides, nome]);
+
+  // prepara sozinho, um pouco depois de abrir (e de novo depois de cada edição)
+  useEffect(() => {
+    if (!pode) return;
+    if (prontos.current?.chave !== chave) setEstado("");
+    const t = setTimeout(() => { if (prontos.current?.chave !== atual.current) void preparar(); }, 1500);
+    return () => clearTimeout(t);
+  }, [pode, chave, preparar]);
+
+  if (!pode) return null;
+
+  const enviar = async () => {
+    navigator.clipboard?.writeText(legenda).catch(() => {}); // ainda dentro do toque
+    const p = prontos.current;
+    if (!p || p.chave !== atual.current) { void preparar(); return; }
+    try {
+      await navigator.share({ files: p.arquivos, title: nome });
+      setEstado("feito");
+    } catch (e) {
+      if ((e as Error).name !== "AbortError") setEstado("erro");
+    }
+  };
+
+  const rotulo = estado === "pronto" ? "enviar ao Instagram"
+    : estado === "feito" ? "legenda copiada · cole no Instagram"
+    : estado === "erro" ? "não deu: tente de novo"
+    : `preparando para o Instagram${n ? ` ${n}/${slides.length}` : ""}…`;
+  return (
+    <button className={`bt insta ${estado}`} data-emo="Instagram" onClick={enviar} aria-live="polite">
+      {rotulo}
+    </button>
   );
 }

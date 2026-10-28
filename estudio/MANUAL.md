@@ -162,13 +162,13 @@ Moldes para a frase final (escolha um; nunca "não é X, é Y"):
 
 ### 2.8 CTA (`cta`)
 
-Uma ação só, a do degrau do dia. Estrutura: (a) a ação, concreta, com prazo curto; (b) por que ela vale (uma frase que liga ao conteúdo, sem citar livro nem capítulo). Só no degrau convite entra (c): o livro explicado para quem não o conhece, "Estou escrevendo um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco."
+Uma ação só, a do degrau do dia. Estrutura: (a) a ação, concreta, com prazo curto; (b) por que ela vale (uma frase que liga ao conteúdo, sem citar livro nem capítulo). Só no degrau convite entra (c): o livro explicado para quem não o conhece, "Escrevi um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco."
 
 | Degrau | Molde da ação | Exemplo |
 |---|---|---|
 | Prática | "[Hoje / Antes de dormir], escreva [o exercício em uma frase]." | "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo." |
 | Conversa | "Comente [uma palavra entre opções do vídeo / a sua resposta curta a uma pergunta]." | "Comente em qual das cinco camadas a sua última semana de posts ficou." |
-| Convite | "[O livro em uma frase]. Se quiser ser avisado, [ação de marca.yaml]." | "Estou escrevendo um livro sobre isso, o Modo Singular. Se quiser ser avisado quando sair, o link está na bio." |
+| Convite | "[O livro em uma frase]. O link está na bio." | "Escrevi um livro sobre isso, o Modo Singular, para especialistas que sabem muito e aparecem pouco. O link está na bio." |
 
 O pedido de "salvar" é do carrossel, não do Reels. "Siga para mais" não é CTA deste sistema.
 
@@ -204,7 +204,7 @@ Regras gerais:
 | 6 | `texto` (a ideia do dia) | `fala`, `fundo: escuro`, `grande: true` | ≤ 12 palavras | ficha.ideia | A frase final do body 3, sem rótulo. É o slide que as pessoas fotografam. |
 | 7 | `exemplo` (como ficaria) | `forma`, `titulo`, `quem`, campos da forma, `nota` | ver 6.1 | ficha.aplicacao | Mostra a aplicação numa profissão diferente, de um jeito que dê para copiar a estrutura. `nota` começa com "Exemplo ilustrativo:". |
 | 8 | `figura` (faça agora) | `rotulo: "Agora, o seu"`, `titulo`, `figura: {tipo: passos, nos: [3]}`, `legenda` | título ≤ 5; rótulo do passo ≤ 7; nota ≤ 10 | ficha.exercicio | Título molde: "Faça em *cinco minutos*". A legenda diz o que o resultado é ("Esse motivo é o primeiro rascunho do seu critério."). |
-| 9 | `cta` | `titulo`, `apoio`, `acao` | título ≤ 9; apoio ≤ 22; ação ≤ 6 | degrau | Título molde: "Você já tem [o que a figura revelou]. Falta [verbo]." Apoio: por que vale fazer, ligado à ideia ("Cinco minutos, no papel. É a parte do seu trabalho que ninguém encontra numa busca."); só no convite, o livro em uma frase ("Estou escrevendo um livro sobre isso, para especialistas que sabem muito e aparecem pouco."). Ação no carrossel: prática → "Salve para fazer [quando]"; conversa → "Responda nos comentários"; convite → a de `marca.yaml`. |
+| 9 | `cta` | `titulo`, `apoio`, `acao` | título ≤ 9; apoio ≤ 22; ação ≤ 6 | degrau | Título molde: "Você já tem [o que a figura revelou]. Falta [verbo]." Apoio: por que vale fazer, ligado à ideia ("Cinco minutos, no papel. É a parte do seu trabalho que ninguém encontra numa busca."); só no convite, o livro em uma frase ("Escrevi um livro sobre isso, para especialistas que sabem muito e aparecem pouco."). Ação no carrossel: prática → "Salve para fazer [quando]"; conversa → "Responda nos comentários"; convite → a de `marca.yaml`. |
 
 Slide extra (o 10º, quando precisar): o slide de **foco** da seção 3.2.
 
@@ -245,7 +245,7 @@ O verificador mede a densidade (palavras dentro da figura + título + legenda) e
 | 4 | Por que isso decide a escolha do cliente, e por que quase ninguém publica | 120–220 |
 | 5 | O exercício em frase corrida, com a regra de não identificar ninguém | 180–260 |
 | 6 | O CTA do carrossel, numa linha | ≤ 80 |
-| 7 | Procedência, para quem não conhece: "[Quem] da cena é uma personagem criada a partir de casos reais. Este exercício vem do Modo Singular, um livro que estou escrevendo para especialistas que sabem muito e aparecem pouco." (sem número de capítulo) | ≤ 220 |
+| 7 | Procedência, para quem não conhece: "[Quem] da cena é uma personagem criada a partir de casos reais. Este exercício vem do Modo Singular, um livro que escrevi para especialistas que sabem muito e aparecem pouco." (sem número de capítulo) | ≤ 220 |
 | 8 | Até 3 hashtags (opcional): #posicionamento #autoridade #especialistas ou do tema | — |
 
 ---
