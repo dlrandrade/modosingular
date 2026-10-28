@@ -176,14 +176,41 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
 
   // ---- ações da barra (onMouseDown + preventDefault: o texto não perde o foco)
   const segura = (f: () => void) => (e: React.MouseEvent) => { e.preventDefault(); f(); };
-  const marcar = (cmd: "bold" | "italic") => {
+  /** Há um trecho selecionado dentro do texto que está sendo editado? */
+  const selecao = (el: HTMLElement | null) => {
+    const sel = window.getSelection();
+    return el && sel && sel.rangeCount && !sel.isCollapsed && el.contains(sel.anchorNode) && el.contains(sel.focusNode) ? sel : null;
+  };
+  /* Envolve só o trecho selecionado (negrito, itálico, cor). Se o trecho inteiro já tem essa marca, tira.
+     Sem seleção, vale para o texto todo do bloco. Não usa execCommand: num título, que já é encorpado,
+     o navegador entenderia "tirar o negrito". */
+  const envolver = (criar: () => HTMLElement, mesma: (e: Element) => boolean, limparDentro: (e: Element) => boolean = mesma) => {
     const el = elemento(ativo);
     if (!el) return;
-    const sel = window.getSelection();
-    if (!sel || sel.isCollapsed || !el.contains(sel.anchorNode)) {
-      const f = document.createRange(); f.selectNodeContents(el); sel?.removeAllRanges(); sel?.addRange(f);
+    let sel = selecao(el);
+    if (!sel) { const t = window.getSelection(); const f = document.createRange(); f.selectNodeContents(el); t?.removeAllRanges(); t?.addRange(f); sel = selecao(el); }
+    if (!sel) return;
+    const faixa = sel.getRangeAt(0);
+    let x: Node | null = faixa.commonAncestorContainer;
+    let ja: HTMLElement | null = null;
+    while (x && x !== el) { if (x instanceof HTMLElement && mesma(x)) { ja = x; break; } x = x.parentNode; }
+    const desembrulhar = (e: Element) => { const p = e.parentNode!; while (e.firstChild) p.insertBefore(e.firstChild, e); p.removeChild(e); };
+    if (ja && (ja.textContent || "").trim() === sel.toString().trim()) {
+      const filhos = [...ja.childNodes];
+      desembrulhar(ja);
+      if (filhos.length) { const f = document.createRange(); f.setStartBefore(filhos[0]); f.setEndAfter(filhos[filhos.length - 1]); sel.removeAllRanges(); sel.addRange(f); }
+      return;
     }
-    document.execCommand(cmd);
+    const pedaco = faixa.extractContents();
+    pedaco.querySelectorAll("*").forEach((e) => { if (limparDentro(e)) desembrulhar(e); });
+    const caixa = criar();
+    caixa.appendChild(pedaco);
+    faixa.insertNode(caixa);
+    sel.selectAllChildren(caixa);
+  };
+  const marcar = (cmd: "bold" | "italic") => {
+    const tag = cmd === "bold" ? "STRONG" : "EM", irma = cmd === "bold" ? "B" : "I";
+    envolver(() => document.createElement(tag), (e) => e.tagName === tag || e.tagName === irma);
   };
   const fonte = () => {
     const el = elemento(ativo);
@@ -223,7 +250,15 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
     confirmar();
     gravar(ativo!, (a) => ({ ...a, largura: Math.max(200, Math.min(856, (a.largura || el.offsetWidth) + delta)) }));
   };
-  const cor = (c: string) => { confirmar(); gravar(ativo!, (a) => { if (a.cor === c) delete a.cor; else a.cor = c; return a; }); };
+  // com trecho selecionado, a cor vale só para ele; sem seleção, para o bloco todo
+  const cor = (c: string) => {
+    if (selecao(elemento(ativo))) {
+      envolver(() => { const s = document.createElement("span"); s.className = `c-${c}`; return s; },
+        (e) => e.classList.contains(`c-${c}`), (e) => [...e.classList].some((k) => k.startsWith("c-")) && e.tagName === "SPAN" && e.classList.length === 1);
+      return;
+    }
+    confirmar(); gravar(ativo!, (a) => { if (a.cor === c) delete a.cor; else a.cor = c; return a; });
+  };
   const original = () => { gravar(ativo!, () => null); };
   // _fundo0 guarda o fundo de antes da primeira troca, para o "original" voltar a ele
   const fundo = (f: string) => { confirmar(); const b0 = atual.current; trocar({ ...b0, fundo: f, _fundo0: "_fundo0" in b0 ? b0._fundo0 : (b0.fundo ?? null) }); };

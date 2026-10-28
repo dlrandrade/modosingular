@@ -133,7 +133,9 @@ export function css(fontBase = "/estudio/fontes"): string {
 .sl .leg { font-size: 30px; line-height: 1.38; font-style: italic; color: var(--t2); max-width: 820px; }
 .sl .selo { font-family: var(--sans); font-size: 17px; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; color: var(--t3); margin-top: 16px; }
 .sl .r { font-family: var(--sans); font-weight: 600; letter-spacing: -.02em; }
-/* trechos trocados de fonte no editor */
+/* trechos marcados no editor: outra fonte, outra cor */
+.sl .c-tinta { color: var(--tinta); } .sl .c-t2 { color: var(--t2); } .sl .c-t3 { color: var(--t3); }
+.sl .c-acento { color: var(--acento); } .sl .c-papel { color: var(--papel); }
 .sl .fs { font-family: var(--sans); font-style: normal; font-weight: 650; letter-spacing: -.03em; }
 .sl .fg { font-family: var(--serif); font-weight: 460; letter-spacing: 0; }
 /* figura para o Reels (1080 × 1920, transparente) */
@@ -275,7 +277,7 @@ export const FONTES_TEXTO = ["sans", "serif", "italico"];
 let AJ: Dados = {};
 let NF = 0;
 
-/** Só o que o editor produz: negrito, itálico, quebra, parágrafo e as classes de fonte. */
+/** Só o que o editor produz: negrito, itálico, quebra, parágrafo e as classes de fonte e de cor. */
 export function limpar(h: unknown): string {
   return String(h ?? "")
     .replace(/<(\/?)b(?=[\s>])[^>]*>/gi, "<$1strong>").replace(/<(\/?)i(?=[\s>])[^>]*>/gi, "<$1em>")
@@ -286,7 +288,7 @@ export function limpar(h: unknown): string {
       if (t === "br") return fecha ? "" : "<br>";
       if (t === "span") {
         if (fecha) return "</span>";
-        const c = (/class="([^"]*)"/.exec(attrs)?.[1] || "").split(/\s+/).filter((x) => ["nq", "fs", "fg"].includes(x)).join(" ");
+        const c = (/class="([^"]*)"/.exec(attrs)?.[1] || "").split(/\s+/).filter((x) => ["nq", "fs", "fg"].includes(x) || CORES_TEXTO.some((k) => x === `c-${k}`)).join(" ");
         return c ? `<span class="${c}">` : "<span>";
       }
       return "";
