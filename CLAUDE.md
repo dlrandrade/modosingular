@@ -10,4 +10,6 @@ Dois produtos neste repositório:
   Faça commit e push a cada marco: o ambiente pode ser reciclado.
 - **Estúdio Singular** (`estudio/`): conteúdo diário (Reels para teleprompter + carrossel + legenda) a partir das
   figuras do livro. Antes de produzir, leia `estudio/PLAYBOOK.md` e use a skill `singular-diario`
-  (`python3 estudio/estudio.py proximo`). Dependências: `pip install pyyaml playwright`. Não altera `src/` nem `apostila/texto/`.
+  (`python3 estudio/estudio.py proximo`). Dependências: `pip install pyyaml playwright`. Não altera `apostila/texto/`.
+  A plataforma mora em `src/app/estudio/` (+ `src/estudio/`, `src/app/api/estudio/`, `public/estudio*`): é um app à parte do PWA,
+  com service worker próprio (escopo `/estudio`), e guarda tarefas e kits num balde privado do Supabase Storage.

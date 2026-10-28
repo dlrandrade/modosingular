@@ -92,7 +92,7 @@ export default function Admin() {
                       <span className="nome">{o.nome}{o.recomendado && <em className="rec">recomendado</em>}</span>
                       <span className="porque">{o.porque}</span>
                       <span className="custo">
-                        {p ? <>≈ {formatarUS(p.kit)} por dia · {formatarUS(p.kit * 30)} por mês · entrada US$ {p.e.toFixed(2)} e saída US$ {p.s.toFixed(2)} por milhão{p.vivo ? "" : " (preço de referência)"}</> : null}
+                        {p ? <>≈ {formatarUS(p.kit)} por dia · {formatarUS(p.kit * 30)} por mês · entrada US$ {p.e.toFixed(2).replace(".", ",")} e saída US$ {p.s.toFixed(2).replace(".", ",")} por milhão de tokens{p.vivo ? "" : " (preço de referência)"}</> : null}
                         {d.catalogoVivo && !d.precos[o.id] && <b> · não encontrei este ID no OpenRouter agora</b>}
                       </span>
                     </label>

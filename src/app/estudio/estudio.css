@@ -192,7 +192,7 @@
 .est .adm-sec > .rot { margin-bottom: 18px; }
 .est .opcoes { display: flex; flex-direction: column; }
 .est .op { display: grid; grid-template-columns: 22px 1fr; column-gap: 16px; row-gap: 6px; padding: 22px 0; border-top: 1px solid var(--fio); cursor: pointer; }
-.est .op input[type=radio] { grid-row: 1 / span 3; margin-top: 7px; accent-color: var(--acento); }
+.est .op input[type=radio] { grid-row: 1; align-self: center; margin: 0; accent-color: var(--acento); }
 .est .op .nome { font-family: var(--sans); font-weight: 650; letter-spacing: -.02em; font-size: 24px; }
 .est .op .rec { font-family: var(--serif); font-weight: 520; font-size: 18px; color: var(--acento); margin-left: 12px; letter-spacing: 0; }
 .est .op .porque { font-size: 18px; line-height: 1.45; color: var(--t2); grid-column: 2; }
@@ -217,3 +217,55 @@
 .est .recentes .q { color: var(--t3); font-style: italic; text-align: right; }
 .est .recentes .erro span:nth-child(2) { color: var(--acento); }
 @media (max-width: 720px) { .est .recentes .rec-l { grid-template-columns: 40px 1fr 1fr; } .est .recentes .rec-l span:nth-child(n+4) { display: none; } }
+
+/* ---------------------------------------------------------- espera solta (servidor) */
+.est .espera .solto { margin: 34px auto 0; max-width: 460px; font-size: 16px; line-height: 1.55; color: var(--t3); font-style: italic; }
+.est .espera .solto em { color: var(--acento); }
+.est .espera .sino { font-style: italic; color: var(--tinta); border-bottom: 1px solid var(--fio); padding-bottom: 1px; transition: color .4s, border-color .4s; }
+.est .espera .sino:hover { color: var(--acento); border-color: var(--acento); }
+.est .espera .cancela { margin-top: 40px; }
+
+/* ---------------------------------------------------------- lupa que edita */
+.est .lupa .barra-l { align-items: center; gap: 18px; flex-wrap: wrap; }
+.est .lupa .fundos { display: flex; gap: 10px; align-items: center; }
+.est .lupa .acoes-l { display: flex; gap: 28px; }
+.est .amostra { width: 18px; height: 18px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(22, 24, 29, .18); transition: transform .4s var(--ease), box-shadow .4s; }
+.est .amostra:hover { transform: scale(1.18); }
+.est .amostra.on { box-shadow: inset 0 0 0 1px rgba(22, 24, 29, .18), 0 0 0 2px var(--papel), 0 0 0 3px var(--acento); }
+.est .lupa .dica { position: absolute; bottom: 22px; left: 0; right: 0; text-align: center; font-size: 15px; font-style: italic; color: var(--t3); pointer-events: none; transition: color .4s; }
+.est .lupa .dica.alerta { color: var(--acento); }
+.est .quadro.editavel { cursor: text; touch-action: manipulation; -webkit-user-select: text; user-select: text; }
+.est .quadro.editavel:hover { box-shadow: 0 1px 0 var(--fio), 0 20px 40px -30px rgba(21, 20, 18, .35); }
+.est .quadro.editavel [data-ed] { transition: outline-color .4s; outline: 2px dashed transparent; outline-offset: 10px; border-radius: 2px; }
+.est .quadro.editavel [data-ed]:hover { outline-color: rgba(154, 115, 40, .28); }
+.est .quadro.editavel [data-ed] [data-ed]:hover { outline-color: rgba(154, 115, 40, .4); }
+.est .quadro.editavel .ed-ativo { outline: 2px solid rgba(154, 115, 40, .55) !important; outline-offset: 10px; }
+.est .quadro.editavel [contenteditable="true"] { caret-color: var(--acento); }
+.est .ed-barra { position: fixed; z-index: 11; display: flex; align-items: center; gap: 4px; padding: 6px 8px; background: var(--papel); border-radius: 999px;
+  box-shadow: 0 1px 0 var(--fio), 0 18px 40px -18px rgba(21, 20, 18, .4), 0 0 0 1px var(--fio); animation: surge .35s var(--ease) both; }
+.est .ed-barra button { min-width: 34px; height: 34px; border-radius: 999px; font-size: 17px; color: var(--t2); display: grid; place-items: center; transition: background .3s, color .3s; }
+.est .ed-barra button:hover { background: var(--papel-2); color: var(--acento); }
+.est .ed-barra .fonte { font-family: var(--sans); font-weight: 650; letter-spacing: -.03em; }
+.est .ed-barra .txt { font-family: var(--sans); font-size: 10px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; padding: 0 10px; }
+.est .ed-barra .amostra { min-width: 0; width: 18px; height: 18px; margin: 0 4px; }
+.est .ed-barra .sep { width: 1px; height: 18px; background: var(--fio); margin: 0 4px; }
+.est .rot.salvo { text-transform: none; letter-spacing: 0; font-family: var(--serif); font-style: italic; font-size: 15px; font-weight: 400; }
+
+/* ---------------------------------------------------------- figura para o Reels (prévia selfie) */
+.est .figs .par { display: flex; gap: 22px; align-items: flex-end; flex-wrap: wrap; }
+.est .selfie { position: relative; flex: none; overflow: hidden; border-radius: 14px; cursor: pointer;
+  background: radial-gradient(120% 70% at 50% 100%, #3a3f4a 0%, #1d2027 55%, #121419 100%);
+  box-shadow: 0 20px 40px -30px rgba(21, 20, 18, .5); transition: transform .7s var(--ease); }
+.est .selfie:hover { transform: translateY(-4px); }
+.est .selfie .esc { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
+.est .selfie .pessoa { position: absolute; left: 50%; bottom: -6%; width: 64%; height: 46%; transform: translateX(-50%); border-radius: 50% 50% 0 0 / 38% 38% 0 0;
+  background: radial-gradient(closest-side, rgba(255, 255, 255, .1), rgba(255, 255, 255, .04)); }
+.est .selfie .pessoa::before { content: ""; position: absolute; left: 50%; top: -48%; width: 52%; aspect-ratio: 1 / 1.15; transform: translateX(-50%); border-radius: 50%;
+  background: rgba(255, 255, 255, .08); }
+.est .figs .tom { font-style: italic; text-transform: none; letter-spacing: 0; font-family: var(--serif); font-size: 14px; font-weight: 400; color: var(--t2); border-bottom: 1px solid var(--fio); }
+.est .figs .tom:hover { color: var(--acento); }
+@media (max-width: 720px) {
+  .est .lupa .barra-l { top: 14px; left: 14px; right: 14px; }
+  /* no celular, a barra fica embaixo, perto do polegar, e não cobre o texto que se edita */
+  .est .ed-barra { left: 12px !important; right: 12px; top: auto !important; bottom: 58px; flex-wrap: wrap; justify-content: center; border-radius: 22px; }
+}

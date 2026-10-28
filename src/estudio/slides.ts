@@ -534,3 +534,8 @@ export function reelsHTML(s: Dados, ctx: Contexto = {}, tom: "claro" | "escuro" 
     AJ = {};
   }
 }
+
+/** Documento HTML da figura para o Reels (fundo transparente; o gerador de PNG fotografa sem fundo). */
+export function paginaReels(s: Dados, ctx: Contexto = {}, tom: "claro" | "escuro" = "claro"): string {
+  return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>html,body{margin:0;width:${RL}px;height:${RA}px;overflow:hidden;background:transparent}${css(ctx.fontBase)}</style></head><body>${reelsHTML(s, ctx, tom)}</body></html>`;
+}

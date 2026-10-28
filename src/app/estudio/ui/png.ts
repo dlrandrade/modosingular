@@ -1,5 +1,5 @@
 import { toPng } from "html-to-image";
-import { A, L, slideHTML, type Contexto, type Dados } from "@/estudio/slides";
+import { A, L, RA, RL, reelsHTML, slideHTML, type Contexto, type Dados } from "@/estudio/slides";
 
 const FONTES = [
   ["EB Garamond", "normal", "400 800", "eb-garamond-latin-wght-normal.woff2"],
@@ -29,6 +29,22 @@ export async function baixarSlide(s: Dados, i: number, total: number, ctx: Conte
     await document.fonts.ready;
     const fontEmbedCSS = await fontesCSS(ctx.fontBase || "/estudio/fontes");
     const url = await toPng(caixa.firstElementChild as HTMLElement, { width: L, height: A, pixelRatio: 1, fontEmbedCSS });
+    baixar(url, nome);
+  } finally {
+    caixa.remove();
+  }
+}
+
+/** A figura para o Reels: 1080 × 1920, fundo transparente, a figura num cartão no alto (para ficar acima da cabeça no modo selfie). */
+export async function baixarReels(s: Dados, ctx: Contexto, tom: "claro" | "escuro", nome: string) {
+  const caixa = document.createElement("div");
+  caixa.style.cssText = `position:fixed;left:-30000px;top:0;width:${RL}px;height:${RA}px;pointer-events:none`;
+  caixa.innerHTML = reelsHTML(s, ctx, tom);
+  (document.querySelector(".est") || document.body).appendChild(caixa);
+  try {
+    await document.fonts.ready;
+    const fontEmbedCSS = await fontesCSS(ctx.fontBase || "/estudio/fontes");
+    const url = await toPng(caixa.firstElementChild as HTMLElement, { width: RL, height: RA, pixelRatio: 1, fontEmbedCSS });
     baixar(url, nome);
   } finally {
     caixa.remove();

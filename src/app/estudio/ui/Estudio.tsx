@@ -2,10 +2,12 @@
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ETAPAS } from "@/estudio/lint";
-import { css, marca, type Contexto, type Dados } from "@/estudio/slides";
+import { css, marca, RA, reelsHTML, RL, type Contexto, type Dados } from "@/estudio/slides";
+import { inscricao, podeAvisar, querAvisos, registrarSW, selo } from "./aparelho";
 import Cursor from "./Cursor";
 import Glifos from "./Glifos";
-import { baixarSlide, baixarTexto } from "./png";
+import Lupa from "./Lupa";
+import { baixarReels, baixarSlide, baixarTexto } from "./png";
 import Quadro from "./Quadro";
 import Teleprompter from "./Teleprompter";
 import Titulo from "./Titulo";
@@ -33,22 +35,44 @@ function lerGuardados(): Record<string, Dados> {
   try { return JSON.parse(localStorage.getItem(GUARDA) || "{}"); } catch { return {}; }
 }
 
-export default function Estudio({ publico }: { publico: Publico }) {
+type Aviso = "" | "pedindo" | "ligado" | "negado" | "falhou";
+type Indice = Record<string, { tema: string; salvo: string; origem: string; modelo?: string }>;
+const PENDENTE = "estudio-tarefa";
+
+function guardarLocal(k: Dados): Record<string, Dados> {
+  const novo = { ...lerGuardados(), [String(k.dia)]: k };
+  try { localStorage.setItem(GUARDA, JSON.stringify(novo)); } catch { /* sem espaço: segue só na tela e no servidor */ }
+  return novo;
+}
+
+export default function Estudio({ publico, pedidoInicial = "", tarefaInicial = "", gerarAoAbrir = false }: {
+  publico: Publico; pedidoInicial?: string; tarefaInicial?: string; gerarAoAbrir?: boolean;
+}) {
   const router = useRouter();
   const [modo, setModo] = useState<"inicio" | "esperando" | "kit">("inicio");
   const [kit, setKit] = useState<Dados | null>(null);
   const [verif, setVerif] = useState<Verificacao | null>(null);
   const [locais, setLocais] = useState<Record<string, Dados>>({});
-  const [pedido, setPedido] = useState("");
+  const [indice, setIndice] = useState<Indice>({});
+  const [servidor, setServidor] = useState(false);
+  const [pedido, setPedido] = useState(pedidoInicial);
   const [fase, setFase] = useState("");
   const [caracteres, setCaracteres] = useState(0);
   const [inicio, setInicio] = useState(0);
   const [erro, setErro] = useState("");
+  const [aviso, setAviso] = useState<Aviso>("");
+  const [salvo, setSalvo] = useState<"" | "salvando" | "salvo" | "local">("");
   const corte = useRef<AbortController | null>(null);
+  const tarefa = useRef<string>("");
+  const resolvido = useRef(true);
+  const vigia = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const envio = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  useEffect(() => { setLocais(lerGuardados()); }, []);
-
-  const todos = useMemo(() => ({ ...publico.kits, ...locais }), [publico.kits, locais]);
+  const todos = useMemo(() => {
+    const t: Record<string, Dados> = { ...publico.kits, ...locais };
+    for (const [d, x] of Object.entries(indice)) if (!t[d]) t[d] = { dia: Number(d), tema: x.tema, _servidor: true };
+    return t;
+  }, [publico.kits, locais, indice]);
   const proxima = publico.pautas.find((p) => p.template && !todos[String(p.dia)]);
   const ctx: Contexto = { handle: publico.marca.handle, assinatura: publico.marca.oferta?.nome || "Modo Singular", fontBase: "/estudio/fontes" };
 
@@ -57,19 +81,68 @@ export default function Estudio({ publico }: { publico: Publico }) {
     document.querySelector(".est")?.scrollTo({ top: 0 });
   }, []);
 
+  const parar = () => {
+    resolvido.current = true;
+    if (vigia.current) clearTimeout(vigia.current);
+    try { localStorage.removeItem(PENDENTE); } catch { /* nada */ }
+  };
+
+  const receber = useCallback((k: Dados, v: Verificacao | null) => {
+    if (resolvido.current && tarefa.current) return; // já chegou pelo outro caminho
+    parar();
+    setLocais(guardarLocal(k));
+    setIndice((ix) => ({ ...ix, [String(k.dia)]: { tema: String(k.tema || ""), salvo: new Date().toISOString(), origem: "gerado", modelo: k.modelo } }));
+    if (document.hidden) selo(1);
+    abrir(k, v);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [abrir]);
+
+  const falhar = (m: string) => { parar(); setErro(m); setModo("inicio"); };
+
+  /** Consulta o servidor até a geração terminar (quando a conexão ao vivo caiu ou a tela voltou do bloqueio). */
+  const acompanhar = useCallback((id: string, desde: number) => {
+    tarefa.current = id; resolvido.current = false;
+    setModo("esperando"); setInicio(desde);
+    const consultar = async () => {
+      if (resolvido.current) return;
+      if (document.visibilityState === "visible") {
+        try {
+          const r = await fetch(`/api/estudio/tarefa?id=${id}`, { cache: "no-store" });
+          if (r.status === 401) { router.refresh(); return; }
+          if (r.status === 404) { falhar("Não encontrei essa geração no servidor."); return; }
+          const j = await r.json();
+          if (resolvido.current) return;
+          if (j.tarefa?.fase) setFase(j.tarefa.fase);
+          if (j.tarefa?.caracteres) setCaracteres(j.tarefa.caracteres);
+          if (j.tarefa?.estado === "pronto" && j.kit) { resolvido.current = false; tarefa.current = ""; receber(j.kit, j.verificacao); return; }
+          if (j.tarefa?.estado === "erro") { falhar(j.tarefa.erro || "A geração não terminou."); return; }
+        } catch { /* sem rede agora: tenta de novo */ }
+      }
+      if (Date.now() - desde > 7 * 60_000) { falhar("A geração passou do tempo. Tente de novo."); return; }
+      vigia.current = setTimeout(consultar, 3500);
+    };
+    if (vigia.current) clearTimeout(vigia.current);
+    void consultar();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [receber, router]);
+
   async function gerar(texto: string) {
     setErro(""); setFase(""); setCaracteres(0); setInicio(Date.now()); setModo("esperando");
+    setAviso(querAvisos() ? "ligado" : "");
+    tarefa.current = ""; resolvido.current = false;
     const ac = new AbortController(); corte.current = ac;
+    let id = "", noServidor = false;
     try {
+      const push = querAvisos() ? await inscricao(false).catch(() => null) : null;
       const r = await fetch("/api/estudio/gerar", {
         method: "POST", headers: { "Content-Type": "application/json" }, signal: ac.signal,
-        body: JSON.stringify({ pedido: texto, feitos: Object.keys(todos).map(Number) }),
+        body: JSON.stringify({ pedido: texto, feitos: Object.keys(todos).map(Number), push }),
       });
       if (r.status === 401) { router.refresh(); return; }
       if (!r.ok || !r.body) { const j = await r.json().catch(() => ({})); throw new Error(j.erro || "Não consegui gerar agora."); }
       const leitor = r.body.getReader();
       const dec = new TextDecoder();
-      let buf = "", chegou = false;
+      let buf = "";
       for (;;) {
         const { value, done } = await leitor.read();
         if (done) break;
@@ -81,22 +154,93 @@ export default function Estudio({ publico }: { publico: Publico }) {
           const dado = /^data: (.*)$/m.exec(bloco)?.[1];
           if (!ev || !dado) continue;
           const d = JSON.parse(dado);
-          if (ev === "fase") setFase(d.texto);
+          if (resolvido.current) continue;
+          if (ev === "tarefa") {
+            id = d.id; noServidor = d.servidor; tarefa.current = id;
+            if (noServidor) try { localStorage.setItem(PENDENTE, JSON.stringify({ id, inicio: Date.now() })); } catch { /* nada */ }
+          } else if (ev === "fase") setFase(d.texto);
           else if (ev === "progresso") setCaracteres(d.caracteres);
-          else if (ev === "erro") throw new Error(d.mensagem);
-          else if (ev === "kit") {
-            chegou = true;
-            const novo = { ...lerGuardados(), [String(d.kit.dia)]: d.kit };
-            try { localStorage.setItem(GUARDA, JSON.stringify(novo)); } catch { /* sem espaço: segue só na tela */ }
-            setLocais(novo);
-            abrir(d.kit, d.verificacao);
-          }
+          else if (ev === "erro") { falhar(d.mensagem); return; }
+          else if (ev === "kit") { tarefa.current = ""; receber(d.kit, d.verificacao); return; }
         }
       }
-      if (!chegou) throw new Error("A conexão caiu antes do fim. Tente de novo.");
+      if (resolvido.current) return;
+      if (id && noServidor) { acompanhar(id, Date.now() - 1000); return; } // a conexão caiu, a geração não
+      throw new Error("A conexão caiu antes do fim. Tente de novo.");
     } catch (e) {
-      if ((e as Error).name === "AbortError") { setModo("inicio"); return; }
-      setErro((e as Error).message); setModo("inicio");
+      if ((e as Error).name === "AbortError") return;
+      if (resolvido.current) return;
+      if (id && noServidor) { acompanhar(id, Date.now() - 1000); return; }
+      falhar((e as Error).message);
+    }
+  }
+
+  // volta do bloqueio ou de outro app: confere no servidor na hora
+  useEffect(() => {
+    const voltou = () => {
+      if (document.visibilityState !== "visible") return;
+      selo(0);
+      if (!resolvido.current && tarefa.current) {
+        let desde = Date.now();
+        try { desde = JSON.parse(localStorage.getItem(PENDENTE) || "{}").inicio || desde; } catch { /* nada */ }
+        acompanhar(tarefa.current, desde);
+      }
+    };
+    document.addEventListener("visibilitychange", voltou);
+    return () => document.removeEventListener("visibilitychange", voltou);
+  }, [acompanhar]);
+
+  useEffect(() => {
+    setLocais(lerGuardados());
+    void registrarSW();
+    fetch("/api/estudio/kits", { cache: "no-store" }).then((r) => (r.ok ? r.json() : null)).then((j) => {
+      if (j) { setServidor(!!j.servidor); setIndice(j.indice || {}); }
+    }).catch(() => {});
+    // aberto pela notificação, por uma geração que ficou pela metade, ou pelo atalho do app
+    let pendente: { id?: string; inicio?: number } = {};
+    try { pendente = JSON.parse(localStorage.getItem(PENDENTE) || "{}"); } catch { /* nada */ }
+    if (tarefaInicial) acompanhar(tarefaInicial, pendente.id === tarefaInicial ? pendente.inicio || Date.now() : Date.now());
+    else if (pendente.id && Date.now() - (pendente.inicio || 0) < 7 * 60_000) acompanhar(pendente.id, pendente.inicio || Date.now());
+    else if (gerarAoAbrir) void gerar("");
+    if (tarefaInicial || pedidoInicial || gerarAoAbrir) history.replaceState(null, "", "/estudio");
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  async function abrirDia(k: Dados) {
+    const d = String(k.dia);
+    if (indice[d]) {
+      try {
+        const r = await fetch(`/api/estudio/kits?dia=${d}`, { cache: "no-store" });
+        if (r.ok) { const j = await r.json(); return abrir(j.kit, j.verificacao); }
+      } catch { /* sem rede: usa a cópia local */ }
+    }
+    if (!k._servidor) abrir(k);
+    else setErro("Não consegui abrir este dia agora.");
+  }
+
+  /** Uma edição no carrossel: aparece na hora, fica no aparelho e vai para o servidor logo depois. */
+  const atualizarKit = useCallback((k: Dados) => {
+    setKit(k);
+    setLocais(guardarLocal(k));
+    if (envio.current) clearTimeout(envio.current);
+    if (!servidor) { setSalvo("local"); return; }
+    setSalvo("salvando");
+    envio.current = setTimeout(async () => {
+      try {
+        const r = await fetch("/api/estudio/kits", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ kit: k }) });
+        setSalvo(r.ok ? "salvo" : "local");
+        if (r.ok) setIndice((ix) => ({ ...ix, [String(k.dia)]: { tema: String(k.tema || ""), salvo: new Date().toISOString(), origem: "editado" } }));
+      } catch { setSalvo("local"); }
+    }, 1200);
+  }, [servidor]);
+
+  async function ligarAvisos() {
+    setAviso("pedindo");
+    const sub = await inscricao(true).catch(() => null);
+    if (!sub) { setAviso(typeof Notification !== "undefined" && Notification.permission === "denied" ? "negado" : "falhou"); return; }
+    setAviso("ligado");
+    if (tarefa.current) {
+      await fetch("/api/estudio/tarefa", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: tarefa.current, push: sub }) }).catch(() => {});
     }
   }
 
@@ -104,8 +248,8 @@ export default function Estudio({ publico }: { publico: Publico }) {
     e?.preventDefault();
     const t = pedido.trim();
     const n = t.match(/^(?:dia\s*)?(\d{1,2})$/i);
-    if (n && todos[String(Number(n[1]))]) return abrir(todos[String(Number(n[1]))]);
-    gerar(t);
+    if (n && todos[String(Number(n[1]))]) return void abrirDia(todos[String(Number(n[1]))]);
+    void gerar(t);
   }
 
   async function sair() {
@@ -126,6 +270,7 @@ export default function Estudio({ publico }: { publico: Publico }) {
         </button>
         <div className="dir">
           <span className="data">{hoje}</span>
+          <a className="lnk" data-emo="modelos" href="/estudio/admin">admin</a>
           <button className="lnk" data-emo="sair" onClick={sair}>sair</button>
         </div>
       </header>
@@ -151,9 +296,9 @@ export default function Estudio({ publico }: { publico: Publico }) {
               <p className="rot">Dias prontos</p>
               <div className="lista">
                 {prontos.map((k) => (
-                  <button key={k.dia} data-emo="abrir" onClick={() => abrir(k)}>
+                  <button key={k.dia} data-emo="abrir" onClick={() => abrirDia(k)}>
                     <span className="n">{dois(k.dia)}</span>
-                    <span className="t">{k.tema}{locais[String(k.dia)] && <span className="local">gerado aqui</span>}</span>
+                    <span className="t">{k.tema}{indice[String(k.dia)]?.origem === "editado" && <span className="local">editado</span>}</span>
                   </button>
                 ))}
               </div>
@@ -163,11 +308,12 @@ export default function Estudio({ publico }: { publico: Publico }) {
       )}
 
       {modo === "esperando" && (
-        <Espera fase={fase} caracteres={caracteres} inicio={inicio} cancelar={() => corte.current?.abort()} />
+        <Espera fase={fase} caracteres={caracteres} inicio={inicio} servidor={servidor} aviso={aviso} ligarAvisos={ligarAvisos}
+          cancelar={() => { corte.current?.abort(); parar(); tarefa.current = ""; setModo("inicio"); }} />
       )}
 
       {modo === "kit" && kit && (
-        <Kit kit={kit} verif={verif} ctx={{ ...ctx, rotuloDia: `Dia ${dois(kit.dia)}` }}
+        <Kit kit={kit} verif={verif} ctx={{ ...ctx, rotuloDia: `Dia ${dois(kit.dia)}` }} salvo={salvo} mudar={atualizarKit}
           voltar={() => setModo("inicio")} outra={() => gerar(`dia ${kit.dia}`)} />
       )}
       <Cursor />
@@ -176,10 +322,15 @@ export default function Estudio({ publico }: { publico: Publico }) {
 }
 
 // ------------------------------------------------------------------ espera
-function Espera({ fase, caracteres, inicio, cancelar }: { fase: string; caracteres: number; inicio: number; cancelar: () => void }) {
+function Espera({ fase, caracteres, inicio, servidor, aviso, ligarAvisos, cancelar }: {
+  fase: string; caracteres: number; inicio: number; servidor: boolean;
+  aviso: Aviso; ligarAvisos: () => void; cancelar: () => void;
+}) {
   const [i, setI] = useState(0);
   const [agora, setAgora] = useState(Date.now());
+  const [pode, setPode] = useState(false);
   useEffect(() => {
+    setPode(podeAvisar());
     const a = setInterval(() => setI((x) => x + 1), 3800);
     const b = setInterval(() => setAgora(Date.now()), 500);
     return () => { clearInterval(a); clearInterval(b); };
@@ -196,14 +347,28 @@ function Espera({ fase, caracteres, inicio, cancelar }: { fase: string; caracter
         </p>
         <div className="fio"><i style={{ width: `${pct * 100}%` }} /></div>
         <p className="tempo">{s} s</p>
-        <button className="lnk cancela" data-emo="parar" onClick={cancelar}>cancelar</button>
+        {servidor && (
+          <p className="solto">
+            Pode bloquear a tela ou trocar de app: o estúdio continua escrevendo e mostra tudo quando você voltar.
+            {pode && (aviso === "" || aviso === "pedindo") && (
+              <> <button className="sino" data-emo="avisar" onClick={ligarAvisos} disabled={aviso === "pedindo"}>{aviso === "pedindo" ? "pedindo permissão…" : "Avise-me quando terminar"}</button></>
+            )}
+            {aviso === "ligado" && <> <em>Vou avisar neste aparelho.</em></>}
+            {aviso === "negado" && <> <em>Sem permissão para notificar; o resultado fica guardado do mesmo jeito.</em></>}
+            {aviso === "falhou" && <> <em>Este navegador não aceitou as notificações{/iPhone|iPad/.test(navigator.userAgent) ? " (no iPhone, só com o estúdio instalado na tela de início)" : ""}; o resultado fica guardado do mesmo jeito.</em></>}
+          </p>
+        )}
+        <button className="lnk cancela" data-emo="voltar" onClick={cancelar}>{servidor ? "voltar ao início" : "cancelar"}</button>
       </div>
     </div>
   );
 }
 
 // ------------------------------------------------------------------ kit
-function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificacao | null; ctx: Contexto; voltar: () => void; outra: () => void }) {
+function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
+  kit: Dados; verif: Verificacao | null; ctx: Contexto; salvo: "" | "salvando" | "salvo" | "local";
+  mudar: (k: Dados) => void; voltar: () => void; outra: () => void;
+}) {
   const slides: Dados[] = kit.carrossel || [];
   const figs = slides.map((s, i) => ({ s, i })).filter((x) => x.s.tipo === "figura");
   const [aba, setAba] = useState<"etapas" | "gravar">("gravar");
@@ -212,6 +377,7 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
   const [feito, setFeito] = useState("");
   const [larg, setLarg] = useState(300);
   const [figLarg, setFigLarg] = useState(430);
+  const [tom, setTom] = useState<"claro" | "escuro">("claro");
   const r = kit.roteiro || {};
   const corrido = ETAPAS.map(([e]) => String(r[e] || "").trim()).filter(Boolean);
   const nome = `dia-${dois(kit.dia)}`;
@@ -224,16 +390,6 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
     medir(); addEventListener("resize", medir);
     return () => removeEventListener("resize", medir);
   }, []);
-  useEffect(() => {
-    if (lupa === null) return;
-    const tecla = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setLupa(null);
-      if (e.key === "ArrowRight") setLupa((x) => (x === null ? x : Math.min(slides.length - 1, x + 1)));
-      if (e.key === "ArrowLeft") setLupa((x) => (x === null ? x : Math.max(0, x - 1)));
-    };
-    addEventListener("keydown", tecla);
-    return () => removeEventListener("keydown", tecla);
-  }, [lupa, slides.length]);
 
   const marcar = (t: string) => { setFeito(t); setTimeout(() => setFeito(""), 1800); };
   const copiar = async (t: string, qual: string) => { await navigator.clipboard.writeText(t); marcar(qual); };
@@ -243,7 +399,8 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
       await new Promise((res) => setTimeout(res, 350));
     }
   };
-  const lupaLarg = typeof window !== "undefined" ? Math.min(innerWidth - 160, (innerHeight - 140) * 0.8, 720) : 600;
+  const mudarSlide = (i: number, s: Dados) => mudar({ ...kit, carrossel: slides.map((x, n) => (n === i ? s : x)) });
+  const editados = slides.filter((x) => x.ajustes && Object.keys(x.ajustes).length).length;
 
   return (
     <main className="kit">
@@ -253,7 +410,7 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
           <h2 dangerouslySetInnerHTML={{ __html: String(kit.tema || "").replace(/</g, "&lt;") }} />
           <p className="meta">
             capítulo {kit.fonte?.cap} · {kit.fonte?.figura} · Reels de {kit.duracao} s · CTA de {NIVEIS[kit.cta_nivel] || kit.cta_nivel}
-            {kit.gerado_em ? ` · gerado aqui${kit.modelo ? ` com ${String(kit.modelo).replace(/^(openrouter|anthropic):/, "").replace(/:free$/, "")}` : ""}` : ""}
+            {kit.gerado_em ? ` · escrito${kit.modelo ? ` por ${String(kit.modelo).replace(/^(openrouter|anthropic):/, "").replace(/:free$/, "")}` : ""}` : ""}
           </p>
           {verif && verif.erros.length > 0 && (
             <p className="nota-ver">O verificador ainda aponta: {verif.erros.slice(0, 3).join("; ")}{verif.erros.length > 3 ? "…" : ""}</p>
@@ -269,7 +426,10 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
       <section className="secao">
         <div className="cab">
           <h3>O carrossel</h3>
-          <div className="acoes"><button className="bt" data-emo="baixar" onClick={baixarTodos}>baixar os {slides.length} slides</button></div>
+          <div className="acoes">
+            <span className="rot salvo">{salvo === "salvando" ? "salvando…" : salvo === "salvo" ? "edição salva" : salvo === "local" ? "edição salva neste aparelho" : editados ? `${editados} slide${editados > 1 ? "s" : ""} editado${editados > 1 ? "s" : ""}` : "clique para ampliar e editar"}</span>
+            <button className="bt" data-emo="baixar" onClick={baixarTodos}>baixar os {slides.length} slides</button>
+          </div>
         </div>
         <div className="fita">
           {slides.map((s, i) => (
@@ -280,13 +440,20 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
 
       {figs.length > 0 && (
         <section className="secao">
-          <div className="cab"><h3>A figura, separada</h3></div>
+          <div className="cab"><h3>A figura, separada</h3><span className="rot">para o carrossel e para gravar o Reels</span></div>
           <div className="figs">
             {figs.map(({ s, i }) => (
               <div className="item" key={i}>
-                <Quadro s={{ ...s, solo: true }} i={i + 1} total={slides.length} ctx={ctx} largura={figLarg} emo="baixar"
-                  onClick={() => baixarSlide({ ...s, solo: true }, i + 1, slides.length, ctx, `${nome}-figura-${dois(i + 1)}.png`)} />
-                <span className="rot">{s.figura?.tipo} · clique para baixar</span>
+                <div className="par">
+                  <Quadro s={{ ...s, solo: true }} i={i + 1} total={slides.length} ctx={ctx} largura={figLarg} emo="baixar"
+                    onClick={() => baixarSlide({ ...s, solo: true }, i + 1, slides.length, ctx, `${nome}-figura-${dois(i + 1)}.png`)} />
+                  <Selfie s={s} ctx={ctx} largura={Math.round(figLarg * 0.42)} tom={tom}
+                    onClick={() => baixarReels(s, ctx, tom, `${nome}-figura-${dois(i + 1)}-reels-${tom}.png`)} />
+                </div>
+                <span className="rot">
+                  {s.figura?.tipo} · a figura: PNG · o celular: Reels 9:16, transparente ·{" "}
+                  <button className="tom" data-emo="cartão" onClick={() => setTom(tom === "claro" ? "escuro" : "claro")}>cartão {tom}</button>
+                </span>
               </div>
             ))}
           </div>
@@ -342,22 +509,23 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
       )}
 
       {lupa !== null && (
-        <div className="lupa" onClick={() => setLupa(null)}>
-          <div className="barra-l" onClick={(e) => e.stopPropagation()}>
-            <span className="rot">{dois(lupa + 1)} / {dois(slides.length)}</span>
-            <span style={{ display: "flex", gap: 28 }}>
-              <button className="bt" data-emo="baixar" onClick={() => baixarSlide(slides[lupa], lupa + 1, slides.length, ctx, `${nome}-slide-${dois(lupa + 1)}.png`)}>baixar este</button>
-              <button className="bt" data-emo="fechar" onClick={() => setLupa(null)}>fechar</button>
-            </span>
-          </div>
-          {lupa > 0 && <button className="nav e" data-emo="anterior" onClick={(e) => { e.stopPropagation(); setLupa(lupa - 1); }}>←</button>}
-          <div onClick={(e) => e.stopPropagation()}>
-            <Quadro key={lupa} s={slides[lupa]} i={lupa + 1} total={slides.length} ctx={ctx} largura={lupaLarg} emo="" />
-          </div>
-          {lupa < slides.length - 1 && <button className="nav d" data-emo="próximo" onClick={(e) => { e.stopPropagation(); setLupa(lupa + 1); }}>→</button>}
-        </div>
+        <Lupa slides={slides} indice={lupa} ctx={ctx} ir={setLupa} fechar={() => setLupa(null)} mudar={mudarSlide}
+          baixar={(i) => baixarSlide(slides[i], i + 1, slides.length, ctx, `${nome}-slide-${dois(i + 1)}.png`)} />
       )}
       {tele && <Teleprompter paragrafos={corrido} fechar={() => setTele(false)} />}
     </main>
+  );
+}
+
+// ------------------------------------------------------------------ figura para o Reels
+/* A prévia de como a figura fica no Reels gravado em modo selfie: o cartão no alto,
+   a cabeça de quem grava logo abaixo (só um contorno, para dar a escala). */
+function Selfie({ s, ctx, largura, tom, onClick }: { s: Dados; ctx: Contexto; largura: number; tom: "claro" | "escuro"; onClick: () => void }) {
+  const esc = largura / RL;
+  return (
+    <div className="selfie" style={{ width: largura, height: largura * (RA / RL) }} data-emo="baixar" onClick={onClick} role="button">
+      <span className="pessoa" aria-hidden />
+      <div className="esc" style={{ width: RL, height: RA, transform: `scale(${esc})` }} dangerouslySetInnerHTML={{ __html: reelsHTML(s, ctx, tom) }} />
+    </div>
   );
 }
