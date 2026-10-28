@@ -7,6 +7,7 @@
   python3 estudio/estudio.py render N         # lint + roteiro.md + legenda.md + slides PNG
   python3 estudio/estudio.py publicado N      # marca o dia N como publicado
   python3 estudio/estudio.py status           # panorama do banco
+  python3 estudio/estudio.py exportar         # atualiza os dados da plataforma /estudio (o render já faz isso)
 
 Requer: pip install pyyaml playwright
 """
@@ -27,7 +28,9 @@ KITS = AQUI / "kits"
 # Escolhida para contar uma história: por que o conhecimento não aparece, o que fazer, como sustentar.
 ORDEM = [(9, 0), (1, 0), (2, 0), (3, 0), (5, 0), (10, 0), (4, 1), (15, 1), (17, 0), (18, 0), (13, 1), (20, 1), (25, 1), (27, 0)]
 PRONTOS = {"camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro"}  # = FIGURAS_PRONTAS em src/estudio/slides.ts
-FORMAS_EXEMPLO = ["post", "antes_depois", "rascunho", "conversa"]                                       # = FORMAS_EXEMPLO em src/estudio/slides.ts
+FORMAS_EXEMPLO = ["post", "antes_depois", "rascunho", "conversa"]
+ORCAMENTO = {"hook": {45: (9, 12), 60: (10, 14)}, "lead": {45: (14, 20), 60: (16, 22)}, "body1": {45: (22, 28), 60: (26, 34)}, "loop1": {45: (8, 12), 60: (8, 14)}, "body2": {45: (18, 24), 60: (20, 28)}, "loop2": {45: (6, 10), 60: (6, 12)}, "body3": {45: (26, 34), 60: (36, 48)}, "cta": {45: (18, 24), 60: (30, 40)}}  # MANUAL, seção 2.1
+CAMPOS_FICHA = ["ideia", "conceito", "cena", "detalhe", "figura", "virada", "aplicacao", "exercicio"]                # MANUAL, seção 1                                       # = FORMAS_EXEMPLO em src/estudio/slides.ts
 ETAPAS = [("hook", "GANCHO (hook) · quebra o padrão de rolagem"), ("lead", "INTRODUÇÃO (lead) · segura a atenção até ~10 s"),
           ("body1", "DESENVOLVIMENTO 1 (body 1) · primeira informação de valor"), ("loop1", "GANCHO DE CURIOSIDADE 1 (open loop 1)"),
           ("body2", "DESENVOLVIMENTO 2 (body 2) · resolve o loop 1 e entrega mais"), ("loop2", "GANCHO DE CURIOSIDADE 2 (open loop 2)"),
@@ -178,6 +181,11 @@ def lint(dia, silencioso=False):
     intro = palavras(r.get("hook")) + palavras(r.get("lead"))
     if intro > LIMITE_INTRO:
         erros.append(f"hook + lead com {intro} palavras (máx. {LIMITE_INTRO}, ~{LIMITE_INTRO / PALAVRAS_POR_SEG:.0f} s): a introdução tem que terminar por volta dos 10 s")
+    for e, faixas in ORCAMENTO.items():
+        lo_e, hi_e = faixas.get(dur, faixas[60])
+        n_e = palavras(r.get(e))
+        if n_e and not lo_e <= n_e <= hi_e:
+            avisos.append(f"{e} com {n_e} palavras; o manual pede {lo_e}–{hi_e} para {dur} s")
     for e in ("loop1", "loop2"):
         if palavras(r.get(e)) > 30:
             avisos.append(f"{e} longo ({palavras(r.get(e))} palavras): a lacuna deve ser uma frase")
@@ -228,6 +236,10 @@ def lint(dia, silencioso=False):
         erros.append(f"legenda com {len(lg)} caracteres (350 a 2200)")
     if len(re.findall(r"#\w+", lg)) > 5:
         erros.append("legenda com mais de 5 hashtags")
+    ficha = k.get("ficha") or {}
+    for campo in CAMPOS_FICHA:
+        if not str(ficha.get(campo) or "").strip():
+            erros.append(f"ficha: campo '{campo}' vazio (MANUAL, seção 1)")
     if not k.get("fonte", {}).get("cap"):
         erros.append("kit sem 'fonte.cap' (de qual capítulo vem a ideia)")
     if not silencioso:
@@ -269,6 +281,7 @@ def render(dia):
     n = carrossel.renderizar(k["carrossel"], ctx, pasta / "slides")
     print(f"{pasta.relative_to(RAIZ)}: roteiro.md, legenda.md, {n} slides")
     bancar(dia, "pronto")
+    exportar()
 
 
 def bancar(dia, status):
@@ -280,6 +293,38 @@ def bancar(dia, status):
                 p["publicado_em"] = dt.date.today().isoformat()
     cab = "".join(l for l in BANCO.read_text().splitlines(True) if l.startswith("#"))
     BANCO.write_text(cab + yaml.safe_dump(b, allow_unicode=True, sort_keys=False, width=140))
+
+
+def exportar():
+    """Leva o estúdio para o app: src/estudio/dados/{publico,fontes}.json.
+    publico.json vai para o navegador (pautas e kits prontos); fontes.json só para o servidor (livro, playbook, regras)."""
+    import json
+    destino = RAIZ / "src" / "estudio" / "dados"
+    destino.mkdir(parents=True, exist_ok=True)
+    m = marca()
+    pautas = carregar_yaml(BANCO).get("pautas", [])
+    caps, figuras = {}, {}
+    for p in pautas:
+        txt = (TEXTO / f"cap{p['cap']:02d}.md").read_text()
+        fm = re.match(r"^---\n(.*?)\n---\n(.*)$", txt, re.S)
+        meta = yaml.safe_load(fm.group(1)) if fm else {}
+        p["capTitulo"] = meta.get("titulo", "")
+        caps[str(p["cap"])] = {"titulo": meta.get("titulo", ""), "subtitulo": meta.get("subtitulo", ""), "texto": fm.group(2) if fm else txt}
+        figuras[str(p["dia"])] = yaml_tolerante(re.findall(r"```figura\n(.*?)```", txt, re.S)[p["fig"]])
+    kits = {}
+    for kp in sorted(KITS.glob("dia-*/kit.yaml")):
+        k = carregar_yaml(kp)
+        kits[str(k["dia"])] = k
+    publico = {"marca": {"autor": m.get("autor"), "handle": m.get("handle"), "oferta": m.get("oferta"),
+                         "duracao": m.get("duracao_padrao_reels", 45)},
+               "pautas": pautas, "kits": kits}
+    fontes = {"playbook": (AQUI / "PLAYBOOK.md").read_text(), "manual": (AQUI / "MANUAL.md").read_text(),
+              "antivicios": carregar_yaml(RAIZ / "apostila" / "ORQUESTRADOR.yaml")["antivicios"]["proibidas"],
+              "cadencia": m.get("cadencia_cta"), "capitulos": caps, "figuras": figuras,
+              "exemploKit": kits.get("1")}
+    (destino / "publico.json").write_text(json.dumps(publico, ensure_ascii=False, indent=1))
+    (destino / "fontes.json").write_text(json.dumps(fontes, ensure_ascii=False))
+    print(f"src/estudio/dados: {len(pautas)} pautas, {len(kits)} kits, {len(caps)} capítulos")
 
 
 def status():
@@ -296,11 +341,12 @@ def status():
 if __name__ == "__main__":
     sys.path.insert(0, str(AQUI))
     a = sys.argv[1:]
-    if not a or a[0] not in ("indexar", "proximo", "lint", "render", "publicado", "status"):
+    if not a or a[0] not in ("indexar", "proximo", "lint", "render", "publicado", "status", "exportar"):
         sys.exit(__doc__)
     if a[0] == "indexar": indexar()
     elif a[0] == "proximo": proximo()
     elif a[0] == "status": status()
+    elif a[0] == "exportar": exportar()
     elif a[0] == "lint": lint(int(a[1]))
     elif a[0] == "render": render(int(a[1]))
     elif a[0] == "publicado": bancar(int(a[1]), "publicado"); print(f"dia {a[1]} marcado como publicado")

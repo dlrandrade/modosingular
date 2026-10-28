@@ -5,6 +5,16 @@ objetivo: ensinar
 duracao: 60
 cta_nivel: pratica
 
+ficha:
+  ideia: "Informação todo mundo tem; critério, só quem decidiu muitas vezes."
+  conceito: "Repertório: o que você sabe por ter visto muitas vezes, inclusive quando a regra falhou."
+  cena: "Uma fisioterapeuta lista tudo o que sabe sobre coluna; dias depois, conta um único paciente por quinze minutos."
+  detalhe: "Onze linhas que um aluno do quarto período escreveria; o paciente que só fazia mercado apoiado no carrinho."
+  figura: "Cinco camadas do saber; as duas de cima estão nos livros, as três de baixo só a prática dá; o destaque é o critério."
+  virada: "A camada que decide a escolha do cliente é a que quase ninguém publica: o critério."
+  aplicacao: "Professora de piano decide corrigir um erro numa aluna e não na outra; forma: post."
+  exercicio: "Escolha uma decisão difícil recente; anote a saída descartada; escreva o motivo em uma frase, sem identificar ninguém."
+
 # Reels: Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA
 roteiro:
   hook: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas."

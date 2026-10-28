@@ -82,5 +82,6 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|manifest.webmanifest|sw.js|icons/|.*\\.(?:svg|png|jpg|jpeg|webp|ico)$).*)"],
+  // /estudio e /api/estudio têm senha própria e não usam o Supabase: ficam fora do middleware.
+  matcher: ["/((?!_next/static|_next/image|favicon.ico|manifest.webmanifest|sw.js|icons/|estudio|api/estudio|.*\\.(?:svg|png|jpg|jpeg|webp|ico|woff2)$).*)"],
 };

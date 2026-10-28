@@ -1,13 +1,13 @@
 # Estúdio Singular — Playbook
 
-Este documento é a constituição do sistema. Quem produz o conteúdo do dia (você, o Claude, um assistente) lê isto primeiro e obedece a isto sempre. Ele funciona sozinho: serve como arquivo de conhecimento de um Projeto no Claude e como a base da skill `singular-diario`.
+Este documento é a constituição do sistema. Quem produz o conteúdo do dia (você, o Claude, um assistente) lê isto primeiro e obedece a isto sempre. O **MANUAL.md** é o par dele: diz como cada campo de cada peça é feito, com ficha, moldes, limites e fontes no livro. Os dois juntos servem como conhecimento de um Projeto no Claude, como base da skill `singular-diario` e como o prompt da plataforma `/estudio`.
 
 ## 1. O que é
 
 Um conhecimento do livro **Modo Singular** por dia, entregue em três peças que se explicam mutuamente:
 
 1. **Roteiro de Reels** para teleprompter, na estrutura de retenção progressiva (seção 3).
-2. **Carrossel** de 8 slides, com a figura do livro redesenhada para o celular como peça central (seção 4).
+2. **Carrossel** de 9 slides, com a figura do livro redesenhada para o celular como peça central e um slide que mostra a aplicação na prática (seção 4).
 3. **Legenda** do carrossel (seção 5).
 
 Um destino único: quem vê a peça quer **aplicar a singularidade à sua própria presença** e, na hora certa, conhecer o **Modo Singular** (seção 7).
@@ -60,7 +60,7 @@ Por que ela funciona, nas palavras da própria referência:
 
 **Entrega do roteiro** (feita pelo `estudio.py render`): primeiro, o roteiro dividido nas oito etapas; depois a **versão final para gravação**, em texto corrido, sem títulos nem marcações, pronta para o teleprompter.
 
-## 4. Carrossel (8 slides)
+## 4. Carrossel (9 slides)
 
 Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 
@@ -72,10 +72,13 @@ Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 | 4 | **Figura** | O elemento gráfico do livro, com título que diz a conclusão e legenda curta. É o centro da peça. |
 | 5 | **Leitura da figura** | Aplica a figura ao caso da cena (lista de 3 itens, no máximo). |
 | 6 | **A ideia do dia** | Uma frase só, fundo escuro. A que a pessoa vai citar. |
-| 7 | **Faça agora** | Exercício de 5 minutos, em passos. Vem do capítulo (oficina ou rede). |
-| 8 | **CTA** | Uma ação, mais a assinatura do Modo Singular. |
+| 7 | **Como ficaria** | A aplicação na prática, numa profissão diferente da cena, para quem lê pensar "entendi como fazer no meu". Muda de forma a cada dia: post, antes e depois, rascunho de caderno ou conversa (MANUAL, seção 6). |
+| 8 | **Faça agora** | Exercício de 5 minutos, em passos. Vem da oficina do capítulo. |
+| 9 | **CTA** | Uma ação, mais a assinatura do Modo Singular. |
 
-**A figura é sempre a que explica o que está sendo dito.** Os dados YAML vêm do bloco `figura` do capítulo; o `carrossel.py` redesenha para 1080×1350 (o desenho do livro foi feito para a coluna impressa e não sobrevive no celular). Tipos prontos: camadas, fluxo/passos, barras, balança, escada, funil, gap, quadrante, espectro. Faltam: linha, matriz, órbita, ficha, área (criar o template antes do dia chegar, ou escolher outra pauta).
+**A figura é sempre a que explica o que está sendo dito.** Os dados YAML vêm do bloco `figura` do capítulo e são redesenhados para 1080×1350 por `src/estudio/slides.ts`, o mesmo arquivo usado pela plataforma `/estudio` e pelo gerador de PNG (o desenho do livro foi feito para a coluna impressa e não sobrevive no celular). Tipos prontos: camadas, fluxo/passos, barras, balança, escada, funil, gap, quadrante, espectro. Faltam: linha, matriz, órbita, ficha, área (criar o desenho antes do dia chegar, ou escolher outra pauta).
+
+**Linguagem visual.** Casamento de fontes: os títulos na grotesca **Inter Tight** (da família da Inter do PWA), forte e apertada; o itálico dentro dos títulos e todo o texto de apoio, notas e rótulos na **EB Garamond**. As cores são as do Modo Singular: papel `#faf9f6`, tinta `#16181d`, ouro `#9a7328`; nos slides escuros, `#0b0c0f` com ouro fosco `#d8b26a`. Muito espaço, um itálico por slide, nada de enfeite: só o cerne.
 
 Figura com valores inventados leva o selo "esquema ilustrativo" (herdado do livro). Nunca se apresenta valor ilustrativo como dado.
 
@@ -144,14 +147,16 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 
 ## 10. Como o Claude trabalha com este playbook
 
-**No repositório (modo completo).** O Claude Code lê este playbook, roda `python3 estudio/estudio.py proximo`, lê o capítulo, escreve o kit em `estudio/kits/dia-NNN/kit.yaml`, roda `lint`, corrige e roda `render`. Saem o `roteiro.md`, a `legenda.md` e os slides em PNG. A skill `singular-diario` automatiza esse roteiro de trabalho.
+**Na plataforma (o jeito do dia a dia).** Em `modosingular.vercel.app/estudio`, com a senha, você pede o dia num campo ("dia 3", um tema, ou só enter para o próximo) ou clica no próximo. A plataforma escolhe a pauta, manda ao Claude o playbook, o manual, o capítulo e a figura, confere o resultado com o mesmo verificador e apresenta o carrossel, a figura separada, o roteiro (com teleprompter), a legenda e a ficha. Os PNGs baixam direto do navegador. Os dias gerados ali ficam guardados no navegador; para versionar um deles no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
+
+**No repositório (modo completo).** O Claude Code lê este playbook e o manual, roda `python3 estudio/estudio.py proximo`, lê o capítulo, preenche a ficha, escreve o kit em `estudio/kits/dia-NNN/kit.yaml`, roda `lint`, corrige e roda `render`. Saem o `roteiro.md`, a `legenda.md`, os slides e as figuras em PNG, e os dados da plataforma são atualizados. A skill `singular-diario` automatiza esse roteiro de trabalho.
 
 **Num Projeto do Claude (modo texto, pelo celular).** Suba este arquivo e o texto dos capítulos como conhecimento do projeto. Para pedir o dia, use este prompt:
 
 ```
-Siga o PLAYBOOK. Pauta do dia: capítulo [N], figura "[TÍTULO DA FIGURA]".
+Siga o PLAYBOOK e o MANUAL. Pauta do dia: capítulo [N], figura "[TÍTULO DA FIGURA]".
 Duração do Reels: [45 | 60] s. Degrau do CTA: [prática | conversa | convite].
-Entregue: (1) roteiro nas 8 etapas e a versão final para gravação; (2) o carrossel de 8 slides,
+Comece pela ficha (MANUAL, seção 1). Entregue: (1) roteiro nas 8 etapas e a versão final para gravação; (2) o carrossel de 9 slides,
 slide a slide, com o YAML da figura; (3) a legenda. Rode o checklist da seção 9 e diga o que reprovou.
 ```
 
@@ -160,5 +165,6 @@ Nesse modo não há renderizador: o carrossel sai como texto e você monta as im
 ## 11. Decisões em aberto (preencher em `marca.yaml`)
 
 - `handle`: o @ do perfil, que aparece no rodapé dos slides.
-- `oferta.acao_metodo`: o que de fato existe quando o CTA de método aparece (lista de espera? página? mensagem?).
+- `oferta.acao_metodo`: o que de fato existe quando o CTA de convite aparece (lista de espera? página? mensagem?).
+- Na Vercel: `ANTHROPIC_API_KEY` (para a plataforma gerar dias novos) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`.
 - Quando a oferta abrir: mudar `oferta.estado` para `aberto` e ajustar a ação.

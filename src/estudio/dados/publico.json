@@ -1,0 +1,658 @@
+{
+ "marca": {
+  "autor": "Daniel Luzz",
+  "handle": "@DanielLuzz",
+  "oferta": {
+   "nome": "Modo Singular",
+   "livro": "Modo Singular",
+   "estado": "em_breve",
+   "acao_metodo": "Link na bio para a lista de espera",
+   "promessa_curta": "trinta capítulos para descobrir o que só você diz"
+  },
+  "duracao": 45
+ },
+ "pautas": [
+  {
+   "dia": 1,
+   "cap": 9,
+   "fig": 0,
+   "tipo": "camadas",
+   "titulo": "Do que todos encontram ao que só você tem",
+   "template": true,
+   "status": "pronto",
+   "capTitulo": "O seu repertório"
+  },
+  {
+   "dia": 2,
+   "cap": 1,
+   "fig": 0,
+   "tipo": "gap",
+   "titulo": "A distância que não aparece na agenda",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A assimetria de autoridade"
+  },
+  {
+   "dia": 3,
+   "cap": 2,
+   "fig": 0,
+   "tipo": "balanca",
+   "titulo": "O que pesa de verdade na decisão",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O silêncio também comunica"
+  },
+  {
+   "dia": 4,
+   "cap": 3,
+   "fig": 0,
+   "tipo": "camadas",
+   "titulo": "Sem pensamento na base, nada se sustenta em cima",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Conteúdo cinematográfico não é autoridade"
+  },
+  {
+   "dia": 5,
+   "cap": 5,
+   "fig": 0,
+   "tipo": "barras",
+   "titulo": "O formato errado cobra antes de você começar",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Constância não é disciplina"
+  },
+  {
+   "dia": 6,
+   "cap": 10,
+   "fig": 0,
+   "tipo": "quadrante",
+   "titulo": "Onde mora a sua opinião",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "As suas opiniões não negociáveis"
+  },
+  {
+   "dia": 7,
+   "cap": 4,
+   "fig": 1,
+   "tipo": "fluxo",
+   "titulo": "A terceirização na ordem certa",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A terceirização da voz"
+  },
+  {
+   "dia": 8,
+   "cap": 15,
+   "fig": 1,
+   "tipo": "escada",
+   "titulo": "Os quatro tempos do caso-prova",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O caso como prova"
+  },
+  {
+   "dia": 9,
+   "cap": 17,
+   "fig": 0,
+   "tipo": "balanca",
+   "titulo": "A indignação começa a peça; o repertório a sustenta",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O contraponto"
+  },
+  {
+   "dia": 10,
+   "cap": 18,
+   "fig": 0,
+   "tipo": "funil",
+   "titulo": "O que acontece quando o critério é público",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O critério como conteúdo"
+  },
+  {
+   "dia": 11,
+   "cap": 13,
+   "fig": 1,
+   "tipo": "fluxo",
+   "titulo": "Da sala para a peça, em quatro passos",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O gesto da tradução"
+  },
+  {
+   "dia": 12,
+   "cap": 20,
+   "fig": 1,
+   "tipo": "camadas",
+   "titulo": "A ordem em que o sistema cresce",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O formato mínimo viável"
+  },
+  {
+   "dia": 13,
+   "cap": 25,
+   "fig": 1,
+   "tipo": "funil",
+   "titulo": "O que a biblioteca faz enquanto você trabalha",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Presença como patrimônio"
+  },
+  {
+   "dia": 14,
+   "cap": 27,
+   "fig": 0,
+   "tipo": "escada",
+   "titulo": "Os cinco degraus da distância",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Da audiência ao cliente"
+  },
+  {
+   "dia": 15,
+   "cap": 1,
+   "fig": 1,
+   "tipo": "fluxo",
+   "titulo": "O que muda quando a distância diminui",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A assimetria de autoridade"
+  },
+  {
+   "dia": 16,
+   "cap": 3,
+   "fig": 1,
+   "tipo": "espectro",
+   "titulo": "Ter o que dizer rende mais do que qualquer edição",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Conteúdo cinematográfico não é autoridade"
+  },
+  {
+   "dia": 17,
+   "cap": 4,
+   "fig": 0,
+   "tipo": "gap",
+   "titulo": "O que sobrevive à terceirização prematura",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A terceirização da voz"
+  },
+  {
+   "dia": 18,
+   "cap": 5,
+   "fig": 1,
+   "tipo": "linha",
+   "titulo": "Por que a sequência quebra num dia comum",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Constância não é disciplina"
+  },
+  {
+   "dia": 19,
+   "cap": 5,
+   "fig": 2,
+   "tipo": "fluxo",
+   "titulo": "Primeiro o encaixe, depois a constância",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Constância não é disciplina"
+  },
+  {
+   "dia": 20,
+   "cap": 6,
+   "fig": 0,
+   "tipo": "orbita",
+   "titulo": "A rotina como fonte permanente",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Tudo pode ser conteúdo"
+  },
+  {
+   "dia": 21,
+   "cap": 6,
+   "fig": 1,
+   "tipo": "area",
+   "titulo": "O que vinte segundos por dia acumulam",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Tudo pode ser conteúdo"
+  },
+  {
+   "dia": 22,
+   "cap": 7,
+   "fig": 0,
+   "tipo": "matriz",
+   "titulo": "Afinidade entre modo e formato",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Os quatro modos de pensar"
+  },
+  {
+   "dia": 23,
+   "cap": 8,
+   "fig": 0,
+   "tipo": "linha",
+   "titulo": "Quem continua passa quem começou forte",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "O seu ritmo real"
+  },
+  {
+   "dia": 24,
+   "cap": 8,
+   "fig": 1,
+   "tipo": "espectro",
+   "titulo": "Abaixo do piso, nenhuma duração compensa",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O seu ritmo real"
+  },
+  {
+   "dia": 25,
+   "cap": 11,
+   "fig": 0,
+   "tipo": "ficha",
+   "titulo": "A ficha de léxico do Caio",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "As palavras que são suas"
+  },
+  {
+   "dia": 26,
+   "cap": 12,
+   "fig": 0,
+   "tipo": "orbita",
+   "titulo": "Nenhuma parte sozinha faz a sua linguagem",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "A sua linguagem criativa"
+  },
+  {
+   "dia": 27,
+   "cap": 13,
+   "fig": 0,
+   "tipo": "barras",
+   "titulo": "O custo de uma peça, conforme a origem",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O gesto da tradução"
+  },
+  {
+   "dia": 28,
+   "cap": 14,
+   "fig": 0,
+   "tipo": "gap",
+   "titulo": "A mesma resposta, avaliada por quem a dá e por quem a ouve",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A pergunta recorrente"
+  },
+  {
+   "dia": 29,
+   "cap": 14,
+   "fig": 1,
+   "tipo": "linha",
+   "titulo": "Quanto dura um inventário de perguntas",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "A pergunta recorrente"
+  },
+  {
+   "dia": 30,
+   "cap": 15,
+   "fig": 0,
+   "tipo": "quadrante",
+   "titulo": "Qual caso escolher",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O caso como prova"
+  },
+  {
+   "dia": 31,
+   "cap": 16,
+   "fig": 0,
+   "tipo": "fluxo",
+   "titulo": "Como uma explicação amadurece sem você notar",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A explicação que você repete há anos"
+  },
+  {
+   "dia": 32,
+   "cap": 16,
+   "fig": 1,
+   "tipo": "barras",
+   "titulo": "Em vinte anos, a explicação ficou seis vezes menor",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "A explicação que você repete há anos"
+  },
+  {
+   "dia": 33,
+   "cap": 17,
+   "fig": 1,
+   "tipo": "escada",
+   "titulo": "Quanto mais alto o degrau, mais o contraponto fala de você",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O contraponto"
+  },
+  {
+   "dia": 34,
+   "cap": 19,
+   "fig": 0,
+   "tipo": "fluxo",
+   "titulo": "Três momentos, três custos",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O caderno de campo"
+  },
+  {
+   "dia": 35,
+   "cap": 19,
+   "fig": 1,
+   "tipo": "barras",
+   "titulo": "De onde vieram as capturas de agosto da Renata",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O caderno de campo"
+  },
+  {
+   "dia": 36,
+   "cap": 20,
+   "fig": 0,
+   "tipo": "barras",
+   "titulo": "O que cada formato custava ao Caio",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O formato mínimo viável"
+  },
+  {
+   "dia": 37,
+   "cap": 21,
+   "fig": 0,
+   "tipo": "barras",
+   "titulo": "O que cada desenho pedia ao Otávio, por semana",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "O ritual incorporado"
+  },
+  {
+   "dia": 38,
+   "cap": 22,
+   "fig": 0,
+   "tipo": "camadas",
+   "titulo": "O que levar de uma peça que você admira",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Referência sem cópia"
+  },
+  {
+   "dia": 39,
+   "cap": 23,
+   "fig": 0,
+   "tipo": "fluxo",
+   "titulo": "O caminho de uma peça, com o rosto preservado",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Escala sem descaracterização"
+  },
+  {
+   "dia": 40,
+   "cap": 23,
+   "fig": 1,
+   "tipo": "linha",
+   "titulo": "Com a voz preservada, o volume não apaga a diferença",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Escala sem descaracterização"
+  },
+  {
+   "dia": 41,
+   "cap": 24,
+   "fig": 0,
+   "tipo": "barras",
+   "titulo": "Cada linha nova no manual encurtou a revisão",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Quando e como delegar"
+  },
+  {
+   "dia": 42,
+   "cap": 25,
+   "fig": 0,
+   "tipo": "linha",
+   "titulo": "O que cada peça mostra e o que o conjunto faz",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Presença como patrimônio"
+  },
+  {
+   "dia": 43,
+   "cap": 26,
+   "fig": 0,
+   "tipo": "funil",
+   "titulo": "Do desconhecido ao cliente, sem perder o rosto",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Boca de funil com rosto"
+  },
+  {
+   "dia": 44,
+   "cap": 26,
+   "fig": 1,
+   "tipo": "barras",
+   "titulo": "As últimas dez peças da Renata, por camada",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Boca de funil com rosto"
+  },
+  {
+   "dia": 45,
+   "cap": 28,
+   "fig": 0,
+   "tipo": "camadas",
+   "titulo": "O painel mensal, com a base no que importa",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "As métricas que importam"
+  },
+  {
+   "dia": 46,
+   "cap": 28,
+   "fig": 1,
+   "tipo": "espectro",
+   "titulo": "Com que frequência olhar os números",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "As métricas que importam"
+  },
+  {
+   "dia": 47,
+   "cap": 29,
+   "fig": 0,
+   "tipo": "linha",
+   "titulo": "O vale entre o esforço e o retorno",
+   "template": false,
+   "status": "pendente",
+   "capTitulo": "Sustentar por doze meses"
+  },
+  {
+   "dia": 48,
+   "cap": 29,
+   "fig": 1,
+   "tipo": "fluxo",
+   "titulo": "As quatro linhas de um mês difícil",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Sustentar por doze meses"
+  },
+  {
+   "dia": 49,
+   "cap": 30,
+   "fig": 0,
+   "tipo": "espectro",
+   "titulo": "Onde você estava, e onde está",
+   "template": true,
+   "status": "pendente",
+   "capTitulo": "Ocupar o território"
+  }
+ ],
+ "kits": {
+  "1": {
+   "dia": 1,
+   "fonte": {
+    "cap": 9,
+    "figura": "Do que todos encontram ao que só você tem (camadas)"
+   },
+   "tema": "Informação todo mundo tem; critério, só quem decidiu muitas vezes",
+   "objetivo": "ensinar",
+   "duracao": 60,
+   "cta_nivel": "pratica",
+   "ficha": {
+    "ideia": "Informação todo mundo tem; critério, só quem decidiu muitas vezes.",
+    "conceito": "Repertório: o que você sabe por ter visto muitas vezes, inclusive quando a regra falhou.",
+    "cena": "Uma fisioterapeuta lista tudo o que sabe sobre coluna; dias depois, conta um único paciente por quinze minutos.",
+    "detalhe": "Onze linhas que um aluno do quarto período escreveria; o paciente que só fazia mercado apoiado no carrinho.",
+    "figura": "Cinco camadas do saber; as duas de cima estão nos livros, as três de baixo só a prática dá; o destaque é o critério.",
+    "virada": "A camada que decide a escolha do cliente é a que quase ninguém publica: o critério.",
+    "aplicacao": "Professora de piano decide corrigir um erro numa aluna e não na outra; forma: post.",
+    "exercicio": "Escolha uma decisão difícil recente; anote a saída descartada; escreva o motivo em uma frase, sem identificar ninguém."
+   },
+   "roteiro": {
+    "hook": "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas.",
+    "lead": "Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente.",
+    "body1": "A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório.",
+    "loop1": "Ele tem três camadas. A mais valiosa quase ninguém publica.",
+    "body2": "Primeiro, o padrão: o que costuma acontecer, e em que ordem. Depois, a exceção: quando a regra falha, e por quais sinais.",
+    "loop2": "A terceira decide quem o paciente escolhe.",
+    "body3": "O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes.",
+    "cta": "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve."
+   },
+   "carrossel": [
+    {
+     "tipo": "capa",
+     "titulo": "Onze linhas sobre coluna. Um aluno escreveria as *mesmas*.",
+     "sub": "A diferença entre estudar e ter repertório."
+    },
+    {
+     "tipo": "texto",
+     "rotulo": "A cena",
+     "medio": true,
+     "fala": "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Releu e sentiu *vergonha*: estava tudo certo, e nada ali era dela.",
+     "tag": "Cena do livro Modo Singular. A fisioterapeuta é uma personagem composta."
+    },
+    {
+     "tipo": "texto",
+     "rotulo": "Dois dias depois",
+     "fala": "Ao telefone, falou quinze minutos sobre *um único paciente*.",
+     "apoio": "A irmã: “Isso aí não estava na sua lista.”"
+    },
+    {
+     "tipo": "figura",
+     "titulo": "O que você sabe vem em *cinco camadas*",
+     "figura": {
+      "tipo": "camadas",
+      "camadas": [
+       {
+        "rotulo": "Informação",
+        "nota": "O que a sua área sabe. Está nos livros e numa busca rápida."
+       },
+       {
+        "rotulo": "Aplicação",
+        "nota": "Como se faz na prática. Está nos cursos e nos protocolos."
+       },
+       {
+        "rotulo": "Padrão",
+        "nota": "O que costuma acontecer, e em que ordem. Só o volume ensina."
+       },
+       {
+        "rotulo": "Exceção",
+        "nota": "Quando a regra falha, e por quais sinais. Só os casos difíceis ensinam."
+       },
+       {
+        "rotulo": "Critério",
+        "nota": "Como você decide entre duas saídas defensáveis. É o que há de mais seu."
+       }
+      ],
+      "divisao": 2,
+      "grupos": [
+       "Nos livros e nos cursos",
+       "O que só a prática dá"
+      ]
+     },
+     "legenda": "As duas de cima são iguais em todo mundo que estudou. A diferença entre especialistas está nas três de baixo."
+    },
+    {
+     "tipo": "lista",
+     "rotulo": "As três de baixo, na cena",
+     "fala": "O que a lista *não tinha*",
+     "itens": [
+      {
+       "rotulo": "Padrão",
+       "texto": "Pacientes assim quase nunca falam do carrinho quando ela pergunta pela dor. Falam quando ela pergunta como é fazer mercado."
+      },
+      {
+       "rotulo": "Exceção",
+       "texto": "Diagnóstico de hérnia, com uma dor que contava outra história."
+      },
+      {
+       "rotulo": "Critério",
+       "texto": "O detalhe do supermercado valeu mais do que o laudo, e ela pediu uma segunda olhada."
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "fundo": "escuro",
+     "grande": true,
+     "fala": "Informação todo mundo tem. *Critério*, só quem decidiu muitas vezes."
+    },
+    {
+     "tipo": "exemplo",
+     "forma": "post",
+     "titulo": "O critério, *escrito*",
+     "quem": "Uma professora de piano, contando uma decisão da semana.",
+     "perfil": "Professora de piano",
+     "texto": "Duas alunas de oito anos, o mesmo erro na mão esquerda. Para uma, corrigi na hora. Para a outra, deixei passar por um mês.\n\nO que decidiu foi a pergunta que faço sempre aos pais: *ela ainda pede para tocar em casa?*\n\nTécnica se corrige em qualquer mês. O gosto de tocar, quando vai embora, não volta com exercício.\n",
+     "nota": "Exemplo ilustrativo: a decisão, a saída descartada e o motivo, em três parágrafos curtos."
+    },
+    {
+     "tipo": "figura",
+     "rotulo": "Agora, o seu",
+     "titulo": "Faça em *cinco minutos*",
+     "figura": {
+      "tipo": "passos",
+      "nos": [
+       {
+        "rotulo": "Escolha uma decisão difícil recente",
+        "nota": "Na sua área, dos últimos meses."
+       },
+       {
+        "rotulo": "Anote a saída que você descartou",
+        "nota": "A outra opção que também era defensável."
+       },
+       {
+        "rotulo": "Escreva o motivo, em uma frase",
+        "nota": "Sem nome e sem nenhum dado que identifique alguém."
+       }
+      ]
+     },
+     "legenda": "Esse motivo é o primeiro rascunho do seu critério."
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Você já tem um *critério*. Falta escrevê-lo.",
+     "apoio": "Esse exercício é o capítulo 9 do Modo Singular: trinta capítulos para descobrir o que só você diz.",
+     "acao": "Salve para fazer hoje à noite"
+    }
+   ],
+   "legenda": "Informação, todo mundo da sua área tem. O que você decide diante de um caso difícil, não.\n\nNa cena do livro Modo Singular, uma fisioterapeuta tenta listar tudo o que sabe sobre coluna e escreve onze linhas que qualquer estudante escreveria. Dois dias depois, ao telefone, ela conta um único paciente por quinze minutos, e a irmã avisa: isso não estava na sua lista.\n\nA lista tinha informação. A conversa tinha repertório: o padrão que só o volume de casos ensina, a exceção que o manual não traz e o critério para decidir entre duas saídas corretas.\n\nÉ o critério que faz um paciente, um cliente ou um aluno escolher você. E quase nunca ele aparece nos posts, porque parece óbvio demais para merecer um texto.\n\nPara fazer hoje à noite, em cinco minutos: escolha uma decisão difícil que você tomou na sua área, anote a saída que descartou e escreva o motivo em uma frase. Sem nomes e sem nenhum dado que identifique alguém. Esse motivo é o primeiro rascunho do seu critério.\n\nSalve este carrossel para não perder o exercício.\n\nO exercício é o capítulo 9 do Modo Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.\n\n#posicionamento #autoridade #especialistas\n"
+  }
+ }
+}
