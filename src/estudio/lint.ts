@@ -58,6 +58,7 @@ const JARGAO_AVISO: [RegExp, string][] = [
   [/(?<!\p{L})pautas?(?!\p{L})/iu, "assunto"],
   [/(?<!\p{L})o método(?!\p{L})/iu, "(nada; ou o que ele faz, em palavras comuns)"],
   [/(?<!\p{L})teses?(?!\p{L})/iu, "o que você defende"],
+  [/(?<!\p{L})gap(?!\p{L})/iu, "a distância"],
 ];
 const LIVRO = /(?<!\p{L})(?:Modo Singular|(?:n|d)?o livro(?! d[eoa]\s)|(?:d|n)?este livro|(?:d|n)?esse livro)(?!\p{L})/iu;
 

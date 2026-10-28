@@ -17,6 +17,10 @@ export type Publico = { marca: Dados; pautas: Pauta[]; kits: Record<string, Dado
 type Verificacao = { erros: string[]; avisos: string[]; palavras: number; segundos: number };
 
 const GUARDA = "estudio-kits-v1";
+// Objetos fixos para o dangerouslySetInnerHTML: o React 19 reescreve o HTML sempre que o objeto muda,
+// e reescrever o <style> das fontes a cada tecla fazia a tela piscar (as fontes eram recarregadas).
+const ESTILO_SLIDES = { __html: css("/estudio/fontes") };
+const MARCA_BARRA = { __html: marca(22) };
 const FRASES = [
   "lendo o capítulo devagar",
   "procurando o detalhe que só o livro tem",
@@ -262,10 +266,10 @@ export default function Estudio({ publico, pedidoInicial = "", tarefaInicial = "
 
   return (
     <div className="est">
-      <style dangerouslySetInnerHTML={{ __html: css("/estudio/fontes") }} />
+      <style dangerouslySetInnerHTML={ESTILO_SLIDES} />
       <header className="barra">
         <button className="marca" data-emo="início" onClick={() => setModo("inicio")}>
-          <span dangerouslySetInnerHTML={{ __html: marca(22) }} />
+          <span dangerouslySetInnerHTML={MARCA_BARRA} />
           <span className="rot">Modo Singular · Estúdio</span>
         </button>
         <div className="dir">
@@ -407,7 +411,7 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
       <div className="kit-cab">
         <div>
           <div className="num">Dia {dois(kit.dia)}</div>
-          <h2 dangerouslySetInnerHTML={{ __html: String(kit.tema || "").replace(/</g, "&lt;") }} />
+          <h2>{String(kit.tema || "")}</h2>
           <p className="meta">
             capítulo {kit.fonte?.cap} · {kit.fonte?.figura} · Reels de {kit.duracao} s · CTA de {NIVEIS[kit.cta_nivel] || kit.cta_nivel}
             {kit.gerado_em ? ` · escrito${kit.modelo ? ` por ${String(kit.modelo).replace(/^(openrouter|anthropic):/, "").replace(/:free$/, "")}` : ""}` : ""}
@@ -523,10 +527,12 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
    a cabeça de quem grava logo abaixo (só um contorno, para dar a escala). */
 function Selfie({ s, ctx, largura, tom, onClick }: { s: Dados; ctx: Contexto; largura: number; tom: "claro" | "escuro"; onClick: () => void }) {
   const esc = largura / RL;
+  const html = reelsHTML(s, ctx, tom);
+  const conteudo = useMemo(() => ({ __html: html }), [html]);
   return (
     <div className="selfie" style={{ width: largura, height: largura * (RA / RL) }} data-emo="baixar" onClick={onClick} role="button">
       <span className="pessoa" aria-hidden />
-      <div className="esc" style={{ width: RL, height: RA, transform: `scale(${esc})` }} dangerouslySetInnerHTML={{ __html: reelsHTML(s, ctx, tom) }} />
+      <div className="esc" style={{ width: RL, height: RA, transform: `scale(${esc})` }} dangerouslySetInnerHTML={conteudo} />
     </div>
   );
 }

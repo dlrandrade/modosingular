@@ -154,7 +154,8 @@ JARGAO_AVISO = [(re.compile(r"\bpeças?\b", re.I), "post, vídeo ou carrossel (s
                 (re.compile(r"\boficinas?\b", re.I), "exercício"),
                 (re.compile(r"\bpautas?\b", re.I), "assunto"),
                 (re.compile(r"\bo método\b", re.I), "(nada; ou o que ele faz, em palavras comuns)"),
-                (re.compile(r"\bteses?\b", re.I), "o que você defende")]
+                (re.compile(r"\bteses?\b", re.I), "o que você defende"),
+                (re.compile(r"\bgap\b", re.I), "a distância")]
 LIVRO = re.compile(r"\b(Modo Singular|(n|d)?o livro(?! d[eoa]\s)|(d|n)?este livro|(d|n)?esse livro)\b", re.I)
 
 

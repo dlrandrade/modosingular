@@ -5,6 +5,8 @@ import { marca } from "@/estudio/slides";
 import Cursor from "./Cursor";
 import Titulo from "./Titulo";
 
+const MARCA_ENTRADA = { __html: marca(30) };
+
 export default function Entrar() {
   const router = useRouter();
   const [senha, setSenha] = useState("");
@@ -26,7 +28,7 @@ export default function Entrar() {
     <div className="est">
       <main className="portal">
         <div className="caixa">
-          <div style={{ display: "flex", justifyContent: "center", color: "var(--t3)" }} dangerouslySetInnerHTML={{ __html: marca(30) }} />
+          <div style={{ display: "flex", justifyContent: "center", color: "var(--t3)" }} dangerouslySetInnerHTML={MARCA_ENTRADA} />
           <p className="rot" style={{ marginTop: 22 }}>Modo Singular</p>
           <Titulo partes={[{ t: "Estúdio", it: true }]} pesoItalico={420} />
           <p className="sub">Um conhecimento do livro por dia.</p>
