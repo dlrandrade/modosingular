@@ -1,6 +1,6 @@
 ---
 name: singular-diario
-description: Produz o conteúdo do dia do Modo Singular a partir de uma figura do livro: roteiro de Reels para teleprompter (HOOK, LEAD, BODY 1, OPEN LOOP 1, BODY 2, OPEN LOOP 2, BODY 3, CTA), carrossel de 8 slides com a figura redesenhada e legenda, com CTA que leva ao Método Singular. Use quando o usuário pedir "o post de hoje", "o conteúdo do dia", "o próximo dia do estúdio", "roteiro e carrossel" do Singular, ou citar um dia/capítulo/figura do livro para virar peça.
+description: Produz o conteúdo do dia do Modo Singular a partir de uma figura do livro: roteiro de Reels para teleprompter (HOOK, LEAD, BODY 1, OPEN LOOP 1, BODY 2, OPEN LOOP 2, BODY 3, CTA), carrossel de 8 slides com a figura redesenhada e legenda, com CTA que leva ao Modo Singular. Use quando o usuário pedir "o post de hoje", "o conteúdo do dia", "o próximo dia do estúdio", "roteiro e carrossel" do Singular, ou citar um dia/capítulo/figura do livro para virar peça.
 ---
 
 # Singular diário
@@ -31,11 +31,11 @@ Os dados de marca e oferta estão em `estudio/marca.yaml`.
 
 ## Regras que não se negociam
 
-- Estrutura de Reels fixa; loops legítimos, resolvidos no mesmo vídeo.
+- Estrutura de Reels fixa (Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA); a introdução termina por volta dos 10 s (hook + lead ≤ 34 palavras, o `lint` barra); loops legítimos, resolvidos no mesmo vídeo.
 - Nenhum "não é X, é Y", nenhum "Você sabia?", nenhuma exclamação (o `lint` barra).
 - Personagens do livro (Renata, Otávio, Lúcia, Caio) são compostos: nunca "um cliente meu", e sempre identificáveis como personagem do livro.
 - O "eu" de Daniel Luzz opina; não inventa episódio de vida.
 - Nenhum número inventado como dado; nenhuma promessa de resultado.
-- CTA: uma ação por peça; Método Singular como continuação natural do exercício, nunca urgência falsa.
+- CTA: uma ação por peça; Modo Singular como continuação natural do exercício, nunca urgência falsa.
 - O PWA (`src/`) e o texto do livro (`apostila/texto/`) não se alteram a partir daqui. Se achar erro no livro, anote e avise o usuário.
 - O que `estudio/marca.yaml` traz como pendente (handle, ação do método) não se inventa: pergunte ao usuário.

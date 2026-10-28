@@ -10,6 +10,6 @@ Para fazer hoje à noite, em cinco minutos: escolha uma decisão difícil que vo
 
 Salve este carrossel para não perder o exercício.
 
-O exercício é o capítulo 9 do Método Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
+O exercício é o capítulo 9 do Modo Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
 
 #posicionamento #autoridade #especialistas

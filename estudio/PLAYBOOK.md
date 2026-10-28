@@ -10,9 +10,9 @@ Um conhecimento do livro **Modo Singular** por dia, entregue em três peças que
 2. **Carrossel** de 8 slides, com a figura do livro redesenhada para o celular como peça central (seção 4).
 3. **Legenda** do carrossel (seção 5).
 
-Um destino único: quem vê a peça quer **aplicar a singularidade à sua própria presença** e, na hora certa, conhecer o **Método Singular** (seção 7).
+Um destino único: quem vê a peça quer **aplicar a singularidade à sua própria presença** e, na hora certa, conhecer o **Modo Singular** (seção 7).
 
-Nomes: *Modo Singular* é o livro/apostila; *Método Singular* é o programa que se vende. Quem lê as peças precisa ver essa distinção sem esforço: o livro é a fonte, o método é o caminho.
+Nome: tudo se chama **Modo Singular**: o livro, a apostila e o que se oferece. Nas peças, "o livro" é a fonte da cena e da figura; "o Modo Singular" é o caminho completo, os trinta capítulos. Nunca "Método Singular".
 
 ## 2. A pauta do dia
 
@@ -26,14 +26,21 @@ Fonte única: o capítulo em `apostila/texto/capNN.md`. Não se inventa conteúd
 
 ## 3. Roteiro de Reels
 
-Estrutura obrigatória: **HOOK → LEAD → BODY 1 → OPEN LOOP 1 → BODY 2 → OPEN LOOP 2 → BODY 3 → CTA.**
+Estrutura obrigatória: **Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA** (em inglês de roteirista: HOOK → LEAD → BODY 1 → OPEN LOOP 1 → BODY 2 → OPEN LOOP 2 → BODY 3 → CTA).
+
+Por que ela funciona, nas palavras da própria referência:
+- o gancho quebra o padrão e faz a pessoa parar de rolar;
+- a introdução mantém a atenção até a marca dos **10 segundos**: quem chega até ali tem menos chance de abandonar;
+- o primeiro desenvolvimento entrega a primeira informação de valor;
+- o gancho de curiosidade ("Mas essa nem é a parte mais impressionante…") obriga a continuar, e a sequência entrega-valor-e-abre-curiosidade se repete mais uma vez;
+- o CTA recompensa a atenção e conduz ao próximo passo do funil.
 
 | Etapa | Função | Regra prática |
 |---|---|---|
-| HOOK | Quebrar o padrão de rolagem | 1 a 3 segundos, até 22 palavras. Cena, número ou afirmação específica. Nada de cumprimento, apresentação, nem "Você sabia?". |
-| LEAD | Sustentar até ~12 s | Mostra por que vale ficar. Cria expectativa. Não entrega a resposta. |
+| HOOK (gancho) | Quebrar o padrão de rolagem | A primeira frase cai em ~3 segundos; no máximo 14 palavras. Cena, número ou afirmação específica. Nada de cumprimento, apresentação, nem "Você sabia?". |
+| LEAD (introdução) | Segurar a atenção até ~10 s | Hook + lead somam no máximo 34 palavras. Mostra por que vale ficar, cria expectativa, não entrega a resposta. |
 | BODY 1 | Primeira entrega de valor | Algo que a pessoa já sai sabendo. Específico, direto. |
-| OPEN LOOP 1 | Primeira lacuna | Uma frase. Nasce do que acabou de ser dito; promete algo que será resolvido. |
+| OPEN LOOP 1 (gancho de curiosidade) | Primeira lacuna | Uma frase. Nasce do que acabou de ser dito; promete algo que será resolvido. |
 | BODY 2 | Segunda entrega | Resolve o loop 1. Acrescenta informação nova, não reformula a anterior. |
 | OPEN LOOP 2 | Segunda lacuna | Uma frase. Contraste, consequência inesperada ou parte ainda não revelada. |
 | BODY 3 | Entrega final | Resolve o loop 2. A parte mais aplicável. Termina numa frase que a pessoa repete. Nenhuma promessa fica sem resposta. |
@@ -66,7 +73,7 @@ Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 | 5 | **Leitura da figura** | Aplica a figura ao caso da cena (lista de 3 itens, no máximo). |
 | 6 | **A ideia do dia** | Uma frase só, fundo escuro. A que a pessoa vai citar. |
 | 7 | **Faça agora** | Exercício de 5 minutos, em passos. Vem do capítulo (oficina ou rede). |
-| 8 | **CTA** | Uma ação, mais a assinatura do Método Singular. |
+| 8 | **CTA** | Uma ação, mais a assinatura do Modo Singular. |
 
 **A figura é sempre a que explica o que está sendo dito.** Os dados YAML vêm do bloco `figura` do capítulo; o `carrossel.py` redesenha para 1080×1350 (o desenho do livro foi feito para a coluna impressa e não sobrevive no celular). Tipos prontos: camadas, fluxo/passos, barras, balança, escada, funil, gap, quadrante, espectro. Faltam: linha, matriz, órbita, ficha, área (criar o template antes do dia chegar, ou escolher outra pauta).
 
@@ -80,7 +87,7 @@ Estrutura, de 600 a 1.400 caracteres (limite duro: 2.200):
 2. **A cena** do livro em duas ou três frases.
 3. **A explicação**: o que a cena mostra, em linguagem de colega para colega.
 4. **O exercício**, em uma frase corrida e concreta.
-5. **O CTA** (uma ação) e, por último, a linha de procedência: de qual capítulo do Método Singular vem a ideia e que a personagem é composta.
+5. **O CTA** (uma ação) e, por último, a linha de procedência: de qual capítulo do Modo Singular vem a ideia e que a personagem é composta.
 6. Até 5 hashtags, no fim. Pode não ter nenhuma.
 
 ## 6. Voz
@@ -93,11 +100,11 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 - Sem anglicismo desnecessário, sem gerundismo, sem "jornada".
 - Segunda pessoa ("você"). O "eu" é para opinião, nunca para fabricar biografia.
 
-## 7. CTA: levar ao Método sem vender barato
+## 7. CTA: levar ao Modo Singular sem vender barato
 
-**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Método Singular entra como a continuação natural dele ("esse exercício é o capítulo 9 do Método Singular"), nunca como a razão pela qual a peça existe.
+**Princípio.** O CTA é a consequência do que foi dito, não um anúncio colado no fim. A pessoa acabou de aprender algo e de sentir que podia aplicar. O CTA a ajuda a dar o próximo passo, e o próximo passo mais honesto é *fazer o exercício*. O Modo Singular entra como a continuação natural dele ("esse exercício é o capítulo 9 do Modo Singular"), nunca como a razão pela qual a peça existe.
 
-**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura do Método ("Método Singular, em breve") não conta como pedido.
+**Uma ação por peça.** O Reels e o carrossel de um mesmo dia podem pedir ações diferentes, mas cada um pede uma só. A assinatura ("Modo Singular, em breve") não conta como pedido.
 
 **Escada de três degraus**, em cadência semanal (configurável em `marca.yaml`):
 
@@ -105,11 +112,11 @@ A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um col
 |---|---|---|---|
 | **Prática** | Fazer o exercício, no papel, sem postar nada | 4 dos 7 dias | "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo." |
 | **Conversa** | Responder com uma palavra ou uma frase curta | 2 dos 7 dias | "Comente a camada em que a sua semana mais se concentra: informação, padrão, exceção ou critério." |
-| **Método** | Conhecer o Método Singular | 1 dia (o 7º) | "Isso é o capítulo 9 do Método Singular. Quem quiser ser avisado quando abrir, o link está na bio." |
+| **Convite** | Conhecer o Modo Singular | 1 dia (o 7º) | "Isso é o capítulo 9 do Modo Singular. Quem quiser ser avisado quando abrir, o link está na bio." |
 
-**O que o CTA de método nunca faz:** urgência falsa, escassez inventada, "últimas vagas", promessa de resultado, comparação com quem "ainda está perdido", "você está deixando dinheiro na mesa". O argumento é só este: *você acabou de fazer, em cinco minutos, o começo do que o Método faz em trinta dias.*
+**O que o CTA de convite nunca faz:** urgência falsa, escassez inventada, "últimas vagas", promessa de resultado, comparação com quem "ainda está perdido", "você está deixando dinheiro na mesa". O argumento é só este: *você acabou de fazer, em cinco minutos, o começo do que o Modo Singular faz em trinta capítulos.*
 
-**Enquanto o método estiver "em breve"** (`marca.yaml › oferta.estado`), o degrau Método convida à lista de espera, e as peças dos outros dias terminam com a assinatura. Quando abrir, troque o estado e a ação; os kits antigos não precisam mudar.
+**Enquanto o método estiver "em breve"** (`marca.yaml › oferta.estado`), o degrau Convite leva à lista de espera, e as peças dos outros dias terminam com a assinatura. Quando abrir, troque o estado e a ação; os kits antigos não precisam mudar.
 
 ## 8. Honestidade e proteção
 
@@ -121,7 +128,7 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 4. **Nenhuma promessa de resultado.** Nada de "mais clientes", "viralizar", "faturar". O que se promete é clareza e método.
 5. **Sigilo.** Os exercícios que pedem casos reais mandam omitir nome e dado que identifique. Profissões regulamentadas (saúde, direito, psicologia) têm código de publicidade: não se estimula o público a expor atendimento.
 6. **O dossiê não é citado.** Ele não existe no repositório; não se inventam falas dele.
-7. **Cada peça cita a origem** (capítulo do Método Singular) em algum ponto visível.
+7. **Cada peça cita a origem** (capítulo do Modo Singular) em algum ponto visível.
 
 ## 9. Checklist antes de publicar
 
@@ -143,7 +150,7 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 
 ```
 Siga o PLAYBOOK. Pauta do dia: capítulo [N], figura "[TÍTULO DA FIGURA]".
-Duração do Reels: [45 | 60] s. Degrau do CTA: [prática | conversa | método].
+Duração do Reels: [45 | 60] s. Degrau do CTA: [prática | conversa | convite].
 Entregue: (1) roteiro nas 8 etapas e a versão final para gravação; (2) o carrossel de 8 slides,
 slide a slide, com o YAML da figura; (3) a legenda. Rode o checklist da seção 9 e diga o que reprovou.
 ```

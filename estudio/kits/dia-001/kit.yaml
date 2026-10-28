@@ -7,14 +7,14 @@ cta_nivel: pratica
 
 # Reels: HOOK → LEAD → BODY 1 → OPEN LOOP 1 → BODY 2 → OPEN LOOP 2 → BODY 3 → CTA
 roteiro:
-  hook: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas. Um aluno do quarto período escreveria as mesmas."
-  lead: "Estava tudo certo, e nada ali era dela. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente."
+  hook: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas."
+  lead: "Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente."
   body1: "A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório."
   loop1: "Ele tem três camadas. A mais valiosa quase ninguém publica."
   body2: "Primeiro, o padrão: o que costuma acontecer, e em que ordem. Depois, a exceção: quando a regra falha, e por quais sinais."
   loop2: "A terceira decide quem o paciente escolhe."
   body3: "O critério: como você decide entre duas saídas corretas. Ela notou que o paciente só fazia mercado apoiado no carrinho, e isso pesou mais do que o laudo. Informação todo mundo tem. Critério, só quem decidiu muitas vezes."
-  cta: "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Método Singular, que chega em breve."
+  cta: "Antes de dormir, escreva a última decisão difícil que você tomou na sua área, e o motivo. Esse motivo é o começo do seu critério. O exercício está no capítulo 9 do Modo Singular, que chega em breve."
 
 carrossel:
   - tipo: capa
@@ -66,7 +66,7 @@ carrossel:
   - tipo: cta
     rotulo: "Do livro para a sua rotina"
     titulo: "Você já tem um **critério**. Falta escrevê-lo."
-    apoio: "Esse exercício é o capítulo 9 do Método Singular: trinta capítulos para descobrir o que só você diz."
+    apoio: "Esse exercício é o capítulo 9 do Modo Singular: trinta capítulos para descobrir o que só você diz."
     acao: "Salve para fazer hoje à noite"
 
 legenda: |
@@ -82,6 +82,6 @@ legenda: |
 
   Salve este carrossel para não perder o exercício.
 
-  O exercício é o capítulo 9 do Método Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
+  O exercício é o capítulo 9 do Modo Singular, que chega em breve. A fisioterapeuta da cena é uma personagem composta; o caderno dela deve se parecer com o seu.
 
   #posicionamento #autoridade #especialistas

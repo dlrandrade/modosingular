@@ -27,9 +27,12 @@ KITS = AQUI / "kits"
 # Escolhida para contar uma história: por que o conhecimento não aparece, o que fazer, como sustentar.
 ORDEM = [(9, 0), (1, 0), (2, 0), (3, 0), (5, 0), (10, 0), (4, 1), (15, 1), (17, 0), (18, 0), (13, 1), (20, 1), (25, 1), (27, 0)]
 PRONTOS = {"camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro"}
-ETAPAS = [("hook", "HOOK · quebra de padrão"), ("lead", "LEAD · sustenta a atenção"), ("body1", "BODY 1 · primeira entrega"),
-          ("loop1", "OPEN LOOP 1 · primeira lacuna"), ("body2", "BODY 2 · segunda entrega"), ("loop2", "OPEN LOOP 2 · segunda lacuna"),
-          ("body3", "BODY 3 · entrega final"), ("cta", "CTA · próximo passo")]
+ETAPAS = [("hook", "GANCHO (hook) · quebra o padrão de rolagem"), ("lead", "INTRODUÇÃO (lead) · segura a atenção até ~10 s"),
+          ("body1", "DESENVOLVIMENTO 1 (body 1) · primeira informação de valor"), ("loop1", "GANCHO DE CURIOSIDADE 1 (open loop 1)"),
+          ("body2", "DESENVOLVIMENTO 2 (body 2) · resolve o loop 1 e entrega mais"), ("loop2", "GANCHO DE CURIOSIDADE 2 (open loop 2)"),
+          ("body3", "DESENVOLVIMENTO 3 (body 3) · resolve o loop 2 e conclui"), ("cta", "CTA · recompensa a atenção e conduz ao próximo passo")]
+LIMITE_HOOK = 14          # palavras: a primeira frase tem que cair em ~3 s
+LIMITE_INTRO = 34         # palavras de hook + lead: ~11 s a 3 palavras/s. A introdução termina por volta dos 10 s
 FAIXAS = {30: (80, 100), 45: (118, 142), 60: (158, 192)}   # palavras faladas por duração (~3 palavras/s, ritmo de teleprompter)
 PALAVRAS_POR_SEG = 3.0
 
@@ -101,7 +104,7 @@ def pauta(dia):
 def nivel_cta(dia):
     c = marca()["cadencia_cta"]
     d = (dia - 1) % 7 + 1
-    return next((k for k in ("pratica", "conversa", "metodo") if d in c[k]), "pratica")
+    return next((k for k in ("pratica", "conversa", "convite") if d in c[k]), "pratica")
 
 
 def proximo():
@@ -169,8 +172,11 @@ def lint(dia, silencioso=False):
     lo, hi = FAIXAS.get(dur, (100, 150))
     if not lo <= total <= hi:
         erros.append(f"roteiro tem {total} palavras (~{total / PALAVRAS_POR_SEG:.0f} s); para {dur} s o alvo é {lo}–{hi}")
-    if palavras(r.get("hook")) > 22:
-        erros.append(f"hook com {palavras(r.get('hook'))} palavras (máx. 22): o gancho vive nos 3 primeiros segundos")
+    if palavras(r.get("hook")) > LIMITE_HOOK:
+        erros.append(f"hook com {palavras(r.get('hook'))} palavras (máx. {LIMITE_HOOK}): o gancho vive nos primeiros segundos")
+    intro = palavras(r.get("hook")) + palavras(r.get("lead"))
+    if intro > LIMITE_INTRO:
+        erros.append(f"hook + lead com {intro} palavras (máx. {LIMITE_INTRO}, ~{LIMITE_INTRO / PALAVRAS_POR_SEG:.0f} s): a introdução tem que terminar por volta dos 10 s")
     for e in ("loop1", "loop2"):
         if palavras(r.get(e)) > 30:
             avisos.append(f"{e} longo ({palavras(r.get(e))} palavras): a lacuna deve ser uma frase")

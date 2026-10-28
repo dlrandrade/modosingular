@@ -307,7 +307,7 @@ FIGURAS = {"camadas": f_camadas, "fluxo": f_fluxo, "passos": f_fluxo, "barras": 
 
 # ------------------------------------------------------------------ slides
 def rodape(i, total, escuro, handle):
-    handle = handle if len((handle or '').strip()) > 1 else 'Método Singular'
+    handle = handle if len((handle or '').strip()) > 1 else 'Modo Singular'
     return f'<div class="rodape"><span>{esc(handle)}</span><span>{i}/{total}</span></div>'
 
 
@@ -343,7 +343,8 @@ def slide_html(s, i, total, ctx):
         pil = f'<div class="pilula">{esc(s["acao"])}</div>' if s.get("acao") else ""
         return (f'<div class="s escuro cta centro"><div class="rot" style="margin-bottom:34px">{esc(s.get("rotulo", ""))}</div><h2>{md(s["titulo"])}</h2>'
                 f'<p class="apoio">{md(s.get("apoio", ""))}</p>{pil}'
-                f'<div class="assina">{marca_svg(tam=64)}<span>{esc(ctx.get("assinatura", "Método Singular"))}</span></div></div>')
+                f'<div class="assina">{marca_svg(tam=64)}<span>{esc(ctx.get("assinatura", "Modo Singular"))}</span></div>'
+                f'<p class="tag" style="color:#cfc7b6;margin-top:22px">{esc(handle) if len((handle or "").strip()) > 1 else ""}</p></div>')
     raise SystemExit(f"tipo de slide desconhecido: {t}")
 
 
