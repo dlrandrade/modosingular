@@ -147,7 +147,7 @@ Estas regras valem mais do que o gancho. Se a peça ficar melhor quebrando uma d
 
 ## 10. Como o Claude trabalha com este playbook
 
-**Na plataforma (o jeito do dia a dia).** Em `modosingular.vercel.app/estudio`, com a senha, você pede o dia num campo ("dia 3", um tema, ou só enter para o próximo) ou clica no próximo. A plataforma escolhe a pauta, manda ao Claude o playbook, o manual, o capítulo e a figura, confere o resultado com o mesmo verificador e apresenta o carrossel, a figura separada, o roteiro (com teleprompter), a legenda e a ficha. Os PNGs baixam direto do navegador. Os dias gerados ali ficam guardados no navegador; para versionar um deles no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
+**Na plataforma (o jeito do dia a dia).** Em `modosingular.vercel.app/estudio`, com a senha, você pede o dia num campo ("dia 3", um tema, ou só enter para o próximo) ou clica no próximo. A plataforma escolhe a pauta, manda ao modelo de IA o playbook, o manual, o capítulo e a figura, confere o resultado com o mesmo verificador e apresenta o carrossel, a figura separada, o roteiro (com teleprompter), a legenda e a ficha. Os PNGs baixam direto do navegador. Os dias gerados ali ficam guardados no navegador; para versionar um deles no repositório, baixe o kit (.json) e peça ao Claude Code para incorporá-lo.
 
 **No repositório (modo completo).** O Claude Code lê este playbook e o manual, roda `python3 estudio/estudio.py proximo`, lê o capítulo, preenche a ficha, escreve o kit em `estudio/kits/dia-NNN/kit.yaml`, roda `lint`, corrige e roda `render`. Saem o `roteiro.md`, a `legenda.md`, os slides e as figuras em PNG, e os dados da plataforma são atualizados. A skill `singular-diario` automatiza esse roteiro de trabalho.
 
@@ -166,5 +166,7 @@ Nesse modo não há renderizador: o carrossel sai como texto e você monta as im
 
 - `handle`: o @ do perfil, que aparece no rodapé dos slides.
 - `oferta.acao_metodo`: o que de fato existe quando o CTA de convite aparece (lista de espera? página? mensagem?).
-- Na Vercel: `ANTHROPIC_API_KEY` (para a plataforma gerar dias novos) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`.
+- Na Vercel: `OPENROUTER_API_KEY` (prioritária: a plataforma gera com modelos gratuitos do OpenRouter), `ANTHROPIC_API_KEY` (opcional: o Claude entra como último recurso da cadeia) e, se quiser trocar a senha padrão, `ESTUDIO_SENHA`.
+- A ordem dos modelos está em `src/estudio/openrouter.ts` (`MODELOS_GRATUITOS`) e pode ser trocada sem código pela variável `ESTUDIO_MODELOS` (ex.: `openrouter:qwen/qwen3.8-27b:free,openrouter:openrouter/free,anthropic:claude-opus-5-5`). Os gratuitos do OpenRouter mudam com frequência; um ID que sai do catálogo é pulado automaticamente.
+- Privacidade: vários provedores gratuitos podem usar o que recebem para treinar modelos, e cada pedido leva o texto de um capítulo do livro. Se isso importa, mantenha nas configurações de privacidade do OpenRouter só provedores que não treinam com os dados, ou ponha o Claude primeiro em `ESTUDIO_MODELOS`.
 - Quando a oferta abrir: mudar `oferta.estado` para `aberto` e ajustar a ação.

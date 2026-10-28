@@ -19,8 +19,8 @@ export async function POST(req: Request) {
   if (!cookieValido((await cookies()).get(COOKIE)?.value)) {
     return Response.json({ erro: "Entre com a senha." }, { status: 401 });
   }
-  if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
-    return Response.json({ erro: "Falta configurar ANTHROPIC_API_KEY na Vercel para gerar dias novos." }, { status: 503 });
+  if (!process.env.OPENROUTER_API_KEY && !process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+    return Response.json({ erro: "Falta configurar OPENROUTER_API_KEY na Vercel (ou ANTHROPIC_API_KEY) para gerar dias novos." }, { status: 503 });
   }
   const corpo = (await req.json().catch(() => ({}))) as { pedido?: string; feitos?: number[] };
   const pedido = String(corpo.pedido || "").slice(0, 600);

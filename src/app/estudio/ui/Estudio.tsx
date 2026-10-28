@@ -253,7 +253,7 @@ function Kit({ kit, verif, ctx, voltar, outra }: { kit: Dados; verif: Verificaca
           <h2 dangerouslySetInnerHTML={{ __html: String(kit.tema || "").replace(/</g, "&lt;") }} />
           <p className="meta">
             capítulo {kit.fonte?.cap} · {kit.fonte?.figura} · Reels de {kit.duracao} s · CTA de {NIVEIS[kit.cta_nivel] || kit.cta_nivel}
-            {kit.gerado_em ? " · gerado aqui" : ""}
+            {kit.gerado_em ? ` · gerado aqui${kit.modelo ? ` com ${String(kit.modelo).replace(/^(openrouter|anthropic):/, "").replace(/:free$/, "")}` : ""}` : ""}
           </p>
           {verif && verif.erros.length > 0 && (
             <p className="nota-ver">O verificador ainda aponta: {verif.erros.slice(0, 3).join("; ")}{verif.erros.length > 3 ? "…" : ""}</p>

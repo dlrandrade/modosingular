@@ -2,6 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import fontes from "./dados/fontes.json";
 import publico from "./dados/publico.json";
 import { verificar, type Resultado } from "./lint";
+import { cadeia, chamarOpenRouter, type Elo, type MensagemTexto } from "./openrouter";
 import { FIGURAS_PRONTAS, FORMAS_EXEMPLO, type Dados } from "./slides";
 
 /* ---------------------------------------------------------------
@@ -12,11 +13,14 @@ import { FIGURAS_PRONTAS, FORMAS_EXEMPLO, type Dados } from "./slides";
      estável e vai com cache: só o capítulo e o pedido mudam.
    - O slide da figura principal volta com "figura": "LIVRO" e o
      servidor injeta os dados exatos do bloco ```figura do livro.
-   - O verificador roda no resultado; se reprovar, o modelo recebe
+   - O verificador roda no resultado; se reprovar, o mesmo modelo recebe
      a lista de erros uma vez e devolve o kit corrigido.
+   - Provedores em cadeia (src/estudio/openrouter.ts): primeiro os
+     modelos gratuitos do OpenRouter, depois o Claude, se houver chave.
+     Um modelo que falha (fora do ar, limite, 404, JSON quebrado) passa
+     a vez ao próximo.
 --------------------------------------------------------------- */
 
-export const MODELO = "claude-opus-5-5";
 
 type Pauta = { dia: number; cap: number; fig: number; tipo: string; titulo: string; template: boolean; capTitulo: string };
 
@@ -150,17 +154,18 @@ function mensagemUsuario(pauta: Pauta, tema: string): string {
 }
 
 function extrairJSON(texto: string): Dados {
+  texto = texto.replace(/<think>[\s\S]*?<\/think>/g, "");
   const cerca = texto.match(/```json\s*([\s\S]*?)```/);
   const bruto = cerca ? cerca[1] : texto.slice(texto.indexOf("{"), texto.lastIndexOf("}") + 1);
   return JSON.parse(bruto);
 }
 
-function completar(k: Dados, pauta: Pauta): Dados {
+function completar(k: Dados, pauta: Pauta, elo: Elo): Dados {
   const fig = F.figuras[String(pauta.dia)];
   for (const s of k.carrossel || []) {
     if (s.tipo === "figura" && (s.figura === "LIVRO" || s.figura == null)) s.figura = fig;
   }
-  return { ...k, dia: pauta.dia, fonte: { cap: pauta.cap, figura: `${pauta.titulo} (${pauta.tipo})` }, gerado_em: new Date().toISOString(), modelo: MODELO };
+  return { ...k, dia: pauta.dia, fonte: { cap: pauta.cap, figura: `${pauta.titulo} (${pauta.tipo})` }, gerado_em: new Date().toISOString(), modelo: `${elo.provedor}:${elo.modelo}` };
 }
 
 export type Eventos = {
@@ -168,9 +173,9 @@ export type Eventos = {
   progresso: (caracteres: number) => void;
 };
 
-async function chamar(client: Anthropic, messages: Anthropic.Beta.Messages.BetaMessageParam[], effort: "medium" | "high", ev: Eventos) {
+async function chamar(client: Anthropic, modelo: string, messages: Anthropic.Beta.Messages.BetaMessageParam[], effort: "medium" | "high", ev: Eventos) {
   const stream = client.beta.messages.stream({
-    model: MODELO,
+    model: modelo,
     max_tokens: 32000,
     betas: ["server-side-fallback-2026-07-01"],
     fallbacks: "default",
@@ -193,23 +198,63 @@ async function chamar(client: Anthropic, messages: Anthropic.Beta.Messages.BetaM
   return { final, texto };
 }
 
-export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): Promise<{ kit: Dados; verificacao: Resultado }> {
-  const client = new Anthropic();
-  const { pauta, tema } = escolherPauta(pedido, feitos);
-  ev.fase(`Dia ${String(pauta.dia).padStart(2, "0")} · capítulo ${pauta.cap} · ${pauta.titulo}`);
-  const primeira: Anthropic.Beta.Messages.BetaMessageParam = { role: "user", content: mensagemUsuario(pauta, tema) };
-  const r1 = await chamar(client, [primeira], "high", ev);
-  let kit = completar(extrairJSON(r1.texto), pauta);
-  let v = verificar(kit, F.antivicios);
-  if (v.erros.length) {
-    ev.fase("revisando a voz");
-    const r2 = await chamar(client, [
-      primeira,
-      { role: "assistant", content: r1.final.content as Anthropic.Beta.Messages.BetaContentBlockParam[] },
-      { role: "user", content: `O verificador reprovou o kit por estes motivos:\n- ${v.erros.join("\n- ")}\n\nDevolva o kit inteiro corrigido, no mesmo formato, mudando só o necessário.` },
-    ], "medium", ev);
-    kit = completar(extrairJSON(r2.texto), pauta);
-    v = verificar(kit, F.antivicios);
+type Resposta = { texto: string; final?: Anthropic.Beta.Messages.BetaMessage };
+
+const ORCAMENTO_MS = 270_000; // a função da Vercel vai até 300 s
+
+async function pedir(elo: Elo, usuario: string, anterior: Resposta | null, correcao: string | null, limiteMs: number, ev: Eventos): Promise<Resposta> {
+  if (elo.provedor === "openrouter") {
+    const msgs: MensagemTexto[] = [{ role: "system", content: SISTEMA }, { role: "user", content: usuario }];
+    if (anterior && correcao) msgs.push({ role: "assistant", content: anterior.texto }, { role: "user", content: correcao });
+    return { texto: await chamarOpenRouter(elo.modelo, msgs, ev.progresso, limiteMs) };
   }
-  return { kit, verificacao: v };
+  const client = new Anthropic({ timeout: limiteMs, maxRetries: 0 });
+  const messages: Anthropic.Beta.Messages.BetaMessageParam[] = [{ role: "user", content: usuario }];
+  if (anterior?.final && correcao) {
+    messages.push({ role: "assistant", content: anterior.final.content as Anthropic.Beta.Messages.BetaContentBlockParam[] }, { role: "user", content: correcao });
+  }
+  return chamar(client, elo.modelo, messages, anterior ? "medium" : "high", ev);
+}
+
+const nomeCurto = (elo: Elo) => elo.modelo.replace(/:free$/, "").split("/").pop() || elo.modelo;
+
+export async function gerarKit(pedido: string, feitos: number[], ev: Eventos): Promise<{ kit: Dados; verificacao: Resultado }> {
+  const elos = cadeia();
+  if (!elos.length) throw new Error("Falta configurar OPENROUTER_API_KEY (ou ANTHROPIC_API_KEY) na Vercel para gerar dias novos.");
+  const { pauta, tema } = escolherPauta(pedido, feitos);
+  const rotulo = `Dia ${String(pauta.dia).padStart(2, "0")} · capítulo ${pauta.cap} · ${pauta.titulo}`;
+  const usuario = mensagemUsuario(pauta, tema);
+  const inicio = Date.now();
+  const falhas: string[] = [];
+
+  for (const elo of elos) {
+    const resta = ORCAMENTO_MS - (Date.now() - inicio);
+    if (resta < 35_000) break;
+    ev.fase(`${rotulo} · ${nomeCurto(elo)}`);
+    let r1: Resposta, kit: Dados;
+    try {
+      r1 = await pedir(elo, usuario, null, null, Math.min(resta, 170_000), ev);
+      kit = completar(extrairJSON(r1.texto), pauta, elo);
+    } catch (e) {
+      falhas.push(`${nomeCurto(elo)}: ${(e as Error).message}`);
+      ev.fase(`${nomeCurto(elo)} não respondeu; tentando o próximo`);
+      continue;
+    }
+    let v = verificar(kit, F.antivicios);
+    const sobra = ORCAMENTO_MS - (Date.now() - inicio);
+    if (v.erros.length && sobra > 45_000) {
+      ev.fase(`${rotulo} · revisando a voz`);
+      try {
+        const correcao = `O verificador reprovou o kit por estes motivos:\n- ${v.erros.join("\n- ")}\n\nDevolva o kit inteiro corrigido, no mesmo formato, mudando só o necessário.`;
+        const r2 = await pedir(elo, usuario, r1, correcao, Math.min(sobra - 10_000, 150_000), ev);
+        const kit2 = completar(extrairJSON(r2.texto), pauta, elo);
+        const v2 = verificar(kit2, F.antivicios);
+        if (v2.erros.length <= v.erros.length) { kit = kit2; v = v2; }
+      } catch {
+        /* a correção falhou: fica a primeira versão, com os erros apontados na tela */
+      }
+    }
+    return { kit, verificacao: v };
+  }
+  throw new Error(`Nenhum modelo conseguiu escrever agora. ${falhas.slice(-3).join(" · ") || "Sem tempo para tentar outro."}`);
 }
