@@ -76,6 +76,9 @@ export function css(fontBase = "/estudio/fontes"): string {
   background: var(--papel); color: var(--tinta); font-family: var(--serif); font-weight: 400;
   font-feature-settings: "kern", "liga"; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; }
 .sl * { box-sizing: border-box; margin: 0; padding: 0; }
+/* nenhuma palavra sai da própria caixa (último recurso; as colunas abaixo já crescem para caber) */
+.sl, .sl * { overflow-wrap: break-word; }
+.sl :where(div, p, span, h1, h2) { min-width: 0; }
 .sl.escuro { --papel:#0b0c0f; --tinta:#eceef3; --t2:#a8afbd; --t3:#6b7383; --fio:#262b36; --acento:#d8b26a; --acento-bg:#3a3222; --cartao:#15181f; }
 /* fundos da marca, escolhidos pela função do slide (MANUAL, seção 3) */
 .sl.f-areia { --papel:#f2f0ea; --fio:#dcd7cb; --cartao:#ffffff; }
@@ -115,8 +118,9 @@ export function css(fontBase = "/estudio/fontes"): string {
 .sl .rot + .fala { margin-top: 36px; }
 
 /* lista */
-.sl .itens { margin-top: 56px; }
-.sl .item { display: grid; grid-template-columns: 240px 1fr; gap: 30px; border-top: 1.5px solid var(--fio); padding: 30px 0 32px; }
+.sl .itens { margin-top: 56px; display: grid; grid-template-columns: fit-content(400px) 1fr; column-gap: 36px; }
+.sl .item { grid-column: 1 / -1; display: grid; grid-template-columns: subgrid; border-top: 1.5px solid var(--fio); padding: 30px 0 32px; }
+.sl .item .k { min-width: 200px; }
 .sl .item .k { font-family: var(--sans); font-weight: 650; letter-spacing: -.02em; font-size: 38px; line-height: 1.05; color: var(--acento); }
 .sl .item .v { font-size: 34px; line-height: 1.34; color: var(--t2); }
 
@@ -144,7 +148,10 @@ export function css(fontBase = "/estudio/fontes"): string {
 .sl .grp { font-family: var(--sans); font-size: 17px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--t3); margin: 30px 0 4px; display: flex; gap: 18px; align-items: center; }
 .sl .grp::after { content: ""; flex: 1; border-top: 1.5px dashed var(--fio); }
 .sl .grp:first-child { margin-top: 0; }
-.sl .cam { display: grid; grid-template-columns: 290px 1fr; gap: 28px; align-items: baseline; padding: 21px 0; border-bottom: 1.5px solid var(--fio); }
+.sl .cams { display: grid; grid-template-columns: fit-content(420px) 1fr; column-gap: 34px; }
+.sl .cams > .grp { grid-column: 1 / -1; }
+.sl .cam { grid-column: 1 / -1; display: grid; grid-template-columns: subgrid; align-items: baseline; padding: 21px 0; border-bottom: 1.5px solid var(--fio); }
+.sl .cam .r { min-width: 220px; }
 .sl .cam .r { font-size: 38px; line-height: 1.04; }
 .sl .cam .n { font-size: 29px; line-height: 1.3; color: var(--t2); }
 .sl .cam.dest { border-bottom: 3px solid var(--acento); }
@@ -187,16 +194,17 @@ export function css(fontBase = "/estudio/fontes"): string {
 .sl .fun.dest { border-bottom: 3px solid var(--acento); }
 .sl .fun.dest .r { color: var(--acento); }
 
+.sl .gapl + .gapl { margin-top: 58px; }
 .sl .gapl .r { font-size: 38px; line-height: 1.1; }
 .sl .gapl .tri { height: 14px; margin: 18px 0 12px; border-bottom: 1.5px solid var(--fio); position: relative; }
 .sl .gapl .pr { position: absolute; left: 0; bottom: -1.5px; height: 14px; background: var(--acento); }
 .sl .gapl.b .pr { background: var(--t3); }
 .sl .gapl .n { font-size: 29px; line-height: 1.32; color: var(--t2); font-style: italic; }
-.sl .dist { position: relative; height: 120px; margin: 22px 0 30px; }
-.sl .dist .lin { position: absolute; top: 30px; border-top: 1.5px solid var(--acento); }
-.sl .dist .lin::before, .sl .dist .lin::after { content: ""; position: absolute; top: -14px; height: 28px; border-left: 1.5px solid var(--acento); }
-.sl .dist .lin::before { left: 0; } .sl .dist .lin::after { right: 0; }
-.sl .dist .tx { position: absolute; top: 56px; transform: translateX(-50%); font-size: 38px; font-style: italic; color: var(--acento); white-space: nowrap; }
+/* o que falta: o mesmo comprimento da diferença, colado no fim da barra menor */
+.sl .gapl .falta { position: absolute; bottom: -1.5px; height: 14px; border: 1.5px dashed var(--acento); border-left: 0;
+  background: repeating-linear-gradient(-45deg, transparent 0 7px, color-mix(in srgb, var(--acento) 34%, transparent) 7px 9px); }
+.sl .gapl .dist { position: relative; height: 52px; margin: -2px 0 6px; }
+.sl .gapl .dist .tx { position: absolute; top: 0; transform: translateX(-50%); font-size: 36px; line-height: 1.1; font-style: italic; color: var(--acento); white-space: nowrap; }
 
 .sl .qd { position: relative; width: 856px; height: 560px; border-left: 1.5px solid var(--tinta); border-bottom: 1.5px solid var(--tinta); }
 .sl .qd .meio-x { position: absolute; left: 50%; top: 0; bottom: 0; border-left: 1.5px dashed var(--fio); }
@@ -319,7 +327,7 @@ function camadas(d: Dados): string {
     if (div && i === div && grupos[1]) out += `<div class="grp">${E(grupos[1])}</div>`;
     out += `<div class="cam${i === dest ? " dest" : ""}"><div class="r">${F(c.rotulo)}</div><div class="n">${F(c.nota)}</div></div>`;
   });
-  return out;
+  return `<div class="cams">${out}</div>`;
 }
 
 function fluxo(d: Dados): string {
@@ -369,13 +377,17 @@ function funil(d: Dados): string {
 }
 
 function gap(d: Dados): string {
+  // a distância é desenhada na barra menor: o trecho que falta até o fim da maior, com o rótulo logo abaixo dele
   const a = d.a, b = d.b;
-  const [lo, hi] = [a.valor, b.valor].sort((x: number, y: number) => x - y);
-  return (
-    `<div class="gapl"><div class="r">${F(a.rotulo)}</div><div class="tri"><div class="pr" style="width:${a.valor}%"></div></div>${a.nota ? `<div class="n">${F(a.nota)}</div>` : ""}</div>` +
-    `<div class="dist"><div class="lin" style="left:${lo}%;width:${hi - lo}%"></div><div class="tx" style="left:${(lo + hi) / 2}%">${E(d.rotulo_distancia || "a distância")}</div></div>` +
-    `<div class="gapl b"><div class="r">${F(b.rotulo)}</div><div class="tri"><div class="pr" style="width:${b.valor}%"></div></div>${b.nota ? `<div class="n">${F(b.nota)}</div>` : ""}</div>`
-  );
+  const lo = Math.min(a.valor, b.valor), hi = Math.max(a.valor, b.valor);
+  const meio = Math.max(14, Math.min(86, (lo + hi) / 2));
+  const linha = (x: Dados, cls: string, curta: boolean) =>
+    `<div class="gapl${cls}"><div class="r">${F(x.rotulo)}</div>` +
+    `<div class="tri"><div class="pr" style="width:${x.valor}%"></div>${curta ? `<div class="falta" style="left:${lo}%;width:${hi - lo}%"></div>` : ""}</div>` +
+    (curta ? `<div class="dist"><span class="tx" style="left:${meio}%">${E(d.rotulo_distancia || "a distância")}</span></div>` : "") +
+    `${x.nota ? `<div class="n">${F(x.nota)}</div>` : ""}</div>`;
+  const aCurta = a.valor < b.valor;
+  return linha(a, "", aCurta) + linha(b, " b", !aCurta);
 }
 
 function quadrante(d: Dados): string {
@@ -511,6 +523,27 @@ function desenhar(s: Dados, i: number, total: number, ctx: Contexto): string {
 }
 
 /** Documento HTML completo de um slide (usado pelo gerador de PNG). */
+/** Textos do slide que se encostam ou vazam da própria caixa. Roda no navegador: a lupa chama direto,
+ *  e o gerador de PNG manda o código desta função ao Chromium (por isso ela não usa nada de fora). */
+export function textosQueEncostam(sl: Element): string[] {
+  const folhas = [...sl.querySelectorAll<HTMLElement>("[data-ed]")].filter((e) => !e.querySelector("[data-ed]") && (e.textContent || "").trim());
+  const caixa = (e: HTMLElement) => {
+    const el = getComputedStyle(e).display === "inline" ? (e.parentElement as HTMLElement) : e;
+    return { el, r: el.getBoundingClientRect() };
+  };
+  const out: string[] = [];
+  for (const e of folhas) if (getComputedStyle(e).display !== "inline" && e.scrollWidth > e.clientWidth + 1) out.push(`${e.dataset.ed} vaza da caixa`);
+  const cx = folhas.map(caixa);
+  for (let i = 0; i < cx.length; i++) for (let j = i + 1; j < cx.length; j++) {
+    const a = cx[i], b = cx[j];
+    if (a.el === b.el || a.el.contains(b.el) || b.el.contains(a.el)) continue;
+    const x = Math.min(a.r.right, b.r.right) - Math.max(a.r.left, b.r.left);
+    const y = Math.min(a.r.bottom, b.r.bottom) - Math.max(a.r.top, b.r.top);
+    if (x > 2 && y > 2) out.push(`${folhas[i].dataset.ed} encosta em ${folhas[j].dataset.ed}`);
+  }
+  return out;
+}
+
 export function pagina(s: Dados, i: number, total: number, ctx: Contexto = {}): string {
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>html,body{margin:0;width:${L}px;height:${A}px;overflow:hidden}${css(ctx.fontBase)}</style></head><body>${slideHTML(s, i, total, ctx)}</body></html>`;
 }

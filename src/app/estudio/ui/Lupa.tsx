@@ -1,6 +1,6 @@
 "use client";
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
-import { A, CORES_TEXTO, FUNDOS, L, limpar, slideHTML, type Contexto, type Dados } from "@/estudio/slides";
+import { A, CORES_TEXTO, FUNDOS, L, limpar, slideHTML, textosQueEncostam, type Contexto, type Dados } from "@/estudio/slides";
 
 /* ---------------------------------------------------------------
    A lupa: o slide grande, e o editor dele.
@@ -35,7 +35,7 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
   const [ativo, setAtivo] = useState<string | null>(null);
   const [barra, setBarra] = useState<{ x: number; y: number } | null>(null);
   const [larg, setLarg] = useState(600);
-  const [vazou, setVazou] = useState(false);
+  const [vazou, setVazou] = useState<"" | "margem" | "encosta">("");
   const [toqueFino, setToqueFino] = useState(true);
   useEffect(() => { setToqueFino(matchMedia("(pointer: fine)").matches); }, []);
   const html = slideHTML(s, indice + 1, slides.length, ctx);
@@ -117,7 +117,7 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
       const r = x.getBoundingClientRect();
       return r.height > 0 && ((r.bottom - base.top) / k > A - 104 || (r.right - base.left) / k > L - 56);
     });
-    setVazou(fora);
+    setVazou(fora ? "margem" : textosQueEncostam(sl).length ? "encosta" : "");
   }, [html, larg]);
 
   const editar = (alvoBruto: EventTarget, ponto?: { x: number; y: number }) => {
@@ -265,7 +265,8 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
       </div>
       {indice < slides.length - 1 && <button className="nav d" data-emo="próximo" onClick={(e) => { e.stopPropagation(); sair(); ir(indice + 1); }}>→</button>}
       <p className={`dica ${vazou ? "alerta" : ""}`}>
-        {vazou ? "o texto passou da área do slide: diminua o tamanho ou estreite o bloco" : ativo ? (toqueFino ? "Esc ou um clique fora para terminar" : "um toque fora para terminar") : `${toqueFino ? "dois cliques" : "dois toques"} em qualquer texto para editar`}
+        {vazou === "margem" ? "o texto passou da área do slide: diminua o tamanho ou estreite o bloco"
+          : vazou === "encosta" ? "dois textos estão se tocando: diminua um deles ou estreite o bloco" : ativo ? (toqueFino ? "Esc ou um clique fora para terminar" : "um toque fora para terminar") : `${toqueFino ? "dois cliques" : "dois toques"} em qualquer texto para editar`}
       </p>
 
       {ativo && barra && (

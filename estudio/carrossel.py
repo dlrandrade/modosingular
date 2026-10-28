@@ -31,6 +31,13 @@ def html_dos_slides(slides, ctx, reels=False):
     return json.loads(r.stdout)
 
 
+def verificador():
+    """O código de textosQueEncostam (src/estudio/slides.ts), para rodar no Chromium."""
+    r = subprocess.run(["node", "--no-warnings", str(AQUI / "slides-cli.mjs")], input=json.dumps({"verificador": True}),
+                       capture_output=True, text=True, cwd=RAIZ)
+    return json.loads(r.stdout) if r.returncode == 0 else None
+
+
 def renderizar(slides, ctx, destino: Path):
     from playwright.sync_api import sync_playwright
     destino.mkdir(parents=True, exist_ok=True)
@@ -38,6 +45,7 @@ def renderizar(slides, ctx, destino: Path):
         velho.unlink()
     figs = [(i, {**s, "solo": True}) for i, s in enumerate(slides, 1) if s["tipo"] == "figura"]
     paginas = html_dos_slides(slides, ctx)
+    encosta = verificador()
     paginas_fig = html_dos_slides([s for _, s in figs], ctx) if figs else []
     paginas_reels = html_dos_slides([s for _, s in figs], ctx, reels=True) if figs else []
     exe = (glob.glob("/opt/pw-browsers/chromium-*/chrome-linux*/chrome") or [None])[0]
@@ -56,6 +64,9 @@ def renderizar(slides, ctx, destino: Path):
                   return b.width > 0 && (b.bottom > r.bottom - 118 || b.right > r.right - 60); }); }""")
             if estoura:
                 print(f"AVISO {nome}: conteúdo encosta na margem (slide {i}); corte texto ou simplifique")
+            if encosta:
+                for p in pg.evaluate(f"({encosta})(document.querySelector('.sl'))"):
+                    print(f"AVISO {nome}: {p} (slide {i}); nenhum texto pode tocar outro bloco")
             pg.screenshot(path=str(destino / nome))
             tmp.unlink()
 

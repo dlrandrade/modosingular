@@ -24,6 +24,8 @@ function idColado(t: string): string {
 const curto = (m?: string) => String(m || "").replace(/^(openrouter|anthropic):/, "").replace(/:free$/, " (grátis)");
 
 /* Página de admin do estúdio: qual modelo escreve, quanto custa, e se está tudo ligado. */
+const MARCA_BARRA = { __html: marca(22) };
+
 export default function Admin() {
   const [d, setD] = useState<Dados | null>(null);
   const [principal, setPrincipal] = useState("");
@@ -88,7 +90,7 @@ export default function Admin() {
     <div className="est">
       <header className="barra">
         <Link className="marca" data-emo="estúdio" href="/estudio">
-          <span dangerouslySetInnerHTML={{ __html: marca(22) }} />
+          <span dangerouslySetInnerHTML={MARCA_BARRA} />
           <span className="rot">Modo Singular · Estúdio</span>
         </Link>
         <div className="dir"><Link className="lnk" data-emo="voltar" href="/estudio">← estúdio</Link></div>
