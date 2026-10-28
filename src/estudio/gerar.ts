@@ -80,7 +80,8 @@ FORMATO DO KIT (um objeto JSON; todas as chaves abaixo são obrigatórias)
 
 TIPOS DE SLIDE (o campo "tipo" decide o resto)
 - capa:    { "tipo": "capa", "titulo": "...", "sub": "..." }
-- texto:   { "tipo": "texto", "rotulo"?: "...", "fala": "...", "apoio"?: "...", "tag"?: "...", "medio"?: true, "grande"?: true, "fundo"?: "escuro" }
+- texto:   { "tipo": "texto", "rotulo"?: "...", "fala": "...", "apoio"?: "...", "tag"?: "...", "medio"?: true, "grande"?: true, "fundo"?: "areia | escuro" }
+- qualquer slide aceita "fundo": "claro | areia | branco | ouro-claro | ouro | escuro" (MANUAL, seção 3: só quando fugir do padrão do tipo)
 - lista:   { "tipo": "lista", "rotulo": "...", "fala": "...", "itens": [ { "rotulo": "...", "texto": "..." } ] }   (no máximo 3 itens)
 - figura:  { "tipo": "figura", "rotulo"?: "...", "titulo": "...", "figura": "LIVRO" | {dados}, "legenda"?: "..." }
 - exemplo: { "tipo": "exemplo", "forma": "${FORMAS_EXEMPLO.join(" | ")}", "titulo": "...", "quem": "...", ...campos da forma..., "nota": "..." }

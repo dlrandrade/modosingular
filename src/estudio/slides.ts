@@ -35,6 +35,15 @@ export const FIGURAS_PRONTAS = [
   "camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro",
 ];
 export const FORMAS_EXEMPLO = ["post", "antes_depois", "rascunho", "conversa"];
+export const FUNDOS = ["claro", "areia", "branco", "ouro-claro", "ouro", "escuro"];
+
+/** Fundo pela função: sem "fundo" no slide, vale o padrão do tipo. */
+const FUNDO_PADRAO: Record<string, string> = { capa: "claro", texto: "claro", lista: "areia", figura: "branco", exemplo: "ouro-claro", cta: "ouro" };
+function classeFundo(s: Dados): string {
+  const f = s.fundo || FUNDO_PADRAO[s.tipo] || "claro";
+  if (f === "escuro") return " escuro";
+  return f === "claro" || !FUNDOS.includes(f) ? "" : ` f-${f}`;
+}
 
 export function esc(t: unknown): string {
   return String(t ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -68,6 +77,11 @@ export function css(fontBase = "/estudio/fontes"): string {
   font-feature-settings: "kern", "liga"; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; }
 .sl * { box-sizing: border-box; margin: 0; padding: 0; }
 .sl.escuro { --papel:#0b0c0f; --tinta:#eceef3; --t2:#a8afbd; --t3:#6b7383; --fio:#262b36; --acento:#d8b26a; --acento-bg:#3a3222; --cartao:#15181f; }
+/* fundos da marca, escolhidos pela função do slide (MANUAL, seção 3) */
+.sl.f-areia { --papel:#f2f0ea; --fio:#dcd7cb; --cartao:#ffffff; }
+.sl.f-branco { --papel:#ffffff; --fio:#e6e2d8; --cartao:#faf9f6; }
+.sl.f-ouro-claro { --papel:#f0e6cf; --fio:#dfd0a9; --t3:#8a7a55; --acento:#7a5a1e; --acento-bg:#e6d7b2; --cartao:#fffdf8; }
+.sl.f-ouro { --papel:#9a7328; --tinta:#fbf8f1; --t2:#f1e6cd; --t3:#dcc799; --fio:rgba(255,255,255,.28); --acento:#16181d; --acento-bg:#b08a3c; --cartao:#a67d2e; }
 .sl h1, .sl h2 { font-weight: 400; }
 .sl .nq { white-space: nowrap; }
 .sl em { font-style: italic; }
@@ -75,7 +89,7 @@ export function css(fontBase = "/estudio/fontes"): string {
 
 /* o casamento: títulos na grotesca, o itálico dentro deles na Garamond */
 .sl .ds { font-family: var(--sans); font-weight: 650; letter-spacing: -.035em; font-feature-settings: "kern", "ss01"; }
-.sl .ds em { font-family: var(--serif); font-style: italic; font-weight: 400; letter-spacing: -.012em; font-size: 1.07em; line-height: 0; }
+.sl .ds em { font-family: var(--serif); font-style: italic; font-weight: 520; letter-spacing: -.012em; font-size: 1.12em; line-height: 0; }
 .sl .ds strong { font-weight: 800; }
 
 .sl .rot { font-family: var(--serif); font-style: italic; font-size: 30px; line-height: 1.1; color: var(--t3); }
@@ -204,7 +218,7 @@ export function css(fontBase = "/estudio/fontes"): string {
 .sl .ad .bl.comum .tx { font-size: 38px; line-height: 1.3; color: var(--t3); }
 .sl .ad .bl.sing { border-top: 3px solid var(--acento); }
 .sl .ad .bl.sing .tx { font-family: var(--sans); font-weight: 600; letter-spacing: -.025em; font-size: 42px; line-height: 1.16; }
-.sl .ad .bl.sing .tx em { font-family: var(--serif); font-weight: 400; letter-spacing: 0; font-size: 1.07em; }
+.sl .ad .bl.sing .tx em { font-family: var(--serif); font-weight: 520; letter-spacing: 0; font-size: 1.12em; }
 .sl .ad .pq { font-size: 29px; line-height: 1.36; font-style: italic; color: var(--t2); margin-top: 14px; }
 .sl .rasc { margin-top: 44px; position: relative; padding: 6px 0 0 56px; background: repeating-linear-gradient(to bottom, transparent 0, transparent 63px, var(--fio) 63px, var(--fio) 64.5px); }
 .sl .rasc::before { content: ""; position: absolute; left: 22px; top: 0; bottom: 0; border-left: 1.5px solid var(--acento); opacity: .7; }
@@ -372,7 +386,7 @@ function rodape(i: number, total: number, ctx: Contexto): string {
 }
 
 export function slideHTML(s: Dados, i: number, total: number, ctx: Contexto = {}): string {
-  const escuro = s.fundo === "escuro" ? " escuro" : "";
+  const escuro = classeFundo(s);
   const rod = rodape(i, total, ctx);
   switch (s.tipo) {
     case "capa":

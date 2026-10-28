@@ -543,6 +543,7 @@
     {
      "tipo": "texto",
      "rotulo": "A cena",
+     "fundo": "areia",
      "medio": true,
      "fala": "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Releu e sentiu *vergonha*: estava tudo certo, e nada ali era dela.",
      "tag": "Cena do livro Modo Singular. A fisioterapeuta é uma personagem composta."

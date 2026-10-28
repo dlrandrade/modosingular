@@ -5,7 +5,7 @@ export type Parte = { t: string; it?: boolean };
 
 /* Título cujas letras respondem ao cursor: as que estão perto mudam de peso
    e sobem um pouco, como quem respira. Usa o eixo de peso das fontes variáveis. */
-export default function Titulo({ partes, como: Tag = "h1", pesoBase = 650, pesoItalico = 400 }: { partes: Parte[]; como?: "h1" | "h2"; pesoBase?: number; pesoItalico?: number }) {
+export default function Titulo({ partes, como: Tag = "h1", pesoBase = 650, pesoItalico = 520 }: { partes: Parte[]; como?: "h1" | "h2"; pesoBase?: number; pesoItalico?: number }) {
   const raiz = useRef<HTMLHeadingElement>(null);
 
   useEffect(() => {
@@ -41,8 +41,8 @@ export default function Titulo({ partes, como: Tag = "h1", pesoBase = 650, pesoI
     <Tag ref={raiz} className="titulo" aria-label={partes.map((p) => p.t).join("")}>
       {partes.map((p, i) => {
         // grotesca: 650 → 260 (a letra perto do cursor afina, como quem expira);
-        // Garamond itálica: 400 → 720 (ganha corpo). Pesos: props pesoBase / pesoItalico.
-        const [b, a] = p.it ? [pesoItalico, pesoItalico + 320] : [pesoBase, 260];
+        // Garamond itálica: 520 → 780 (ganha corpo). Pesos: props pesoBase / pesoItalico.
+        const [b, a] = p.it ? [pesoItalico, Math.min(800, pesoItalico + 260)] : [pesoBase, 260];
         const palavras = p.t.split(/(\s+)/);
         const conteudo = palavras.map((w, j) =>
           /^\s+$/.test(w) ? w : (

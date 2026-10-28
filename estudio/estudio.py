@@ -30,6 +30,7 @@ ORDEM = [(9, 0), (1, 0), (2, 0), (3, 0), (5, 0), (10, 0), (4, 1), (15, 1), (17, 
 PRONTOS = {"camadas", "fluxo", "passos", "barras", "balanca", "escada", "funil", "gap", "quadrante", "espectro"}  # = FIGURAS_PRONTAS em src/estudio/slides.ts
 FORMAS_EXEMPLO = ["post", "antes_depois", "rascunho", "conversa"]
 ORCAMENTO = {"hook": {45: (9, 12), 60: (10, 14)}, "lead": {45: (14, 20), 60: (16, 22)}, "body1": {45: (22, 28), 60: (26, 34)}, "loop1": {45: (8, 12), 60: (8, 14)}, "body2": {45: (18, 24), 60: (20, 28)}, "loop2": {45: (6, 10), 60: (6, 12)}, "body3": {45: (26, 34), 60: (36, 48)}, "cta": {45: (18, 24), 60: (30, 40)}}  # MANUAL, seção 2.1
+FUNDOS = ["claro", "areia", "branco", "ouro-claro", "ouro", "escuro"]                                 # = FUNDOS em src/estudio/slides.ts
 CAMPOS_FICHA = ["ideia", "conceito", "cena", "detalhe", "figura", "virada", "aplicacao", "exercicio"]                # MANUAL, seção 1                                       # = FORMAS_EXEMPLO em src/estudio/slides.ts
 ETAPAS = [("hook", "GANCHO (hook) · quebra o padrão de rolagem"), ("lead", "INTRODUÇÃO (lead) · segura a atenção até ~10 s"),
           ("body1", "DESENVOLVIMENTO 1 (body 1) · primeira informação de valor"), ("loop1", "GANCHO DE CURIOSIDADE 1 (open loop 1)"),
@@ -227,6 +228,8 @@ def lint(dia, silencioso=False):
         if exs[0].get("forma") in formas_ant:
             avisos.append(f"exemplo na mesma forma do dia anterior ({exs[0].get('forma')}): varie o modo de mostrar a aplicação")
     for i, s in enumerate(sl, 1):
+        if s.get("fundo") and s["fundo"] not in FUNDOS:
+            erros.append(f"slide {i}: fundo '{s['fundo']}' não existe ({', '.join(FUNDOS)})")
         n = sum(palavras(s.get(c)) for c in ("titulo", "sub", "fala", "apoio", "tag")) + sum(palavras(x["rotulo"] + " " + x["texto"]) for x in s.get("itens", []) or [])
         if n > 55:
             avisos.append(f"slide {i} com {n} palavras: um slide, uma ideia")

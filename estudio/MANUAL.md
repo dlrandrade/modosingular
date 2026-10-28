@@ -155,11 +155,23 @@ Regras gerais:
 - **Itálico**: no máximo uma expressão por slide, sempre a que carrega a ideia (vira Garamond dentro do título). Negrito: quase nunca.
 - Nada de emoji, seta desenhada com texto, exclamação, hashtag.
 - O carrossel não copia o roteiro: diz a mesma ideia por outra porta, com menos palavras.
+- **Fundos pela função** (cores do Modo Singular; campo `fundo` do slide). A cor muda quando muda o papel do slide, nunca por enfeite. Padrões, que o renderizador já aplica:
+
+| Função | Fundo | Por quê |
+|---|---|---|
+| capa, virada | `claro` (#faf9f6) | o papel da marca: começo limpo |
+| cena, leitura da figura | `areia` (#f2f0ea) | tom de narrativa: aqui se conta |
+| figura, faça agora | `branco` (#ffffff) | máxima legibilidade do desenho e dos passos |
+| a ideia do dia | `escuro` (#0b0c0f) | a frase para guardar; o contraste marca o pico |
+| como ficaria | `ouro-claro` (#f0e6cf) | a aplicação: o leitor reconhece o momento de copiar a estrutura |
+| CTA | `ouro` (#9a7328) | o fechamento, com a cor da marca |
+
+  Só escreva `fundo` quando o slide fugir do padrão do tipo (no slide da cena, `fundo: areia`). Nunca dois slides vizinhos escuros ou dourados.
 
 | # | Tipo | Campos | Limites | Fonte | Regra |
 |---|---|---|---|---|---|
 | 1 | `capa` | `titulo`, `sub` | título 6–12 palavras; sub ≤ 9 | detalhe + ideia | O título é o detalhe concreto que provoca (G1/G2/G4 sem o verbo inicial). O sub diz do que se trata, em itálico natural. |
-| 2 | `texto` (a cena) | `rotulo: "A cena"`, `fala`, `tag`, `medio: true` | fala ≤ 26 palavras | cena | Termina na emoção ou no detalhe. `tag` fixa: "Cena do livro Modo Singular. [Quem] é uma personagem composta." |
+| 2 | `texto` (a cena) | `rotulo: "A cena"`, `fala`, `tag`, `medio: true`, `fundo: areia` | fala ≤ 26 palavras | cena | Termina na emoção ou no detalhe. `tag` fixa: "Cena do livro Modo Singular. [Quem] é uma personagem composta." |
 | 3 | `texto` (a virada) | `rotulo` (tempo ou contraste), `fala`, `apoio` | fala ≤ 12; apoio ≤ 16 | a segunda metade da cena | A frase que vira a chave da cena; o apoio é a fala de alguém ou o fato que confirma. |
 | 4 | `figura` | `titulo`, `figura: "LIVRO"`, `legenda` | título ≤ 8; legenda ≤ 28 | bloco `figura` | O título diz a **conclusão** da figura, não a descrição ("O que você sabe vem em *cinco camadas*", e não "Figura das camadas"). A legenda é a do livro, encurtada se preciso. |
 | 5 | `lista` (a leitura) | `rotulo`, `fala`, `itens` (3) | fala ≤ 8; cada item ≤ 22 | figura × cena | Cada item é um elemento da figura aplicado à cena. Os rótulos dos itens são os nomes dos elementos. |

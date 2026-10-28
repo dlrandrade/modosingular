@@ -2,7 +2,7 @@
    Verificador do kit do dia — versão TypeScript das mesmas regras
    de estudio/estudio.py (lint). Se mudar uma, mude a outra.
 --------------------------------------------------------------- */
-import { FIGURAS_PRONTAS, FORMAS_EXEMPLO, type Dados } from "./slides";
+import { FIGURAS_PRONTAS, FORMAS_EXEMPLO, FUNDOS, type Dados } from "./slides";
 
 export const ETAPAS: [string, string][] = [
   ["hook", "Gancho"],
@@ -110,6 +110,7 @@ export function verificar(k: Dados, antivicios: string[]): Resultado {
   if (!exs.length) erros.push("o carrossel precisa de um slide 'exemplo' (como ficaria, na prática)");
   for (const s of exs) if (!FORMAS_EXEMPLO.includes(s.forma)) erros.push(`exemplo com forma '${s.forma}'`);
   for (const s of sl) {
+    if (s.fundo && !FUNDOS.includes(s.fundo)) erros.push(`fundo '${s.fundo}' não existe (${FUNDOS.join(", ")})`);
     if (s.tipo === "figura" && typeof s.figura === "object" && !FIGURAS_PRONTAS.includes(s.figura?.tipo)) {
       erros.push(`figura do tipo '${s.figura?.tipo}' não tem desenho`);
     }

@@ -28,7 +28,7 @@ export default function Entrar() {
         <div className="caixa">
           <div style={{ display: "flex", justifyContent: "center", color: "var(--t3)" }} dangerouslySetInnerHTML={{ __html: marca(30) }} />
           <p className="rot" style={{ marginTop: 22 }}>Modo Singular</p>
-          <Titulo partes={[{ t: "Estúdio", it: true }]} />
+          <Titulo partes={[{ t: "Estúdio", it: true }]} pesoItalico={420} />
           <p className="sub">Um conhecimento do livro por dia.</p>
           <form ref={form} onSubmit={entrar}>
             <input type="password" inputMode="numeric" autoComplete="current-password" autoFocus value={senha}

@@ -20,7 +20,7 @@
 .est *, .est *::before, .est *::after { box-sizing: border-box; }
 .est ::selection { background: var(--acento-bg); }
 .est .ds { font-family: var(--sans); font-weight: 650; letter-spacing: -.035em; }
-.est .ds em { font-family: var(--serif); font-weight: 400; letter-spacing: -.012em; font-size: 1.07em; }
+.est .ds em { font-family: var(--serif); font-weight: 520; letter-spacing: -.012em; font-size: 1.12em; }
 .est button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
 .est input, .est textarea { font: inherit; color: inherit; }
 .est em { font-style: italic; }
@@ -57,7 +57,7 @@
 /* ---------------------------------------------------------- início */
 .est .palco { min-height: calc(100% - 90px); display: flex; flex-direction: column; justify-content: center; padding: 0 clamp(20px, 6vw, 96px) 80px; max-width: 1240px; margin: 0 auto; }
 .est .titulo { font-family: var(--sans); font-size: clamp(50px, 8.4vw, 124px); line-height: .94; letter-spacing: -.038em; font-weight: 650; margin: 0; }
-.est .titulo em { font-family: var(--serif); font-weight: 400; letter-spacing: -.012em; font-size: 1.07em; }
+.est .titulo em { font-family: var(--serif); font-weight: 520; letter-spacing: -.012em; font-size: 1.12em; }
 .est .titulo .le { display: inline-block; transition: font-variation-settings .35s var(--ease), transform .5s var(--ease), color .5s; will-change: transform; }
 .est .pedido { margin-top: clamp(48px, 8vh, 88px); display: flex; align-items: baseline; gap: 18px; border-bottom: 1px solid var(--t3); padding-bottom: 14px; max-width: 900px;
   transition: border-color .5s var(--ease); }
