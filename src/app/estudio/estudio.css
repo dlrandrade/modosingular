@@ -279,3 +279,16 @@
 
 .est .bt.insta { color: var(--acento); border-bottom: 1px solid var(--acento); padding-bottom: 5px; }
 .est .bt.insta.preparando { color: var(--t3); border-color: var(--fio); }
+
+/* ---------------------------------------------------------- salvar (celular: menu do aparelho) */
+.est .salvar { position: fixed; inset: 0; z-index: 12; background: var(--papel); display: grid; place-items: center; padding: 24px; animation: surge .4s var(--ease) both; }
+.est .salvar .caixa { width: min(560px, 100%); max-height: calc(100dvh - 48px); overflow-y: auto; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 18px; }
+.est .salvar .msg { font-size: 18px; line-height: 1.5; font-style: italic; color: var(--t2); margin: 0; max-width: 420px; }
+.est .salvar .fio { width: min(320px, 70vw); height: 1px; background: var(--fio); position: relative; overflow: hidden; }
+.est .salvar .fio i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--tinta); transition: width .6s var(--ease); }
+.est .salvar .principal { font-family: var(--sans); font-weight: 650; letter-spacing: -.01em; font-size: 20px; color: var(--papel); background: var(--tinta);
+  padding: 16px 30px; border-radius: 999px; transition: background .4s; }
+.est .salvar .principal:hover { background: var(--acento); }
+.est .salvar .imgs { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 10px; width: 100%; margin-top: 6px; }
+.est .salvar .imgs img { width: 100%; height: auto; display: block; background: #1d2027; border-radius: 6px; box-shadow: 0 1px 0 var(--fio), 0 12px 24px -18px rgba(21, 20, 18, .5); -webkit-touch-callout: default; user-select: auto; }
+.est .salvar .fechar { margin-top: 8px; }
