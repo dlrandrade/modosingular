@@ -7,7 +7,8 @@ import { inscricao, podeAvisar, querAvisos, registrarSW, selo } from "./aparelho
 import Cursor from "./Cursor";
 import Glifos from "./Glifos";
 import Lupa from "./Lupa";
-import { arquivosDoCarrossel, baixarReels, baixarSlide, baixarTexto, compartilhaArquivos } from "./png";
+import { arquivosDoCarrossel, baixarTexto, compartilhaArquivos, reelsArquivo, slideArquivo } from "./png";
+import { useSalvar } from "./Salvar";
 import Quadro from "./Quadro";
 import Teleprompter from "./Teleprompter";
 import Titulo from "./Titulo";
@@ -397,12 +398,16 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
 
   const marcar = (t: string) => { setFeito(t); setTimeout(() => setFeito(""), 1800); };
   const copiar = async (t: string, qual: string) => { await navigator.clipboard.writeText(t); marcar(qual); };
-  const baixarTodos = async () => {
-    for (let i = 0; i < slides.length; i++) {
-      await baixarSlide(slides[i], i + 1, slides.length, ctx, `${nome}-slide-${dois(i + 1)}.png`);
-      await new Promise((res) => setTimeout(res, 350));
-    }
-  };
+  const { salvar, painel, toque } = useSalvar();
+  // os PNGs do carrossel que o botão do Instagram já preparou: salvar os 9 usa os mesmos, e o menu abre na hora
+  const preparados = useRef<{ chave: string; arquivos: File[] } | null>(null);
+  const chaveSlides = JSON.stringify(slides);
+  const baixarTodos = () => salvar(`os ${slides.length} slides`, slides.length,
+    (av) => arquivosDoCarrossel(slides, ctx, nome, av),
+    preparados.current?.chave === chaveSlides ? preparados.current.arquivos : null);
+  const baixarUm = (i: number) => salvar("o slide", 1, async () => [await slideArquivo(slides[i], i + 1, slides.length, ctx, `${nome}-slide-${dois(i + 1)}.png`)],
+    preparados.current?.chave === chaveSlides ? [preparados.current.arquivos[i]] : null);
+  const verbo = toque ? "salvar" : "baixar";
   const mudarSlide = (i: number, s: Dados) => mudar({ ...kit, carrossel: slides.map((x, n) => (n === i ? s : x)) });
   const editados = slides.filter((x) => x.ajustes && Object.keys(x.ajustes).length).length;
 
@@ -432,8 +437,8 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
           <h3>O carrossel</h3>
           <div className="acoes">
             <span className="rot salvo">{salvo === "salvando" ? "salvando…" : salvo === "salvo" ? "edição salva" : salvo === "local" ? "edição salva neste aparelho" : editados ? `${editados} slide${editados > 1 ? "s" : ""} editado${editados > 1 ? "s" : ""}` : "clique para ampliar e editar"}</span>
-            <Instagram slides={slides} ctx={ctx} nome={nome} legenda={kit.legenda || ""} />
-            <button className="bt" data-emo="baixar" onClick={baixarTodos}>baixar os {slides.length} slides</button>
+            <Instagram slides={slides} ctx={ctx} nome={nome} legenda={kit.legenda || ""} cache={preparados} />
+            <button className="bt" data-emo={verbo} onClick={baixarTodos}>{verbo} os {slides.length} slides</button>
           </div>
         </div>
         <div className="fita">
@@ -451,9 +456,9 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
               <div className="item" key={i}>
                 <div className="par">
                   <Quadro s={{ ...s, solo: true }} i={i + 1} total={slides.length} ctx={ctx} largura={figLarg} emo="baixar"
-                    onClick={() => baixarSlide({ ...s, solo: true }, i + 1, slides.length, ctx, `${nome}-figura-${dois(i + 1)}.png`)} />
+                    onClick={() => salvar("a figura", 1, async () => [await slideArquivo({ ...s, solo: true }, i + 1, slides.length, ctx, `${nome}-figura-${dois(i + 1)}.png`)])} />
                   <Selfie s={s} ctx={ctx} largura={Math.round(figLarg * 0.42)} tom={tom}
-                    onClick={() => baixarReels(s, ctx, tom, `${nome}-figura-${dois(i + 1)}-reels-${tom}.png`)} />
+                    onClick={() => salvar("a figura do Reels", 1, async () => [await reelsArquivo(s, ctx, tom, `${nome}-figura-${dois(i + 1)}-reels-${tom}.png`)])} />
                 </div>
                 <span className="rot">
                   {s.figura?.tipo} · a figura: PNG · o celular: Reels 9:16, transparente ·{" "}
@@ -515,9 +520,10 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
 
       {lupa !== null && (
         <Lupa slides={slides} indice={lupa} ctx={ctx} ir={setLupa} fechar={() => setLupa(null)} mudar={mudarSlide}
-          baixar={(i) => baixarSlide(slides[i], i + 1, slides.length, ctx, `${nome}-slide-${dois(i + 1)}.png`)} />
+          baixar={baixarUm} verbo={verbo} />
       )}
       {tele && <Teleprompter paragrafos={corrido} fechar={() => setTele(false)} />}
+      {painel}
     </main>
   );
 }
@@ -542,7 +548,9 @@ function Selfie({ s, ctx, largura, tom, onClick }: { s: Dados; ctx: Contexto; la
    já fica na área de transferência, pronta para colar. Os PNGs são preparados em segundo
    plano assim que o kit abre, para que um toque só abra o Instagram (o navegador exige
    que o compartilhamento saia direto do toque). */
-function Instagram({ slides, ctx, nome, legenda }: { slides: Dados[]; ctx: Contexto; nome: string; legenda: string }) {
+function Instagram({ slides, ctx, nome, legenda, cache }: {
+  slides: Dados[]; ctx: Contexto; nome: string; legenda: string; cache: React.MutableRefObject<{ chave: string; arquivos: File[] } | null>;
+}) {
   const [pode, setPode] = useState(false);
   const [estado, setEstado] = useState<"" | "preparando" | "pronto" | "feito" | "erro">("");
   const [n, setN] = useState(0);
@@ -561,7 +569,7 @@ function Instagram({ slides, ctx, nome, legenda }: { slides: Dados[]; ctx: Conte
     try {
       const arquivos = await arquivosDoCarrossel(slides, ctx, nome, setN);
       if (atual.current !== k) return; // o carrossel mudou no meio (edição): a próxima rodada refaz
-      prontos.current = { chave: k, arquivos }; setEstado("pronto");
+      prontos.current = { chave: k, arquivos }; cache.current = prontos.current; setEstado("pronto");
     } catch {
       setEstado("erro");
     } finally {

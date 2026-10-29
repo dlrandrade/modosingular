@@ -20,13 +20,14 @@ type Props = {
   ir: (i: number) => void; fechar: () => void;
   mudar: (i: number, s: Dados) => void;
   baixar: (i: number) => void;
+  verbo?: string;
 };
 
 function semAjuste(a: Dados) {
   return !a || Object.keys(a).length === 0;
 }
 
-export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }: Props) {
+export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar, verbo = "baixar" }: Props) {
   const s = slides[indice];
   // o slide mais recente: duas gravações no mesmo clique (o texto e o estilo) não podem se sobrescrever
   const atual = useRef(s);
@@ -60,12 +61,12 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
   };
 
   /** Lê o texto que está sendo editado e guarda (sem mudar nada se for igual). */
-  const confirmar = useCallback(() => {
+  const confirmar = useCallback((manter = false) => {
     if (!ativo || ativo === "figura") return;
     const el = elemento(ativo);
     if (!el || el.contentEditable !== "true") return;
     const novo = limpar(el.innerHTML).replace(/(<br>)+$/, "");
-    el.contentEditable = "false";
+    if (!manter) el.contentEditable = "false";
     const base0 = atual.current;
     const antes = limpar((base0.ajustes as Dados)?.[ativo]?.html ?? "");
     if (novo === antes) return;
@@ -81,6 +82,8 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
   }, [ativo, indice, slides.length, ctx]);
 
   const sair = useCallback(() => { confirmar(); setAtivo(null); setBarra(null); window.getSelection()?.removeAllRanges(); }, [confirmar]);
+  // fechar a lupa nunca descarta o texto que está sendo editado
+  const fecharGravando = useCallback(() => { sair(); fechar(); }, [sair, fechar]);
 
   // posiciona a barra acima do elemento ativo (e o reativa depois de cada nova renderização)
   useLayoutEffect(() => {
@@ -97,14 +100,14 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
   useEffect(() => {
     const tecla = (e: KeyboardEvent) => {
       const editando = (document.activeElement as HTMLElement | null)?.isContentEditable;
-      if (e.key === "Escape") { e.preventDefault(); if (ativo) sair(); else fechar(); return; }
+      if (e.key === "Escape") { e.preventDefault(); if (ativo) sair(); else fecharGravando(); return; }
       if (editando || ativo) return;
       if (e.key === "ArrowRight" && indice < slides.length - 1) ir(indice + 1);
       if (e.key === "ArrowLeft" && indice > 0) ir(indice - 1);
     };
     addEventListener("keydown", tecla);
     return () => removeEventListener("keydown", tecla);
-  }, [ativo, sair, fechar, ir, indice, slides.length]);
+  }, [ativo, sair, fecharGravando, ir, indice, slides.length]);
 
   useEffect(() => { setAtivo(null); setBarra(null); }, [indice]);
 
@@ -279,7 +282,7 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
   };
 
   return (
-    <div className="lupa" onClick={() => (ativo ? sair() : fechar())}>
+    <div className="lupa" onClick={() => (ativo ? sair() : fecharGravando())}>
       <div className="barra-l" onClick={(e) => e.stopPropagation()}>
         <span className="rot">{String(indice + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
         <span className="fundos" aria-label="Fundo do slide">
@@ -289,14 +292,20 @@ export default function Lupa({ slides, indice, ctx, ir, fechar, mudar, baixar }:
         </span>
         <span className="acoes-l">
           {editado && <button className="bt" data-emo="desfazer" onClick={tudoOriginal}>original</button>}
-          <button className="bt" data-emo="baixar" onClick={() => { sair(); baixar(indice); }}>baixar este</button>
-          <button className="bt" data-emo="fechar" onClick={fechar}>fechar</button>
+          <button className="bt" data-emo={verbo} onClick={() => { sair(); baixar(indice); }}>{verbo} este</button>
+          <button className="bt" data-emo="fechar" onClick={fecharGravando}>fechar</button>
         </span>
       </div>
       {indice > 0 && <button className="nav e" data-emo="anterior" onClick={(e) => { e.stopPropagation(); sair(); ir(indice - 1); }}>←</button>}
       <div className="quadro editavel" style={{ width: larg, height: larg * (A / L) }} onClick={clique} onDoubleClick={doisCliques} onPointerUp={soltou}>
         <div ref={palco} className="esc" style={{ width: L, height: A, transform: `scale(${larg / L})` }}
-          onKeyDown={teclaNoTexto} onPaste={colar} dangerouslySetInnerHTML={conteudo} />
+          onKeyDown={teclaNoTexto} onPaste={colar}
+          onBlur={(e) => {
+            // o teclado do celular fechou ou o foco saiu do texto: grava (um instante depois, se o foco não voltou), sem sair da edição
+            const el = e.target as HTMLElement;
+            if (!ativo || el.dataset?.ed !== ativo) return;
+            setTimeout(() => { if (document.activeElement !== el && el.isConnected) confirmar(true); }, 300);
+          }} dangerouslySetInnerHTML={conteudo} />
       </div>
       {indice < slides.length - 1 && <button className="nav d" data-emo="próximo" onClick={(e) => { e.stopPropagation(); sair(); ir(indice + 1); }}>→</button>}
       <p className={`dica ${vazou ? "alerta" : ""}`}>
