@@ -490,10 +490,14 @@ function desenhar(s: Dados, i: number, total: number, ctx: Contexto): string {
   const rod = rodape(i, total);
   const rot = (padrao = "") => (s.rotulo || padrao ? T("rotulo", "p", "rot ac", s.rotulo || padrao, "esc") : "");
   switch (s.tipo) {
-    case "capa":
+    case "capa": {
+      // o título encolhe quando é longo (o limite do MANUAL é 12 palavras; acima disso, o verificador já reprova)
+      const n = String(s.titulo || "").replace(/\*+/g, "").length;
+      const tam = n <= 42 ? "" : n <= 62 ? "font-size:118px;" : n <= 84 ? "font-size:100px;" : "font-size:86px;";
       return `<div class="sl capa${fundo}"><div class="topo"><span class="rot">${esc(ctx.rotuloDia || "")}</span>${marca(40)}</div>` +
-        `<div class="centro">${T("titulo", "h1", "ds", s.titulo)}${s.sub ? T("sub", "p", "sub", s.sub) : ""}<div class="desliza">Deslize</div></div>` +
+        `<div class="centro">${T("titulo", "h1", "ds", s.titulo, "md", tam)}${s.sub ? T("sub", "p", "sub", s.sub) : ""}<div class="desliza">Deslize</div></div>` +
         `<div class="rodape"><span class="m">Modo Singular</span><span class="c">${esc(ctx.handle || "")}</span></div></div>`;
+    }
     case "texto": {
       const cls = s.grande ? " g" : s.medio ? " m" : "";
       return `<div class="sl${fundo}"><div class="centro">${rot()}${T("fala", "p", `fala ds${cls}`, s.fala)}` +

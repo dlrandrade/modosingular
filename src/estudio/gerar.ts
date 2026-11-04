@@ -1,6 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import fontes from "./dados/fontes.json";
 import publico from "./dados/publico.json";
+import { lerFrio, pedidoDeCorrecao, type Leitura } from "./leitor";
 import { verificar, type Resultado } from "./lint";
 import type { ConfigModelos } from "./modelos";
 import { cadeia, chamarOpenRouter, type Elo, type MensagemTexto, type Uso } from "./openrouter";
@@ -127,6 +128,7 @@ function sistema(): string {
       "- Só use o que está no capítulo. Personagens do livro são compostos: diga isso ao público em palavras comuns (tag do slide da cena e legenda): \"Cena ilustrativa. [Quem] é uma personagem criada a partir de casos reais.\"",
       "- TOPO DE FUNIL (MANUAL, 0.1): quem vê nunca ouviu falar do livro, do método nem de você. Comece pela situação que a pessoa vive, com as palavras dela. Mostre o conceito em palavras comuns antes de dar o nome, e nunca no gancho.",
       "- Palavras de dentro não vão para o público: peça, caderno de campo, matéria-prima, oficina, pauta, tese, personagem composta, capítulo N, o método. O livro (Modo Singular) só aparece no CTA de convite e uma vez, na última linha da legenda, explicado numa frase.",
+      "- ABERTURA (MANUAL, 0.2): o gancho, a introdução, a capa e os slides 2 e 3 se entendem sozinhos para quem chega frio, falam do mundo dela (o post, o cliente, o perfil) e dão coceira, de preferência contraintuitiva. A ideia antes da cena: a capa usa um molde K1 a K5; o detalhe do livro entra só dentro da cena, com o sentido dele na mesma frase. Na capa e no gancho, nunca personagem, fala de personagem, número da história ou pronome sem dono. Antes de responder, faça você mesmo o teste das três notas (compreensão, relevância, curiosidade, 8 ou mais em cada tela) e reescreva o que não passar.",
       "- O elemento primordial de cada slide tem ar em volta (MANUAL, 3.2). Figura com 5 elementos ou mais vai sem legenda. Slide de foco só se a figura ainda sufocar; nunca por padrão.",
       "- O slide de exemplo mostra a aplicação numa profissão diferente da cena, de um jeito que faça quem lê pensar: entendi como fazer no meu.",
       "- Legenda de 600 a 1.400 caracteres.",
@@ -255,21 +257,43 @@ export async function gerarKit(pedido: string, feitos: number[], ev: Eventos, co
     }
     let uso = r1.uso;
     let v = verificar(kit, F.antivicios);
-    const sobra = ORCAMENTO_MS - (Date.now() - inicio);
-    if (v.erros.length && sobra > 45_000) {
-      ev.fase(`${rotulo} · revisando a voz`);
+    const resta2 = () => ORCAMENTO_MS - (Date.now() - inicio);
+
+    // o teste do leitor frio (MANUAL, 0.2): a abertura se entende sozinha, importa e dá coceira?
+    let leitura: Leitura | null = null;
+    if (resta2() > 75_000) {
+      ev.fase(`${rotulo} · lendo como quem chega frio`);
+      const l = await lerFrio(elo, kit, Math.min(resta2() - 50_000, 60_000));
+      if (l) { leitura = l.leitura; uso = somar(uso, l.uso); }
+    }
+
+    const reprovou = !!leitura && !leitura.aprovado;
+    if ((v.erros.length || reprovou) && resta2() > 45_000) {
+      ev.fase(`${rotulo} · ${reprovou ? "reescrevendo a abertura" : "revisando a voz"}`);
       try {
-        const correcao = `O verificador reprovou o kit por estes motivos:\n- ${v.erros.join("\n- ")}\n\nDevolva o kit inteiro corrigido, no mesmo formato, mudando só o necessário.`;
-        const r2 = await pedir(elo, usuario, r1, correcao, Math.min(sobra - 10_000, 150_000), ev);
+        const correcao = [
+          v.erros.length ? `O verificador reprovou o kit por estes motivos:\n- ${v.erros.join("\n- ")}` : "",
+          reprovou && leitura ? pedidoDeCorrecao(leitura) : "",
+          "Devolva o kit inteiro corrigido, no mesmo formato, mudando só o necessário.",
+        ].filter(Boolean).join("\n\n");
+        const r2 = await pedir(elo, usuario, r1, correcao, Math.min(resta2() - 10_000, 150_000), ev);
         uso = somar(uso, r2.uso);
         const kit2 = completar(extrairJSON(r2.texto), pauta, elo);
         const v2 = verificar(kit2, F.antivicios);
-        if (v2.erros.length <= v.erros.length) { kit = kit2; v = v2; }
+        if (v2.erros.length <= v.erros.length) {
+          kit = kit2; v = v2;
+          leitura = null; // a abertura mudou: a nota antiga não vale mais
+          if (resta2() > 25_000) {
+            ev.fase(`${rotulo} · relendo a abertura`);
+            const l2 = await lerFrio(elo, kit, Math.min(resta2() - 10_000, 45_000));
+            if (l2) { leitura = l2.leitura; uso = somar(uso, l2.uso); }
+          }
+        }
       } catch {
-        /* a correção falhou: fica a primeira versão, com os erros apontados na tela */
+        /* a correção falhou: fica a primeira versão, com os erros e as notas apontados na tela */
       }
     }
-    return { kit: { ...kit, uso, falhas: falhas.length ? falhas : undefined }, verificacao: v };
+    return { kit: { ...kit, uso, leitura: leitura ?? undefined, falhas: falhas.length ? falhas : undefined }, verificacao: v };
   }
   throw new Error(`Nenhum modelo conseguiu escrever agora. ${falhas.slice(-3).join(" · ") || "Sem tempo para tentar outro."}`);
 }

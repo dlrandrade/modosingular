@@ -159,6 +159,57 @@ JARGAO_AVISO = [(re.compile(r"\bpeças?\b", re.I), "post, vídeo ou carrossel (s
 LIVRO = re.compile(r"\b(Modo Singular|(n|d)?o livro(?! d[eoa]\s)|(d|n)?este livro|(d|n)?esse livro)\b", re.I)
 
 
+# A abertura (MANUAL, seção 0.2): gancho e capa se entendem sozinhos. = verificarAbertura em src/estudio/lint.ts
+PERSONAGENS = re.compile(r"\b(Renata|Otávio|Caio|Lúcia|Helena|Bianca|Sílvia|Débora)\b")
+FALA = re.compile(r"[“”\"«»]|\b(perguntou|disse|respondeu|avisou|comentou)\s*:", re.I)
+PRONOME_SEM_DONO = re.compile(r"^\s*(Ela|Ele|Elas|Eles|Isso|Isto|Esse|Essa|Esses|Essas|Aquilo|Aquela|Aquele)\b")
+NUMERO = re.compile(r"\d|\b(dois|duas|três|quatro|cinco|seis|sete|oito|nove|dez|onze|doze|treze|catorze|quatorze|quinze|dezesseis|dezessete|dezoito|dezenove|vinte|trinta|quarenta|cinquenta|sessenta|setenta|oitenta|noventa|cem|cento|mil)\b", re.I)
+LEITOR = re.compile(r"\b(você|vocês|seu|sua|seus|suas|colegas?|clientes?|pacientes?|quem|especialistas?|profissionais?)\b", re.I)
+PROFISSAO = re.compile(r"(psicólog|dentist|médic|advogad|nutricionist|fisioterapeut|professor|contador|arquitet|paciente|cliente|irmã|aluno)", re.I)
+
+
+def sem_marca(t):
+    return str(t or "").replace("*", "")
+
+
+def verificar_abertura(k, erros, avisos):
+    r = k.get("roteiro", {})
+    sl = k.get("carrossel", [])
+    capa = sl[0] if sl else {}
+    for onde, t in (("gancho", sem_marca(r.get("hook"))), ("capa", f"{sem_marca(capa.get('titulo'))} {sem_marca(capa.get('sub'))}".strip())):
+        if not t:
+            continue
+        p = PERSONAGENS.search(t)
+        if p:
+            erros.append(f"{onde}: o personagem '{p.group(0)}' não diz nada a quem chega frio; a cena vem depois (MANUAL, 0.2)")
+        if FALA.search(t):
+            erros.append(f"{onde}: fala de personagem sem contexto; abra com a ideia, no mundo de quem lê (MANUAL, 0.2)")
+        if PRONOME_SEM_DONO.search(t):
+            erros.append(f"{onde}: começa com pronome sem dono ('{t.split()[0]}'); quem chega frio não sabe de quem se fala")
+    if capa.get("tipo") == "capa":
+        nt, ns = palavras(sem_marca(capa.get("titulo"))), palavras(sem_marca(capa.get("sub")))
+        if nt > 12:
+            erros.append(f"capa com {nt} palavras no título (máx. 12): uma ideia só, que se entenda sozinha")
+        if ns > 10:
+            erros.append(f"sub da capa com {ns} palavras (máx. 10)")
+        t = f"{sem_marca(capa.get('titulo'))} {sem_marca(capa.get('sub'))}"
+        if NUMERO.search(sem_marca(capa.get("titulo"))):
+            avisos.append("número na capa: o sentido dele está na própria frase? (molde K5; nunca um número da história do livro)")
+        if not LEITOR.search(t):
+            avisos.append("a capa não toca o mundo de quem lê (você, seu cliente, o colega…): passa no teste do 'e eu com isso?'?")
+    cena = sl[1] if len(sl) > 1 else None
+    if cena and cena.get("tipo") == "texto":
+        fala = sem_marca(cena.get("fala"))
+        n = palavras(fala)
+        if n > 26:
+            erros.append(f"slide 2 (a cena) com {n} palavras (máx. 26): no máximo duas frases, que se entendam sozinhas")
+        frases = len([x for x in re.split(r"[.!?]+\s", fala) if x.strip()])
+        if frases > 2:
+            avisos.append(f"slide 2 com {frases} frases: a cena cabe em duas")
+        if FALA.search(fala) and not PROFISSAO.search(fala):
+            avisos.append("slide 2 traz uma fala: está dito quem falou e por quê?")
+
+
 def palavras_figura(f):
     if isinstance(f, str):
         return palavras(f)
@@ -250,6 +301,7 @@ def lint(dia, silencioso=False):
             erros.append(f"{onde}: fórmula 'não é X, é Y'")
         if re.search(r"\{[^}]*\}", t or ""):
             erros.append(f"{onde}: marcador não preenchido")
+    verificar_abertura(k, erros, avisos)
     if livro_na_legenda > 2:
         avisos.append(f"legenda cita o livro {livro_na_legenda} vezes; basta uma, na última linha")
     termo = str((k.get("ficha") or {}).get("conceito") or "").split(":")[0].strip().lower()

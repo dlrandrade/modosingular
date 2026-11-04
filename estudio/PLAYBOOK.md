@@ -66,8 +66,8 @@ Receita padrão. Um slide, uma ideia; até ~40 palavras por slide.
 
 | # | Slide | Função |
 |---|---|---|
-| 1 | **Capa** | O gancho do carrossel. Não repete o hook do Reels: é a mesma ideia por outra porta. |
-| 2 | **Cena** | A situação que abre o assunto, contada para quem nunca leu o livro. |
+| 1 | **Capa** | A ideia do dia, contraintuitiva, no mundo de quem lê, entendida sozinha (MANUAL, 0.2). Não repete o hook do Reels. Nunca o detalhe da cena nem personagem. |
+| 2 | **Cena** | A prova da capa: a situação, contada para quem nunca leu o livro, em no máximo duas frases. |
 | 3 | **Virada** | O detalhe que não fechava; a tensão. |
 | 4 | **Figura** | O elemento gráfico, com título que diz a conclusão e legenda curta. É o centro do carrossel, e por isso tem ar em volta: se ficar cheia, perde a legenda; se ainda assim sufocar, ganha um slide só dela (MANUAL, 3.2). |
 | 5 | **Leitura da figura** | Aplica a figura ao caso da cena (lista de 3 itens, no máximo). |
@@ -102,6 +102,8 @@ Estrutura, de 600 a 1.400 caracteres (limite duro: 2.200):
 - **Palavras de dentro ficam dentro.** "Peça", "caderno de campo", "matéria-prima", "oficina", "pauta", "tese", "personagem composta", "capítulo 9", "o método": nada disso aparece para o público. A tabela de tradução está no MANUAL, seção 0.1, e o verificador barra as principais.
 
 Teste do estranho: leia cada frase como alguém que nunca viu o perfil. Se ela precisar de contexto para fazer sentido, reescreva.
+
+**A abertura decide tudo** (gancho, capa, slides 2 e 3). Primeiro a ideia, no mundo de quem lê; depois a cena, como prova. Cada tela da abertura passa por três testes, com nota 8 ou mais: **entende sozinha** (sem número, nome, fala ou pronome soltos), **reconhece o próprio mundo** e **sente coceira** (de preferência porque contraria o que ela acredita). Os moldes, o exemplo reprovado do Dia 3 e o jeito de testar estão no MANUAL, seção 0.2. Na plataforma, o mesmo modelo que escreve faz o teste como leitor frio e reescreve o que reprovar; o kit mostra as notas.
 
 
 A voz é a do livro: um mentor sênior, direto e respeitoso, que fala com um colega inteligente. Calor contido, humor seco e raro. Português do Brasil culto e conversado. O livro é a referência: `apostila/ORQUESTRADOR.yaml`, seções `voz` e `antivicios`. O verificador lê essa lista de expressões proibidas e aplica a todas as peças. Em resumo:

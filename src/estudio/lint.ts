@@ -62,6 +62,45 @@ const JARGAO_AVISO: [RegExp, string][] = [
 ];
 const LIVRO = /(?<!\p{L})(?:Modo Singular|(?:n|d)?o livro(?! d[eoa]\s)|(?:d|n)?este livro|(?:d|n)?esse livro)(?!\p{L})/iu;
 
+/* A abertura (MANUAL, seção 0.2): gancho e capa se entendem sozinhos. O que dá para checar sem um leitor. */
+const PERSONAGENS = /(?<!\p{L})(?:Renata|Otávio|Caio|Lúcia|Helena|Bianca|Sílvia|Débora)(?!\p{L})/u;
+const FALA = /[“”"«»]|(?<!\p{L})(?:perguntou|disse|respondeu|avisou|comentou)\s*:/iu;
+const PRONOME_SEM_DONO = /^\s*(?:Ela|Ele|Elas|Eles|Isso|Isto|Esse|Essa|Esses|Essas|Aquilo|Aquela|Aquele)(?!\p{L})/u;
+const NUMERO = /\d|(?<!\p{L})(?:dois|duas|três|quatro|cinco|seis|sete|oito|nove|dez|onze|doze|treze|catorze|quatorze|quinze|dezesseis|dezessete|dezoito|dezenove|vinte|trinta|quarenta|cinquenta|sessenta|setenta|oitenta|noventa|cem|cento|mil)(?!\p{L})/iu;
+const LEITOR = /(?<!\p{L})(?:você|vocês|seu|sua|seus|suas|colegas?|clientes?|pacientes?|quem|especialistas?|profissionais?)(?!\p{L})/iu;
+const semMarca = (t: unknown) => String(t || "").replace(/\*+/g, "");
+
+function verificarAbertura(k: Dados, erros: string[], avisos: string[]) {
+  const r = k.roteiro || {};
+  const capa = (k.carrossel || [])[0] || {};
+  const telas: [string, string][] = [["gancho", semMarca(r.hook)], ["capa", `${semMarca(capa.titulo)} ${semMarca(capa.sub)}`.trim()]];
+  for (const [onde, t] of telas) {
+    if (!t) continue;
+    const p = PERSONAGENS.exec(t);
+    if (p) erros.push(`${onde}: o personagem '${p[0]}' não diz nada a quem chega frio; a cena vem depois (MANUAL, 0.2)`);
+    if (FALA.test(t)) erros.push(`${onde}: fala de personagem sem contexto; abra com a ideia, no mundo de quem lê (MANUAL, 0.2)`);
+    if (PRONOME_SEM_DONO.test(t)) erros.push(`${onde}: começa com pronome sem dono ('${t.trim().split(/\s+/)[0]}'); quem chega frio não sabe de quem se fala`);
+  }
+  if (capa.tipo === "capa") {
+    const nt = palavras(semMarca(capa.titulo)), ns = palavras(semMarca(capa.sub));
+    if (nt > 12) erros.push(`capa com ${nt} palavras no título (máx. 12): uma ideia só, que se entenda sozinha`);
+    if (ns > 10) erros.push(`sub da capa com ${ns} palavras (máx. 10)`);
+    const t = `${semMarca(capa.titulo)} ${semMarca(capa.sub)}`;
+    if (NUMERO.test(semMarca(capa.titulo))) avisos.push("número na capa: o sentido dele está na própria frase? (molde K5; nunca um número da história do livro)");
+    if (!LEITOR.test(t)) avisos.push("a capa não toca o mundo de quem lê (você, seu cliente, o colega…): passa no teste do 'e eu com isso?'?");
+  }
+  const cena = (k.carrossel || [])[1];
+  if (cena?.tipo === "texto") {
+    const n = palavras(semMarca(cena.fala));
+    if (n > 26) erros.push(`slide 2 (a cena) com ${n} palavras (máx. 26): no máximo duas frases, que se entendam sozinhas`);
+    const frases = semMarca(cena.fala).split(/[.!?]+\s/).filter((x) => x.trim()).length;
+    if (frases > 2) avisos.push(`slide 2 com ${frases} frases: a cena cabe em duas`);
+    if (FALA.test(semMarca(cena.fala)) && !/(?<!\p{L})(?:psicólog|dentist|médic|advogad|nutricionist|fisioterapeut|professor|contador|arquitet|paciente|cliente|irmã|aluno)/iu.test(semMarca(cena.fala))) {
+      avisos.push("slide 2 traz uma fala: está dito quem falou e por quê?");
+    }
+  }
+}
+
 function palavrasFigura(f: unknown): number {
   if (typeof f === "string") return palavras(f);
   if (Array.isArray(f)) return f.reduce((a: number, x) => a + palavrasFigura(x), 0);
@@ -145,6 +184,7 @@ export function verificar(k: Dados, antivicios: string[]): Resultado {
     if (/\{[^}]*\}/.test(t)) erros.push(`${onde}: marcador não preenchido`);
   }
 
+  verificarAbertura(k, erros, avisos);
   if (livroNaLegenda > 2) avisos.push(`legenda cita o livro ${livroNaLegenda} vezes; basta uma, na última linha`);
   const termo = String(k.ficha?.conceito || "").split(":")[0].trim().toLowerCase();
   if (termo && termo.length > 3 && `${r.hook || ""} ${r.lead || ""}`.toLowerCase().includes(termo)) {
