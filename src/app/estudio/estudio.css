@@ -292,3 +292,18 @@
 .est .salvar .imgs { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 10px; width: 100%; margin-top: 6px; }
 .est .salvar .imgs img { width: 100%; height: auto; display: block; background: #1d2027; border-radius: 6px; box-shadow: 0 1px 0 var(--fio), 0 12px 24px -18px rgba(21, 20, 18, .5); -webkit-touch-callout: default; user-select: auto; }
 .est .salvar .fechar { margin-top: 8px; }
+
+/* ---------------------------------------------------------- teste do leitor frio */
+.est .leitor { margin-top: 16px; max-width: 900px; }
+.est .leitor summary { cursor: pointer; font-size: 16px; font-style: italic; color: var(--t3); list-style: none; }
+.est .leitor summary::-webkit-details-marker { display: none; }
+.est .leitor summary::after { content: " ↓"; font-style: normal; font-size: 12px; }
+.est .leitor[open] summary::after { content: " ↑"; }
+.est .leitor .telas { margin-top: 14px; border-top: 1px solid var(--fio); }
+.est .leitor .tela { display: grid; grid-template-columns: 150px 90px 1fr; gap: 16px; align-items: baseline; padding: 12px 0; border-bottom: 1px solid var(--fio); }
+.est .leitor .tela p { margin: 0; font-size: 16px; line-height: 1.45; color: var(--t2); }
+.est .leitor .tela p em { color: var(--acento); }
+.est .leitor .notas { font-family: var(--sans); font-size: 13px; font-weight: 600; color: var(--t2); letter-spacing: .02em; }
+.est .leitor .tela.rep .notas, .est .leitor .tela.rep .rot { color: var(--acento); }
+.est .leitor .legenda-notas { margin: 10px 0 0; font-size: 13px; font-style: italic; color: var(--t3); }
+@media (max-width: 720px) { .est .leitor .tela { grid-template-columns: 1fr auto; } .est .leitor .tela p { grid-column: 1 / -1; } }

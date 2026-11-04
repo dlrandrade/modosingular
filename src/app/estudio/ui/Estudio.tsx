@@ -30,6 +30,7 @@ const FRASES = [
   "desenhando a figura para o celular",
   "mostrando como ficaria na prática",
   "conferindo a voz, palavra por palavra",
+  "lendo como quem nunca ouviu falar de você",
   "deixando só o cerne",
 ];
 const FICHA: [string, string][] = [["ideia", "A ideia"], ["conceito", "O conceito"], ["cena", "A cena"], ["detalhe", "O detalhe"], ["figura", "A figura"], ["virada", "A virada"], ["aplicacao", "A aplicação"], ["exercicio", "O exercício"]];
@@ -421,6 +422,7 @@ function Kit({ kit, verif, ctx, salvo, mudar, voltar, outra }: {
             capítulo {kit.fonte?.cap} · {kit.fonte?.figura} · Reels de {kit.duracao} s · CTA de {NIVEIS[kit.cta_nivel] || kit.cta_nivel}
             {kit.gerado_em ? ` · escrito${kit.modelo ? ` por ${String(kit.modelo).replace(/^(openrouter|anthropic):/, "").replace(/:free$/, "")}` : ""}` : ""}
           </p>
+          {kit.leitura?.telas?.length > 0 && <LeitorFrio leitura={kit.leitura} />}
           {verif && verif.erros.length > 0 && (
             <p className="nota-ver">O verificador ainda aponta: {verif.erros.slice(0, 3).join("; ")}{verif.erros.length > 3 ? "…" : ""}</p>
           )}
@@ -608,5 +610,29 @@ function Instagram({ slides, ctx, nome, legenda, cache }: {
     <button className={`bt insta ${estado}`} data-emo="Instagram" onClick={enviar} aria-live="polite">
       {rotulo}
     </button>
+  );
+}
+
+// ------------------------------------------------------------------ o teste do leitor frio
+/* O que quem chega frio entendeu de cada tela da abertura, com as notas (MANUAL, 0.2). */
+const NOME_TELA: Record<string, string> = { gancho: "gancho do Reels", introducao: "introdução", capa: "capa", "slide 2": "slide 2", "slide 3": "slide 3" };
+function LeitorFrio({ leitura }: { leitura: Dados }) {
+  const telas = leitura.telas as Dados[];
+  return (
+    <details className="leitor">
+      <summary data-emo="abrir">
+        Teste do leitor frio: {leitura.aprovado ? "aprovado" : `reprovado em ${(leitura.reprovadas as string[]).map((t) => NOME_TELA[t] || t).join(", ")}`}
+      </summary>
+      <div className="telas">
+        {telas.map((t) => (
+          <div key={t.tela} className={`tela ${(leitura.reprovadas as string[]).includes(t.tela) ? "rep" : ""}`}>
+            <span className="rot">{NOME_TELA[t.tela] || t.tela}</span>
+            <span className="notas" title="compreensão · relevância · curiosidade">{t.compreensao} · {t.relevancia} · {t.curiosidade}</span>
+            <p>Entendeu: {t.entendi}{t.soltas?.length ? <em> Ficou solto: {t.soltas.join(", ")}.</em> : null}</p>
+          </div>
+        ))}
+        <p className="legenda-notas">notas de 0 a 10: compreensão · relevância · curiosidade</p>
+      </div>
+    </details>
   );
 }

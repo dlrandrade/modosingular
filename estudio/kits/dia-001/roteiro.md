@@ -5,10 +5,10 @@ Capítulo 9 · figura: Do que todos encontram ao que só você tem (camadas) · 
 ## Roteiro por etapa
 
 **GANCHO (hook) · quebra o padrão de rolagem**
-Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas.
+Uma fisioterapeuta listou tudo o que sabe. Qualquer aluno escreveria igual.
 
 **INTRODUÇÃO (lead) · segura a atenção até ~10 s**
-Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente.
+Dias depois, falou quinze minutos sobre um paciente. O que ela sabe de verdade não estava na lista. Nem no seu perfil.
 
 **DESENVOLVIMENTO 1 (body 1) · primeira informação de valor**
 A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório.
@@ -32,9 +32,9 @@ Antes de dormir, escreva a última decisão difícil que você tomou na sua áre
 
 ## Versão final para gravação
 
-Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas.
+Uma fisioterapeuta listou tudo o que sabe. Qualquer aluno escreveria igual.
 
-Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente.
+Dias depois, falou quinze minutos sobre um paciente. O que ela sabe de verdade não estava na lista. Nem no seu perfil.
 
 A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório.
 

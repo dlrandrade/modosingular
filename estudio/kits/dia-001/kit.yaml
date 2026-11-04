@@ -17,8 +17,8 @@ ficha:
 
 # Reels: Gancho → Introdução → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → Gancho de curiosidade → Desenvolvimento → CTA
 roteiro:
-  hook: "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas."
-  lead: "Um aluno do quarto período escreveria as mesmas. Dois dias depois, ao telefone, ela falou quinze minutos sobre um único paciente."
+  hook: "Uma fisioterapeuta listou tudo o que sabe. Qualquer aluno escreveria igual."
+  lead: "Dias depois, falou quinze minutos sobre um paciente. O que ela sabe de verdade não estava na lista. Nem no seu perfil."
   body1: "A lista tinha o que todo colega encontra em livro. A conversa tinha o que ela sabe por ter atendido muita gente, inclusive quem fugiu do manual. Isso é repertório."
   loop1: "Ele tem três camadas. A mais valiosa quase ninguém publica."
   body2: "Primeiro, o padrão: o que costuma acontecer, e em que ordem. Depois, a exceção: quando a regra falha, e por quais sinais."
@@ -28,8 +28,8 @@ roteiro:
 
 carrossel:
   - tipo: capa
-    titulo: "Onze linhas sobre coluna. Um aluno escreveria as *mesmas*."
-    sub: "A diferença entre estudar e ter repertório."
+    titulo: "O seu post mais técnico *qualquer colega* poderia ter escrito."
+    sub: "E onde está o que só você sabe."
   - tipo: texto
     rotulo: "A cena"
     fundo: areia
@@ -39,7 +39,7 @@ carrossel:
   - tipo: texto
     rotulo: "Dois dias depois"
     fala: "Ao telefone, falou quinze minutos sobre *um único paciente*."
-    apoio: "A irmã: “Isso aí não estava na sua lista.”"
+    apoio: "Nesses quinze minutos estava tudo o que a lista não tinha."
   - tipo: figura
     titulo: "O que você sabe vem em *cinco camadas*"
     figura:

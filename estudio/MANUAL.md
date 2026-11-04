@@ -41,6 +41,47 @@ Regras:
 | capítulo N, o método, o livro | (nada; o livro só no convite e na última linha da legenda) |
 | o singular / o comum | o que só você diria / o que todo mundo diz |
 
+## 0.2 A abertura: entender sozinha, importar, dar coceira
+
+A abertura é o gancho e a introdução do Reels, a capa e os slides 2 e 3 do carrossel. É onde quem chega frio decide se continua. **Cada tela da abertura passa por três testes, nesta ordem**, e só segue se tirar 8 ou mais nos três:
+
+1. **Teste da tela sozinha (compreensão).** Alguém que nunca viu o perfil lê só esta tela e consegue dizer, com as próprias palavras, do que ela fala. Nada solto: nenhum número, objeto, nome, fala ou pronome cujo sentido dependa de algo que ainda não apareceu.
+2. **Teste do "e eu com isso?" (relevância).** Em até duas frases, a pessoa reconhece o mundo dela: a profissão, os clientes, a rotina, o perfil, o post que não sai.
+3. **Teste da coceira (curiosidade).** A tela deixa uma pergunta que a pessoa quer ver respondida, de preferência **contraintuitiva**: contraria algo em que ela acredita, ou mostra um custo que ela não via. A pergunta é sobre a vida dela, nunca sobre a história do livro.
+
+**A ordem certa: a ideia antes da cena.** A capa diz o que está em jogo para quem lê, em palavras comuns. A cena (slide 2) é a prova, contada de modo que se entenda sozinha. O detalhe do livro (as onze linhas, as trinta e uma crenças, a frase da irmã) entra **dentro** da cena, com o contexto do lado, e nunca na capa nem no gancho.
+
+**Na capa e no gancho, nunca:**
+- personagem do livro pelo nome, nem fala de personagem;
+- número cujo sentido depende da história ("trinta e uma linhas", "onze linhas");
+- pronome sem dono ("ela", "isso", "esse") nem frase que só responde a uma pergunta que ninguém fez;
+- termo do livro ou conceito com nome ainda não mostrado;
+- duas ideias numa tela só.
+
+**Exemplo real reprovado (Dia 3, capítulo 2)** e a correção:
+
+| Tela | Reprovado | Por quê | Aprovado |
+|---|---|---|---|
+| Capa | "Trinta e uma linhas de crenças. A psicóloga perguntou: *quem disse que era um teste?*" / sub "O custo de deixar outro explicar no seu lugar." | Linhas de quê? Que psicóloga? Que teste? Três enigmas soltos e duas ideias; o leitor frio não entende nem se reconhece. | "Toda semana alguém explica a sua área para os seus clientes. *Quase nunca é você.*" / sub "E o que isso custa a quem fica calado." |
+| Slide 2 | "Uma paciente seguiu 21 dias de um protocolo de vídeo para ansiedade. No dia 22, o aperto voltou. Ela se culpou. A psicóloga perguntou: *quem disse que era um teste?*" | Quatro frases, quarenta palavras, e a pergunta final não se entende sem o livro. Não liga à capa. | "Uma psicóloga anotou, por duas semanas, as crenças que os pacientes traziam. *Dez* ela corrigia toda semana, sempre de porta fechada." |
+| Slide 3 | (uma virada que não liga à capa) | O leitor perde o fio. | "Enquanto isso, as mesmas dez dúvidas eram respondidas na internet. *Por outra pessoa.*" |
+
+Lido em sequência, cada passo responde parte da pergunta anterior e abre a seguinte: alguém explica a minha área → quem? → uma psicóloga que sabia as respostas e não dizia → então quem dizia? → outra pessoa, na internet.
+
+**Moldes de capa** (escolha um; varie ao longo da semana):
+
+| Molde | Forma | Exemplo |
+|---|---|---|
+| K1 Crença virada | [O que o leitor acha que funciona] [é o que atrapalha]. | "O seu post mais técnico é o que *qualquer colega* poderia ter escrito." |
+| K2 Custo invisível | [Hábito comum do leitor] [custa o que ele quer]. | "Cada dúvida que você só responde no consultório vira *post de outra pessoa*." |
+| K3 Quem ocupa o lugar | [Alguém faz algo no mundo do leitor]. [Quase nunca é ele]. | "Toda semana alguém explica a sua área para os seus clientes. *Quase nunca é você.*" |
+| K4 A pergunta que ele já se fez | Por que [problema dele] mesmo quando [esforço dele]? | "Por que o colega que sabe menos *parece saber mais* na internet?" |
+| K5 Número que se explica | [Número] + [o que ele mede, na mesma frase] + [o incômodo]. | "Os seus clientes chegam com as mesmas *dez dúvidas*. Você responde todas de porta fechada." |
+
+O **sub** completa o contexto ou diz o que vem ("E o que isso custa a quem fica calado."). Nunca abre um segundo enigma.
+
+**Como fazer o teste:** antes de entregar, escreva para cada tela da abertura (gancho, capa, slides 2 e 3) a frase "Quem chega frio entende: ___" e dê as três notas. Se a frase não sai, ou se alguma nota fica abaixo de 8, reescreva a tela. Na plataforma, depois de cada geração, o modelo faz esse teste no papel de leitor frio, o redator corrige o que reprovou, e o kit mostra as notas.
+
 ---
 
 ## 1. A ficha da pauta (8 decisões, nesta ordem)
@@ -100,24 +141,24 @@ Ritmo do teleprompter: 3 palavras por segundo.
 
 ### 2.2 Gancho (`hook`)
 
-Regras: no máximo 14 palavras; a primeira frase com no máximo 9; pelo menos um substantivo concreto (objeto, número, profissão); nada de cumprimento, apresentação, "Você sabia?", "Vou te contar", "Pare de", pergunta retórica genérica.
+Regras: no máximo 14 palavras; a primeira frase com no máximo 9; pelo menos um substantivo concreto (objeto, número, profissão); nada de cumprimento, apresentação, "Você sabia?", "Vou te contar", "Pare de", pergunta retórica genérica. **E os três testes da seção 0.2**: quem ouve só o gancho entende do que se trata, reconhece o próprio mundo e quer saber o resto. Número ou cena no gancho só com o sentido dentro da frase.
 
 Escolha **um** destes moldes (rodando ao longo da semana):
 
 | Molde | Forma | Exemplo |
 |---|---|---|
-| G1 Cena com número | [Profissional] [fez algo]. [Resultado com número]. | "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas." |
+| G1 Cena com número que se explica | [Profissional] [fez algo]. [Resultado com número e o que ele significa]. | "Uma fisioterapeuta listou tudo o que sabe sobre coluna. Deu onze linhas que qualquer aluno escreveria." |
 | G2 Detalhe improvável | [Objeto comum] decidiu [algo sério]. | "Um carrinho de supermercado mudou um diagnóstico de hérnia." |
-| G3 Frase ouvida | "[Frase dita no livro]." [Quem disse, em 3 palavras]. | "Isso aí não estava na sua lista. Foi o que a irmã disse." |
+| G3 Crença virada | [O que o espectador acha que funciona] [é o que atrapalha]. | "O seu post mais técnico é o que qualquer colega poderia ter escrito." |
 | G4 Conta que incomoda | [Número] [unidade] [fazendo algo] para [resultado pequeno]. | "Onze fins de semana editando para seis vídeos que ninguém lembrou." |
 | G5 Pergunta que o espectador responde de verdade | Quantas / Qual das [coisas da rotina dele] [critério]? | "Quantos dos seus últimos dez posts um colega poderia ter assinado?" |
 | G6 Erro com custo | [Profissional] perde [coisa concreta] toda vez que [hábito comum]. | "Uma psicóloga perde uma sessão inteira desfazendo um vídeo de quarenta segundos." |
 
-Errado: "Você já parou para pensar no seu posicionamento?" (genérico, sem objeto). "Não é sobre postar mais, é sobre postar melhor." (fórmula proibida).
+Errado: "Você já parou para pensar no seu posicionamento?" (genérico, sem objeto). "Não é sobre postar mais, é sobre postar melhor." (fórmula proibida). "Isso aí não estava na sua lista." (fala de personagem sem contexto: quem chega frio não sabe que lista, de quem). "Trinta e uma linhas de crenças." (número cujo sentido está no livro).
 
 ### 2.3 Introdução (`lead`)
 
-Regras: continua o gancho sem explicar; termina com uma tensão aberta; hook + lead ≤ 34 palavras.
+Regras: continua o gancho sem explicar tudo; termina com uma tensão aberta; hook + lead ≤ 34 palavras. **Até o fim da introdução, quem assiste já sabe o que está em jogo para ele** (o post, o cliente, o perfil): se o gancho foi uma cena, a introdução faz a ponte para a vida do espectador.
 
 | Molde | Forma | Exemplo |
 |---|---|---|
@@ -196,9 +237,9 @@ Regras gerais:
 
 | # | Tipo | Campos | Limites | Fonte | Regra |
 |---|---|---|---|---|---|
-| 1 | `capa` | `titulo`, `sub` | título 6–12 palavras; sub ≤ 9 | detalhe + ideia | O título é o detalhe concreto que provoca (G1/G2/G4 sem o verbo inicial). O sub diz do que se trata, em itálico natural. |
-| 2 | `texto` (a cena) | `rotulo: "A cena"`, `fala`, `tag`, `medio: true`, `fundo: areia` | fala ≤ 26 palavras | cena | Termina na emoção ou no detalhe. `tag` fixa: "Cena ilustrativa. [Quem] é uma personagem criada a partir de casos reais." |
-| 3 | `texto` (a virada) | `rotulo` (tempo ou contraste), `fala`, `apoio` | fala ≤ 12; apoio ≤ 16 | a segunda metade da cena | A frase que vira a chave da cena; o apoio é a fala de alguém ou o fato que confirma. |
+| 1 | `capa` | `titulo`, `sub` | título 6–12 palavras; sub ≤ 10 | ideia + o mundo do leitor | O título é a ideia do dia, contraintuitiva, no mundo de quem lê (moldes K1–K5 da seção 0.2), e passa nos três testes. Nunca o detalhe da cena, nunca personagem ou fala dele. O sub completa o contexto, sem abrir outro enigma. |
+| 2 | `texto` (a cena) | `rotulo: "A cena"`, `fala`, `tag`, `medio: true`, `fundo: areia` | fala ≤ 26 palavras, no máximo 2 frases | cena | A prova da capa, entendida sozinha: quem (profissão), o que fez, e o detalhe do livro com o sentido dele na mesma frase. Liga direto à capa. `tag` fixa: "Cena ilustrativa. [Quem] é uma personagem criada a partir de casos reais." |
+| 3 | `texto` (a virada) | `rotulo` (tempo ou contraste), `fala`, `apoio` | fala ≤ 14; apoio ≤ 16 | a segunda metade da cena | A consequência, em palavras comuns, que responde à pergunta do slide 2 e abre a do 4. Fala de personagem só com quem disse e por quê, na própria tela. |
 | 4 | `figura` | `titulo`, `figura: "LIVRO"`, `legenda` | título ≤ 8; legenda ≤ 24 | bloco `figura` | O título diz a **conclusão** da figura, não a descrição ("O que você sabe vem em *cinco camadas*", e não "Figura das camadas"). A legenda é a do livro, encurtada se preciso. É o slide do elemento primordial: siga a seção 3.2. |
 | 5 | `lista` (a leitura) | `rotulo`, `fala`, `itens` (3) | fala ≤ 8; cada item ≤ 22 | figura × cena | Cada item é um elemento da figura aplicado à cena. Os rótulos dos itens são os nomes dos elementos. |
 | 6 | `texto` (a ideia do dia) | `fala`, `fundo: escuro`, `grande: true` | ≤ 12 palavras | ficha.ideia | A frase final do body 3, sem rótulo. É o slide que as pessoas fotografam. |
@@ -319,6 +360,7 @@ Campos e limites:
 
 - [ ] A ficha tem os 8 campos, cada um com a fonte certa no capítulo.
 - [ ] O gancho usa um dos moldes G1–G6 e tem até 14 palavras; hook + lead ≤ 34.
+- [ ] A abertura (gancho, capa, slides 2 e 3) passou nos três testes da seção 0.2, com nota 8 ou mais em compreensão, relevância e curiosidade; cada tela se entende sozinha.
 - [ ] O body 1 usa o termo do bloco `conceito`.
 - [ ] Os dois ganchos de curiosidade são resolvidos pelo body seguinte.
 - [ ] O body 2 e o body 3 trazem elementos da figura; o body 3, o destacado.
