@@ -1,0 +1,55 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<style>
+@font-face{font-family:"IT";src:url("../../public/estudio/fontes/inter-tight-latin-wght-normal.woff2");font-weight:100 900}
+@font-face{font-family:"IT";font-style:italic;src:url("../../public/estudio/fontes/inter-tight-latin-wght-italic.woff2");font-weight:100 900}
+@font-face{font-family:"EBG";src:url("../../public/estudio/fontes/eb-garamond-latin-wght-normal.woff2");font-weight:400 800}
+@font-face{font-family:"EBG";font-style:italic;src:url("../../public/estudio/fontes/eb-garamond-latin-wght-italic.woff2");font-weight:400 800}
+html,body{margin:0;background:#0b0c0f;width:1080px;height:1920px;overflow:hidden}
+#s{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:0 112px;color:#eceef3}
+.l{overflow:hidden;padding:.08em 0 .16em;margin:-.08em 0 -.16em}
+.l>span{display:inline-block;white-space:nowrap;will-change:transform}
+.a{font:600 56px/1.15 "EBG",serif;font-style:italic;color:#a8afbd;letter-spacing:.005em}
+.b{font:800 88px/1.02 "IT",sans-serif;letter-spacing:-.03em;color:#d8b26a;margin-top:34px}
+.c{font:700 78px/1.08 "IT",sans-serif;letter-spacing:-.025em}
+.c i{font-family:"EBG",serif;font-weight:500;color:#d8b26a;letter-spacing:0}
+.q{font:700 92px/1.1 "IT",sans-serif;letter-spacing:-.028em}
+.q i{font-family:"EBG",serif;font-weight:500;color:#d8b26a;letter-spacing:0}
+#rule{position:absolute;left:112px;top:150px;height:2px;background:#d8b26a}
+#foot{position:absolute;left:112px;right:112px;bottom:64px;display:flex;justify-content:space-between;align-items:baseline;color:#6b7383}
+#foot .m{font:italic 400 26px "EBG",serif}
+#foot .c{font:500 19px "IT",sans-serif;letter-spacing:.08em}
+</style>
+<div id="rule"></div><div id="s"></div>
+<div id="foot"><span class="m">Modo Singular</span><span class="c">@DANIELLUZZ</span></div>
+<script>
+const E=x=>1-Math.pow(1-Math.min(1,Math.max(0,x)),4);
+// cena: início, fim, linhas [{cls,html,t0}]
+const S=[
+ {a:0,b:4.4,L:[{c:"a",h:"Se você posta e ninguém engaja:",t:.2},{c:"b",h:"falta opinião.",t:1.2}]},
+ {a:4.4,b:8.8,L:[{c:"a",h:"Se engajam mas ninguém compra:",t:.2},{c:"b",h:"falta posicionamento.",t:1.2}]},
+ {a:8.8,b:13.2,L:[{c:"a",h:"Se compram mas você odeia o cliente:",t:.2},{c:"b",h:"falta critério.",t:1.2}]},
+ {a:13.2,b:19,L:[{c:"c",h:"O seu feed não precisa",t:.2},{c:"c",h:"de mais um post",t:.5},{c:"c",h:"<i>seguro</i> que qualquer",t:.8},{c:"c",h:"colega assinaria embaixo.",t:1.1}]},
+ {a:19,b:24.5,L:[{c:"c",h:"Ele precisa sustentar",t:.2},{c:"c",h:"a <i>opinião</i> que te custa",t:.55},{c:"c",h:"alguma coisa.",t:.9}]},
+ {a:24.5,b:31,L:[{c:"c",h:"É essa <i>discordância</i>",t:.2},{c:"c",h:"pública que afasta",t:.5},{c:"c",h:"o curioso e atrai",t:.8},{c:"c",h:"quem paga pelo seu",t:1.1},{c:"c",h:"jeito de pensar.",t:1.4}]},
+ {a:31,b:38,L:[{c:"a",h:"Cobrir o nome e a foto",t:.2},{c:"a",h:"do seu último post:",t:.45},{c:"q",h:"alguém saberia<br>que é <i>seu</i>?",t:1.5}]},
+];
+const D=38,s=document.getElementById("s"),rule=document.getElementById("rule"),foot=document.getElementById("foot");
+S.forEach(sc=>{sc.els=sc.L.map(l=>{const d=document.createElement("div");d.className="l";d.innerHTML=`<span class="${l.c}">${l.h}</span>`;d.style.display="none";s.appendChild(d);return d})});
+function render(t){
+ rule.style.width=(856*t/D)+"px";
+ foot.style.opacity=E(t/1.2);
+ S.forEach(sc=>{
+  const on=t>=sc.a&&t<sc.b+0.01;
+  sc.els.forEach((d,i)=>{
+   d.style.display=on?"block":"none"; if(!on)return;
+   const l=sc.L[i],lt=t-sc.a-l.t,out=sc.b-t;
+   const inn=E(lt/.7), o=(sc.b>=D)?1:E(out/.35);
+   const sp=d.firstChild;
+   sp.style.transform=`translateY(${(1-inn)*110}%)`;
+   sp.style.opacity=o;
+   sp.style.filter=o<1?`blur(${(1-o)*10}px)`:"none";
+  });
+ });
+}
+window.render=render;window.D=D;
+</script></html>
