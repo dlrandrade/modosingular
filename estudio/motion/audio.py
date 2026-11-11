@@ -68,5 +68,5 @@ m = max(np.abs(L).max(), np.abs(R).max()); L, R = np.tanh(1.6 * L / m), np.tanh(
 pcm = (np.stack([L, R], 1) * 32767 * 0.95).astype("<i2")
 w = wave.open(sys.argv[2] + ".raw.wav", "wb"); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(pcm.tobytes()); w.close()
 import subprocess
-subprocess.run(["ffmpeg", "-y", "-i", sys.argv[2] + ".raw.wav", "-af", "loudnorm=I=-12:TP=-1.0:LRA=7,alimiter=limit=0.95", "-ar", "48000", sys.argv[2], "-loglevel", "error"], check=True)
+subprocess.run(["ffmpeg", "-y", "-i", sys.argv[2] + ".raw.wav", "-af", "loudnorm=I=-12:TP=-2.0:LRA=7,alimiter=limit=0.89", "-ar", "48000", sys.argv[2], "-loglevel", "error"], check=True)
 import os; os.remove(sys.argv[2] + ".raw.wav")

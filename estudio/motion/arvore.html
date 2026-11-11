@@ -1,0 +1,51 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<style>
+@font-face{font-family:"IT";src:url("../../public/estudio/fontes/inter-tight-latin-wght-normal.woff2");font-weight:100 900}
+@font-face{font-family:"EBG";font-style:italic;src:url("../../public/estudio/fontes/eb-garamond-latin-wght-italic.woff2");font-weight:400 800}
+html,body{margin:0;background:#0b0c0f;width:1080px;height:1920px;overflow:hidden}
+#fig{position:absolute;left:0;top:302px;width:1122px;height:1402px;transform-origin:0 0;transform:scale(.9626)}
+#fig .e{position:absolute;inset:0;background:url(arvore.png) 0 0/1122px 1402px no-repeat;visibility:hidden}
+#rule{position:absolute;left:112px;top:150px;height:2px;background:#d8b26a}
+#foot{position:absolute;left:112px;right:112px;bottom:64px;display:flex;justify-content:space-between;align-items:baseline;color:#6b7383}
+#foot .m{font:italic 400 26px "EBG",serif}
+#foot .c{font:500 19px "IT",sans-serif;letter-spacing:.08em}
+</style>
+<div id="rule"></div><div id="fig"></div>
+<div id="foot"><span class="m">Modo Singular</span><span class="c">@DANIELLUZZ</span></div>
+<script>
+// Caixas em coordenadas da imagem original (1122x1402). m: x = varredura esq→dir; yc = cresce do centro na vertical.
+const W=1122,H=1402,D=7;
+const EL=[
+ {n:"seu Reel",   b:[32,699,227,746],  t:[.2,.8],   m:"x", c:"c"},
+ {n:"traço 1",    b:[230,723,286,736], t:[.75,1],   m:"x", c:"a"},
+ {n:"tronco",     b:[280,352,296,1098],t:[.95,1.6], m:"yc",c:"a"},
+ {n:"quina poste",b:[283,337,319,359], t:[1.55,1.75],m:"x",c:"a"},
+ {n:"poste",      b:[321,316,452,368], t:[1.7,2.2], m:"x", c:"c"},
+ {n:"traço poste",b:[457,337,723,350], t:[2.15,2.7],m:"x", c:"a"},
+ {n:"bifurcação", b:[717,258,763,429], t:[2.65,3.05],m:"yc",c:"a"},
+ {n:"sem sucesso",b:[758,243,1065,278],t:[3,3.5],  m:"x", c:"c"},
+ {n:"sucesso",    b:[758,405,950,440], t:[3.2,3.65],m:"x", c:"c"},
+ {n:"quina deixe",b:[283,1092,319,1115],t:[3.5,3.7],m:"x", c:"a"},
+ {n:"deixe",      b:[321,1082,716,1124],t:[3.65,4.2],m:"x", c:"c"},
+ {n:"traço deixe",b:[719,1103,818,1116],t:[4.15,4.5],m:"x", c:"a"},
+ {n:"sem sucesso2",b:[819,1093,1066,1124],t:[4.45,5],m:"x", c:"b"},
+];
+const fig=document.getElementById("fig"),rule=document.getElementById("rule");
+EL.forEach(e=>{e.d=document.createElement("div");e.d.className="e";fig.appendChild(e.d)});
+const E=x=>1-Math.pow(1-Math.min(1,Math.max(0,x)),3);
+function render(t){
+ rule.style.width=(856*Math.min(1,t/D))+"px";
+ EL.forEach(e=>{
+  const p=E((t-e.t[0])/(e.t[1]-e.t[0])),[x0,y0,x1,y1]=e.b,s=e.d.style;
+  if(p<=0){s.visibility="hidden";return}
+  s.visibility="visible";
+  if(e.m==="x"){s.clipPath=`inset(${y0}px ${W-x0-(x1-x0)*p}px ${H-y1}px ${x0}px)`}
+  else{const c=(y0+y1)/2,h=(y1-y0)/2*p;s.clipPath=`inset(${c-h}px ${W-x1}px ${H-(c+h)}px ${x0}px)`}
+  s.opacity=e.c==="c"||e.c==="b"?Math.min(1,p*2.5):1;
+  s.transform=e.c==="c"||e.c==="b"?`translateX(${(1-p)*-18}px)`:"none";
+ });
+}
+// eventos de sincronia para o áudio (mesmo formato do motor de render)
+window.S=[{a:0,b:D,L:EL.map(e=>({c:e.c,t:e.t[0]+.12}))}];
+window.D=D;window.render=render;
+</script></html>
