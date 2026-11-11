@@ -19,4 +19,4 @@ ff.stdin.end(); await new Promise(r => ff.on('close', r)); await b.close();
 const here = path.dirname(new URL(import.meta.url).pathname);
 execFileSync('python3', ['-I', path.join(here, 'audio.py'), base + '.eventos.json', base + '.wav'], { stdio: 'inherit' });
 execFileSync('ffmpeg', ['-y','-i',mudo,'-i',base + '.wav','-c:v','copy','-c:a','aac','-b:a','256k','-shortest','-movflags','+faststart',out,'-loglevel','error'], { stdio: 'inherit' });
-fs.rmSync(mudo); fs.rmSync(base + '.eventos.json');
+fs.rmSync(mudo); fs.rmSync(base + '.eventos.json'); fs.rmSync(base + '.wav');
