@@ -1,0 +1,10 @@
+tipo: linha
+titulo: O vale entre o esforço e o retorno
+ilustrativo: true
+unidade: sem escala
+labels: ["mês 1", "mês 3", "mês 5", "mês 7", "mês 9", "mês 12"]
+x: [1, 3, 5, 7, 9, 12]
+series:
+  - {nome: "O esforço acumulado", pontos: [18, 46, 68, 80, 90, 100]}
+  - {nome: "O retorno que se vê", pontos: [6, 10, 20, 46, 76, 118], destaque: true}
+legenda: Nos primeiros meses, o esforço cresce e o retorno quase não aparece; é o período em que parar parece a decisão mais racional. O momento exato da virada muda de pessoa para pessoa.

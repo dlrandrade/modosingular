@@ -1,0 +1,8 @@
+tipo: barras
+titulo: Em vinte anos, a explicação ficou seis vezes menor
+unidade: Palavras no e-mail sobre contrato de autônomo
+series:
+  - {rotulo: "2003: cerca de 1.100 palavras", valor: 1100, nota: "Três páginas, com artigos de lei e um esquema. O cliente respondeu com mais perguntas."}
+  - {rotulo: "2012: cerca de 480", valor: 480, nota: "Os artigos de lei saíram. Entraram a frase de abertura e as perguntas sobre horário e uniforme."}
+  - {rotulo: "Hoje: cerca de 190", valor: 190, nota: "Quatro parágrafos, a frase de abertura e as perguntas na ordem certa."}
+legenda: Contagem do Otávio, no arquivo de e-mails do escritório. É o caso dele, e não uma regra.

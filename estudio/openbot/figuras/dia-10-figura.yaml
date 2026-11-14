@@ -1,0 +1,8 @@
+tipo: funil
+titulo: O que acontece quando o critério é público
+etapas:
+  - {rotulo: "A pessoa lê o seu critério", nota: "Sem conhecer você, sem indicação."}
+  - {rotulo: "Reconhece um bom raciocínio", nota: "Avalia o raciocínio."}
+  - {rotulo: "Reconhece-se ou se afasta", nota: "Os dois resultados são bons: o filtro acontece antes da primeira conversa."}
+  - {rotulo: "Chega concordando com a régua", nota: "A objeção já foi respondida."}
+  - {rotulo: "Aceita a condução do trabalho", nota: "Escolheu você pela régua."}

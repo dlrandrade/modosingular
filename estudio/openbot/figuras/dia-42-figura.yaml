@@ -1,0 +1,9 @@
+tipo: linha
+titulo: O que cada peça mostra e o que o conjunto faz
+ilustrativo: true
+unidade: sem escala; mostra só a lógica
+labels: ["mês 3", "mês 6", "mês 9", "mês 12", "mês 15", "mês 18"]
+series:
+  - {nome: "O que cada peça rende sozinha", pontos: [20, 24, 27, 30, 33, 36]}
+  - {nome: "A impressão que o conjunto deixa", pontos: [10, 24, 45, 70, 100, 135], destaque: true}
+legenda: Esquema ilustrativo, sem medição. Toda semana, você vê a linha tracejada, que sobe devagar. A segunda é a que traz clientes, e não aparece nos números de nenhuma peça.

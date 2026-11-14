@@ -1,0 +1,11 @@
+tipo: espectro
+titulo: Abaixo do piso, nenhuma duração compensa
+ilustrativo: true
+esquerda: Esquecido entre uma peça e outra
+direita: Acumula com folga
+marcas:
+  - {pos: 8, rotulo: "1 por mês"}
+  - {pos: 40, rotulo: "1 por semana", destaque: "PISO"}
+  - {pos: 64, rotulo: "2 por semana"}
+  - {pos: 90, rotulo: "3 ou mais"}
+legenda: Esquema ilustrativo, com frequências mantidas por um ano. Acima do piso, o que pesa é quanto tempo o ritmo dura.

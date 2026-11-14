@@ -1,0 +1,11 @@
+tipo: espectro
+titulo: Ter o que dizer rende mais do que qualquer edição
+ilustrativo: true
+esquerda: Rende pouco
+direita: Rende muito
+marcas:
+  - {pos: 8, rotulo: "Identidade visual"}
+  - {pos: 28, rotulo: "Edição elaborada"}
+  - {pos: 58, rotulo: "Áudio limpo"}
+  - {pos: 90, rotulo: "Ter o que dizer"}
+legenda: As posições são ilustrativas; a ordem é a tese deste capítulo.

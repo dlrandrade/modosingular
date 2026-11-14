@@ -1,0 +1,9 @@
+tipo: camadas
+titulo: Sem pensamento na base, nada se sustenta em cima
+camadas:
+  - {rotulo: "Acabamento", nota: "Edição, design, legenda, trilha. Melhora o que já existe."}
+  - {rotulo: "Formato", nota: "Vídeo, texto, áudio, carrossel. Decide como a ideia viaja."}
+  - {rotulo: "Clareza", nota: "A ideia cabe numa frase que alguém consegue repetir."}
+  - {rotulo: "Pensamento", nota: "Uma opinião, um critério, uma leitura própria do problema."}
+rotulo_base: A BASE
+legenda: Cada camada só funciona se a de baixo existir. Os vídeos do Caio tinham a camada de cima impecável e a de baixo vazia.

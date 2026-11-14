@@ -1,0 +1,8 @@
+tipo: funil
+titulo: O que a biblioteca faz enquanto você trabalha
+etapas:
+  - {rotulo: "Alguém tem o problema", nota: "E não sabe que você existe."}
+  - {rotulo: "Encontra uma peça antiga sua", nota: "Pelo link de alguém, ou procurando o problema."}
+  - {rotulo: "Lê outras em seguida", nota: "Porque encontrou raciocínio."}
+  - {rotulo: "Forma uma impressão", nota: "Antes de qualquer contato com você."}
+  - {rotulo: "Procura você", nota: "Com a decisão quase tomada."}

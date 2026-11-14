@@ -1,0 +1,11 @@
+tipo: barras
+titulo: De onde vieram as capturas de agosto da Renata
+unidade: áudios gravados no mês, por gatilho
+menor_melhor: false
+series:
+  - {rotulo: "Fim de atendimento, no corredor: 31", valor: 31, nota: "O mais frequente. Vinte segundos antes de chamar o próximo paciente."}
+  - {rotulo: "Volta para casa, no carro: 17", valor: 17, nota: "Na garagem, antes de descer do carro. Um pouco mais longos, e mais soltos."}
+  - {rotulo: "A segunda explicação: 9", valor: 9, nota: "Poucos, e os que mais davam peça."}
+  - {rotulo: "Surpresa: 6", valor: 6}
+  - {rotulo: "Incômodo: 2", valor: 2}
+legenda: Os números são da Renata, contados num único mês. O seu caderno vai mostrar outra distribuição, e é ela que decide os seus dois gatilhos.

@@ -1,0 +1,12 @@
+tipo: quadrante
+titulo: Onde mora a sua opinião
+ilustrativo: true
+eixoX: ["Todo mundo concorda", "Muita gente discorda"]
+eixoY: ["Abandona quando custa", "Sustenta mesmo pagando"]
+pontos:
+  - {x: 12, y: 14, rotulo: "Frase segura"}
+  - {x: 20, y: 36, rotulo: "Dica prática"}
+  - {x: 56, y: 36, rotulo: "Opinião morna"}
+  - {x: 94, y: 12, rotulo: "Polêmica gratuita"}
+  - {x: 80, y: 80, rotulo: "A sua posição", destaque: true}
+legenda: A divergência sozinha leva à polêmica gratuita, que chama atenção e se esgota. A posição que vale diverge e continua de pé quando cobra o preço.

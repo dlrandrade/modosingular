@@ -1,0 +1,10 @@
+tipo: ficha
+titulo: A ficha de léxico do Caio
+nome: "Léxico de Caio Tavares, arquiteto"
+linhas:
+  - {rotulo: "Palavras-âncora", valor: "Mentira, história, honesto. Aplicadas a coisas, como se paredes e pisos tivessem caráter."}
+  - {rotulo: "Comparações", valor: "Vêm de gente: a parede que mente, o piso que aguenta calado, o prédio que envelhece bem."}
+  - {rotulo: "Estrutura", valor: "Frases curtas, com pausa depois da afirmação. Nunca mais de uma ideia por frase."}
+  - {rotulo: "Ponto de entrada", valor: "Quando explica, começa por uma obra: “Teve uma obra…”. A conclusão vem no fim."}
+  - {rotulo: "Nunca diz (e escrevia)", valor: "“É fundamental”, “aquisição”, “solução”, “ambiente clean”: nenhuma aparece nos áudios; todas apareciam nas legendas."}
+legenda: A ficha do Caio foi montada a partir de três áudios reais que ele mandou a clientes, transcritos sem nenhuma correção. A sua sai do mesmo jeito, na oficina, a partir de três explicações reais no seu modo.

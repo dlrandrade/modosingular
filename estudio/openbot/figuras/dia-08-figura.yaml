@@ -1,0 +1,7 @@
+tipo: escada
+titulo: Os quatro tempos do caso-prova
+degraus:
+  - {rotulo: "A situação que parecia óbvia", nota: "Como qualquer um leria o caso. Alinha o leitor com o erro comum."}
+  - {rotulo: "O detalhe que não fechava", nota: "A coisa pequena que você notou. É aqui que a autoridade aparece."}
+  - {rotulo: "A decisão e o porquê", nota: "O que você fez de diferente. O porquê é o conteúdo; o quê é só o enredo."}
+  - {rotulo: "O que ensina a quem não é você", nota: "O critério que a pessoa leva, mesmo sem nunca procurar você."}

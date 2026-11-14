@@ -1,0 +1,11 @@
+tipo: quadrante
+titulo: Qual caso escolher
+ilustrativo: true
+eixoX: ["Raro", "Comum"]
+eixoY: ["Não mostra critério", "Mostra o seu critério"]
+pontos:
+  - {x: 14, y: 80, rotulo: "Impressiona e não aproxima"}
+  - {x: 16, y: 20, rotulo: "Vaidade"}
+  - {x: 84, y: 20, rotulo: "Banal"}
+  - {x: 82, y: 82, rotulo: "O caso certo", destaque: true}
+legenda: Esquema ilustrativo. Sem os adjetivos, o caso do senhor da cadeira de rodas mostra um critério que serve a poucos, e fica no alto, à esquerda. O da paciente das segundas mora no alto, à direita.

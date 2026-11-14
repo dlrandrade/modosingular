@@ -1,0 +1,7 @@
+tipo: fluxo
+titulo: Da sala para a peça, em quatro passos
+nos:
+  - {rotulo: "Isolar", nota: "Tirar o episódio do fluxo e descrevê-lo numa frase, sem interpretar."}
+  - {rotulo: "Despersonalizar", nota: "Retirar tudo o que identifica: nome, idade, profissão, bairro, data, a frase literal. O fato continua verdadeiro; a pessoa some."}
+  - {rotulo: "Generalizar", nota: "Encontrar do que aquele episódio é exemplo. Um caso é anedota; um caso que mostra um padrão é assunto."}
+  - {rotulo: "Devolver", nota: "Entregar o critério que quem lê pode usar sozinho, mesmo sem nunca procurar você."}

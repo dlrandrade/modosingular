@@ -1,0 +1,7 @@
+tipo: fluxo
+titulo: O que muda quando a distância diminui
+nos:
+  - {rotulo: "Alguém encontra você sem indicação", nota: "Por uma busca, por uma sugestão da plataforma, pelo compartilhamento de um cliente."}
+  - {rotulo: "Reconhece um jeito de pensar por trás do serviço", nota: "Percebe critério, opinião, uma forma própria de raciocinar sobre o problema."}
+  - {rotulo: "Volta outras vezes", nota: "A familiaridade se acumula mesmo sem contato direto."}
+  - {rotulo: "Chega até você já com confiança", nota: "Já sabe como você pensa antes da primeira conversa."}

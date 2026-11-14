@@ -1,0 +1,8 @@
+tipo: barras
+titulo: O que cada desenho pedia ao Otávio, por semana
+unidade: minutos por semana, anotados por ele
+destaque: 1
+series:
+  - {rotulo: "A peça como evento: 120 minutos seguidos", valor: 120, nota: "Um bloco na sexta à tarde. Funcionou de setembro a novembro e caiu duas vezes em dezembro."}
+  - {rotulo: "A peça como consequência: 40 a 50, em pedaços", valor: 45, nota: "Cinco minutos no fim de cada parecer e vinte na sexta. Publicou nas quatro semanas de janeiro."}
+legenda: Os números são do Otávio. O que decidiu a diferença foi menos a quantidade de minutos e mais o formato do tempo que cada desenho exigia.

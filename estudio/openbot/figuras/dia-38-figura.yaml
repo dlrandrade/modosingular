@@ -1,0 +1,9 @@
+tipo: camadas
+titulo: O que levar de uma peça que você admira
+camadas:
+  - {rotulo: "Voz", nota: "Léxico, bordão, tom, jeito de abrir e de fechar. É a digital de quem escreveu."}
+  - {rotulo: "Conteúdo", nota: "Os casos, os números e o repertório da outra pessoa. Vieram do consultório dela."}
+  - {rotulo: "Estrutura", nota: "A ordem das partes, o tipo de abertura, o lugar da virada. Não pertence a ninguém."}
+divisao: 2
+grupos: ["NÃO SE LEVA", "SE APRENDE E SE USA"]
+legenda: A camada que se leva é a que não aparece; por isso é preciso escrevê-la num cartão para vê-la.

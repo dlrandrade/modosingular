@@ -1,0 +1,10 @@
+tipo: linha
+titulo: Quanto dura um inventário de perguntas
+ilustrativo: true
+unidade: peças no estoque, partindo de 52; no eixo horizontal, semanas de publicação
+labels: ["0", "13", "26", "39", "52"]
+x: [0, 13, 26, 39, 52]
+series:
+  - {nome: "Só as 19 perguntas: acaba na semana 52", pontos: [52, 39, 26, 13, 0]}
+  - {nome: "Com o caderno de campo: sobram 26", pontos: [52, 45.5, 39, 32.5, 26], destaque: true}
+legenda: Esquema ilustrativo, feito só com aritmética. Catorze perguntas com três níveis e cinco com dois dão 52 peças, um ano a uma peça por semana. Se o caderno acrescenta uma pergunta nova a cada duas semanas, e cada uma rende ao menos uma peça, o estoque cai pela metade da velocidade.

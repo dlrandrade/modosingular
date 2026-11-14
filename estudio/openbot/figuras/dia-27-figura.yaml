@@ -1,0 +1,7 @@
+tipo: barras
+titulo: O custo de uma peça, conforme a origem
+unidade: minutos de trabalho por peça, medidos pela Lúcia
+series:
+  - {rotulo: "Partindo de uma crença anotada: 55 min", valor: 55, nota: "O detalhe já existe. O trabalho é converter."}
+  - {rotulo: "Criada do zero: 180 min, sem terminar", valor: 180, nota: "Três horas, e o texto não ficou pronto. Inventar contexto e exemplo custa mais, e sai genérico."}
+legenda: Os números são da Lúcia, e não uma regra. A sua cronometragem do capítulo 8 mostra os seus.
