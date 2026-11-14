@@ -1,0 +1,10 @@
+tipo: espectro
+titulo: Onde você estava, e onde está
+esquerda: Presença ausente ou emprestada
+direita: Presença com autoria
+marcas:
+  - {pos: 8, rotulo: "Silêncio"}
+  - {pos: 32, rotulo: "Voz alheia"}
+  - {pos: 62, rotulo: "Própria, instável"}
+  - {pos: 90, rotulo: "Sustentada", destaque: "AUTORIA"}
+legenda: Esquema ilustrativo. Marque a lápis, na linha, onde você estava no dia em que abriu este livro e onde está hoje. A distância entre as duas marcas é o seu resultado, e só você pode medi-la.

@@ -1,0 +1,9 @@
+tipo: barras
+titulo: Cada linha nova no manual encurtou a revisão
+unidade: minutos por peça, medidos por ele
+menor_melhor: true
+series:
+  - {rotulo: "Primeira semana: 4 minutos", valor: 4, nota: "O manual tinha seis linhas. A última frase voltou trocada."}
+  - {rotulo: "Terceira semana: 2 minutos", valor: 2, nota: "Sete linhas. A pergunta final voltou intacta; a legenda, não."}
+  - {rotulo: "Quarta semana em diante: pouco mais de 1 minuto", valor: 1.2, nota: "Nove linhas. A revisão virou conferência."}
+legenda: Os números são do Otávio. Cada frase fora do lugar virou uma linha nova no manual, e cada linha nova encurtou a revisão seguinte.

@@ -1,0 +1,8 @@
+tipo: funil
+titulo: Do desconhecido ao cliente, sem perder o rosto
+destaque: 0
+etapas:
+  - {rotulo: "Reconhecimento: isso tem nome?", nota: "Peças sobre o problema, com as palavras de quem o sente. É a camada que traz gente nova."}
+  - {rotulo: "Critério: como se decide isso?", nota: "A sua régua, do capítulo 18. É aqui que a preferência começa."}
+  - {rotulo: "Confiança: você entende disso?", nota: "O caso-prova, o padrão, a exceção, dos capítulos 9 e 15."}
+  - {rotulo: "Ação: quero falar com você", nota: "A menor camada. Um endereço e um jeito de marcar bastam."}

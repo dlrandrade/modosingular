@@ -1,0 +1,6 @@
+tipo: balanca
+titulo: O que pesa de verdade na decisão
+ilustrativo: true
+esquerda: {rotulo: "O desconforto de aparecer", peso: 40}
+direita: {rotulo: "Outro explicar no seu lugar", peso: 78}
+legenda: O desconforto é real e é seu. O custo de ceder a conversa recai sobre o seu público, e se renova a cada dúvida respondida por outra pessoa.

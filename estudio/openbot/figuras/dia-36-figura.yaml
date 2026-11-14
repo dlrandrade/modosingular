@@ -1,0 +1,8 @@
+tipo: barras
+titulo: O que cada formato custava ao Caio
+unidade: minutos por peça, medidos com relógio
+series:
+  - {rotulo: "Vídeo gravado até sair certo: 40", valor: 40, nota: "Passa no modo. Cai no pior mês."}
+  - {rotulo: "Texto de três parágrafos: 50", valor: 50, nota: "Passa no repertório. Cai no modo, e por isso também no pior mês: sem a obra na frente, ele rodeia o assunto."}
+  - {rotulo: "Foto da obra e cinco linhas: 12 a 15", valor: 14, nota: "Passa nos quatro testes."}
+legenda: Os números do vídeo e do texto são de abril a junho, anotados no caderno; os das cinco linhas, de julho a setembro. Os seus saem da cronometragem do capítulo 8.

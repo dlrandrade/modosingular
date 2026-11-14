@@ -1,0 +1,7 @@
+tipo: gap
+titulo: A distância que não aparece na agenda
+ilustrativo: true
+a: {rotulo: "Autoridade real", valor: 92, nota: "O que sabe quem já passou por você. Construída em anos de casos, erros e acertos."}
+b: {rotulo: "Autoridade percebida", valor: 24, nota: "O que sabe quem só viu o seu perfil. Construída por escolhas que você nunca fez de propósito."}
+rotulo_distancia: a assimetria
+legenda: Os tamanhos são ilustrativos. O autodiagnóstico deste capítulo dá uma estimativa da sua.

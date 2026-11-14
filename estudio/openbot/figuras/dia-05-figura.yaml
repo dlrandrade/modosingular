@@ -1,0 +1,9 @@
+tipo: barras
+titulo: O formato errado cobra antes de você começar
+ilustrativo: true
+unidade: quanto menor a barra, mais fácil sustentar
+series:
+  - {rotulo: "Formato que combina com você", valor: 18, nota: "Vira extensão do trabalho, porque você já pensava assim."}
+  - {rotulo: "Formato neutro", valor: 44, nota: "Funciona, mas exige preparo consciente a cada vez."}
+  - {rotulo: "Formato incompatível", valor: 87, nota: "Exige virar outra pessoa antes de começar. É aqui que a sequência quebra."}
+legenda: Os valores são ilustrativos. O seu quadro de atrito, na oficina, mostra onde está o custo no seu caso.

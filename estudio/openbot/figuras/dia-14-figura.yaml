@@ -1,0 +1,9 @@
+tipo: escada
+titulo: Os cinco degraus da distância
+degraus:
+  - {rotulo: "Desconhecido", nota: "Não sabe que você existe."}
+  - {rotulo: "Encontrado", nota: "Viu uma peça. Não guardou o nome."}
+  - {rotulo: "Reconhecido", nota: "Associa você a um assunto."}
+  - {rotulo: "Familiar", nota: "Sabe como você pensa. Aqui nasce a preferência."}
+  - {rotulo: "Procurado", nota: "A necessidade surge, e a escolha já está feita."}
+legenda: Cada degrau acontece na cabeça de quem lê. Os números mostram quantos viram; nenhum mostra quem já chegou ao quarto.

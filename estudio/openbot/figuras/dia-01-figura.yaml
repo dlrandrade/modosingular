@@ -1,0 +1,11 @@
+tipo: camadas
+titulo: Do que todos encontram ao que só você tem
+camadas:
+  - {rotulo: "Informação", nota: "O que a sua área sabe. Está nos livros e numa busca rápida."}
+  - {rotulo: "Aplicação", nota: "Como se faz na prática. Está nos cursos e nos protocolos."}
+  - {rotulo: "Padrão", nota: "O que costuma acontecer, e em que ordem. Só o volume ensina."}
+  - {rotulo: "Exceção", nota: "Quando a regra falha, e por quais sinais. Só os casos difíceis ensinam."}
+  - {rotulo: "Critério", nota: "Como você decide entre duas saídas defensáveis. É o que há de mais seu."}
+divisao: 2
+grupos: ["NOS LIVROS E NOS CURSOS", "O QUE SÓ A PRÁTICA DÁ"]
+legenda: As duas camadas de cima são iguais em todo mundo que estudou. A diferença entre especialistas está nas três de baixo.

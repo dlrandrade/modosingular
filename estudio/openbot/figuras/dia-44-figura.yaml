@@ -1,0 +1,11 @@
+tipo: barras
+titulo: As últimas dez peças da Renata, por camada
+unidade: número de peças, contadas por ela em setembro
+menor_melhor: false
+destaque: 3
+series:
+  - {rotulo: "Confiança: 5", valor: 5, nota: "Casos que só faziam sentido para quem já estava em tratamento."}
+  - {rotulo: "Critério: 3", valor: 3}
+  - {rotulo: "Ação: 1", valor: 1, nota: "A lista de tratamentos com o horário."}
+  - {rotulo: "Reconhecimento: 1", valor: 1, nota: "A única que falava com quem ainda não a conhecia."}
+legenda: A contagem é da Renata, feita pelo corpo de cada peça. O funil dela estava de cabeça para baixo: a camada maior era a que serve a quem já está dentro.

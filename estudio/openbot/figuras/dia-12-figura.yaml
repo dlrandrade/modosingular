@@ -1,0 +1,8 @@
+tipo: camadas
+titulo: A ordem em que o sistema cresce
+camadas:
+  - {rotulo: "Formatos novos", nota: "Experimentos, quando o resto está firme. Nunca no lugar da base."}
+  - {rotulo: "Variações", nota: "A mesma matéria-prima em outra forma, depois das trinta repetições."}
+  - {rotulo: "Formato-base", nota: "Toda semana, do mesmo jeito. Nas primeiras trinta vezes, é só ele."}
+  - {rotulo: "Captura e seleção", nota: "Caderno de campo, cap. 19. Nunca para."}
+legenda: O sistema cresce de baixo para cima. Uma camada nova só entra quando a de baixo se sustenta sozinha.

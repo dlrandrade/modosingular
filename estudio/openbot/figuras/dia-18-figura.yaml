@@ -1,0 +1,12 @@
+tipo: linha
+titulo: Por que a sequência quebra num dia comum
+ilustrativo: true
+labels: ["D1", "D5", "D10", "D15", "D20", "D23", "D30"]
+x: [1, 5, 10, 15, 20, 23, 30]
+series:
+  - {nome: "Energia disponível", pontos: [95, 85, 76, 68, 60, 54, 46], destaque: true}
+  - {nome: "Custo do formato incompatível", pontos: [38, 40, 43, 46, 50, 54, 60]}
+  - {nome: "Custo do formato compatível", pontos: [18, 17, 16, 15, 15, 14, 14]}
+marcas:
+  - {em: 23, rotulo: "as linhas se cruzam"}
+legenda: Esquema ilustrativo, com o eixo proporcional aos dias.

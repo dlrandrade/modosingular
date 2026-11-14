@@ -1,0 +1,8 @@
+tipo: fluxo
+titulo: A terceirização na ordem certa
+ciclico: true
+nos:
+  - {rotulo: "Você descobre a sua linguagem", nota: "As fases II e III deste livro. Não delegável."}
+  - {rotulo: "Você produz a matéria-prima", nota: "Áudio de três minutos, nota de voz, rascunho torto."}
+  - {rotulo: "O terceiro organiza e formata", nota: "Corta, diagrama, legenda, agenda."}
+  - {rotulo: "Você revisa contra a sua voz", nota: "Eu falaria assim? É a única pergunta."}

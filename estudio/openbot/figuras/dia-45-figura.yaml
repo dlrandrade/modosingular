@@ -1,0 +1,8 @@
+tipo: camadas
+titulo: O painel mensal, com a base no que importa
+camadas:
+  - {rotulo: "4. Alcance novo", nota: "Das peças de reconhecimento. Para saber se ainda entra gente nova; nunca para reagir."}
+  - {rotulo: "3. Dúvidas reais", nota: "Mensagens do seu público contando um problema. A confiança se formando."}
+  - {rotulo: "2. Salvamentos e envios", nota: "Utilidade e recomendação. O melhor sinal do que vem depois."}
+  - {rotulo: "1. Citações", nota: "Clientes que citaram uma peça. O único número que liga publicar e trabalhar; só existe se alguém perguntar."}
+legenda: A base, as citações, é o número que importa. Os dois do meio antecipam a base; o do topo só vigia a entrada. Curtidas e seguidores ficam de fora.

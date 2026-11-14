@@ -1,0 +1,10 @@
+tipo: matriz
+titulo: Afinidade entre modo e formato
+colunas: ["Vídeo falado", "Carrossel", "Texto longo", "Respostas", "Conversa gravada", "Vídeo de caso"]
+linhas:
+  - {rotulo: "Oral", celulas: [2, 0, 0, 1, 2, 2]}
+  - {rotulo: "Escrito", celulas: [0, 2, 2, 1, 0, 1]}
+  - {rotulo: "Dialógico", celulas: [1, 1, 1, 2, 2, 0]}
+  - {rotulo: "Narrativo", celulas: [2, 1, 2, 0, 1, 2]}
+ilustrativo: true
+legenda: Na coluna Respostas, respostas escritas ou gravadas a perguntas do público. Uma leitura aproximada, para orientar os primeiros testes. O seu caderno de campo vai confirmar ou corrigir a sua linha.

@@ -1,0 +1,11 @@
+tipo: linha
+titulo: Quem continua passa quem começou forte
+ilustrativo: true
+unidade: peças publicadas, acumuladas desde janeiro
+labels: ["M1", "M3", "M6", "M9", "M12"]
+x: [1, 3, 6, 9, 12]
+series:
+  - {nome: "5 por semana, parou no 1º mês: 20", pontos: [20, 20, 20, 20, 20]}
+  - {nome: "3 por semana, parou no 3º mês: 39", pontos: [13, 39, 39, 39, 39]}
+  - {nome: "2 por semana, o ano todo: 104", pontos: [9, 26, 52, 78, 104], destaque: true}
+legenda: Esquema ilustrativo, feito só com aritmética. A presença de um ano é a soma do que foi publicado enquanto a linha continuou subindo.
