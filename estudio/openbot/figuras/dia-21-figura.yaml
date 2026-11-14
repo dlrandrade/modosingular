@@ -1,0 +1,7 @@
+tipo: area
+titulo: O que vinte segundos por dia acumulam
+ilustrativo: true
+labels: ["Semana 1", "Semana 4", "Semana 8", "Semana 12"]
+pontos: [14, 32, 55, 78]
+unidade: anotações acumuladas no caderno
+legenda: Esquema ilustrativo de um estoque que cresce com vinte segundos de cada vez. Com algumas semanas de caderno, o problema pode deixar de ser falta de ideia.

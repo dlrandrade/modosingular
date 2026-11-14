@@ -1,0 +1,6 @@
+tipo: balanca
+titulo: A indignação começa a peça; o repertório a sustenta
+ilustrativo: true
+esquerda: {rotulo: "Indignação", peso: 30}
+direita: {rotulo: "Repertório e substituição", peso: 85}
+legenda: Esquema ilustrativo. A indignação pode ser o ponto de partida. O que segura a peça em pé é o que você viu na prática e o que propõe no lugar.

@@ -1,0 +1,6 @@
+tipo: escada
+titulo: Quanto mais alto o degrau, mais o contraponto fala de você
+degraus:
+  - {rotulo: "Contra uma prática", nota: "Um hábito comum da área. Risco baixo; bom para começar."}
+  - {rotulo: "Contra uma crença", nota: "Uma ideia que quase ninguém questiona. Risco maior; é onde a posição aparece."}
+  - {rotulo: "Contra si mesmo", nota: "Algo que você defendia e mudou. Prova raciocínio e cria menos inimigos."}

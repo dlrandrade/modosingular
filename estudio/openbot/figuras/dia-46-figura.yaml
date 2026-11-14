@@ -1,0 +1,10 @@
+tipo: espectro
+titulo: Com que frequência olhar os números
+esquerda: Reage a ruído
+direita: Corrige tarde demais
+marcas:
+  - {pos: 6, rotulo: "Todo dia"}
+  - {pos: 30, rotulo: "Toda semana"}
+  - {pos: 60, rotulo: "Todo mês: o equilíbrio", destaque: " "}
+  - {pos: 92, rotulo: "A cada trimestre"}
+legenda: Esquema ilustrativo. Olhar demais produz decisões nervosas; olhar de menos, decisões atrasadas.

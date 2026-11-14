@@ -1,0 +1,8 @@
+tipo: fluxo
+titulo: O caminho de uma peça, com o rosto preservado
+ciclico: true
+nos:
+  - {rotulo: "Renata grava no carro", nota: "Ideia, opinião, fala e critério. E diz, no fim, qual é a ideia da peça."}
+  - {rotulo: "Bianca transcreve e corta", nota: "Tira repetições e hesitações. Não troca nenhuma palavra."}
+  - {rotulo: "Bianca formata e agenda", nota: "Arte, legenda, horário. Aqui o volume pode crescer."}
+  - {rotulo: "Renata revisa, lendo inteiro", nota: "Com o manual de voz ao lado. Primeira pergunta: eu diria isto assim, a um paciente?"}

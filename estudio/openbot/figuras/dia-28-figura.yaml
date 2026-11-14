@@ -1,0 +1,7 @@
+tipo: gap
+titulo: A mesma resposta, avaliada por quem a dá e por quem a ouve
+ilustrativo: true
+a: {rotulo: "Para quem nunca ouviu a explicação", valor: 88, nota: "“Ninguém tinha me explicado desse jeito.”"}
+b: {rotulo: "Para quem responde há anos", valor: 22, nota: "“Isso é básico. Todo mundo sabe.”"}
+rotulo_distancia: o valor que você não vê
+legenda: Esquema ilustrativo. O descompasso entre as duas avaliações é o que mantém fora da internet a explicação mais útil que um especialista tem.

@@ -1,0 +1,9 @@
+tipo: linha
+titulo: Com a voz preservada, o volume não apaga a diferença
+ilustrativo: true
+unidade: diferença percebida entre você e os colegas
+labels: ["2/sem.", "4/sem.", "6/sem.", "10/sem."]
+series:
+  - {nome: "Com as quatro etapas preservadas", pontos: [72, 74, 74, 75], destaque: true}
+  - {nome: "Com a voz passada adiante", pontos: [58, 48, 36, 24]}
+legenda: Esquema ilustrativo, sem medição; mostra a lógica do capítulo, e não um dado.

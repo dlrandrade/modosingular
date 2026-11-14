@@ -1,0 +1,7 @@
+tipo: fluxo
+titulo: Três momentos, três custos
+ciclico: true
+nos:
+  - {rotulo: "Capturar: todo dia, em segundos", nota: "Sem julgar e sem organizar. Custa tão pouco que sobrevive ao pior dia."}
+  - {rotulo: "Selecionar: uma vez por semana, dez minutos", nota: "Só a captura da semana. Agora se julga, se escolhe e se anota a data em que cada uma pode sair."}
+  - {rotulo: "Produzir: no seu ritmo e no seu modo", nota: "Com a matéria-prima escolhida. Nenhuma busca, nenhuma tela vazia."}
