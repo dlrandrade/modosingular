@@ -10,7 +10,7 @@ const b = await chromium.launch(); const p = await b.newPage({ viewport: { width
 await p.goto('file://' + html); await p.evaluate(() => document.fonts.ready); await p.waitForTimeout(300);
 const D = await p.evaluate(() => window.D), N = Math.round(D * FPS);
 // eventos de sincronia: cada linha entra em a+t; cada cena termina em b
-const ev = await p.evaluate(() => ({ D: window.D, cenas: window.S.map(sc => ({ a: sc.a, b: sc.b, linhas: sc.L.map(l => ({ t: sc.a + l.t, c: l.c })) })) }));
+const ev = await p.evaluate(() => ({ D: window.D, cenas: window.S.map(sc => ({ a: sc.a, b: sc.b, linhas: sc.L.map(l => ({ t: sc.a + l.t, c: l.c, d: l.d })) })) }));
 fs.writeFileSync(base + '.eventos.json', JSON.stringify(ev));
 const mudo = base + '.mudo.mp4';
 const ff = spawn('ffmpeg', ['-y','-f','image2pipe','-framerate',String(FPS),'-i','-','-c:v','libx264','-pix_fmt','yuv420p','-crf','16','-movflags','+faststart',mudo,'-loglevel','error'], { stdio: ['pipe','inherit','inherit'] });

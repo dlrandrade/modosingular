@@ -55,6 +55,8 @@ for ci, sc in enumerate(ev["cenas"]):
         c = ln["c"]
         if c == "a":    # linha de apoio: tique leve
             put(whoosh(0.28), T - 0.05, 0.35, pan); put(click(), T + 0.1, 0.5, pan); put(blip(1900), T + 0.1, 0.18, pan)
+        elif c == "w":  # barra crescendo: whoosh longo acompanhando o movimento
+            put(whoosh(ln.get("d", 0.8) + 0.1), T, 0.7, pan)
         elif c == "c":  # linha de texto: whoosh + impacto médio
             put(whoosh(0.34), T - 0.1, 0.55, pan); put(thud(170, 62, 0.45, 0.12), T + 0.1, 0.85); put(click(), T + 0.1, 0.5, pan)
         else:           # veredito / pergunta: boom grave
@@ -68,5 +70,5 @@ m = max(np.abs(L).max(), np.abs(R).max()); L, R = np.tanh(1.6 * L / m), np.tanh(
 pcm = (np.stack([L, R], 1) * 32767 * 0.95).astype("<i2")
 w = wave.open(sys.argv[2] + ".raw.wav", "wb"); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(pcm.tobytes()); w.close()
 import subprocess
-subprocess.run(["ffmpeg", "-y", "-i", sys.argv[2] + ".raw.wav", "-af", "loudnorm=I=-12:TP=-2.0:LRA=7,alimiter=limit=0.89", "-ar", "48000", sys.argv[2], "-loglevel", "error"], check=True)
+subprocess.run(["ffmpeg", "-y", "-i", sys.argv[2] + ".raw.wav", "-af", "loudnorm=I=-12:TP=-3.0:LRA=7,alimiter=limit=0.84", "-ar", "48000", sys.argv[2], "-loglevel", "error"], check=True)
 import os; os.remove(sys.argv[2] + ".raw.wav")
