@@ -54,8 +54,10 @@ el(svg,"path",{d:arco(700,840,820,GY,70),fill:"none",stroke:INK,"stroke-width":4
 // rótulos nas portas
 function rot(x,y,linhas,cor,fs){const t=el(svg,"text",{x,y,"text-anchor":"middle",fill:cor,"font-family":"IT","font-weight":800,"font-size":fs,"letter-spacing":"-0.5"});
  linhas.forEach((l,i)=>{const s=el(t,"tspan",{x,dy:i?fs*1.12:0});s.textContent=l})}
-rot(290,515,["TER UMA","OPINIÃO"],GOLD,46);
-rot(774,515,["DESCOBRIR O","NOVO ALGORITMO","DE 2027"],RED,38);
+// textos vindos da URL: ?e=LINHA1|LINHA2&d=LINHA1|LINHA2&fs=38  (padrão abaixo)
+const Q=new URLSearchParams(location.search),FS=+(Q.get("fs")||38);
+rot(290,515,(Q.get("e")||"TER UMA|OPINIÃO").split("|"),GOLD,FS);
+rot(774,515,(Q.get("d")||"DESCOBRIR O|NOVO ALGORITMO|DE 2027").split("|"),RED,FS);
 // homem sozinho na porta da esquerda
 costas(svg,290,GY+80,340);
 // multidão: fileiras de trás para frente, em cúpula, só no lado direito
