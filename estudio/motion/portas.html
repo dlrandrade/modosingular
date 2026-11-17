@@ -1,0 +1,66 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<style>
+@font-face{font-family:"IT";src:url("../../public/estudio/fontes/inter-tight-latin-wght-normal.woff2");font-weight:100 900}
+@font-face{font-family:"EBG";font-style:italic;src:url("../../public/estudio/fontes/eb-garamond-latin-wght-italic.woff2");font-weight:400 800}
+html,body{margin:0;background:#0b0c0f;width:1080px;height:1920px;overflow:hidden}
+svg{position:absolute;inset:0}
+#foot{position:absolute;left:112px;right:112px;bottom:64px;display:flex;justify-content:space-between;align-items:baseline;color:#6b7383}
+#foot .m{font:italic 400 26px "EBG",serif}#foot .c{font:500 19px "IT",sans-serif;letter-spacing:.08em}
+</style>
+<svg id="s" width="1080" height="1920" viewBox="0 0 1080 1920"></svg>
+<div id="foot"><span class="m">Modo Singular</span><span class="c">@DANIELLUZZ</span></div>
+<script>
+const BG="#0b0c0f",INK="#eceef3",GOLD="#d8b26a",RED="#d4655e",NS="http://www.w3.org/2000/svg";
+const svg=document.getElementById("s");
+let seed=11;const rnd=()=>(seed=(seed*16807)%2147483647)/2147483647;
+function el(p,t,a){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p.appendChild(e);return e}
+function rr(p,x,y,w,h,r,sw){return el(p,"rect",{x,y,width:w,height:h,rx:r,ry:r,fill:BG,stroke:INK,"stroke-width":sw,"stroke-linejoin":"round"})}
+// figura de perfil, olhando para a esquerda
+function perfil(p,x,gy,h){
+ const sw=Math.max(2.2,h/105),g=el(p,"g",{});
+ rr(g,x-.02*h,gy-.43*h,.115*h,.41*h,.05*h,sw);      // perna de trás
+ rr(g,x-.115*h,gy-.43*h,.115*h,.41*h,.05*h,sw);     // perna da frente
+ rr(g,x-.215*h,gy-.075*h,.2*h,.06*h,.03*h,sw);       // pé da frente
+ rr(g,x-.12*h,gy-.075*h,.2*h,.06*h,.03*h,sw);        // pé de trás
+ rr(g,x-.17*h,gy-.77*h,.34*h,.4*h,.13*h,sw);         // tronco
+ rr(g,x-.125*h,gy-.7*h,.1*h,.3*h,.05*h,sw);         // braço
+ el(g,"ellipse",{cx:x-.02*h,cy:gy-.865*h,rx:.1*h,ry:.115*h,fill:BG,stroke:INK,"stroke-width":sw});
+ el(g,"path",{d:`M${x+.01*h} ${gy-.88*h} q.03 ${.03*h} 0 ${.06*h}`,fill:"none",stroke:INK,"stroke-width":sw*.8,"stroke-linecap":"round"});
+}
+// figura de costas, com maleta
+function costas(p,x,gy,h){
+ const sw=3.4,g=el(p,"g",{});
+ rr(g,x-.15*h,gy-.43*h,.12*h,.4*h,.05*h,sw);rr(g,x+.03*h,gy-.43*h,.12*h,.4*h,.05*h,sw);
+ el(g,"ellipse",{cx:x-.09*h,cy:gy-.02*h,rx:.085*h,ry:.035*h,fill:BG,stroke:INK,"stroke-width":sw});
+ el(g,"ellipse",{cx:x+.09*h,cy:gy-.02*h,rx:.085*h,ry:.035*h,fill:BG,stroke:INK,"stroke-width":sw});
+ rr(g,x-.22*h,gy-.78*h,.44*h,.4*h,.15*h,sw);
+ rr(g,x-.27*h,gy-.74*h,.1*h,.34*h,.05*h,sw);rr(g,x+.17*h,gy-.74*h,.1*h,.34*h,.05*h,sw);
+ rr(g,x+.19*h,gy-.43*h,.2*h,.15*h,.02*h,sw);       // maleta
+ el(g,"path",{d:`M${x+.25*h} ${gy-.43*h} v-.04h h.08h v.04h`.replace(/h/g,"h"),fill:"none",stroke:INK,"stroke-width":sw});
+ el(g,"ellipse",{cx:x,cy:gy-.88*h,rx:.1*h,ry:.115*h,fill:BG,stroke:INK,"stroke-width":sw});
+ el(g,"circle",{cx:x-.105*h,cy:gy-.87*h,r:.025*h,fill:BG,stroke:INK,"stroke-width":sw*.8});
+ el(g,"circle",{cx:x+.105*h,cy:gy-.87*h,r:.025*h,fill:BG,stroke:INK,"stroke-width":sw*.8});
+}
+const GY=1220;                       // linha do chão
+// chão
+el(svg,"path",{d:`M0 ${GY} H1080`,stroke:INK,"stroke-width":4,fill:"none"});
+// porta da esquerda (ouro): arco interno e contorno
+const arco=(x0,x1,y0,y1,r)=>`M${x0} ${y1} V${y0+r} Q${x0} ${y0} ${x0+r} ${y0} H${x1-r} Q${x1} ${y0} ${x1} ${y0+r} V${y1}`;
+el(svg,"path",{d:arco(112,468,430,GY,80),fill:"none",stroke:GOLD,"stroke-width":5,"stroke-linecap":"round"});
+el(svg,"path",{d:arco(200,380,690,GY,90),fill:"none",stroke:INK,"stroke-width":4});
+// porta da direita (vermelho) + arco interno
+el(svg,"path",{d:arco(580,968,430,GY,80),fill:"none",stroke:RED,"stroke-width":5,"stroke-linecap":"round"});
+el(svg,"path",{d:arco(700,840,820,GY,70),fill:"none",stroke:INK,"stroke-width":4});
+// rótulos nas portas
+function rot(x,y,linhas,cor,fs){const t=el(svg,"text",{x,y,"text-anchor":"middle",fill:cor,"font-family":"IT","font-weight":800,"font-size":fs,"letter-spacing":"-0.5"});
+ linhas.forEach((l,i)=>{const s=el(t,"tspan",{x,dy:i?fs*1.12:0});s.textContent=l})}
+rot(290,515,["TER UMA","OPINIÃO"],GOLD,46);
+rot(774,515,["DESCOBRIR O","NOVO ALGORITMO","DE 2027"],RED,38);
+// homem sozinho na porta da esquerda
+costas(svg,290,GY+80,340);
+// multidão: fileiras de trás para frente, em cúpula, só no lado direito
+for(let k=0;k<9;k++){
+ const h=170+k*21,gy=GY-150+k*60,sp=h*.37,xs=700-k*9+(k%2?sp/2:0);
+ for(let x=xs;x<1170;x+=sp){perfil(svg,x+(rnd()-.5)*sp*.16,gy+(rnd()-.5)*8,h*(.97+rnd()*.06))}
+}
+</script></html>
